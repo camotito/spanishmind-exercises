@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ausencia de Artículo · SpanishMind</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#faf7f2; --card:#ffffff; --accent:#b85c38; --accent2:#e8c4a0; --text:#2a1f14; --muted:#8a7a6a; --ok:#3a7d44; --err:#c0392b; --border:#e0d6c8; }
+    *,*::before,*::after { box-sizing:border-box; margin:0; padding:0; }
+    body { background:var(--bg); color:var(--text); font-family:'DM Sans',sans-serif; font-weight:300; min-height:100vh; padding:2rem 1rem 4rem; }
+    header { text-align:center; margin-bottom:2rem; }
+    .brand { font-family:'Playfair Display',serif; font-size:0.85rem; letter-spacing:0.25em; text-transform:uppercase; color:var(--accent); margin-bottom:0.5rem; }
+    h1 { font-family:'Playfair Display',serif; font-size:clamp(1.8rem,5vw,2.8rem); font-weight:700; line-height:1.1; }
+    .subtitle { margin-top:0.5rem; color:var(--muted); font-size:0.95rem; }
+    .section-title { font-family:'Playfair Display',serif; font-style:italic; color:var(--muted); font-size:0.95rem; text-align:center; max-width:640px; margin:1.5rem auto 0.75rem; }
+    .card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:2rem; max-width:640px; margin:0 auto 1.5rem; box-shadow:0 2px 12px rgba(0,0,0,0.04); }
+    .btn-row { display:flex; gap:0.75rem; justify-content:center; max-width:640px; margin:0 auto 1.5rem; flex-wrap:wrap; }
+    button { font-family:'DM Sans',sans-serif; font-size:0.9rem; font-weight:500; padding:0.65rem 1.4rem; border-radius:6px; border:none; cursor:pointer; transition:opacity 0.15s,transform 0.1s; }
+    button:active { transform:scale(0.97); }
+    .btn-check { background:var(--accent); color:#fff; }
+    .btn-reset { background:transparent; border:1px solid var(--border); color:var(--muted); }
+    .btn-reveal { background:transparent; border:1px solid var(--accent2); color:var(--accent); }
+    .score-box { display:none; text-align:center; padding:0.75rem 1rem; border-radius:8px; font-size:0.95rem; max-width:640px; margin:0 auto 1.5rem; background:var(--accent2); color:var(--text); }
+    .mc-item { padding:1rem 0; border-bottom:1px solid var(--border); }
+    .mc-item:last-child { border-bottom:none; }
+    .mc-q { font-size:1rem; line-height:1.6; margin-bottom:0.5rem; }
+    .mc-q .mc-num { font-family:'Playfair Display',serif; font-style:italic; color:var(--accent); margin-right:0.3rem; }
+    .mc-note { font-size:0.75rem; color:var(--muted); font-style:italic; margin-bottom:0.5rem; }
+    .mc-opts { display:flex; gap:0.4rem; flex-wrap:wrap; }
+    .mc-btn { font-size:0.9rem; padding:0.35rem 0.9rem; border-radius:6px; border:1px solid var(--border); background:transparent; cursor:pointer; transition:all 0.15s; color:var(--text); }
+    .mc-btn.selected { border-color:var(--accent2); background:var(--accent2); }
+    .mc-btn.correct { background:var(--ok)!important; color:white!important; border-color:var(--ok)!important; }
+    .mc-btn.wrong { background:var(--err)!important; color:white!important; border-color:var(--err)!important; }
+    .mc-btn.reveal { background:var(--ok); color:white; border-color:var(--ok); opacity:0.7; }
+    .err-item { padding:1rem 0; border-bottom:1px solid var(--border); }
+    .err-item:last-child { border-bottom:none; }
+    .err-sentence { font-size:1rem; line-height:1.7; margin-bottom:0.5rem; }
+    .err-sentence .err-num { font-family:'Playfair Display',serif; font-style:italic; color:var(--accent); margin-right:0.3rem; }
+    .err-sentence .wrong-word { background:#fde8e8; color:var(--err); border-radius:3px; padding:0 3px; font-weight:500; text-decoration:underline; }
+    .err-input-row { display:flex; align-items:center; gap:0.5rem; }
+    .err-label { font-size:0.8rem; color:var(--muted); font-style:italic; }
+    .err-note { font-size:0.75rem; color:var(--muted); font-style:italic; margin-top:0.3rem; }
+    input.err-inp { font-family:'DM Sans',sans-serif; font-size:0.95rem; width:90px; border:none; border-bottom:2px solid var(--accent2); background:transparent; color:var(--text); padding:2px 4px; text-align:center; outline:none; transition:border-color 0.2s; }
+    input.err-inp:focus { border-color:var(--accent); }
+    input.err-inp.correct { border-color:var(--ok); color:var(--ok); }
+    input.err-inp.wrong { border-color:var(--err); color:var(--err); }
+    footer { text-align:center; margin-top:2.5rem; font-size:0.8rem; color:var(--muted); }
+    footer a { color:var(--accent); text-decoration:none; }
+  </style>
+</head>
+<body>
+<header>
+  <div class="brand">SpanishMind</div>
+  <h1>Ausencia de Artículo</h1>
+  <p class="subtitle">Unidad 5 · ¿Con o sin artículo?</p>
+</header>
+
+<p class="section-title">Ejercicio 1 — ¿Se usa artículo o no?</p>
+<div class="card" id="mc-card"></div>
+<div class="btn-row">
+  <button class="btn-check" onclick="checkMC()">Corregir</button>
+  <button class="btn-reveal" onclick="revealMC()">Ver respuestas</button>
+  <button class="btn-reset" onclick="resetMC()">Empezar de nuevo</button>
+</div>
+<div id="score-1" class="score-box"></div>
+
+<p class="section-title">Ejercicio 2 — Encuentra el artículo innecesario y escribe la forma correcta</p>
+<div class="card" id="err-card"></div>
+<div class="btn-row">
+  <button class="btn-check" onclick="checkErr()">Corregir</button>
+  <button class="btn-reveal" onclick="revealErr()">Ver respuestas</button>
+  <button class="btn-reset" onclick="resetErr()">Empezar de nuevo</button>
+</div>
+<div id="score-2" class="score-box"></div>
+
+<footer><a href="https://spanishmind.se">spanishmind.se</a></footer>
+
+<script>
+// ── Exercise 1: Article or not ─────────────────────────
+// answer "—" means no article; displayed as "sin artículo"
+const MC_ITEMS = [
+  { q:"Soy ___ médico.", opts:["un","el","—"], answer:"—", note:"profesión con ser → sin artículo" },
+  { q:"Es ___ alemana.", opts:["una","la","—"], answer:"—", note:"nacionalidad con ser → sin artículo" },
+  { q:"Hay ___ dentista muy bueno en mi calle.", opts:["un","el","—"], answer:"un", note:"primera mención → artículo indeterminado" },
+  { q:"Mi padre es ___ dentista.", opts:["un","el","—"], answer:"—", note:"profesión con ser → sin artículo" },
+  { q:"Ella es ___ profesora de inglés.", opts:["una","la","—"], answer:"—", note:"profesión con ser → sin artículo" },
+  { q:"¿Hay ___ profesora nueva en el instituto?", opts:["una","la","—"], answer:"una", note:"primera mención → artículo indeterminado" },
+  { q:"Quiero ser ___ ingeniero.", opts:["un","el","—"], answer:"—", note:"profesión con querer ser → sin artículo" },
+  { q:"Mi madre es ___ española.", opts:["una","la","—"], answer:"—", note:"nacionalidad con ser → sin artículo" },
+];
+
+const mcSel = {};
+const mcCard = document.getElementById('mc-card');
+MC_ITEMS.forEach((item, i) => {
+  mcSel[i] = null;
+  const div = document.createElement('div');
+  div.className = 'mc-item';
+  const optsHTML = item.opts.map(o => {
+    const label = o === '—' ? 'sin artículo' : o;
+    return `<button class="mc-btn" id="mc-${i}-${o}" onclick="selMC(${i},'${o}')">${label}</button>`;
+  }).join('');
+  div.innerHTML = `<div class="mc-q"><span class="mc-num">${i+1}.</span> ${item.q}</div>
+    <div class="mc-opts">${optsHTML}</div>`;
+  mcCard.appendChild(div);
+});
+
+function selMC(i, opt) {
+  if (mcSel[i]) document.getElementById(`mc-${i}-${mcSel[i]}`).classList.remove('selected');
+  mcSel[i] = mcSel[i] === opt ? null : opt;
+  if (mcSel[i]) document.getElementById(`mc-${i}-${mcSel[i]}`).classList.add('selected');
+}
+function checkMC() {
+  let correct = 0, answered = 0;
+  MC_ITEMS.forEach((item, i) => {
+    if (!mcSel[i]) return;
+    answered++;
+    item.opts.forEach(o => document.getElementById(`mc-${i}-${o}`).classList.remove('selected','correct','wrong','reveal'));
+    if (mcSel[i] === item.answer) { correct++; document.getElementById(`mc-${i}-${item.answer}`).classList.add('correct'); }
+    else { document.getElementById(`mc-${i}-${mcSel[i]}`).classList.add('wrong'); document.getElementById(`mc-${i}-${item.answer}`).classList.add('reveal'); }
+  });
+  if (answered > 0) showScore('score-1', correct, answered);
+}
+function revealMC() {
+  MC_ITEMS.forEach((item, i) => {
+    item.opts.forEach(o => document.getElementById(`mc-${i}-${o}`).classList.remove('selected','correct','wrong','reveal'));
+    document.getElementById(`mc-${i}-${item.answer}`).classList.add('reveal');
+  });
+  document.getElementById('score-1').style.display = 'none';
+}
+function resetMC() {
+  MC_ITEMS.forEach((item, i) => {
+    mcSel[i] = null;
+    item.opts.forEach(o => document.getElementById(`mc-${i}-${o}`).classList.remove('selected','correct','wrong','reveal'));
+  });
+  document.getElementById('score-1').style.display = 'none';
+}
+
+// ── Exercise 2: Error correction (unnecessary article) ──
+// answer is the correct word that should replace the wrongWord
+// if answer is "∅" it means remove the article entirely → input should be empty
+const ERR_ITEMS = [
+  { pre:"Soy ",         wrong:"un",  post:" médico.",              answer:"—",    note:"profesión → sin artículo" },
+  { pre:"Es ",          wrong:"una", post:" francesa.",            answer:"—",    note:"nacionalidad → sin artículo" },
+  { pre:"Mi hermano quiere ser ", wrong:"un", post:" actor.", answer:"—",   note:"profesión → sin artículo" },
+  { pre:"Ella es ",     wrong:"una", post:" enfermera muy buena.", answer:"—",    note:"profesión → sin artículo" },
+  { pre:"¿Eres ",       wrong:"un",  post:" español?",             answer:"—",    note:"nacionalidad → sin artículo" },
+];
+
+const errCard = document.getElementById('err-card');
+ERR_ITEMS.forEach((item, i) => {
+  const div = document.createElement('div');
+  div.className = 'err-item';
+  div.innerHTML = `<div class="err-sentence">
+      <span class="err-num">${i+1}.</span>
+      ${item.pre}<span class="wrong-word">${item.wrong}</span>${item.post}
+    </div>
+    <p class="err-note">${item.note}</p>
+    <div class="err-input-row">
+      <span class="err-label">Escribe la oración correcta (sin ese artículo):</span>
+      <input class="err-inp" type="text" id="err-${i}" autocomplete="off" spellcheck="false" placeholder="—"
+             onkeydown="if(event.key==='Enter') checkErr()">
+    </div>`;
+  errCard.appendChild(div);
+});
+
+function norm(s) { return s.trim().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,''); }
+function checkErr() {
+  let correct = 0, answered = 0;
+  ERR_ITEMS.forEach((item, i) => {
+    const inp = document.getElementById('err-'+i);
+    if (!inp.value.trim() && inp.value.trim() !== '—') return;
+    answered++;
+    // accept: — or dash or empty or the word "sin"
+    const v = inp.value.trim();
+    const ok = v === '—' || v === '-' || v === '' || norm(v) === 'sin articulo' || norm(v) === 'sin';
+    inp.classList.toggle('correct', ok);
+    inp.classList.toggle('wrong', !ok);
+    if (ok) correct++;
+  });
+  if (answered > 0) showScore('score-2', correct, answered);
+}
+function revealErr() {
+  ERR_ITEMS.forEach((item, i) => {
+    const inp = document.getElementById('err-'+i);
+    inp.value = '—'; inp.classList.add('correct'); inp.classList.remove('wrong');
+  });
+  document.getElementById('score-2').style.display = 'none';
+}
+function resetErr() {
+  ERR_ITEMS.forEach((_, i) => {
+    const inp = document.getElementById('err-'+i);
+    inp.value = ''; inp.classList.remove('correct','wrong');
+  });
+  document.getElementById('score-2').style.display = 'none';
+}
+function showScore(id, correct, total) {
+  const box = document.getElementById(id);
+  box.style.display = 'block';
+  box.innerHTML = `<strong>${correct} de ${total}</strong> correctas`;
+}
+</script>
+</body>
+</html>

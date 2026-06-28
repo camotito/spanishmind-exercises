@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>El Artículo Indeterminado · SpanishMind</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#faf7f2; --card:#ffffff; --accent:#b85c38; --accent2:#e8c4a0; --text:#2a1f14; --muted:#8a7a6a; --ok:#3a7d44; --err:#c0392b; --border:#e0d6c8; }
+    *,*::before,*::after { box-sizing:border-box; margin:0; padding:0; }
+    body { background:var(--bg); color:var(--text); font-family:'DM Sans',sans-serif; font-weight:300; min-height:100vh; padding:2rem 1rem 4rem; }
+    header { text-align:center; margin-bottom:2rem; }
+    .brand { font-family:'Playfair Display',serif; font-size:0.85rem; letter-spacing:0.25em; text-transform:uppercase; color:var(--accent); margin-bottom:0.5rem; }
+    h1 { font-family:'Playfair Display',serif; font-size:clamp(1.8rem,5vw,2.8rem); font-weight:700; line-height:1.1; }
+    .subtitle { margin-top:0.5rem; color:var(--muted); font-size:0.95rem; }
+    .section-title { font-family:'Playfair Display',serif; font-style:italic; color:var(--muted); font-size:0.95rem; text-align:center; max-width:640px; margin:1.5rem auto 0.75rem; }
+    .card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:2rem; max-width:640px; margin:0 auto 1.5rem; box-shadow:0 2px 12px rgba(0,0,0,0.04); }
+    .exercise { display:flex; align-items:baseline; gap:0.5rem; padding:1rem 0; border-bottom:1px solid var(--border); flex-wrap:wrap; }
+    .exercise:last-child { border-bottom:none; }
+    .num { font-family:'Playfair Display',serif; font-style:italic; color:var(--accent); min-width:1.4rem; }
+    .sentence { font-size:1rem; line-height:1.7; flex:1; min-width:0; }
+    .blank-wrap { display:inline-flex; flex-direction:column; align-items:center; vertical-align:baseline; margin:0 2px; }
+    input[type="text"] { font-family:'DM Sans',sans-serif; font-size:1rem; width:80px; border:none; border-bottom:2px solid var(--accent2); background:transparent; color:var(--text); padding:2px 4px; text-align:center; outline:none; transition:border-color 0.2s; }
+    input[type="text"]:focus { border-color:var(--accent); }
+    input[type="text"].correct { border-color:var(--ok); color:var(--ok); }
+    input[type="text"].wrong { border-color:var(--err); color:var(--err); }
+    .btn-row { display:flex; gap:0.75rem; justify-content:center; max-width:640px; margin:0 auto 1.5rem; flex-wrap:wrap; }
+    button { font-family:'DM Sans',sans-serif; font-size:0.9rem; font-weight:500; padding:0.65rem 1.4rem; border-radius:6px; border:none; cursor:pointer; transition:opacity 0.15s,transform 0.1s; }
+    button:active { transform:scale(0.97); }
+    .btn-check { background:var(--accent); color:#fff; }
+    .btn-reset { background:transparent; border:1px solid var(--border); color:var(--muted); }
+    .btn-reveal { background:transparent; border:1px solid var(--accent2); color:var(--accent); }
+    .score-box { display:none; text-align:center; padding:0.75rem 1rem; border-radius:8px; font-size:0.95rem; max-width:640px; margin:0 auto 1.5rem; background:var(--accent2); color:var(--text); }
+    .mc-item { padding:1rem 0; border-bottom:1px solid var(--border); }
+    .mc-item:last-child { border-bottom:none; }
+    .mc-q { font-size:1rem; line-height:1.6; margin-bottom:0.6rem; }
+    .mc-q .mc-num { font-family:'Playfair Display',serif; font-style:italic; color:var(--accent); margin-right:0.3rem; }
+    .mc-opts { display:flex; gap:0.4rem; flex-wrap:wrap; }
+    .mc-btn { font-size:0.9rem; padding:0.35rem 0.9rem; border-radius:6px; border:1px solid var(--border); background:transparent; cursor:pointer; transition:all 0.15s; color:var(--text); }
+    .mc-btn.selected { border-color:var(--accent2); background:var(--accent2); }
+    .mc-btn.correct { background:var(--ok)!important; color:white!important; border-color:var(--ok)!important; }
+    .mc-btn.wrong { background:var(--err)!important; color:white!important; border-color:var(--err)!important; }
+    .mc-btn.reveal { background:var(--ok); color:white; border-color:var(--ok); opacity:0.7; }
+    footer { text-align:center; margin-top:2.5rem; font-size:0.8rem; color:var(--muted); }
+    footer a { color:var(--accent); text-decoration:none; }
+  </style>
+</head>
+<body>
+<header>
+  <div class="brand">SpanishMind</div>
+  <h1>El Artículo Indeterminado</h1>
+  <p class="subtitle">Unidad 4 · un, una, unos, unas</p>
+</header>
+
+<p class="section-title">Ejercicio 1 — Completa con un, una, unos o unas</p>
+<div class="card" id="fill-card"></div>
+<div class="btn-row">
+  <button class="btn-check" onclick="checkFill()">Corregir</button>
+  <button class="btn-reveal" onclick="revealFill()">Ver respuestas</button>
+  <button class="btn-reset" onclick="resetFill()">Empezar de nuevo</button>
+</div>
+<div id="score-1" class="score-box"></div>
+
+<p class="section-title">Ejercicio 2 — Elige la opción correcta</p>
+<div class="card" id="mc-card"></div>
+<div class="btn-row">
+  <button class="btn-check" onclick="checkMC()">Corregir</button>
+  <button class="btn-reveal" onclick="revealMC()">Ver respuestas</button>
+  <button class="btn-reset" onclick="resetMC()">Empezar de nuevo</button>
+</div>
+<div id="score-2" class="score-box"></div>
+
+<footer><a href="https://spanishmind.se">spanishmind.se</a></footer>
+
+<script>
+// ── Exercise 1: Fill blank un/una/unos/unas ────────────
+const FILL_ITEMS = [
+  { before:"Necesito",    after:"mesa nueva para el comedor.",          answer:"una"  },
+  { before:"Hay",         after:"gato en el jardín.",                   answer:"un"   },
+  { before:"Tengo",       after:"preguntas para ti.",                   answer:"unas" },
+  { before:"Quiero",      after:"café, por favor.",                     answer:"un"   },
+  { before:"Vivo en",     after:"piso pequeño en el centro.",           answer:"un"   },
+  { before:"Son",         after:"estudiantes muy trabajadores.",        answer:"unos" },
+  { before:"Ella tiene",  after:"idea muy buena.",                      answer:"una"  },
+  { before:"Hay",         after:"flores muy bonitas en el parque.",     answer:"unas" },
+  { before:"Busco",       after:"apartamento cerca de la universidad.", answer:"un"   },
+  { before:"Tenemos",     after:"amigos en Valencia.",                  answer:"unos" },
+];
+
+const fCard = document.getElementById('fill-card');
+FILL_ITEMS.forEach((item, i) => {
+  const row = document.createElement('div');
+  row.className = 'exercise';
+  row.innerHTML = `<span class="num">${i+1}.</span>
+    <span class="sentence">
+      ${item.before}
+      <span class="blank-wrap">
+        <input type="text" id="fi-${i}" autocomplete="off" spellcheck="false" placeholder="..."
+               onkeydown="if(event.key==='Enter') checkFill()">
+      </span>
+      ${item.after}
+    </span>`;
+  fCard.appendChild(row);
+});
+
+function norm(s) { return s.trim().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,''); }
+function checkFill() {
+  let correct = 0, answered = 0;
+  FILL_ITEMS.forEach((item, i) => {
+    const inp = document.getElementById('fi-'+i);
+    if (!inp.value.trim()) return;
+    answered++;
+    const ok = norm(inp.value) === norm(item.answer);
+    inp.classList.toggle('correct', ok);
+    inp.classList.toggle('wrong', !ok);
+    if (ok) correct++;
+  });
+  if (answered > 0) showScore('score-1', correct, answered);
+}
+function revealFill() {
+  FILL_ITEMS.forEach((item, i) => {
+    const inp = document.getElementById('fi-'+i);
+    inp.value = item.answer; inp.classList.add('correct'); inp.classList.remove('wrong');
+  });
+  document.getElementById('score-1').style.display = 'none';
+}
+function resetFill() {
+  FILL_ITEMS.forEach((_, i) => {
+    const inp = document.getElementById('fi-'+i);
+    inp.value = ''; inp.classList.remove('correct','wrong');
+  });
+  document.getElementById('score-1').style.display = 'none';
+}
+
+// ── Exercise 2: MC in context ──────────────────────────
+const MC_ITEMS = [
+  { q:"Hay ___ perro enorme en la puerta.",              opts:["un","una","unos","unas"], answer:"un"   },
+  { q:"Necesito ___ silla para el escritorio.",          opts:["un","una","unos","unas"], answer:"una"  },
+  { q:"Compré ___ zapatos nuevos ayer.",                 opts:["un","una","unos","unas"], answer:"unos" },
+  { q:"Ella lleva ___ gafas de sol muy bonitas.",        opts:["un","una","unos","unas"], answer:"unas" },
+  { q:"¿Tienes ___ bolígrafo que me puedas dejar?",     opts:["un","una","unos","unas"], answer:"un"   },
+  { q:"Hay ___ chicas esperando fuera.",                 opts:["un","una","unos","unas"], answer:"unas" },
+  { q:"Quiero ___ agua fría, por favor.",                opts:["un","una","unos","unas"], answer:"una"  },
+  { q:"Hay ___ hombres trabajando en la calle.",         opts:["un","una","unos","unas"], answer:"unos" },
+];
+
+const mcSel = {};
+const mcCard = document.getElementById('mc-card');
+MC_ITEMS.forEach((item, i) => {
+  mcSel[i] = null;
+  const div = document.createElement('div');
+  div.className = 'mc-item';
+  const optsHTML = item.opts.map(o =>
+    `<button class="mc-btn" id="mc-${i}-${o}" onclick="selMC(${i},'${o}')">${o}</button>`
+  ).join('');
+  div.innerHTML = `<div class="mc-q"><span class="mc-num">${i+1}.</span> ${item.q}</div>
+    <div class="mc-opts">${optsHTML}</div>`;
+  mcCard.appendChild(div);
+});
+
+function selMC(i, opt) {
+  if (mcSel[i]) document.getElementById(`mc-${i}-${mcSel[i]}`).classList.remove('selected');
+  mcSel[i] = mcSel[i] === opt ? null : opt;
+  if (mcSel[i]) document.getElementById(`mc-${i}-${mcSel[i]}`).classList.add('selected');
+}
+function checkMC() {
+  let correct = 0, answered = 0;
+  MC_ITEMS.forEach((item, i) => {
+    if (!mcSel[i]) return;
+    answered++;
+    item.opts.forEach(o => document.getElementById(`mc-${i}-${o}`).classList.remove('selected','correct','wrong','reveal'));
+    if (mcSel[i] === item.answer) { correct++; document.getElementById(`mc-${i}-${item.answer}`).classList.add('correct'); }
+    else { document.getElementById(`mc-${i}-${mcSel[i]}`).classList.add('wrong'); document.getElementById(`mc-${i}-${item.answer}`).classList.add('reveal'); }
+  });
+  if (answered > 0) showScore('score-2', correct, answered);
+}
+function revealMC() {
+  MC_ITEMS.forEach((item, i) => {
+    item.opts.forEach(o => document.getElementById(`mc-${i}-${o}`).classList.remove('selected','correct','wrong','reveal'));
+    document.getElementById(`mc-${i}-${item.answer}`).classList.add('reveal');
+  });
+  document.getElementById('score-2').style.display = 'none';
+}
+function resetMC() {
+  MC_ITEMS.forEach((item, i) => {
+    mcSel[i] = null;
+    item.opts.forEach(o => document.getElementById(`mc-${i}-${o}`).classList.remove('selected','correct','wrong','reveal'));
+  });
+  document.getElementById('score-2').style.display = 'none';
+}
+function showScore(id, correct, total) {
+  const box = document.getElementById(id);
+  box.style.display = 'block';
+  box.innerHTML = `<strong>${correct} de ${total}</strong> correctas`;
+}
+</script>
+</body>
+</html>
