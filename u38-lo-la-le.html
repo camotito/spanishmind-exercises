@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpanishMind — Pronombres de Complemento (lo/la/le)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #faf7f2;
+            --card: #ffffff;
+            --accent: #b85c38;
+            --accent2: #e8c4a0;
+            --text: #2a1f14;
+            --muted: #8a7a6a;
+            --ok: #3a7d44;
+            --err: #c0392b;
+            --border: #e0d6c8;
+        }
+
+        body {
+            font-family: 'DM Sans', sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 40px 20px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 650px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .brand {
+            font-variant: small-caps;
+            color: var(--accent);
+            font-weight: 700;
+            letter-spacing: 1px;
+            font-size: 0.9rem;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.2rem;
+            margin: 10px 0;
+            color: var(--text);
+        }
+
+        .subtitle {
+            color: var(--muted);
+            font-size: 1rem;
+        }
+
+        .card {
+            background-color: var(--card);
+            border-radius: 12px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+            border: 1px solid var(--border);
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.4rem;
+            margin-top: 0;
+            margin-bottom: 10px;
+            color: var(--text);
+        }
+
+        .instructions {
+            color: var(--muted);
+            font-size: 0.9rem;
+            margin-bottom: 25px;
+            font-style: italic;
+        }
+
+        .sentence-list {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .sentence-item {
+            display: flex;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .num {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            color: var(--accent);
+            font-weight: 700;
+            margin-right: 5px;
+            width: 25px;
+        }
+
+        .hint {
+            color: var(--muted);
+            font-size: 0.85rem;
+            margin-left: 5px;
+        }
+
+        input[type="text"] {
+            font-family: 'DM Sans', sans-serif;
+            font-size: 1rem;
+            border: none;
+            border-bottom: 2px solid var(--border);
+            padding: 2px 5px;
+            width: 50px;
+            text-align: center;
+            color: var(--text);
+            background: transparent;
+            outline: none;
+            transition: border-color 0.2s, color 0.2s;
+        }
+
+        input[type="text"]:focus {
+            border-bottom-color: var(--accent);
+        }
+
+        input[type="text"].correct {
+            border-bottom-color: var(--ok);
+            color: var(--ok);
+            font-weight: 700;
+        }
+
+        input[type="text"].wrong {
+            border-bottom-color: var(--err);
+            color: var(--err);
+            font-weight: 700;
+        }
+
+        .mc-options {
+            display: flex;
+            gap: 10px;
+            margin-top: 8px;
+            margin-left: 30px;
+        }
+
+        .mc-btn {
+            font-family: 'DM Sans', sans-serif;
+            background-color: var(--card);
+            border: 1px solid var(--border);
+            padding: 6px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            color: var(--text);
+            transition: all 0.2s;
+        }
+
+        .mc-btn:hover {
+            border-color: var(--accent);
+        }
+
+        .mc-btn.selected {
+            background-color: var(--accent2);
+            border-color: var(--accent);
+        }
+
+        .mc-btn.correct {
+            background-color: #e2f0d9;
+            border-color: var(--ok);
+            color: var(--ok);
+            font-weight: 700;
+        }
+
+        .mc-btn.wrong {
+            background-color: #fce4d6;
+            border-color: var(--err);
+            color: var(--err);
+            font-weight: 700;
+        }
+
+        .mc-btn.reveal {
+            border-color: var(--ok);
+            background-color: #e2f0d9;
+            color: var(--ok);
+        }
+
+        .actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 30px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .btn-main {
+            font-family: 'DM Sans', sans-serif;
+            background-color: var(--accent);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 500;
+            font-size: 0.95rem;
+            transition: background 0.2s;
+        }
+
+        .btn-main:hover {
+            background-color: #9c4a2a;
+        }
+
+        .btn-sub {
+            font-family: 'DM Sans', sans-serif;
+            background: transparent;
+            color: var(--muted);
+            border: 1px solid var(--border);
+            padding: 10px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.95rem;
+            transition: all 0.2s;
+        }
+
+        .btn-sub:hover {
+            border-color: var(--muted);
+            color: var(--text);
+        }
+
+        .score-box {
+            margin-left: auto;
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-weight: 700;
+            font-size: 1.1rem;
+            color: var(--text);
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <div class="brand">SpanishMind</div>
+        <h1>Objetos Directos e Indirectos</h1>
+        <div class="subtitle">Confusion between lo, la, and le</div>
+    </header>
+
+    <!-- EXERCISE 1: FILL IN THE BLANKS -->
+    <div class="card" id="ex1">
+        <h2>Exercise 1: Complete the sentences</h2>
+        <div class="instructions">Fill in the blanks with the correct pronoun: <strong>lo</strong>, <strong>la</strong>, or <strong>le</strong>.</div>
+        
+        <div class="sentence-list" id="ex1-list"></div>
+
+        <div class="actions">
+            <button class="btn-main" onclick="checkEx1()">Check answers</button>
+            <button class="btn-sub" onclick="showEx1()">Show answers</button>
+            <button class="btn-sub" onclick="resetEx1()">Start again</button>
+            <div class="score-box" id="ex1-score"></div>
+        </div>
+    </div>
+
+    <!-- EXERCISE 2: MULTIPLE CHOICE -->
+    <div class="card" id="ex2">
+        <h2>Exercise 2: Choose the correct option</h2>
+        <div class="instructions">Select the right pronoun depending on whether it replaces a direct or indirect object.</div>
+        
+        <div class="sentence-list" id="ex2-list"></div>
+
+        <div class="actions">
+            <button class="btn-main" onclick="checkEx2()">Check answers</button>
+            <button class="btn-sub" onclick="showEx2()">Show answers</button>
+            <button class="btn-sub" onclick="resetEx2()">Start again</button>
+            <div class="score-box" id="ex2-score"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const ex1Questions = [
+        { before: "A Juan", after: "gusta mucho este ordenador.", answer: "le", hint: "(indirect object: to him)" },
+        { before: "¿Dónde está mi móvil? No", after: "encuentro por ninguna parte.", answer: "lo", hint: "(direct object: the phone)" },
+        { before: text = "Llamé a mi madre para felicitar", after: "por su cumpleaños.", answer: "la", hint: "(direct object: her)" },
+        { before: "Al profesor", after: "pedimos un examen más fácil.", answer: "le", hint: "(indirect object: to the teacher)" },
+        { before: "Cogieron la mesa vieja y", after: "subieron al piso de arriba.", answer: "la", hint: "(direct object: the table)" },
+        { before: "¿Has visto a Carlos? Sí,", after: "vi en el autobús esta mañana.", answer: "lo", hint: "(direct object: him)" }
+    ];
+
+    const ex2Questions = [
+        { text: "Escribí un correo electrónico a Carmen.", choices: ["lo", "la", "le"], answer: "le", hint: "I wrote an email *to her*" },
+        { text: "¿Cojo este taxi disponible? Sí, ¡coge___!", choices: ["lo", "la", "le"], answer: "lo", hint: "Take *it* (the taxi)" },
+        { text: "El médico ___ recomendó descansar unos días a mi padre.", choices: ["lo", "la", "le"], answer: "le", hint: "The doctor recommended *to him*" },
+        { text: "Alquilamos una casa en la playa y ___ disfrutamos mucho.", choices: ["lo", "la", "le"], answer: "la", hint: "We enjoyed *it* (the house)" },
+        { text: "¿Has saludado a tus vecinas? No, no ___ he visto.", choices: ["los", "las", "les"], answer: "las", hint: "I haven't seen *them* (f.)" },
+        { text: "A vosotros ___ interesa mucho aprender español en Madrid.", choices: ["os", "les", "le"], answer: "os", hint: "Refers to *vosotros*" }
+    ];
+
+    function cleanText(str) {
+        return str.toLowerCase().trim().normalize("NFD").replace(/[̀-ͯ]/g, "");
+    }
+
+    function renderEx1() {
+        const container = document.getElementById('ex1-list');
+        container.innerHTML = '';
+        ex1Questions.forEach((q, idx) => {
+            const div = document.createElement('div');
+            div.className = 'sentence-item';
+            div.innerHTML = `
+                <span class="num">${idx + 1}.</span>
+                <span>${q.before}</span>
+                <input type="text" id="ex1-in-${idx}" autocomplete="off">
+                <span>${q.after}</span>
+                <span class="hint">${q.hint}</span>
+            `;
+            container.appendChild(div);
+
+            document.getElementById(`ex1-in-${idx}`).addEventListener('keydown', function(e) {
+                if (e.key === 'Enter') checkEx1();
+            });
+        });
+    }
+
+    let ex2Selected = {};
+
+    function renderEx2() {
+        const container = document.getElementById('ex2-list');
+        container.innerHTML = '';
+        ex2Questions.forEach((q, idx) => {
+            const div = document.createElement('div');
+            div.className = 'sentence-item-block';
+            div.style.display = 'flex';
+            div.style.flexDirection = 'column';
+            div.style.marginBottom = '15px';
+
+            const line = document.createElement('div');
+            line.className = 'sentence-item';
+            line.innerHTML = `<span class="num">${idx + 1}.</span><span>${q.text}</span><span class="hint">${q.hint}</span>`;
+            
+            const opts = document.createElement('div');
+            opts.className = 'mc-options';
+            
+            q.choices.forEach(opt => {
+                const btn = document.createElement('button');
+                btn.className = 'mc-btn';
+                btn.id = `ex2-btn-${idx}-${opt}`;
+                btn.textContent = opt;
+                btn.onclick = () => selectEx2(idx, opt);
+                opts.appendChild(btn);
+            });
+
+            div.appendChild(line);
+            div.appendChild(opts);
+            container.appendChild(div);
+        });
+    }
+
+    function selectEx2(qIdx, option) {
+        ex2Questions[qIdx].choices.forEach(opt => {
+            document.getElementById(`ex2-btn-${qIdx}-${opt}`).classList.remove('selected');
+        });
+        ex2Selected[qIdx] = option;
+        document.getElementById(`ex2-btn-${qIdx}-${option}`).classList.add('selected');
+    }
+
+    function checkEx1() {
+        let correctCount = 0;
+        ex1Questions.forEach((q, idx) => {
+            const input = document.getElementById(`ex1-in-${idx}`);
+            const val = cleanText(input.value);
+            const ans = cleanText(q.answer);
+
+            input.classList.remove('correct', 'wrong');
+            if (val === ans) {
+                input.classList.add('correct');
+                correctCount++;
+            } else {
+                input.classList.add('wrong');
+            }
+        });
+        const scoreBox = document.getElementById('ex1-score');
+        scoreBox.textContent = `${correctCount} de ${ex1Questions.length} correct`;
+        scoreBox.style.display = 'block';
+    }
+
+    function showEx1() {
+        ex1Questions.forEach((q, idx) => {
+            const input = document.getElementById(`ex1-in-${idx}`);
+            input.value = q.answer;
+            input.classList.remove('wrong');
+            input.classList.add('correct');
+        });
+    }
+
+    function resetEx1() {
+        ex1Questions.forEach((q, idx) => {
+            const input = document.getElementById(`ex1-in-${idx}`);
+            input.value = '';
+            input.classList.remove('correct', 'wrong');
+        });
+        document.getElementById('ex1-score').style.display = 'none';
+    }
+
+    function checkEx2() {
+        let correctCount = 0;
+        ex2Questions.forEach((q, idx) => {
+            const selected = ex2Selected[idx];
+            
+            q.choices.forEach(opt => {
+                const btn = document.getElementById(`ex2-btn-${idx}-${opt}`);
+                btn.classList.remove('correct', 'wrong', 'reveal');
+                
+                if (opt === q.answer) {
+                    if (selected === q.answer) {
+                        btn.classList.add('correct');
+                        correctCount++;
+                    } else {
+                        btn.classList.add('reveal');
+                    }
+                } else if (selected === opt) {
+                    btn.classList.add('wrong');
+                }
+            });
+        });
+        const scoreBox = document.getElementById('ex2-score');
+        scoreBox.textContent = `${correctCount} de ${ex2Questions.length} correct`;
+        scoreBox.style.display = 'block';
+    }
+
+    function showEx2() {
+        ex2Questions.forEach((q, idx) => {
+            ex2Questions[idx].choices.forEach(opt => {
+                const btn = document.getElementById(`ex2-btn-${idx}-${opt}`);
+                btn.classList.remove('selected', 'correct', 'wrong', 'reveal');
+                if (opt === q.answer) {
+                    btn.classList.add('correct');
+                }
+            });
+        });
+    }
+
+    function resetEx2() {
+        ex2Selected = {};
+        ex2Questions.forEach((q, idx) => {
+            q.choices.forEach(opt => {
+                const btn = document.getElementById(`ex2-btn-${idx}-${opt}`);
+                btn.className = 'mc-btn';
+            });
+        });
+        document.getElementById('ex2-score').style.display = 'none';
+    }
+
+    window.onload = () => {
+        renderEx1();
+        renderEx2();
+    };
+</script>
+</body>
+</html>
