@@ -1,0 +1,9 @@
+REGLAS DE SINTAXIS ESTRICTAS PARA GENERACIÓN DE TEXTO:
+
+1. El token para representar espacios vacíos interactivos o rellenables será exactamente de 5 guiones bajos continuos: "_____". Queda prohibido el uso de cualquier otra variante.
+2. Si un ítem requiere múltiples respuestas (como diálogos o combinaciones de pronombres), añade múltiples tokens "_____" en la misma cadena de texto de forma secuencial.
+3. Las cadenas de opciones incrustadas (Tipología T5) se estructuran sin espacios internos, delimitadas por paréntesis y barras oblicuas: "(opción1/opción2)". No uses opciones tipográficas externas (A, B, C).
+4. Para la conversión de elementos o abreviaturas (Tipología T4), el estímulo origen debe colocarse inmediatamente antes del hueco entre paréntesis. Ejemplo: "Enero es el (1.º) _____ mes del año."
+5. Para los ejercicios de reescritura u omisión (Tipología T7), el segmento del texto que se debe sustituir o evaluar debe ir rodeado por las etiquetas HTML de subrayado continuo: "<u>texto a cambiar</u>".
+6. Si la solución correcta a un hueco exige la ausencia total de un elemento gramatical (artículo cero), la solución en el JSON debe ser exactamente el carácter de conjunto vacío: "ø".
+7. Al compilar las soluciones en el JSON, el campo "solucion_correcta" SIEMPRE debe ser un array de strings, almacenando las respuestas en el orden exacto en que aparecen los huecos "_____" dentro de cada ítem.

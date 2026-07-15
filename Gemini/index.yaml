@@ -1,0 +1,71 @@
+- tema: unidad-01
+  titulo: "Sustantivos: Género y profesiones"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T2", "T4"]
+  metadata_grafica: "family_tree"
+
+- tema: unidad-02
+  titulo: "Clasificación formal de género por terminaciones"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T1", "T2"]
+  metadata_grafica: "vocabulary_box"
+
+- tema: unidad-03
+  titulo: "Morfología de número: Formación del plural"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T4", "T2", "T7"]
+  metadata_grafica: "visual_count"
+
+- tema: unidad-04
+  titulo: "El artículo indeterminado"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T3", "T2"]
+  metadata_grafica: "functional_images"
+
+- tema: unidad-05
+  titulo: "Ausencia de artículo (Artículo cero / Contraste)"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T2", "T5", "T3"]
+  metadata_grafica: "none"
+
+- tema: unidad-06
+  titulo: "El artículo determinado"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T3", "T2"]
+  metadata_grafica: "family_tree"
+
+- tema: unidad-07
+  titulo: "Contraste entre artículo determinado e indeterminado"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T2", "T5", "T3"]
+  metadata_grafica: "none"
+
+- tema: unidad-08
+  titulo: "Artículo determinado con nombres propios y geografía"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T3", "T6", "T5"]
+  metadata_grafica: "map"
+
+- tema: unidad-09
+  titulo: "Artículo determinado con expresiones temporales y precio"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T2", "T3", "T6"]
+  metadata_grafica: "clocks"
+
+- tema: unidad-10
+  titulo: "Otros usos del artículo determinado (Instrumentos/Lugares)"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T2", "T3"]
+  metadata_grafica: "instruments_visual"
+
+- tema: unidad-27
+  titulo: "Los numerales ordinales"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T2", "T4"]
+  metadata_grafica: "directory"
+
+- tema: unidad-38
+  titulo: "Pronombres de objeto directo e indirecto"
+  forma_verbal: "presente"
+  ejercicios_permitidos: ["T3", "T5"]
+  metadata_grafica: "none"

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>confusion-entre-pronombres-personales-de-complemento</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+    --color-bg: #FBF7F0;
+    --color-primary: #C1440E;
+    --color-secondary: #2E4053;
+    --color-accent: #E9B44C;
+    --color-correct: #4F7942;
+    --color-wrong: #B33A3A;
+    --color-text: #2B2B2B;
+    --font-heading: 'Playfair Display', serif;
+    --font-body: 'DM Sans', sans-serif;
+}
+* { box-sizing: border-box; }
+body {
+    font-family: var(--font-body);
+    background: var(--color-bg);
+    color: var(--color-text);
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 0 20px;
+    line-height: 1.6;
+}
+h1 { font-family: var(--font-heading); color: var(--color-secondary); }
+.ejercicio {
+    background: white;
+    border: 1px solid #e5ddd0;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+}
+.ejercicio p.enunciado { font-weight: 600; margin-bottom: 12px; }
+input[type="text"] {
+    font-family: var(--font-body);
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+}
+button {
+    font-family: var(--font-body);
+    background: var(--color-primary);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 8px;
+}
+button:hover { opacity: 0.9; }
+.opciones label { display: block; margin: 4px 0; cursor: pointer; }
+.feedback { margin-top: 8px; font-weight: 600; display: none; }
+.feedback.correct { color: var(--color-correct); }
+.feedback.wrong { color: var(--color-wrong); }
+.pista { font-size: 0.85rem; color: #777; margin-top: 4px; font-style: italic; }
+#resumen {
+    text-align: center;
+    font-family: var(--font-heading);
+    font-size: 1.3rem;
+    margin-top: 30px;
+    display: none;
+}
+</style>
+</head>
+<body>
+<h1>Confusion Entre Pronombres Personales De Complemento</h1>
+
+    <div class="ejercicio">
+        <p class="enunciado">¿Dónde está el ordenador? No <input type="text" id="ej0"> encuentro.</p>
+        <button onclick="checkFill('ej0', 'lo')">Check</button>
+        <p class="pista">💡 Use the direct object pronoun for the masculine singular noun 'el ordenador'.</p>
+        <p class="feedback" id="ej0-fb"></p>
+    </div>
+    <div class="ejercicio">
+        <p class="enunciado">¿Queréis coger el móvil? Podéis coger<input type="text" id="ej1"> ahora.</p>
+        <button onclick="checkFill('ej1', 'lo')">Check</button>
+        <p class="pista">💡 Attach the direct object pronoun for 'el móvil' to the end of the infinitive.</p>
+        <p class="feedback" id="ej1-fb"></p>
+    </div>
+    <div class="ejercicio">
+        <p class="enunciado">Fix the error: A tu amiga la doy un móvil nuevo.</p>
+        <input type="text" id="ej2">
+        <button onclick="checkFill('ej2', 'A tu amiga le doy un móvil nuevo.')">Check</button>
+        <p class="pista">💡 'A tu amiga' is the indirect object, so we must use 'le' instead of 'la' (laísmo is grammatically incorrect).</p>
+        <p class="feedback" id="ej2-fb"></p>
+    </div>
+    <div class="ejercicio" data-solved="0">
+        <p class="enunciado">¿Cómo sustituimos 'el ordenador' en la frase: 'Vosotros encendéis el ordenador'?</p>
+        <div class="opciones"><label><input type="radio" name="ej3" value="Vosotros lo encendéis"> Vosotros lo encendéis</label><label><input type="radio" name="ej3" value="Vosotros le encendéis"> Vosotros le encendéis</label><label><input type="radio" name="ej3" value="Vosotros la encendéis"> Vosotros la encendéis</label></div>
+        <button onclick="checkChoice('ej3', 'Vosotros lo encendéis')">Check</button>
+        <p class="pista">💡 We use 'lo' because 'el ordenador' is a masculine singular direct object. Using 'le' for inanimate objects is an incorrect form of leísmo.</p>
+        <p class="feedback" id="ej3-fb"></p>
+    </div>
+    <div class="ejercicio">
+        <p class="enunciado">Replace the direct object 'el móvil' with the correct pronoun and place it before the conjugated verb.: Vosotros cogéis el móvil.</p>
+        <input type="text" id="ej4">
+        <button onclick="checkFill('ej4', 'Vosotros lo cogéis.')">Check</button>
+        <p class="feedback" id="ej4-fb"></p>
+    </div>
+    <div class="ejercicio">
+        <p class="enunciado">Fix the error: El piso es muy caro, pero le quiero comprar.</p>
+        <input type="text" id="ej5">
+        <button onclick="checkFill('ej5', 'El piso es muy caro, pero lo quiero comprar.')">Check</button>
+        <p class="pista">💡 'El piso' is a masculine singular object, so the direct object pronoun must be 'lo' (leísmo de cosa is incorrect).</p>
+        <p class="feedback" id="ej5-fb"></p>
+    </div>
+    <div class="ejercicio">
+        <p class="enunciado">A mis tías <input type="text" id="ej6"> escribo una carta desde el piso nuevo.</p>
+        <button onclick="checkFill('ej6', 'les')">Check</button>
+        <p class="pista">💡 Use the third person plural indirect object pronoun.</p>
+        <p class="feedback" id="ej6-fb"></p>
+    </div>
+    <div class="ejercicio">
+        <p class="enunciado">Rewrite the sentence by attaching the direct object pronoun for 'el ordenador' to the infinitive.: Queremos coger el ordenador.</p>
+        <input type="text" id="ej7">
+        <button onclick="checkFill('ej7', 'Queremos cogerlo.')">Check</button>
+        <p class="feedback" id="ej7-fb"></p>
+    </div>
+<p id="resumen"></p>
+<script>
+function checkFill(id, respuesta) {
+    const input = document.getElementById(id);
+    const fb = document.getElementById(id + '-fb');
+    const ok = input.value.trim().toLowerCase() === respuesta.toLowerCase();
+    fb.textContent = ok ? '✔ Correct' : '✘ Try again';
+    fb.className = 'feedback ' + (ok ? 'correct' : 'wrong');
+    fb.style.display = 'block';
+    if (ok) input.dataset.solved = '1';
+    updateResumen();
+}
+function checkChoice(id, respuesta) {
+    const selected = document.querySelector(`input[name="${id}"]:checked`);
+    const fb = document.getElementById(id + '-fb');
+    if (!selected) return;
+    const ok = selected.value === respuesta;
+    fb.textContent = ok ? '✔ Correct' : '✘ Try again';
+    fb.className = 'feedback ' + (ok ? 'correct' : 'wrong');
+    fb.style.display = 'block';
+    if (ok) selected.closest('.ejercicio').dataset.solved = '1';
+    updateResumen();
+}
+function updateResumen() {
+    const total = document.querySelectorAll('.ejercicio').length;
+    const solved = document.querySelectorAll('.ejercicio[data-solved="1"], input[data-solved="1"]').length;
+    const resumen = document.getElementById('resumen');
+    if (solved >= total) {
+        resumen.textContent = `¡Completado! ${solved}/${total}`;
+        resumen.style.display = 'block';
+    }
+}
+</script>
+</body>
+</html>

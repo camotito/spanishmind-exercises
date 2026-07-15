@@ -1,0 +1,58 @@
+{
+  "unidad": "confusion-entre-pronombres-personales-de-complemento",
+  "ejercicios": [
+    {
+      "tipo": "fill-blank",
+      "oracion": "¿Dónde está el ordenador? No ___ encuentro.",
+      "respuesta": "lo",
+      "pista": "Use the direct object pronoun for the masculine singular noun 'el ordenador'."
+    },
+    {
+      "tipo": "fill-blank",
+      "oracion": "¿Queréis coger el móvil? Podéis coger___ ahora.",
+      "respuesta": "lo",
+      "pista": "Attach the direct object pronoun for 'el móvil' to the end of the infinitive."
+    },
+    {
+      "tipo": "error-correction",
+      "oracion_incorrecta": "A tu amiga la doy un móvil nuevo.",
+      "oracion_correcta": "A tu amiga le doy un móvil nuevo.",
+      "explicacion": "'A tu amiga' is the indirect object, so we must use 'le' instead of 'la' (laísmo is grammatically incorrect)."
+    },
+    {
+      "tipo": "multiple-choice",
+      "pregunta": "¿Cómo sustituimos 'el ordenador' en la frase: 'Vosotros encendéis el ordenador'?",
+      "opciones": [
+        "Vosotros lo encendéis",
+        "Vosotros le encendéis",
+        "Vosotros la encendéis"
+      ],
+      "respuesta": "Vosotros lo encendéis",
+      "nota": "We use 'lo' because 'el ordenador' is a masculine singular direct object. Using 'le' for inanimate objects is an incorrect form of leísmo."
+    },
+    {
+      "tipo": "transform",
+      "instruccion": "Replace the direct object 'el móvil' with the correct pronoun and place it before the conjugated verb.",
+      "entrada": "Vosotros cogéis el móvil.",
+      "respuesta": "Vosotros lo cogéis."
+    },
+    {
+      "tipo": "error-correction",
+      "oracion_incorrecta": "El piso es muy caro, pero le quiero comprar.",
+      "oracion_correcta": "El piso es muy caro, pero lo quiero comprar.",
+      "explicacion": "'El piso' is a masculine singular object, so the direct object pronoun must be 'lo' (leísmo de cosa is incorrect)."
+    },
+    {
+      "tipo": "fill-blank",
+      "oracion": "A mis tías ___ escribo una carta desde el piso nuevo.",
+      "respuesta": "les",
+      "pista": "Use the third person plural indirect object pronoun."
+    },
+    {
+      "tipo": "transform",
+      "instruccion": "Rewrite the sentence by attaching the direct object pronoun for 'el ordenador' to the infinitive.",
+      "entrada": "Queremos coger el ordenador.",
+      "respuesta": "Queremos cogerlo."
+    }
+  ]
+}

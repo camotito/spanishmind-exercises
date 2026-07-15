@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EsquemaEjercicioGlobal",
+  "type": "object",
+  "properties": {
+    "unidad_id": { "type": "integer" },
+    "ejercicio_id": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.$" },
+    "enunciado": { "type": "string" },
+    "tipologia": { "type": "string", "enum": ["T1", "T2", "T3", "T4", "T5", "T6", "T7"] },
+    "contexto_grafico": {
+      "type": "object",
+      "properties": {
+        "tipo": { "type": "string" },
+        "datos": {
+          "type": "array",
+          "items": { "type": "object" }
+        }
+      },
+      "required": ["tipo", "datos"]
+    },
+    "banco_palabras": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "index": { "type": "integer" },
+          "texto_enunciado": { "type": "string" },
+          "solucion_correcta": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "required": ["index", "texto_enunciado", "solucion_correcta"]
+      }
+    }
+  },
+  "required": ["unidad_id", "ejercicio_id", "enunciado", "tipologia", "items"]
+}

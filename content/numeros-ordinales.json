@@ -1,0 +1,55 @@
+{
+  "unidad": "numeros-ordinales",
+  "ejercicios": [
+    {
+      "tipo": "fill-blank",
+      "oracion": "Vosotros vivís en el ___ piso del edificio.",
+      "respuesta": "tercer",
+      "pista": "third (masculine singular form before a noun)"
+    },
+    {
+      "tipo": "fill-blank",
+      "oracion": "Esta es la ___ vez que cojo el móvil hoy.",
+      "respuesta": "primera",
+      "pista": "first (feminine singular form)"
+    },
+    {
+      "tipo": "multiple-choice",
+      "pregunta": "¿Cuál es la forma correcta para referirse al ordenador número 10?",
+      "opciones": ["el décimo ordenador", "el diez ordenador", "el decimoprimer ordenador"],
+      "respuesta": "el décimo ordenador",
+      "nota": "Remember that 'décimo' means tenth and agrees in gender with the masculine noun 'ordenador'."
+    },
+    {
+      "tipo": "multiple-choice",
+      "pregunta": "Completa la frase: 'Vosotros cogéis el ___ ascensor' (1st).",
+      "opciones": ["primero", "primer", "primera"],
+      "respuesta": "primer",
+      "nota": "'Primero' drops the final '-o' before a masculine singular noun like 'ascensor'."
+    },
+    {
+      "tipo": "error-correction",
+      "oracion_incorrecta": "Este es mi tercero ordenador portátil.",
+      "oracion_correcta": "Este es mi tercer ordenador portátil.",
+      "explicacion": "The ordinal 'tercero' drops the final '-o' (becomes 'tercer') when placed directly before a masculine singular noun."
+    },
+    {
+      "tipo": "error-correction",
+      "oracion_incorrecta": "Vosotros cogéis la primero opción.",
+      "oracion_correcta": "Vosotros cogéis la primera opción.",
+      "explicacion": "Ordinal numbers must agree in gender with the noun they modify. 'Opción' is feminine, so we use 'primera'."
+    },
+    {
+      "tipo": "transform",
+      "instruccion": "Change the cardinal number in parentheses to its correct ordinal form in the present tense sentence.",
+      "entrada": "Tú compras el (2) móvil.",
+      "respuesta": "Tú compras el segundo móvil."
+    },
+    {
+      "tipo": "gender-classification",
+      "palabra": "primera",
+      "respuesta": "femenino",
+      "nota": "Ordinal numbers ending in '-a' are feminine."
+    }
+  ]
+}

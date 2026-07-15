@@ -1,0 +1,22 @@
+Genera ejercicios de gramática española (español de España: vosotros, coger, ordenador, móvil, piso) sobre el tema: {topic}
+
+Tiempos verbales permitidos (no uses ningún otro, ni en oraciones correctas ni incorrectas): {tenses}
+
+Devuelve SOLO JSON válido, sin texto adicional, sin markdown, con este schema exacto:
+
+{
+  "unidad": "{topic}",
+  "ejercicios": [
+    {"tipo": "fill-blank", "oracion": "string con ___", "respuesta": "string", "pista": "string en ingles"},
+    {"tipo": "multiple-choice", "pregunta": "string", "opciones": ["string"], "respuesta": "string", "nota": "string en ingles"},
+    {"tipo": "gender-classification", "palabra": "string", "respuesta": "masculino|femenino", "nota": "string en ingles"},
+    {"tipo": "error-correction", "oracion_incorrecta": "string", "oracion_correcta": "string", "explicacion": "string en ingles"},
+    {"tipo": "transform", "instruccion": "string en ingles", "entrada": "string", "respuesta": "string"}
+  ]
+}
+
+Reglas:
+- Minimo 2 tipos de ejercicio distintos, 6-10 ejercicios totales
+- Espanol gramaticalmente correcto, revisado dos veces
+- Instrucciones/pistas en ingles, contenido en espanol
+- No inventes excepciones gramaticales falsas

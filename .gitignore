@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# escaneos del libro: binarios grandes (~550MB) y contenido con copyright,
+# no van al repo. Se referencian por ruta desde v2/libro_pipeline/.
+libro/
+Gemini/*.png

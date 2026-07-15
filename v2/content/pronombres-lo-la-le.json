@@ -1,0 +1,56 @@
+{
+  "tema": "pronombres-lo-la-le",
+  "titulo": "Le, la, lo",
+  "descripcion_gramatical": "Pronombres de objeto directo e indirecto (lo, la, le)",
+  "ejercicios": [
+    {
+      "tipologia": "T5",
+      "enunciado": "Choose the correct option in each case.",
+      "items": [
+        {"texto_enunciado": "–¿Quieres este libro? –No, no (le/lo) quiero. Gracias.", "solucion_correcta": ["lo"]},
+        {"texto_enunciado": "–¿Me dejas el lápiz? –No puedo. (Le/Lo) necesito.", "solucion_correcta": ["Lo"]},
+        {"texto_enunciado": "–¿Quieres a Ana? –Sí, (la/le) quiero.", "solucion_correcta": ["la"]},
+        {"texto_enunciado": "–¿Ha visto usted mis gafas? –No, no (las/les) he visto.", "solucion_correcta": ["las"]},
+        {"texto_enunciado": "–¿(La/Le) has regalado tu chaqueta roja a Luisa? –No, no (se/le) (la/le) he regalado. (Se/Le) (la/le) he prestado.", "solucion_correcta": ["Le", "se", "la", "Se", "la"]},
+        {"texto_enunciado": "–¿Han visto ustedes a mis padres? –No, no (se/los) hemos visto.", "solucion_correcta": ["los"]},
+        {"texto_enunciado": "(Le/La) he prestado cien euros a Ivana.", "solucion_correcta": ["Le"]},
+        {"texto_enunciado": "–¿(Les/Los) has dejado el coche a tus hermanos? –No, no (se/les) (le/lo) he dejado.", "solucion_correcta": ["Les", "se", "lo"]},
+        {"texto_enunciado": "–¿Has visto a mis hermanas? –Sí, (las/les) he visto.", "solucion_correcta": ["las"]},
+        {"texto_enunciado": "Inés, (la/le) llaman por teléfono.", "solucion_correcta": ["la"]},
+        {"texto_enunciado": "¿Quiere ver a Andrés? –No, no quiero (verla/verlo).", "solucion_correcta": ["verlo"]},
+        {"texto_enunciado": "(Les/Los) he comprado una televisión a mis padres.", "solucion_correcta": ["Les"]},
+        {"texto_enunciado": "(La/Le) dije a Juana que no tengo dinero.", "solucion_correcta": ["Le"]},
+        {"texto_enunciado": "Ayer (la/le) vi en el parque, Elisa.", "solucion_correcta": ["la"]},
+        {"texto_enunciado": "–¿Qué (la/le) pasa a Elsa? –(La/Le) duele la cabeza.", "solucion_correcta": ["le", "Le"]}
+      ]
+    },
+    {
+      "tipologia": "T3",
+      "enunciado": "Complete the sentences with lo, la, los, las, le, les, or se.",
+      "items": [
+        {"texto_enunciado": "–¿Has visto a Juana? –Sí, _____ he visto.", "solucion_correcta": ["la"]},
+        {"texto_enunciado": "_____ he regalado unos bombones a Sarita.", "solucion_correcta": ["Le"]},
+        {"texto_enunciado": "–¿Has llamado a tu padre, Héctor? –Sí, _____ he llamado.", "solucion_correcta": ["lo"]},
+        {"texto_enunciado": "¿Qué _____ has dicho a la profesora?", "solucion_correcta": ["le"]},
+        {"texto_enunciado": "¿_____ has regalado tus discos a Enrique? –Sí, _____ _____ he regalado.", "solucion_correcta": ["Le", "se", "los"]},
+        {"texto_enunciado": "–¿Has visto a Concha? –No, hoy no _____ he visto.", "solucion_correcta": ["la"]},
+        {"texto_enunciado": "A Pili _____ duelen las muelas.", "solucion_correcta": ["le"]},
+        {"texto_enunciado": "–¿Qué _____ has comprado a tus padres? –A mi padre _____ he comprado un libro y a mi madre _____ he comprado un pañuelo.", "solucion_correcta": ["les", "le", "le"]}
+      ]
+    },
+    {
+      "tipologia": "T3",
+      "enunciado": "Use the correct pronouns to complete these sentences.",
+      "items": [
+        {"texto_enunciado": "–¿_____ has dicho a Juan que necesito el coche? –Sí, _____ _____ he dicho, pero dice que él también _____ necesita.", "solucion_correcta": ["Le", "se", "lo", "lo"]},
+        {"texto_enunciado": "–¿Sabes que me voy a Colombia? –No, no _____ sabía.", "solucion_correcta": ["lo"]},
+        {"texto_enunciado": "–¿Es verdad que Ángela tiene mucho dinero? –_____ es, pero no _____ parece.", "solucion_correcta": ["Lo", "lo"]},
+        {"texto_enunciado": "–¿Sabe papá que necesito dinero? –_____ sabe, pero dice que _____ _____ pidas luego.", "solucion_correcta": ["Lo", "se", "lo"]},
+        {"texto_enunciado": "No _____ entiendo. _____ he ofrecido ayuda a Teresa, pero no _____ ha aceptado.", "solucion_correcta": ["la", "Le", "la"]},
+        {"texto_enunciado": "–¿De verdad que Ana es escritora? –Claro que _____ es, pero no _____ sabe nadie.", "solucion_correcta": ["lo", "lo"]},
+        {"texto_enunciado": "–Juan y Lola se han casado. –Ya sabía que _____ harían. Él _____ quiere mucho.", "solucion_correcta": ["lo", "la"]},
+        {"texto_enunciado": "–Se ha muerto Momo. –¡Cuánto _____ siento! Yo _____ quería mucho.", "solucion_correcta": ["lo", "lo"]}
+      ]
+    }
+  ]
+}
