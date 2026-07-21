@@ -1,0 +1,149 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "98.1",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con el gerundio como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Se marchó mientras se reía.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Me gusta trabajar mientras escucho música.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Carmen desayuna mientras lee el periódico.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Me afeito mientras escucho las noticias.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Esther salió y cerró la puerta.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Pedro llegó y dio abrazos a todos.</u> _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.2",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya las palabras subrayadas por un gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "Contestó <u>con una sonrisa</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Bajaron las escaleras <u>a todo correr</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Con los viajes</u> se conoce a mucha gente. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nuestro profesor es feliz <u>con el trabajo</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Con la lectura</u> se conocen muchos mundos. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases usando el gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "<u>La policía sorprendió a los ladrones cuando hacían un agujero.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Esta mañana he visto a Emilio cuando salía de su casa.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Amalia conoció a su marido cuando viajaban por Cuba.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No me puedo imaginar a Daniel cuando da clases de ruso.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Me gusta fotografiar a la gente mientras camina por la ciudad.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Ayer había aquí un hombre que vendía dulces.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Recuerdo a Ana cuando daba sus primeros pasos.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>En el parque hay dos chicos que tocan la guitarra.</u> _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la forma adecuada de seguir o llevar y el gerundio de los verbos del recuadro.",
+      "banco_palabras": [
+        "tomar",
+        "esperar",
+        "leer",
+        "salir",
+        "trabajar",
+        "vivir",
+        "vivir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "—¿Dónde trabajas ahora, Carlos? —_____ en la academia de idiomas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Cuánto tiempo _____ juntos Arturo y tú cuando os casasteis?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Dónde viven tus padres ahora? —_____ en Monterrey. _____ allí casi diez años.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me duelen los ojos. _____ desde las ocho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El médico le aconsejó que no tomara azúcar, pero él _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me estoy preocupando. _____ a Marta casi una hora.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar una lista lineal de frases con la forma adecuada de seguir o llevar y el gerundio de uno de los verbos proporcionados en un banco de palabras; un verbo del banco puede aparecer repetido y un ítem contiene dos huecos."
+    }
+  ],
+  "unidad": 98,
+  "titulo_libro": "trabajando, comiendo, viviendo -- Gerundio",
+  "scan": "libro-rojo-206.png"
+}

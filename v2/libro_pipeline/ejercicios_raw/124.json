@@ -1,0 +1,348 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "124.1a",
+      "tipologia": "T16",
+      "tipologia_libre": null,
+      "enunciado": "Divida en sílabas las palabras de más de dos sílabas.",
+      "items": [
+        {
+          "texto_enunciado": "camión _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cien _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "diez _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cuerno _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ciudad _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "viuda _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "océano _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "hoy _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "egipcio _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "junio _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "hay _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "vídeo _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ignacio _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "sentaos _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "diciembre _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "dieciocho _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ruiz _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "hablabais _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cambiáis _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cuídate _____",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "División silábica: se presentan veinte palabras y una línea de escritura debajo de cada una para que el alumno las divida en sílabas. El primer ítem aparece resuelto como modelo en la página."
+    },
+    {
+      "subejercicio": "124.1b",
+      "tipologia": "T16",
+      "tipologia_libre": null,
+      "enunciado": "Ahora subraye la sílaba fuerte en las palabras de más de dos sílabas.",
+      "items": [
+        {
+          "texto_enunciado": "camión",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cien",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "diez",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cuerno",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ciudad",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "viuda",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "océano",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "hoy",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "egipcio",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "junio",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "hay",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "vídeo",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ignacio",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "sentaos",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "diciembre",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "dieciocho",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ruiz",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "hablabais",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cambiáis",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cuídate",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Identificación de la sílaba tónica: se repite la lista de veinte palabras y el alumno debe subrayar directamente la sílaba fuerte de cada palabra."
+    },
+    {
+      "subejercicio": "124.2",
+      "tipologia": "T16",
+      "tipologia_libre": null,
+      "enunciado": "Escriba la tilde sobre la sílaba fuerte donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "estáis",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cuidate",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "habitacion",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Europa",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Colombia",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "acostaos",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jamaica",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "bacalao",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ruinas",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "levantaos",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Acentuación directa sobre palabras: se presentan diez palabras sin espacio de respuesta independiente y el alumno debe escribir la tilde sobre la sílaba fuerte cuando sea necesaria."
+    },
+    {
+      "subejercicio": "124.3",
+      "tipologia": "T16",
+      "tipologia_libre": null,
+      "enunciado": "Escriba la tilde en los casos en que sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "<strong>tí</strong>-a",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "o-<strong>i</strong>-do",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ra-<strong>iz</strong>",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "re-lo-je-<strong>ri</strong>-a",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<strong>o</strong>-le-o",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ha-<strong>ci</strong>-a",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "a-<strong>hi</strong>",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<strong>he</strong>-ro-e",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ve-<strong>hi</strong>-cu-lo",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "su-<strong>bi</strong>-os",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<strong>fri</strong>-o",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "en-<strong>vi</strong>-an",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "a-cen-<strong>tu</strong>-o",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "a-cen-tu-<strong>ar</strong>",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ba-<strong>ul</strong>",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "en-vi-<strong>a</strong>-mos",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<strong>mi</strong>-o",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ves-<strong>ti</strong>-os",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "reu-<strong>nir</strong>",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "son-re-<strong>ir</strong>",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Acentuación de palabras previamente divididas en sílabas: la sílaba fuerte aparece destacada en negrita, representada mediante etiquetas <strong>, y el alumno debe añadir la tilde cuando sea necesaria."
+    },
+    {
+      "subejercicio": "124.4",
+      "tipologia": "T16",
+      "tipologia_libre": null,
+      "enunciado": "Escriba la tilde donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "oigo, oyes, oye, oimos, ois, oyen",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "rei, reiste, rio, reimos, reisteis, rieron",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "actuo, actuas, actua, actuamos, actuais, actuan",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "reuno, reunes, reune, reunimos, reunis, reunen",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Acentuación de paradigmas verbales: cada ítem contiene una serie de seis formas conjugadas del mismo verbo y el alumno debe escribir las tildes directamente sobre las formas que las necesiten."
+    }
+  ],
+  "unidad": 124,
+  "titulo_libro": "adiós, león, continúa -- Reglas de acentuación (2)",
+  "scan": "libro-rojo-260.png"
+}

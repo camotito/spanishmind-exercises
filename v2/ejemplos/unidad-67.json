@@ -1,0 +1,184 @@
+{
+  "tema": "unidad-67",
+  "titulo": "trabajaré, comeré, viviré",
+  "descripcion_gramatical": "Futuro simple: verbos regulares",
+  "fuente": "libro",
+  "unidad_libro": 67,
+  "ejercicios": [
+    {
+      "subejercicio": "67.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el futuro simple de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Hoy no puedo ir. (Ir) _____ mañana.",
+          "solucion_correcta": [
+            "Iré"
+          ]
+        },
+        {
+          "texto_enunciado": "–Nos vamos hoy a Panamá. –¿Y cuándo (volver) _____?",
+          "solucion_correcta": [
+            "volveréis"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy no te puedo llamar. Te (llamar) _____ el lunes.",
+          "solucion_correcta": [
+            "llamaré"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Habéis acabado la traducción? –No, la (acabar) _____ la semana que viene.",
+          "solucion_correcta": [
+            "acabaremos"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Han arreglado ya el ordenador? –No, lo (arreglar) _____ en cuanto puedan.",
+          "solucion_correcta": [
+            "arreglarán"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Has ido al dentista? –Todavía no. (Ir) _____ cuando tenga tiempo.",
+          "solucion_correcta": [
+            "Iré"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Puedes prestarme tu bicicleta? –Sí, claro, pero ¿cuándo me la (devolver) _____?",
+          "solucion_correcta": [
+            "devolverás"
+          ]
+        },
+        {
+          "texto_enunciado": "Estas plantas están secas. Riégalas o (morirse) _____.",
+          "solucion_correcta": [
+            "se morirán"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Crees que (yo, aprobar) _____? –(Aprobar) _____ si estudias mucho.",
+          "solucion_correcta": [
+            "aprobaré",
+            "Aprobarás"
+          ]
+        },
+        {
+          "texto_enunciado": "Ahora no tenemos hambre. (Comer) _____ más tarde.",
+          "solucion_correcta": [
+            "Comeremos"
+          ]
+        },
+        {
+          "texto_enunciado": "–Quiero una bici. –Te (yo, regalar) _____ una para Reyes.",
+          "solucion_correcta": [
+            "regalaré"
+          ]
+        },
+        {
+          "texto_enunciado": "–Me gustaría ir a Cuba. –(Ir) _____ en cuanto podamos.",
+          "solucion_correcta": [
+            "Iremos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "67.2",
+      "tipologia": "T4",
+      "enunciado": "Complete la predicción del tiempo para el próximo fin de semana.",
+      "items": [
+        {
+          "texto_enunciado": "El fin de semana (ser) _____ bastante frío. El sábado (bajar) _____ las temperaturas en todo el país y (nevar) _____ en zonas altas del norte. El domingo (subir) _____ un poco las temperaturas aunque (seguir) _____ haciendo frío. (Llover) _____ en el oeste y suroeste. En el centro (soplar) _____ fuertes vientos del norte.",
+          "solucion_correcta": [
+            "será",
+            "bajarán",
+            "nevará",
+            "subirán",
+            "Seguirá",
+            "Lloverá",
+            "Soplarán"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "67.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las predicciones del horóscopo.",
+      "items": [
+        {
+          "texto_enunciado": "Aries: _____ muchas invitaciones. _____ una semana muy divertida, aunque _____ un poco cansado y _____ más dinero de lo normal.",
+          "solucion_correcta": [
+            "Recibirá",
+            "Será",
+            "se sentirá",
+            "gastará"
+          ]
+        },
+        {
+          "texto_enunciado": "Tauro: _____ envuelto en problemas, aunque sus amigos le _____. Su salud _____ excelente.",
+          "solucion_correcta": [
+            "Se verá",
+            "ayudarán",
+            "será"
+          ]
+        },
+        {
+          "texto_enunciado": "Cáncer: _____ a algún país lejano y _____ a alguien importante. _____ su situación económica.",
+          "solucion_correcta": [
+            "Viajará",
+            "conocerá",
+            "Mejorará"
+          ]
+        },
+        {
+          "texto_enunciado": "Escorpio: _____ todos sus problemas. _____ unos días muy felices con familia y amigos y _____ una sorpresa agradable.",
+          "solucion_correcta": [
+            "Desaparecerán",
+            "Pasará",
+            "recibirá"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "ayudar",
+        "conocer",
+        "desaparecer",
+        "gastar",
+        "mejorar",
+        "pasar",
+        "recibir",
+        "recibir",
+        "sentirse",
+        "ser",
+        "ser",
+        "verse",
+        "viajar"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "signo": "Aries",
+            "imagen": "glifo zodiacal de Aries"
+          },
+          {
+            "signo": "Tauro",
+            "imagen": "glifo zodiacal de Tauro"
+          },
+          {
+            "signo": "Cáncer",
+            "imagen": "glifo zodiacal de Cáncer"
+          },
+          {
+            "signo": "Escorpio",
+            "imagen": "glifo zodiacal de Escorpio"
+          }
+        ]
+      }
+    }
+  ]
+}

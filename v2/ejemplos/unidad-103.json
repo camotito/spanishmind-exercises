@@ -1,0 +1,223 @@
+{
+  "tema": "unidad-103",
+  "titulo": "siempre, de vez en cuando, a veces...",
+  "descripcion_gramatical": "Adverbios y expresiones de frecuencia",
+  "fuente": "libro",
+  "unidad_libro": 103,
+  "ejercicios": [
+    {
+      "subejercicio": "103.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con las expresiones del recuadro. En algunos casos se puede usar más de una.",
+      "items": [
+        {
+          "texto_enunciado": "_____ salgo con Teresa. Ahora vivimos muy lejos.",
+          "solucion_correcta": [
+            "Casi nunca"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, suelo cenar en casa.",
+          "solucion_correcta": [
+            "Normalmente"
+          ]
+        },
+        {
+          "texto_enunciado": "Me levanto _____ a las siete. Me gusta madrugar.",
+          "solucion_correcta": [
+            "siempre"
+          ]
+        },
+        {
+          "texto_enunciado": "Vamos _____ al cine, dos o tres veces al mes.",
+          "solucion_correcta": [
+            "mucho/a menudo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ me acuesto antes de las doce. No puedo dormirme antes.",
+          "solucion_correcta": [
+            "Nunca"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis padres hacen un viaje _____, una o dos veces al año.",
+          "solucion_correcta": [
+            "de vez en cuando"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Ves _____ a Lola? –_____. La última vez fue hace dos meses.",
+          "solucion_correcta": [
+            "mucho",
+            "casi nunca"
+          ]
+        },
+        {
+          "texto_enunciado": "Viajo _____ a Argentina. Tengo muchos parientes y me gusta verlos.",
+          "solucion_correcta": [
+            "mucho/a menudo/frecuentemente"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "a menudo",
+        "casi nunca",
+        "casi nunca",
+        "de vez en cuando",
+        "de vez en cuando",
+        "frecuentemente",
+        "mucho",
+        "mucho",
+        "normalmente",
+        "nunca"
+      ]
+    },
+    {
+      "subejercicio": "103.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases añadiendo la expresión entre paréntesis en el lugar indicado. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Voy ↑ al cine. (nunca) _____",
+          "solucion_correcta": [
+            "No voy nunca al cine"
+          ]
+        },
+        {
+          "texto_enunciado": "↑ Salgo por la noche. (nunca) _____",
+          "solucion_correcta": [
+            "Nunca salgo por la noche"
+          ]
+        },
+        {
+          "texto_enunciado": "Fernando ↑ viaja en coche. (casi nunca) _____",
+          "solucion_correcta": [
+            "Fernando casi nunca viaja en coche"
+          ]
+        },
+        {
+          "texto_enunciado": "Vemos ↑ la tele. (casi nunca) _____",
+          "solucion_correcta": [
+            "No vemos casi nunca la tele"
+          ]
+        },
+        {
+          "texto_enunciado": "Diana me llama ↑. (nunca) _____",
+          "solucion_correcta": [
+            "Diana no me llama nunca"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "103.3",
+      "tipologia": "T14",
+      "enunciado": "Coloque las expresiones del recuadro por orden, de mayor a menor frecuencia.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "todos los días"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "cada dos días"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ / _____",
+          "solucion_correcta": [
+            "una vez a la semana/los lunes"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "cada quince días"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "un día al mes"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "una vez al año"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "todos los días",
+        "una vez a la semana",
+        "un día al mes",
+        "los lunes",
+        "cada dos días",
+        "dos veces al año",
+        "cada quince días"
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Escala vertical de mayor a menor frecuencia, con un signo positivo en la parte superior y un signo negativo en la parte inferior.",
+          "Seis niveles numerados; el tercer nivel admite dos expresiones de igual frecuencia separadas por una barra."
+        ]
+      }
+    },
+    {
+      "subejercicio": "103.4",
+      "tipologia": "T6",
+      "enunciado": "Vuelva a escribir las frases con las expresiones de frecuencia correspondientes.",
+      "items": [
+        {
+          "texto_enunciado": "[enero *, febrero *...] (salimos a cenar con amigos) _____",
+          "solucion_correcta": [
+            "Salimos a cenar con amigos una vez al mes"
+          ]
+        },
+        {
+          "texto_enunciado": "[martes, martes, martes...] (tenemos clases de español) _____",
+          "solucion_correcta": [
+            "Tenemos clases de español todos los martes"
+          ]
+        },
+        {
+          "texto_enunciado": "[L M Ⓧ J V S D] (voy al gimnasio) _____",
+          "solucion_correcta": [
+            "Voy al gimnasio una vez a la semana"
+          ]
+        },
+        {
+          "texto_enunciado": "[2001, 2002, 2003...] (pasamos unos días en Cancún) _____",
+          "solucion_correcta": [
+            "Pasamos unos días en Cancún todos los años"
+          ]
+        },
+        {
+          "texto_enunciado": "[marzo **, abril **...] (Elena tiene que ir al médico) _____",
+          "solucion_correcta": [
+            "Elena tiene que ir al médico dos veces al mes"
+          ]
+        },
+        {
+          "texto_enunciado": "[L***, M***...] (Martín se lava los dientes) _____",
+          "solucion_correcta": [
+            "Martín se lava los dientes tres veces al día"
+          ]
+        },
+        {
+          "texto_enunciado": "[S D, S D, S D...] (hacemos algún viaje) _____",
+          "solucion_correcta": [
+            "Todos los fines de semana hacemos algún viaje"
+          ]
+        }
+      ]
+    }
+  ]
+}

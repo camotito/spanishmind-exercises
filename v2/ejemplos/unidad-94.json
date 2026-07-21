@@ -1,0 +1,221 @@
+{
+  "tema": "unidad-94",
+  "titulo": "Me puse a trabajar. Voy a trabajar",
+  "descripcion_gramatical": "Expresiones con infinitivo (1)",
+  "fuente": "libro",
+  "unidad_libro": 94,
+  "ejercicios": [
+    {
+      "subejercicio": "94.1",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las palabras subrayadas por expresiones con echar(se) a o ponerse a.",
+      "items": [
+        {
+          "texto_enunciado": "En cuanto bajó del coche, <u>empezó a correr</u>. _____",
+          "solucion_correcta": [
+            "En cuanto bajó del coche se puso/echó a correr"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando les conté lo de Rafa, <u>empezaron a reírse</u>. _____",
+          "solucion_correcta": [
+            "Cuando les conté lo de Rafa se pusieron/echaron a reír"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi hermana <u>empezó a llorar</u> cuando se enteró de la noticia. _____",
+          "solucion_correcta": [
+            "Mi hermana se puso/echó a llorar cuando se enteró de la noticia"
+          ]
+        },
+        {
+          "texto_enunciado": "Todos <u>empezaron a trabajar</u> cuando volvió la luz. _____",
+          "solucion_correcta": [
+            "Todos se pusieron a trabajar cuando volvió la luz"
+          ]
+        },
+        {
+          "texto_enunciado": "Todo el mundo <u>empezó a correr</u> cuando se oyó la explosión. _____",
+          "solucion_correcta": [
+            "Todo el mundo se puso a correr/echó a correr cuando se oyó la explosión"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>No empieces a leer</u> el periódico ahora. _____",
+          "solucion_correcta": [
+            "No te pongas a leer el periódico ahora"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "94.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con dejar de / no dejar de en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Marisa ya no come carne de vaca. _____",
+          "solucion_correcta": [
+            "Marisa ha dejado de comer carne de vaca"
+          ]
+        },
+        {
+          "texto_enunciado": "No olvides escribirnos cuando estés en Perú. _____",
+          "solucion_correcta": [
+            "No dejes de escribirnos cuando estés en Perú"
+          ]
+        },
+        {
+          "texto_enunciado": "Marta ya no sale con Emilio. _____",
+          "solucion_correcta": [
+            "Marta ha dejado de salir con Emilio"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando llegamos a la playa, ya no llovía. _____",
+          "solucion_correcta": [
+            "Cuando llegamos a la playa, había dejado de llover"
+          ]
+        },
+        {
+          "texto_enunciado": "No olviden llamarme cuando vengan a Sevilla. _____",
+          "solucion_correcta": [
+            "No dejen de llamarme cuando vengan a Sevilla"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya no hace viento. _____",
+          "solucion_correcta": [
+            "Ha dejado de hacer viento"
+          ]
+        },
+        {
+          "texto_enunciado": "Rocío ya no me quiere. _____",
+          "solucion_correcta": [
+            "Rocío ha dejado de quererme"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "94.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con acabar de en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "He visto a Ángel hace un momento. _____",
+          "solucion_correcta": [
+            "Acabo de ver a Ángel"
+          ]
+        },
+        {
+          "texto_enunciado": "Habíamos comido hacía un momento cuando llegaron Susi y Toni. _____",
+          "solucion_correcta": [
+            "Acabábamos de comer cuando llegaron Susi y Toni"
+          ]
+        },
+        {
+          "texto_enunciado": "He regresado de vacaciones hace un momento. _____",
+          "solucion_correcta": [
+            "Acabo de regresar de vacaciones"
+          ]
+        },
+        {
+          "texto_enunciado": "Se habían ido hacía un momento cuando llamaste. _____",
+          "solucion_correcta": [
+            "Acababan de irse / Se acababan de ir cuando llamaste"
+          ]
+        },
+        {
+          "texto_enunciado": "El accidente ha ocurrido hace un momento. _____",
+          "solucion_correcta": [
+            "El accidente acaba de ocurrir"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando llegamos al hospital, hacía un momento que había nacido Irene. _____",
+          "solucion_correcta": [
+            "Cuando llegamos al hospital, acababa de nacer Irene"
+          ]
+        },
+        {
+          "texto_enunciado": "Se ha estropeado el ordenador hace un momento. _____",
+          "solucion_correcta": [
+            "Acaba de estropearse el ordenador. / Se acaba de estropear el ordenador"
+          ]
+        },
+        {
+          "texto_enunciado": "El espectáculo ha empezado hace un momento. _____",
+          "solucion_correcta": [
+            "El espectáculo acaba de empezar"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "94.4",
+      "tipologia": "T8",
+      "enunciado": "Utilice la forma adecuada de ir a + los infinitivos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____ la tele. Es un rollo.",
+          "solucion_correcta": [
+            "Voy a apagar"
+          ]
+        },
+        {
+          "texto_enunciado": "Encarna y Guille _____ un chalé este verano.",
+          "solucion_correcta": [
+            "van a alquilar"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ algo. Tengo hambre.",
+          "solucion_correcta": [
+            "Voy a comer"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ cuando se presentaron unos amigos y tuvimos que quedarnos.",
+          "solucion_correcta": [
+            "Íbamos a salir"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Cuidado! _____ el niño.",
+          "solucion_correcta": [
+            "Se va a caer"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ la puerta cuando oí el teléfono.",
+          "solucion_correcta": [
+            "Iba a abrir"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. _____ todos cuando haya nieve.",
+          "solucion_correcta": [
+            "Iremos a esquiar"
+          ]
+        },
+        {
+          "texto_enunciado": "Date prisa. _____ los invitados.",
+          "solucion_correcta": [
+            "Van a llegar"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "abrir",
+        "alquilar",
+        "apagar",
+        "caerse",
+        "comer",
+        "esquiar",
+        "llegar",
+        "salir"
+      ]
+    }
+  ]
+}

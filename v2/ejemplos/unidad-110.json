@@ -1,0 +1,248 @@
+{
+  "tema": "unidad-110",
+  "titulo": "a las cinco, por la mañana...",
+  "descripcion_gramatical": "Preposiciones (1)",
+  "fuente": "libro",
+  "unidad_libro": 110,
+  "ejercicios": [
+    {
+      "subejercicio": "110.1",
+      "tipologia": "T13",
+      "enunciado": "Una las columnas con las preposiciones adecuadas.",
+      "items": [
+        {
+          "texto_enunciado": "Despiértame",
+          "solucion_correcta": [
+            "Despiértame a las siete"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Los domingos solo trabajo",
+          "solucion_correcta": [
+            "Los domingos sólo trabajo por la mañana"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Mi cumpleaños es el 31",
+          "solucion_correcta": [
+            "Mi cumpleaños es el 31 de octubre"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Natalia nació",
+          "solucion_correcta": [
+            "Natalia nació en el año 1987"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Podemos quedar",
+          "solucion_correcta": [
+            "Podemos quedar a mediodía para tomar algo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Lo siento. No puedo salir",
+          "solucion_correcta": [
+            "Lo siento. No puedo salir en este momento"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Ana no puede estudiar",
+          "solucion_correcta": [
+            "Ana no puede estudiar por la noche. Se duerme"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "A veces vamos a esquiar",
+          "solucion_correcta": [
+            "A veces vamos a esquiar en invierno"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Llegaron a las dos",
+          "solucion_correcta": [
+            "Llegaron a las dos de la tarde, cuando estábamos comiendo"
+          ],
+          "revisar": true
+        }
+      ],
+      "banco_palabras": [
+        "a",
+        "de",
+        "en",
+        "por"
+      ]
+    },
+    {
+      "subejercicio": "110.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con a, hasta, de, desde o dentro de.",
+      "items": [
+        {
+          "texto_enunciado": "Manuel vivió en Venezuela _____ 1993 _____ 1998.",
+          "solucion_correcta": [
+            "de/desde",
+            "a/hasta"
+          ]
+        },
+        {
+          "texto_enunciado": "Trabajé en una empresa mexicana _____ el año pasado.",
+          "solucion_correcta": [
+            "hasta"
+          ]
+        },
+        {
+          "texto_enunciado": "Patricia vive en Madrid _____ 2001.",
+          "solucion_correcta": [
+            "desde"
+          ]
+        },
+        {
+          "texto_enunciado": "Los bancos abren _____ ocho _____ dos.",
+          "solucion_correcta": [
+            "de",
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero ir a Bolivia _____ dos meses.",
+          "solucion_correcta": [
+            "dentro de"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche no me pude dormir _____ las tres.",
+          "solucion_correcta": [
+            "hasta"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo mucho trabajo. No estoy libre _____ el jueves.",
+          "solucion_correcta": [
+            "hasta"
+          ]
+        },
+        {
+          "texto_enunciado": "Olga lleva enferma _____ el lunes.",
+          "solucion_correcta": [
+            "desde"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Cuándo regresa Sebastián? –_____ unos días.",
+          "solucion_correcta": [
+            "Dentro de"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "110.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con de, desde, a, hasta, dentro de, durante y las expresiones entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Darío estuvo con nosotros (el principio, el fin del verano) _____.",
+          "solucion_correcta": [
+            "Darío estuvo con nosotros desde el principio hasta el fin del verano"
+          ]
+        },
+        {
+          "texto_enunciado": "Emilia vivió en Honduras (1999–2002) _____.",
+          "solucion_correcta": [
+            "Emilia vivió en Honduras de 1999 a 2002"
+          ]
+        },
+        {
+          "texto_enunciado": "Eva y Mario se casan (tres meses) _____.",
+          "solucion_correcta": [
+            "Eva y Mario se casan dentro de tres meses"
+          ]
+        },
+        {
+          "texto_enunciado": "Trabajo en esta oficina (el mes pasado) _____.",
+          "solucion_correcta": [
+            "Trabajo en esta oficina desde el mes pasado"
+          ]
+        },
+        {
+          "texto_enunciado": "Voy a un gimnasio (siete, nueve) _____.",
+          "solucion_correcta": [
+            "Voy a un gimnasio de siete a nueve. / Voy a un gimnasio desde las siete hasta las nueve"
+          ]
+        },
+        {
+          "texto_enunciado": "Me voy. Ya no nos vemos (la semana que viene) _____.",
+          "solucion_correcta": [
+            "Me voy. Ya no nos vemos hasta la semana que viene"
+          ]
+        },
+        {
+          "texto_enunciado": "Gracias por todo. He estado muy a gusto (estos días) _____.",
+          "solucion_correcta": [
+            "He estado muy a gusto durante estos días"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "110.4",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con antes de, durante o después de y las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Gabriel estuvo hablando _____.",
+          "solucion_correcta": [
+            "durante toda la clase"
+          ]
+        },
+        {
+          "texto_enunciado": "Estábamos agotados _____.",
+          "solucion_correcta": [
+            "después de la caminata por la sierra"
+          ]
+        },
+        {
+          "texto_enunciado": "Mónica estaba muy nerviosa _____.",
+          "solucion_correcta": [
+            "antes de la entrevista"
+          ]
+        },
+        {
+          "texto_enunciado": "Me quedé muy relajada _____.",
+          "solucion_correcta": [
+            "después de la ducha"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que tener los móviles apagados _____.",
+          "solucion_correcta": [
+            "durante los conciertos"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo que acabar este trabajo _____.",
+          "solucion_correcta": [
+            "antes del viernes"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "caminata por la sierra",
+        "el viernes",
+        "la entrevista",
+        "la ducha",
+        "los conciertos",
+        "toda la clase"
+      ]
+    }
+  ]
+}

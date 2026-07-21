@@ -1,0 +1,227 @@
+{
+  "tema": "unidad-119",
+  "titulo": "porque, como, puesto que...",
+  "descripcion_gramatical": "Oraciones causales",
+  "fuente": "libro",
+  "unidad_libro": 119,
+  "ejercicios": [
+    {
+      "subejercicio": "119.1",
+      "tipologia": "T9",
+      "enunciado": "Ordene las palabras de forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "el accidente / llegaron tarde / por _____.",
+          "solucion_correcta": [
+            "Llegaron tarde por el accidente"
+          ]
+        },
+        {
+          "texto_enunciado": "porque / no se oye nada / hay mucho ruido _____.",
+          "solucion_correcta": [
+            "No se oye nada porque hay mucho ruido"
+          ]
+        },
+        {
+          "texto_enunciado": "ya que / cómprame el periódico / sales _____.",
+          "solucion_correcta": [
+            "Ya que sales, cómprame el periódico"
+          ]
+        },
+        {
+          "texto_enunciado": "cogimos el coche / como / estaba lloviendo _____.",
+          "solucion_correcta": [
+            "Como estaba lloviendo, cogimos el coche"
+          ]
+        },
+        {
+          "texto_enunciado": "Inés está resfriada / se ha quedado en casa / como _____.",
+          "solucion_correcta": [
+            "Como Inés está resfriada, se ha quedado en casa"
+          ]
+        },
+        {
+          "texto_enunciado": "por / terminar la carrera / le hicieron un regalo _____.",
+          "solucion_correcta": [
+            "Le hicieron un regalo por terminar la carrera"
+          ]
+        },
+        {
+          "texto_enunciado": "estaba lloviendo / Menchu no salió / porque _____.",
+          "solucion_correcta": [
+            "Menchu no"
+          ]
+        },
+        {
+          "texto_enunciado": "ustedes me lo piden / puesto que / tocaré otra pieza _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "119.2",
+      "tipologia": "T8",
+      "enunciado": "Complete los espacios en blanco con las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Félix está cansado _____ trabaja mucho.",
+          "solucion_correcta": [
+            "porque"
+          ]
+        },
+        {
+          "texto_enunciado": "Se han inundado las calles _____ la lluvia.",
+          "solucion_correcta": [
+            "a causa de"
+          ]
+        },
+        {
+          "texto_enunciado": "A Arturo lo despidieron _____ llegar siempre tarde.",
+          "solucion_correcta": [
+            "por"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ no habla mucho, la gente cree que Rafa es tímido.",
+          "solucion_correcta": [
+            "Como"
+          ]
+        },
+        {
+          "texto_enunciado": "Me quedaré a cenar, _____ insisten.",
+          "solucion_correcta": [
+            "ya que"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdió la voz _____ gritar.",
+          "solucion_correcta": [
+            "por"
+          ]
+        },
+        {
+          "texto_enunciado": "Ramiro no sacó al perro _____ se quedó dormido.",
+          "solucion_correcta": [
+            "porque"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ estaba navegando en Internet, me olvidé de cenar.",
+          "solucion_correcta": [
+            "Como"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "a causa de",
+        "como",
+        "como",
+        "por",
+        "por",
+        "porque",
+        "porque",
+        "ya que"
+      ]
+    },
+    {
+      "subejercicio": "119.3",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con las expresiones entre paréntesis. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Nadie quería ir al cine. Me fui sola. (como) _____.",
+          "solucion_correcta": [
+            "Como nadie quería ir al cine, me fui sola"
+          ]
+        },
+        {
+          "texto_enunciado": "Estáis aquí. Quedaos a cenar. (ya que) _____.",
+          "solucion_correcta": [
+            "Ya que estáis aquí, quedaos a cenar"
+          ]
+        },
+        {
+          "texto_enunciado": "Fui el primero en entregar el trabajo. Me felicitó el profesor. (por) _____.",
+          "solucion_correcta": [
+            "Me felicitó el profesor por ser el primero en entregar el trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana es domingo. No tengo que ir a la oficina. (como) _____.",
+          "solucion_correcta": [
+            "Como mañana es domingo, no tengo que ir a la oficina"
+          ]
+        },
+        {
+          "texto_enunciado": "No querían despertar a los niños. Apagaron la televisión. (porque) _____.",
+          "solucion_correcta": [
+            "Apagaron la televisión porque no querían despertar a los niños"
+          ]
+        },
+        {
+          "texto_enunciado": "Los aeropuertos están cerrados. Hay nieve. (a causa de) _____.",
+          "solucion_correcta": [
+            "Los aeropuertos están cerrados a causa de la nieve"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa es muy generosa. Tiene muchos amigos. (porque) _____.",
+          "solucion_correcta": [
+            "Rosa tiene muchos amigos porque es muy generosa"
+          ]
+        },
+        {
+          "texto_enunciado": "Lee sin luz. Le duele la cabeza. (por) _____.",
+          "solucion_correcta": [
+            "Le duele la cabeza por leer sin luz"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "119.4",
+      "tipologia": "T8",
+      "enunciado": "Escriba las respuestas con es que y una frase del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Damos una vuelta? —_____.",
+          "solucion_correcta": [
+            "Es que estoy cansado"
+          ]
+        },
+        {
+          "texto_enunciado": "—Come más pollo. —_____.",
+          "solucion_correcta": [
+            "Es que no tengo mucha hambre"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Por qué no vamos al cine esta noche? —_____.",
+          "solucion_correcta": [
+            "Es que tenemos que estudiar"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Por qué no me llamaste anoche? —_____.",
+          "solucion_correcta": [
+            "Es que tenía el móvil descargado"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Por qué no ha venido Anita? —_____.",
+          "solucion_correcta": [
+            "Es que está enfadada"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "está enfadada",
+        "estoy cansado",
+        "tenía el móvil descargado",
+        "tengo que estudiar",
+        "no tengo mucha hambre"
+      ]
+    }
+  ]
+}

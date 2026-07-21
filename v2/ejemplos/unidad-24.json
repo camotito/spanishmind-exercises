@@ -1,0 +1,204 @@
+{
+  "tema": "unidad-24",
+  "titulo": "más, menos, tanto como",
+  "descripcion_gramatical": "Comparación con nombres",
+  "fuente": "libro",
+  "unidad_libro": 24,
+  "ejercicios": [
+    {
+      "subejercicio": "24.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con más, menos o tanto, tanta, tantos, tantas.",
+      "items": [
+        {
+          "texto_enunciado": "Buenos Aires tiene (+) _____ habitantes que Madrid.",
+          "solucion_correcta": [
+            "más"
+          ]
+        },
+        {
+          "texto_enunciado": "Ahora bebo (−) _____ leche que cuando era pequeño.",
+          "solucion_correcta": [
+            "menos"
+          ]
+        },
+        {
+          "texto_enunciado": "Sol ha leído (+) _____ libros que yo.",
+          "solucion_correcta": [
+            "más"
+          ]
+        },
+        {
+          "texto_enunciado": "No tengo (=) _____ amigos como mi hermana.",
+          "solucion_correcta": [
+            "tantos"
+          ]
+        },
+        {
+          "texto_enunciado": "En Canarias no hace (=) _____ calor como en Cuba.",
+          "solucion_correcta": [
+            "tanto"
+          ]
+        },
+        {
+          "texto_enunciado": "José Manuel trabaja (−) _____ horas que tú.",
+          "solucion_correcta": [
+            "menos"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenemos (=) _____ prisa como tú.",
+          "solucion_correcta": [
+            "tanta"
+          ]
+        },
+        {
+          "texto_enunciado": "Samuel tiene (+) _____ ropa que yo.",
+          "solucion_correcta": [
+            "más"
+          ]
+        },
+        {
+          "texto_enunciado": "En La Paz hace (+) _____ frío que en Caracas.",
+          "solucion_correcta": [
+            "más"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "24.2",
+      "tipologia": "T6",
+      "enunciado": "Establezca comparaciones utilizando las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Roberto tiene 200 pesos. Clara tiene 20. Clara tiene _____.",
+          "solucion_correcta": [
+            "menos dinero que Roberto"
+          ]
+        },
+        {
+          "texto_enunciado": "Elsa bebe 1/2 litro de leche al día. Eloy bebe 1 litro. Elsa no bebe _____.",
+          "solucion_correcta": [
+            "tanta leche como Eloy"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy hace 30°. Ayer hizo 25°. Hoy hace _____.",
+          "solucion_correcta": [
+            "más calor que ayer"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosario tiene un millón de habitantes; Mendoza tiene un millón y medio de habitantes. Rosario no tiene _____.",
+          "solucion_correcta": [
+            "tantos habitantes como Mendoza"
+          ]
+        },
+        {
+          "texto_enunciado": "Simón tiene 30 años; yo tengo 28. Simón tiene _____.",
+          "solucion_correcta": [
+            "más años que yo"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer vinieron doce estudiantes; hoy han venido diez. Hoy no han venido _____.",
+          "solucion_correcta": [
+            "tantos estudiantes como ayer"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer hizo 5°. Hoy hace 10°. Hoy no hace _____.",
+          "solucion_correcta": [
+            "tanto frío como ayer"
+          ]
+        },
+        {
+          "texto_enunciado": "No he comido nada desde esta mañana; Irene no ha comido nada desde anoche. Irene tiene _____.",
+          "solucion_correcta": [
+            "más hambre que yo"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo dos corbatas; tú también tienes dos corbatas. Tengo _____.",
+          "solucion_correcta": [
+            "tantas corbatas como tú"
+          ]
+        },
+        {
+          "texto_enunciado": "Habéis recibido cinco postales este verano; yo he recibido tres. He recibido _____.",
+          "solucion_correcta": [
+            "menos postales que vosotros"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "años",
+        "calor",
+        "corbatas",
+        "dinero",
+        "estudiantes",
+        "frío",
+        "habitantes",
+        "hambre",
+        "leche",
+        "postales"
+      ]
+    },
+    {
+      "subejercicio": "24.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las respuestas como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "–Felipe tiene dos hijos. –Yo tengo _____. Tengo cuatro.",
+          "solucion_correcta": [
+            "más"
+          ]
+        },
+        {
+          "texto_enunciado": "–Tengo siete hermanos. –Yo tengo casi _____. Tengo seis.",
+          "solucion_correcta": [
+            "tantos como tú"
+          ]
+        },
+        {
+          "texto_enunciado": "–Aurora tiene 30 días de vacaciones. –Yo tengo _____. Tengo 22.",
+          "solucion_correcta": [
+            "menos"
+          ]
+        },
+        {
+          "texto_enunciado": "–Tengo unos quinientos libros. –Yo no tengo _____. Tengo unos trescientos.",
+          "solucion_correcta": [
+            "tantos"
+          ]
+        },
+        {
+          "texto_enunciado": "–Tengo sueño. He dormido solo cuatro horas. –Yo tengo _____. He dormido solo dos horas.",
+          "solucion_correcta": [
+            "más"
+          ]
+        },
+        {
+          "texto_enunciado": "–Hoy hay cerca de doscientos espectadores. –Ayer había _____. Había solo cincuenta.",
+          "solucion_correcta": [
+            "menos"
+          ]
+        },
+        {
+          "texto_enunciado": "–Hemos estado en diez países diferentes. –Yo he estado en _____. He estado en doce.",
+          "solucion_correcta": [
+            "más"
+          ]
+        },
+        {
+          "texto_enunciado": "–Trabajo ocho horas al día. –Yo trabajo _____. También trabajo ocho.",
+          "solucion_correcta": [
+            "tanto como tú"
+          ]
+        }
+      ]
+    }
+  ]
+}

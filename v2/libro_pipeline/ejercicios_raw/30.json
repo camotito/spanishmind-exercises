@@ -1,0 +1,132 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "30.1",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Ordene las palabras de las siguientes preguntas.",
+      "items": [
+        {
+          "texto_enunciado": "¿tiene / en la mano / Julián / qué? _____"
+        },
+        {
+          "texto_enunciado": "¿quién / Eloísa / está bailando / con? _____"
+        },
+        {
+          "texto_enunciado": "¿ese anillo / para / es / quién? _____"
+        },
+        {
+          "texto_enunciado": "¿anoche / pasó / qué? _____"
+        },
+        {
+          "texto_enunciado": "¿quién / esa bolsa / de / es? _____"
+        },
+        {
+          "texto_enunciado": "¿tus padres / te / qué / han regalado? _____"
+        },
+        {
+          "texto_enunciado": "¿la puerta / qué / has abierto / con? _____"
+        },
+        {
+          "texto_enunciado": "¿está escribiendo / una novela / quién? _____"
+        },
+        {
+          "texto_enunciado": "¿María / qué / quiere? _____"
+        },
+        {
+          "texto_enunciado": "¿quiere / a María / quién? _____"
+        },
+        {
+          "texto_enunciado": "¿es / la sopa / qué / de? _____"
+        }
+      ],
+      "tipologia_libre_original": "Ordenación de grupos de palabras separados por barras para formar preguntas completas."
+    },
+    {
+      "subejercicio": "30.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las preguntas con quién, quiénes o qué.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____ te ha regalado ese collar?"
+        },
+        {
+          "texto_enunciado": "¿De _____ es esta pluma?"
+        },
+        {
+          "texto_enunciado": "¿_____ miel tomas normalmente?"
+        },
+        {
+          "texto_enunciado": "¿Con _____ fuiste a Bolivia?"
+        },
+        {
+          "texto_enunciado": "¿_____ estás haciendo?"
+        },
+        {
+          "texto_enunciado": "¿_____ van a jugar en el equipo esta semana?"
+        },
+        {
+          "texto_enunciado": "¿_____ libros le gustan a Teresa?"
+        },
+        {
+          "texto_enunciado": "¿Con _____ has abierto el paquete?"
+        },
+        {
+          "texto_enunciado": "¿A _____ visteis anoche en la fiesta?"
+        },
+        {
+          "texto_enunciado": "¿_____ visteis anoche en la tele?"
+        },
+        {
+          "texto_enunciado": "¿_____ quería Julián?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "30.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Formule preguntas sobre la información marcada en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "–Ayer estuve <u>con Águeda</u>. –¿_____ estuviste ayer?"
+        },
+        {
+          "texto_enunciado": "–Esa silla está hecha <u>de cuerda</u>. –¿_____ está hecha esa silla?"
+        },
+        {
+          "texto_enunciado": "–Normalmente comemos con <u>pan de molde</u>. –¿_____ pan coméis?"
+        },
+        {
+          "texto_enunciado": "–Alfonso quiere comprarse <u>un CD</u>. –¿_____ quiere comprarse Alfonso?"
+        },
+        {
+          "texto_enunciado": "–Estas gafas son <u>de Pablo</u>. –¿_____ son esas gafas?"
+        },
+        {
+          "texto_enunciado": "–Georgina está trabajando <u>con su madre</u>. –¿_____ está trabajando Georgina?"
+        },
+        {
+          "texto_enunciado": "–Han ganado <u>Eduardo y Marisa</u>. –¿_____ han ganado?"
+        },
+        {
+          "texto_enunciado": "–Mira. Esos chicos están <u>bailando</u>. –¿_____ están haciendo esos chicos?"
+        },
+        {
+          "texto_enunciado": "–Belinda no quiere <u>a Ariel</u>. –¿_____ no quiere Belinda?"
+        },
+        {
+          "texto_enunciado": "–Estas flores son <u>para mi abuela</u>. –¿_____ son esas flores?"
+        },
+        {
+          "texto_enunciado": "–Me han regalado <u>unos bombones</u>. –¿_____ te han regalado?"
+        }
+      ],
+      "tipologia_libre_original": "Formulación de preguntas para solicitar la información subrayada en una oración previa."
+    }
+  ],
+  "unidad": 30,
+  "titulo_libro": "¿quién?, ¿qué?... -- Interrogativos (1)",
+  "scan": "libro-rojo-070.png"
+}

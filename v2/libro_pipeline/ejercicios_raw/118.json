@@ -1,0 +1,179 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "118.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las expresiones temporales del recuadro.",
+      "banco_palabras": [
+        "antes de",
+        "cuando",
+        "desde que",
+        "después de",
+        "en cuanto",
+        "hasta que",
+        "mientras",
+        "siempre que"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Luis, espera aquí _____ llegue Charo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ llegue a casa, me ducho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por favor, no bebas _____ conduzcas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Podemos ir a la bolera _____ cenar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ veo a Marta me da recuerdos para ti.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hans estudia español _____ tenía catorce años.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ acostarte, apaga la tele, por favor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si estás cansada, siéntate un rato _____ preparo la cena.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar una lista de frases seleccionando para cada hueco una expresión temporal de un banco de palabras compartido."
+    },
+    {
+      "subejercicio": "118.2",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (vendo/venda) el coche, me compraré una moto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando (serás/seas) mayor, podrás salir de noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ramón no quiere jubilarse hasta que no (tiene/tenga) sesenta y cinco años.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llámame en cuanto (terminas/termines) el examen.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando (vienen/vengan) tus amigos, lo pasamos muy bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sonia no piensa irse hasta que no le (das/des) el dinero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando (veo/vea) a Orestes, me pongo nerviosa.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "118.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Te compraré la bici cuando (tú, aprender) _____ a montar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes de (tú, hablar) _____, piensa en lo que vas a decir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Suelo desayunar después de (yo, ducharse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No queremos casarnos hasta que (yo, acabar) _____ la carrera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mándame un correo electrónico en cuanto (tú, saber) _____ algo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gusta cantar mientras (yo, afeitarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando (nosotros, ser) _____ jóvenes, hacíamos muchas excursiones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre que (yo, ir) _____ a la playa, llueve.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy trabajando, desde que (yo, levantarse) _____ hasta que (yo, acostarse) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "118.4",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos frases con la expresión temporal dada. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Cenaremos. Iremos a dar un paseo. Después de _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A veces me duele la cabeza. Me tomo una aspirina. Siempre que _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Seré abogado. Trabajaré en esta empresa. Cuando _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Adela vendrá. Le daré la noticia. En cuanto _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Empezó a llover. Nos fuimos a casa. _____ cuando _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me quedaré aquí. La fiesta acabará. _____ hasta que _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llegaréis a casa. Llamadme. _____ en cuanto _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tendrás 18 años. No podrás votar hasta entonces. Hasta que _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Unir cada par de frases en una sola construcción mediante la expresión temporal dada, realizando los cambios verbales y sintácticos necesarios. Algunos ítems presentan un hueco después del conector y otros dos huecos, uno a cada lado del conector."
+    }
+  ],
+  "unidad": 118,
+  "titulo_libro": "cuando, antes de que, siempre que... -- Oraciones temporales",
+  "scan": "libro-rojo-246.png"
+}

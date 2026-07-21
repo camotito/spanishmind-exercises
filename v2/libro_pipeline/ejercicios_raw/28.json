@@ -1,0 +1,137 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "28.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Ese es el señor con (que/quien) tienes que hablar."
+        },
+        {
+          "texto_enunciado": "Necesito el libro (que/el que) te presté."
+        },
+        {
+          "texto_enunciado": "Tengo un amigo (que/quien) vive en Panamá."
+        },
+        {
+          "texto_enunciado": "Este es el restaurante (que/el que) me han recomendado."
+        },
+        {
+          "texto_enunciado": "Este es el agujero por (que/el que) entran los ratones."
+        },
+        {
+          "texto_enunciado": "Sebastián es el chico (que/quien) está hablando con Lola."
+        },
+        {
+          "texto_enunciado": "¿Conoces a la señora (que/la que) nos ha saludado?"
+        },
+        {
+          "texto_enunciado": "Ese es el equipo contra (que/el que) jugamos el domingo."
+        },
+        {
+          "texto_enunciado": "Usa los pañuelos (que/los que) están en el baño."
+        },
+        {
+          "texto_enunciado": "La academia a (que/la que) voy está en el centro."
+        }
+      ]
+    },
+    {
+      "subejercicio": "28.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos frases en una sola con que, quien, quienes, el que, la que, los que o las que.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo un ventilador. Funciona con pilas. Tengo _____."
+        },
+        {
+          "texto_enunciado": "La vicuña es un mamífero. Vive en los Andes. La vicuña _____."
+        },
+        {
+          "texto_enunciado": "Ayer comimos ostras. ¿Te gustaron? ¿Te gustaron _____?"
+        },
+        {
+          "texto_enunciado": "Estoy leyendo un libro. Me gusta mucho. Me gusta mucho _____."
+        },
+        {
+          "texto_enunciado": "Paco sale con una chica. La chica es piloto. La chica _____."
+        },
+        {
+          "texto_enunciado": "He comprado unos cuadros. Te había hablado de ellos. He comprado _____."
+        },
+        {
+          "texto_enunciado": "Ayer conocí a unas chicas. Ana vivía con ellas. Ayer _____."
+        }
+      ],
+      "tipologia_libre_original": "Combinación de dos frases en una sola mediante un relativo adecuado, con un inicio de respuesta pautado."
+    },
+    {
+      "subejercicio": "28.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las respuestas con las palabras entre paréntesis y el relativo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "¿Quién es Roberto? (Un chico. Lo conocí en el parque.) _____."
+        },
+        {
+          "texto_enunciado": "¿Qué es un “abstemio”? (Una persona. No bebe alcohol.) _____."
+        },
+        {
+          "texto_enunciado": "¿Qué le has regalado a Cristóbal? (Un cuadro. Lo he pintado yo.) _____."
+        },
+        {
+          "texto_enunciado": "¿Quién hace tanto ruido? (Unos obreros. Están arreglando la calle.) _____."
+        },
+        {
+          "texto_enunciado": "¿Quién es Óscar? (Un chico. Trabajo con él.) _____."
+        },
+        {
+          "texto_enunciado": "¿Qué es un “ateo”? (Una persona. No cree en Dios.) _____."
+        },
+        {
+          "texto_enunciado": "¿Qué es un “canguro”? (Una persona. Cuida niños.) _____."
+        },
+        {
+          "texto_enunciado": "¿Qué te ha enseñado? (Una pluma. Quevedo escribía con ella.) _____."
+        }
+      ],
+      "tipologia_libre_original": "Producción de una respuesta completa combinando las frases dadas entre paréntesis mediante el relativo adecuado."
+    },
+    {
+      "subejercicio": "28.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con que, el que, la que, los que, las que o lo que.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Quién es esa chica? –_____ trabaja con Eduardo."
+        },
+        {
+          "texto_enunciado": "_____ tú quieres es imposible."
+        },
+        {
+          "texto_enunciado": "–¿Qué libro estás leyendo? –_____ me prestó Antonio."
+        },
+        {
+          "texto_enunciado": "Mi casa es _____ está en aquella esquina."
+        },
+        {
+          "texto_enunciado": "¿Recuerdas _____ dijiste ayer?"
+        },
+        {
+          "texto_enunciado": "–¿Quiénes son esas chicas? –_____ estuvieron en mi fiesta."
+        },
+        {
+          "texto_enunciado": "–¿Quiénes son Guille y Silverio? –_____ viven en el sexto."
+        }
+      ]
+    }
+  ],
+  "unidad": 28,
+  "titulo_libro": "que, el que, quien... -- Relativos (1)",
+  "scan": "libro-rojo-066.png"
+}

@@ -1,0 +1,121 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "92.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "(Ahorraríamos/Ahorraremos) más si no (gastáramos/gastaríamos) tanto."
+        },
+        {
+          "texto_enunciado": "Si (viviéramos/viviríamos) más cerca, nos (veríamos/viéramos) más a menudo."
+        },
+        {
+          "texto_enunciado": "¿Qué (harías/hicieras) si hoy no (tuvieras/tendrías) que ir a la oficina?"
+        },
+        {
+          "texto_enunciado": "Si me (ofrecieran/ofrecerían) un trabajo en México, lo (aceptara/aceptaría)."
+        },
+        {
+          "texto_enunciado": "Si (harían/hicieran) un esfuerzo, (aprobaran/aprobarían) todos."
+        },
+        {
+          "texto_enunciado": "Si Hans (aprendiera/aprendería) español, (pudiera/podría) trabajar en nuestra empresa."
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Sabes que Isabel (venir) _____ si la llamases."
+        },
+        {
+          "texto_enunciado": "Ahora no tengo hambre, pero si la (tener) _____, comería algo."
+        },
+        {
+          "texto_enunciado": "Si Borja (ver) _____ menos la tele, aprobaría el curso sin problemas."
+        },
+        {
+          "texto_enunciado": "¿Qué crees que (hacer) _____ Alberto si supiera la verdad?"
+        },
+        {
+          "texto_enunciado": "Si cogieran un taxi, (llegar) _____ a tiempo al aeropuerto."
+        },
+        {
+          "texto_enunciado": "Nina sabe que, si (ponerse) _____ enferma, yo la cuidaría."
+        },
+        {
+          "texto_enunciado": "¿Qué (pasar) _____ si no fuéramos? ¿Crees que Leo (enfadarse) _____?"
+        },
+        {
+          "texto_enunciado": "Si yo (estar) _____ en tu lugar, buscaría un empleo."
+        },
+        {
+          "texto_enunciado": "Si (saber) _____ el teléfono de Ana, la llamaría."
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.3",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases.",
+      "items": [
+        {
+          "texto_enunciado": "1. Si Alberto fuera amigo tuyo,\na. ahora estaríamos en Acapulco."
+        },
+        {
+          "texto_enunciado": "2. Si Irene es amiga tuya,\nb. no te dejaría salir todas las noches."
+        },
+        {
+          "texto_enunciado": "3. Si tomamos el tren de las 8,\nc. pídele que te ayude."
+        },
+        {
+          "texto_enunciado": "4. Si fuéramos millonarias,\nd. dile que quiero hablar con él."
+        },
+        {
+          "texto_enunciado": "5. Si se va el sol,\ne. te ayudaría."
+        },
+        {
+          "texto_enunciado": "6. Si se fuera el sol,\nf. estaremos en Acapulco a la 1."
+        },
+        {
+          "texto_enunciado": "7. Si fuera tu padre,\ng. se helaría la nieve."
+        },
+        {
+          "texto_enunciado": "8. Si es tu padre,\nh. hace frío."
+        }
+      ],
+      "tipologia_libre_original": "Ejercicio de emparejamiento en dos columnas: se debe unir cada comienzo de frase condicional numerado con una continuación identificada mediante una letra."
+    },
+    {
+      "subejercicio": "92.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "—Es posible que tenga un empleo para ti, Manuel. Necesitamos una persona.\n—Si me (dar) _____ el trabajo, Sr. Ortega, me (hacer) _____ feliz.\n—Si yo (tener) _____ 20 años, (ser) _____ feliz, aunque no tuviera trabajo."
+        },
+        {
+          "texto_enunciado": "—¿Puedes prestarme algo de dinero hasta final de mes?\n—No sé. Si te lo (prestar) _____, ¿cuándo me lo (devolver) _____?"
+        },
+        {
+          "texto_enunciado": "—Sé que es muy difícil, pero si te (tocar) _____ la lotería, ¿qué (hacer) _____?\n—(Dejar) _____ de trabajar y (viajar) _____."
+        },
+        {
+          "texto_enunciado": "—Si (no, decir) _____ la verdad, (no, poder) _____ ayudarte.\n—No puedo decírtela. Si te la (decir) _____, (enfadarse) _____ Tomás."
+        }
+      ]
+    }
+  ],
+  "unidad": 92,
+  "titulo_libro": "Si encontrara trabajo, me casaría -- Condicionales (2)",
+  "scan": "libro-rojo-194.png"
+}

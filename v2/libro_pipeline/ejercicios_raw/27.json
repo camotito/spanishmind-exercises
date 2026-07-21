@@ -1,0 +1,169 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "27.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases.",
+      "contexto_grafico": {
+        "tipo": "directory",
+        "datos": [
+          {
+            "nombre": "Antonio Oliva",
+            "piso": "2.º C"
+          },
+          {
+            "nombre": "Servicios de Gas",
+            "piso": "11.º A"
+          },
+          {
+            "nombre": "Sastrería Moderna",
+            "piso": "10.º D"
+          },
+          {
+            "nombre": "Morano-Arribas Abogados",
+            "piso": "3.º D"
+          },
+          {
+            "nombre": "Molina Cardoso",
+            "piso": "12.º A"
+          },
+          {
+            "nombre": "Gestoría Salvado",
+            "piso": "1.º A"
+          },
+          {
+            "nombre": "Hispanosa",
+            "piso": "14.º D"
+          },
+          {
+            "nombre": "Academia Cervantes",
+            "piso": "4.º B"
+          },
+          {
+            "nombre": "Julia Salinas",
+            "piso": "7.º C"
+          },
+          {
+            "nombre": "Editorial Mundisa",
+            "piso": "9.º D"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Antonio Oliva vive en el _____ piso."
+        },
+        {
+          "texto_enunciado": "Las oficinas de Servicios de Gas están en el piso _____."
+        },
+        {
+          "texto_enunciado": "La sastrería Moderna está en la _____ planta."
+        },
+        {
+          "texto_enunciado": "Hay un despacho de abogados en el _____ piso."
+        },
+        {
+          "texto_enunciado": "La familia Molina Cardoso vive en el piso _____."
+        },
+        {
+          "texto_enunciado": "La gestoría Salvado está en el _____ piso."
+        },
+        {
+          "texto_enunciado": "Las oficinas de Hispanosa están en el piso _____."
+        },
+        {
+          "texto_enunciado": "La academia Cervantes está en la _____ planta."
+        },
+        {
+          "texto_enunciado": "Julia Salinas vive en el piso _____."
+        },
+        {
+          "texto_enunciado": "La editorial Mundisa está en el _____ piso."
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.2",
+      "tipologia": "T4",
+      "enunciado": "Escriba los nombres de los personajes con palabras.",
+      "items": [
+        {
+          "texto_enunciado": "Juan Carlos (I) _____."
+        },
+        {
+          "texto_enunciado": "Isabel (I) _____."
+        },
+        {
+          "texto_enunciado": "Juan (XXIII) _____."
+        },
+        {
+          "texto_enunciado": "Alfonso (XII) _____."
+        },
+        {
+          "texto_enunciado": "Luis (XV) _____."
+        },
+        {
+          "texto_enunciado": "Iván (IV) _____."
+        },
+        {
+          "texto_enunciado": "Margarita (II) _____."
+        },
+        {
+          "texto_enunciado": "Pío (XI) _____."
+        },
+        {
+          "texto_enunciado": "Juana (III) _____."
+        },
+        {
+          "texto_enunciado": "Juan Pablo (II) _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.3",
+      "tipologia": "T4",
+      "enunciado": "Escriba los números que aparecen entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Estudio (2.º) _____ curso de Arquitectura."
+        },
+        {
+          "texto_enunciado": "Enero es el (1.º) _____ mes del año."
+        },
+        {
+          "texto_enunciado": "Estoy leyendo un libro con (15) _____ capítulos. Voy por el capítulo (11.º) _____."
+        },
+        {
+          "texto_enunciado": "El Valencia es el (1.º) _____ en la Liga de fútbol."
+        },
+        {
+          "texto_enunciado": "Javi es el (3.º) _____ de sus hermanos."
+        },
+        {
+          "texto_enunciado": "Ellas han sido las (1.ª) _____ en llegar."
+        },
+        {
+          "texto_enunciado": "La ñ es la letra (15.ª) _____ del alfabeto."
+        },
+        {
+          "texto_enunciado": "El despacho de José está en el (8.º) _____ piso."
+        },
+        {
+          "texto_enunciado": "Tuerza por la (2.ª) _____ calle a la izquierda."
+        },
+        {
+          "texto_enunciado": "Nos vamos de vacaciones la (3.ª) _____ semana de agosto."
+        },
+        {
+          "texto_enunciado": "El siglo (XVIII) _____ fue el Siglo de las Luces."
+        },
+        {
+          "texto_enunciado": "Tina y Carla acabaron (4.as) _____ en el campeonato de tenis."
+        }
+      ]
+    }
+  ],
+  "unidad": 27,
+  "titulo_libro": "Los numerales ordinales -- Números ordinales",
+  "scan": "libro-rojo-064.png"
+}

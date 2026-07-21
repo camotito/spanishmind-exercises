@@ -1,0 +1,303 @@
+{
+  "tema": "otros-usos-articulo",
+  "titulo": "tocar la guitarra",
+  "descripcion_gramatical": "Otros usos del artículo determinado",
+  "fuente": "libro",
+  "unidad_libro": 10,
+  "ejercicios": [
+    {
+      "subejercicio": "10.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases utilizando las palabras del recuadro y el, la, los, las, al.",
+      "items": [
+        {
+          "texto_enunciado": "Santi toca _____.",
+          "solucion_correcta": [
+            "la guitarra"
+          ]
+        },
+        {
+          "texto_enunciado": "Elsa toca _____.",
+          "solucion_correcta": [
+            "el violín"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa juega a _____.",
+          "solucion_correcta": [
+            "al ajedrez"
+          ]
+        },
+        {
+          "texto_enunciado": "Elena toca _____.",
+          "solucion_correcta": [
+            "el piano"
+          ]
+        },
+        {
+          "texto_enunciado": "Inés juega a _____.",
+          "solucion_correcta": [
+            "al fútbol"
+          ]
+        },
+        {
+          "texto_enunciado": "Pepe juega a _____.",
+          "solucion_correcta": [
+            "al tenis"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan toca _____.",
+          "solucion_correcta": [
+            "la trompeta"
+          ]
+        },
+        {
+          "texto_enunciado": "Miguel juega a _____.",
+          "solucion_correcta": [
+            "las cartas"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "ajedrez",
+        "cartas",
+        "fútbol",
+        "guitarra",
+        "piano",
+        "tenis",
+        "trompeta",
+        "violín"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Santi toca la guitarra."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Elsa toca el violín."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Rosa juega al ajedrez."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Elena toca el piano."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Inés juega al fútbol."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Pepe juega al tenis."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Juan toca la trompeta."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Miguel juega a las cartas."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "10.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con el, la, los, las, al, del o un, una, unos, unas cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "¡Fuego! Llamad a _____ bomberos.",
+          "solucion_correcta": [
+            "los"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Hablas _____ español?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ griego no es difícil.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "Este fin de semana vamos a _____ playa.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Has escuchado _____ noticias?",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "Susana estudia _____ Arquitectura.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Merche hace _____ gimnasia en el colegio.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "El padre de Pepe es general de _____ ejército.",
+          "solucion_correcta": [
+            "del"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Historia es una asignatura apasionante.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Los Martín tienen una casa en _____ campo.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Antonio tiene _____ guitarra eléctrica.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "He comprado _____ televisión.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Escucho _____ radio por las mañanas.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "¡Un ladrón! Llama a _____ policía.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Siempre leo _____ periódico después de desayunar.",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "10.3",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases con las palabras del recuadro y con el, la, al o del si es necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Va a _____.",
+          "solucion_correcta": [
+            "la universidad"
+          ]
+        },
+        {
+          "texto_enunciado": "Va a _____.",
+          "solucion_correcta": [
+            "la cárcel"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo llevan a _____.",
+          "solucion_correcta": [
+            "al hospital"
+          ]
+        },
+        {
+          "texto_enunciado": "Está en _____.",
+          "solucion_correcta": [
+            "casa"
+          ]
+        },
+        {
+          "texto_enunciado": "Va a _____.",
+          "solucion_correcta": [
+            "correos"
+          ]
+        },
+        {
+          "texto_enunciado": "Viene de _____.",
+          "solucion_correcta": [
+            "del colegio"
+          ]
+        },
+        {
+          "texto_enunciado": "Van a _____.",
+          "solucion_correcta": [
+            "al cine"
+          ]
+        },
+        {
+          "texto_enunciado": "Están en _____.",
+          "solucion_correcta": [
+            "el médico"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "cárcel",
+        "casa",
+        "colegio",
+        "cine",
+        "correos",
+        "hospital",
+        "médico",
+        "universidad"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una joven entra en la universidad llevando libros."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Dos policías escoltan a un hombre."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un hombre es transportado en una camilla."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer está sentada en el sofá de su casa."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un hombre lleva varios paquetes y cartas."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Un niño con una mochila sale de un edificio escolar."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Varias personas están ante la entrada de un cine."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Una mujer es examinada por un médico en una consulta."
+          }
+        ]
+      }
+    }
+  ]
+}

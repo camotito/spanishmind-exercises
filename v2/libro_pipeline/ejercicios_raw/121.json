@@ -1,0 +1,171 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "121.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos frases con las expresiones entre paréntesis. Preste atención al orden.",
+      "items": [
+        {
+          "texto_enunciado": "No podremos quedar con Pedro. Esta noche hay partido. (así que) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos acostamos. Era muy tarde. (de manera que) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me levanté tarde. No sonó el despertador. (por eso) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estábamos aburridos. Nos fuimos a dar una vuelta. (así que) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te puedo decir nada. Aún no ha llamado Teresa. (por tanto) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me funcionaba el móvil. No pude llamarte. (por eso) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Será mejor cenar fuera. No hay mucha comida en casa. (así que) _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Combinación de dos frases en una sola oración mediante la expresión consecutiva indicada entre paréntesis, prestando atención al orden de las proposiciones."
+    },
+    {
+      "subejercicio": "121.2",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Hizo un día (tan/tanto) bueno que comimos en el jardín.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estaba (tan/tanto) cansado que me acosté temprano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estudia (tanto/tan poco) que no puede aprobar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hablas español (tan/tanto) bien que pareces española.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo (tanta/tanto) sed que me bebería toda la botella de agua.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La sopa estaba (tan/tanto) salada que no se podía tomar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Teníamos (tanto/tan poco) tiempo que no pudimos preparar las maletas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ruperto estudia (tan/tanto) que va a enfermar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había (tanta/tanto) gente que no pudimos ver nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Somos (tantos/tan pocos) en clase que practicamos muchísimo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "121.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras del recuadro.",
+      "banco_palabras": [
+        "tan",
+        "tan poca",
+        "tan pocos",
+        "tanta",
+        "tan poco",
+        "tanto",
+        "tantos"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Había _____ tráfico que tuvimos que coger el metro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucas habla _____ que aburre a todo el mundo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Han llegado _____ turistas que no hay camas en los hoteles.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había _____ niebla que tuvimos que parar en la autopista.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estábamos _____ cansados que nos acostamos sin cenar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenían _____ clientes en mi empresa que tuvieron que cerrar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay _____ luz en esta habitación que no deberíais leer.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar siete frases consecutivas seleccionando para cada hueco una expresión de un recuadro con las formas tan, tan poca, tan pocos, tanta, tan poco, tanto y tantos."
+    },
+    {
+      "subejercicio": "121.4",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las oraciones con tan, tanto, –a, –os, –as; tan poco, –a, –os, –as... que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No se oye nada. Hay mucho ruido. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La obra es muy buena. No quedan entradas. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No salimos. Hacía demasiado frío. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había pocas sillas. No me pude sentar. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le gustan mucho los gatos. Tiene seis. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Parece enfadado. Habla poco. _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Combinación de dos oraciones en una sola estructura consecutiva con tan, tanto, -a, -os, -as o tan poco, -a, -os, -as, seguida de que, realizando los cambios gramaticales necesarios."
+    }
+  ],
+  "unidad": 121,
+  "titulo_libro": "por eso, así que, tanto... que -- Oraciones consecutivas",
+  "scan": "libro-rojo-252.png"
+}

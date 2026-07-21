@@ -1,0 +1,135 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "82.1",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría? Escriba frases con quién y el pretérito imperfecto de subjuntivo del verbo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Le gustaría bailar como un amigo suyo, pero lo ve difícil. _____"
+        },
+        {
+          "texto_enunciado": "Le gustaría comer como un amigo suyo, pero lo ve difícil. _____"
+        },
+        {
+          "texto_enunciado": "Le gustaría hablar italiano como unos amigos suyos, pero lo ve difícil. _____"
+        },
+        {
+          "texto_enunciado": "Le gustaría escribir como García Márquez, pero lo ve difícil. _____"
+        },
+        {
+          "texto_enunciado": "Le gustaría jugar al ajedrez como Karpov, pero lo ve difícil. _____"
+        }
+      ],
+      "tipologia_libre_original": "Producción de una frase exclamativa con quién y el pretérito imperfecto de subjuntivo a partir de una situación escrita."
+    },
+    {
+      "subejercicio": "82.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro en imperfecto de subjuntivo.",
+      "banco_palabras": [
+        "ayudar",
+        "cantar",
+        "comer",
+        "comprar",
+        "enterarse",
+        "jugar",
+        "lavar",
+        "llamar",
+        "llegar",
+        "perder",
+        "recibir",
+        "vivir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Cuando era pequeño mis padres querían que _____ al tenis."
+        },
+        {
+          "texto_enunciado": "¿Vas a ponerte ahora a lavar el coche? Preferiría que lo _____ en otro momento."
+        },
+        {
+          "texto_enunciado": "¿Ya estáis aquí? Esperaba que _____ más tarde."
+        },
+        {
+          "texto_enunciado": "Gracias por el regalo, Andrés. No era necesario que _____ nada."
+        },
+        {
+          "texto_enunciado": "Era imposible que no _____ nadie. Lo dijo en voz alta."
+        },
+        {
+          "texto_enunciado": "Rodrigo quería que le _____, pero no teníamos tiempo."
+        },
+        {
+          "texto_enunciado": "Me encantaría que ustedes _____ en esta casa."
+        },
+        {
+          "texto_enunciado": "Antonia nos despertó a las siete. Tenía miedo de que _____ el avión."
+        },
+        {
+          "texto_enunciado": "Todo el mundo esperaba que _____ en la fiesta, pero tenía mal la voz."
+        },
+        {
+          "texto_enunciado": "—¿Por qué no vinieron a la cena? —Puede que no _____ la invitación."
+        },
+        {
+          "texto_enunciado": "Me encantó que me _____. Tenía muchas ganas de veros."
+        },
+        {
+          "texto_enunciado": "El año pasado el director nos prohibió que _____ en clase."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases conjugando en imperfecto de subjuntivo los verbos proporcionados en un banco de palabras."
+    },
+    {
+      "subejercicio": "82.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos oraciones con que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Mauro no aprobó el carné de conducir. Lo sentimos. _____"
+        },
+        {
+          "texto_enunciado": "Balbina encontró trabajo. Me alegré. _____"
+        },
+        {
+          "texto_enunciado": "No me llamaste el domingo. Me extrañó. _____"
+        },
+        {
+          "texto_enunciado": "Juan y Alicia se acordaron de nosotros. Nos gustó. _____"
+        },
+        {
+          "texto_enunciado": "Mi hermana se llevó el coche. No me importó. _____"
+        },
+        {
+          "texto_enunciado": "No aprobaste. Lo sentí. _____"
+        },
+        {
+          "texto_enunciado": "No hablaste con Blas. Me pareció mal. _____"
+        },
+        {
+          "texto_enunciado": "No invitasteis a Sonia. No me gustó. _____"
+        },
+        {
+          "texto_enunciado": "Mis hermanos no salieron anoche. Me extrañó. _____"
+        },
+        {
+          "texto_enunciado": "Armando quiere trabajar con nosotros. Nos gustaría. _____"
+        },
+        {
+          "texto_enunciado": "Mis padres nos regalaron una alfombra. Nos encantó. _____"
+        },
+        {
+          "texto_enunciado": "La empresa pagó la comida. Nos extrañó. _____"
+        }
+      ],
+      "tipologia_libre_original": "Unión y reescritura de dos oraciones mediante que, realizando los cambios verbales necesarios."
+    }
+  ],
+  "unidad": 82,
+  "titulo_libro": "trabajara, comiera, viviera -- Pretérito imperfecto de subjuntivo: verbos regulares",
+  "scan": "libro-rojo-174.png"
+}

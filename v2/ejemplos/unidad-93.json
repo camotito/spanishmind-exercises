@@ -1,0 +1,241 @@
+{
+  "tema": "unidad-93",
+  "titulo": "Viajar es estupendo",
+  "descripcion_gramatical": "Infinitivo",
+  "fuente": "libro",
+  "unidad_libro": 93,
+  "ejercicios": [
+    {
+      "subejercicio": "93.1",
+      "tipologia": "T7",
+      "enunciado": "Sustituya los nombres subrayados por infinitivos. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Las mentiras</u> pueden ser dañinas. _____.",
+          "solucion_correcta": [
+            "Mentir puede ser dañino"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>La vida</u> es una lucha. _____.",
+          "solucion_correcta": [
+            "Vivir es una lucha"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Los viajes</u> en avión son cansados. _____.",
+          "solucion_correcta": [
+            "Viajar en avión es cansado"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>La confianza</u> en los amigos da tranquilidad. _____.",
+          "solucion_correcta": [
+            "Confiar en los amigos da tranquilidad"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta <u>el baile</u>. _____.",
+          "solucion_correcta": [
+            "Me gusta bailar"
+          ]
+        },
+        {
+          "texto_enunciado": "A veces son necesarios <u>los cambios</u>. _____.",
+          "solucion_correcta": [
+            "A veces es necesario cambiar"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos encantan <u>los juegos</u>. _____.",
+          "solucion_correcta": [
+            "Nos encanta jugar"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases como en el ejemplo. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "He hablado con Raquel. Lo he conseguido. _____.",
+          "solucion_correcta": [
+            "He conseguido hablar con Raquel"
+          ]
+        },
+        {
+          "texto_enunciado": "Regresasteis tarde. Os oímos. _____.",
+          "solucion_correcta": [
+            "Os oímos regresar tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "No digo nada. Lo prefiero. _____.",
+          "solucion_correcta": [
+            "Prefiero no decir nada"
+          ]
+        },
+        {
+          "texto_enunciado": "No salgo por la noche. Mis padres no me dejan. _____.",
+          "solucion_correcta": [
+            "Mis padres no me dejan salir por la noche"
+          ]
+        },
+        {
+          "texto_enunciado": "No como carne de cerdo. No puedo. _____.",
+          "solucion_correcta": [
+            "No puedo comer carne de cerdo"
+          ]
+        },
+        {
+          "texto_enunciado": "Bebo mucha agua. Lo necesito. _____.",
+          "solucion_correcta": [
+            "Necesito beber mucha agua"
+          ]
+        },
+        {
+          "texto_enunciado": "No molesto. Espero. _____.",
+          "solucion_correcta": [
+            "Espero no molestar"
+          ]
+        },
+        {
+          "texto_enunciado": "Apagaste la luz. Te vi. _____.",
+          "solucion_correcta": [
+            "Te vi apagar la luz"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro y a, de, en, con en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cuándo empiezas _____ informática?",
+          "solucion_correcta": [
+            "a estudiar"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quieren _____ algo?",
+          "solucion_correcta": [
+            "tomar"
+          ]
+        },
+        {
+          "texto_enunciado": "Juli y Arturo vienen _____ esta noche.",
+          "solucion_correcta": [
+            "a cenar"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién se encarga _____ las entradas?",
+          "solucion_correcta": [
+            "de reservar"
+          ]
+        },
+        {
+          "texto_enunciado": "Los padres de Arturo le hacen _____ en casa a las diez.",
+          "solucion_correcta": [
+            "estar"
+          ]
+        },
+        {
+          "texto_enunciado": "Pepe insiste _____ él la comida.",
+          "solucion_correcta": [
+            "en pagar"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando era pequeño, Tomás soñaba _____ bombero.",
+          "solucion_correcta": [
+            "con ser"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué no me enseñas _____?",
+          "solucion_correcta": [
+            "a nadar"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Saben _____ español?",
+          "solucion_correcta": [
+            "hablar"
+          ]
+        },
+        {
+          "texto_enunciado": "Fidel va _____ en un lago casi todos los domingos.",
+          "solucion_correcta": [
+            "a pescar"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "cenar",
+        "estar",
+        "estudiar",
+        "hablar",
+        "nadar",
+        "pagar",
+        "pescar",
+        "reservar",
+        "ser",
+        "tomar"
+      ]
+    },
+    {
+      "subejercicio": "93.4",
+      "tipologia": "T2",
+      "enunciado": "Complete con los verbos del recuadro en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una mano empujando, acompañado por una flecha",
+          "solucion_correcta": [
+            "Empujar"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una mano tirando de una cuerda, acompañado por una flecha",
+          "solucion_correcta": [
+            "Tirar"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ con el conductor",
+          "estimulo_visual": "dibujo de dos personas hablando dentro de un vehículo, con una X que prohíbe hablar con el conductor",
+          "solucion_correcta": [
+            "No hablar"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una puerta dentro de una señal de prohibición",
+          "solucion_correcta": [
+            "No entrar"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ el móvil",
+          "estimulo_visual": "dibujo de un teléfono móvil dentro de una señal de prohibición",
+          "solucion_correcta": [
+            "Apagar"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "apagar",
+        "entrar",
+        "hablar",
+        "tirar",
+        "empujar"
+      ]
+    }
+  ]
+}

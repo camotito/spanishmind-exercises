@@ -1,0 +1,276 @@
+{
+  "tema": "ausencia-articulo",
+  "titulo": "un coche / coche",
+  "descripcion_gramatical": "Ausencia de artículo",
+  "fuente": "libro",
+  "unidad_libro": 5,
+  "ejercicios": [
+    {
+      "subejercicio": "5.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Eva es _____.",
+          "solucion_correcta": [
+            "Eva es abogada"
+          ]
+        },
+        {
+          "texto_enunciado": "José Luis es _____.",
+          "solucion_correcta": [
+            "José Luis es estudiante"
+          ]
+        },
+        {
+          "texto_enunciado": "Mar es _____.",
+          "solucion_correcta": [
+            "Mar es actriz"
+          ]
+        },
+        {
+          "texto_enunciado": "Félix es _____.",
+          "solucion_correcta": [
+            "Félix es fotógrafo"
+          ]
+        },
+        {
+          "texto_enunciado": "Roberto es _____.",
+          "solucion_correcta": [
+            "Roberto es médico"
+          ]
+        },
+        {
+          "texto_enunciado": "Adrián es _____.",
+          "solucion_correcta": [
+            "Adrián es cocinero"
+          ]
+        },
+        {
+          "texto_enunciado": "Eloísa es _____.",
+          "solucion_correcta": [
+            "Eloísa es camarera"
+          ]
+        },
+        {
+          "texto_enunciado": "Leonor es _____.",
+          "solucion_correcta": [
+            "Leonor es profesora"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "abogada",
+        "actriz",
+        "camarera",
+        "cocinero",
+        "estudiante",
+        "fotógrafo",
+        "médico",
+        "profesora"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "nombre": "Eva",
+            "descripcion": "Mujer vista de perfil."
+          },
+          {
+            "numero": "2",
+            "nombre": "José Luis",
+            "descripcion": "Hombre utilizando una cámara fotográfica."
+          },
+          {
+            "numero": "3",
+            "nombre": "Mar",
+            "descripcion": "Mujer con sombrero y gafas de sol que saluda."
+          },
+          {
+            "numero": "4",
+            "nombre": "Félix",
+            "descripcion": "Hombre joven con una mochila y material de estudio."
+          },
+          {
+            "numero": "5",
+            "nombre": "Roberto",
+            "descripcion": "Hombre con gafas y un estetoscopio."
+          },
+          {
+            "numero": "6",
+            "nombre": "Adrián",
+            "descripcion": "Hombre con gorro de cocina."
+          },
+          {
+            "numero": "7",
+            "nombre": "Eloísa",
+            "descripcion": "Mujer que lleva una bandeja con bebidas."
+          },
+          {
+            "numero": "8",
+            "nombre": "Leonor",
+            "descripcion": "Mujer con gafas junto a una pizarra."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "5.2",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Quién es Luis Miguel? —Es (cantante/un cantante); es (mexicano/un mexicano).",
+          "solucion_correcta": [
+            "un cantante",
+            "mexicano"
+          ]
+        },
+        {
+          "texto_enunciado": "La doctora Ramírez es (médica/una médica) buenísima; es (argentina/una argentina).",
+          "solucion_correcta": [
+            "una médica",
+            "argentina"
+          ]
+        },
+        {
+          "texto_enunciado": "El marido de Luisa es (abogado/un abogado). Es (abogado/un abogado) muy caro.",
+          "solucion_correcta": [
+            "abogado",
+            "un abogado"
+          ]
+        },
+        {
+          "texto_enunciado": "Tomás se ha hecho (musulmán/un musulmán).",
+          "solucion_correcta": [
+            "musulmán"
+          ]
+        },
+        {
+          "texto_enunciado": "Los tíos de Andrea son (protestantes/unos protestantes).",
+          "solucion_correcta": [
+            "protestantes"
+          ]
+        },
+        {
+          "texto_enunciado": "El hermano de Patricio es (actor/un actor) famoso.",
+          "solucion_correcta": [
+            "un actor"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Quién es Vargas Llosa? —Es (escritor/un escritor); es (peruano/un peruano).",
+          "solucion_correcta": [
+            "un escritor",
+            "peruano"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto y Lola son (estudiantes/unos estudiantes). Son (socialistas/unos socialistas).",
+          "solucion_correcta": [
+            "estudiantes",
+            "socialistas"
+          ]
+        },
+        {
+          "texto_enunciado": "Sarita quiere ser (bailarina/una bailarina).",
+          "solucion_correcta": [
+            "bailarina"
+          ]
+        },
+        {
+          "texto_enunciado": "García Márquez es (escritor/un escritor) de éxito.",
+          "solucion_correcta": [
+            "un escritor"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "5.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con un, una, unos, unas cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Comes _____ carne? —No, soy _____ vegetariano.",
+          "solucion_correcta": [
+            "ø",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Colecciono _____ monedas. Ayer me compré _____ monedas chinas.",
+          "solucion_correcta": [
+            "ø",
+            "unas"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto tiene _____ apartamento en Benidorm.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Tomas _____ café? —Solo _____ taza al día.",
+          "solucion_correcta": [
+            "ø",
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Azúcar? —Gracias, no tomo _____ azúcar.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Tenéis _____ hijos?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Chelo canta _____ ópera.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Ernesto es _____ músico. Escribe _____ canciones.",
+          "solucion_correcta": [
+            "ø",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Necesitas _____ dinero?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Quieres _____ queso? —No, gracias; es _____ queso muy fuerte.",
+          "solucion_correcta": [
+            "ø",
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "Carolina es _____ vendedora. Vende _____ enciclopedias.",
+          "solucion_correcta": [
+            "ø",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Tienes _____ hermanos?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        }
+      ]
+    }
+  ]
+}

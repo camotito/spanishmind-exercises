@@ -1,0 +1,168 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "15.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la forma comparativa adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "¿Quién es (+ guapo) _____, Juan o su hermano?"
+        },
+        {
+          "texto_enunciado": "¿Quién es (− caprichoso) _____, Alberto o Luisa?"
+        },
+        {
+          "texto_enunciado": "¿Qué ciudad es (+ antiguo) _____, Lima o Santiago?"
+        },
+        {
+          "texto_enunciado": "¿Quién es (+ bueno) _____, Ronaldo o Rivaldo?"
+        },
+        {
+          "texto_enunciado": "¿Qué país está (− poblado) _____, Venezuela o Colombia?"
+        },
+        {
+          "texto_enunciado": "¿Qué deporte es (− peligroso) _____, el esquí o el alpinismo?"
+        },
+        {
+          "texto_enunciado": "¿Qué es (+ malo) _____, estar enfermo o no tener dinero?"
+        },
+        {
+          "texto_enunciado": "¿Quién es (+ viejo) _____, Sofía o su esposo?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.2",
+      "tipologia": "T6",
+      "tipologia_libre": null,
+      "enunciado": "Escriba comparaciones como en el ejemplo utilizando las palabras del recuadro.",
+      "banco_palabras": [
+        "alto",
+        "caro",
+        "caro",
+        "largo",
+        "potente",
+        "pequeño",
+        "poblado",
+        "rápido",
+        "viejo"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "(Luis 1,90 cm; su hermano 1,82 cm) Luis es _____."
+        },
+        {
+          "texto_enunciado": "(Uruguay 176 220 km²; Argentina, 2 766 890 km²) Uruguay es _____."
+        },
+        {
+          "texto_enunciado": "(Paraguay, 5,5 millones de habitantes; Ecuador, 13 millones) Paraguay está _____."
+        },
+        {
+          "texto_enunciado": "(Luisa 19 años; Clara, 25 años) Luisa es _____."
+        },
+        {
+          "texto_enunciado": "(fresas 3,50 euros/kilo; plátanos, 1,75 euros/kilo) Las fresas son _____."
+        },
+        {
+          "texto_enunciado": "(Amazonas 6 788 km; Paraná, 3 780 km) El Amazonas es _____."
+        },
+        {
+          "texto_enunciado": "(televisión 345 euros; radio, 60 euros) Esta televisión es _____."
+        },
+        {
+          "texto_enunciado": "(Sulko, disco duro 20 GB; Misima, disco duro 80 GB) Los ordenadores Sulko son _____."
+        },
+        {
+          "texto_enunciado": "(león 80 km/h; canguro, 50 km/h) El canguro es _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la forma comparativa de los adjetivos del recuadro.",
+      "banco_palabras": [
+        "alto",
+        "fuerte",
+        "rápido",
+        "viejo"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "escena": "Dos hombres; uno de ellos, más corpulento, compara su fuerza con la del otro.",
+            "bocadillo": "Soy más fuerte que tú."
+          },
+          {
+            "numero": "2",
+            "escena": "Tres personas de distinta altura se comparan.",
+            "bocadillo": "Soy _____."
+          },
+          {
+            "numero": "3",
+            "escena": "Dos grupos de personas se comparan.",
+            "bocadillo": "Sois _____."
+          },
+          {
+            "numero": "4",
+            "escena": "Dos hombres de distinta edad se comparan.",
+            "bocadillo": "Eres _____."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Soy _____."
+        },
+        {
+          "texto_enunciado": "Soy _____."
+        },
+        {
+          "texto_enunciado": "Sois _____."
+        },
+        {
+          "texto_enunciado": "Eres _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la forma comparativa adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Este piso es muy antiguo. Prefiero uno (antiguo) _____."
+        },
+        {
+          "texto_enunciado": "Esta casa es muy cara. Prefiero una (barato) _____."
+        },
+        {
+          "texto_enunciado": "Estos pantalones son muy grandes. Necesito unos (pequeño) _____."
+        },
+        {
+          "texto_enunciado": "Esta cama es incómoda. Prefiero una (cómodo) _____."
+        },
+        {
+          "texto_enunciado": "Mi trabajo es muy malo. Quiero uno (bueno) _____."
+        },
+        {
+          "texto_enunciado": "Este postre está muy dulce. Prefiero los postres (dulce) _____."
+        },
+        {
+          "texto_enunciado": "Este libro es un poco aburrido. Prefiero uno (entretenido) _____."
+        },
+        {
+          "texto_enunciado": "Esta falda es muy corta. Quiero una (largo) _____."
+        }
+      ]
+    }
+  ],
+  "unidad": 15,
+  "titulo_libro": "más caro, menos trabajador -- Forma comparativa de los adjetivos (1)",
+  "scan": "libro-rojo-040.png"
+}

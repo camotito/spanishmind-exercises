@@ -1,0 +1,158 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "114.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la preposición correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Te felicito (para/por) tu trabajo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que comprar comida (para/por) el domingo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me he comprado una blusa preciosa (para/por) treinta euros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Para/Por) quién es esto?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han regañado (para/por) culpa tuya.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No pudimos salir (para/por) el frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No tengo las instrucciones (para/por) instalar el ordenador.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "114.2",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con las preposiciones adecuadas.",
+      "banco_palabras": [
+        "con",
+        "contra",
+        "sin"
+      ],
+      "items": [],
+      "tipologia_libre_original": "Ejercicio de asociación en tres partes. Hay que unir cada inicio de frase de la columna izquierda con una de las preposiciones del recuadro central y con un final de la columna derecha. Inicios: 1. «Quiero un café»; 2. «No os podéis ir»; 3. «¿Te gustan las patatas»; 4. «No puedes cortar esa tela»; 5. «No veo ese cartel»; 6. «Mañana hay una manifestación»; 7. «No podemos pintar el techo»; 8. «Es pesado conducir». El recuadro central contiene «con», «contra» y «sin». Finales: a. «la pena de muerte.»; b. «escalera.»; c. «tijeras.»; d. «carne?»; e. «lluvia.»; f. «leche.»; g. «permiso.»; h. «gafas.». El primer ejemplo aparece unido mediante flechas: «Quiero un café» + «con» + «leche.»."
+    },
+    {
+      "subejercicio": "114.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con por, para, sin, con, contra o según.",
+      "items": [
+        {
+          "texto_enunciado": "Alfonso y Anselmo viven todavía _____ sus padres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No podrás encender el gas _____ cerillas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay pocos remedios _____ el dolor de muelas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me encantaría inventar una máquina _____ tender la ropa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Es esto delito, _____ la ley?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Carlota no se fue a México _____ sus padres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Fernando invitó a Josefina _____ mi voluntad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ vosotros, ¿quién va a ganar el partido?",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Lista lineal de frases con un hueco en cada una. El alumno debe completar los huecos eligiendo entre las preposiciones indicadas en el enunciado: «por», «para», «sin», «con», «contra» o «según». Las opciones no aparecen en un recuadro ni incrustadas individualmente en las frases."
+    },
+    {
+      "subejercicio": "114.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las preposiciones y los nombres del recuadro.",
+      "banco_palabras": [
+        "con",
+        "contra",
+        "para",
+        "por",
+        "sin",
+        "abrigo",
+        "avión",
+        "correo",
+        "diccionario",
+        "el puente",
+        "el sida",
+        "la habitación",
+        "los ojos",
+        "un martillo"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "He recibido los documentos _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es difícil hacer esa traducción _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Necesitamos cortinas _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que atravesar el río _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me he dado un golpe _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mándame el paquete _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Martina hace muchos gestos _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace frío. No salgas _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Están buscando una vacuna _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Lista lineal de frases que deben completarse combinando una preposición y un nombre procedentes de dos recuadros independientes. El primer recuadro contiene las preposiciones «con», «contra», «para», «por» y «sin». El segundo contiene los nombres «abrigo», «avión», «correo», «diccionario», «el puente», «el sida», «la habitación», «los ojos» y «un martillo». En el primer ítem aparece impreso como ejemplo «por correo», y «correo» está tachado en el recuadro."
+    }
+  ],
+  "unidad": 114,
+  "titulo_libro": "para ti, por amor... -- Preposiciones (5)",
+  "scan": "libro-rojo-238.png"
+}

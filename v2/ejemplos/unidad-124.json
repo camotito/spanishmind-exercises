@@ -1,0 +1,484 @@
+{
+  "tema": "unidad-124",
+  "titulo": "adiós, león, continúa",
+  "descripcion_gramatical": "Reglas de acentuación (2)",
+  "fuente": "libro",
+  "unidad_libro": 124,
+  "ejercicios": [
+    {
+      "subejercicio": "124.1a",
+      "tipologia": "T16",
+      "enunciado": "Divida en sílabas las palabras de más de dos sílabas.",
+      "items": [
+        {
+          "texto_enunciado": "camión _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cien _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "diez _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cuerno _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "ciudad _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "viuda _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "océano _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "hoy _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "egipcio _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "junio _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "hay _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "vídeo _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Ignacio _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "sentaos _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "diciembre _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "dieciocho _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Ruiz _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "hablabais _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cambiáis _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cuídate _____",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "124.1b",
+      "tipologia": "T16",
+      "enunciado": "Ahora subraye la sílaba fuerte en las palabras de más de dos sílabas.",
+      "items": [
+        {
+          "texto_enunciado": "camión",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cien",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "diez",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cuerno",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "ciudad",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "viuda",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "océano",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "hoy",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "egipcio",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "junio",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "hay",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "vídeo",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Ignacio",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "sentaos",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "diciembre",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "dieciocho",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Ruiz",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "hablabais",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cambiáis",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cuídate",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "124.2",
+      "tipologia": "T16",
+      "enunciado": "Escriba la tilde sobre la sílaba fuerte donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "estáis",
+          "solucion_correcta": [
+            "estáis"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cuidate",
+          "solucion_correcta": [
+            "cuídate"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "habitacion",
+          "solucion_correcta": [
+            "habitación"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Europa",
+          "solucion_correcta": [
+            "Europa"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Colombia",
+          "solucion_correcta": [
+            "Colombia"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "acostaos",
+          "solucion_correcta": [
+            "acostaos"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Jamaica",
+          "solucion_correcta": [
+            "Jamaica"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "bacalao",
+          "solucion_correcta": [
+            "bacalao"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "ruinas",
+          "solucion_correcta": [
+            "ruinas"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "levantaos",
+          "solucion_correcta": [
+            "levantaos"
+          ],
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "124.3",
+      "tipologia": "T16",
+      "enunciado": "Escriba la tilde en los casos en que sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "<strong>tí</strong>-a",
+          "solucion_correcta": [
+            "tía"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "o-<strong>i</strong>-do",
+          "solucion_correcta": [
+            "oído"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "ra-<strong>iz</strong>",
+          "solucion_correcta": [
+            "raíz"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "re-lo-je-<strong>ri</strong>-a",
+          "solucion_correcta": [
+            "relojería"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "<strong>o</strong>-le-o",
+          "solucion_correcta": [
+            "óleo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "ha-<strong>ci</strong>-a",
+          "solucion_correcta": [
+            "hacía"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "a-<strong>hi</strong>",
+          "solucion_correcta": [
+            "ahí"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "<strong>he</strong>-ro-e",
+          "solucion_correcta": [
+            "héroe"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "ve-<strong>hi</strong>-cu-lo",
+          "solucion_correcta": [
+            "vehículo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "su-<strong>bi</strong>-os",
+          "solucion_correcta": [
+            "Subíos"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "<strong>fri</strong>-o",
+          "solucion_correcta": [
+            "frío"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "en-<strong>vi</strong>-an",
+          "solucion_correcta": [
+            "envían"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "a-cen-<strong>tu</strong>-o",
+          "solucion_correcta": [
+            "acentúo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "a-cen-tu-<strong>ar</strong>",
+          "solucion_correcta": [
+            "acentuar"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "ba-<strong>ul</strong>",
+          "solucion_correcta": [
+            "baúl"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "en-vi-<strong>a</strong>-mos",
+          "solucion_correcta": [
+            "enviamos"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "<strong>mi</strong>-o",
+          "solucion_correcta": [
+            "mío"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "ves-<strong>ti</strong>-os",
+          "solucion_correcta": [
+            "vestíos"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "reu-<strong>nir</strong>",
+          "solucion_correcta": [
+            "reunir"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "son-re-<strong>ir</strong>",
+          "solucion_correcta": [
+            "sonreír"
+          ],
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "124.4",
+      "tipologia": "T16",
+      "enunciado": "Escriba la tilde donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "oigo, oyes, oye, oimos, ois, oyen",
+          "solucion_correcta": [
+            "oigo",
+            "oyes",
+            "oye",
+            "oímos",
+            "oís",
+            "oyen"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "rei, reiste, rio, reimos, reisteis, rieron",
+          "solucion_correcta": [
+            "reí",
+            "reíste"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "actuo, actuas, actua, actuamos, actuais, actuan",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "reuno, reunes, reune, reunimos, reunis, reunen",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    }
+  ]
+}

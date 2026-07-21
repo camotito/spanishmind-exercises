@@ -1,0 +1,227 @@
+{
+  "tema": "unidad-29",
+  "titulo": "cuyo, donde, cuando...",
+  "descripcion_gramatical": "Relativos (2)",
+  "fuente": "libro",
+  "unidad_libro": 29,
+  "ejercicios": [
+    {
+      "subejercicio": "29.1",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con cuyo, cuya, cuyos, cuyas como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "Esa es la tienda. Su dueño es mi tío. _____.",
+          "solucion_correcta": [
+            "Esa es la tienda cuyo dueño es mi tío"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi madre tiene una amiga. Su hija está en mi clase. _____.",
+          "solucion_correcta": [
+            "Mi madre tiene una amiga cuya hija está en mi clase"
+          ]
+        },
+        {
+          "texto_enunciado": "Conozco a un chico. Su madre es capitán del ejército. _____.",
+          "solucion_correcta": [
+            "Conozco a un chico cuya madre es capitán del ejército"
+          ]
+        },
+        {
+          "texto_enunciado": "Lorenzo conoce a un profesor. Sus hijos hablan cuatro idiomas. _____.",
+          "solucion_correcta": [
+            "Lorenzo conoce a un profesor cuyos hijos hablan cuatro idiomas"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo un primo. Su mujer dirige una multinacional. _____.",
+          "solucion_correcta": [
+            "Tengo un primo cuya mujer dirige una multinacional"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo una abuela. Paso las vacaciones en su pueblo. _____.",
+          "solucion_correcta": [
+            "Tengo una abuela en cuyo pueblo paso las vacaciones"
+          ]
+        },
+        {
+          "texto_enunciado": "El verano pasado ayudamos a una familia. Su coche se había averiado. _____.",
+          "solucion_correcta": [
+            "El verano pasado ayudamos a una familia cuyo coche se había averiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo unas amigas. Sus padres veranean en Asturias. _____.",
+          "solucion_correcta": [
+            "Tengo unas amigas cuyos padres veranean en Asturias"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encontré con un chico. Viajé a Guatemala con su hermana. _____.",
+          "solucion_correcta": [
+            "Me encontré con un chico con cuya hermana viajé a Guatemala"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he encontrado con una señora. Estoy haciendo un mueble para sus hijas. _____.",
+          "solucion_correcta": [
+            "Me he encontrado con una señora para cuyas hijas estoy haciendo un mueble"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "29.2",
+      "tipologia": "T2",
+      "enunciado": "Lea la información sobre los vecinos de un edificio y responda a las preguntas.",
+      "items": [
+        {
+          "texto_enunciado": "¿Quién es el Sr. Palacios? _____.",
+          "solucion_correcta": [
+            "Es el hombre cuya mujer da clases en la universidad"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quiénes son Alba y Silvia? _____.",
+          "solucion_correcta": [
+            "Son las chicas cuyo piso está enfrente del nuestro"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quiénes son los Torroja? _____.",
+          "solucion_correcta": [
+            "Son la familia cuyos perros ladran por las noches"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es Alberto? _____.",
+          "solucion_correcta": [
+            "Es el chico en cuya casa hicimos una fiesta"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es la Sra. Albéniz? _____.",
+          "solucion_correcta": [
+            "Es la señora cuyas hijas bailan muy bien"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quiénes son Pablo y Teresa? _____.",
+          "solucion_correcta": [
+            "Son los señores cuya gata nos visita todas las tardes"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "vocabulary_box",
+        "datos": [
+          {
+            "nombre": "Sr. Palacios",
+            "informacion": "Su mujer da clases en la universidad."
+          },
+          {
+            "nombre": "Alba y Silvia",
+            "informacion": "Su piso está enfrente del nuestro."
+          },
+          {
+            "nombre": "Familia Torroja",
+            "informacion": "Sus perros ladran por las noches."
+          },
+          {
+            "nombre": "Alberto",
+            "informacion": "Hicimos una fiesta en su casa."
+          },
+          {
+            "nombre": "Sra. Albéniz",
+            "informacion": "Su hijas bailan muy bien."
+          },
+          {
+            "nombre": "Pablo y Teresa",
+            "informacion": "Su gata nos visita todas las tardes."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "29.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con donde, adonde o cuando.",
+      "items": [
+        {
+          "texto_enunciado": "Rocío es la dueña de la casa _____ vive Matías.",
+          "solucion_correcta": [
+            "donde"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta es la escuela _____ estudié.",
+          "solucion_correcta": [
+            "donde"
+          ]
+        },
+        {
+          "texto_enunciado": "Son los domingos _____ más gente viene.",
+          "solucion_correcta": [
+            "cuando"
+          ]
+        },
+        {
+          "texto_enunciado": "Este es el edificio _____ trabaja Marisa.",
+          "solucion_correcta": [
+            "donde"
+          ]
+        },
+        {
+          "texto_enunciado": "Lima es la ciudad _____ está enterrado Pizarro.",
+          "solucion_correcta": [
+            "donde"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta es la dirección _____ tienes que mandar el paquete.",
+          "solucion_correcta": [
+            "adonde"
+          ]
+        },
+        {
+          "texto_enunciado": "Normalmente es a las dos _____ comemos.",
+          "solucion_correcta": [
+            "cuando"
+          ]
+        },
+        {
+          "texto_enunciado": "El país _____ conocí a mi marido fue Colombia.",
+          "solucion_correcta": [
+            "donde"
+          ]
+        },
+        {
+          "texto_enunciado": "El pueblo _____ nació Adolfo ya no existe.",
+          "solucion_correcta": [
+            "donde"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuál es el pueblo _____ vais en verano?",
+          "solucion_correcta": [
+            "adonde"
+          ]
+        },
+        {
+          "texto_enunciado": "Este es el hotel _____ nos alojamos el año pasado.",
+          "solucion_correcta": [
+            "donde"
+          ]
+        },
+        {
+          "texto_enunciado": "Recuerdo una época _____ no había muchos coches en Madrid.",
+          "solucion_correcta": [
+            "cuando"
+          ]
+        }
+      ]
+    }
+  ]
+}

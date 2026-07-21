@@ -1,0 +1,322 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "123.1",
+      "tipologia": "T16",
+      "tipologia_libre": null,
+      "enunciado": "Subraye la sílaba fuerte.",
+      "items": [
+        {
+          "texto_enunciado": "balón",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cabeza",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sánchez",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Madrid",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ecuador",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Perú",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Guatemala",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "enero",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cama",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "mexicano",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "octubre",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "lloro",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "lloró",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cárcel",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "azul",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "querer",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "capitán",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "balones",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Chile",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "comes",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "hospital",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "España",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "argentino",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "portugués",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "viven",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Lista de 25 palabras sin huecos. El alumno debe identificar y subrayar la sílaba fuerte de cada palabra. En el primer ítem, «balón», la sílaba «ón» aparece subrayada como modelo."
+    },
+    {
+      "subejercicio": "123.2",
+      "tipologia": "T16",
+      "tipologia_libre": null,
+      "enunciado": "Escriba la tilde en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "melón",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "frances",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "alemana",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "marroqui",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "amarillo",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "casa",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pepe",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Gonzalez",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Panama",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Africa",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "aleman",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "melones",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "lapiz",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "lapices",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "actriz",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "util",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "arboles",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Bogota",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "pajaro",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Brasil",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "vivis",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "comi",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "vivo",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "America",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "estas",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Lista de 25 palabras sin huecos. El alumno debe escribir la tilde sobre la vocal correspondiente únicamente cuando sea necesaria. El primer ítem, «melón», aparece resuelto como modelo."
+    },
+    {
+      "subejercicio": "123.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "No (se/sé) nadar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta carta es para (mi/mí).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Tu/Tú) vienes?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Que/Qué) quieres?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Si/Sí), tienes razón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es el sombrero (de/dé) Ana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo siento, no (te/té) quiero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Es ese Pepe? Sí, es (el/él).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién es (tu/tú) profesora?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alberto (se/sé) acuesta siempre muy tarde.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "123.4",
+      "tipologia": "T16",
+      "tipologia_libre": null,
+      "enunciado": "Añada la tilde donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "¿Se acuerda de mí?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Felipe se ducha por las mañanas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿A que hora te levantas?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A mi no me gusta el te.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es el coche de mi padre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te gusta el zumo de piña?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Prefiero que me de comida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si te gusta mi reloj, te lo regalo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No se tocar el piano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es la chica que vive con Marisa.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Lista de 10 oraciones sin huecos. El alumno debe revisar cada oración y añadir las tildes que sean necesarias. En el primer ítem, «mí» aparece subrayado y con tilde como modelo."
+    }
+  ],
+  "unidad": 123,
+  "titulo_libro": "médico, árbol, inglés -- Reglas de acentuación (1)",
+  "scan": "libro-rojo-258.png"
+}

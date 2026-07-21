@@ -1,0 +1,120 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "88.1",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Transmita las informaciones telefónicas. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "1. “Soy el fontanero. Dígale a su padre que no puedo ir hasta la semana que viene.” —Papá, _____. Dice que _____."
+        },
+        {
+          "texto_enunciado": "2. “Soy Sebastián. Dile a don Anselmo que no puedo ir hoy, que mi mujer va a dar a luz.” —Don Anselmo, ha llamado Sebastián. Ha dicho que _____."
+        },
+        {
+          "texto_enunciado": "3. “Soy Chema. Dile a Guillermo que he quedado con Andrea en mi casa.” —Guillermo, ha llamado Chema. Ha dicho que _____."
+        },
+        {
+          "texto_enunciado": "4. “Soy Luciano. Dile a Marga que me espere, que voy hacia allí.” —¿Con quién hablas? —Con Luciano. Dice que _____, _____."
+        },
+        {
+          "texto_enunciado": "5. “Soy el pintor. Dígale a la señora que mañana le envío el presupuesto.” —Ha llamado el pintor, Sofía. Dice que _____."
+        }
+      ],
+      "tipologia_libre_original": "Transformación de mensajes telefónicos en estilo directo a estilo indirecto, haciendo los cambios de persona, tiempo y referencias necesarios."
+    },
+    {
+      "subejercicio": "88.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "1. —¿Crees que Ana me quiere? —Sí, me aseguró que _____."
+        },
+        {
+          "texto_enunciado": "2. —¿Sabes si Julio va a ir a Argentina este verano? —Sí, me comentó que _____."
+        },
+        {
+          "texto_enunciado": "3. —¿Sabes si tus hermanas vieron a Gloria en Murcia? —Sí, me dijeron que la _____."
+        },
+        {
+          "texto_enunciado": "4. —¿Estás seguro de que Nati ha comprado las entradas? —Sí, me aseguró que las _____."
+        },
+        {
+          "texto_enunciado": "5. —¿Estás seguro de que Pili y Luis quieren invitarnos? —Sí, me dijeron que _____."
+        },
+        {
+          "texto_enunciado": "6. —¿Sabes si a Albertina le gustaría salir mañana? —Sí, me dijo que le _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "88.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "La semana pasada Leo se encontró con Germán, un amigo al que no veía hacía mucho tiempo. Lea las informaciones. Ha pasado una semana. Leo le está contando a una amiga común lo que le dijo Germán. Escriba las frases con los verbos entre paréntesis.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "texto": "Vivo en Venezuela."
+          },
+          {
+            "numero": "2",
+            "texto": "Me casé hace dos años y tengo un hijo."
+          },
+          {
+            "numero": "3",
+            "texto": "Trabajo en una empresa petrolera, pero voy a crear mi propia empresa."
+          },
+          {
+            "numero": "4",
+            "texto": "Estoy haciendo un curso de administración de empresas."
+          },
+          {
+            "numero": "5",
+            "texto": "Después del curso regresaré a Venezuela."
+          },
+          {
+            "numero": "6",
+            "texto": "Antes de irme, me gustaría reunirme con los viejos amigos."
+          },
+          {
+            "numero": "7",
+            "texto": "Te llamaré la semana que viene sin falta."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "La semana pasada me encontré con Germán. (1) (decir) _____."
+        },
+        {
+          "texto_enunciado": "(2) (añadir) Y _____."
+        },
+        {
+          "texto_enunciado": "(3) (decir) _____."
+        },
+        {
+          "texto_enunciado": "(4) (explicar) _____."
+        },
+        {
+          "texto_enunciado": "(5) (decir) _____."
+        },
+        {
+          "texto_enunciado": "(6) (comentar) _____."
+        },
+        {
+          "texto_enunciado": "(7) (asegurar) _____ esta semana sin falta."
+        }
+      ],
+      "tipologia_libre_original": "Conversión de informaciones numeradas en estilo directo a un relato en estilo indirecto, empleando en cada frase el verbo de comunicación indicado entre paréntesis y con apoyo de una conversación ilustrada."
+    }
+  ],
+  "unidad": 88,
+  "titulo_libro": "Dice que vive... Dijo que vivía... -- Estilo indirecto (1)",
+  "scan": "libro-rojo-186.png"
+}

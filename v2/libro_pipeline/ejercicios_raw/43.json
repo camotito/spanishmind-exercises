@@ -1,0 +1,206 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "43.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "¿Dónde están? Complete las frases con estoy, estás, está...",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una persona habla por teléfono delante de una pirámide de México."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un hombre habla por teléfono con una mujer que está en Paraguay."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un hombre habla por teléfono con una mujer que está en París, junto a la torre Eiffel."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ en México."
+        },
+        {
+          "texto_enunciado": "—¿Dónde _____? —_____ en Paraguay."
+        },
+        {
+          "texto_enunciado": "—¿Dónde _____? —_____ en París."
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con estoy, estás, está... y las palabras del recuadro.",
+      "banco_palabras": [
+        "aburrida",
+        "agotado",
+        "contento",
+        "de buen humor",
+        "de mal humor",
+        "enfadado",
+        "resfriado",
+        "triste"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un hombre enfermo se abriga y sostiene un pañuelo."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer está delante de un ordenador con la mano en la frente y otra mujer le habla."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos jugadores aparecen cabizbajos después de un resultado de 0-4."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Dos hombres sonríen y conversan animadamente."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una mujer está sentada frente al televisor."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Alberto carga varios objetos mientras una mujer le habla."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mujer gesticula delante de un ordenador mientras otra la escucha."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Dos jugadores celebran un resultado de 2-0 mientras una mujer sonríe."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "¿Por qué _____?"
+        },
+        {
+          "texto_enunciado": "_____."
+        },
+        {
+          "texto_enunciado": "_____."
+        },
+        {
+          "texto_enunciado": "_____."
+        },
+        {
+          "texto_enunciado": "¿_____ Alberto?"
+        },
+        {
+          "texto_enunciado": "Hoy _____."
+        },
+        {
+          "texto_enunciado": "¿Por qué _____?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Describa cada ilustración utilizando está o están y las palabras del recuadro.",
+      "banco_palabras": [
+        "abierta",
+        "apagada",
+        "cerrada",
+        "limpios",
+        "nublado",
+        "sucios"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una ventana abierta."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una puerta cerrada."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos vasos sucios."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un cielo cubierto de nubes."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una televisión apagada."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Dos platos limpios."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "La ventana _____."
+        },
+        {
+          "texto_enunciado": "La puerta _____."
+        },
+        {
+          "texto_enunciado": "Los vasos _____."
+        },
+        {
+          "texto_enunciado": "El cielo _____."
+        },
+        {
+          "texto_enunciado": "La televisión _____."
+        },
+        {
+          "texto_enunciado": "Los platos _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con estoy, estás, está...",
+      "items": [
+        {
+          "texto_enunciado": "—¿Cómo _____ usted, Elisa? —_____ muy bien, gracias."
+        },
+        {
+          "texto_enunciado": "—¿_____ Luisa? —Sí, pero _____ en la cama."
+        },
+        {
+          "texto_enunciado": "—¿_____ cansado, Virgilio? —No, no _____ cansado. _____ aburrido."
+        },
+        {
+          "texto_enunciado": "—¿Dónde _____ mi chaqueta nueva? —_____ en el armario."
+        },
+        {
+          "texto_enunciado": "—¿Dónde _____ las Islas Galápagos? —_____ en el Pacífico."
+        }
+      ]
+    }
+  ],
+  "unidad": 43,
+  "titulo_libro": "estoy, estás, está... -- Presente de indicativo de estar",
+  "scan": "libro-rojo-096.png"
+}

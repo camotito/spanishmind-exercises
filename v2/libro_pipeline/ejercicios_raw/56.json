@@ -1,0 +1,171 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "56.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete los textos.",
+      "banco_palabras": [
+        "bailar",
+        "correr",
+        "escribir",
+        "estudiar",
+        "hacer",
+        "jugar",
+        "leer",
+        "llorar",
+        "llover",
+        "nevar",
+        "ver"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer está escribiendo una carta."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Dos hombres están jugando a las cartas."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una mujer mira por una ventana mientras nieva."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un padre está leyendo el periódico mientras habla por teléfono con su hija."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un hombre pregunta por teléfono por María y María está viendo la televisión."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Un niño está llorando mientras un adulto lo señala."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Luisa está bailando con un hombre delante de otras personas."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Tres corredores participan en un maratón."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ una carta."
+        },
+        {
+          "texto_enunciado": "_____ a las cartas."
+        },
+        {
+          "texto_enunciado": "¿_____? No, _____."
+        },
+        {
+          "texto_enunciado": "_____ el periódico. ¿Qué _____ papá?"
+        },
+        {
+          "texto_enunciado": "¿_____ María? No, _____ la tele."
+        },
+        {
+          "texto_enunciado": "¿Por qué _____?"
+        },
+        {
+          "texto_enunciado": "¿Con quién _____ Luisa?"
+        },
+        {
+          "texto_enunciado": "_____ un maratón."
+        }
+      ]
+    },
+    {
+      "subejercicio": "56.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos siguientes.",
+      "banco_palabras": [
+        "acostarse",
+        "comer",
+        "discutir",
+        "dormir",
+        "escuchar",
+        "hablar",
+        "hacer",
+        "hacer",
+        "jugar",
+        "pasar",
+        "pensar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "–¿Dónde están tus padres? –_____ unos días en Potosí."
+        },
+        {
+          "texto_enunciado": "–¿Dónde están los niños? –_____ en el parque."
+        },
+        {
+          "texto_enunciado": "José y su hermano se quieren mucho, pero _____ siempre _____."
+        },
+        {
+          "texto_enunciado": "–¿Con quién _____ Teresa? –Con una vecina."
+        },
+        {
+          "texto_enunciado": "Esta semana _____ mucho calor."
+        },
+        {
+          "texto_enunciado": "¡Qué obsesión! Laura y tú _____ siempre _____ en salir."
+        },
+        {
+          "texto_enunciado": "Ten cuidado, Arturo. Últimamente _____ muy poco."
+        },
+        {
+          "texto_enunciado": "–¿Por qué no come Cristina hoy con nosotros? –_____ en casa de una amiga."
+        },
+        {
+          "texto_enunciado": "–¿Dónde está Hans? –_____ un curso de español en Perú."
+        },
+        {
+          "texto_enunciado": "Esta semana estamos de fiesta y _____ muy tarde."
+        },
+        {
+          "texto_enunciado": "–¿Qué _____? –Música cubana."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases y diálogos seleccionando verbos de un banco y conjugándolos en la perífrasis estar + gerundio."
+    },
+    {
+      "subejercicio": "56.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué está pasando en este momento? Escriba frases ciertas.",
+      "items": [
+        {
+          "texto_enunciado": "(estudiar español) _____."
+        },
+        {
+          "texto_enunciado": "(ducharse) _____."
+        },
+        {
+          "texto_enunciado": "(escuchar música) _____."
+        },
+        {
+          "texto_enunciado": "(llover) _____."
+        },
+        {
+          "texto_enunciado": "(beber un zumo) _____."
+        },
+        {
+          "texto_enunciado": "(escribir) _____."
+        }
+      ],
+      "tipologia_libre_original": "Producción de frases afirmativas o negativas sobre acciones que suceden en este momento a partir de estímulos verbales entre paréntesis."
+    }
+  ],
+  "unidad": 56,
+  "titulo_libro": "Estoy viendo las noticias -- Presente de estar + gerundio",
+  "scan": "libro-rojo-122.png"
+}

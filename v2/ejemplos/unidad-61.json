@@ -1,0 +1,212 @@
+{
+  "tema": "unidad-61",
+  "titulo": "He viajado mucho",
+  "descripcion_gramatical": "Pretérito perfecto de indicativo (2)",
+  "fuente": "libro",
+  "unidad_libro": 61,
+  "ejercicios": [
+    {
+      "subejercicio": "61.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones. ¿Qué ha hecho Ana Roldán en su vida?",
+      "items": [
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Ha estado en Uruguay"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Ha escrito un libro"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Ha conocido a personajes famosos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Ha vivido en Chile"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Ha trabajado en un hospital"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Ha tenido cinco hijos"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "conocer",
+        "escribir",
+        "estar",
+        "tener",
+        "trabajar",
+        "vivir",
+        "Chile",
+        "hospital",
+        "libro",
+        "personajes famosos",
+        "cinco hijos",
+        "Uruguay"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un pasaporte de Ana Roldán con un sello de entrada en Uruguay."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un libro titulado «Aire», de Ana Roldán."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Ana Roldán acompañada por varios personajes famosos."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una carta dirigida a Ana Roldán en Santiago de Chile."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Ana Roldán trabajando como enfermera en un hospital."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Ana Roldán acompañada por cinco hijos."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "61.2",
+      "tipologia": "T9",
+      "enunciado": "Escriba frases con estas palabras.",
+      "items": [
+        {
+          "texto_enunciado": "Reinaldo / estar / nunca / en África _____.",
+          "solucion_correcta": [
+            "Reinaldo no ha estado nunca en África"
+          ]
+        },
+        {
+          "texto_enunciado": "¿ustedes / comer / alguna vez / tortilla? ¿_____?",
+          "solucion_correcta": [
+            "¿Han comido ustedes alguna vez tortilla?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿vosotros / enamorarse / alguna vez? ¿_____?",
+          "solucion_correcta": [
+            "¿Os habéis enamorado alguna vez?"
+          ]
+        },
+        {
+          "texto_enunciado": "yo / nunca / ir / a la ópera _____.",
+          "solucion_correcta": [
+            "No he ido nunca a la ópera"
+          ]
+        },
+        {
+          "texto_enunciado": "nosotros / beber / nunca / tequila _____.",
+          "solucion_correcta": [
+            "No hemos bebido nunca tequila"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "61.3",
+      "tipologia": "T13",
+      "enunciado": "Forme frases uniendo los elementos de las dos columnas.",
+      "items": [
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "No puedo entrar en casa porque he perdido las llaves"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Juana no ve bien porque se ha roto las gafas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "No puedo pagar porque me he olvidado la cartera"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Están agotadas porque han trabajado mucho todo el día"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Columna «consecuencias»: 1. No puedo entrar en casa; 2. Juana no ve bien; 3. No puedo pagar; 4. Están agotadas.",
+          "Columna «causas»: a. trabajar mucho todo el día; b. perder las llaves; c. olvidarse la cartera; d. romperse las gafas."
+        ]
+      }
+    },
+    {
+      "subejercicio": "61.4",
+      "tipologia": "T12",
+      "enunciado": "Laura y Gabriel se van de vacaciones la semana que viene. Escriba las preguntas de Gabriel sobre los preparativos y las respuestas de Laura.",
+      "items": [
+        {
+          "texto_enunciado": "(recoger los billetes) –¿_____? –Sí, _____.",
+          "solucion_correcta": [
+            "¿Has recogido ya los billetes?",
+            "los he recogido ya"
+          ]
+        },
+        {
+          "texto_enunciado": "(reservar el hotel) –¿_____? –Sí, _____.",
+          "solucion_correcta": [
+            "¿Has reservado ya el hotel?",
+            "lo he reservado ya"
+          ]
+        },
+        {
+          "texto_enunciado": "(pedir el visado) –¿_____? –Sí, _____.",
+          "solucion_correcta": [
+            "¿Has pedido ya el visado?",
+            "lo he pedido ya"
+          ]
+        },
+        {
+          "texto_enunciado": "(cambiar dinero) –¿_____? –No, _____.",
+          "solucion_correcta": [
+            "¿Has cambiado ya el dinero?",
+            "no lo he cambiado todavía"
+          ]
+        },
+        {
+          "texto_enunciado": "(recoger los cheques de viaje) –¿_____? –No, _____.",
+          "solucion_correcta": [
+            "¿Has recogido ya los cheques de viaje?",
+            "no los he recogido todavía"
+          ]
+        }
+      ]
+    }
+  ]
+}

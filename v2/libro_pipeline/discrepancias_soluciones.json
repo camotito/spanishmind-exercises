@@ -1,0 +1,1468 @@
+[
+  {
+    "subejercicio": "28.3",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "Un chico que conocí en el parque"
+      ],
+      [
+        "Una persona que no bebe alcohol"
+      ],
+      [
+        "Un cuadro que he pintado yo"
+      ],
+      [
+        "los obreros que están arreglando la calle"
+      ],
+      [
+        "Un chico con el que trabajo"
+      ],
+      [
+        "Una persona que no cree en Dios"
+      ],
+      [
+        "Una persona que cuida niños"
+      ],
+      [
+        "Una pluma con la que escribía Quevedo"
+      ]
+    ],
+    "openai": [
+      [
+        "Un chico que conocí en el parque"
+      ],
+      [
+        "Una persona que no bebe alcohol"
+      ],
+      [
+        "Un cuadro que he pintado yo"
+      ],
+      [
+        "Unos obreros que están arreglando la calle"
+      ],
+      [
+        "Un chico con el que trabajo"
+      ],
+      [
+        "Una persona que no cree en Dios"
+      ],
+      [
+        "Una persona que cuida niños"
+      ],
+      [
+        "Una pluma con la que escribía Quevedo"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "31.1",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuál"
+      ],
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuáles de"
+      ],
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuáles"
+      ]
+    ],
+    "openai": [
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuál"
+      ],
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuáles de"
+      ],
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuál"
+      ],
+      [
+        "Cuáles"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "31.2",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuál"
+      ],
+      [
+        "Cuáles"
+      ],
+      [
+        "Qué"
+      ],
+      [
+        "Qué"
+      ],
+      [
+        "Qué"
+      ],
+      [
+        "Cuál de"
+      ],
+      [
+        "qué"
+      ],
+      [
+        "qué"
+      ],
+      [
+        "Cuáles"
+      ],
+      [
+        "qué"
+      ],
+      [
+        "Qué"
+      ]
+    ],
+    "openai": [
+      [
+        "Cuál de"
+      ],
+      [
+        "Cuál"
+      ],
+      [
+        "Cuáles"
+      ],
+      [
+        "Qué"
+      ],
+      [
+        "Qué"
+      ],
+      [
+        "Cuál"
+      ],
+      [
+        "Cuál de"
+      ],
+      [
+        "qué"
+      ],
+      [
+        "qué"
+      ],
+      [
+        "Cuáles"
+      ],
+      [
+        "qué"
+      ],
+      [
+        "Qué"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "32.2",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "Cuándo"
+      ],
+      [
+        "Adónde"
+      ],
+      [
+        "Cómo"
+      ],
+      [
+        "Cuándo"
+      ],
+      [
+        "Dónde"
+      ],
+      [
+        "Para qué"
+      ],
+      [
+        "Por qué"
+      ],
+      [
+        "Desde cuándo"
+      ],
+      [
+        "De dónde"
+      ]
+    ],
+    "openai": [
+      [
+        "Cuándo"
+      ],
+      [
+        "Adónde"
+      ],
+      [
+        "Cómo"
+      ],
+      [
+        "Cuántos"
+      ],
+      [
+        "Cuándo"
+      ],
+      [
+        "Dónde"
+      ],
+      [
+        "Para qué"
+      ],
+      [
+        "Por qué"
+      ],
+      [
+        "Desde cuándo"
+      ],
+      [
+        "De dónde"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "33.1",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "¡Qué coche más/tan largo!"
+      ],
+      [
+        "¡Qué camisa más/tan cara!"
+      ],
+      [
+        "¡Qué pendientes más/tan bonitos!"
+      ],
+      [
+        "¡Qué chico más/tan alto!"
+      ],
+      [
+        "¡Qué relojes más/tan baratos!"
+      ],
+      [
+        "¡Qué"
+      ],
+      [
+        "¡Qué"
+      ],
+      [
+        "¡Qué"
+      ],
+      [
+        "¡Qué"
+      ],
+      [
+        "¡Qué"
+      ],
+      [
+        "¡Cuánta gente hay en la playa!"
+      ],
+      [
+        "¡Qué suerte tengo!"
+      ]
+    ],
+    "openai": [
+      [
+        "¡Qué coche más/tan largo!"
+      ],
+      [
+        "¡Qué camisa más/tan cara!"
+      ],
+      [
+        "¡Qué pendientes más/tan bonitos!"
+      ],
+      [
+        "¡Qué chico más/tan alto!"
+      ],
+      [
+        "¡Qué relojes más/tan baratos!"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "33.2",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "Qué"
+      ],
+      [
+        "Qué"
+      ],
+      [
+        "Cuántas"
+      ],
+      [
+        "Cómo/Cuánto"
+      ],
+      [
+        "Qué; Cuánto"
+      ],
+      [
+        "Cómo/Cuánto"
+      ],
+      [
+        "Cuántos"
+      ],
+      [
+        "Cómo"
+      ],
+      [
+        "Qué"
+      ],
+      [
+        "Qué"
+      ]
+    ],
+    "openai": [
+      [
+        "Cuánto"
+      ],
+      [
+        "Qué"
+      ],
+      [
+        "Cuántas"
+      ],
+      [
+        "Cómo/Cuánto"
+      ],
+      [
+        "Qué",
+        "Cuánto"
+      ],
+      [
+        "Cómo/Cuánto"
+      ],
+      [
+        "Cuántos"
+      ],
+      [
+        "Cómo"
+      ],
+      [
+        "Qué"
+      ],
+      [
+        "Qué"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "34.3",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "yo"
+      ],
+      [
+        "Ella"
+      ],
+      [
+        "Ella"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "yo"
+      ],
+      [
+        "Ella"
+      ],
+      [
+        "yo"
+      ],
+      [
+        "Él"
+      ],
+      [
+        "ella"
+      ]
+    ],
+    "openai": [
+      [
+        "yo",
+        "Ella",
+        "yo"
+      ],
+      [
+        "Ella",
+        "él"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "yo",
+        "Ella",
+        "yo"
+      ],
+      [
+        "ø",
+        "Él",
+        "ella"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "34.4",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "tú"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "tú"
+      ],
+      [
+        "ustedes"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "yo"
+      ],
+      [
+        "vosotros/vosotras"
+      ],
+      [
+        "ø"
+      ]
+    ],
+    "openai": [
+      [
+        "tú",
+        "ø"
+      ],
+      [
+        "ø",
+        "ø",
+        "tú",
+        "ø"
+      ],
+      [
+        "ustedes",
+        "ø"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "(yo)",
+        "vosotros/vosotras"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "(yo)"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "36.1",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "te"
+      ],
+      [
+        "Me"
+      ],
+      [
+        "Nos"
+      ],
+      [
+        "Le"
+      ],
+      [
+        "le"
+      ],
+      [
+        "Les"
+      ],
+      [
+        "os"
+      ],
+      [
+        "Le"
+      ]
+    ],
+    "openai": [
+      [
+        "te",
+        "Me"
+      ],
+      [
+        "Nos"
+      ],
+      [
+        "Le"
+      ],
+      [
+        "le"
+      ],
+      [
+        "Les"
+      ],
+      [
+        "os"
+      ],
+      [
+        "Le"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "36.3",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "A mí no me dijo nada"
+      ],
+      [
+        "¿Les dijo algo a ustedes? A nosotros no nos dijo nada"
+      ],
+      [
+        "¿Le dijo algo a Marcela? A Marcela/él no le dijo nada"
+      ],
+      [
+        "A nosotros no nos ha preguntado nada"
+      ],
+      [
+        "¿Le ha preguntado algo a Tomás? A Tomás/él no le ha preguntado nada"
+      ],
+      [
+        "¿Le ha preguntado algo a usted? A mí no me ha preguntado nada"
+      ],
+      [
+        "A ti no te ha comprado nada"
+      ],
+      [
+        "¿Nos ha comprado algo a nosotros? A vosotros no os ha comprado nada"
+      ],
+      [
+        "¿Le ha comprado algo a su hermano? A su hermano/A él no le ha comprado nada"
+      ]
+    ],
+    "openai": [
+      [
+        "A mí no me dijo nada",
+        "¿Les dijo algo a ustedes?",
+        "A nosotros no nos dijo nada",
+        "¿Le dijo algo a Marcela?",
+        "A Marcela/ella no le dijo nada"
+      ],
+      [
+        "A nosotros no nos ha preguntado nada",
+        "¿Le ha preguntado algo a Tomás?",
+        "A Tomás/él no le ha preguntado nada",
+        "¿Le ha preguntado algo a usted?",
+        "A mí no me ha preguntado nada"
+      ],
+      [
+        "A ti no te ha comprado nada",
+        "¿Nos ha comprado algo a nosotros?",
+        "A vosotros no os ha comprado nada / A nosotros no nos ha comprado nada",
+        "¿Le ha comprado algo a su hermano?",
+        "A su hermano / A él no le ha comprado nada"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "37.1",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "Me los"
+      ],
+      [
+        "Se lo"
+      ],
+      [
+        "Nos lo"
+      ],
+      [
+        "Te las"
+      ],
+      [
+        "Me la"
+      ],
+      [
+        "Nos lo"
+      ],
+      [
+        "se los ha presentado"
+      ],
+      [
+        "me la ha enseñado"
+      ],
+      [
+        "se los ha vendido"
+      ],
+      [
+        "nos los ha enseñado"
+      ],
+      [
+        "te las ha traído"
+      ]
+    ],
+    "openai": [
+      [
+        "Me los"
+      ],
+      [
+        "Se lo"
+      ],
+      [
+        "Nos lo"
+      ],
+      [
+        "Te las"
+      ],
+      [
+        "Me la"
+      ],
+      [
+        "Nos lo"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "37.2",
+    "razon": "solo_visto_por_openai",
+    "openai": [
+      [
+        "no me lo ha dado"
+      ],
+      [
+        "nos lo ha prestado"
+      ],
+      [
+        "no se lo ha presentado"
+      ],
+      [
+        "me la ha enseñado"
+      ],
+      [
+        "se los ha presentado"
+      ],
+      [
+        "no se lo ha vendido"
+      ],
+      [
+        "nos los ha enseñado"
+      ],
+      [
+        "te las ha traído"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "37.3",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "se lo"
+      ],
+      [
+        "me la"
+      ],
+      [
+        "se lo"
+      ],
+      [
+        "nos la"
+      ],
+      [
+        "se las"
+      ],
+      [
+        "se lo"
+      ],
+      [
+        "te los"
+      ],
+      [
+        "te lo"
+      ],
+      [
+        "me la"
+      ],
+      [
+        "los os"
+      ]
+    ],
+    "openai": [
+      [
+        "Se lo"
+      ],
+      [
+        "me la"
+      ],
+      [
+        "Se lo"
+      ],
+      [
+        "nos la"
+      ],
+      [
+        "se las"
+      ],
+      [
+        "Se lo"
+      ],
+      [
+        "se los"
+      ],
+      [
+        "te lo"
+      ],
+      [
+        "me la"
+      ],
+      [
+        "os los"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "37.4",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "a mí no me las ha dado"
+      ],
+      [
+        "a mí no me lo ha dado"
+      ],
+      [
+        "a nosotros no nos las ha dado"
+      ],
+      [
+        "a usted no se lo ha enviado"
+      ],
+      [
+        "a nosotros/vosotros no os/nos han aprobado"
+      ],
+      [
+        "a ella la han aprobado"
+      ],
+      [
+        "a él no lo han aprobado"
+      ],
+      [
+        "a nosotros/vosotros no os/nos han invitado"
+      ]
+    ],
+    "openai": [
+      [
+        "a mí no me las ha dado"
+      ],
+      [
+        "a mí no me lo ha dado"
+      ],
+      [
+        "a nosotros no nos las ha dado"
+      ],
+      [
+        "a usted no se lo ha enviado"
+      ],
+      [
+        "a nosotros/vosotros no nos/os han aprobado"
+      ],
+      [
+        "a ella la han aprobado"
+      ],
+      [
+        "a él no lo han aprobado"
+      ],
+      [
+        "a nosotros/vosotros no nos/os han invitado"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "39.2",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "comprarlo"
+      ],
+      [
+        "devolvérmelo"
+      ],
+      [
+        "verlos"
+      ],
+      [
+        "tirarlos"
+      ],
+      [
+        "preguntarte"
+      ],
+      [
+        "vendérselo"
+      ],
+      [
+        "escribirle"
+      ],
+      [
+        "ayudarnos"
+      ],
+      [
+        "visitarlas"
+      ]
+    ],
+    "openai": [
+      [
+        "comprarlo"
+      ],
+      [
+        "devolvérmelo"
+      ],
+      [
+        "veros"
+      ],
+      [
+        "tirarlos"
+      ],
+      [
+        "preguntarte"
+      ],
+      [
+        "vendérselo"
+      ],
+      [
+        "escribirle"
+      ],
+      [
+        "ayudarnos"
+      ],
+      [
+        "visitarlas"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "39.4",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "Pásame la sal"
+      ],
+      [
+        "La directora quiere vernos"
+      ],
+      [
+        "He olvidado comprarlo"
+      ],
+      [
+        "¿Puedes ayudarme?"
+      ],
+      [
+        "¿Me puedes ayudar?"
+      ],
+      [
+        "Pregúntaselo a Julio"
+      ],
+      [
+        "¿Quién está haciéndolo?"
+      ],
+      [
+        "¿Quién lo está haciendo?"
+      ],
+      [
+        "Me gustaría decírselo a Sandra"
+      ],
+      [
+        "Pásame la pelota"
+      ]
+    ],
+    "openai": [
+      [
+        "Pásame la sal"
+      ],
+      [
+        "La directora quiere vernos. / La directora nos quiere ver"
+      ],
+      [
+        "He olvidado comprarlo"
+      ],
+      [
+        "¿Puedes ayudarme? / ¿Me puedes ayudar?"
+      ],
+      [
+        "Pregúntaselo a Julio"
+      ],
+      [
+        "¿Quién está haciéndolo? / ¿Quién lo está haciendo?"
+      ],
+      [
+        "Me gustaría decírselo a Sandra"
+      ],
+      [
+        "Pásame la pelota"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "40.1",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "se"
+      ],
+      [
+        "se"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "te"
+      ],
+      [
+        "se"
+      ],
+      [
+        "nos"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "se"
+      ],
+      [
+        "me"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "te"
+      ],
+      [
+        "os"
+      ],
+      [
+        "se"
+      ],
+      [
+        "os"
+      ]
+    ],
+    "openai": [
+      [
+        "se"
+      ],
+      [
+        "Se"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "te"
+      ],
+      [
+        "Se"
+      ],
+      [
+        "nos"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "se"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "se"
+      ],
+      [
+        "Me"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "te"
+      ],
+      [
+        "os"
+      ],
+      [
+        "se"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "40.3",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "Me"
+      ],
+      [
+        "se"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "se"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "os"
+      ],
+      [
+        "se"
+      ],
+      [
+        "se"
+      ],
+      [
+        "te"
+      ],
+      [
+        "ø"
+      ]
+    ],
+    "openai": [
+      [
+        "Me"
+      ],
+      [
+        "se"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "Se"
+      ],
+      [
+        "ø"
+      ],
+      [
+        "os"
+      ],
+      [
+        "Os"
+      ],
+      [
+        "se"
+      ],
+      [
+        "Se"
+      ],
+      [
+        "se"
+      ],
+      [
+        "te"
+      ],
+      [
+        "ø"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "41.2",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "él"
+      ],
+      [
+        "ella"
+      ],
+      [
+        "-tigo"
+      ],
+      [
+        "ellos"
+      ],
+      [
+        "nosotros/nosotras"
+      ],
+      [
+        "mí"
+      ]
+    ],
+    "openai": [
+      [
+        "él"
+      ],
+      [
+        "ella"
+      ],
+      [
+        "él"
+      ],
+      [
+        "-tigo"
+      ],
+      [
+        "ellos"
+      ],
+      [
+        "nosotros/nosotras"
+      ],
+      [
+        "mí"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "41.3",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "conmigo"
+      ],
+      [
+        "tú"
+      ],
+      [
+        "ti"
+      ],
+      [
+        "tú"
+      ],
+      [
+        "mí"
+      ],
+      [
+        "migo"
+      ],
+      [
+        "tigo"
+      ],
+      [
+        "mí"
+      ]
+    ],
+    "openai": [
+      [
+        "conmigo"
+      ],
+      [
+        "tú"
+      ],
+      [
+        "ti"
+      ],
+      [
+        "tú"
+      ],
+      [
+        "mí"
+      ],
+      [
+        "-migo"
+      ],
+      [
+        "-tigo"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "42.1",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "sois"
+      ],
+      [
+        "Somos"
+      ],
+      [
+        "es"
+      ],
+      [
+        "Soy"
+      ],
+      [
+        "Somos"
+      ],
+      [
+        "Son"
+      ],
+      [
+        "somos"
+      ],
+      [
+        "eres"
+      ],
+      [
+        "Soy"
+      ],
+      [
+        "Son"
+      ]
+    ],
+    "openai": [
+      [
+        "sois",
+        "Somos"
+      ],
+      [
+        "es",
+        "Soy"
+      ],
+      [
+        "Somos"
+      ],
+      [
+        "Son",
+        "somos"
+      ],
+      [
+        "eres",
+        "Soy"
+      ],
+      [
+        "Son"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "42.2",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "eres"
+      ],
+      [
+        "Soy"
+      ],
+      [
+        "son"
+      ],
+      [
+        "sois"
+      ],
+      [
+        "Somos"
+      ],
+      [
+        "soy"
+      ],
+      [
+        "es"
+      ],
+      [
+        "Son"
+      ],
+      [
+        "Sois"
+      ],
+      [
+        "somos"
+      ],
+      [
+        "Es"
+      ],
+      [
+        "somos"
+      ],
+      [
+        "son"
+      ],
+      [
+        "Son"
+      ],
+      [
+        "son"
+      ]
+    ],
+    "openai": [
+      [
+        "eres",
+        "Soy"
+      ],
+      [
+        "son",
+        "Son"
+      ],
+      [
+        "sois",
+        "Somos"
+      ],
+      [
+        "Eres",
+        "soy"
+      ],
+      [
+        "es",
+        "Son"
+      ],
+      [
+        "es",
+        "Es"
+      ],
+      [
+        "Sois",
+        "somos"
+      ],
+      [
+        "es",
+        "Es"
+      ],
+      [
+        "sois",
+        "Somos"
+      ],
+      [
+        "son",
+        "Son"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "43.1",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "Estoy"
+      ],
+      [
+        "estáis"
+      ],
+      [
+        "Estamos"
+      ],
+      [
+        "estás"
+      ],
+      [
+        "Estoy"
+      ]
+    ],
+    "openai": [
+      [
+        "Estoy"
+      ],
+      [
+        "estáis",
+        "Estamos"
+      ],
+      [
+        "estás",
+        "Estoy"
+      ]
+    ]
+  },
+  {
+    "subejercicio": "43.4",
+    "razon": "discrepancia_entre_proveedores",
+    "gemini": [
+      [
+        "está"
+      ],
+      [
+        "Estoy"
+      ],
+      [
+        "Está"
+      ],
+      [
+        "está"
+      ],
+      [
+        "Estás"
+      ],
+      [
+        "Estoy"
+      ],
+      [
+        "está"
+      ],
+      [
+        "están"
+      ],
+      [
+        "Están"
+      ]
+    ],
+    "openai": [
+      [
+        "está",
+        "Estoy"
+      ],
+      [
+        "Está",
+        "está"
+      ],
+      [
+        "Estás",
+        "estoy",
+        "Estoy"
+      ],
+      [
+        "está",
+        "Está"
+      ],
+      [
+        "están",
+        "Están"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,252 @@
+{
+  "tema": "unidad-22",
+  "titulo": "mucho, poco, demasiado, suficiente...",
+  "descripcion_gramatical": "Indefinidos (3)",
+  "fuente": "libro",
+  "unidad_libro": 22,
+  "ejercicios": [
+    {
+      "subejercicio": "22.1",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las cantidades subrayadas por mucho, mucha... o poco, pocos...",
+      "items": [
+        {
+          "texto_enunciado": "Sonia tiene <u>unos doscientos</u> libros. _____.",
+          "solucion_correcta": [
+            "Sonia tiene muchos libros"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto tiene <u>dos amigos</u>. _____.",
+          "solucion_correcta": [
+            "Alberto tiene pocos amigos"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer dormimos <u>diez</u> horas. _____.",
+          "solucion_correcta": [
+            "Ayer dormimos muchas horas"
+          ]
+        },
+        {
+          "texto_enunciado": "Bebo <u>tres litros de</u> agua al día. _____.",
+          "solucion_correcta": [
+            "Bebo mucha agua al día"
+          ]
+        },
+        {
+          "texto_enunciado": "Hemos comprado <u>diez litros de</u> aceite. _____.",
+          "solucion_correcta": [
+            "Hemos comprado mucho aceite"
+          ]
+        },
+        {
+          "texto_enunciado": "Quedan <u>dos patatas</u>. _____.",
+          "solucion_correcta": [
+            "Quedan pocas patatas"
+          ]
+        },
+        {
+          "texto_enunciado": "Luisa toma <u>media cucharada de</u> azúcar en el café. _____.",
+          "solucion_correcta": [
+            "Luisa toma poco azúcar en el café"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.2",
+      "tipologia": "T12",
+      "enunciado": "Indique si estas cantidades le parecen demasiado o suficiente.",
+      "items": [
+        {
+          "texto_enunciado": "Javier trabaja doce horas todos los días. _____.",
+          "solucion_correcta": [
+            "Trabaja demasiadas horas"
+          ]
+        },
+        {
+          "texto_enunciado": "Enrique duerme cuatro horas todos los días. _____.",
+          "solucion_correcta": [
+            "No duerme suficientes horas"
+          ]
+        },
+        {
+          "texto_enunciado": "Jacinta bebe un vaso de agua al día. _____.",
+          "solucion_correcta": [
+            "No bebe suficiente agua"
+          ]
+        },
+        {
+          "texto_enunciado": "Como cinco plátanos al día. _____.",
+          "solucion_correcta": [
+            "Como demasiados plátanos"
+          ]
+        },
+        {
+          "texto_enunciado": "Inés bebe litro y medio de agua al día. _____.",
+          "solucion_correcta": [
+            "Bebe suficiente agua"
+          ]
+        },
+        {
+          "texto_enunciado": "Gabriel come medio kilo de carne todos los días. _____.",
+          "solucion_correcta": [
+            "Come demasiada carne"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenemos una patata para hacer una tortilla. _____.",
+          "solucion_correcta": [
+            "No tenemos suficientes patatas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.3",
+      "tipologia": "T2",
+      "enunciado": "Describa lo que hay en cada ilustración utilizando mucho, poco, bastante... y alguna de las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Muchos coches"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Poca agua"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Bastante comida"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Bastante gente"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Poca gente"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Muchos árboles"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Mucha gente"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Pocos árboles"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "agua",
+        "árboles",
+        "árboles",
+        "coches",
+        "comida",
+        "gente",
+        "gente",
+        "gente"
+      ],
+      "contexto_grafico": {
+        "tipo": "visual_count",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una carretera con muchos coches."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un arroyo con poca agua que pasa bajo un puente."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos platos llenos de comida."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una playa con varias personas."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una playa con pocas personas."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Un paisaje con muchos árboles y algunas casas."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una playa llena de gente."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un paisaje rural con una casa, un camino y pocos árboles."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "22.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con mucho, poco, demasiado, suficiente, bastante...",
+      "items": [
+        {
+          "texto_enunciado": "—¿Tienes hambre? —No tengo _____. Puedo esperar.",
+          "solucion_correcta": [
+            "mucha"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuántas manzanas tienes? —Tres. Son _____ para una tarta.",
+          "solucion_correcta": [
+            "suficientes"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuánto dinero tienes? —Veinticinco euros. Es _____. Las entradas cuestan veinte.",
+          "solucion_correcta": [
+            "suficiente"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuánta gente hay? —No hay _____. Unas diez personas.",
+          "solucion_correcta": [
+            "mucha"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuántas horas duermes al día? —_____. Cinco o seis. Tengo que estudiar.",
+          "solucion_correcta": [
+            "Pocas"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Crees que veinte bocadillos serán suficientes? —Son _____. Solo somos tres.",
+          "solucion_correcta": [
+            "demasiados"
+          ]
+        }
+      ]
+    }
+  ]
+}

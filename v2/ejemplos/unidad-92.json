@@ -1,0 +1,216 @@
+{
+  "tema": "unidad-92",
+  "titulo": "Si encontrara trabajo, me casaría",
+  "descripcion_gramatical": "Condicionales (2)",
+  "fuente": "libro",
+  "unidad_libro": 92,
+  "ejercicios": [
+    {
+      "subejercicio": "92.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "(Ahorraríamos/Ahorraremos) más si no (gastáramos/gastaríamos) tanto.",
+          "solucion_correcta": [
+            "Ahorraríamos",
+            "gastaríamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Si (viviéramos/viviríamos) más cerca, nos (veríamos/viéramos) más a menudo.",
+          "solucion_correcta": [
+            "viviéramos",
+            "veríamos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué (harías/hicieras) si hoy no (tuvieras/tendrías) que ir a la oficina?",
+          "solucion_correcta": [
+            "harías",
+            "tuvieras"
+          ]
+        },
+        {
+          "texto_enunciado": "Si me (ofrecieran/ofrecerían) un trabajo en México, lo (aceptara/aceptaría).",
+          "solucion_correcta": [
+            "ofrecieran",
+            "aceptaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Si (harían/hicieran) un esfuerzo, (aprobaran/aprobarían) todos.",
+          "solucion_correcta": [
+            "hicieran",
+            "aprobarían"
+          ]
+        },
+        {
+          "texto_enunciado": "Si Hans (aprendiera/aprendería) español, (pudiera/podría) trabajar en nuestra empresa.",
+          "solucion_correcta": [
+            "aprendiera",
+            "podría"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Sabes que Isabel (venir) _____ si la llamases.",
+          "solucion_correcta": [
+            "vendría"
+          ]
+        },
+        {
+          "texto_enunciado": "Ahora no tengo hambre, pero si la (tener) _____, comería algo.",
+          "solucion_correcta": [
+            "tuviera"
+          ]
+        },
+        {
+          "texto_enunciado": "Si Borja (ver) _____ menos la tele, aprobaría el curso sin problemas.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "¿Qué crees que (hacer) _____ Alberto si supiera la verdad?",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si cogieran un taxi, (llegar) _____ a tiempo al aeropuerto.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Nina sabe que, si (ponerse) _____ enferma, yo la cuidaría.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "¿Qué (pasar) _____ si no fuéramos? ¿Crees que Leo (enfadarse) _____?",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si yo (estar) _____ en tu lugar, buscaría un empleo.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si (saber) _____ el teléfono de Ana, la llamaría.",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.3",
+      "tipologia": "T13",
+      "enunciado": "Una las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Si Alberto fuera amigo tuyo,\na. ahora estaríamos en Acapulco.",
+          "solucion_correcta": [
+            "Si Alberto fuera amigo tuyo, te ayudaría"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si Irene es amiga tuya,\nb. no te dejaría salir todas las noches.",
+          "solucion_correcta": [
+            "Si Irene es amiga tuya, pídele que te ayude"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si tomamos el tren de las 8,\nc. pídele que te ayude.",
+          "solucion_correcta": [
+            "Si tomamos el tren de las 8, estaremos en Acapulco a la 1"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si fuéramos millonarias,\nd. dile que quiero hablar con él.",
+          "solucion_correcta": [
+            "Si fuéramos millonarias, ahora estaríamos en Acapulco"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si se va el sol,\ne. te ayudaría.",
+          "solucion_correcta": [
+            "Si se va el sol, hace frío"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si se fuera el sol,\nf. estaremos en Acapulco a la 1.",
+          "solucion_correcta": [
+            "Si se fuera el sol, se helaría la nieve"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si fuera tu padre,\ng. se helaría la nieve.",
+          "solucion_correcta": [
+            "Si fuera tu padre, no te dejaría salir todas las noches"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si es tu padre,\nh. hace frío.",
+          "solucion_correcta": [
+            "Si es tu padre, dile que quiero hablar con él"
+          ],
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.4",
+      "tipologia": "T4",
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "—Es posible que tenga un empleo para ti, Manuel. Necesitamos una persona.\n—Si me (dar) _____ el trabajo, Sr. Ortega, me (hacer) _____ feliz.\n—Si yo (tener) _____ 20 años, (ser) _____ feliz, aunque no tuviera trabajo.",
+          "solucion_correcta": [
+            "da",
+            "hará",
+            "tuviera",
+            "sería"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Puedes prestarme algo de dinero hasta final de mes?\n—No sé. Si te lo (prestar) _____, ¿cuándo me lo (devolver) _____?",
+          "solucion_correcta": [
+            "prestara",
+            "devolverías"
+          ]
+        },
+        {
+          "texto_enunciado": "—Sé que es muy difícil, pero si te (tocar) _____ la lotería, ¿qué (hacer) _____?\n—(Dejar) _____ de trabajar y (viajar) _____.",
+          "solucion_correcta": [
+            "tocara",
+            "harías",
+            "Dejaría",
+            "viajaría"
+          ]
+        },
+        {
+          "texto_enunciado": "—Si (no, decir) _____ la verdad, (no, poder) _____ ayudarte.\n—No puedo decírtela. Si te la (decir) _____, (enfadarse) _____ Tomás.",
+          "solucion_correcta": [
+            "no dices",
+            "no podré",
+            "dijera",
+            "se enfadaría"
+          ]
+        }
+      ]
+    }
+  ]
+}

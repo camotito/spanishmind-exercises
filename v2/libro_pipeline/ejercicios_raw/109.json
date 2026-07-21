@@ -1,0 +1,167 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "109.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Exprese coincidencia. Complete las respuestas con también o tampoco.",
+      "items": [
+        {
+          "texto_enunciado": "–Julia está contenta. –Yo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No nos gusta el fútbol. –A nosotras _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–A Ramón no le gusta viajar en avión. –A su mujer _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No sé conducir. –Yo _____. Tengo que aprender.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Eres una persona encantadora. –Tú _____, Marisa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Estamos resfriadas. –Nosotras _____. Es que hace mucho frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Erika habla español muy bien. –Ulrich _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No tenemos entradas. –Laura y Sonia _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–A Miguel le gustaría visitar el Amazonas. –A mí _____. Debe de ser precioso.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Lista lineal de diálogos con un hueco en cada respuesta; el alumno debe completarlos eligiendo entre «también» y «tampoco», opciones indicadas globalmente en el enunciado."
+    },
+    {
+      "subejercicio": "109.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Exprese falta de coincidencia. Complete las frases con sí o no.",
+      "items": [
+        {
+          "texto_enunciado": "–Tengo sueño. –Yo _____. Anoche dormí bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Luis no sabe jugar al tenis. –Pues Ramón _____. Es bastante bueno.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No me gusta el frío. –A nosotros _____. Es muy sano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Mañana no trabajo. –Yo _____. Trabajo todos los días.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–A Arturo le encanta estudiar. –Pues a Leo _____. Es un poco vago.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No sé tocar ningún instrumento. –Yo _____. Sé tocar la guitarra.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No conozco España. –Nosotros _____. Estuvimos allí hace tres años.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Me encanta madrugar. –Pues a mí _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Lista lineal de diálogos con un hueco en cada respuesta; el alumno debe expresar falta de coincidencia eligiendo entre «sí» y «no», opciones indicadas globalmente en el enunciado."
+    },
+    {
+      "subejercicio": "109.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos expresando coincidencia o falta de coincidencia de acuerdo con la siguiente clave: = coincidencia, – diferencia.",
+      "items": [
+        {
+          "texto_enunciado": "–Me encanta el chile con carne. –(yo, –) _____. Es muy picante.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Adrián conoce muy bien Guatemala. –(Charo, =) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Anoche no vi el partido. –(yo, =) _____. Me acosté pronto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Yo, de pequeña, era muy tímida. –(mi hermana, =) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No conozco a ese chico. –(nosotras, =) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No comes mucho. –(tú, =) _____. Tienes que comer más.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–A Rosendo le encanta el rock. –(Diana, –) _____. Prefiere música más suave.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Este año no tengo vacaciones. –(yo, –) _____, pero en septiembre.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Lista lineal de diálogos que deben completarse con expresiones de coincidencia o diferencia; cada hueco va precedido por una indicación entre paréntesis con la persona que debe responder y el símbolo «=» o «–»."
+    },
+    {
+      "subejercicio": "109.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas de acuerdo con la siguiente clave: (√) respuesta afirmativa, (x) respuesta negativa.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Sabéis jugar a la canasta? –(√) Yo _____. –(x) Yo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Tenéis coche? –(x) Yo _____. –(x) Yo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Están cansados? –(√) Rosa _____. –(√) David _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Trabajáis mucho? –(x) Yo _____. –(√) Yo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Os ha gustado el concierto? –(x) A mí _____. –(x) A mí _____. –(√) A mí _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Os gusta el dulce de leche? –(x) A mí _____ pero (√) a Héctor _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Lista lineal de preguntas con una o varias respuestas incompletas; cada hueco está precedido por la clave «(√)» para respuesta afirmativa o «(x)» para respuesta negativa."
+    }
+  ],
+  "unidad": 109,
+  "titulo_libro": "yo sí, yo no, yo también, yo tampoco -- Expresión de coincidencia o no coincidencia",
+  "scan": "libro-rojo-228.png"
+}

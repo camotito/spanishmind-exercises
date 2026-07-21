@@ -1,0 +1,163 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "53.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases con los verbos del recuadro.",
+      "banco_palabras": [
+        "acostarse",
+        "despertarse",
+        "ducharse",
+        "levantarse",
+        "vestirse"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "personajes": "Arturo",
+            "accion": "Se despierta y bosteza en la cama.",
+            "hora": "08:00"
+          },
+          {
+            "numero": "2",
+            "personajes": "Merche y Ernesto",
+            "accion": "Se levantan de la cama.",
+            "hora": "08:30"
+          },
+          {
+            "numero": "3",
+            "personajes": "Jaime",
+            "accion": "Se ducha.",
+            "hora": null
+          },
+          {
+            "numero": "4",
+            "personajes": "Jaime",
+            "accion": "Se viste y se pone la corbata.",
+            "hora": null
+          },
+          {
+            "numero": "5",
+            "personajes": "Merche y Ernesto",
+            "accion": "Están acostados en la cama.",
+            "hora": "23:30"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. Arturo _____ a las ocho."
+        },
+        {
+          "texto_enunciado": "2. Merche y Ernesto _____ a las ocho y media."
+        },
+        {
+          "texto_enunciado": "3. Jaime _____ todas las mañanas."
+        },
+        {
+          "texto_enunciado": "4. Jaime _____ después de ducharse."
+        },
+        {
+          "texto_enunciado": "5. Merche y Ernesto _____ a las once y media."
+        }
+      ]
+    },
+    {
+      "subejercicio": "53.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro en forma afirmativa o negativa.",
+      "banco_palabras": [
+        "aburrirse",
+        "afeitarse",
+        "atreverse",
+        "cansarse",
+        "defenderse",
+        "divertirse",
+        "lavarse",
+        "lavarse",
+        "mancharse",
+        "pintarse",
+        "ponerse",
+        "subirse"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "1. Javi _____ con un jabón especial."
+        },
+        {
+          "texto_enunciado": "2. (yo) _____ traje para ir a trabajar."
+        },
+        {
+          "texto_enunciado": "3. Los gatos _____ a los árboles."
+        },
+        {
+          "texto_enunciado": "4. José _____ todavía. No tiene barba."
+        },
+        {
+          "texto_enunciado": "5. Susana _____ los ojos algunas veces."
+        },
+        {
+          "texto_enunciado": "6. Ángel y yo _____ mucho en las fiestas."
+        },
+        {
+          "texto_enunciado": "7. Pepe es muy sucio. _____ mucho la ropa."
+        },
+        {
+          "texto_enunciado": "8. Alberto es muy tímido. _____ a hablar con Sarita."
+        },
+        {
+          "texto_enunciado": "9. A Iván no le gusta el cine; _____ mucho cuando va."
+        },
+        {
+          "texto_enunciado": "10. Mi hermana y yo _____ el pelo todos los días."
+        },
+        {
+          "texto_enunciado": "11. Los canguros _____ con las patas cuando los atacan."
+        },
+        {
+          "texto_enunciado": "12. Mi abuela _____ cuando sube escaleras."
+        }
+      ],
+      "tipologia_libre_original": "Selección de verbos pronominales de un recuadro y conjugación en presente, en forma afirmativa o negativa según el contexto de cada frase."
+    },
+    {
+      "subejercicio": "53.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las preguntas y las respuestas con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "1. —¿A qué hora (tú, levantarse) _____? —_____ a las siete."
+        },
+        {
+          "texto_enunciado": "2. —¿(tú, ponerse) _____ pijama para dormir? —No, _____ camisón."
+        },
+        {
+          "texto_enunciado": "3. —¿(vosotros, bañarse) _____ en el mar en verano? —No, pero _____ en la piscina."
+        },
+        {
+          "texto_enunciado": "4. —¿Qué (vosotros, ponerse) _____ los domingos? —_____ ropa normal: vaqueros y una camisa."
+        },
+        {
+          "texto_enunciado": "5. —¿Con qué (afeitarse) _____ usted? —_____ con maquinilla eléctrica."
+        },
+        {
+          "texto_enunciado": "6. —¿(usted, vestirse) _____ antes o después de desayunar? —_____ después de desayunar."
+        },
+        {
+          "texto_enunciado": "7. —¿A qué hora (levantarse) _____ ustedes los domingos? —_____ temprano, sobre las nueve."
+        },
+        {
+          "texto_enunciado": "8. —¿Y a qué hora (ustedes, acostarse) _____? —_____ también temprano, sobre las diez."
+        }
+      ]
+    }
+  ],
+  "unidad": 53,
+  "titulo_libro": "me levanto -- Verbos con me, te, se...",
+  "scan": "libro-rojo-116.png"
+}

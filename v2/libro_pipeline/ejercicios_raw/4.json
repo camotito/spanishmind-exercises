@@ -1,0 +1,255 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "4.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con un, una, unos, unas.",
+      "items": [
+        {
+          "texto_enunciado": "1. _____ flor"
+        },
+        {
+          "texto_enunciado": "2. _____ sillas"
+        },
+        {
+          "texto_enunciado": "3. _____ relojes"
+        },
+        {
+          "texto_enunciado": "4. _____ paraguas"
+        },
+        {
+          "texto_enunciado": "5. _____ alumnos"
+        },
+        {
+          "texto_enunciado": "6. _____ cine"
+        },
+        {
+          "texto_enunciado": "7. _____ habitación"
+        },
+        {
+          "texto_enunciado": "8. _____ lápices"
+        },
+        {
+          "texto_enunciado": "9. _____ chica"
+        },
+        {
+          "texto_enunciado": "10. _____ aulas"
+        },
+        {
+          "texto_enunciado": "11. _____ ciudad"
+        },
+        {
+          "texto_enunciado": "12. _____ aula"
+        },
+        {
+          "texto_enunciado": "13. _____ profesora"
+        },
+        {
+          "texto_enunciado": "14. _____ pantalones"
+        },
+        {
+          "texto_enunciado": "15. _____ camarero"
+        }
+      ]
+    },
+    {
+      "subejercicio": "4.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las respuestas utilizando un, una, unos, unas y las palabras de los recuadros.",
+      "banco_palabras": [
+        "ciudad",
+        "deporte",
+        "flor",
+        "fruta",
+        "país",
+        "científico",
+        "escritora",
+        "director de cine",
+        "futbolista",
+        "pintora"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "¿Qué es... 1. ... el balonmano? Es _____."
+        },
+        {
+          "texto_enunciado": "¿Qué es... 2. ... Sevilla? Es _____."
+        },
+        {
+          "texto_enunciado": "¿Qué es... 3. ... Colombia? Es _____."
+        },
+        {
+          "texto_enunciado": "¿Qué es... 4. ... una rosa? Es _____."
+        },
+        {
+          "texto_enunciado": "¿Qué es... 5. ... el mango? Es _____."
+        },
+        {
+          "texto_enunciado": "¿Quién es... 1. ... Ronaldo? Es _____."
+        },
+        {
+          "texto_enunciado": "¿Quién es... 2. ... Isabel Allende? Es _____."
+        },
+        {
+          "texto_enunciado": "¿Quién es... 3. ... Frida Kahlo? Es _____."
+        },
+        {
+          "texto_enunciado": "¿Quién es... 4. ... Amenábar? Es _____."
+        },
+        {
+          "texto_enunciado": "¿Quién es... 5. ... Stephen Hawking? Es _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "4.3",
+      "tipologia": "T2",
+      "enunciado": "Escriba lo que hay en cada ilustración utilizando un, una, unos, unas y las palabras del recuadro.",
+      "banco_palabras": [
+        "árboles",
+        "caballo",
+        "casa",
+        "chicas",
+        "coche",
+        "gafas",
+        "gato",
+        "hacha",
+        "libros",
+        "niños",
+        "televisión",
+        "vacas"
+      ],
+      "contexto_grafico": {
+        "tipo": "visual_count",
+        "datos": [
+          {
+            "numero": "1",
+            "ilustracion": "un coche"
+          },
+          {
+            "numero": "2",
+            "ilustracion": "tres niños"
+          },
+          {
+            "numero": "3",
+            "ilustracion": "un hacha"
+          },
+          {
+            "numero": "4",
+            "ilustracion": "varios libros"
+          },
+          {
+            "numero": "5",
+            "ilustracion": "una casa"
+          },
+          {
+            "numero": "6",
+            "ilustracion": "un gato"
+          },
+          {
+            "numero": "7",
+            "ilustracion": "varias vacas"
+          },
+          {
+            "numero": "8",
+            "ilustracion": "varias chicas"
+          },
+          {
+            "numero": "9",
+            "ilustracion": "una televisión"
+          },
+          {
+            "numero": "10",
+            "ilustracion": "varios árboles"
+          },
+          {
+            "numero": "11",
+            "ilustracion": "unas gafas"
+          },
+          {
+            "numero": "12",
+            "ilustracion": "un caballo"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____"
+        },
+        {
+          "texto_enunciado": "2. _____"
+        },
+        {
+          "texto_enunciado": "3. _____"
+        },
+        {
+          "texto_enunciado": "4. _____"
+        },
+        {
+          "texto_enunciado": "5. _____"
+        },
+        {
+          "texto_enunciado": "6. _____"
+        },
+        {
+          "texto_enunciado": "7. _____"
+        },
+        {
+          "texto_enunciado": "8. _____"
+        },
+        {
+          "texto_enunciado": "9. _____"
+        },
+        {
+          "texto_enunciado": "10. _____"
+        },
+        {
+          "texto_enunciado": "11. _____"
+        },
+        {
+          "texto_enunciado": "12. _____"
+        }
+      ]
+    },
+    {
+      "subejercicio": "4.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con un, una, unos, unas.",
+      "items": [
+        {
+          "texto_enunciado": "1. _____ melón, por favor."
+        },
+        {
+          "texto_enunciado": "2. El Orinoco es _____ río."
+        },
+        {
+          "texto_enunciado": "3. ¡Cuidado, _____ serpiente!"
+        },
+        {
+          "texto_enunciado": "4. ¡Mira! _____ águila."
+        },
+        {
+          "texto_enunciado": "5. Quiero _____ vaqueros, por favor."
+        },
+        {
+          "texto_enunciado": "6. —¿Qué es eso? —Es _____ radio."
+        },
+        {
+          "texto_enunciado": "7. ¿Tienes _____ mapa de Ecuador?"
+        },
+        {
+          "texto_enunciado": "8. Rosa tiene _____ hija."
+        },
+        {
+          "texto_enunciado": "9. Necesitamos _____ tijeras."
+        },
+        {
+          "texto_enunciado": "10. Tengo _____ zapatos muy cómodos."
+        }
+      ]
+    }
+  ],
+  "unidad": 4,
+  "titulo_libro": "un, una, unos, unas -- El artículo indeterminado",
+  "scan": "libro-rojo-018.png"
+}

@@ -1,0 +1,273 @@
+{
+  "tema": "unidad-11",
+  "titulo": "el rojo, uno rojo",
+  "descripcion_gramatical": "Omisión del nombre",
+  "fuente": "libro",
+  "unidad_libro": 11,
+  "ejercicios": [
+    {
+      "subejercicio": "11.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el, la, los, las o uno, una, unos, unas y los adjetivos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué zapatos prefieres, (negro, blanco) _____ o _____?",
+          "solucion_correcta": [
+            "los negros",
+            "los blancos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué tipo de cuaderno quiere? —(pequeño) _____.",
+          "solucion_correcta": [
+            "Uno pequeño"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Te gustan estos sombreros? —(negro, marrón) Me gusta _____, pero no _____.",
+          "solucion_correcta": [
+            "el negro",
+            "el marrón"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué pantalones prefieres? —(rojo) _____. (blanco) _____ son muy caros.",
+          "solucion_correcta": [
+            "Los rojos",
+            "Los blancos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Ves a esas dos chicas? (alto) _____ es Marta.",
+          "solucion_correcta": [
+            "La alta"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué tipo de libro quieres leer? —(entretenido) _____.",
+          "solucion_correcta": [
+            "Uno entretenido"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué manzanas prefiere, (verde) _____ o (rojo) _____?",
+          "solucion_correcta": [
+            "las verdes",
+            "las rojas"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta taza está sucia. Dame (limpio) _____, por favor.",
+          "solucion_correcta": [
+            "una limpia"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué clase de cámara quiere? —Quiero (bueno) _____, aunque sea cara.",
+          "solucion_correcta": [
+            "una buena"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Tienes ordenador? —Sí, tengo (portátil) _____.",
+          "solucion_correcta": [
+            "uno portátil"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "11.2",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con el, la, los o las, con de y con las palabras dadas.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Qué gafas le gustan? —_____.",
+          "solucion_correcta": [
+            "Las de la derecha"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Quién es Alberto? —_____.",
+          "solucion_correcta": [
+            "El del pelo corto"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta más _____.",
+          "solucion_correcta": [
+            "la de la izquierda"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué galletas te gustan más? —_____.",
+          "solucion_correcta": [
+            "Las de chocolate"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Quién es Rosi? —_____.",
+          "solucion_correcta": [
+            "La de la falda larga"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué zapatos le gustan más? —_____.",
+          "solucion_correcta": [
+            "Los de arriba"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero _____.",
+          "solucion_correcta": [
+            "el de Sandra Arenas"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuál es tu padre? —_____.",
+          "solucion_correcta": [
+            "El del bigote"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Dos personas observan unas gafas situadas a la derecha y a la izquierda de un escaparate.",
+            "palabras_dadas": [
+              "derecha",
+              "izquierda"
+            ]
+          },
+          {
+            "numero": "2",
+            "descripcion": "Varias personas están reunidas y una flecha señala a Alberto, que se distingue por la longitud de su pelo.",
+            "palabras_dadas": [
+              "pelo corto",
+              "pelo largo"
+            ]
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos personas observan dos esculturas situadas a la derecha y a la izquierda en una exposición de escultura.",
+            "palabras_dadas": [
+              "derecha",
+              "izquierda"
+            ]
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una persona elige entre galletas de chocolate y galletas de coco.",
+            "palabras_dadas": [
+              "chocolate",
+              "coco"
+            ]
+          },
+          {
+            "numero": "5",
+            "descripcion": "Se ven dos mujeres, una con falda corta y otra con falda larga, mientras preguntan quién es Rosi.",
+            "palabras_dadas": [
+              "falda corta",
+              "falda larga"
+            ]
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una persona elige entre zapatos colocados abajo y zapatos colocados arriba en un expositor.",
+            "palabras_dadas": [
+              "abajo",
+              "arriba"
+            ]
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mujer muestra dos libros, uno de José Crespo y otro de Sandra Arenas.",
+            "palabras_dadas": [
+              "José Crespo",
+              "Sandra Arenas"
+            ]
+          },
+          {
+            "numero": "8",
+            "descripcion": "Se ven dos hombres, uno con barba y otro con bigote, mientras una persona pregunta cuál es el padre de otra.",
+            "palabras_dadas": [
+              "barba",
+              "bigote"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "11.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el, la, los, las o lo y los adjetivos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué es (mejor) _____ de Cuba?",
+          "solucion_correcta": [
+            "lo mejor"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué naranjas prefiere, (caro, barato) _____ o _____?",
+          "solucion_correcta": [
+            "las caras",
+            "las baratas"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gusta (amargo) _____.",
+          "solucion_correcta": [
+            "lo amargo"
+          ]
+        },
+        {
+          "texto_enunciado": "(barato) _____ es siempre caro.",
+          "solucion_correcta": [
+            "Lo barato"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Veis a aquel grupo de chicas? Mis hermanas son (moreno) _____.",
+          "solucion_correcta": [
+            "las morenas"
+          ]
+        },
+        {
+          "texto_enunciado": "(importante) _____ es ser feliz.",
+          "solucion_correcta": [
+            "Lo importante"
+          ]
+        },
+        {
+          "texto_enunciado": "(malo) _____ del invierno es el frío.",
+          "solucion_correcta": [
+            "Lo malo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué pendientes te gustan más, (largo, corto) _____ o _____?",
+          "solucion_correcta": [
+            "los largos",
+            "los cortos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué coche es el tuyo? —(pequeño) _____.",
+          "solucion_correcta": [
+            "El pequeño"
+          ]
+        },
+        {
+          "texto_enunciado": "(pequeño) _____ es hermoso.",
+          "solucion_correcta": [
+            "Lo pequeño"
+          ]
+        }
+      ]
+    }
+  ]
+}

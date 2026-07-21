@@ -1,0 +1,246 @@
+{
+  "tema": "unidad-39",
+  "titulo": "ámame, dámelo",
+  "descripcion_gramatical": "Pronombres de complemento con el imperativo, el infinitivo y el gerundio",
+  "fuente": "libro",
+  "unidad_libro": 39,
+  "ejercicios": [
+    {
+      "subejercicio": "39.1",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las palabras subrayadas por pronombres y haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Ama <u>a tus padres</u>. _____.",
+          "solucion_correcta": [
+            "Ámalos"
+          ]
+        },
+        {
+          "texto_enunciado": "Comprad <u>el periódico</u>. _____.",
+          "solucion_correcta": [
+            "Compradlo"
+          ]
+        },
+        {
+          "texto_enunciado": "Dale <u>su dinero a Elvira</u>. _____.",
+          "solucion_correcta": [
+            "Dáselo"
+          ]
+        },
+        {
+          "texto_enunciado": "Hazle <u>la pregunta a Carlos</u>. _____.",
+          "solucion_correcta": [
+            "Házsela"
+          ]
+        },
+        {
+          "texto_enunciado": "Pregunta <u>a tu madre</u>. _____.",
+          "solucion_correcta": [
+            "Pregúntale"
+          ]
+        },
+        {
+          "texto_enunciado": "Venda <u>la casa</u>. _____.",
+          "solucion_correcta": [
+            "Véndala"
+          ]
+        },
+        {
+          "texto_enunciado": "Pasa <u>el agua a Ramón</u>. _____.",
+          "solucion_correcta": [
+            "Pásasela"
+          ]
+        },
+        {
+          "texto_enunciado": "Escribe <u>a Sheila</u>. _____.",
+          "solucion_correcta": [
+            "Escríbele"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los infinitivos del recuadro y los pronombres adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Has comprado el periódico? —He olvidado _____.",
+          "solucion_correcta": [
+            "comprarlo"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese libro es mío, pero Carlos no quiere _____.",
+          "solucion_correcta": [
+            "devolvérmelo"
+          ]
+        },
+        {
+          "texto_enunciado": "Sonia está enfadada con vosotros. No quiere _____.",
+          "solucion_correcta": [
+            "veros"
+          ]
+        },
+        {
+          "texto_enunciado": "Estos zapatos están muy viejos. Voy a _____.",
+          "solucion_correcta": [
+            "tirarlos"
+          ]
+        },
+        {
+          "texto_enunciado": "Ven aquí, Gabriel. Quiero _____ algo.",
+          "solucion_correcta": [
+            "preguntarte"
+          ]
+        },
+        {
+          "texto_enunciado": "Ramón quiere comprarme ese cuadro, pero yo no quiero _____.",
+          "solucion_correcta": [
+            "vendérselo"
+          ]
+        },
+        {
+          "texto_enunciado": "He tenido carta de Antón. Tengo que _____.",
+          "solucion_correcta": [
+            "escribirle"
+          ]
+        },
+        {
+          "texto_enunciado": "No sabemos hacer el ejercicio, pero Hans quiere _____.",
+          "solucion_correcta": [
+            "ayudarnos"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis tías viven en este barrio. Me gustaría _____.",
+          "solucion_correcta": [
+            "visitarlas"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "ayudar",
+        "comprar",
+        "devolver",
+        "escribir",
+        "preguntar",
+        "tirar",
+        "vender",
+        "ver",
+        "visitar"
+      ]
+    },
+    {
+      "subejercicio": "39.3",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las palabras subrayadas por pronombres y haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Está limpiando <u>las ventanas</u>. _____.",
+          "solucion_correcta": [
+            "Está limpiándolas"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy acabando <u>la novela</u>. _____.",
+          "solucion_correcta": [
+            "Estoy acabándola"
+          ]
+        },
+        {
+          "texto_enunciado": "Están preguntando <u>al Sr. Oliva</u>. _____.",
+          "solucion_correcta": [
+            "Están preguntándole"
+          ]
+        },
+        {
+          "texto_enunciado": "Estamos lavando <u>las camisas</u>. _____.",
+          "solucion_correcta": [
+            "Estamos lavándolas"
+          ]
+        },
+        {
+          "texto_enunciado": "Están haciendo <u>la pregunta a Carla</u>. _____.",
+          "solucion_correcta": [
+            "Están haciéndosela"
+          ]
+        },
+        {
+          "texto_enunciado": "Está lavando <u>el pelo a su hijo</u>. _____.",
+          "solucion_correcta": [
+            "Está lavándoselo"
+          ]
+        },
+        {
+          "texto_enunciado": "Está hablando <u>a Pepa</u>. _____.",
+          "solucion_correcta": [
+            "Está hablándole"
+          ]
+        },
+        {
+          "texto_enunciado": "Está arreglando <u>la radio</u>. _____.",
+          "solucion_correcta": [
+            "Está arreglándola"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.4",
+      "tipologia": "T9",
+      "enunciado": "Ordene las palabras y ponga las tildes necesarias.",
+      "items": [
+        {
+          "texto_enunciado": "la sal / me / pasa _____.",
+          "solucion_correcta": [
+            "Pásame la sal"
+          ]
+        },
+        {
+          "texto_enunciado": "la directora / nos / ver / quiere _____.",
+          "solucion_correcta": [
+            "La directora quiere vernos. / La directora nos quiere ver"
+          ]
+        },
+        {
+          "texto_enunciado": "no tengo pan. He olvidado / lo / comprar _____.",
+          "solucion_correcta": [
+            "He olvidado comprarlo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿me / ayudar / puedes? _____.",
+          "solucion_correcta": [
+            "¿Puedes ayudarme? / ¿Me puedes ayudar?"
+          ]
+        },
+        {
+          "texto_enunciado": "a Julio / se / pregunta / lo _____.",
+          "solucion_correcta": [
+            "Pregúntaselo a Julio"
+          ]
+        },
+        {
+          "texto_enunciado": "¿quién / lo / está haciendo? _____.",
+          "solucion_correcta": [
+            "¿Quién está haciéndolo? / ¿Quién lo está haciendo?"
+          ]
+        },
+        {
+          "texto_enunciado": "me gustaría / a Sandra / lo / se / decir _____.",
+          "solucion_correcta": [
+            "Me gustaría decírselo a Sandra"
+          ]
+        },
+        {
+          "texto_enunciado": "me / la pelota / pasa _____.",
+          "solucion_correcta": [
+            "Pásame la pelota"
+          ]
+        }
+      ]
+    }
+  ]
+}

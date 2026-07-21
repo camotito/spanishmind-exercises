@@ -1,0 +1,245 @@
+{
+  "tema": "unidad-106",
+  "titulo": "bien, fácilmente...",
+  "descripcion_gramatical": "Adverbios de modo",
+  "fuente": "libro",
+  "unidad_libro": 106,
+  "ejercicios": [
+    {
+      "subejercicio": "106.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con los adverbios del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Lorena conduce muy _____.",
+          "estimulo_visual": "dibujo de un coche que circula a gran velocidad",
+          "solucion_correcta": [
+            "deprisa"
+          ]
+        },
+        {
+          "texto_enunciado": "Diana escucha _____.",
+          "estimulo_visual": "dibujo de una mujer que escucha a un hombre que señala una pizarra",
+          "solucion_correcta": [
+            "atentamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Rubén canta muy _____.",
+          "estimulo_visual": "dibujo de un hombre que canta mientras otro se tapa los oídos",
+          "solucion_correcta": [
+            "mal"
+          ]
+        },
+        {
+          "texto_enunciado": "Elisa habla muy _____.",
+          "estimulo_visual": "dibujo de una mujer que habla con otra mujer",
+          "solucion_correcta": [
+            "alto"
+          ]
+        },
+        {
+          "texto_enunciado": "Gerardo escribe muy _____.",
+          "estimulo_visual": "dibujo de un hombre que escribe en un ordenador y parece preocupado",
+          "solucion_correcta": [
+            "despacio"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "alto",
+        "atentamente",
+        "deprisa",
+        "despacio",
+        "mal"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un coche circula a gran velocidad."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer escucha a un hombre que señala una pizarra."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un hombre canta mientras otro se tapa los oídos."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer habla con otra mujer."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un hombre escribe en un ordenador y parece preocupado."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "106.2",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las palabras subrayadas por adverbios de modo.",
+      "items": [
+        {
+          "texto_enunciado": "Hazlo <u>con tranquilidad</u>, Norma. _____.",
+          "solucion_correcta": [
+            "Hazlo tranquilamente, Norma"
+          ]
+        },
+        {
+          "texto_enunciado": "Álvaro juega <u>con inteligencia</u>. _____.",
+          "solucion_correcta": [
+            "Álvaro juega inteligentemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Agustín actúa <u>de una forma irresponsable</u>. _____.",
+          "solucion_correcta": [
+            "Agustín actúa irresponsablemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Ven <u>con rapidez</u>, Adela. _____.",
+          "solucion_correcta": [
+            "Ven rápidamente/rápido, Adela"
+          ]
+        },
+        {
+          "texto_enunciado": "Fran me llama <u>de manera continua</u>. _____.",
+          "solucion_correcta": [
+            "Fran me llama continuamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Escribe <u>de este modo</u>, Luisa. _____.",
+          "solucion_correcta": [
+            "Escribe así, Luisa"
+          ]
+        },
+        {
+          "texto_enunciado": "Susana canta <u>de forma maravillosa</u>. _____.",
+          "solucion_correcta": [
+            "Susana canta maravillosamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Tatiana conduce <u>con lentitud y con cuidado</u>. _____.",
+          "solucion_correcta": [
+            "Tatiana conduce lenta y cuidadosamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Me golpeó <u>con fuerza</u>. _____.",
+          "solucion_correcta": [
+            "Me golpeó fuerte/fuertemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Emilia nada <u>de una forma extraordinaria</u>. _____.",
+          "solucion_correcta": [
+            "Emilia nada extraordinariamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Arielina trabaja <u>con tranquilidad</u> pero <u>con seriedad</u>. _____.",
+          "solucion_correcta": [
+            "Arielina trabaja tranquila pero seriamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis hijos aprueban <u>con facilidad</u>. _____.",
+          "solucion_correcta": [
+            "Mis hijos aprueban fácilmente"
+          ]
+        },
+        {
+          "texto_enunciado": "Se ganan la vida <u>con honradez</u>. _____.",
+          "solucion_correcta": [
+            "Se ganan la vida honradamente"
+          ]
+        },
+        {
+          "texto_enunciado": "La profesora de Matemáticas explica <u>con claridad</u>. _____.",
+          "solucion_correcta": [
+            "La profesora de Matemáticas explica claro/claramente"
+          ]
+        },
+        {
+          "texto_enunciado": "Se bajó del árbol <u>con habilidad</u>. _____.",
+          "solucion_correcta": [
+            "Se bajó del árbol hábilmente"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "106.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con las palabras del recuadro. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Javier es un _____ estudiante.",
+          "solucion_correcta": [
+            "buen"
+          ]
+        },
+        {
+          "texto_enunciado": "María es una cocinera _____.",
+          "solucion_correcta": [
+            "exquisita"
+          ]
+        },
+        {
+          "texto_enunciado": "Manuel resultó herido _____ en el accidente.",
+          "solucion_correcta": [
+            "gravemente"
+          ]
+        },
+        {
+          "texto_enunciado": "A veces Alejandro se porta _____ con sus amigos.",
+          "solucion_correcta": [
+            "egoístamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Los hermanos de Adela son muy _____.",
+          "solucion_correcta": [
+            "amables"
+          ]
+        },
+        {
+          "texto_enunciado": "Esas flores huelen muy _____.",
+          "solucion_correcta": [
+            "bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Un señor me cedió el asiento _____.",
+          "solucion_correcta": [
+            "amablemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Noelia conoce Cuba _____.",
+          "solucion_correcta": [
+            "perfectamente"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "amable",
+        "amablemente",
+        "bien",
+        "buen",
+        "egoístamente",
+        "exquisita",
+        "gravemente",
+        "perfectamente"
+      ]
+    }
+  ]
+}

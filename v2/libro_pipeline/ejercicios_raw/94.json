@@ -1,0 +1,168 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "94.1",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya las palabras subrayadas por expresiones con echar(se) a o ponerse a.",
+      "items": [
+        {
+          "texto_enunciado": "En cuanto bajó del coche, <u>empezó a correr</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando les conté lo de Rafa, <u>empezaron a reírse</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi hermana <u>empezó a llorar</u> cuando se enteró de la noticia. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Todos <u>empezaron a trabajar</u> cuando volvió la luz. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Todo el mundo <u>empezó a correr</u> cuando se oyó la explosión. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No empieces a leer</u> el periódico ahora. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "94.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con dejar de / no dejar de en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Marisa ya no come carne de vaca. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No olvides escribirnos cuando estés en Perú. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Marta ya no sale con Emilio. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando llegamos a la playa, ya no llovía. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No olviden llamarme cuando vengan a Sevilla. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya no hace viento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rocío ya no me quiere. _____",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Reescritura completa de oraciones utilizando dejar de o no dejar de conjugado en el tiempo adecuado. Cada oración de partida va seguida de una línea para escribir la nueva oración."
+    },
+    {
+      "subejercicio": "94.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con acabar de en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "He visto a Ángel hace un momento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Habíamos comido hacía un momento cuando llegaron Susi y Toni. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He regresado de vacaciones hace un momento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se habían ido hacía un momento cuando llamaste. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El accidente ha ocurrido hace un momento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando llegamos al hospital, hacía un momento que había nacido Irene. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se ha estropeado el ordenador hace un momento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El espectáculo ha empezado hace un momento. _____",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Reescritura completa de oraciones utilizando acabar de conjugado en el tiempo adecuado. Cada oración de partida va seguida de una línea para escribir la nueva oración."
+    },
+    {
+      "subejercicio": "94.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Utilice la forma adecuada de ir a + los infinitivos del recuadro.",
+      "banco_palabras": [
+        "abrir",
+        "alquilar",
+        "apagar",
+        "caerse",
+        "comer",
+        "esquiar",
+        "llegar",
+        "salir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____ la tele. Es un rollo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Encarna y Guille _____ un chalé este verano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ algo. Tengo hambre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ cuando se presentaron unos amigos y tuvimos que quedarnos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Cuidado! _____ el niño.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ la puerta cuando oí el teléfono.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes. _____ todos cuando haya nieve.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Date prisa. _____ los invitados.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar oraciones con la forma adecuada de ir a y uno de los infinitivos proporcionados en un recuadro. Cada infinitivo se utiliza para formar una perífrasis verbal adecuada al contexto."
+    }
+  ],
+  "unidad": 94,
+  "titulo_libro": "Me puse a trabajar. Voy a trabajar -- Expresiones con infinitivo (1)",
+  "scan": "libro-rojo-198.png"
+}

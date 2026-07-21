@@ -1,0 +1,187 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "46.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué hay en la habitación? Observe la ilustración y escriba frases con hay en forma afirmativa o negativa.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Habitación con una mesa redonda.",
+          "Alrededor de la mesa hay varias sillas.",
+          "Sobre la mesa hay una lámpara.",
+          "En la pared hay dos cuadros y un reloj.",
+          "En el suelo hay una alfombra.",
+          "En primer plano hay un sillón."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. (mesa) _____."
+        },
+        {
+          "texto_enunciado": "2. (espejo) _____."
+        },
+        {
+          "texto_enunciado": "3. (alfombra) _____."
+        },
+        {
+          "texto_enunciado": "4. (sillas) _____."
+        },
+        {
+          "texto_enunciado": "5. (lámpara) _____."
+        },
+        {
+          "texto_enunciado": "6. (televisor) _____."
+        },
+        {
+          "texto_enunciado": "7. (reloj) _____."
+        },
+        {
+          "texto_enunciado": "8. (cuadros) _____."
+        },
+        {
+          "texto_enunciado": "9. (cojín) _____."
+        },
+        {
+          "texto_enunciado": "10. (sillón) _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "46.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Lea la información sobre Ciudad Nueva y escriba frases con hay en forma afirmativa o negativa.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Ciudad Nueva: colegios, 5.",
+          "Ciudad Nueva: cines, 1.",
+          "Ciudad Nueva: hospitales, no.",
+          "Ciudad Nueva: polideportivos, 1.",
+          "Ciudad Nueva: parques, 2.",
+          "Ciudad Nueva: estaciones de ferrocarril, no.",
+          "Ciudad Nueva: estaciones de autobús, 1.",
+          "Ciudad Nueva: hoteles, no.",
+          "Ciudad Nueva: iglesias, 2.",
+          "Ciudad Nueva: bibliotecas, 1."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____."
+        },
+        {
+          "texto_enunciado": "2. _____."
+        },
+        {
+          "texto_enunciado": "3. _____."
+        },
+        {
+          "texto_enunciado": "4. _____."
+        },
+        {
+          "texto_enunciado": "5. _____."
+        },
+        {
+          "texto_enunciado": "6. _____."
+        },
+        {
+          "texto_enunciado": "7. _____."
+        },
+        {
+          "texto_enunciado": "8. _____."
+        },
+        {
+          "texto_enunciado": "9. _____."
+        },
+        {
+          "texto_enunciado": "10. _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "46.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué hay en la nevera? Observe la ilustración y escriba frases con hay en forma afirmativa o negativa.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Nevera abierta con alimentos distribuidos en los estantes y en la puerta.",
+          "En los estantes se ven mantequilla, queso, uvas y naranjas.",
+          "En la puerta se ven seis huevos y un envase de bebida."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. (leche) _____."
+        },
+        {
+          "texto_enunciado": "2. (agua) _____."
+        },
+        {
+          "texto_enunciado": "3. (mantequilla) _____."
+        },
+        {
+          "texto_enunciado": "4. (queso) _____."
+        },
+        {
+          "texto_enunciado": "5. (seis huevos) _____."
+        },
+        {
+          "texto_enunciado": "6. (uvas) _____."
+        },
+        {
+          "texto_enunciado": "7. (naranjas) _____."
+        },
+        {
+          "texto_enunciado": "8. (plátanos) _____."
+        },
+        {
+          "texto_enunciado": "9. (zumo de naranja) _____."
+        },
+        {
+          "texto_enunciado": "10. (yogures) _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "46.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con hay en forma afirmativa o negativa y las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿Dónde (buzón) _____? –(uno) _____ en la esquina."
+        },
+        {
+          "texto_enunciado": "2. En mi barrio (no, metro) _____."
+        },
+        {
+          "texto_enunciado": "3. –¿Dónde (estanco) _____? –(uno) _____ a cien metros."
+        },
+        {
+          "texto_enunciado": "4. –¿(muchas tiendas) _____ en tu barrio? –No, (no, muchas) _____."
+        },
+        {
+          "texto_enunciado": "5. –¿Cuántos (huevos) _____ en la nevera? –_____ ninguno."
+        },
+        {
+          "texto_enunciado": "6. –¿Cuánta (leche) _____? –(un litro) _____."
+        },
+        {
+          "texto_enunciado": "7. –¿(cafetería) _____ por aquí? –Sí, (una) _____ en la Plaza Mayor."
+        },
+        {
+          "texto_enunciado": "8. –¿Cuántos (yogures) _____ en la nevera? –(tres) _____."
+        }
+      ]
+    }
+  ],
+  "unidad": 46,
+  "titulo_libro": "Hay un vaso en la mesa -- Presente de indicativo de haber impersonal",
+  "scan": "libro-rojo-102.png"
+}

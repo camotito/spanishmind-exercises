@@ -1,0 +1,167 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "108.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Haga negativas con no las frases siguientes.",
+      "items": [
+        {
+          "texto_enunciado": "Adela quiere ayudarnos. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Sara le gustaría vivir en Santiago. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me ha llamado Andrea. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me he duchado después del partido. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos gusta la música rock. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Preferiría trabajar. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hemos leído Martín Fierro. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Roberto se acuesta tarde. _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Transformación oracional: se presenta una frase afirmativa y el alumno debe reescribirla completa en forma negativa usando no."
+    },
+    {
+      "subejercicio": "108.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas con las palabras entre paréntesis. Use no solo en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Conoces a alguien en la fiesta. —No, (conozco, a nadie) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Tienen coche tus amigos? —No, (tiene, ninguno de mis amigos) _____ coche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Quién había en casa de Lucía? —(había, nadie) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Qué te han dicho del examen? —(me han dicho, nada) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Dónde está Alberto? —(sabe, nadie) _____ dónde está.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Qué le pasa a Carmina? —(está a gusto, en ningún sitio) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Qué quieres? —(quiero, nada) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Cuál te gusta? —(me gusta, ninguno) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Os ha visto alguien? —No, (nos ha visto, nadie) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿No quiere ayudarte Eva? —No, (quiere hacerlo, de ninguna manera) _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar respuestas reorganizando y conjugando las palabras proporcionadas entre paréntesis, añadiendo no únicamente cuando sea necesario."
+    },
+    {
+      "subejercicio": "108.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las frases colocando nunca o jamás en el lugar indicado. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Voy ↑ al fútbol. (nunca) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "↑ Salimos los lunes. (jamás) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He visto ↑ un jaguar. (jamás) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "↑ Desayuno antes de ducharme. (nunca) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He estado ↑ en Potosí. (nunca) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sofía nos espera ↑. (jamás) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "De pequeño, ↑ comía pimientos. (jamás) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "↑ Te olvidaré. (jamás) _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Reescritura oracional guiada: una flecha señala el lugar donde debe colocarse nunca o jamás, indicado entre paréntesis, y el alumno debe hacer los cambios gramaticales necesarios."
+    },
+    {
+      "subejercicio": "108.4",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos frases con tampoco.",
+      "items": [
+        {
+          "texto_enunciado": "Fermín no nos llama. Fermín no nos escribe. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Teresa no ha venido. Teresa no ha llamado. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Olga no trabaja. Olga no estudia. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Armando no le gusta viajar en avión. A Armando no le gusta conducir. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Beatriz no fue a trabajar ayer. Beatriz no ha ido a trabajar hoy. _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Combinación de oraciones: se presentan dos frases negativas y el alumno debe unirlas en una sola oración usando tampoco."
+    }
+  ],
+  "unidad": 108,
+  "titulo_libro": "no, nunca, jamás... -- Adverbios de negación",
+  "scan": "libro-rojo-226.png"
+}

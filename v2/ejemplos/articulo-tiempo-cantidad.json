@@ -1,0 +1,307 @@
+{
+  "tema": "articulo-tiempo-cantidad",
+  "titulo": "el seis de enero",
+  "descripcion_gramatical": "El artículo determinado con expresiones de tiempo y de cantidad",
+  "fuente": "libro",
+  "unidad_libro": 9,
+  "ejercicios": [
+    {
+      "subejercicio": "9.1",
+      "tipologia": "T6",
+      "enunciado": "Escriba las horas utilizando las palabras del recuadro y la o las.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las tres y veinte"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "la una y veinticinco"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las cuatro menos diez"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las dos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las ocho y media"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las doce y cinco"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "la una menos cuarto"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las once y cuarto"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "cuatro menos diez",
+        "doce y cinco",
+        "dos",
+        "ocho y media",
+        "once y cuarto",
+        "tres y veinte",
+        "una menos cuarto",
+        "una y veinticinco"
+      ],
+      "contexto_grafico": {
+        "tipo": "clocks",
+        "datos": [
+          {
+            "numero": "1",
+            "manecilla_corta": "3",
+            "manecilla_larga": "4"
+          },
+          {
+            "numero": "2",
+            "manecilla_corta": "1",
+            "manecilla_larga": "5"
+          },
+          {
+            "numero": "3",
+            "manecilla_corta": "4",
+            "manecilla_larga": "10"
+          },
+          {
+            "numero": "4",
+            "manecilla_corta": "2",
+            "manecilla_larga": "12"
+          },
+          {
+            "numero": "5",
+            "manecilla_corta": "8",
+            "manecilla_larga": "6"
+          },
+          {
+            "numero": "6",
+            "manecilla_corta": "12",
+            "manecilla_larga": "1"
+          },
+          {
+            "numero": "7",
+            "manecilla_corta": "1",
+            "manecilla_larga": "9"
+          },
+          {
+            "numero": "8",
+            "manecilla_corta": "11",
+            "manecilla_larga": "3"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "9.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con el, la, los, las cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Mi cumpleaños es _____ doce de febrero.",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ martes tenemos clase de español.",
+          "solucion_correcta": [
+            "El/Los"
+          ]
+        },
+        {
+          "texto_enunciado": "Normalmente estudiamos por _____ noche.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Felipe se casa _____ martes, _____ trece de julio.",
+          "solucion_correcta": [
+            "el",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "La fiesta es _____ domingo a _____ siete.",
+          "solucion_correcta": [
+            "el",
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy es _____ jueves, _____ cuatro de _____ octubre.",
+          "solucion_correcta": [
+            "ø",
+            "ø",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "El partido es a _____ diez.",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "Trabajo por _____ tarde y estudio por _____ mañana.",
+          "solucion_correcta": [
+            "la",
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Nací _____ dos de _____ diciembre.",
+          "solucion_correcta": [
+            "el",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Diana sale siempre _____ sábados.",
+          "solucion_correcta": [
+            "los"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo vacaciones en _____ agosto.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenemos un examen _____ lunes.",
+          "solucion_correcta": [
+            "el"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "9.3",
+      "tipologia": "T6",
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "(8 horas, día) Duermo _____.",
+          "solucion_correcta": [
+            "ocho horas al día"
+          ]
+        },
+        {
+          "texto_enunciado": "(2 días, semana) Voy al gimnasio _____.",
+          "solucion_correcta": [
+            "dos días a la semana"
+          ]
+        },
+        {
+          "texto_enunciado": "(1 vez, año) Vamos de vacaciones _____.",
+          "solucion_correcta": [
+            "una vez al año"
+          ]
+        },
+        {
+          "texto_enunciado": "(2 veces, mes) Voy al cine _____.",
+          "solucion_correcta": [
+            "dos veces al mes"
+          ]
+        },
+        {
+          "texto_enunciado": "(1 noche, semana) Salimos _____.",
+          "solucion_correcta": [
+            "una noche a la semana"
+          ]
+        },
+        {
+          "texto_enunciado": "(1 hora, día) Corro _____.",
+          "solucion_correcta": [
+            "una hora al día"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "9.4",
+      "tipologia": "T6",
+      "enunciado": "Escriba los precios como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "_____ de kiwis.",
+          "solucion_correcta": [
+            "Dos euros el kilo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ de leche.",
+          "solucion_correcta": [
+            "Cuatro pesos el litro"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ de huevos.",
+          "solucion_correcta": [
+            "Dos euros la docena"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ de queso.",
+          "solucion_correcta": [
+            "Un peso los 100 gramos"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "producto": "kiwis",
+            "precio": "2 euros",
+            "unidad": "kilo"
+          },
+          {
+            "numero": "2",
+            "producto": "leche",
+            "precio": "4 pesos",
+            "unidad": "litro"
+          },
+          {
+            "numero": "3",
+            "producto": "huevos",
+            "precio": "2 euros",
+            "unidad": "docena"
+          },
+          {
+            "numero": "4",
+            "producto": "queso",
+            "precio": "1 peso",
+            "unidad": "100 gramos"
+          }
+        ]
+      }
+    }
+  ]
+}

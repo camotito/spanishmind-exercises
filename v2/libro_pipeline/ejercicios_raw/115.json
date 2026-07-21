@@ -1,0 +1,153 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "115.1",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos columnas con las preposiciones adecuadas.",
+      "banco_palabras": [
+        "a",
+        "con",
+        "de",
+        "en"
+      ],
+      "items": [],
+      "tipologia_libre_original": "Ejercicio de emparejamiento: hay que unir ocho comienzos de frase de la columna izquierda con ocho finales de la columna derecha, intercalando una de las preposiciones del recuadro central. Columna izquierda: «Valentín se dedica», «Sara no cree», «Siempre hemos soñado», «Arturo se parece», «Alba se ha enamorado», «¿Puedes ayudarme», «Con Pablo te mueres», «Esta televisión tarda mucho». Columna derecha: «risa.», «su madre.», «encenderse.», «la existencia de extraterrestres.», «llevar estas cajas?», «su profesor.», «exportar fruta.», «visitar la isla de Pascua.»."
+    },
+    {
+      "subejercicio": "115.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con a, de, en o con.",
+      "items": [
+        {
+          "texto_enunciado": "¿Confías _____ nosotros?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lina se ha divorciado _____ su marido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te atreves _____ tirarte desde aquí?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esther se ha enfadado _____ Amelia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Cuándo van a comenzar _____ pintar la casa?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo que aprender _____ conducir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Crees _____ las supersticiones?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me alegro mucho _____ verte.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Bruno y Adela no se deciden _____ casarse.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "115.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con a, de, en, con y las expresiones del recuadro.",
+      "banco_palabras": [
+        "acompañarme a casa",
+        "cenar",
+        "ganar para vivir",
+        "hacer yoga",
+        "la ayuda de mis amigos",
+        "la vida",
+        "levantarme temprano",
+        "perfume",
+        "su pasado"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Esta noche vienen unos amigos _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aquí huele _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo me conformo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te molestes _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya me he acostumbrado _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que disfrutar _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Carlos cuenta siempre _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién te enseña _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucio se arrepiente _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Ejercicio lineal de completar frases combinando una de las preposiciones a, de, en o con con una expresión elegida del recuadro. Cada frase contiene un único espacio en el que debe escribirse la combinación completa."
+    },
+    {
+      "subejercicio": "115.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya las palabras entre paréntesis por la forma adecuada del pronombre. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer me acordé de (tú) _____ en el concierto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Confío en (mi hermano) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No se quiere casar con (yo) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me gusta que se rían de (mis amigos y yo) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mis padres no desconfían de (yo) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué se ha enfadado Tere con (tú) _____?",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 115,
+  "titulo_libro": "Pienso en ti -- Verbos con preposiciones",
+  "scan": "libro-rojo-240.png"
+}

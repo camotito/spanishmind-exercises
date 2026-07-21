@@ -1,0 +1,206 @@
+{
+  "tema": "unidad-59",
+  "titulo": "durmió, leyó, hizo...",
+  "descripcion_gramatical": "Pretérito indefinido: verbos irregulares",
+  "fuente": "libro",
+  "unidad_libro": 59,
+  "ejercicios": [
+    {
+      "subejercicio": "59.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el pretérito indefinido de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Alba (venir) _____ a España en 2001.",
+          "solucion_correcta": [
+            "vino"
+          ]
+        },
+        {
+          "texto_enunciado": "Unos amigos míos (tener) _____ un accidente el fin de semana pasado.",
+          "solucion_correcta": [
+            "tuvieron"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Por qué (no venir) _____ Lucía y Paloma a la fiesta? —Porque (no querer) _____.",
+          "solucion_correcta": [
+            "no vinieron",
+            "no quisieron"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuántos hijos (tener) _____ la abuela de Tere?",
+          "solucion_correcta": [
+            "tuvo"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta casa la (construir) _____ el padre de Óscar hace cincuenta años.",
+          "solucion_correcta": [
+            "construyó"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué (ustedes, hacer) _____ el domingo? —Nada especial. (Estar) _____ en casa viendo la tele. Enrique (no querer) _____ salir.",
+          "solucion_correcta": [
+            "hicieron",
+            "Estuvimos",
+            "no quiso"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche (nosotros, tener) _____ que dormir en casa de Alfredo. No (poder) _____ entrar en la nuestra.",
+          "solucion_correcta": [
+            "tuvimos",
+            "pudimos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo (morir) _____ los abuelos de Miriam?",
+          "solucion_correcta": [
+            "murieron"
+          ]
+        },
+        {
+          "texto_enunciado": "Laura (caerse) _____ la semana pasada y (romperse) _____ un brazo.",
+          "solucion_correcta": [
+            "se cayó",
+            "se rompió"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuándo (saber) _____ usted que estaba enferma? —Cuando me lo (decir) _____ el médico.",
+          "solucion_correcta": [
+            "Supo",
+            "dijo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué (pasar) _____ anoche? —(Haber) _____ un incendio en el bloque de Ángel.",
+          "solucion_correcta": [
+            "pasó",
+            "Hubo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo (usted, conducir) _____ un coche por primera vez?",
+          "solucion_correcta": [
+            "condujo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "59.2",
+      "tipologia": "T8",
+      "enunciado": "Utilice los siguientes verbos para completar estas frases sobre la historia de América Latina.",
+      "items": [
+        {
+          "texto_enunciado": "Cuba _____ en 1898.",
+          "solucion_correcta": [
+            "se independizó"
+          ]
+        },
+        {
+          "texto_enunciado": "Bolívar _____ en 1830.",
+          "solucion_correcta": [
+            "murió"
+          ]
+        },
+        {
+          "texto_enunciado": "Los primeros esclavos africanos _____ a América en el siglo XVI.",
+          "solucion_correcta": [
+            "llegaron"
+          ]
+        },
+        {
+          "texto_enunciado": "Los incas _____ Machu Picchu en el siglo XIII.",
+          "solucion_correcta": [
+            "construyeron"
+          ]
+        },
+        {
+          "texto_enunciado": "Los españoles _____ el tomate y la patata de América.",
+          "solucion_correcta": [
+            "trajeron"
+          ]
+        },
+        {
+          "texto_enunciado": "Hernán Cortés _____ gobernador de Nueva España o México.",
+          "solucion_correcta": [
+            "fue"
+          ]
+        },
+        {
+          "texto_enunciado": "La decadencia de la cultura maya _____ a mediados del siglo XV.",
+          "solucion_correcta": [
+            "se produjo"
+          ]
+        },
+        {
+          "texto_enunciado": "Túpac Amaru I _____ el último emperador inca.",
+          "solucion_correcta": [
+            "fue"
+          ]
+        },
+        {
+          "texto_enunciado": "Los mayas _____ grandes constructores.",
+          "solucion_correcta": [
+            "fueron"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "construir",
+        "independizarse",
+        "llegar",
+        "morir",
+        "producirse",
+        "ser",
+        "ser",
+        "ser",
+        "traer"
+      ]
+    },
+    {
+      "subejercicio": "59.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las conversaciones con los verbos correspondientes.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Qué _____ el verano pasado? —_____ a Chile. —¿Con quién _____? —Con un grupo de amigos. _____ un coche y _____ el sur hasta Tierra del Fuego. —¿Os _____? —Sí, _____ un viaje interesantísimo.",
+          "solucion_correcta": [
+            "hiciste",
+            "Fui",
+            "fuiste",
+            "Alquilamos",
+            "recorrimos",
+            "gustó",
+            "fue"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué tal el fin de semana? —_____ a un club de salsa con Armando. _____ como locos toda la noche. Armando _____ muchísimo.",
+          "solucion_correcta": [
+            "Fui",
+            "Bailamos",
+            "se divirtió"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "alquilar",
+        "gustar",
+        "hacer",
+        "ir",
+        "ir",
+        "recorrer",
+        "ser",
+        "bailar",
+        "divertirse",
+        "ir"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "tema": "unidad-40",
+  "titulo": "me ducho, nos queremos",
+  "descripcion_gramatical": "Pronombres reflexivos y con valor recíproco",
+  "fuente": "libro",
+  "unidad_libro": 40,
+  "ejercicios": [
+    {
+      "subejercicio": "40.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con *me*, *te*, *se*... solo cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Rosa _____ cortó con un cuchillo ayer.",
+          "solucion_correcta": [
+            "se"
+          ]
+        },
+        {
+          "texto_enunciado": "Sandra _____ mira mucho al espejo.",
+          "solucion_correcta": [
+            "Se"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan _____ cortó el pan con su navaja.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "No _____ mires tanto al espejo, Saúl.",
+          "solucion_correcta": [
+            "te"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo _____ duchan los niños?",
+          "solucion_correcta": [
+            "Se"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi hermana y yo _____ quemamos cocinando.",
+          "solucion_correcta": [
+            "nos"
+          ]
+        },
+        {
+          "texto_enunciado": "Roberto _____ ha quemado las cartas de Aurora.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Julio y Pedro _____ saludaron en la fiesta.",
+          "solucion_correcta": [
+            "se"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién _____ ha tirado mis gafas a la basura?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué _____ pone usted el sombrero?",
+          "solucion_correcta": [
+            "se"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira. (Yo) _____ veo en el agua.",
+          "solucion_correcta": [
+            "Me"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué _____ ves en el agua?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo _____ lavas el pelo, Sonia?",
+          "solucion_correcta": [
+            "te"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Vosotros _____ afeitáis todos los días?",
+          "solucion_correcta": [
+            "os"
+          ]
+        },
+        {
+          "texto_enunciado": "Alicia _____ rompió una pierna esquiando.",
+          "solucion_correcta": [
+            "se"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "40.2",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases con *nos*, *os* o *se*. Atención con el verbo.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Felipe saludó a David y David saludó a Felipe.</u> _____.",
+          "solucion_correcta": [
+            "Felipe y David se saludaron"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Roque no habla a Julio y Julio no habla a Roque.</u> _____.",
+          "solucion_correcta": [
+            "Roque y Julio no se hablan"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Roque te quiere a ti y tú quieres a Roque.</u> _____.",
+          "solucion_correcta": [
+            "Roque y tú os queréis"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Sofía escribe a Lina y Lina escribe a Sofía.</u> _____.",
+          "solucion_correcta": [
+            "Sofía y Lina se escriben"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Andrés me conoce muy bien a mí y yo conozco muy bien a Andrés.</u> _____.",
+          "solucion_correcta": [
+            "Andrés y yo nos conocemos muy bien"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Rodrigo ayuda a su hermana y su hermana ayuda a Rodrigo.</u> _____.",
+          "solucion_correcta": [
+            "Rodrigo y su hermana se ayudan"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>En Navidad, mi mujer me hace un regalo y yo le hago un regalo a ella.</u> _____.",
+          "solucion_correcta": [
+            "En Navidad, mi mujer y yo nos hacemos un regalo"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Tus amigos te ven a ti y tú los ves a ellos los domingos.</u> _____.",
+          "solucion_correcta": [
+            "Tus amigos y tú os veis los domingos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "40.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las siguientes frases con *me*, *te*, *se*... cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "(Yo) _____ conozco muy bien.",
+          "solucion_correcta": [
+            "Me"
+          ]
+        },
+        {
+          "texto_enunciado": "Teresa y Antonio _____ conocen muy bien.",
+          "solucion_correcta": [
+            "se"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ conozco muy bien a mis hijos.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué no _____ quieren Isabel y Leo?",
+          "solucion_correcta": [
+            "Se"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué no _____ quieres a tu hermano?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué _____ peleáis tú y Juan?",
+          "solucion_correcta": [
+            "os"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ veis mucho Alfonso y tú?",
+          "solucion_correcta": [
+            "Os"
+          ]
+        },
+        {
+          "texto_enunciado": "Raúl y Teresa no _____ hablan.",
+          "solucion_correcta": [
+            "se"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ ve usted en el espejo?",
+          "solucion_correcta": [
+            "Se"
+          ]
+        },
+        {
+          "texto_enunciado": "María y Alfredo _____ ven todos los días.",
+          "solucion_correcta": [
+            "se"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué no _____ vistes, Rosa? Es tarde.",
+          "solucion_correcta": [
+            "te"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ has vestido ya a los niños, Jaime?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        }
+      ]
+    }
+  ]
+}

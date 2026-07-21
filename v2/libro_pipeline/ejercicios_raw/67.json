@@ -1,0 +1,119 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "67.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el futuro simple de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Hoy no puedo ir. (Ir) _____ mañana."
+        },
+        {
+          "texto_enunciado": "–Nos vamos hoy a Panamá. –¿Y cuándo (volver) _____?"
+        },
+        {
+          "texto_enunciado": "Hoy no te puedo llamar. Te (llamar) _____ el lunes."
+        },
+        {
+          "texto_enunciado": "–¿Habéis acabado la traducción? –No, la (acabar) _____ la semana que viene."
+        },
+        {
+          "texto_enunciado": "–¿Han arreglado ya el ordenador? –No, lo (arreglar) _____ en cuanto puedan."
+        },
+        {
+          "texto_enunciado": "–¿Has ido al dentista? –Todavía no. (Ir) _____ cuando tenga tiempo."
+        },
+        {
+          "texto_enunciado": "–¿Puedes prestarme tu bicicleta? –Sí, claro, pero ¿cuándo me la (devolver) _____?"
+        },
+        {
+          "texto_enunciado": "Estas plantas están secas. Riégalas o (morirse) _____."
+        },
+        {
+          "texto_enunciado": "–¿Crees que (yo, aprobar) _____? –(Aprobar) _____ si estudias mucho."
+        },
+        {
+          "texto_enunciado": "Ahora no tenemos hambre. (Comer) _____ más tarde."
+        },
+        {
+          "texto_enunciado": "–Quiero una bici. –Te (yo, regalar) _____ una para Reyes."
+        },
+        {
+          "texto_enunciado": "–Me gustaría ir a Cuba. –(Ir) _____ en cuanto podamos."
+        }
+      ]
+    },
+    {
+      "subejercicio": "67.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete la predicción del tiempo para el próximo fin de semana.",
+      "items": [
+        {
+          "texto_enunciado": "El fin de semana (ser) _____ bastante frío. El sábado (bajar) _____ las temperaturas en todo el país y (nevar) _____ en zonas altas del norte. El domingo (subir) _____ un poco las temperaturas aunque (seguir) _____ haciendo frío. (Llover) _____ en el oeste y suroeste. En el centro (soplar) _____ fuertes vientos del norte."
+        }
+      ]
+    },
+    {
+      "subejercicio": "67.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las predicciones del horóscopo.",
+      "banco_palabras": [
+        "ayudar",
+        "conocer",
+        "desaparecer",
+        "gastar",
+        "mejorar",
+        "pasar",
+        "recibir",
+        "recibir",
+        "sentirse",
+        "ser",
+        "ser",
+        "verse",
+        "viajar"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "signo": "Aries",
+            "imagen": "glifo zodiacal de Aries"
+          },
+          {
+            "signo": "Tauro",
+            "imagen": "glifo zodiacal de Tauro"
+          },
+          {
+            "signo": "Cáncer",
+            "imagen": "glifo zodiacal de Cáncer"
+          },
+          {
+            "signo": "Escorpio",
+            "imagen": "glifo zodiacal de Escorpio"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Aries: _____ muchas invitaciones. _____ una semana muy divertida, aunque _____ un poco cansado y _____ más dinero de lo normal."
+        },
+        {
+          "texto_enunciado": "Tauro: _____ envuelto en problemas, aunque sus amigos le _____. Su salud _____ excelente."
+        },
+        {
+          "texto_enunciado": "Cáncer: _____ a algún país lejano y _____ a alguien importante. _____ su situación económica."
+        },
+        {
+          "texto_enunciado": "Escorpio: _____ todos sus problemas. _____ unos días muy felices con familia y amigos y _____ una sorpresa agradable."
+        }
+      ],
+      "tipologia_libre_original": "Completar predicciones del horóscopo seleccionando verbos de un banco de palabras y conjugándolos en futuro simple; cada predicción está acompañada por el glifo del signo zodiacal correspondiente."
+    }
+  ],
+  "unidad": 67,
+  "titulo_libro": "trabajaré, comeré, viviré -- Futuro simple: verbos regulares",
+  "scan": "libro-rojo-144.png"
+}

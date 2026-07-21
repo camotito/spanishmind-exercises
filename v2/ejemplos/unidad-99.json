@@ -1,0 +1,197 @@
+{
+  "tema": "unidad-99",
+  "titulo": "trabajado, comido, vivido",
+  "descripcion_gramatical": "Participio",
+  "fuente": "libro",
+  "unidad_libro": 99,
+  "ejercicios": [
+    {
+      "subejercicio": "99.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con la forma correcta de los participios de los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué te ha _____ Diana de mí?",
+          "solucion_correcta": [
+            "dicho"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Está Juana _____?",
+          "solucion_correcta": [
+            "casada"
+          ]
+        },
+        {
+          "texto_enunciado": "Se ha _____ la gasolina.",
+          "solucion_correcta": [
+            "acabado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde has _____ la nueva lámpara?",
+          "solucion_correcta": [
+            "puesto"
+          ]
+        },
+        {
+          "texto_enunciado": "A mí me encanta el cordero _____.",
+          "solucion_correcta": [
+            "asado"
+          ]
+        },
+        {
+          "texto_enunciado": "Vargas Llosa ha _____ muchas novelas.",
+          "solucion_correcta": [
+            "escrito"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira. La peluquería ya está _____. Podemos entrar.",
+          "solucion_correcta": [
+            "abierta"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que cortar las ramas _____.",
+          "solucion_correcta": [
+            "muertas"
+          ]
+        },
+        {
+          "texto_enunciado": "Paco siempre ha _____ mucha suerte.",
+          "solucion_correcta": [
+            "tenido"
+          ]
+        },
+        {
+          "texto_enunciado": "Los barrenderos han recogido las hojas _____.",
+          "solucion_correcta": [
+            "caídas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Has _____ ya a la nueva directora?",
+          "solucion_correcta": [
+            "conocido"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis amigos todavía no han _____ de las vacaciones.",
+          "solucion_correcta": [
+            "vuelto"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "abrir",
+        "acabar",
+        "asar",
+        "caer",
+        "casar",
+        "conocer",
+        "decir",
+        "escribir",
+        "morir",
+        "poner",
+        "tener",
+        "volver"
+      ]
+    },
+    {
+      "subejercicio": "99.2",
+      "tipologia": "T8",
+      "enunciado": "Complete el texto con los participios de los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Madrid, 12 de agosto\n\n¡Hola Maribel!\nEstoy en Madrid. He _____ con mi familia a pasar unos días. Es una ciudad tranquila en agosto. Estamos _____ en el hotel Asturias, junto a la Puerta del Sol. Hoy nos hemos _____ pronto, hemos _____ en el mismo hotel y hemos _____ al Museo del Prado. Hemos _____ las salas _____ a Goya. Hemos _____ tiempo para visitar el Museo Thyssen, que también nos ha _____ mucho. Ahora mismo te estoy escribiendo desde un restaurante. Mi hermano y yo hemos _____ pollo _____ para cenar. Hace mucho calor. Te he _____ un regalo que espero que te guste. Besos y hasta pronto.",
+          "solucion_correcta": [
+            "venido",
+            "alojados",
+            "nos",
+            "levantado",
+            "desayunado",
+            "ido",
+            "visto",
+            "dedicadas",
+            "tenido",
+            "gustado",
+            "pedido",
+            "asado",
+            "comprado"
+          ],
+          "revisar": true
+        }
+      ],
+      "banco_palabras": [
+        "alojar",
+        "asar",
+        "comprar",
+        "dedicar",
+        "desayunar",
+        "gustar",
+        "ir",
+        "levantarse",
+        "pedir",
+        "tener",
+        "venir",
+        "ver"
+      ]
+    },
+    {
+      "subejercicio": "99.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases con expresiones con estar, seguir o llevar en el tiempo adecuado y el participio de los verbos correspondientes.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Se ha estropeado el ordenador.</u> _____.",
+          "solucion_correcta": [
+            "El ordenador está estropeado"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>La biblioteca cerró hace tiempo y aún estaba cerrada cuando fui ayer.</u> _____.",
+          "solucion_correcta": [
+            "La biblioteca sigue cerrada"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Esta academia abrió en 2002 y aún está abierta.</u> _____.",
+          "solucion_correcta": [
+            "Esta academia lleva abierta desde el 2002"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>El tren paró hace un rato y aún está parado.</u> _____.",
+          "solucion_correcta": [
+            "El tren sigue parado"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Se había roto el móvil.</u> _____.",
+          "solucion_correcta": [
+            "El móvil estaba roto"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>La impresora se había averiado hacía una semana.</u> _____.",
+          "solucion_correcta": [
+            "La impresora llevaba una semana averiada"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Esta comida se hizo hace dos días.</u> _____.",
+          "solucion_correcta": [
+            "Esta comida lleva dos días hecha"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Hace poco detuvieron al sospechoso y aún está detenido.</u> _____.",
+          "solucion_correcta": [
+            "El sospechoso sigue detenido"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "tema": "unidad-53",
+  "titulo": "me levanto",
+  "descripcion_gramatical": "Verbos con me, te, se...",
+  "fuente": "libro",
+  "unidad_libro": 53,
+  "ejercicios": [
+    {
+      "subejercicio": "53.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Arturo _____ a las ocho.",
+          "solucion_correcta": [
+            "se despierta"
+          ]
+        },
+        {
+          "texto_enunciado": "Merche y Ernesto _____ a las ocho y media.",
+          "solucion_correcta": [
+            "se levantan"
+          ]
+        },
+        {
+          "texto_enunciado": "Jaime _____ todas las mañanas.",
+          "solucion_correcta": [
+            "se ducha"
+          ]
+        },
+        {
+          "texto_enunciado": "Jaime _____ después de ducharse.",
+          "solucion_correcta": [
+            "se viste"
+          ]
+        },
+        {
+          "texto_enunciado": "Merche y Ernesto _____ a las once y media.",
+          "solucion_correcta": [
+            "se acuestan"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acostarse",
+        "despertarse",
+        "ducharse",
+        "levantarse",
+        "vestirse"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "personajes": "Arturo",
+            "accion": "Se despierta y bosteza en la cama.",
+            "hora": "08:00"
+          },
+          {
+            "numero": "2",
+            "personajes": "Merche y Ernesto",
+            "accion": "Se levantan de la cama.",
+            "hora": "08:30"
+          },
+          {
+            "numero": "3",
+            "personajes": "Jaime",
+            "accion": "Se ducha.",
+            "hora": null
+          },
+          {
+            "numero": "4",
+            "personajes": "Jaime",
+            "accion": "Se viste y se pone la corbata.",
+            "hora": null
+          },
+          {
+            "numero": "5",
+            "personajes": "Merche y Ernesto",
+            "accion": "Están acostados en la cama.",
+            "hora": "23:30"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "53.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Javi _____ con un jabón especial.",
+          "solucion_correcta": [
+            "Se lava"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo) _____ traje para ir a trabajar.",
+          "solucion_correcta": [
+            "Me pongo"
+          ]
+        },
+        {
+          "texto_enunciado": "Los gatos _____ a los árboles.",
+          "solucion_correcta": [
+            "Se suben"
+          ]
+        },
+        {
+          "texto_enunciado": "José _____ todavía. No tiene barba.",
+          "solucion_correcta": [
+            "no se afeita"
+          ]
+        },
+        {
+          "texto_enunciado": "Susana _____ los ojos algunas veces.",
+          "solucion_correcta": [
+            "Se pinta"
+          ]
+        },
+        {
+          "texto_enunciado": "Ángel y yo _____ mucho en las fiestas.",
+          "solucion_correcta": [
+            "nos divertimos"
+          ]
+        },
+        {
+          "texto_enunciado": "Pepe es muy sucio. _____ mucho la ropa.",
+          "solucion_correcta": [
+            "Se"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto es muy tímido. _____ a hablar con Sarita.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "A Iván no le gusta el cine; _____ mucho cuando va.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Mi hermana y yo _____ el pelo todos los días.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Los canguros _____ con las patas cuando los atacan.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Mi abuela _____ cuando sube escaleras.",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ],
+      "banco_palabras": [
+        "aburrirse",
+        "afeitarse",
+        "atreverse",
+        "cansarse",
+        "defenderse",
+        "divertirse",
+        "lavarse",
+        "lavarse",
+        "mancharse",
+        "pintarse",
+        "ponerse",
+        "subirse"
+      ]
+    },
+    {
+      "subejercicio": "53.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las preguntas y las respuestas con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "—¿A qué hora (tú, levantarse) _____? —_____ a las siete.",
+          "solucion_correcta": [
+            "te levantas",
+            "Me levanto"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿(tú, ponerse) _____ pijama para dormir? —No, _____ camisón.",
+          "solucion_correcta": [
+            "Te pones",
+            "me pongo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿(vosotros, bañarse) _____ en el mar en verano? —No, pero _____ en la piscina.",
+          "solucion_correcta": [
+            "Os bañáis",
+            "nos bañamos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué (vosotros, ponerse) _____ los domingos? —_____ ropa normal: vaqueros y una camisa.",
+          "solucion_correcta": [
+            "os ponéis",
+            "Nos ponemos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Con qué (afeitarse) _____ usted? —_____ con maquinilla eléctrica.",
+          "solucion_correcta": [
+            "se afeita",
+            "Me afeito"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿(usted, vestirse) _____ antes o después de desayunar? —_____ después de desayunar.",
+          "solucion_correcta": [
+            "Se viste usted",
+            "Me visto"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿A qué hora (levantarse) _____ ustedes los domingos? —_____ temprano, sobre las nueve.",
+          "solucion_correcta": [
+            "se levantan",
+            "Nos levantamos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Y a qué hora (ustedes, acostarse) _____? —_____ también temprano, sobre las diez.",
+          "solucion_correcta": [
+            "se acuestan ustedes",
+            "Nos acostamos"
+          ]
+        }
+      ]
+    }
+  ]
+}

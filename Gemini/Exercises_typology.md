@@ -31,3 +31,43 @@ Este catálogo define el comportamiento pedagógico, el propósito y la estructu
 ## `[T7]` Sustitución Sintáctica y Reescritura Oracional
 * **Descripción:** Se presenta una oración modelo resuelta y una lista de enunciados base[cite: 1, 2]. Cada enunciado tiene un segmento específico envuelto en etiquetas de subrayado continuo `<u>...</u>`[cite: 1, 2]. El alumno debe reescribir la frase completa en la línea inferior sustituyendo el fragmento subrayado por la estructura correspondiente (como pronombres o hiperónimos)[cite: 1, 2].
 * **Propósito:** Dominar la economía del lenguaje, la elisión sintáctica y la cohesión textual mediante la sustitución correcta de complementos pesados por sus equivalentes pronominales o colectivos[cite: 1, 2].
+
+---
+
+> **Nota (2026-07-20):** las tipologías T8-T17 se añadieron tras digitalizar el libro completo (126 unidades) -- el catálogo original (T1-T7) se había definido usando solo 12 de las 126 unidades y no cubría patrones reales frecuentes (completar con banco de palabras adaptadas, ordenar segmentos, combinar/reescribir oraciones, emparejamiento en columnas, clasificación en tabla, enumeración abierta, acentuación directa sobre la palabra). Ver `v2/libro_pipeline/clasificar_otros.py` para el criterio de asignación.
+
+## `[T8]` Completar con Banco de Palabras Adaptadas
+* **Descripción:** Se ofrece un conjunto compartido de opciones (verbos en infinitivo, adjetivos, expresiones...) -- en un recuadro visual o enumeradas en el propio enunciado -- y el alumno debe elegir la adecuada para cada hueco y adaptarla (conjugarla, concordarla en género/número) al contexto de la frase.
+* **Propósito:** Entrenar la selección léxica contextual junto con la flexión morfológica correcta, sin la ambigüedad de un hueco totalmente libre ni la rigidez de un estímulo fijo por hueco.
+
+## `[T9]` Ordenar Palabras o Segmentos Dados
+* **Descripción:** Se presentan las palabras o segmentos de una frase desordenados (a menudo separados por barras oblicuas) y el alumno debe reescribirlos en el orden correcto, a veces completando además alguna parte de la frase.
+* **Propósito:** Practicar el orden sintáctico correcto de la oración en español (posición del verbo, pronombres, adjetivos...) de forma explícita.
+
+## `[T10]` Combinar Dos Oraciones en Una
+* **Descripción:** Se presentan dos oraciones independientes y el alumno debe unirlas en una sola oración usando el conector, relativo o estructura gramatical indicada (en el enunciado o entre paréntesis), realizando los cambios sintácticos necesarios.
+* **Propósito:** Practicar la subordinación y coordinación de oraciones, y el manejo de nexos (relativos, causales, concesivos, consecutivos...) en producción libre.
+
+## `[T11]` Reescribir una Oración Transformada
+* **Descripción:** Se da una oración completa y el alumno debe reescribirla entera aplicando una transformación indicada: cambiar a forma negativa, insertar una expresión en un punto marcado, corregir un error, adaptar mayúsculas...
+* **Propósito:** Practicar una transformación gramatical u ortográfica concreta sobre una oración ya construida, reforzando la reestructuración completa en vez de un hueco puntual.
+
+## `[T12]` Producción Libre desde una Situación
+* **Descripción:** A partir de una situación, dato o pregunta (sin una oración base que transformar o combinar), el alumno redacta una frase o respuesta nueva -- una pregunta, una respuesta de diálogo, una transformación a estilo indirecto, un deseo, una queja...
+* **Propósito:** Practicar la producción espontánea guiada, más abierta que T10/T11 porque no parte de una oración ya escrita que transformar, sino de un contexto o dato.
+
+## `[T13]` Emparejamiento en Columnas
+* **Descripción:** Dos (o tres) columnas de elementos -- inicios y finales de frase, preguntas y respuestas, siglas y nombres -- que el alumno debe relacionar correctamente, a veces escribiendo después la oración completa resultante.
+* **Propósito:** Practicar el reconocimiento de qué elementos combinan correctamente (léxica o gramaticalmente) antes o en vez de producir la oración desde cero.
+
+## `[T14]` Clasificación en Tabla
+* **Descripción:** Un banco de palabras o datos debe repartirse en las categorías de una tabla (columnas con encabezado, pares correspondientes, o una escala ordenada), en vez de rellenar huecos en frases.
+* **Propósito:** Practicar la categorización gramatical (género, mayor/menor frecuencia...) de forma visual y agrupada.
+
+## `[T15]` Enumeración Abierta desde un Gráfico
+* **Descripción:** A partir de un dibujo o situación compartida, el alumno continúa una enumeración con un número de respuestas no fijado de antemano (cuenta y nombra lo que observa).
+* **Propósito:** Practicar vocabulario y estructuras de cantidad/enumeración en un contexto abierto, no acotado a un número fijo de huecos.
+
+## `[T16]` Anotación Directa sobre la Palabra
+* **Descripción:** El alumno marca o modifica directamente las palabras ya impresas (subrayar la sílaba tónica, añadir una tilde, dividir en sílabas), sin un hueco '_____' independiente.
+* **Propósito:** Practicar reglas de acentuación y silabeo trabajando sobre la propia palabra, no sobre una frase con hueco.

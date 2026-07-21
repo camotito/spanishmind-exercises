@@ -1,0 +1,143 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "48.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Lea la información y complete las frases con estudiar, trabajar o vivir en forma afirmativa o negativa.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Arturo: lugar de residencia, Segovia; lugar de trabajo, fábrica.",
+          "José y Pilar: lugar de residencia, Lima; José trabaja en una tienda y Pilar trabaja en una guardería.",
+          "María y Ana: lugar de residencia, Cali; María trabaja en un hospital y Ana es estudiante de Historia.",
+          "Pedro: lugar de residencia, Buenos Aires; estudiante de Economía."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "ARTURO: _____ en Segovia y _____ en una fábrica."
+        },
+        {
+          "texto_enunciado": "PILAR: José y yo _____ en Lima. José _____ en una tienda y yo _____ en una guardería."
+        },
+        {
+          "texto_enunciado": "PEDRO: _____ en Buenos Aires. _____; _____ Economía."
+        },
+        {
+          "texto_enunciado": "MARÍA: Ana y yo _____ en Cali. Yo _____ en un hospital. Ana _____; _____ Historia."
+        }
+      ]
+    },
+    {
+      "subejercicio": "48.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "—¿A qué hora (vosotros, cenar) _____? —_____ a las nueve."
+        },
+        {
+          "texto_enunciado": "—¿Dónde (tú, pasar) _____ los veranos? —_____ los veranos en Punta del Este."
+        },
+        {
+          "texto_enunciado": "Las ballenas (vivir) _____ en aguas frías."
+        },
+        {
+          "texto_enunciado": "—¿Dónde (trabajar) _____ usted? —_____ en unos grandes almacenes."
+        },
+        {
+          "texto_enunciado": "Los argentinos (hablar) _____ español."
+        },
+        {
+          "texto_enunciado": "—¿Qué (beber) _____ ustedes en las comidas? —Normalmente _____ agua."
+        },
+        {
+          "texto_enunciado": "—¿Dónde (vosotros, vivir) _____? —_____ en Mérida."
+        },
+        {
+          "texto_enunciado": "Lalo y yo (no viajar) _____ nunca en avión."
+        },
+        {
+          "texto_enunciado": "—¿Qué idiomas (hablar) _____ ustedes? —_____ español e italiano."
+        },
+        {
+          "texto_enunciado": "—¿Qué (estudiar) _____ tus hermanas? —Ana _____ Económicas y Pilar _____ Medicina."
+        },
+        {
+          "texto_enunciado": "(Nosotros, no ver) _____ mucho la tele."
+        },
+        {
+          "texto_enunciado": "¿A qué hora (abrir) _____ las tiendas?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "48.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro en forma afirmativa o negativa.",
+      "banco_palabras": [
+        "beber",
+        "comer",
+        "llevar",
+        "llevar",
+        "pasar",
+        "ver"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Dos personas al aire libre; una de ellas mira con prismáticos."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Dos personas conversan y una de ellas está comiendo."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una ambulancia circula con la sirena encendida."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un grupo de personas mira a Lucía, que lleva un sombrero."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Dos personas conversan mientras sostienen bebidas."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Varias personas llevan diferentes prendas y adornos en la cabeza."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "¿_____ algo?"
+        },
+        {
+          "texto_enunciado": "¿Qué _____?"
+        },
+        {
+          "texto_enunciado": "¿Qué _____?"
+        },
+        {
+          "texto_enunciado": "Mira a Lucía. _____ un sombrero muy bonito."
+        },
+        {
+          "texto_enunciado": "¿Qué _____?"
+        },
+        {
+          "texto_enunciado": "¿Qué _____ en la cabeza?"
+        }
+      ]
+    }
+  ],
+  "unidad": 48,
+  "titulo_libro": "trabajo, como, vivo... -- Presente de indicativo: verbos regulares",
+  "scan": "libro-rojo-106.png"
+}

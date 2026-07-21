@@ -1,0 +1,134 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "31.1",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Una los interrogativos con el resto de las preguntas.",
+      "banco_palabras": [
+        "¿Cuál...",
+        "¿Cuáles...",
+        "¿Cuál de...",
+        "¿Cuáles de..."
+      ],
+      "items": [
+        {
+          "texto_enunciado": "¿_____ esos chicos es el hijo de Guillermo?"
+        },
+        {
+          "texto_enunciado": "¿_____ es tu bebida preferida?"
+        },
+        {
+          "texto_enunciado": "¿_____ tus padres nació en Panamá?"
+        },
+        {
+          "texto_enunciado": "¿_____ tus hermanos nacieron en Ecuador?"
+        },
+        {
+          "texto_enunciado": "¿_____ ustedes ha estado en la Patagonia?"
+        },
+        {
+          "texto_enunciado": "¿_____ los dos diccionarios prefieres?"
+        },
+        {
+          "texto_enunciado": "¿_____ es la montaña más alta del mundo?"
+        },
+        {
+          "texto_enunciado": "¿_____ son las cinco ciudades más pobladas de América?"
+        }
+      ],
+      "tipologia_libre_original": "Emparejamiento: se presenta un recuadro con interrogativos y el alumno debe unir cada uno con el resto de la pregunta correspondiente."
+    },
+    {
+      "subejercicio": "31.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con cuál, cuáles, cuál de, cuáles de o qué.",
+      "items": [
+        {
+          "texto_enunciado": "–¿_____ tus hermanos trabaja en Aerolíneas? –Jaime."
+        },
+        {
+          "texto_enunciado": "–¿_____ es tu comida preferida? –El pescado."
+        },
+        {
+          "texto_enunciado": "–¿_____ son tus deportes preferidos? –El baloncesto y el tenis."
+        },
+        {
+          "texto_enunciado": "–¿_____ deportes practicas? –Tenis y natación."
+        },
+        {
+          "texto_enunciado": "–¿_____ quieres estudiar? –Aún no lo sé."
+        },
+        {
+          "texto_enunciado": "–¿_____ es tu película preferida? –Casablanca."
+        },
+        {
+          "texto_enunciado": "–¿_____ tus hermanas vive en Rosario? –Cecilia."
+        },
+        {
+          "texto_enunciado": "–¿En _____ ciudad de México vive María? –En Tijuana."
+        },
+        {
+          "texto_enunciado": "–¿Con _____ líneas aéreas va a viajar Sol? –Con Iberia."
+        },
+        {
+          "texto_enunciado": "–¿_____ son nuestras habitaciones? –Las tres de la derecha."
+        },
+        {
+          "texto_enunciado": "–¿En _____ trabaja Mariano? –Es cocinero."
+        },
+        {
+          "texto_enunciado": "–¿_____ prefieres, té o café? –Té."
+        }
+      ]
+    },
+    {
+      "subejercicio": "31.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las preguntas de un concurso de cultura de España y América Latina. Utilice quién, quiénes, qué, cuál, cuál de.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____ es la ciudad más antigua de América Latina?"
+        },
+        {
+          "texto_enunciado": "¿_____ es un “huaino”?"
+        },
+        {
+          "texto_enunciado": "¿En _____ ciudad española está el Museo del Prado?"
+        },
+        {
+          "texto_enunciado": "¿_____ es la capital de Colombia?"
+        },
+        {
+          "texto_enunciado": "¿_____ escribió Trilce?"
+        },
+        {
+          "texto_enunciado": "¿_____ río atraviesa Santiago de Chile?"
+        },
+        {
+          "texto_enunciado": "¿Entre _____ países está el lago Titicaca?"
+        },
+        {
+          "texto_enunciado": "¿En _____ estas ciudades está la Sagrada Familia: Barcelona, Sevilla o Valladolid?"
+        },
+        {
+          "texto_enunciado": "¿_____ construyeron Machu Picchu?"
+        },
+        {
+          "texto_enunciado": "¿En _____ país suramericano está el volcán Inti?"
+        },
+        {
+          "texto_enunciado": "¿_____ es la ciudad más poblada de América Latina?"
+        },
+        {
+          "texto_enunciado": "¿_____ es un “poncho”?"
+        }
+      ]
+    }
+  ],
+  "unidad": 31,
+  "titulo_libro": "¿cuál?, ¿qué?... -- Interrogativos (2)",
+  "scan": "libro-rojo-072.png"
+}

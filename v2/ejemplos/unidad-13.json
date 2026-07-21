@@ -1,0 +1,257 @@
+{
+  "tema": "unidad-13",
+  "titulo": "un coche pequeño",
+  "descripcion_gramatical": "Adjetivos calificativos",
+  "fuente": "libro",
+  "unidad_libro": 13,
+  "ejercicios": [
+    {
+      "subejercicio": "13.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con la forma correcta de los adjetivos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Vivo en un piso (pequeño) _____.",
+          "solucion_correcta": [
+            "pequeño"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa tiene los ojos (verde) _____. Es (rubio) _____ y tiene el pelo (corto) _____ y (rizado) _____. Es muy (simpático) _____ y (alegre) _____, y muy (charlatán) _____.",
+          "solucion_correcta": [
+            "verdes",
+            "rubia",
+            "corto",
+            "rizado",
+            "simpática",
+            "alegre",
+            "charlatana"
+          ]
+        },
+        {
+          "texto_enunciado": "Gerardo y Ana son muy (inteligente) _____.",
+          "solucion_correcta": [
+            "inteligentes"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustan las rosas (blanco) _____.",
+          "solucion_correcta": [
+            "blancas"
+          ]
+        },
+        {
+          "texto_enunciado": "Don Santiago es una persona (encantador) _____.",
+          "solucion_correcta": [
+            "encantadora"
+          ]
+        },
+        {
+          "texto_enunciado": "Chus y Lolo no son (feliz) _____. Están siempre (enfadado) _____.",
+          "solucion_correcta": [
+            "felices",
+            "enfadados"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he comprado una camisa (rojo) _____ y unos pantalones (gris) _____.",
+          "solucion_correcta": [
+            "roja",
+            "grises"
+          ]
+        },
+        {
+          "texto_enunciado": "Eduardo es (alto) _____ y (fuerte) _____. Es (moreno) _____ y tiene los ojos (negro) _____. Es muy (guapo) _____, pero es un poco (antipático) _____.",
+          "solucion_correcta": [
+            "alto",
+            "fuerte",
+            "moreno",
+            "negros",
+            "guapo",
+            "antipático"
+          ]
+        },
+        {
+          "texto_enunciado": "Begoña lleva una falda (marrón) _____ y una blusa (amarillo) _____.",
+          "solucion_correcta": [
+            "marrón",
+            "amarilla"
+          ]
+        },
+        {
+          "texto_enunciado": "Concha y Rodrigo son muy (simpático) _____ y muy (trabajador) _____. Además son muy (amable) _____.",
+          "solucion_correcta": [
+            "simpáticos",
+            "trabajadores",
+            "amables"
+          ]
+        },
+        {
+          "texto_enunciado": "Las hijas de Andrés son muy (joven) _____.",
+          "solucion_correcta": [
+            "jóvenes"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "13.2",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases con los adjetivos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Somos _____.",
+          "solucion_correcta": [
+            "rubias"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy muy _____.",
+          "solucion_correcta": [
+            "gordo"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta gata está _____.",
+          "solucion_correcta": [
+            "enferma"
+          ]
+        },
+        {
+          "texto_enunciado": "Estamos _____.",
+          "solucion_correcta": [
+            "tristes"
+          ]
+        },
+        {
+          "texto_enunciado": "Marga es muy _____.",
+          "solucion_correcta": [
+            "alegre"
+          ]
+        },
+        {
+          "texto_enunciado": "Estamos muy _____.",
+          "solucion_correcta": [
+            "cansadas"
+          ]
+        },
+        {
+          "texto_enunciado": "Julia es muy _____.",
+          "solucion_correcta": [
+            "fuerte"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Somos _____!",
+          "solucion_correcta": [
+            "campeones"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "alegre",
+        "campeón",
+        "cansado",
+        "enfermo",
+        "fuerte",
+        "gordo",
+        "rubio",
+        "triste"
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Dos mujeres rubias sonrientes.",
+          "Un hombre con aspecto enfermo se toca el cuello.",
+          "Una mujer observa una gata gorda.",
+          "Dos niños enfermos están acostados en una cama.",
+          "Marga sonríe mientras conversa con otras personas.",
+          "Dos mujeres muestran aspecto cansado en un medio de transporte.",
+          "Julia aparece en una competición levantando una pesa.",
+          "Un grupo de hombres celebra con una copa de campeón."
+        ]
+      }
+    },
+    {
+      "subejercicio": "13.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con un nombre y un adjetivo del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Susana tiene los _____ _____.",
+          "solucion_correcta": [
+            "ojos azules"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "La amapola es una _____ _____.",
+          "solucion_correcta": [
+            "flor roja"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "El español es un _____ _____.",
+          "solucion_correcta": [
+            "idioma fácil"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Don Tomás es un _____ _____.",
+          "solucion_correcta": [
+            "buen profesor"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "La _____ _____ de Peter es la tortilla de patatas.",
+          "solucion_correcta": [
+            "comida preferida"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "En Toledo hay muchos _____ _____.",
+          "solucion_correcta": [
+            "edificios antiguos"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Esta camisa y estos pantalones están muy viejos. Necesito _____ _____.",
+          "solucion_correcta": [
+            "ropa nueva"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Mi _____ _____ es el rojo.",
+          "solucion_correcta": [
+            "color preferido"
+          ],
+          "revisar": true
+        }
+      ],
+      "banco_palabras": [
+        "color",
+        "comida",
+        "edificio",
+        "flor",
+        "idioma",
+        "ojo",
+        "profesor",
+        "ropa",
+        "antiguo",
+        "azul",
+        "rojo",
+        "bueno",
+        "fácil",
+        "nuevo",
+        "preferido",
+        "preferido"
+      ]
+    }
+  ]
+}

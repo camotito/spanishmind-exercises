@@ -1,0 +1,113 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "80.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Espero que no (tú, volver) _____ a perder las llaves."
+        },
+        {
+          "texto_enunciado": "No me gusta que me (tú, mentir) _____, Nadia."
+        },
+        {
+          "texto_enunciado": "Espero que Arturo no (perder) _____ esta partida."
+        },
+        {
+          "texto_enunciado": "¡Ojalá (ellos, divertirse) _____ en las vacaciones! Lo necesitan."
+        },
+        {
+          "texto_enunciado": "¿Has hablado con la Sra. Pinto? Es probable que (poder) _____ ayudarte."
+        },
+        {
+          "texto_enunciado": "Espero que (usted, entender) _____ las instrucciones. Es muy fácil."
+        },
+        {
+          "texto_enunciado": "Tome este libro. Puede que le (servir) _____ para su viaje a Chile."
+        },
+        {
+          "texto_enunciado": "Me ha llamado el entrenador. Quizás (yo, jugar) _____ el domingo."
+        },
+        {
+          "texto_enunciado": "Quiero que Sonia me (conseguir) _____ entradas para el próximo concierto."
+        },
+        {
+          "texto_enunciado": "Me gusta que (llover) _____ en verano."
+        },
+        {
+          "texto_enunciado": "Me encanta que mi casa (oler) _____ a flores."
+        }
+      ]
+    },
+    {
+      "subejercicio": "80.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos frases con que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "César quiere estudiar Bellas Artes. Me parece bien. _____"
+        },
+        {
+          "texto_enunciado": "La película de esta noche empieza tarde. Me parece mal. _____"
+        },
+        {
+          "texto_enunciado": "Hoy cierran las tiendas; es fiesta. Es lógico. _____"
+        },
+        {
+          "texto_enunciado": "Sócrates no puede venir mañana. Me da pena. _____"
+        },
+        {
+          "texto_enunciado": "No quieres madrugar el domingo. Es natural. _____"
+        },
+        {
+          "texto_enunciado": "Tania friega siempre los platos. Me parece mal. _____"
+        },
+        {
+          "texto_enunciado": "Mis primos no me recuerdan; me han visto poco. Es lógico. _____"
+        },
+        {
+          "texto_enunciado": "Félix consigue siempre lo que quiere. No es normal. _____"
+        },
+        {
+          "texto_enunciado": "Rafa y Esther prefieren este restaurante; es buenísimo. Es lógico. _____"
+        },
+        {
+          "texto_enunciado": "Ustedes piensan mucho en sus amigos. Me parece bien. _____"
+        }
+      ],
+      "tipologia_libre_original": "Unión de dos frases mediante que, realizando los cambios verbales y sintácticos necesarios y escribiendo una nueva oración completa."
+    },
+    {
+      "subejercicio": "80.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas con los verbos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Cuándo vuelven ustedes? —Es probable que _____ el lunes."
+        },
+        {
+          "texto_enunciado": "—¿Por qué queréis salir todos los días? —Es lógico que _____ salir todos los días. Estamos de vacaciones."
+        },
+        {
+          "texto_enunciado": "—¿De qué se ríen tus amigos? —No sé. Puede que _____ de ese cartel."
+        },
+        {
+          "texto_enunciado": "—¿Por qué no le pedimos el ordenador a Fran? —No me gusta que le _____ el ordenador."
+        },
+        {
+          "texto_enunciado": "—¿Por qué encuentran todo extraño en este país? —Es lógico que _____ todo extraño. Es muy diferente a su país."
+        },
+        {
+          "texto_enunciado": "—¿Por qué no les dejas dormir? —No me gusta que _____ tantas horas en la siesta. Luego no duermen por la noche."
+        }
+      ]
+    }
+  ],
+  "unidad": 80,
+  "titulo_libro": "quiera, juegue... -- Presente de subjuntivo: verbos irregulares (1)",
+  "scan": "libro-rojo-170.png"
+}

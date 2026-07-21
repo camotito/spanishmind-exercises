@@ -1,0 +1,194 @@
+{
+  "tema": "unidad-100",
+  "titulo": "aquí, allí, abajo...",
+  "descripcion_gramatical": "Adverbios de lugar",
+  "fuente": "libro",
+  "unidad_libro": 100,
+  "ejercicios": [
+    {
+      "subejercicio": "100.1",
+      "tipologia": "T2",
+      "enunciado": "Complete con aquí, ahí o allí.",
+      "items": [
+        {
+          "texto_enunciado": "Ven _____, Bruno.",
+          "estimulo_visual": "Una mujer llama con la mano a Bruno, que está cerca de ella.",
+          "solucion_correcta": [
+            "aquí"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ hay agua.",
+          "estimulo_visual": "Una mujer indica a un hombre una fuente o un recipiente con agua.",
+          "solucion_correcta": [
+            "Aquí"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ hay algo.",
+          "estimulo_visual": "Dos personas miran y señalan algo situado a lo lejos.",
+          "solucion_correcta": [
+            "Allí"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué hay _____?",
+          "estimulo_visual": "Un hombre señala a una mujer situada junto a un árbol.",
+          "solucion_correcta": [
+            "ahí"
+          ]
+        },
+        {
+          "texto_enunciado": "Sí, está _____ arriba.",
+          "estimulo_visual": "Dos personas señalan a Ana, que está lejos, en una zona elevada del paisaje.",
+          "solucion_correcta": [
+            "allí"
+          ]
+        },
+        {
+          "texto_enunciado": "Ponlos _____ dentro.",
+          "estimulo_visual": "Una mujer sostiene unos platos y un hombre señala el interior de un mueble.",
+          "solucion_correcta": [
+            "ahí"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira, _____ hay sombra.",
+          "estimulo_visual": "Dos personas observan la sombra proyectada por un árbol.",
+          "solucion_correcta": [
+            "allí"
+          ]
+        },
+        {
+          "texto_enunciado": "Siéntate _____, a mi lado.",
+          "estimulo_visual": "Una mujer sentada señala el asiento que está a su lado mientras habla con un hombre.",
+          "solucion_correcta": [
+            "aquí"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.2",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases con las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Váyanse a jugar _____.",
+          "estimulo_visual": "Dos niñas juegan con bloques dentro de una habitación y un adulto señala hacia el exterior.",
+          "solucion_correcta": [
+            "fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "Prefiero dormir _____.",
+          "estimulo_visual": "Un niño señala la parte inferior de una litera.",
+          "solucion_correcta": [
+            "abajo"
+          ]
+        },
+        {
+          "texto_enunciado": "Deje el paquete aquí _____.",
+          "estimulo_visual": "Un hombre lleva un paquete y otra persona señala la superficie de una mesa.",
+          "solucion_correcta": [
+            "encima"
+          ]
+        },
+        {
+          "texto_enunciado": "Allí _____.",
+          "estimulo_visual": "Una mujer responde a la pregunta «¿Dónde está tu clase?» y señala una puerta situada frente a ellos.",
+          "solucion_correcta": [
+            "enfrente"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay muchas montañas _____.",
+          "estimulo_visual": "Dos personas contemplan una casa rodeada por un paisaje montañoso.",
+          "solucion_correcta": [
+            "alrededor"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién se sienta _____?",
+          "estimulo_visual": "Dos personas están sentadas a una mesa y hay una silla vacía en primer plano.",
+          "solucion_correcta": [
+            "delante"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí _____ no nos mojamos.",
+          "estimulo_visual": "Varias personas se refugian en un establecimiento mientras llueve en la calle.",
+          "solucion_correcta": [
+            "debajo"
+          ]
+        },
+        {
+          "texto_enunciado": "Está _____.",
+          "estimulo_visual": "Una persona pregunta «¿Dónde está Diana?» y otra hace un gesto indicando una ubicación.",
+          "solucion_correcta": [
+            "dentro"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "abajo",
+        "alrededor",
+        "debajo",
+        "delante",
+        "dentro",
+        "encima",
+        "enfrente",
+        "fuera"
+      ]
+    },
+    {
+      "subejercicio": "100.3",
+      "tipologia": "T9",
+      "enunciado": "Ordene las palabras y complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "mis padres / abajo / viven → Abajo _____.",
+          "solucion_correcta": [
+            "viven mis padres"
+          ]
+        },
+        {
+          "texto_enunciado": "cerca / Elena / vive → Elena _____.",
+          "solucion_correcta": [
+            "vive cerca"
+          ]
+        },
+        {
+          "texto_enunciado": "la mesa / fuera / sacad → Sacad _____.",
+          "solucion_correcta": [
+            "la mesa fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "aquí / Benito / trabaja → Aquí _____.",
+          "solucion_correcta": [
+            "trabaja Benito"
+          ]
+        },
+        {
+          "texto_enunciado": "lejos / mi oficina / está → Mi oficina _____.",
+          "solucion_correcta": [
+            "está lejos"
+          ]
+        },
+        {
+          "texto_enunciado": "abajo / yo / duermo → Yo _____.",
+          "solucion_correcta": [
+            "duermo abajo"
+          ]
+        },
+        {
+          "texto_enunciado": "allí / la cafetería / está → Allí _____.",
+          "solucion_correcta": [
+            "está la cafetería"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "60.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué ha hecho Betty hoy? Utilice los verbos del recuadro.",
+      "banco_palabras": [
+        "acostarse",
+        "cenar",
+        "ducharse",
+        "enviar",
+        "hacer",
+        "ir",
+        "jugar",
+        "levantarse"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Betty se levanta de la cama a las diez."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Betty corre al aire libre."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Betty se ducha."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Betty usa un ordenador para enviar correos electrónicos."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Betty va al cine con una amiga."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Betty juega a los bolos."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Betty cena con unos amigos."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Betty se acuesta a las doce."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ a las diez."
+        },
+        {
+          "texto_enunciado": "_____ footing."
+        },
+        {
+          "texto_enunciado": "_____."
+        },
+        {
+          "texto_enunciado": "_____ unos correos electrónicos."
+        },
+        {
+          "texto_enunciado": "_____ al cine con una amiga."
+        },
+        {
+          "texto_enunciado": "_____ a los bolos."
+        },
+        {
+          "texto_enunciado": "_____ con unos amigos."
+        },
+        {
+          "texto_enunciado": "_____ a las doce."
+        }
+      ]
+    },
+    {
+      "subejercicio": "60.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el pretérito perfecto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Este verano (nosotros, estar) _____ en Perú."
+        },
+        {
+          "texto_enunciado": "–¿(tú, ver) _____ a Cristina? –Sí, la (yo, ver) _____ hace un momento."
+        },
+        {
+          "texto_enunciado": "Hoy (nosotros, trabajar) _____ cerca de diez horas."
+        },
+        {
+          "texto_enunciado": "Este año (llover) _____ mucho."
+        },
+        {
+          "texto_enunciado": "–¿Sabes usar este programa? –Regular. (yo, empezar) _____ a usarlo hace poco."
+        },
+        {
+          "texto_enunciado": "Mis padres (estar) _____ en la costa este invierno."
+        },
+        {
+          "texto_enunciado": "¿Qué (vosotros, hacer) _____ este verano?"
+        },
+        {
+          "texto_enunciado": "¿(tú, leer) _____ algo interesante últimamente?"
+        },
+        {
+          "texto_enunciado": "Hoy (nosotras, comer) _____ ceviche de marisco."
+        },
+        {
+          "texto_enunciado": "–¿Qué (hacer) _____ Martín este verano? –(Quedarse) _____ en Madrid. No tenía dinero."
+        }
+      ]
+    },
+    {
+      "subejercicio": "60.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las noticias correspondientes a los titulares dados. Utilice los verbos del recuadro.",
+      "banco_palabras": [
+        "acabar",
+        "bajar",
+        "chocar",
+        "dimitir",
+        "escaparse",
+        "ganar",
+        "morir",
+        "subir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Fuga de 50 presos. _____."
+        },
+        {
+          "texto_enunciado": "Fallece el Presidente. _____."
+        },
+        {
+          "texto_enunciado": "Dimite la ministra de Hacienda. _____."
+        },
+        {
+          "texto_enunciado": "Fin de la huelga del transporte. _____."
+        },
+        {
+          "texto_enunciado": "Choque de dos trenes. _____."
+        },
+        {
+          "texto_enunciado": "Sube la gasolina. _____."
+        },
+        {
+          "texto_enunciado": "Bajan los impuestos. _____."
+        },
+        {
+          "texto_enunciado": "Colo-Colo, campeón de Liga. _____."
+        }
+      ],
+      "tipologia_libre_original": "Producción de una noticia en pretérito perfecto a partir de un titular y de un verbo seleccionado de un recuadro."
+    }
+  ],
+  "unidad": 60,
+  "titulo_libro": "he trabajado -- Pretérito perfecto de indicativo (1)",
+  "scan": "libro-rojo-130.png"
+}

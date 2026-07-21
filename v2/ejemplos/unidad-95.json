@@ -1,0 +1,218 @@
+{
+  "tema": "unidad-95",
+  "titulo": "Tengo que trabajar. ¿Puedo abrir la ventana?",
+  "descripcion_gramatical": "Expresiones con infinitivo (2)",
+  "fuente": "libro",
+  "unidad_libro": 95,
+  "ejercicios": [
+    {
+      "subejercicio": "95.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con las formas adecuadas de tener que, deber, no tener que o no deber.",
+      "items": [
+        {
+          "texto_enunciado": "_____ hacerme unas gafas nuevas. Con estas no veo bien.",
+          "solucion_correcta": [
+            "Tengo que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ir a ver a Santi. Le va a gustar veros.",
+          "solucion_correcta": [
+            "Debéis"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué bien! Hoy _____ fregar los platos. Le toca a Ramón.",
+          "solucion_correcta": [
+            "no tengo"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta noche _____ hacer yo la cena. No está Pablo.",
+          "solucion_correcta": [
+            "tengo que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ hablar con la boca llena, Carlitos.",
+          "solucion_correcta": [
+            "No debes"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando era pequeño, _____ andar tres kilómetros para ir al colegio.",
+          "solucion_correcta": [
+            "tenía que"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ trabajar mañana, Gerardo?",
+          "solucion_correcta": [
+            "Tienes que"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer no _____ ir a clase. Fue fiesta.",
+          "solucion_correcta": [
+            "tuve que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.2",
+      "tipologia": "T3",
+      "enunciado": "Complete los espacios en blanco con la forma adecuada de haber que.",
+      "items": [
+        {
+          "texto_enunciado": "Si hay un accidente, _____ llamar a una ambulancia.",
+          "solucion_correcta": [
+            "hay que"
+          ]
+        },
+        {
+          "texto_enunciado": "En el futuro _____ hablar varios idiomas.",
+          "solucion_correcta": [
+            "habrá que"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer _____ rescatar a dos personas de un incendio.",
+          "solucion_correcta": [
+            "hubo que"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando yo iba al colegio, _____ llamar de usted a los profesores.",
+          "solucion_correcta": [
+            "había que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ayudar a las personas mayores.",
+          "solucion_correcta": [
+            "Hay que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.3",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las expresiones subrayadas con la forma adecuada de tener que o haber que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Es necesario que eche gasolina</u> al coche. _____.",
+          "solucion_correcta": [
+            "Tengo que echar gasolina al coche"
+          ]
+        },
+        {
+          "texto_enunciado": "Para ir a la universidad <u>es necesario coger</u> el autobús 53. _____.",
+          "solucion_correcta": [
+            "Para ir a la universidad hay que coger el autobús 53"
+          ]
+        },
+        {
+          "texto_enunciado": "En mi colegio <u>era obligatorio levantarse</u> cuando entraba el profesor. _____.",
+          "solucion_correcta": [
+            "En mi colegio teníamos que levantarnos / había que levantarse cuando entraba el profesor"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>No es necesario que lleves</u> corbata en la oficina. _____.",
+          "solucion_correcta": [
+            "No tienes que llevar corbata en la oficina"
+          ]
+        },
+        {
+          "texto_enunciado": "Para viajar a algunos países <u>es obligatorio vacunarse</u> contra la fiebre amarilla. _____.",
+          "solucion_correcta": [
+            "Para viajar a algunos países hay que vacunarse contra la fiebre amarilla"
+          ]
+        },
+        {
+          "texto_enunciado": "Si hay un incendio, <u>es necesario llamar</u> a los bomberos. _____.",
+          "solucion_correcta": [
+            "Si hay un incendio, hay que llamar a los bomberos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con las formas adecuadas de poder en afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Lo siento. _____ hacer fuego aquí. Está prohibido.",
+          "solucion_correcta": [
+            "No se puede"
+          ]
+        },
+        {
+          "texto_enunciado": "David, ¿nos _____ ir a casa?",
+          "solucion_correcta": [
+            "podemos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Sabes si _____ usar el móvil en la academia?",
+          "solucion_correcta": [
+            "Se puede"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ recibir mensajes personales en los ordenadores de la empresa.",
+          "solucion_correcta": [
+            "No se pueden"
+          ]
+        },
+        {
+          "texto_enunciado": "Os _____ llevar mi coche esta noche si queréis.",
+          "solucion_correcta": [
+            "podéis"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.5",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las expresiones subrayadas con la forma adecuada de deber de o no poder. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Supongo que es</u> muy tarde. No hay gente por la calle. _____.",
+          "solucion_correcta": [
+            "Debe de ser muy tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Es imposible que Lupe esté</u> enferma. Acabo de verla en el cine. _____.",
+          "solucion_correcta": [
+            "No puede estar enferma"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Supongo que no está</u> casado. Va siempre solo. _____.",
+          "solucion_correcta": [
+            "No debe de estar casado"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Supongo que Norma y Sandra están</u> fuera. No cogen el teléfono. _____.",
+          "solucion_correcta": [
+            "Deben de estar fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Es imposible que tengáis</u> hambre. Acabáis de comer. _____.",
+          "solucion_correcta": [
+            "No podéis tener hambre"
+          ]
+        }
+      ]
+    }
+  ]
+}

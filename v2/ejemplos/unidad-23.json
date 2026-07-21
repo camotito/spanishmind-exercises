@@ -1,0 +1,214 @@
+{
+  "tema": "unidad-23",
+  "titulo": "alguien, algo, nadie, nada",
+  "descripcion_gramatical": "Indefinidos (4)",
+  "fuente": "libro",
+  "unidad_libro": 23,
+  "ejercicios": [
+    {
+      "subejercicio": "23.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con hay, no hay + alguien, algo, nadie o nada.",
+      "items": [
+        {
+          "texto_enunciado": "_____ en la mesa.",
+          "solucion_correcta": [
+            "No hay nada"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ en mi habitación.",
+          "solucion_correcta": [
+            "Hay alguien"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ detrás del árbol.",
+          "solucion_correcta": [
+            "Hay alguien"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ en el salón.",
+          "solucion_correcta": [
+            "No hay nadie"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ en el libro.",
+          "solucion_correcta": [
+            "Hay algo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ en la piscina.",
+          "solucion_correcta": [
+            "No hay nadie"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ en la caja.",
+          "solucion_correcta": [
+            "No hay nada"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ en el árbol.",
+          "solucion_correcta": [
+            "Hay algo"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mesa vacía."
+          },
+          {
+            "numero": "2",
+            "descripcion": "La silueta de una persona en una habitación."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un objeto alargado detrás de un árbol."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un salón sin personas."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un objeto entre las páginas de un libro."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una figura dentro de una piscina."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una caja abierta y vacía."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un objeto entre las ramas de un árbol."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "23.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con alguien, algo, nadie o nada.",
+      "items": [
+        {
+          "texto_enunciado": "Hay _____ esperándole en recepción.",
+          "solucion_correcta": [
+            "alguien"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han dado _____ para ti.",
+          "solucion_correcta": [
+            "algo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ huele mal en la cocina.",
+          "solucion_correcta": [
+            "Algo"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy no he hecho _____.",
+          "solucion_correcta": [
+            "nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Ha visto _____ mi bolígrafo?",
+          "solucion_correcta": [
+            "alguien"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ quiere acompañarme al cine.",
+          "solucion_correcta": [
+            "Nadie"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesito que _____ me ayude con este ejercicio.",
+          "solucion_correcta": [
+            "alguien"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucha gente en la calle. ¿Ha pasado _____?",
+          "solucion_correcta": [
+            "algo"
+          ]
+        },
+        {
+          "texto_enunciado": "No ha pasado _____. Ha sido una falsa alarma.",
+          "solucion_correcta": [
+            "nada"
+          ]
+        },
+        {
+          "texto_enunciado": "No hay _____ en casa de Tomás. No contestan el teléfono.",
+          "solucion_correcta": [
+            "nadie"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "23.3",
+      "tipologia": "T3",
+      "enunciado": "Conteste a las preguntas usando algo, nada, algo de o nada de.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Hay comida? —No queda _____ queso, pero queda _____ jamón.",
+          "solucion_correcta": [
+            "nada de",
+            "algo de"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Queda pan? —Queda _____, pero poco.",
+          "solucion_correcta": [
+            "algo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Y leche? —No queda _____, pero queda _____ zumo.",
+          "solucion_correcta": [
+            "nada",
+            "algo de"
+          ]
+        },
+        {
+          "texto_enunciado": "—Necesitamos comprar comida. ¿Tenéis dinero? —Tenemos _____, pero poco.",
+          "solucion_correcta": [
+            "algo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué podemos comprar? —Bueno, podemos comprar _____ pan y _____ queso.",
+          "solucion_correcta": [
+            "algo de",
+            "algo de"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Y fruta? —No podemos comprar _____ fruta. No tenemos suficiente dinero.",
+          "solucion_correcta": [
+            "nada de"
+          ]
+        }
+      ]
+    }
+  ]
+}

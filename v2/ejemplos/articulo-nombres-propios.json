@@ -1,0 +1,298 @@
+{
+  "tema": "articulo-nombres-propios",
+  "titulo": "el señor Alonso, la calle Mayor",
+  "descripcion_gramatical": "El artículo determinado con nombres propios",
+  "fuente": "libro",
+  "unidad_libro": 8,
+  "ejercicios": [
+    {
+      "subejercicio": "8.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con el, la, los, las cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "¿Dónde vive _____ don José?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "—Buenas tardes, _____ señor Alfonsín. —Buenas tardes, _____ Elena.",
+          "solucion_correcta": [
+            "ø",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ doctora Castro está en la sexta planta.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es _____ señora Jiménez?",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí trabaja _____ Josefa.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "—Buenos días, _____ doctor Rojo. —Buenos días, _____ María.",
+          "solucion_correcta": [
+            "ø",
+            "ø"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "8.2",
+      "tipologia": "T2",
+      "enunciado": "Observe el mapa y complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "(Hotel Central) _____ está en _____.",
+          "solucion_correcta": [
+            "El Hotel Central",
+            "la plaza de España"
+          ]
+        },
+        {
+          "texto_enunciado": "(Museo Botero) _____ está en _____.",
+          "solucion_correcta": [
+            "El Museo Botero",
+            "la calle Mayor"
+          ]
+        },
+        {
+          "texto_enunciado": "(Banco Nacional) _____ está en _____.",
+          "solucion_correcta": [
+            "El Banco Nacional",
+            "el paseo del parque"
+          ]
+        },
+        {
+          "texto_enunciado": "(Teatro Lorca) _____ está en _____.",
+          "solucion_correcta": [
+            "El Teatro Lorca",
+            "la avenida de América"
+          ]
+        },
+        {
+          "texto_enunciado": "(Cine América) _____ está en _____.",
+          "solucion_correcta": [
+            "El Cine América",
+            "la plaza Real"
+          ]
+        },
+        {
+          "texto_enunciado": "(Hospital Universitario) _____ está en _____.",
+          "solucion_correcta": [
+            "El Hospital Universitario",
+            "el paseo del Parque"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "map",
+        "datos": [
+          {
+            "nombre": "Museo Botero",
+            "ubicacion": "al oeste de la calle Mayor, en la parte superior izquierda del mapa"
+          },
+          {
+            "nombre": "Hotel Central",
+            "ubicacion": "en la plaza de España"
+          },
+          {
+            "nombre": "Plaza de España",
+            "ubicacion": "entre la calle Mayor y la calle del Príncipe"
+          },
+          {
+            "nombre": "Teatro Lorca",
+            "ubicacion": "junto a la avenida de América, al este de la calle del Príncipe"
+          },
+          {
+            "nombre": "Banco Nacional",
+            "ubicacion": "en la avenida de América"
+          },
+          {
+            "nombre": "Plaza Real",
+            "ubicacion": "al este de la avenida de América y junto al Cine América"
+          },
+          {
+            "nombre": "Cine América",
+            "ubicacion": "junto a la plaza Real, en la parte derecha del mapa"
+          },
+          {
+            "nombre": "Hospital Universitario",
+            "ubicacion": "en el paseo del Parque, en la parte inferior izquierda del mapa"
+          },
+          {
+            "nombre": "Parque",
+            "ubicacion": "al sur del paseo del Parque"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "8.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con los nombres y el, la, los, las cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "(Habana, Cuba) _____ es la capital de _____.",
+          "solucion_correcta": [
+            "La Habana",
+            "Cuba"
+          ]
+        },
+        {
+          "texto_enunciado": "(India, Asia) _____ está en _____.",
+          "solucion_correcta": [
+            "(La) India",
+            "Asia"
+          ]
+        },
+        {
+          "texto_enunciado": "(Islas Galápagos, Ecuador) _____ están en _____.",
+          "solucion_correcta": [
+            "Las islas Galápagos",
+            "Ecuador"
+          ]
+        },
+        {
+          "texto_enunciado": "(Salvador, Guatemala, Honduras) _____ tiene frontera con _____ y _____.",
+          "solucion_correcta": [
+            "El Salvador",
+            "Guatemala",
+            "Honduras"
+          ]
+        },
+        {
+          "texto_enunciado": "(Ángeles, California) _____ está en _____.",
+          "solucion_correcta": [
+            "Los Ángeles",
+            "California"
+          ]
+        },
+        {
+          "texto_enunciado": "(Lago Titicaca, Perú, Bolivia) _____ está entre _____ y _____.",
+          "solucion_correcta": [
+            "El lago Titicaca",
+            "Perú",
+            "Bolivia"
+          ]
+        },
+        {
+          "texto_enunciado": "(Amazonas, América del Sur) _____ es el río más largo de _____.",
+          "solucion_correcta": [
+            "El Amazonas",
+            "América del Sur"
+          ]
+        },
+        {
+          "texto_enunciado": "(Jamaica, mar Caribe) _____ está en _____.",
+          "solucion_correcta": [
+            "Jamaica",
+            "el mar Caribe"
+          ]
+        },
+        {
+          "texto_enunciado": "(Puerto Rico, islas Antillas) _____ es una de _____.",
+          "solucion_correcta": [
+            "Puerto Rico",
+            "las islas Antillas"
+          ]
+        },
+        {
+          "texto_enunciado": "(Francia, Europa) _____ es un país de _____.",
+          "solucion_correcta": [
+            "Francia",
+            "Europa"
+          ]
+        },
+        {
+          "texto_enunciado": "(Pampa, Argentina) _____ es una región de _____.",
+          "solucion_correcta": [
+            "La Pampa",
+            "Argentina"
+          ]
+        },
+        {
+          "texto_enunciado": "(Pirineos, España, Francia) _____ separan _____ de _____.",
+          "solucion_correcta": [
+            "los Pirineos",
+            "España",
+            "Francia"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "8.4",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "¿Has estado en (el/ø) Museo del Prado?",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/ø) Felipe estudia en (la/ø) Universidad de Alcalá.",
+          "solucion_correcta": [
+            "ø",
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "(La/ø) doctora Soria trabaja en (el/ø) Hospital Doce de Octubre.",
+          "solucion_correcta": [
+            "La",
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "El hermano de Ana vive en (La/ø) Paz.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/ø) Cairo es la capital de (El/ø) Egipto.",
+          "solucion_correcta": [
+            "El",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/ø) Pancho vive en (El/ø) Monterrey.",
+          "solucion_correcta": [
+            "ø",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Este queso es de (La/ø) Mancha.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/ø) cine Cartago está en (la/ø) calle Buenos Aires.",
+          "solucion_correcta": [
+            "El",
+            "la"
+          ]
+        }
+      ]
+    }
+  ]
+}

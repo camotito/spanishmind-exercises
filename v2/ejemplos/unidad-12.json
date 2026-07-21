@@ -1,0 +1,331 @@
+{
+  "tema": "unidad-12",
+  "titulo": "este, ese, aquel...",
+  "descripcion_gramatical": "Demostrativos",
+  "fuente": "libro",
+  "unidad_libro": 12,
+  "ejercicios": [
+    {
+      "subejercicio": "12.1",
+      "tipologia": "T2",
+      "enunciado": "Complete con este, ese, aquel... y las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Estas llaves"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Esa revista"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Aquella maleta"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Ese bolso"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Estas gafas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Este paraguas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Aquellos árboles"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Esas llaves"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "árboles",
+        "bolso",
+        "gafas",
+        "llaves",
+        "llaves",
+        "maleta",
+        "paraguas",
+        "revista"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "escena": "Una mano sostiene unas llaves cerca de la persona que habla.",
+            "referente": "llaves"
+          },
+          {
+            "numero": "2",
+            "escena": "Una persona señala una revista situada entre los interlocutores.",
+            "referente": "revista"
+          },
+          {
+            "numero": "3",
+            "escena": "Una persona señala una maleta situada a cierta distancia.",
+            "referente": "maleta"
+          },
+          {
+            "numero": "4",
+            "escena": "Una persona señala un bolso situado junto al interlocutor.",
+            "referente": "bolso"
+          },
+          {
+            "numero": "5",
+            "escena": "Una mano sostiene unas gafas cerca de la persona que habla.",
+            "referente": "gafas"
+          },
+          {
+            "numero": "6",
+            "escena": "Una mano sostiene un paraguas cerca de la persona que habla.",
+            "referente": "paraguas"
+          },
+          {
+            "numero": "7",
+            "escena": "Una persona señala unos árboles situados a lo lejos.",
+            "referente": "árboles"
+          },
+          {
+            "numero": "8",
+            "escena": "Una persona señala unas llaves situadas junto al interlocutor.",
+            "referente": "llaves"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "12.2",
+      "tipologia": "T2",
+      "enunciado": "Complete con este, ese, aquel...",
+      "items": [
+        {
+          "texto_enunciado": "Me gusta mucho _____ restaurante.",
+          "solucion_correcta": [
+            "este restaurante"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Conoces a _____ chico?",
+          "solucion_correcta": [
+            "ese/aquel chico"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ es Julia, una compañera.",
+          "solucion_correcta": [
+            "Esta"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira. _____ es el padre de Charo.",
+          "solucion_correcta": [
+            "Aquel/Ese"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ vaso está sucio.",
+          "solucion_correcta": [
+            "Este vaso"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuánto cuestan _____ gafas?",
+          "solucion_correcta": [
+            "estas gafas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ es la casa de Ramón.",
+          "solucion_correcta": [
+            "Aquella/Esa"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Adónde va _____ autobús?",
+          "solucion_correcta": [
+            "este autobús"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "escena": "Dos personas están sentadas comiendo en el restaurante en el que se encuentran.",
+            "referente": "restaurante"
+          },
+          {
+            "numero": "2",
+            "escena": "Dos mujeres hablan y una de ellas señala a un chico que pasa cerca.",
+            "referente": "chico"
+          },
+          {
+            "numero": "3",
+            "escena": "Una persona presenta a Julia, que está junto a los interlocutores.",
+            "referente": "Julia"
+          },
+          {
+            "numero": "4",
+            "escena": "Dos mujeres miran al padre de Charo, que camina a cierta distancia.",
+            "referente": "padre de Charo"
+          },
+          {
+            "numero": "5",
+            "escena": "Una mujer sostiene un vaso en la mano.",
+            "referente": "vaso"
+          },
+          {
+            "numero": "6",
+            "escena": "Una persona sostiene unas gafas delante de otra.",
+            "referente": "gafas"
+          },
+          {
+            "numero": "7",
+            "escena": "Una persona señala una casa situada a lo lejos.",
+            "referente": "casa de Ramón"
+          },
+          {
+            "numero": "8",
+            "escena": "Dos personas observan un autobús que está a cierta distancia.",
+            "referente": "autobús"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "12.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con este, ese, aquel...",
+      "items": [
+        {
+          "texto_enunciado": "_____ verano vamos a ir a Ibiza.",
+          "solucion_correcta": [
+            "Este"
+          ]
+        },
+        {
+          "texto_enunciado": "Nací en 1983. _____ mismo año nació mi prima.",
+          "solucion_correcta": [
+            "Ese"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué haces _____ noche? —Nada. _____ semana tengo mucho trabajo.",
+          "solucion_correcta": [
+            "esta",
+            "Esta"
+          ]
+        },
+        {
+          "texto_enunciado": "2001 fue un año extraordinario. _____ verano conocí a Maite.",
+          "solucion_correcta": [
+            "Ese"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis padres vivieron en Perú entre 1950 y 1965. _____ fueron los mejores años de su vida.",
+          "solucion_correcta": [
+            "Aquellos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ mes ha sido fabuloso. He encontrado piso y trabajo.",
+          "solucion_correcta": [
+            "Este"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis se casó en 1970. En _____ época yo vivía en México.",
+          "solucion_correcta": [
+            "aquella"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ tarde tengo un examen.",
+          "solucion_correcta": [
+            "Esta"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "12.4",
+      "tipologia": "T2",
+      "enunciado": "Complete con esto, eso o aquello.",
+      "items": [
+        {
+          "texto_enunciado": "¿De quién es _____?",
+          "solucion_correcta": [
+            "esto"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué es _____?",
+          "solucion_correcta": [
+            "eso/aquello"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué es _____?",
+          "solucion_correcta": [
+            "eso"
+          ]
+        },
+        {
+          "texto_enunciado": "¿De quién es _____?",
+          "solucion_correcta": [
+            "esto"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "escena": "Dos personas conversan y una de ellas pregunta por algo que tiene muy cerca.",
+            "referente": "objeto próximo a quien habla"
+          },
+          {
+            "numero": "2",
+            "escena": "Varias personas conversan y una señala algo situado cerca de su interlocutor.",
+            "referente": "objeto próximo al interlocutor"
+          },
+          {
+            "numero": "3",
+            "escena": "Dos personas conversan y preguntan por algo situado a cierta distancia.",
+            "referente": "objeto a cierta distancia"
+          },
+          {
+            "numero": "4",
+            "escena": "Una persona del grupo levanta un objeto mientras otra pregunta por él desde más lejos.",
+            "referente": "objeto alejado de quien pregunta"
+          }
+        ]
+      }
+    }
+  ]
+}

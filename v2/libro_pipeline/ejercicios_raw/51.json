@@ -1,0 +1,194 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "51.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Hoy es domingo. Observe la agenda de Carlos para la semana que viene y complete sus planes con los verbos del recuadro.",
+      "banco_palabras": [
+        "cenar",
+        "ir",
+        "ir",
+        "jugar",
+        "salir",
+        "tener",
+        "visitar"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "dia": "LUNES",
+            "plan": "Consulta Dra. Nieto"
+          },
+          {
+            "dia": "MARTES",
+            "plan": "Reunión con Sr. Chávez"
+          },
+          {
+            "dia": "MIÉRCOLES",
+            "plan": "Ópera"
+          },
+          {
+            "dia": "JUEVES",
+            "plan": "Cenar con el director"
+          },
+          {
+            "dia": "VIERNES",
+            "plan": "Visita fábrica en Tarragona"
+          },
+          {
+            "dia": "SÁBADO",
+            "plan": "Tenis con Rodolfo"
+          },
+          {
+            "dia": "DOMINGO",
+            "plan": "Salir con Laura"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "El lunes _____."
+        },
+        {
+          "texto_enunciado": "El martes _____."
+        },
+        {
+          "texto_enunciado": "El miércoles _____."
+        },
+        {
+          "texto_enunciado": "El jueves _____."
+        },
+        {
+          "texto_enunciado": "El viernes _____."
+        },
+        {
+          "texto_enunciado": "El sábado _____."
+        },
+        {
+          "texto_enunciado": "El domingo _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "51.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro.",
+      "banco_palabras": [
+        "acabar",
+        "casarse",
+        "dar",
+        "empezar",
+        "hacer",
+        "ir",
+        "irse",
+        "irse",
+        "regresar",
+        "salir",
+        "tener"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "(yo) _____ a Lisboa mañana."
+        },
+        {
+          "texto_enunciado": "Jorge y Elisa _____ el sábado."
+        },
+        {
+          "texto_enunciado": "Susana _____ una fiesta esta noche."
+        },
+        {
+          "texto_enunciado": "(nosotros) _____ al teatro el domingo."
+        },
+        {
+          "texto_enunciado": "Daniel _____ hoy de vacaciones. El tren _____ a las 2."
+        },
+        {
+          "texto_enunciado": "La Feria de Turismo _____ el lunes."
+        },
+        {
+          "texto_enunciado": "Mis padres _____ esta noche."
+        },
+        {
+          "texto_enunciado": "La semana que viene (yo) _____ dos exámenes."
+        },
+        {
+          "texto_enunciado": "¿Qué (vosotros) _____ este domingo?"
+        },
+        {
+          "texto_enunciado": "Lucía _____ la carrera el año que viene."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases conjugando y seleccionando los verbos de un recuadro."
+    },
+    {
+      "subejercicio": "51.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las instrucciones completas utilizando las palabras del recuadro.",
+      "banco_palabras": [
+        "añadir",
+        "cortar",
+        "pelar",
+        "poner",
+        "poner",
+        "triturar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Para hacer gazpacho, primero _____ los tomates y _____ un poco de cebolla y pimiento. _____ todo en un recipiente y _____ sal, aceite, ajo y pan mojado. Lo _____ todo y lo _____ a enfriar en la nevera."
+        }
+      ],
+      "tipologia_libre_original": "Completar un texto de instrucciones conjugando y seleccionando los verbos de un recuadro."
+    },
+    {
+      "subejercicio": "51.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con los verbos del recuadro.",
+      "banco_palabras": [
+        "ayudar",
+        "decir",
+        "dejar",
+        "dejar",
+        "hacer",
+        "ir",
+        "llevar",
+        "poner",
+        "salir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "–¿_____ a cenar esta noche? –Buena idea."
+        },
+        {
+          "texto_enunciado": "–¿Me _____ el coche? –Lo siento. Lo necesito."
+        },
+        {
+          "texto_enunciado": "–¿Qué me _____, la falda o los pantalones? –Ponte la falda. Es más elegante."
+        },
+        {
+          "texto_enunciado": "–¿Me _____ a preparar la cena? –Por supuesto. ¿Qué _____?"
+        },
+        {
+          "texto_enunciado": "–¿_____ al campo el domingo? –No puedo. Tengo que estudiar."
+        },
+        {
+          "texto_enunciado": "–¿Le _____ las bolsas? –Gracias, hijo."
+        },
+        {
+          "texto_enunciado": "–¿Por qué no se lo _____ a tus padres? –Me da vergüenza."
+        },
+        {
+          "texto_enunciado": "–¿Me _____ un boli? –Sí, toma."
+        }
+      ],
+      "tipologia_libre_original": "Completar diálogos conjugando y seleccionando los verbos de un recuadro."
+    }
+  ],
+  "unidad": 51,
+  "titulo_libro": "Mañana voy al médico -- Presente de indicativo: otros usos",
+  "scan": "libro-rojo-112.png"
+}

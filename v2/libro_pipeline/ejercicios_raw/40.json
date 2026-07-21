@@ -1,0 +1,136 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "40.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *me*, *te*, *se*... solo cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "1. Rosa _____ cortó con un cuchillo ayer."
+        },
+        {
+          "texto_enunciado": "2. Sandra _____ mira mucho al espejo."
+        },
+        {
+          "texto_enunciado": "3. Juan _____ cortó el pan con su navaja."
+        },
+        {
+          "texto_enunciado": "4. No _____ mires tanto al espejo, Saúl."
+        },
+        {
+          "texto_enunciado": "5. ¿Cuándo _____ duchan los niños?"
+        },
+        {
+          "texto_enunciado": "6. Mi hermana y yo _____ quemamos cocinando."
+        },
+        {
+          "texto_enunciado": "7. Roberto _____ ha quemado las cartas de Aurora."
+        },
+        {
+          "texto_enunciado": "8. Julio y Pedro _____ saludaron en la fiesta."
+        },
+        {
+          "texto_enunciado": "9. ¿Quién _____ ha tirado mis gafas a la basura?"
+        },
+        {
+          "texto_enunciado": "10. ¿Por qué _____ pone usted el sombrero?"
+        },
+        {
+          "texto_enunciado": "11. Mira. (Yo) _____ veo en el agua."
+        },
+        {
+          "texto_enunciado": "12. ¿Qué _____ ves en el agua?"
+        },
+        {
+          "texto_enunciado": "13. ¿Cuándo _____ lavas el pelo, Sonia?"
+        },
+        {
+          "texto_enunciado": "14. ¿Vosotros _____ afeitáis todos los días?"
+        },
+        {
+          "texto_enunciado": "15. Alicia _____ rompió una pierna esquiando."
+        }
+      ]
+    },
+    {
+      "subejercicio": "40.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *nos*, *os* o *se*. Atención con el verbo.",
+      "items": [
+        {
+          "texto_enunciado": "1. Felipe saludó a David y David saludó a Felipe. _____."
+        },
+        {
+          "texto_enunciado": "2. Roque no habla a Julio y Julio no habla a Roque. _____."
+        },
+        {
+          "texto_enunciado": "3. Roque te quiere a ti y tú quieres a Roque. _____."
+        },
+        {
+          "texto_enunciado": "4. Sofía escribe a Lina y Lina escribe a Sofía. _____."
+        },
+        {
+          "texto_enunciado": "5. Andrés me conoce muy bien a mí y yo conozco muy bien a Andrés. _____."
+        },
+        {
+          "texto_enunciado": "6. Rodrigo ayuda a su hermana y su hermana ayuda a Rodrigo. _____."
+        },
+        {
+          "texto_enunciado": "7. En Navidad, mi mujer me hace un regalo y yo le hago un regalo a ella. _____."
+        },
+        {
+          "texto_enunciado": "8. Tus amigos te ven a ti y tú los ves a ellos los domingos. _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "40.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las siguientes frases con *me*, *te*, *se*... cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "1. (Yo) _____ conozco muy bien."
+        },
+        {
+          "texto_enunciado": "2. Teresa y Antonio _____ conocen muy bien."
+        },
+        {
+          "texto_enunciado": "3. _____ conozco muy bien a mis hijos."
+        },
+        {
+          "texto_enunciado": "4. ¿Por qué no _____ quieren Isabel y Leo?"
+        },
+        {
+          "texto_enunciado": "5. ¿Por qué no _____ quieres a tu hermano?"
+        },
+        {
+          "texto_enunciado": "6. ¿Por qué _____ peleáis tú y Juan?"
+        },
+        {
+          "texto_enunciado": "7. ¿_____ veis mucho Alfonso y tú?"
+        },
+        {
+          "texto_enunciado": "8. Raúl y Teresa no _____ hablan."
+        },
+        {
+          "texto_enunciado": "9. ¿_____ ve usted en el espejo?"
+        },
+        {
+          "texto_enunciado": "10. María y Alfredo _____ ven todos los días."
+        },
+        {
+          "texto_enunciado": "11. ¿Por qué no _____ vistes, Rosa? Es tarde."
+        },
+        {
+          "texto_enunciado": "12. ¿_____ has vestido ya a los niños, Jaime?"
+        }
+      ]
+    }
+  ],
+  "unidad": 40,
+  "titulo_libro": "me ducho, nos queremos -- Pronombres reflexivos y con valor recíproco",
+  "scan": "libro-rojo-090.png"
+}

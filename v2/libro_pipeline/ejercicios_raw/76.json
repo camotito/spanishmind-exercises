@@ -1,0 +1,162 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "76.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos.",
+      "banco_palabras": [
+        "conducir",
+        "hacer",
+        "hacer",
+        "poner",
+        "salir",
+        "tener",
+        "traer",
+        "venir"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un hombre pide a otras personas que no hagan fotos."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer habla con el conductor de un coche."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Varias personas hacen ruido en un hospital."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre pide pan a José."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un hombre habla por teléfono y pide al señor Ruiz que vaya a su oficina."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una mujer pide atención a varias personas."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Un hombre ordena a varias personas que salgan a la calle."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Dos personas están en una atracción de feria."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ fotos."
+        },
+        {
+          "texto_enunciado": "_____ con cuidado."
+        },
+        {
+          "texto_enunciado": "_____ ruido, por favor."
+        },
+        {
+          "texto_enunciado": "_____ pan, José, por favor."
+        },
+        {
+          "texto_enunciado": "_____ a mi oficina, Sr. Ruiz, por favor."
+        },
+        {
+          "texto_enunciado": "_____ atención. Tengo algo que deciros."
+        },
+        {
+          "texto_enunciado": "_____ todos a la calle."
+        },
+        {
+          "texto_enunciado": "_____ miedo. No es peligroso."
+        }
+      ]
+    },
+    {
+      "subejercicio": "76.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las instrucciones con los verbos del recuadro en forma afirmativa o negativa.",
+      "banco_palabras": [
+        "conducir",
+        "conducir",
+        "mantener",
+        "poner",
+        "tener",
+        "utilizar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____ el transporte público."
+        },
+        {
+          "texto_enunciado": "_____ despacio en ciudad."
+        },
+        {
+          "texto_enunciado": "En carretera _____ a más de 90 km por hora."
+        },
+        {
+          "texto_enunciado": "_____ el coche a punto."
+        },
+        {
+          "texto_enunciado": "_____ la calefacción en días soleados."
+        },
+        {
+          "texto_enunciado": "_____ la temperatura constante a 20°."
+        }
+      ],
+      "tipologia_libre_original": "Completar una lista de instrucciones con los verbos de un recuadro, conjugados en forma afirmativa o negativa."
+    },
+    {
+      "subejercicio": "76.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(Tener) _____ cuidado, don Antonio. Este cruce es peligroso."
+        },
+        {
+          "texto_enunciado": "(No, salir) _____ ahora, niños. Está lloviendo."
+        },
+        {
+          "texto_enunciado": "(Decir) _____ ‘Gracias’ al abuelo, Pepín."
+        },
+        {
+          "texto_enunciado": "–¿Puedo decir algo, Arturo? –No, (no, decir) _____ nada, Ismael."
+        },
+        {
+          "texto_enunciado": "(Ser) _____ bueno, Julián, y (obedecer) _____ a tus papás."
+        },
+        {
+          "texto_enunciado": "(Tener) _____ cuidado, niños. El mar está revuelto."
+        },
+        {
+          "texto_enunciado": "(Hacer) _____ una copia de esta carta, Sr. Vázquez."
+        },
+        {
+          "texto_enunciado": "(No, ser) _____ impaciente, Jaime. Comemos dentro de diez minutos."
+        },
+        {
+          "texto_enunciado": "(No, poner) _____ la radio, por favor. Me duele la cabeza."
+        },
+        {
+          "texto_enunciado": "(Venir) _____ a mi fiesta, Sara. Lo vamos a pasar muy bien."
+        },
+        {
+          "texto_enunciado": "(Ser) _____ amables con Elvira, niños. Os quiere mucho."
+        }
+      ]
+    }
+  ],
+  "unidad": 76,
+  "titulo_libro": "Pon la mesa -- Imperativo: verbos irregulares (2)",
+  "scan": "libro-rojo-162.png"
+}

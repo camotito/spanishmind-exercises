@@ -1,0 +1,187 @@
+{
+  "tema": "unidad-104",
+  "titulo": "muy, mucho, bastante...",
+  "descripcion_gramatical": "Adverbios de cantidad",
+  "fuente": "libro",
+  "unidad_libro": 104,
+  "ejercicios": [
+    {
+      "subejercicio": "104.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Me encanta esta novela. Es extraordinaria. Es (muy/poco) buena.",
+          "solucion_correcta": [
+            "muy"
+          ]
+        },
+        {
+          "texto_enunciado": "No se puede oír nada. La música está (algo/bastante) alta.",
+          "solucion_correcta": [
+            "bastante"
+          ]
+        },
+        {
+          "texto_enunciado": "Roberto no es (poco/nada) alegre. Nunca quiere salir.",
+          "solucion_correcta": [
+            "nada"
+          ]
+        },
+        {
+          "texto_enunciado": "Este libro no es (bastante/nada) caro. Solo cuesta cinco euros.",
+          "solucion_correcta": [
+            "nada"
+          ]
+        },
+        {
+          "texto_enunciado": "Rubén es (demasiado/poco) sincero. A veces, es mejor no decir toda la verdad.",
+          "solucion_correcta": [
+            "demasiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Silvia se lleva (muy/demasiado) bien con su hermana. Se ayudan mucho.",
+          "solucion_correcta": [
+            "muy"
+          ]
+        },
+        {
+          "texto_enunciado": "Es (algo/poco) tarde. Deberíamos irnos.",
+          "solucion_correcta": [
+            "algo"
+          ]
+        },
+        {
+          "texto_enunciado": "Tomás es (poco/un poco) cariñoso. Nunca da un beso a nadie.",
+          "solucion_correcta": [
+            "poco"
+          ]
+        },
+        {
+          "texto_enunciado": "Ricardo está (poco/un poco) débil. Debería hacer algo de ejercicio.",
+          "solucion_correcta": [
+            "un poco"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer estuve con Elisa y la encontré (bastante/poco) nerviosa. No paraba de hablar.",
+          "solucion_correcta": [
+            "bastante"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "104.2",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con bastante, demasiado, muy o un poco.",
+      "items": [
+        {
+          "texto_enunciado": "El traje le queda _____ grande.",
+          "estimulo_visual": "Dibujo de un hombre con un traje que le queda excesivamente grande.",
+          "solucion_correcta": [
+            "demasiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Catalina dibuja _____ bien.",
+          "estimulo_visual": "Dibujo de Catalina realizando un dibujo detallado de un caballo.",
+          "solucion_correcta": [
+            "muy/bastante"
+          ]
+        },
+        {
+          "texto_enunciado": "Ernesto va _____ rápido.",
+          "estimulo_visual": "Dibujo de un velocímetro cuyo indicador marca aproximadamente 120.",
+          "solucion_correcta": [
+            "muy/bastante"
+          ]
+        },
+        {
+          "texto_enunciado": "Los zapatos son _____ pequeños.",
+          "estimulo_visual": "Dibujo de un pie descalzo junto a un zapato notablemente más pequeño.",
+          "solucion_correcta": [
+            "muy"
+          ]
+        },
+        {
+          "texto_enunciado": "El libro es _____ caro.",
+          "estimulo_visual": "Dibujo de un libro con una etiqueta de precio de 120 €.",
+          "solucion_correcta": [
+            "demasiado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "104.3",
+      "tipologia": "T8",
+      "enunciado": "Complete con algo, bastante, demasiado, mucho, nada o poco.",
+      "items": [
+        {
+          "texto_enunciado": "Ernesto estudia _____: seis horas al día.",
+          "solucion_correcta": [
+            "mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "Este coche corre _____. No pasa de los ochenta kilómetros a la hora.",
+          "solucion_correcta": [
+            "poco"
+          ]
+        },
+        {
+          "texto_enunciado": "Víctor sale _____. No está nunca en casa y no estudia _____.",
+          "solucion_correcta": [
+            "demasiado",
+            "nada"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa y yo nos vemos _____, casi todas las semanas.",
+          "solucion_correcta": [
+            "bastante"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo que tomarme algo. Me duele _____ la cabeza.",
+          "solucion_correcta": [
+            "mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "A Verónica no le gusta _____ el frío.",
+          "solucion_correcta": [
+            "nada"
+          ]
+        },
+        {
+          "texto_enunciado": "Nacho les ayuda _____ a sus padres, pero no _____.",
+          "solucion_correcta": [
+            "algo",
+            "demasiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi padre hace _____ deporte. Va todos los días al gimnasio.",
+          "solucion_correcta": [
+            "mucho/bastante"
+          ]
+        },
+        {
+          "texto_enunciado": "Ahora trabajo _____. Tengo que buscar más trabajo.",
+          "solucion_correcta": [
+            "poco"
+          ]
+        },
+        {
+          "texto_enunciado": "María no estudia _____. Va a suspender todos los exámenes.",
+          "solucion_correcta": [
+            "nada"
+          ]
+        }
+      ]
+    }
+  ]
+}

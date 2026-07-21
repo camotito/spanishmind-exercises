@@ -36,6 +36,13 @@ EJEMPLOS_DIR = os.path.join(V2_DIR, "ejemplos")
 CHOICE_RE = re.compile(r"\(([^()]*?/[^()]*?)\)")
 BLANK = "_____"
 
+# algunas extracciones (sobre todo de antes de que el prompt lo prohibiera
+# explicitamente) incluyen el numero de lista del item dentro del propio texto
+# (ej. "1. (mujer) _____"); render.py ya numera cada item por su cuenta, asi
+# que aqui se quita para no duplicarlo -- barato (regex) y cubre tanto lo ya
+# extraido como lo nuevo, sin tener que volver a pagar la extraccion.
+NUMBERING_RE = re.compile(r"^\s*\d{1,3}[.\)]\s+")
+
 
 def n_huecos(texto):
     return len(CHOICE_RE.findall(texto)) + texto.count(BLANK)
@@ -76,11 +83,13 @@ def merge_unidad(num, tema_map, soluciones, avisos):
         items_sol = clave["items"] if clave else []
         items_out = []
         for i, item in enumerate(ej.get("items", [])):
-            texto = item["texto_enunciado"]
+            texto = NUMBERING_RE.sub("", item["texto_enunciado"])
             esperados = n_huecos(texto)
             respuestas = items_sol[i] if i < len(items_sol) else None
 
             item_out = {"texto_enunciado": texto}
+            if item.get("estimulo_visual"):
+                item_out["estimulo_visual"] = item["estimulo_visual"]
             if respuestas is None:
                 item_out["solucion_correcta"] = None
                 item_out["revisar"] = True
@@ -103,9 +112,14 @@ def merge_unidad(num, tema_map, soluciones, avisos):
             "enunciado": ej.get("enunciado"),
             "items": items_out,
         }
-        if "banco_palabras" in ej:
+        if ej.get("tipologia") == "OTRO":
+            ejercicio_out["tipologia_libre"] = ej.get("tipologia_libre")
+            avisos.append(
+                f"unidad {num} / {sub}: tipologia no catalogada (T1-T7) -- {ej.get('tipologia_libre')!r}"
+            )
+        if ej.get("banco_palabras"):
             ejercicio_out["banco_palabras"] = ej["banco_palabras"]
-        if "contexto_grafico" in ej:
+        if ej.get("contexto_grafico"):
             ejercicio_out["contexto_grafico"] = ej["contexto_grafico"]
 
         ejercicios.append(ejercicio_out)

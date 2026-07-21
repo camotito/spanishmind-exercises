@@ -1,0 +1,164 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "102.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *todavía*, *aún* o *ya no*.",
+      "items": [
+        {
+          "texto_enunciado": "No puedes irte. _____ te necesito.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Está Berta? —No, _____ vive aquí.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Sigues jugando al tenis? —Sí, _____ juego de vez en cuando.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Vas a la oficina? —No, _____ estoy de vacaciones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Puedes irte. _____ te necesito.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Me dejas la bici, Manuel? —Lo siento, _____ tengo bici. Se me rompió.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Sigue estudiando griego? —Sí, _____ lo estudio. Me encanta.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "102.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Lea las respuestas y escriba las preguntas.",
+      "items": [
+        {
+          "texto_enunciado": "—¿_____? —Sí, ya nos conocemos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿_____? —Sí, ya lo sé.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿_____? —No, aún no ha llegado Paloma.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿_____? —No, todavía no hemos empezado las clases.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿_____? —No, la comida no está lista todavía.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Construcción de preguntas a partir de respuestas dadas. Se presentan cinco diálogos: la pregunta completa debe escribirse en un único hueco situado entre los signos de interrogación y cada respuesta funciona como estímulo textual."
+    },
+    {
+      "subejercicio": "102.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *ya*, *todavía no* / *aún no*.",
+      "items": [
+        {
+          "texto_enunciado": "Estoy esperando a Lidia desde las seis, pero _____ ha llegado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Venid. _____ han abierto las puertas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Qué quieres estudiar? —_____ lo sé.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Sabes que Lorenzo se marcha a Chile? —Sí, _____ lo sé.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Has leído _____ el fichero que te mandé? —No, _____ lo he abierto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿_____ has pagado el alquiler? Se va a enfadar el casero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Ha vuelto _____ Pilar de México? —No, _____ ha vuelto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ sé dónde está Viña. Me lo ha dicho Tomás.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "102.4",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *ya*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Puedes llamar <u>a partir de ahora</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Dentro de unos días</u> te llamaremos. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No creo que venga <u>ahora</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te diré algo <u>más adelante</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡<u>Ahora</u> lo entiendo! _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hablaremos <u>otro día</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>A partir de ahora</u> podemos comprar las entradas. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Os contestaré <u>más adelante</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Ahora</u> hay que irse. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hará buen tiempo <u>más adelante</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Encontrarán trabajo <u>en el futuro</u>. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 102,
+  "titulo_libro": "ya, todavía, aún -- Adverbios de tiempo (2)",
+  "scan": "libro-rojo-214.png"
+}

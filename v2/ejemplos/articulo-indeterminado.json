@@ -1,0 +1,398 @@
+{
+  "tema": "articulo-indeterminado",
+  "titulo": "un, una, unos, unas",
+  "descripcion_gramatical": "El artículo indeterminado",
+  "fuente": "libro",
+  "unidad_libro": 4,
+  "ejercicios": [
+    {
+      "subejercicio": "4.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con un, una, unos, unas.",
+      "items": [
+        {
+          "texto_enunciado": "_____ flor",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ sillas",
+          "solucion_correcta": [
+            "unas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ relojes",
+          "solucion_correcta": [
+            "unos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ paraguas",
+          "solucion_correcta": [
+            "un/unos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ alumnos",
+          "solucion_correcta": [
+            "unos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ cine",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ habitación",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ lápices",
+          "solucion_correcta": [
+            "unos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ chica",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ aulas",
+          "solucion_correcta": [
+            "unas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ciudad",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ aula",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ profesora",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ pantalones",
+          "solucion_correcta": [
+            "unos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ camarero",
+          "solucion_correcta": [
+            "un"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "4.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las respuestas utilizando un, una, unos, unas y las palabras de los recuadros.",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué es... 1. ... el balonmano? Es _____.",
+          "solucion_correcta": [
+            "un deporte"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué es... 2. ... Sevilla? Es _____.",
+          "solucion_correcta": [
+            "una ciudad"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué es... 3. ... Colombia? Es _____.",
+          "solucion_correcta": [
+            "un país"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué es... 4. ... una rosa? Es _____.",
+          "solucion_correcta": [
+            "una flor"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué es... 5. ... el mango? Es _____.",
+          "solucion_correcta": [
+            "una fruta"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es... 1. ... Ronaldo? Es _____.",
+          "solucion_correcta": [
+            "un futbolista"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es... 2. ... Isabel Allende? Es _____.",
+          "solucion_correcta": [
+            "una escritora"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es... 3. ... Frida Kahlo? Es _____.",
+          "solucion_correcta": [
+            "una pintora"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es... 4. ... Amenábar? Es _____.",
+          "solucion_correcta": [
+            "un director de cine"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es... 5. ... Stephen Hawking? Es _____.",
+          "solucion_correcta": [
+            "un científico"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "ciudad",
+        "deporte",
+        "flor",
+        "fruta",
+        "país",
+        "científico",
+        "escritora",
+        "director de cine",
+        "futbolista",
+        "pintora"
+      ]
+    },
+    {
+      "subejercicio": "4.3",
+      "tipologia": "T2",
+      "enunciado": "Escriba lo que hay en cada ilustración utilizando un, una, unos, unas y las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "un coche"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "unos niños"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "un hacha"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "unos libros"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "una casa"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "un gato"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "unas vacas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "unas chicas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "una televisión"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "unos árboles"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "unas gafas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "un caballo"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "árboles",
+        "caballo",
+        "casa",
+        "chicas",
+        "coche",
+        "gafas",
+        "gato",
+        "hacha",
+        "libros",
+        "niños",
+        "televisión",
+        "vacas"
+      ],
+      "contexto_grafico": {
+        "tipo": "visual_count",
+        "datos": [
+          {
+            "numero": "1",
+            "ilustracion": "un coche"
+          },
+          {
+            "numero": "2",
+            "ilustracion": "tres niños"
+          },
+          {
+            "numero": "3",
+            "ilustracion": "un hacha"
+          },
+          {
+            "numero": "4",
+            "ilustracion": "varios libros"
+          },
+          {
+            "numero": "5",
+            "ilustracion": "una casa"
+          },
+          {
+            "numero": "6",
+            "ilustracion": "un gato"
+          },
+          {
+            "numero": "7",
+            "ilustracion": "varias vacas"
+          },
+          {
+            "numero": "8",
+            "ilustracion": "varias chicas"
+          },
+          {
+            "numero": "9",
+            "ilustracion": "una televisión"
+          },
+          {
+            "numero": "10",
+            "ilustracion": "varios árboles"
+          },
+          {
+            "numero": "11",
+            "ilustracion": "unas gafas"
+          },
+          {
+            "numero": "12",
+            "ilustracion": "un caballo"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "4.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con un, una, unos, unas.",
+      "items": [
+        {
+          "texto_enunciado": "_____ melón, por favor.",
+          "solucion_correcta": [
+            "Un"
+          ]
+        },
+        {
+          "texto_enunciado": "El Orinoco es _____ río.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Cuidado, _____ serpiente!",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Mira! _____ águila.",
+          "solucion_correcta": [
+            "Un"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero _____ vaqueros, por favor.",
+          "solucion_correcta": [
+            "unos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué es eso? —Es _____ radio.",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Tienes _____ mapa de Ecuador?",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa tiene _____ hija.",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesitamos _____ tijeras.",
+          "solucion_correcta": [
+            "unas"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo _____ zapatos muy cómodos.",
+          "solucion_correcta": [
+            "unos"
+          ]
+        }
+      ]
+    }
+  ]
+}

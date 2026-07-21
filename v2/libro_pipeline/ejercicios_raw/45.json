@@ -1,0 +1,138 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "45.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con tengo, tienes... en forma afirmativa o negativa.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Julio: edad 23; hermanos —; hijos —; color de ojos marrones.",
+          "Pepa: edad 28; una hermana; 3 hijos con Jorge; color de ojos verdes.",
+          "Jorge: edad 31; hermanos —; 3 hijos con Pepa; color de ojos negros.",
+          "Margarita: edad 23; dos hermanos; hijos —; color de ojos marrones."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "PEPA: Jorge _____ treinta y un años, Julio y Margarita _____ veintitrés y yo _____ veintiocho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "JORGE: Margarita _____ dos hermanos, Pepa _____ una hermana y Julio y yo _____ hermanos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "MARGARITA: Pepa y Jorge _____ tres hijos, pero Julio y yo _____ hijos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "PEPA: Yo _____ los ojos marrones. Los _____ verdes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "JULIO: Jorge _____ los ojos negros y Margarita y yo los _____ marrones.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "45.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Escriba frases con tengo, tienes... y las palabras del recuadro.",
+      "banco_palabras": [
+        "calor",
+        "fiebre",
+        "frío",
+        "gripe",
+        "hambre",
+        "miedo",
+        "sed",
+        "sueño"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____.",
+          "estimulo_visual": "Dibujo de un hombre sediento en un paisaje desértico, bajo el sol, intentando obtener agua."
+        },
+        {
+          "texto_enunciado": "_____.",
+          "estimulo_visual": "Dibujo de dos mujeres sentadas a la mesa con platos vacíos y comida delante."
+        },
+        {
+          "texto_enunciado": "_____.",
+          "estimulo_visual": "Dibujo de un hombre sudando y secándose la frente con un pañuelo."
+        },
+        {
+          "texto_enunciado": "_____.",
+          "estimulo_visual": "Dibujo de una mujer asustada en un lugar oscuro."
+        },
+        {
+          "texto_enunciado": "No, _____. ¿_____?",
+          "estimulo_visual": "Dibujo de una mujer hablando con un hombre acostado en la cama."
+        },
+        {
+          "texto_enunciado": "_____.",
+          "estimulo_visual": "Dibujo de una persona tomando la temperatura con un termómetro a un niño acostado."
+        },
+        {
+          "texto_enunciado": "¿_____?",
+          "estimulo_visual": "Dibujo de varias personas mojadas bajo la lluvia."
+        }
+      ]
+    },
+    {
+      "subejercicio": "45.3",
+      "tipologia": "T6",
+      "tipologia_libre": null,
+      "enunciado": "Escriba frases con tengo, tienes...",
+      "items": [
+        {
+          "texto_enunciado": "usted, sueño — ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(tú) dinero — ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(nosotros) no, coche — _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ustedes, hijos — ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "mis abuelos, doce nietos — _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "usted, una casa grande — ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(vosotras) muchos amigos — ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ustedes, perro — ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(tú) un diccionario — ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "mi casa, no, ascensor — _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 45,
+  "titulo_libro": "tengo, tienes, tiene... -- Presente de indicativo de tener",
+  "scan": "libro-rojo-100.png"
+}

@@ -1,0 +1,249 @@
+{
+  "tema": "unidad-18",
+  "titulo": "mi, tu, su...",
+  "descripcion_gramatical": "Posesivos (1)",
+  "fuente": "libro",
+  "unidad_libro": 18,
+  "ejercicios": [
+    {
+      "subejercicio": "18.1",
+      "tipologia": "T2",
+      "enunciado": "Observe los árboles genealógicos y complete las frases con mi, tu, su...",
+      "items": [
+        {
+          "texto_enunciado": "ARTURO: ¿Cómo se llaman _____ padres, Blanca?",
+          "solucion_correcta": [
+            "tus"
+          ]
+        },
+        {
+          "texto_enunciado": "EMILIO: _____ hermanas se llaman Blanca y Lucía.",
+          "solucion_correcta": [
+            "Mis"
+          ]
+        },
+        {
+          "texto_enunciado": "CARLOTA: ¿Cómo se llama _____ mujer, don Carmelo?",
+          "solucion_correcta": [
+            "su"
+          ]
+        },
+        {
+          "texto_enunciado": "BLANCA Y LUCÍA: _____ abuela se llama Rosario.",
+          "solucion_correcta": [
+            "Nuestra"
+          ]
+        },
+        {
+          "texto_enunciado": "EMILIO: Arturo, Carlota, ¿cómo se llaman _____ abuelos?",
+          "solucion_correcta": [
+            "vuestros"
+          ]
+        },
+        {
+          "texto_enunciado": "ALFONSO: _____ madre se llama María.",
+          "solucion_correcta": [
+            "Mi"
+          ]
+        },
+        {
+          "texto_enunciado": "BLANCA: ¿Cómo se llama _____ tía, Arturo?",
+          "solucion_correcta": [
+            "tu"
+          ]
+        },
+        {
+          "texto_enunciado": "CARLOTA: ¿Cómo se llaman _____ hijos, don Julio?",
+          "solucion_correcta": [
+            "sus"
+          ]
+        },
+        {
+          "texto_enunciado": "CARMELO Y LUPE: _____ padres se llaman Julio y Rosario.",
+          "solucion_correcta": [
+            "Nuestros"
+          ]
+        },
+        {
+          "texto_enunciado": "ARTURO: Blanca, Lucía, ¿cómo se llama _____ madre?",
+          "solucion_correcta": [
+            "vuestra"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "family_tree",
+        "datos": [
+          {
+            "familia": "Familia Suárez",
+            "personas": [
+              "Lucas",
+              "María"
+            ],
+            "hijos": [
+              "Rosa",
+              "Begoña"
+            ]
+          },
+          {
+            "familia": "Familia Suárez",
+            "personas": [
+              "Begoña",
+              "Alfonso"
+            ],
+            "hijos": [
+              "Arturo",
+              "Carlota"
+            ]
+          },
+          {
+            "familia": "Familia Salina",
+            "personas": [
+              "Julio",
+              "Rosario"
+            ],
+            "hijos": [
+              "Carmelo",
+              "Lupe"
+            ]
+          },
+          {
+            "familia": "Familia Salina",
+            "personas": [
+              "Carmelo",
+              "Justa"
+            ],
+            "hijos": [
+              "Blanca",
+              "Lucía",
+              "Emilio"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "18.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con mi, tu, su...",
+      "items": [
+        {
+          "texto_enunciado": "—¿Cuál es _____ color preferido, Berta? —El azul.",
+          "solucion_correcta": [
+            "tu"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi hermano y yo jugamos mucho al tenis. Es _____ deporte preferido.",
+          "solucion_correcta": [
+            "nuestro"
+          ]
+        },
+        {
+          "texto_enunciado": "La señora Valverde y _____ hijas son muy agradables.",
+          "solucion_correcta": [
+            "sus"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Dónde están Sol y Rocío? —En _____ casa.",
+          "solucion_correcta": [
+            "su"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche fui al cine con _____ padre y _____ hermanos.",
+          "solucion_correcta": [
+            "mi",
+            "mis"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge, Juan, ¿dónde están _____ libros?",
+          "solucion_correcta": [
+            "vuestros"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuál es _____ comida preferida, Enrique? —La paella.",
+          "solucion_correcta": [
+            "tu"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer conocí a _____ padres, Verónica. Son muy simpáticos.",
+          "solucion_correcta": [
+            "tus"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "18.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Me estoy lavando (mi/el) pelo.",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "Átate (tus/los) zapatos.",
+          "solucion_correcta": [
+            "los"
+          ]
+        },
+        {
+          "texto_enunciado": "Rodrigo trabaja con (su/el) padre.",
+          "solucion_correcta": [
+            "Su"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenéis (vuestros/los) ojos rojos.",
+          "solucion_correcta": [
+            "los"
+          ]
+        },
+        {
+          "texto_enunciado": "(Mis/Los) tíos viven en Puerto Rico.",
+          "solucion_correcta": [
+            "Mis"
+          ]
+        },
+        {
+          "texto_enunciado": "Le di (mi/la) mano.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "(Su/La) abuela tiene 85 años.",
+          "solucion_correcta": [
+            "Su"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes una mancha en (tu/la) nariz.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Quitaos (vuestras/las) chaquetas.",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "Al señor Alfonsín se le ha estropeado (su/el) coche.",
+          "solucion_correcta": [
+            "el"
+          ]
+        }
+      ]
+    }
+  ]
+}

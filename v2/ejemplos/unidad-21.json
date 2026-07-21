@@ -1,0 +1,235 @@
+{
+  "tema": "unidad-21",
+  "titulo": "uno, otro, cualquiera",
+  "descripcion_gramatical": "Indefinidos (2)",
+  "fuente": "libro",
+  "unidad_libro": 21,
+  "ejercicios": [
+    {
+      "subejercicio": "21.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las situaciones y complete las frases con un, una... u otro, otros...",
+      "items": [
+        {
+          "texto_enunciado": "_____ tónica, por favor.",
+          "solucion_correcta": [
+            "Una"
+          ]
+        },
+        {
+          "texto_enunciado": "Deme _____ bolsa, por favor. Esta está rota.",
+          "solucion_correcta": [
+            "otra"
+          ]
+        },
+        {
+          "texto_enunciado": "Préstame _____ libro, por favor.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ tónica, por favor.",
+          "solucion_correcta": [
+            "Otra"
+          ]
+        },
+        {
+          "texto_enunciado": "Préstame _____ libros. Estos los he leído.",
+          "solucion_correcta": [
+            "otros"
+          ]
+        },
+        {
+          "texto_enunciado": "Deme _____ bolsa, por favor.",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "Tráiganos _____ cucharas, por favor. Estas están sucias.",
+          "solucion_correcta": [
+            "otras"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué rica estaba! ¿Me das _____ manzana?",
+          "solucion_correcta": [
+            "otra"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "escena": "Una mujer pide una tónica en un establecimiento."
+          },
+          {
+            "numero": "2",
+            "escena": "Una persona habla con un dependiente y señala una bolsa rota."
+          },
+          {
+            "numero": "3",
+            "escena": "Una mujer pide un libro a otra mujer delante de una estantería."
+          },
+          {
+            "numero": "4",
+            "escena": "Una mujer sostiene una botella de tónica y pide otra en un establecimiento."
+          },
+          {
+            "numero": "5",
+            "escena": "Una mujer entrega varios libros a otra mujer."
+          },
+          {
+            "numero": "6",
+            "escena": "Una persona pide una bolsa a un dependiente."
+          },
+          {
+            "numero": "7",
+            "escena": "En un restaurante, una mujer muestra unas cucharas sucias a un camarero."
+          },
+          {
+            "numero": "8",
+            "escena": "Una persona sostiene el corazón de una manzana que acaba de comer."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "21.2",
+      "tipologia": "T8",
+      "enunciado": "Utilice las expresiones del recuadro para completar las siguientes frases.",
+      "items": [
+        {
+          "texto_enunciado": "Esto lo puedes encontrar en _____ tienda.",
+          "solucion_correcta": [
+            "cualquier"
+          ]
+        },
+        {
+          "texto_enunciado": "Eso es complicado. No lo puede hacer _____ nosotros.",
+          "solucion_correcta": [
+            "cualquiera de"
+          ]
+        },
+        {
+          "texto_enunciado": "Si quieres que te ayude, ven _____ mañana. Estoy siempre libre.",
+          "solucion_correcta": [
+            "cualquier"
+          ]
+        },
+        {
+          "texto_enunciado": "Usa _____ esos ordenadores. Todos funcionan.",
+          "solucion_correcta": [
+            "cualquiera de"
+          ]
+        },
+        {
+          "texto_enunciado": "Dale una excusa _____. No le importará.",
+          "solucion_correcta": [
+            "cualquiera"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "cualquier",
+        "cualquiera",
+        "cualquiera de"
+      ]
+    },
+    {
+      "subejercicio": "21.3",
+      "tipologia": "T3",
+      "enunciado": "Escriba uno, cualquier, otro... + de cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Te gustan las galletas? Toma _____.",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "Este helado estaba riquísimo. Quiero _____.",
+          "solucion_correcta": [
+            "otro"
+          ]
+        },
+        {
+          "texto_enunciado": "Diez euros no son suficientes. Necesitamos _____ cinco.",
+          "solucion_correcta": [
+            "otros"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Dónde estabas? –Con _____ amigas.",
+          "solucion_correcta": [
+            "Unas"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer jugué al tenis con _____ tus primos.",
+          "solucion_correcta": [
+            "uno de"
+          ]
+        },
+        {
+          "texto_enunciado": "Si vienen Arnaldo y Marta al concierto necesitaremos _____ dos entradas.",
+          "solucion_correcta": [
+            "otras"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero _____ esas corbatas.",
+          "solucion_correcta": [
+            "una de"
+          ]
+        },
+        {
+          "texto_enunciado": "Han llegado _____ libros para la biblioteca.",
+          "solucion_correcta": [
+            "unos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "21.4",
+      "tipologia": "T3",
+      "enunciado": "Complete con otro, otra, otros, otras y cualquiera.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Le gustan estos zapatos? –No, enséñeme _____, por favor.",
+          "solucion_correcta": [
+            "otros"
+          ]
+        },
+        {
+          "texto_enunciado": "No es muy difícil. _____ puede hacerlo.",
+          "solucion_correcta": [
+            "Cualquiera"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué trabajo quieres hacer? –_____. Necesito trabajar.",
+          "solucion_correcta": [
+            "Cualquiera"
+          ]
+        },
+        {
+          "texto_enunciado": "He perdido el tren a Cuzco. ¿Cuándo hay _____?",
+          "solucion_correcta": [
+            "otro"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Le gustan estos plátanos? –No, déme _____. Esos están muy verdes.",
+          "solucion_correcta": [
+            "otros"
+          ]
+        }
+      ]
+    }
+  ]
+}

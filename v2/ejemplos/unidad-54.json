@@ -1,0 +1,245 @@
+{
+  "tema": "unidad-54",
+  "titulo": "me lavo / lavo",
+  "descripcion_gramatical": "Contraste entre verbos con y sin me, te, se...",
+  "fuente": "libro",
+  "unidad_libro": 54,
+  "ejercicios": [
+    {
+      "subejercicio": "54.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Raúl _____ coches.",
+          "solucion_correcta": [
+            "lava"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre _____ la camisa.",
+          "solucion_correcta": [
+            "me mancho"
+          ]
+        },
+        {
+          "texto_enunciado": "María _____ a los niños a las ocho.",
+          "solucion_correcta": [
+            "despierta"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ a los niños todas las noches.",
+          "solucion_correcta": [
+            "Baño"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ los dientes antes de acostarme.",
+          "solucion_correcta": [
+            "Me lavo"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucas _____ mucho los cuadernos.",
+          "solucion_correcta": [
+            "mancha"
+          ]
+        },
+        {
+          "texto_enunciado": "En verano _____ en el mar.",
+          "solucion_correcta": [
+            "nos bañamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Los domingos _____ tarde.",
+          "solucion_correcta": [
+            "me despierto"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "bañar",
+        "bañarse",
+        "despertar",
+        "despertarse",
+        "lavar",
+        "lavarse",
+        "manchar",
+        "mancharse"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Raúl lava coches."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un hombre come espaguetis y se mancha la camisa."
+          },
+          {
+            "numero": "3",
+            "descripcion": "María despierta a los niños en la cama."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre baña a los niños."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una persona se lava los dientes."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Lucas mancha los cuadernos."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Unas personas se bañan en el mar."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Una mujer se despierta tarde."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "54.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Felipe _____ viendo la tele.",
+          "solucion_correcta": [
+            "se aburre"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo) _____ las manos antes de las comidas.",
+          "solucion_correcta": [
+            "Me lavo"
+          ]
+        },
+        {
+          "texto_enunciado": "Clara _____ a los niños después de desayunar y después _____ ella.",
+          "solucion_correcta": [
+            "viste",
+            "se viste"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo) _____ muy tarde los sábados por la noche.",
+          "solucion_correcta": [
+            "Me acuesto"
+          ]
+        },
+        {
+          "texto_enunciado": "Alicia _____ las blusas a mano.",
+          "solucion_correcta": [
+            "lava"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan _____ a sus hijos a las diez de la noche.",
+          "solucion_correcta": [
+            "acuesta"
+          ]
+        },
+        {
+          "texto_enunciado": "Miguel _____ mucho en el espejo.",
+          "solucion_correcta": [
+            "se mira"
+          ]
+        },
+        {
+          "texto_enunciado": "Los payasos _____ a los niños.",
+          "solucion_correcta": [
+            "divierten"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "aburrirse",
+        "acostar",
+        "acostarse",
+        "divertir",
+        "lavar",
+        "lavarse",
+        "mirarse",
+        "vestir",
+        "vestirse"
+      ]
+    },
+    {
+      "subejercicio": "54.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "(Llamo/Me llamo) Andrés.",
+          "solucion_correcta": [
+            "Me llamo"
+          ]
+        },
+        {
+          "texto_enunciado": "Tania siempre (despide/se despide) con un beso.",
+          "solucion_correcta": [
+            "se despide"
+          ]
+        },
+        {
+          "texto_enunciado": "¿A quién (pareces/te pareces), a tu padre o a tu madre?",
+          "solucion_correcta": [
+            "te pareces"
+          ]
+        },
+        {
+          "texto_enunciado": "(Vamos/Nos vamos) al cine dos veces al mes.",
+          "solucion_correcta": [
+            "Vamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Rita (parece/se parece) muy amable.",
+          "solucion_correcta": [
+            "parece"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Hasta luego! (Vamos/Nos vamos) al cine.",
+          "solucion_correcta": [
+            "Nos vamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche (encontré/me encontré) con Marina en la discoteca.",
+          "solucion_correcta": [
+            "me encontré"
+          ]
+        },
+        {
+          "texto_enunciado": "No (encuentro/me encuentro) mis gafas.",
+          "solucion_correcta": [
+            "encuentro"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuántas horas (duermes/te duermes) al día?",
+          "solucion_correcta": [
+            "duermes"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre (dejo/me dejo) las llaves en casa.",
+          "solucion_correcta": [
+            "me dejo"
+          ]
+        }
+      ]
+    }
+  ]
+}

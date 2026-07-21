@@ -1,0 +1,139 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "65.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Ayer a las 6 de la tarde hubo un accidente en un cruce de calles. La policía preguntó a varios testigos. Observe las ilustraciones y escriba sus respuestas. Utilice las expresiones del recuadro.",
+      "banco_palabras": [
+        "aparcar",
+        "comprar el periódico",
+        "cruzar la calle",
+        "echar una carta",
+        "esperar el autobús",
+        "hablar por teléfono",
+        "leer el periódico",
+        "mirar un escaparate"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "nombre": "Ricardo",
+            "hora": "12.10",
+            "descripcion": "Ricardo está ante un quiosco con un periódico."
+          },
+          {
+            "numero": "2",
+            "nombre": "Mar",
+            "hora": "12.10",
+            "descripcion": "Mar y su novio están en una parada de autobús."
+          },
+          {
+            "numero": "3",
+            "nombre": "Samuel",
+            "hora": "12.10",
+            "descripcion": "Samuel está leyendo un periódico y su novia mira un escaparate."
+          },
+          {
+            "numero": "4",
+            "nombre": "Sr. Márquez",
+            "hora": "12.10",
+            "descripcion": "El Sr. Márquez y su mujer están junto a un buzón."
+          },
+          {
+            "numero": "5",
+            "nombre": "Tomás",
+            "hora": "12.10",
+            "descripcion": "Tomás está cruzando la calle."
+          },
+          {
+            "numero": "6",
+            "nombre": "Maite",
+            "hora": "12.10",
+            "descripcion": "Maite habla por teléfono mientras sus padres están en un coche."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "RICARDO: No vi nada. En ese momento _____."
+        },
+        {
+          "texto_enunciado": "MAR: Mi novio y yo lo vimos todo. _____."
+        },
+        {
+          "texto_enunciado": "SAMUEL: Mi novia y yo no vimos nada. Ella _____ y yo _____."
+        },
+        {
+          "texto_enunciado": "SR. MÁRQUEZ: Mi mujer y yo no vimos nada. _____."
+        },
+        {
+          "texto_enunciado": "TOMÁS: Lo vi todo. En ese momento _____."
+        },
+        {
+          "texto_enunciado": "MAITE: No vimos nada. Mis padres _____ y yo _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "65.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con estaba + gerundio o el pretérito indefinido.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando me (ver) _____ Sofía, (hablar) _____ con unas amigas."
+        },
+        {
+          "texto_enunciado": "¿Qué (tú, hacer) _____ cuando (apagarse) _____ la luz."
+        },
+        {
+          "texto_enunciado": "La clase (empezar) _____ cuando (nosotros, llegar) _____."
+        },
+        {
+          "texto_enunciado": "¿(Nevar) _____ cuando (usted, salir) _____?"
+        },
+        {
+          "texto_enunciado": "Pedrito (caerse) _____ y (romperse) _____ una pierna cuando (jugar) _____ al fútbol."
+        },
+        {
+          "texto_enunciado": "(Yo, ducharse) _____ cuando (sonar) _____ el teléfono."
+        },
+        {
+          "texto_enunciado": "Cuando (llegar) _____ el jefe, (irse) _____ Fina y Celia."
+        }
+      ]
+    },
+    {
+      "subejercicio": "65.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Qué te (pasaba/estaba pasando) anoche? —(Tenía/Estaba teniendo) mucho sueño."
+        },
+        {
+          "texto_enunciado": "¿Adónde (ibas/estabas yendo) ayer cuando te vio Tere?"
+        },
+        {
+          "texto_enunciado": "—¿Dónde estaban tus hermanas la semana pasada? —(Viajaban/Estaban viajando) por Argentina."
+        },
+        {
+          "texto_enunciado": "Cuando nos encontramos con Nacho, (llevaba/estaba llevando) un poncho chileno muy bonito. (Parecía/Estaba pareciendo) un mapuche."
+        },
+        {
+          "texto_enunciado": "¿De dónde (venían/estaban viniendo) cuando tuvieron el accidente?"
+        },
+        {
+          "texto_enunciado": "Fui a ver a Anita porque (necesitaba/estaba necesitando) su ayuda."
+        }
+      ]
+    }
+  ],
+  "unidad": 65,
+  "titulo_libro": "estaba trabajando / trabajé -- estaba + gerundio y contraste con el pretérito indefinido",
+  "scan": "libro-rojo-140.png"
+}

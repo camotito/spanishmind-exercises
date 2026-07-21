@@ -1,0 +1,158 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "91.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las condiciones con las expresiones del recuadro en forma afirmativa o negativa.",
+      "banco_palabras": [
+        "encontrar piso",
+        "encontrarse mal",
+        "estar aburrida",
+        "hacer buen tiempo",
+        "poder conducir",
+        "tener sed",
+        "venir a clase"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____, no aprenderás."
+        },
+        {
+          "texto_enunciado": "_____ mañana, haremos una excursión."
+        },
+        {
+          "texto_enunciado": "_____, beban algo."
+        },
+        {
+          "texto_enunciado": "_____, nos casamos."
+        },
+        {
+          "texto_enunciado": "_____, llama a Dolores."
+        },
+        {
+          "texto_enunciado": "(yo) _____, ¿quién lo hará?"
+        },
+        {
+          "texto_enunciado": "_____, ve al médico."
+        }
+      ],
+      "tipologia_libre_original": "Completar condiciones con expresiones de un banco, conjugándolas en forma afirmativa o negativa."
+    },
+    {
+      "subejercicio": "91.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las consecuencias del recuadro en forma afirmativa o negativa.",
+      "banco_palabras": [
+        "casarse",
+        "dar calambre",
+        "descansar",
+        "enfadarse",
+        "morirse",
+        "preocuparse",
+        "sentirse bien",
+        "tener que andar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Tranquilos. Si os cansáis, _____."
+        },
+        {
+          "texto_enunciado": "Si Elisa me dice que sí, _____."
+        },
+        {
+          "texto_enunciado": "Tienes que cuidar las plantas. Si no las riegas, _____."
+        },
+        {
+          "texto_enunciado": "Si perdemos el autobús, _____."
+        },
+        {
+          "texto_enunciado": "No he dormido mucho y si no duermo ocho horas, _____."
+        },
+        {
+          "texto_enunciado": "Si no visitamos a los Echevarría cuando vayamos a México, _____."
+        },
+        {
+          "texto_enunciado": "Tengo mucho trabajo, Alfonso. _____ si llego tarde."
+        },
+        {
+          "texto_enunciado": "¡No toques eso! Si lo tocas, te _____."
+        }
+      ],
+      "tipologia_libre_original": "Completar consecuencias con expresiones de un banco, conjugándolas en forma afirmativa o negativa."
+    },
+    {
+      "subejercicio": "91.3",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Una condiciones y consecuencias mediante frases con si.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Condición: Ganar este partido (Ríos). Consecuencia: pasar a la final (él).",
+          "Condición: No hacer buen tiempo. Consecuencia: quedarse en casa (ellos).",
+          "Condición: No correr (tú). Consecuencia: perder el autobús (tú).",
+          "Condición: Portarse bien (vosotros). Consecuencia: compraros un helado (yo).",
+          "Condición: No estar (Alberto). Consecuencia: volver más tarde (nosotros).",
+          "Condición: Comerse esa fruta (ustedes). Consecuencia: ponerse malos (ustedes).",
+          "Condición: Enfadarse (tú). Consecuencia: irse (yo)."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        }
+      ],
+      "tipologia_libre_original": "Relacionar cada condición y su consecuencia presentadas por parejas en una tabla y escribir una frase completa con si."
+    },
+    {
+      "subejercicio": "91.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con los verbos dados.",
+      "banco_palabras": [
+        "decir",
+        "decir",
+        "ver",
+        "ver",
+        "dormir",
+        "fregar",
+        "preparar",
+        "querer",
+        "tener",
+        "tomar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "—A lo mejor veo a Vera el domingo.\n—Si la _____, _____le que me llame.\n—No te preocupes. Se lo _____ si la _____."
+        },
+        {
+          "texto_enunciado": "—Bueno, chicos, si _____ que prepare café, _____ que ayudarme a recoger la mesa y fregar los platos.\n—Por supuesto. Nosotros lo hacemos siempre así. Si Elisa _____ la cena, yo _____ los platos.\n—Yo no quiero café. Si _____ café a estas horas, no _____."
+        }
+      ],
+      "tipologia_libre_original": "Completar diálogos conjugando los verbos dados en los recuadros correspondientes."
+    }
+  ],
+  "unidad": 91,
+  "titulo_libro": "Si ganan serán campeones -- Condicionales (1)",
+  "scan": "libro-rojo-192.png"
+}

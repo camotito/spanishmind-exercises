@@ -1,0 +1,237 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "25.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba los siguientes números con palabras.",
+      "items": [
+        {
+          "texto_enunciado": "1. (21 euros) _____"
+        },
+        {
+          "texto_enunciado": "2. (10 de enero) _____"
+        },
+        {
+          "texto_enunciado": "3. (31 días) _____"
+        },
+        {
+          "texto_enunciado": "4. (49 kilos) _____"
+        },
+        {
+          "texto_enunciado": "5. (15 de diciembre) _____"
+        },
+        {
+          "texto_enunciado": "6. (88 centímetros) _____"
+        },
+        {
+          "texto_enunciado": "7. (31 aulas) _____"
+        },
+        {
+          "texto_enunciado": "8. (28 de febrero) _____"
+        },
+        {
+          "texto_enunciado": "9. (25 años) _____"
+        },
+        {
+          "texto_enunciado": "10. (61 semanas) _____"
+        },
+        {
+          "texto_enunciado": "11. (1 de mayo) _____"
+        },
+        {
+          "texto_enunciado": "12. (45 kilómetros) _____"
+        },
+        {
+          "texto_enunciado": "13. (34 metros) _____"
+        },
+        {
+          "texto_enunciado": "14. (53 años) _____"
+        },
+        {
+          "texto_enunciado": "15. (92 kilos) _____"
+        },
+        {
+          "texto_enunciado": "16. (21 alumnas) _____"
+        },
+        {
+          "texto_enunciado": "17. (5 de agosto) _____"
+        },
+        {
+          "texto_enunciado": "18. (11 alumnos) _____"
+        },
+        {
+          "texto_enunciado": "19. (76 años) _____"
+        },
+        {
+          "texto_enunciado": "20. (51 libras) _____"
+        }
+      ]
+    },
+    {
+      "subejercicio": "25.2",
+      "tipologia": "T6",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué hora es? Observe y anote.",
+      "contexto_grafico": {
+        "tipo": "clocks",
+        "datos": [
+          {
+            "numero": "1",
+            "tipo_reloj": "analógico",
+            "hora": "3:20"
+          },
+          {
+            "numero": "2",
+            "tipo_reloj": "analógico",
+            "hora": "12:15"
+          },
+          {
+            "numero": "3",
+            "tipo_reloj": "analógico",
+            "hora": "9:30"
+          },
+          {
+            "numero": "4",
+            "tipo_reloj": "analógico",
+            "hora": "5:45"
+          },
+          {
+            "numero": "5",
+            "tipo_reloj": "analógico",
+            "hora": "11:35"
+          },
+          {
+            "numero": "6",
+            "tipo_reloj": "digital",
+            "hora": "8:15"
+          },
+          {
+            "numero": "7",
+            "tipo_reloj": "digital",
+            "hora": "9:00"
+          },
+          {
+            "numero": "8",
+            "tipo_reloj": "digital",
+            "hora": "21:20"
+          },
+          {
+            "numero": "9",
+            "tipo_reloj": "digital",
+            "hora": "12:37"
+          },
+          {
+            "numero": "10",
+            "tipo_reloj": "digital",
+            "hora": "18:52"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____"
+        },
+        {
+          "texto_enunciado": "2. _____"
+        },
+        {
+          "texto_enunciado": "3. _____"
+        },
+        {
+          "texto_enunciado": "4. _____"
+        },
+        {
+          "texto_enunciado": "5. _____"
+        },
+        {
+          "texto_enunciado": "6. _____"
+        },
+        {
+          "texto_enunciado": "7. _____"
+        },
+        {
+          "texto_enunciado": "8. _____"
+        },
+        {
+          "texto_enunciado": "9. _____"
+        },
+        {
+          "texto_enunciado": "10. _____"
+        }
+      ]
+    },
+    {
+      "subejercicio": "25.3",
+      "tipologia": "T6",
+      "tipologia_libre": null,
+      "enunciado": "Escriba los números de teléfono como en el ejemplo.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "nombre": "Pilar",
+            "telefono": "935478902"
+          },
+          {
+            "nombre": "Elvira",
+            "telefono": "92 478 90 16"
+          },
+          {
+            "nombre": "Tomás",
+            "telefono": "512 02 16"
+          },
+          {
+            "nombre": "José Luis",
+            "telefono": "91 4643358"
+          },
+          {
+            "nombre": "Antonia",
+            "telefono": "96 3526361"
+          },
+          {
+            "nombre": "Virginia",
+            "telefono": "(01) 823-7192"
+          },
+          {
+            "nombre": "Ramón",
+            "telefono": "5543 1298"
+          },
+          {
+            "nombre": "Alicia",
+            "telefono": "650 22 3459"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____"
+        },
+        {
+          "texto_enunciado": "2. _____"
+        },
+        {
+          "texto_enunciado": "3. _____"
+        },
+        {
+          "texto_enunciado": "4. _____"
+        },
+        {
+          "texto_enunciado": "5. _____"
+        },
+        {
+          "texto_enunciado": "6. _____"
+        },
+        {
+          "texto_enunciado": "7. _____"
+        },
+        {
+          "texto_enunciado": "8. _____"
+        }
+      ]
+    }
+  ],
+  "unidad": 25,
+  "titulo_libro": "uno, dos, tres... -- Números cardinales (1)",
+  "scan": "libro-rojo-060.png"
+}

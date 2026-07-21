@@ -1,0 +1,163 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "3.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba el plural de los siguientes nombres.",
+      "items": [
+        {
+          "texto_enunciado": "1. (mujer) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "2. (pez) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "3. (autobús) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "4. (actriz) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "5. (habitación) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "6. (mamá) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "7. (pantalones) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "8. (hotel) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "9. (universidad) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "10. (televisión) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "11. (niño) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "12. (hermana) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "13. (león) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "14. (día) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "15. (clase) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "16. (foto) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "17. (banana) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "18. (jueves) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "3.2",
+      "tipologia": "T15",
+      "tipologia_libre": null,
+      "enunciado": "Continúe la descripción indicando los objetos que aparecen en el dibujo.",
+      "banco_palabras": [
+        "botella",
+        "gafas",
+        "lámpara",
+        "lápiz",
+        "libro",
+        "mesa",
+        "postal",
+        "silla",
+        "tijeras",
+        "vaso"
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Dibujo de una mesa rodeada de sillas.",
+          "Sobre la mesa aparecen libros, vasos, botellas, una lámpara, lápices, una postal, gafas y tijeras.",
+          "Fórmula de inicio de la descripción: «En el dibujo hay...»."
+        ]
+      },
+      "items": [],
+      "tipologia_libre_original": "Enumeración abierta a partir de un dibujo compartido. Bajo la fórmula «En el dibujo hay...» aparecen diez líneas de respuesta distribuidas en dos columnas de cinco. La primera línea de cada columna está resuelta como modelo: «1 mesa» y «2 botellas»; quedan ocho líneas vacías para continuar la descripción usando las palabras del banco y las cantidades observadas en el dibujo."
+    },
+    {
+      "subejercicio": "3.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya las palabras subrayadas como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "1. Amalia tiene <u>un hijo y dos hijas</u>. Amalia tiene tres _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "2. <u>El abuelo y la abuela</u> de Marta viven en Caracas. Los _____ de Marta viven en Caracas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "3. <u>Un amigo y una amiga</u> míos están en Chile. Dos _____ míos están en Chile.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "4. <u>Mi hermano y mi hermana</u> son médicos. Mis _____ son médicos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "5. <u>Mi padre y mi madre</u> son muy altos. Mis _____ son muy altos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "6. <u>El rey y la reina</u> de España viven en Madrid. Los _____ de España viven en Madrid.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "7. En mi clase hay <u>tres alumnos y cinco alumnas</u>. En mi clase hay ocho _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "8. En mi escuela hay <u>un profesor y dos profesoras</u>. En mi escuela hay tres _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "9. He mandado un correo electrónico <u>a mi tío y a mi tía</u>. He mandado un correo electrónico a mis _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "10. Es una compañía de ballet con <u>un bailarín y dos bailarinas</u>. Es una compañía de ballet con tres _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 3,
+  "titulo_libro": "libro, libros -- Singular, plural",
+  "scan": "libro-rojo-016.png"
+}

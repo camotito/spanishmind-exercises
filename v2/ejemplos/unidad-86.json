@@ -1,0 +1,223 @@
+{
+  "tema": "unidad-86",
+  "titulo": "Me gusta que venga a casa",
+  "descripcion_gramatical": "Expresión de emociones, sentimientos y valoraciones",
+  "fuente": "libro",
+  "unidad_libro": 86,
+  "ejercicios": [
+    {
+      "subejercicio": "86.1",
+      "tipologia": "T10",
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Tomás baila tangos. Le encanta. _____",
+          "solucion_correcta": [
+            "A Tomás le encanta bailar tangos"
+          ]
+        },
+        {
+          "texto_enunciado": "Trabajo diez horas todos los días. Estoy harto. _____",
+          "solucion_correcta": [
+            "Estoy harto de trabajar diez horas todos los días"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa e Iván se van a casar. Nos alegramos. _____",
+          "solucion_correcta": [
+            "Nos alegramos de que Rosa e Iván se vayan a casar"
+          ]
+        },
+        {
+          "texto_enunciado": "Rodri está siempre gastando bromas. Me molesta. _____",
+          "solucion_correcta": [
+            "Me molesta que Rodri esté siempre gastando bromas"
+          ]
+        },
+        {
+          "texto_enunciado": "Tus amigos te ayudan cuando lo necesitas. Te encanta. _____",
+          "solucion_correcta": [
+            "Te encanta que tus amigos te ayuden cuando lo necesitas"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana no voy al partido. Me fastidia. _____",
+          "solucion_correcta": [
+            "Me fastidia no ir mañana al partido"
+          ]
+        },
+        {
+          "texto_enunciado": "Rubén no tiene amigos. Me preocupa. _____",
+          "solucion_correcta": [
+            "Me preocupa que Rubén no tenga amigos"
+          ]
+        },
+        {
+          "texto_enunciado": "Carlos es profesor de informática. Me sorprende. _____",
+          "solucion_correcta": [
+            "Me sorprende que Carlos sea profesor de matemáticas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.2",
+      "tipologia": "T3",
+      "enunciado": "Complete los diálogos.",
+      "items": [
+        {
+          "texto_enunciado": "—Teresa llamó muy tarde anoche. —Me extraña que _____. Se suele acostar temprano.",
+          "solucion_correcta": [
+            "llamara tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "—Benito dice que quiere estudiar Económicas. —Nos encantaría que _____.",
+          "solucion_correcta": [
+            "estudiara Económicas"
+          ]
+        },
+        {
+          "texto_enunciado": "—Andrés se portó bien ayer. —Sí, me sorprendió que _____.",
+          "solucion_correcta": [
+            "se portara bien"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Crees que Lola estará en casa? —Me extrañaría que _____. Se fue hace dos días.",
+          "solucion_correcta": [
+            "estuviera en casa"
+          ]
+        },
+        {
+          "texto_enunciado": "—Elsa cantó bien anoche. —Sí, nos sorprendió que _____.",
+          "solucion_correcta": [
+            "cantara bien"
+          ]
+        },
+        {
+          "texto_enunciado": "—A Enrique le encantó verte ayer. —Yo también me alegré de _____.",
+          "solucion_correcta": [
+            "verlo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Llegó Juan a tiempo? —Sí, tenía miedo de que no _____, pero al final vino.",
+          "solucion_correcta": [
+            "llegara"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.3",
+      "tipologia": "T10",
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Lupe prefiere ir a México. Es lógico. _____",
+          "solucion_correcta": [
+            "Es lógico que Lupe prefiera ir a México"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que ser amable con los demás. Es importante. _____",
+          "solucion_correcta": [
+            "Es importante ser amable con los demás"
+          ]
+        },
+        {
+          "texto_enunciado": "Sofía sabe hablar cinco idiomas. Es maravilloso. _____",
+          "solucion_correcta": [
+            "Es maravilloso que Sofía sepa hablar cinco idiomas"
+          ]
+        },
+        {
+          "texto_enunciado": "No pudimos ver la exposición de Guayasamín. Fue una pena. _____",
+          "solucion_correcta": [
+            "Fue una pena que no pudiéramos ver la exposición de Guayasamín"
+          ]
+        },
+        {
+          "texto_enunciado": "Patricia decidió regresar a Ecuador. Es comprensible. _____",
+          "solucion_correcta": [
+            "Es comprensible que Patricia decidiera regresar a Ecuador"
+          ]
+        },
+        {
+          "texto_enunciado": "Mucha gente pasa hambre. Me parece un escándalo. _____",
+          "solucion_correcta": [
+            "Me parece un escándalo que mucha gente pase hambre"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que aprender idiomas. Es importante. _____",
+          "solucion_correcta": [
+            "Es importante aprender idiomas"
+          ]
+        },
+        {
+          "texto_enunciado": "Asunción no quiere estudiar. Es una lástima. _____",
+          "solucion_correcta": [
+            "Es una lástima que Asunción no quiera estudiar"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que ser educado. Es bueno. _____",
+          "solucion_correcta": [
+            "Es bueno ser educado"
+          ]
+        },
+        {
+          "texto_enunciado": "De pequeño no me gustaba madrugar. Es normal. _____",
+          "solucion_correcta": [
+            "Es normal que de pequeño no me gustara madrugar"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.4",
+      "tipologia": "T12",
+      "enunciado": "Está comentando algunos aspectos de un país que está visitando. Escriba frases como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "No hay supermercados. Me asombra _____.",
+          "solucion_correcta": [
+            "que no haya supermercados"
+          ]
+        },
+        {
+          "texto_enunciado": "Los hombres hacen las labores del hogar. Me parece curioso _____.",
+          "solucion_correcta": [
+            "que los hombres hagan las labores del hogar"
+          ]
+        },
+        {
+          "texto_enunciado": "Todo el transporte es público. Me parece bien _____.",
+          "solucion_correcta": [
+            "que todo el transporte sea público"
+          ]
+        },
+        {
+          "texto_enunciado": "Las mujeres son más altas que los hombres. Me llama la atención _____.",
+          "solucion_correcta": [
+            "que las mujeres sean más altas que los hombres"
+          ]
+        },
+        {
+          "texto_enunciado": "Los hombres solteros no pueden salir solos. Me parece mal _____.",
+          "solucion_correcta": [
+            "que los hombres solteros no puedan salir solos"
+          ]
+        },
+        {
+          "texto_enunciado": "Solo las niñas van a la escuela. Me parece una vergüenza _____.",
+          "solucion_correcta": [
+            "que solo las niñas vayan a la escuela"
+          ]
+        }
+      ]
+    }
+  ]
+}

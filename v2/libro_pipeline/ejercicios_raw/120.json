@@ -1,0 +1,157 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "120.1",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Una las opciones de las dos columnas de manera correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo que trabajar",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elena tiene que trabajar",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenemos que comer patatas",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tendréis que comer la sopa",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me podré comprar esa casa",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me puedo comprar un coche",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algo te sentó mal",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta comida te puede sentar mal",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Ejercicio de emparejamiento entre dos columnas. La columna izquierda contiene ocho comienzos de oración: «Tengo que trabajar», «Elena tiene que trabajar», «Tenemos que comer patatas», «Tendréis que comer la sopa», «No me podré comprar esa casa», «No me puedo comprar un coche», «Algo te sentó mal» y «Esta comida te puede sentar mal». Cada uno debe unirse con una opción distinta de la columna derecha: a. «aunque no os apetezca mucho.»; b. «por mucho que ahorre.»; c. «aunque comieras poco.»; d. «a pesar de no tener muchas ganas.»; e. «a pesar de que no tiene muchas ganas.»; f. «aunque comas poco.»; g. «aunque no nos apetece mucho.»; h. «por mucho que ahorro.». El primer emparejamiento aparece trazado como ejemplo."
+    },
+    {
+      "subejercicio": "120.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Aunque me (llamar) _____ Roberto, no le contestaré.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A pesar de (trabajar) _____ mucho, ganamos poco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por mucho que (correr) _____, llegaréis tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque hoy (levantarse) _____ tarde, tengo sueño.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A pesar de (jugar) _____ bien, perdieron el partido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo frío a pesar de que (hacer) _____ sol.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque normalmente (ir) _____ andando, hoy prefiero ir en autobús.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por más que (gritar) _____, no les van a oír.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque (hacer) _____ muy buen tiempo, no pudimos bañarnos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A pesar de que (llover) _____ intensamente, tuvimos que jugar el partido.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "120.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Escriba frases con las ideas dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Estuvimos en Escocia en julio. Hizo muy mal tiempo, pero lo pasamos muy bien. Aunque _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé si Mariana come mucho, pero no creo que engorde. A pesar de que _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé si Arturo va a esperar mucho a Amelia, pero no creo que venga. Por mucho que _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Normalmente duermo mucho, pero estoy siempre cansado. A pesar de _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé si anoche era muy tarde. Me molestó que me despertaran. Aunque no _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé si Silvio madrugó mucho ayer. Llegó tarde al trabajo. Por mucho que _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Reformulación pautada de ideas. Cada ítem presenta una o dos oraciones con una relación concesiva expresada mediante «pero» o mediante dos enunciados separados. Debajo aparece el comienzo de una nueva frase con «Aunque», «A pesar de que», «A pesar de» o «Por mucho que», y el alumno debe completar la reformulación."
+    },
+    {
+      "subejercicio": "120.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete utilizando frases con aunque.",
+      "items": [
+        {
+          "texto_enunciado": "—No quiero ir al cole. —_____, irás.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—No salgas. Está lloviendo. —_____, tengo que salir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—No queremos hacer este ejercicio. —_____, debéis hacerlo. Es útil.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—No les gusta el pescado. —_____, tendrán que comerlo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—Dice que no sale, que hace frío. —_____, tiene que salir.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 120,
+  "titulo_libro": "aunque, a pesar de que... -- Oraciones concesivas",
+  "scan": "libro-rojo-250.png"
+}

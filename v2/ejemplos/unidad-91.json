@@ -1,0 +1,232 @@
+{
+  "tema": "unidad-91",
+  "titulo": "Si ganan serán campeones",
+  "descripcion_gramatical": "Condicionales (1)",
+  "fuente": "libro",
+  "unidad_libro": 91,
+  "ejercicios": [
+    {
+      "subejercicio": "91.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las condiciones con las expresiones del recuadro en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "_____, no aprenderás.",
+          "solucion_correcta": [
+            "Si no vienes a clase"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ mañana, haremos una excursión.",
+          "solucion_correcta": [
+            "Si hace buen tiempo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, beban algo.",
+          "solucion_correcta": [
+            "Si tienen sed"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, nos casamos.",
+          "solucion_correcta": [
+            "Si encontramos piso"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, llama a Dolores.",
+          "solucion_correcta": [
+            "Si te aburres"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo) _____, ¿quién lo hará?",
+          "solucion_correcta": [
+            "Si no puedo conducir"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, ve al médico.",
+          "solucion_correcta": [
+            "Si te encuentras mal"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "encontrar piso",
+        "encontrarse mal",
+        "estar aburrida",
+        "hacer buen tiempo",
+        "poder conducir",
+        "tener sed",
+        "venir a clase"
+      ]
+    },
+    {
+      "subejercicio": "91.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con las consecuencias del recuadro en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Tranquilos. Si os cansáis, _____.",
+          "solucion_correcta": [
+            "descansa"
+          ]
+        },
+        {
+          "texto_enunciado": "Si Elisa me dice que sí, _____.",
+          "solucion_correcta": [
+            "nos casamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes que cuidar las plantas. Si no las riegas, _____.",
+          "solucion_correcta": [
+            "se morirán"
+          ]
+        },
+        {
+          "texto_enunciado": "Si perdemos el autobús, _____.",
+          "solucion_correcta": [
+            "tendremos que andar"
+          ]
+        },
+        {
+          "texto_enunciado": "No he dormido mucho y si no duermo ocho horas, _____.",
+          "solucion_correcta": [
+            "no me siento bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Si no visitamos a los Echevarría cuando vayamos a México, _____.",
+          "solucion_correcta": [
+            "se enfadarán"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo mucho trabajo, Alfonso. _____ si llego tarde.",
+          "solucion_correcta": [
+            "No te preocupes"
+          ]
+        },
+        {
+          "texto_enunciado": "¡No toques eso! Si lo tocas, te _____.",
+          "solucion_correcta": [
+            "dará calambre"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "casarse",
+        "dar calambre",
+        "descansar",
+        "enfadarse",
+        "morirse",
+        "preocuparse",
+        "sentirse bien",
+        "tener que andar"
+      ]
+    },
+    {
+      "subejercicio": "91.3",
+      "tipologia": "T13",
+      "enunciado": "Una condiciones y consecuencias mediante frases con si.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Si Ríos gana este partido, pasa a la final"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Si no hace buen tiempo, se quedarán en casa"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Si no corres, perderás el autobús"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Si os portáis bien, os compro/compraré un helado"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Si no está Alberto, volveremos más tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Si se comen esa fruta, se pondrán malos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Si te enfadas, me voy"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Condición: Ganar este partido (Ríos). Consecuencia: pasar a la final (él).",
+          "Condición: No hacer buen tiempo. Consecuencia: quedarse en casa (ellos).",
+          "Condición: No correr (tú). Consecuencia: perder el autobús (tú).",
+          "Condición: Portarse bien (vosotros). Consecuencia: compraros un helado (yo).",
+          "Condición: No estar (Alberto). Consecuencia: volver más tarde (nosotros).",
+          "Condición: Comerse esa fruta (ustedes). Consecuencia: ponerse malos (ustedes).",
+          "Condición: Enfadarse (tú). Consecuencia: irse (yo)."
+        ]
+      }
+    },
+    {
+      "subejercicio": "91.4",
+      "tipologia": "T8",
+      "enunciado": "Complete los diálogos con los verbos dados.",
+      "items": [
+        {
+          "texto_enunciado": "—A lo mejor veo a Vera el domingo.\n—Si la _____, _____le que me llame.\n—No te preocupes. Se lo _____ si la _____.",
+          "solucion_correcta": [
+            "ves",
+            "di",
+            "diré",
+            "veo"
+          ]
+        },
+        {
+          "texto_enunciado": "—Bueno, chicos, si _____ que prepare café, _____ que ayudarme a recoger la mesa y fregar los platos.\n—Por supuesto. Nosotros lo hacemos siempre así. Si Elisa _____ la cena, yo _____ los platos.\n—Yo no quiero café. Si _____ café a estas horas, no _____.",
+          "solucion_correcta": [
+            "queréis",
+            "tendréis/tenéis",
+            "prepara",
+            "friego",
+            "tomo",
+            "duermo"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "decir",
+        "decir",
+        "ver",
+        "ver",
+        "dormir",
+        "fregar",
+        "preparar",
+        "querer",
+        "tener",
+        "tomar"
+      ]
+    }
+  ]
+}

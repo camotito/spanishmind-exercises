@@ -1,0 +1,217 @@
+{
+  "tema": "unidad-32",
+  "titulo": "¿cuándo?, ¿dónde?...",
+  "descripcion_gramatical": "Interrogativos (3)",
+  "fuente": "libro",
+  "unidad_libro": 32,
+  "ejercicios": [
+    {
+      "subejercicio": "32.1",
+      "tipologia": "T9",
+      "enunciado": "Ordene las palabras para formar frases.",
+      "items": [
+        {
+          "texto_enunciado": "—¿en Santander / cuándo / hasta / vais a estar? _____",
+          "solucion_correcta": [
+            "¿Hasta cuándo vais a estar en Santander?"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿a Brasil / cómo / Javier / fue? _____",
+          "solucion_correcta": [
+            "¿Cómo fue Javier a Brasil?"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿los niños / lloran / por qué? _____",
+          "solucion_correcta": [
+            "¿Por qué lloran los niños?"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿trabaja / Sebastián / dónde? _____",
+          "solucion_correcta": [
+            "¿Dónde trabaja Sebastián?"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿este botón / para qué / sirve? _____",
+          "solucion_correcta": [
+            "¿Para qué sirve este botón?"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿dónde / Peter / de / es? _____",
+          "solucion_correcta": [
+            "¿De dónde es Peter?"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿la comida / para / es / cuántos? _____",
+          "solucion_correcta": [
+            "¿Para cuántos es la comida?"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿están / los enfermos / cómo? _____",
+          "solucion_correcta": [
+            "¿Cómo están los enfermos?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.2",
+      "tipologia": "T3",
+      "enunciado": "Formule preguntas sobre la información marcada en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "—El año pasado estuve en Antigua. —¿_____ estuviste en Antigua?",
+          "solucion_correcta": [
+            "Cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "—El domingo vamos a ir al campo. —¿_____ vais a ir el domingo?",
+          "solucion_correcta": [
+            "Adónde"
+          ]
+        },
+        {
+          "texto_enunciado": "—El novio de Carla es muy agradable. —¿_____ es el novio de Carla?",
+          "solucion_correcta": [
+            "Cómo"
+          ]
+        },
+        {
+          "texto_enunciado": "—Necesito veinte pesos. —¿_____ pesos necesitas?",
+          "solucion_correcta": [
+            "Cuántos"
+          ]
+        },
+        {
+          "texto_enunciado": "—Normalmente estudio por la tarde. —¿_____ estudias?",
+          "solucion_correcta": [
+            "Cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "—Ramón está en la playa. —¿_____ está Ramón?",
+          "solucion_correcta": [
+            "Dónde"
+          ]
+        },
+        {
+          "texto_enunciado": "—Necesito un cuchillo para la carne. —¿_____ necesitas un cuchillo?",
+          "solucion_correcta": [
+            "Para qué"
+          ]
+        },
+        {
+          "texto_enunciado": "—No pude venir anoche. Estaba cansado. —¿_____ no pudiste venir anoche?",
+          "solucion_correcta": [
+            "Por qué"
+          ]
+        },
+        {
+          "texto_enunciado": "—Vivo en Quito desde 1999. —¿_____ vives en Quito?",
+          "solucion_correcta": [
+            "Desde cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "—Martina es de Bolivia. —¿_____ es Martina?",
+          "solucion_correcta": [
+            "De dónde"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.3",
+      "tipologia": "T3",
+      "enunciado": "Complete la entrevista con los interrogativos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "—¿_____ vive actualmente? —En Barcelona.",
+          "solucion_correcta": [
+            "Dónde"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ vive allí? —Me gusta la ciudad.",
+          "solucion_correcta": [
+            "Por qué"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ está aprendiendo español? —Quiero trabajar en España.",
+          "solucion_correcta": [
+            "Por qué"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ empezó a estudiarlo? —Hace seis meses.",
+          "solucion_correcta": [
+            "Cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ empieza el rodaje de la próxima película? —Dentro de una semana.",
+          "solucion_correcta": [
+            "Cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ va a ser? —En Brasil y Paraguay.",
+          "solucion_correcta": [
+            "Dónde"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ se va a titular la película? —Ruta peligrosa.",
+          "solucion_correcta": [
+            "Cómo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.4",
+      "tipologia": "T3",
+      "enunciado": "Complete con cuánto, cuánta, cuántos o cuántas.",
+      "items": [
+        {
+          "texto_enunciado": "—¿_____ años tienes? —Veinticuatro.",
+          "solucion_correcta": [
+            "Cuántos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ tiempo necesitas para hacer la comida? —Una hora.",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "—En mi clase hay muy pocas chicas. —¿_____ hay?",
+          "solucion_correcta": [
+            "Cuántas"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ se tarda en hacer el test? —Media hora.",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ gente ha venido a la conferencia? —Unas treinta personas.",
+          "solucion_correcta": [
+            "Cuánta"
+          ]
+        }
+      ]
+    }
+  ]
+}

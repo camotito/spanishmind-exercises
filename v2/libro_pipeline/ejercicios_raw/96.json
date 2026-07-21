@@ -1,0 +1,147 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "96.1",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya las expresiones subrayadas por las formas adecuadas de soler + infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "Raquel <u>normalmente va a trabajar</u> en el 115. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Normalmente vamos</u> a la sierra los fines de semana. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando vivíamos en Chile, <u>normalmente dábamos un paseo</u> después de cenar. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En casa de mis abuelos <u>normalmente comen</u> paella los domingos. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando era pequeña <u>me bañaba a menudo</u> en el río de mi pueblo. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿A qué hora <u>te levantas normalmente</u>? _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Normalmente me acuesto</u> tarde los sábados. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En la escuela <u>normalmente hacíamos</u> gimnasia todas las mañanas. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "José y Belén <u>van normalmente</u> al teatro de vez en cuando. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Laura y Encarna <u>viajaban normalmente</u> mucho cuando eran estudiantes. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "96.2",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con llevar sin en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "<u>La última vez que salí con Cristina fue hace un mes.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>La última vez que fuimos al cine fue en Navidad.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Cuando me encontré con Nacho, hacía dos años que no nos veíamos.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>La última vez que Felipe trabajó fue hace tres años.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>¿Cuándo fue la última vez que hablaste con Nora?</u> ¿Cuánto tiempo _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Cuando encontraron a Lucky, hacía dos días que no había comido.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>La última vez que vimos a Sebastián fue en su cumpleaños.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Cuando empezaron las clases, hacía seis meses que no tocábamos el piano.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>La última vez que fui a Argentina fue hace cuatro años.</u> _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "96.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya lo subrayado por las formas adecuadas de volver a + infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "He aprobado. No tengo que <u>examinarme otra vez</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Por fin la televisión <u>funciona de nuevo</u>! _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No hemos visto otra vez</u> a Lucía desde el verano. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El año pasado <u>alquilé otra vez</u> el chalé de la playa. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenemos que <u>hacer el proyecto de nuevo</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Cree que el coche <u>se estropeará otra vez</u>? _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Gonzalo <u>ha suspendido otra vez</u> el examen del carné de conducir. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿<u>Han tenido</u> carta de Guillermo <u>otra vez</u>? _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer <u>perdimos de nuevo</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>He leído</u> Cien años de soledad <u>de nuevo</u>. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 96,
+  "titulo_libro": "Suelo comer en casa -- Expresiones con infinitivo (3)",
+  "scan": "libro-rojo-202.png"
+}

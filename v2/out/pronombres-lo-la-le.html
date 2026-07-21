@@ -22,14 +22,17 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
     margin: 0 0 14px; }
 .item { padding: 8px 0; border-top: 1px dashed var(--line); }
 .item:first-of-type { border-top: none; }
-.item-row { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 4px; }
+.item-row { padding-left: 1.8em; text-indent: -1.8em; }
 .item-row + .item-row { margin-top: 4px; }
-.item-num { color: #999; font-variant-numeric: tabular-nums; min-width: 1.6em; }
+.item-num { display: inline-block; width: 1.6em; text-indent: 0;
+    color: #999; font-variant-numeric: tabular-nums; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
 .blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
     border-radius: 6px; width: 150px; font-size: .95rem; }
 select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
 .blank.ok { border-color: var(--ok); background: #f0f6ee; }
 .blank.bad { border-color: var(--bad); background: #fbeeee; }
+.alt-hint { font-size: .78rem; color: var(--secondary); opacity: .75; margin-left: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
     display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
 button { font-family: var(--font-body); background: var(--primary); color: #fff;
@@ -48,6 +51,18 @@ button:hover { opacity: .9; }
 .plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
 .plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
 @media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
+.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
+    color: var(--ok); font-weight: 700; font-size: .72rem;
+    text-transform: uppercase; letter-spacing: .04em; }
+input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
+    background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
     margin-top: 30px; color: var(--secondary); }
 </style>
@@ -57,6 +72,8 @@ button:hover { opacity: .9; }
 
     <section class="ejercicio">
         <p class="enunciado">Choose the correct option in each case.</p>
+        
+        
         
         
         <div class="item" data-solved="0">
@@ -114,29 +131,28 @@ button:hover { opacity: .9; }
         <p class="enunciado">Complete the sentences with lo, la, los, las, le, les, or se.</p>
         
         
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>–¿Has visto a Juana? </span></div><div class="item-row"><span class="item-num"></span> <span>–Sí, <input type="text" class="blank blank-example" value="la" style="width: 4ch" readonly tabindex="-1"> he visto.</span></div></div>
+        
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span>–¿Has visto a Juana? </span></div><div class="item-row"><span class="item-num"></span> <span>–Sí, <input type="text" class="blank" data-sol="la" autocomplete="off"> he visto.</span></div>
+            <div class="item-row"><span class="item-num">1.</span> <span><input type="text" class="blank" data-sol="Le" style="width: 4ch" autocomplete="off"> he regalado unos bombones a Sarita.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span><input type="text" class="blank" data-sol="Le" autocomplete="off"> he regalado unos bombones a Sarita.</span></div>
+            <div class="item-row"><span class="item-num">2.</span> <span>–¿Has llamado a tu padre, Héctor? </span></div><div class="item-row"><span class="item-num"></span> <span>–Sí, <input type="text" class="blank" data-sol="lo/le" style="width: 4ch" autocomplete="off"><span class="alt-hint" hidden></span> he llamado.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>–¿Has llamado a tu padre, Héctor? </span></div><div class="item-row"><span class="item-num"></span> <span>–Sí, <input type="text" class="blank" data-sol="lo" autocomplete="off"> he llamado.</span></div>
+            <div class="item-row"><span class="item-num">3.</span> <span>¿Qué <input type="text" class="blank" data-sol="le" style="width: 4ch" autocomplete="off"> has dicho a la profesora?</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>¿Qué <input type="text" class="blank" data-sol="le" autocomplete="off"> has dicho a la profesora?</span></div>
+            <div class="item-row"><span class="item-num">4.</span> <span>¿<input type="text" class="blank" data-sol="Le" style="width: 4ch" autocomplete="off"> has regalado tus discos a Enrique? </span></div><div class="item-row"><span class="item-num"></span> <span>–Sí, <input type="text" class="blank" data-sol="se" style="width: 4ch" autocomplete="off"> <input type="text" class="blank" data-sol="los" style="width: 5ch" autocomplete="off"> he regalado.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span>¿<input type="text" class="blank" data-sol="Le" autocomplete="off"> has regalado tus discos a Enrique? </span></div><div class="item-row"><span class="item-num"></span> <span>–Sí, <input type="text" class="blank" data-sol="se" autocomplete="off"> <input type="text" class="blank" data-sol="los" autocomplete="off"> he regalado.</span></div>
+            <div class="item-row"><span class="item-num">5.</span> <span>–¿Has visto a Concha? </span></div><div class="item-row"><span class="item-num"></span> <span>–No, hoy no <input type="text" class="blank" data-sol="la" style="width: 4ch" autocomplete="off"> he visto.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span>–¿Has visto a Concha? </span></div><div class="item-row"><span class="item-num"></span> <span>–No, hoy no <input type="text" class="blank" data-sol="la" autocomplete="off"> he visto.</span></div>
+            <div class="item-row"><span class="item-num">6.</span> <span>A Pili <input type="text" class="blank" data-sol="le" style="width: 4ch" autocomplete="off"> duelen las muelas.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">7.</span> <span>A Pili <input type="text" class="blank" data-sol="le" autocomplete="off"> duelen las muelas.</span></div>
-        </div>
-        <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">8.</span> <span>–¿Qué <input type="text" class="blank" data-sol="les" autocomplete="off"> has comprado a tus padres? </span></div><div class="item-row"><span class="item-num"></span> <span>–A mi padre <input type="text" class="blank" data-sol="le" autocomplete="off"> he comprado un libro y a mi madre <input type="text" class="blank" data-sol="le" autocomplete="off"> he comprado un pañuelo.</span></div>
+            <div class="item-row"><span class="item-num">7.</span> <span>–¿Qué <input type="text" class="blank" data-sol="les" style="width: 5ch" autocomplete="off"> has comprado a tus padres? </span></div><div class="item-row"><span class="item-num"></span> <span>–A mi padre <input type="text" class="blank" data-sol="le" style="width: 4ch" autocomplete="off"> he comprado un libro y a mi madre <input type="text" class="blank" data-sol="le" style="width: 4ch" autocomplete="off"> he comprado un pañuelo.</span></div>
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -148,29 +164,28 @@ button:hover { opacity: .9; }
         <p class="enunciado">Use the correct pronouns to complete these sentences.</p>
         
         
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>–¿<input type="text" class="blank blank-example" value="Le" style="width: 4ch" readonly tabindex="-1"> has dicho a Juan que necesito el coche? </span></div><div class="item-row"><span class="item-num"></span> <span>–Sí, <input type="text" class="blank blank-example" value="se" style="width: 4ch" readonly tabindex="-1"> <input type="text" class="blank blank-example" value="lo" style="width: 4ch" readonly tabindex="-1"> he dicho, pero dice que él también <input type="text" class="blank blank-example" value="lo" style="width: 4ch" readonly tabindex="-1"> necesita.</span></div></div>
+        
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span>–¿<input type="text" class="blank" data-sol="Le" autocomplete="off"> has dicho a Juan que necesito el coche? </span></div><div class="item-row"><span class="item-num"></span> <span>–Sí, <input type="text" class="blank" data-sol="se" autocomplete="off"> <input type="text" class="blank" data-sol="lo" autocomplete="off"> he dicho, pero dice que él también <input type="text" class="blank" data-sol="lo" autocomplete="off"> necesita.</span></div>
+            <div class="item-row"><span class="item-num">1.</span> <span>–¿Sabes que me voy a Colombia? </span></div><div class="item-row"><span class="item-num"></span> <span>–No, no <input type="text" class="blank" data-sol="lo" style="width: 4ch" autocomplete="off"> sabía.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span>–¿Sabes que me voy a Colombia? </span></div><div class="item-row"><span class="item-num"></span> <span>–No, no <input type="text" class="blank" data-sol="lo" autocomplete="off"> sabía.</span></div>
+            <div class="item-row"><span class="item-num">2.</span> <span>–¿Es verdad que Ángela tiene mucho dinero? </span></div><div class="item-row"><span class="item-num"></span> <span>–<input type="text" class="blank" data-sol="Lo" style="width: 4ch" autocomplete="off"> es, pero no <input type="text" class="blank" data-sol="lo" style="width: 4ch" autocomplete="off"> parece.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>–¿Es verdad que Ángela tiene mucho dinero? </span></div><div class="item-row"><span class="item-num"></span> <span>–<input type="text" class="blank" data-sol="Lo" autocomplete="off"> es, pero no <input type="text" class="blank" data-sol="lo" autocomplete="off"> parece.</span></div>
+            <div class="item-row"><span class="item-num">3.</span> <span>–¿Sabe papá que necesito dinero? </span></div><div class="item-row"><span class="item-num"></span> <span>–<input type="text" class="blank" data-sol="Lo" style="width: 4ch" autocomplete="off"> sabe, pero dice que <input type="text" class="blank" data-sol="se" style="width: 4ch" autocomplete="off"> <input type="text" class="blank" data-sol="lo" style="width: 4ch" autocomplete="off"> pidas luego.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>–¿Sabe papá que necesito dinero? </span></div><div class="item-row"><span class="item-num"></span> <span>–<input type="text" class="blank" data-sol="Lo" autocomplete="off"> sabe, pero dice que <input type="text" class="blank" data-sol="se" autocomplete="off"> <input type="text" class="blank" data-sol="lo" autocomplete="off"> pidas luego.</span></div>
+            <div class="item-row"><span class="item-num">4.</span> <span>No <input type="text" class="blank" data-sol="lo" style="width: 4ch" autocomplete="off"> entiendo. <input type="text" class="blank" data-sol="Le" style="width: 4ch" autocomplete="off"> he ofrecido ayuda a Teresa, pero no <input type="text" class="blank" data-sol="la" style="width: 4ch" autocomplete="off"> ha aceptado.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span>No <input type="text" class="blank" data-sol="la" autocomplete="off"> entiendo. <input type="text" class="blank" data-sol="Le" autocomplete="off"> he ofrecido ayuda a Teresa, pero no <input type="text" class="blank" data-sol="la" autocomplete="off"> ha aceptado.</span></div>
+            <div class="item-row"><span class="item-num">5.</span> <span>–¿De verdad que Ana es escritora? </span></div><div class="item-row"><span class="item-num"></span> <span>–Claro que <input type="text" class="blank" data-sol="lo" style="width: 4ch" autocomplete="off"> es, pero no <input type="text" class="blank" data-sol="lo" style="width: 4ch" autocomplete="off"> sabe nadie.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span>–¿De verdad que Ana es escritora? </span></div><div class="item-row"><span class="item-num"></span> <span>–Claro que <input type="text" class="blank" data-sol="lo" autocomplete="off"> es, pero no <input type="text" class="blank" data-sol="lo" autocomplete="off"> sabe nadie.</span></div>
+            <div class="item-row"><span class="item-num">6.</span> <span>–Juan y Lola se han casado. </span></div><div class="item-row"><span class="item-num"></span> <span>–Ya sabía que <input type="text" class="blank" data-sol="lo" style="width: 4ch" autocomplete="off"> harían. Él <input type="text" class="blank" data-sol="la" style="width: 4ch" autocomplete="off"> quiere mucho.</span></div>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">7.</span> <span>–Juan y Lola se han casado. </span></div><div class="item-row"><span class="item-num"></span> <span>–Ya sabía que <input type="text" class="blank" data-sol="lo" autocomplete="off"> harían. Él <input type="text" class="blank" data-sol="la" autocomplete="off"> quiere mucho.</span></div>
-        </div>
-        <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">8.</span> <span>–Se ha muerto Momo. </span></div><div class="item-row"><span class="item-num"></span> <span>–¡Cuánto <input type="text" class="blank" data-sol="lo" autocomplete="off"> siento! Yo <input type="text" class="blank" data-sol="lo" autocomplete="off"> quería mucho.</span></div>
+            <div class="item-row"><span class="item-num">7.</span> <span>–Se ha muerto Momo. </span></div><div class="item-row"><span class="item-num"></span> <span>–¡Cuánto <input type="text" class="blank" data-sol="lo" style="width: 4ch" autocomplete="off"> siento! Yo <input type="text" class="blank" data-sol="lo/le" style="width: 4ch" autocomplete="off"><span class="alt-hint" hidden></span> quería mucho.</span></div>
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -188,6 +203,7 @@ function fieldOk(f){
   const sol = f.getAttribute('data-sol');
   const val = f.value;
   if (sol === '\u00f8') return val.trim() === '' || norm(val) === norm('\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
   return norm(val) === norm(sol);
 }
 function checkGroup(btn){
@@ -219,7 +235,17 @@ function revealGroup(btn){
     const sol = f.getAttribute('data-sol');
     if (f.tagName === 'SELECT') {
       [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
-    } else { f.value = sol; }
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hint = f.nextElementSibling;
+      if (hint && hint.classList.contains('alt-hint')) {
+        hint.textContent = '(' + opciones.join(' or ') + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
     f.classList.remove('bad'); f.classList.add('ok');
   });
 }

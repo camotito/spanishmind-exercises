@@ -1,0 +1,143 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "122.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro y *se* o *uno*.",
+      "banco_palabras": [
+        "necesitar",
+        "relacionarse",
+        "tener",
+        "vivir",
+        "vivir",
+        "divertirse",
+        "sentirse",
+        "tener",
+        "vivir",
+        "vivir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "En un pueblo pequeño _____ mejor. _____ más tranquilo, _____ más tiempo libre, _____ más con la gente y _____ menos dinero."
+        },
+        {
+          "texto_enunciado": "En una gran ciudad _____ más libertad y _____ más, aunque a veces _____ solo. Antes _____ mejor en las ciudades, pero ahora _____ bien en todas partes."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases con se o uno y con los verbos proporcionados en recuadros, conjugados en la forma adecuada."
+    },
+    {
+      "subejercicio": "122.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases comenzando con alguna de las expresiones del recuadro.",
+      "banco_palabras": [
+        "se dice",
+        "se espera",
+        "se necesita",
+        "se puede",
+        "se sospechaba",
+        "se suele",
+        "se supone",
+        "se veía"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Estaba claro que Olga estaba contenta. _____."
+        },
+        {
+          "texto_enunciado": "En Chile es costumbre bailar la cueca en las fiestas populares. _____."
+        },
+        {
+          "texto_enunciado": "Alguien dice que Norma no se encuentra bien. _____."
+        },
+        {
+          "texto_enunciado": "Es posible hablar por teléfono desde aquí. _____."
+        },
+        {
+          "texto_enunciado": "Alguien sospechaba que Andrés había causado la discusión. _____."
+        },
+        {
+          "texto_enunciado": "La gente supone que Nacho es muy inteligente. _____."
+        },
+        {
+          "texto_enunciado": "Para jugar bien al baloncesto no es necesario ser alto. _____."
+        },
+        {
+          "texto_enunciado": "Algunas personas esperan que el Presidente hable mañana. _____."
+        }
+      ],
+      "tipologia_libre_original": "Reescribir oraciones completas comenzando con una de las expresiones impersonales proporcionadas en un recuadro."
+    },
+    {
+      "subejercicio": "122.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos oraciones como en el ejemplo. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "La gente se equivoca. Es fácil. _____."
+        },
+        {
+          "texto_enunciado": "No hay que equivocarse. Es importante. _____."
+        },
+        {
+          "texto_enunciado": "Hay que ser abiertos. Es mejor. _____."
+        },
+        {
+          "texto_enunciado": "Hay que saber cocinar. Es útil. _____."
+        },
+        {
+          "texto_enunciado": "Hay que hacer ejercicio. Es bueno. _____."
+        },
+        {
+          "texto_enunciado": "No hay que ser egoísta. Es malo. _____."
+        },
+        {
+          "texto_enunciado": "No se puede estudiar con tanto ruido. Es difícil. _____."
+        },
+        {
+          "texto_enunciado": "No se puede salir con este tiempo. Es imposible. _____."
+        }
+      ],
+      "tipologia_libre_original": "Unir dos oraciones en una sola, siguiendo los ejemplos y realizando los cambios sintácticos necesarios."
+    },
+    {
+      "subejercicio": "122.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los siguientes verbos en la forma adecuada: *amanecer*, *anochecer*, *haber*, *hacer*, *nevar*, *ser*.",
+      "items": [
+        {
+          "texto_enunciado": "_____ bastante frío durante la noche."
+        },
+        {
+          "texto_enunciado": "_____ que acostarse temprano. Mañana salimos a las siete."
+        },
+        {
+          "texto_enunciado": "Ya _____ dos meses que no voy a la piscina."
+        },
+        {
+          "texto_enunciado": "—¿A qué hora _____ en esta parte de México? —Pronto. A las cinco de la tarde."
+        },
+        {
+          "texto_enunciado": "Abre la ventana. _____ calor."
+        },
+        {
+          "texto_enunciado": "¿Cuánto tiempo _____ que no nos veíamos?"
+        },
+        {
+          "texto_enunciado": "Hoy _____ en la sierra. Las cumbres están blancas."
+        },
+        {
+          "texto_enunciado": "_____ temprano. Aún no _____ luz. En invierno _____ muy tarde."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases conjugando en la forma adecuada uno de los verbos indicados en el enunciado."
+    }
+  ],
+  "unidad": 122,
+  "titulo_libro": "Aquí se trabaja mucho -- Oraciones impersonales",
+  "scan": "libro-rojo-254.png"
+}

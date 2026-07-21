@@ -1,0 +1,176 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "119.1",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Ordene las palabras de forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "el accidente / llegaron tarde / por _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "porque / no se oye nada / hay mucho ruido _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ya que / cómprame el periódico / sales _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cogimos el coche / como / estaba lloviendo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Inés está resfriada / se ha quedado en casa / como _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "por / terminar la carrera / le hicieron un regalo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "estaba lloviendo / Menchu no salió / porque _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ustedes me lo piden / puesto que / tocaré otra pieza _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Ordenación de segmentos oracionales separados por barras para escribir una frase completa y correcta."
+    },
+    {
+      "subejercicio": "119.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete los espacios en blanco con las expresiones del recuadro.",
+      "banco_palabras": [
+        "a causa de",
+        "como",
+        "como",
+        "por",
+        "por",
+        "porque",
+        "porque",
+        "ya que"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Félix está cansado _____ trabaja mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se han inundado las calles _____ la lluvia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Arturo lo despidieron _____ llegar siempre tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ no habla mucho, la gente cree que Rafa es tímido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me quedaré a cenar, _____ insisten.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Perdió la voz _____ gritar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ramiro no sacó al perro _____ se quedó dormido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ estaba navegando en Internet, me olvidé de cenar.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar frases causales seleccionando una expresión de un recuadro; algunas expresiones aparecen repetidas."
+    },
+    {
+      "subejercicio": "119.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con las expresiones entre paréntesis. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Nadie quería ir al cine. Me fui sola. (como) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estáis aquí. Quedaos a cenar. (ya que) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Fui el primero en entregar el trabajo. Me felicitó el profesor. (por) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mañana es domingo. No tengo que ir a la oficina. (como) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No querían despertar a los niños. Apagaron la televisión. (porque) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los aeropuertos están cerrados. Hay nieve. (a causa de) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rosa es muy generosa. Tiene muchos amigos. (porque) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lee sin luz. Le duele la cabeza. (por) _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Unión y reescritura de dos frases independientes mediante la expresión causal indicada entre paréntesis, haciendo los cambios necesarios."
+    },
+    {
+      "subejercicio": "119.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las respuestas con es que y una frase del recuadro.",
+      "banco_palabras": [
+        "está enfadada",
+        "estoy cansado",
+        "tenía el móvil descargado",
+        "tengo que estudiar",
+        "no tengo mucha hambre"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "—¿Damos una vuelta? —_____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—Come más pollo. —_____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Por qué no vamos al cine esta noche? —_____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Por qué no me llamaste anoche? —_____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Por qué no ha venido Anita? —_____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Producción de respuestas dialogadas con «es que» y una frase seleccionada del recuadro."
+    }
+  ],
+  "unidad": 119,
+  "titulo_libro": "porque, como, puesto que... -- Oraciones causales",
+  "scan": "libro-rojo-248.png"
+}

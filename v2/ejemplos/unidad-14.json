@@ -1,0 +1,269 @@
+{
+  "tema": "unidad-14",
+  "titulo": "una amiga chilena",
+  "descripcion_gramatical": "Adjetivos de nacionalidad",
+  "fuente": "libro",
+  "unidad_libro": 14,
+  "ejercicios": [
+    {
+      "subejercicio": "14.1",
+      "tipologia": "T4",
+      "enunciado": "Complete la lista.",
+      "items": [
+        {
+          "texto_enunciado": "(brasileño) _____ _____ _____",
+          "solucion_correcta": [
+            "brasileña",
+            "brasileños",
+            "brasileñas"
+          ]
+        },
+        {
+          "texto_enunciado": "(costarricense) _____ _____ _____",
+          "solucion_correcta": [
+            "costarricense",
+            "costarricenses",
+            "costarricenses"
+          ]
+        },
+        {
+          "texto_enunciado": "(escocés) _____ _____ _____",
+          "solucion_correcta": [
+            "escocesa",
+            "escoceses",
+            "escocesas"
+          ]
+        },
+        {
+          "texto_enunciado": "(iraní) _____ _____ _____",
+          "solucion_correcta": [
+            "iraní",
+            "iranís/iraníes",
+            "iranís/iraníes"
+          ]
+        },
+        {
+          "texto_enunciado": "(japonés) _____ _____ _____",
+          "solucion_correcta": [
+            "japonesa",
+            "japoneses",
+            "japonesas"
+          ]
+        },
+        {
+          "texto_enunciado": "(nicaragüense) _____ _____ _____",
+          "solucion_correcta": [
+            "nicaragüense",
+            "nicaragüenses",
+            "nicaragüenses"
+          ]
+        },
+        {
+          "texto_enunciado": "(venezolano) _____ _____ _____",
+          "solucion_correcta": [
+            "venezolana",
+            "venezolanos",
+            "venezolanas"
+          ]
+        },
+        {
+          "texto_enunciado": "(vietnamita) _____ _____ _____",
+          "solucion_correcta": [
+            "vietnamita",
+            "vietnamitas",
+            "vietnamitas"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Tabla con cuatro columnas: SINGULAR MASCULINO, SINGULAR FEMENINO, PLURAL MASCULINO y PLURAL FEMENINO."
+        ]
+      }
+    },
+    {
+      "subejercicio": "14.2",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases con los adjetivos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Soy _____.",
+          "solucion_correcta": [
+            "peruana"
+          ]
+        },
+        {
+          "texto_enunciado": "Somos _____.",
+          "solucion_correcta": [
+            "chinas"
+          ]
+        },
+        {
+          "texto_enunciado": "Somos _____.",
+          "solucion_correcta": [
+            "egipcios"
+          ]
+        },
+        {
+          "texto_enunciado": "Soy _____.",
+          "solucion_correcta": [
+            "francesa"
+          ]
+        },
+        {
+          "texto_enunciado": "Somos _____.",
+          "solucion_correcta": [
+            "italianas"
+          ]
+        },
+        {
+          "texto_enunciado": "Somos _____.",
+          "solucion_correcta": [
+            "mexicanos"
+          ]
+        },
+        {
+          "texto_enunciado": "Soy _____.",
+          "solucion_correcta": [
+            "india"
+          ]
+        },
+        {
+          "texto_enunciado": "Somos _____.",
+          "solucion_correcta": [
+            "rusos"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "chino",
+        "egipcio",
+        "francés",
+        "indio",
+        "italiano",
+        "mexicano",
+        "peruano",
+        "ruso"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "personas": "una mujer",
+            "referencia_visual": "Machu Picchu"
+          },
+          {
+            "numero": "2",
+            "personas": "dos personas",
+            "referencia_visual": "la Gran Muralla"
+          },
+          {
+            "numero": "3",
+            "personas": "dos hombres",
+            "referencia_visual": "las pirámides de Egipto"
+          },
+          {
+            "numero": "4",
+            "personas": "una mujer",
+            "referencia_visual": "la torre Eiffel"
+          },
+          {
+            "numero": "5",
+            "personas": "dos mujeres",
+            "referencia_visual": "un establecimiento con estantes de productos"
+          },
+          {
+            "numero": "6",
+            "personas": "dos hombres con gorros, uno de ellos con un instrumento de cuerda",
+            "referencia_visual": "vestimenta tradicional"
+          },
+          {
+            "numero": "7",
+            "personas": "una mujer",
+            "referencia_visual": "arquitectura india"
+          },
+          {
+            "numero": "8",
+            "personas": "dos personas con sombreros",
+            "referencia_visual": "cactus y paisaje mexicano"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "14.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con un nombre y un adjetivo de cada recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "El yen es la _____.",
+          "solucion_correcta": [
+            "moneda japonesa"
+          ]
+        },
+        {
+          "texto_enunciado": "El dirham es la _____.",
+          "solucion_correcta": [
+            "moneda marroquí"
+          ]
+        },
+        {
+          "texto_enunciado": "Gabriel García Márquez es un _____.",
+          "solucion_correcta": [
+            "escritor colombiano"
+          ]
+        },
+        {
+          "texto_enunciado": "Burdeos es una _____.",
+          "solucion_correcta": [
+            "ciudad francesa"
+          ]
+        },
+        {
+          "texto_enunciado": "Julia Roberts es una _____.",
+          "solucion_correcta": [
+            "actriz estadounidense"
+          ]
+        },
+        {
+          "texto_enunciado": "Hanoi es la _____.",
+          "solucion_correcta": [
+            "capital vietnamita"
+          ]
+        },
+        {
+          "texto_enunciado": "Montreal y Edmonton son _____.",
+          "solucion_correcta": [
+            "ciudades canadienses"
+          ]
+        },
+        {
+          "texto_enunciado": "Lisboa es la _____.",
+          "solucion_correcta": [
+            "capital portuguesa"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "actriz",
+        "capital",
+        "capital",
+        "ciudad",
+        "ciudad",
+        "escritor",
+        "moneda",
+        "moneda",
+        "canadiense",
+        "colombiano",
+        "estadounidense",
+        "francés",
+        "japonés",
+        "marroquí",
+        "portugués",
+        "vietnamita"
+      ]
+    }
+  ]
+}

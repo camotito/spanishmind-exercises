@@ -1,0 +1,219 @@
+{
+  "tema": "unidad-120",
+  "titulo": "aunque, a pesar de que...",
+  "descripcion_gramatical": "Oraciones concesivas",
+  "fuente": "libro",
+  "unidad_libro": 120,
+  "ejercicios": [
+    {
+      "subejercicio": "120.1",
+      "tipologia": "T13",
+      "enunciado": "Una las opciones de las dos columnas de manera correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo que trabajar",
+          "solucion_correcta": [
+            "Tengo que trabajar a pesar de no tener muchas ganas"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Elena tiene que trabajar",
+          "solucion_correcta": [
+            "Elena tiene que trabajar a pesar de que no tiene muchas ganas"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Tenemos que comer patatas",
+          "solucion_correcta": [
+            "Tenemos que comer patatas aunque no nos apetece mucho"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Tendréis que comer la sopa",
+          "solucion_correcta": [
+            "Tendréis que comer la sopa aunque no os apetezca mucho"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "No me podré comprar esa casa",
+          "solucion_correcta": [
+            "No me podré comprar esa casa por mucho que ahorre"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "No me puedo comprar un coche",
+          "solucion_correcta": [
+            "No me puedo comprar un coche por mucho que ahorro"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Algo te sentó mal",
+          "solucion_correcta": [
+            "Algo te sentó mal aunque comieras poco"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Esta comida te puede sentar mal",
+          "solucion_correcta": [
+            "Esta comida te puede sentar mal aunque comas poco"
+          ],
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "120.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Aunque me (llamar) _____ Roberto, no le contestaré.",
+          "solucion_correcta": [
+            "llame"
+          ]
+        },
+        {
+          "texto_enunciado": "A pesar de (trabajar) _____ mucho, ganamos poco.",
+          "solucion_correcta": [
+            "trabajar"
+          ]
+        },
+        {
+          "texto_enunciado": "Por mucho que (correr) _____, llegaréis tarde.",
+          "solucion_correcta": [
+            "corráis"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque hoy (levantarse) _____ tarde, tengo sueño.",
+          "solucion_correcta": [
+            "me he levantado"
+          ]
+        },
+        {
+          "texto_enunciado": "A pesar de (jugar) _____ bien, perdieron el partido.",
+          "solucion_correcta": [
+            "jugar"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo frío a pesar de que (hacer) _____ sol.",
+          "solucion_correcta": [
+            "hace"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque normalmente (ir) _____ andando, hoy prefiero ir en autobús.",
+          "solucion_correcta": [
+            "voy"
+          ]
+        },
+        {
+          "texto_enunciado": "Por más que (gritar) _____, no les van a oír.",
+          "solucion_correcta": [
+            "griten"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque (hacer) _____ muy buen tiempo, no pudimos bañarnos.",
+          "solucion_correcta": [
+            "hizo/hacía"
+          ]
+        },
+        {
+          "texto_enunciado": "A pesar de que (llover) _____ intensamente, tuvimos que jugar el partido.",
+          "solucion_correcta": [
+            "llovía"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "120.3",
+      "tipologia": "T10",
+      "enunciado": "Escriba frases con las ideas dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Estuvimos en Escocia en julio. Hizo muy mal tiempo, pero lo pasamos muy bien. Aunque _____.",
+          "solucion_correcta": [
+            "hizo muy mal tiempo, nos lo pasamos muy bien"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé si Mariana come mucho, pero no creo que engorde. A pesar de que _____.",
+          "solucion_correcta": [
+            "Mariana coma mucho, no creo que engorde"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé si Arturo va a esperar mucho a Amelia, pero no creo que venga. Por mucho que _____.",
+          "solucion_correcta": [
+            "Arturo espere a Amelia, no creo que venga"
+          ]
+        },
+        {
+          "texto_enunciado": "Normalmente duermo mucho, pero estoy siempre cansado. A pesar de _____.",
+          "solucion_correcta": [
+            "que duermo mucho / dormir mucho estoy siempre cansado"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé si anoche era muy tarde. Me molestó que me despertaran. Aunque no _____.",
+          "solucion_correcta": [
+            "fuera muy tarde anoche, me molestó que me despertaran"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé si Silvio madrugó mucho ayer. Llegó tarde al trabajo. Por mucho que _____.",
+          "solucion_correcta": [
+            "Silvio madrugara ayer, llegó tarde al trabajo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "120.4",
+      "tipologia": "T3",
+      "enunciado": "Complete utilizando frases con aunque.",
+      "items": [
+        {
+          "texto_enunciado": "—No quiero ir al cole. —_____, irás.",
+          "solucion_correcta": [
+            "Aunque no quieras"
+          ]
+        },
+        {
+          "texto_enunciado": "—No salgas. Está lloviendo. —_____, tengo que salir.",
+          "solucion_correcta": [
+            "Aunque esté lloviendo"
+          ]
+        },
+        {
+          "texto_enunciado": "—No queremos hacer este ejercicio. —_____, debéis hacerlo. Es útil.",
+          "solucion_correcta": [
+            "Aunque no queráis"
+          ]
+        },
+        {
+          "texto_enunciado": "—No les gusta el pescado. —_____, tendrán que comerlo.",
+          "solucion_correcta": [
+            "Aunque no les guste"
+          ]
+        },
+        {
+          "texto_enunciado": "—Dice que no sale, que hace frío. —_____, tiene que salir.",
+          "solucion_correcta": [
+            "Aunque haga frío"
+          ]
+        }
+      ]
+    }
+  ]
+}

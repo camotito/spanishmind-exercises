@@ -1,0 +1,228 @@
+{
+  "tema": "unidad-31",
+  "titulo": "¿cuál?, ¿qué?...",
+  "descripcion_gramatical": "Interrogativos (2)",
+  "fuente": "libro",
+  "unidad_libro": 31,
+  "ejercicios": [
+    {
+      "subejercicio": "31.1",
+      "tipologia": "T13",
+      "enunciado": "Una los interrogativos con el resto de las preguntas.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____ esos chicos es el hijo de Guillermo?",
+          "solucion_correcta": [
+            "Cuál de"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ es tu bebida preferida?",
+          "solucion_correcta": [
+            "Cuál"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ tus padres nació en Panamá?",
+          "solucion_correcta": [
+            "Cuál de"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ tus hermanos nacieron en Ecuador?",
+          "solucion_correcta": [
+            "Cuáles de"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ ustedes ha estado en la Patagonia?",
+          "solucion_correcta": [
+            "Cuál de"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ los dos diccionarios prefieres?",
+          "solucion_correcta": [
+            "Cuál de"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ es la montaña más alta del mundo?",
+          "solucion_correcta": [
+            "Cuál"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ son las cinco ciudades más pobladas de América?",
+          "solucion_correcta": [
+            "Cuáles"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "¿Cuál...",
+        "¿Cuáles...",
+        "¿Cuál de...",
+        "¿Cuáles de..."
+      ]
+    },
+    {
+      "subejercicio": "31.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con cuál, cuáles, cuál de, cuáles de o qué.",
+      "items": [
+        {
+          "texto_enunciado": "–¿_____ tus hermanos trabaja en Aerolíneas? –Jaime.",
+          "solucion_correcta": [
+            "Cuál de"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ es tu comida preferida? –El pescado.",
+          "solucion_correcta": [
+            "Cuál"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ son tus deportes preferidos? –El baloncesto y el tenis.",
+          "solucion_correcta": [
+            "Cuáles"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ deportes practicas? –Tenis y natación.",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ quieres estudiar? –Aún no lo sé.",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ es tu película preferida? –Casablanca.",
+          "solucion_correcta": [
+            "Cuál"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ tus hermanas vive en Rosario? –Cecilia.",
+          "solucion_correcta": [
+            "Cuál de"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿En _____ ciudad de México vive María? –En Tijuana.",
+          "solucion_correcta": [
+            "qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Con _____ líneas aéreas va a viajar Sol? –Con Iberia.",
+          "solucion_correcta": [
+            "qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ son nuestras habitaciones? –Las tres de la derecha.",
+          "solucion_correcta": [
+            "Cuáles"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿En _____ trabaja Mariano? –Es cocinero.",
+          "solucion_correcta": [
+            "qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ prefieres, té o café? –Té.",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "31.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las preguntas de un concurso de cultura de España y América Latina. Utilice quién, quiénes, qué, cuál, cuál de.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____ es la ciudad más antigua de América Latina?",
+          "solucion_correcta": [
+            "Cuál"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ es un “huaino”?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¿En _____ ciudad española está el Museo del Prado?",
+          "solucion_correcta": [
+            "qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ es la capital de Colombia?",
+          "solucion_correcta": [
+            "Cuál"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ escribió Trilce?",
+          "solucion_correcta": [
+            "Quién"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ río atraviesa Santiago de Chile?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Entre _____ países está el lago Titicaca?",
+          "solucion_correcta": [
+            "qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¿En _____ estas ciudades está la Sagrada Familia: Barcelona, Sevilla o Valladolid?",
+          "solucion_correcta": [
+            "cuál de"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ construyeron Machu Picchu?",
+          "solucion_correcta": [
+            "Quiénes"
+          ]
+        },
+        {
+          "texto_enunciado": "¿En _____ país suramericano está el volcán Inti?",
+          "solucion_correcta": [
+            "qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ es la ciudad más poblada de América Latina?",
+          "solucion_correcta": [
+            "Cuál"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ es un “poncho”?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        }
+      ]
+    }
+  ]
+}

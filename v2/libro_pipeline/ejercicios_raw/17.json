@@ -1,0 +1,129 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "17.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con un superlativo.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cuál es (ciudad, + bonito) _____ de Cuba?"
+        },
+        {
+          "texto_enunciado": "¿Cuál es (país, − poblado) _____ de América Latina?"
+        },
+        {
+          "texto_enunciado": "¿Cuál es (ciudad, − contaminado) _____ de España?"
+        },
+        {
+          "texto_enunciado": "¿Cuál es (río, + largo) _____ de México?"
+        },
+        {
+          "texto_enunciado": "¿Cuál es (capital, + alto) _____ de América del Sur?"
+        },
+        {
+          "texto_enunciado": "¿Cuál es (país, + grande) _____ de América Latina?"
+        },
+        {
+          "texto_enunciado": "¿Cuál es (isla, + pequeño) _____ del Caribe?"
+        },
+        {
+          "texto_enunciado": "¿Cuál es (catedral, + antiguo) _____ de México?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.2",
+      "tipologia": "T6",
+      "tipologia_libre": null,
+      "enunciado": "Escriba frases sobre un grupo de amigos.",
+      "items": [
+        {
+          "texto_enunciado": "(simpático: Lucas ++, Marina −, Leo +) Lucas es _____ de sus amigos."
+        },
+        {
+          "texto_enunciado": "(simpático: Lucas ++, Marina −, Leo +) Marina es _____."
+        },
+        {
+          "texto_enunciado": "(trabajador: Lucas +, Marina ++, Leo ++) Marina y Leo son _____."
+        },
+        {
+          "texto_enunciado": "(trabajador: Lucas +, Marina ++, Leo ++) Lucas es _____."
+        },
+        {
+          "texto_enunciado": "(elegante: Lucas −, Marina ++, Leo +) Marina es _____."
+        },
+        {
+          "texto_enunciado": "(elegante: Lucas −, Marina ++, Leo +) Lucas es _____."
+        },
+        {
+          "texto_enunciado": "(atractivo: Lucas +, Marina +, Leo −) Lucas y Marina son _____."
+        },
+        {
+          "texto_enunciado": "(atractivo: Lucas +, Marina +, Leo −) Leo es _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete estos eslóganes publicitarios.",
+      "items": [
+        {
+          "texto_enunciado": "Agua de Monteviejo, (bebida, + sano) _____ y (+ refrescante) _____."
+        },
+        {
+          "texto_enunciado": "Regina, (reloj, + caro) _____ del mundo."
+        },
+        {
+          "texto_enunciado": "Ordenadores portátiles Misima, (+ pequeño) _____ y (+ potente) _____."
+        },
+        {
+          "texto_enunciado": "Ropa deportiva Libre, (+ cómodo) _____ y (+ elegante) _____."
+        },
+        {
+          "texto_enunciado": "Galletas Artaneda, (+ bueno) _____ para el desayuno."
+        },
+        {
+          "texto_enunciado": "Supermercados García, (+ económico) _____."
+        },
+        {
+          "texto_enunciado": "Zumos Frutasol, (+ sano) _____."
+        },
+        {
+          "texto_enunciado": "Leche fresca Norte, (+ bueno) _____ para su familia."
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con un superlativo y de o que.",
+      "items": [
+        {
+          "texto_enunciado": "Julia es (chica, + alegre) _____ conozco."
+        },
+        {
+          "texto_enunciado": "Para mí, el café de Colombia es (+ bueno) _____ el mundo."
+        },
+        {
+          "texto_enunciado": "Las ruinas de Machu Picchu son (+ impresionante) _____ he visto."
+        },
+        {
+          "texto_enunciado": "El día de mi boda fue (+ feliz) _____ mi vida."
+        },
+        {
+          "texto_enunciado": "¿Cuál es (país, + interesante) _____ has visitado?"
+        },
+        {
+          "texto_enunciado": "Esther es (+ viejo) _____ mis hermanas."
+        }
+      ]
+    }
+  ],
+  "unidad": 17,
+  "titulo_libro": "la más alta, el menos trabajador -- Superlativo",
+  "scan": "libro-rojo-044.png"
+}

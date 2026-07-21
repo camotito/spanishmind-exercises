@@ -1,0 +1,196 @@
+{
+  "tema": "unidad-45",
+  "titulo": "tengo, tienes, tiene...",
+  "descripcion_gramatical": "Presente de indicativo de tener",
+  "fuente": "libro",
+  "unidad_libro": 45,
+  "ejercicios": [
+    {
+      "subejercicio": "45.1",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases con tengo, tienes... en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "PEPA: Jorge _____ treinta y un años, Julio y Margarita _____ veintitrés y yo _____ veintiocho.",
+          "solucion_correcta": [
+            "tiene",
+            "tienen",
+            "tengo"
+          ]
+        },
+        {
+          "texto_enunciado": "JORGE: Margarita _____ dos hermanos, Pepa _____ una hermana y Julio y yo _____ hermanos.",
+          "solucion_correcta": [
+            "tiene",
+            "tiene",
+            "no tenemos"
+          ]
+        },
+        {
+          "texto_enunciado": "MARGARITA: Pepa y Jorge _____ tres hijos, pero Julio y yo _____ hijos.",
+          "solucion_correcta": [
+            "tienen",
+            "no tenemos"
+          ]
+        },
+        {
+          "texto_enunciado": "PEPA: Yo _____ los ojos marrones. Los _____ verdes.",
+          "solucion_correcta": [
+            "no tengo",
+            "tengo"
+          ]
+        },
+        {
+          "texto_enunciado": "JULIO: Jorge _____ los ojos negros y Margarita y yo los _____ marrones.",
+          "solucion_correcta": [
+            "tiene",
+            "tenemos"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Julio: edad 23; hermanos —; hijos —; color de ojos marrones.",
+          "Pepa: edad 28; una hermana; 3 hijos con Jorge; color de ojos verdes.",
+          "Jorge: edad 31; hermanos —; 3 hijos con Pepa; color de ojos negros.",
+          "Margarita: edad 23; dos hermanos; hijos —; color de ojos marrones."
+        ]
+      }
+    },
+    {
+      "subejercicio": "45.2",
+      "tipologia": "T2",
+      "enunciado": "Escriba frases con tengo, tienes... y las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____.",
+          "estimulo_visual": "Dibujo de un hombre sediento en un paisaje desértico, bajo el sol, intentando obtener agua.",
+          "solucion_correcta": [
+            "Tengo sed"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "estimulo_visual": "Dibujo de dos mujeres sentadas a la mesa con platos vacíos y comida delante.",
+          "solucion_correcta": [
+            "Tenemos hambre"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "estimulo_visual": "Dibujo de un hombre sudando y secándose la frente con un pañuelo.",
+          "solucion_correcta": [
+            "Tengo calor"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "estimulo_visual": "Dibujo de una mujer asustada en un lugar oscuro.",
+          "solucion_correcta": [
+            "Tengo miedo"
+          ]
+        },
+        {
+          "texto_enunciado": "No, _____. ¿_____?",
+          "estimulo_visual": "Dibujo de una mujer hablando con un hombre acostado en la cama.",
+          "solucion_correcta": [
+            "¿Tienes sueño?",
+            "tengo gripe"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "estimulo_visual": "Dibujo de una persona tomando la temperatura con un termómetro a un niño acostado.",
+          "solucion_correcta": [
+            "Tienes fiebre"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____?",
+          "estimulo_visual": "Dibujo de varias personas mojadas bajo la lluvia.",
+          "solucion_correcta": [
+            "¿Tenéis frío?"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "calor",
+        "fiebre",
+        "frío",
+        "gripe",
+        "hambre",
+        "miedo",
+        "sed",
+        "sueño"
+      ]
+    },
+    {
+      "subejercicio": "45.3",
+      "tipologia": "T6",
+      "enunciado": "Escriba frases con tengo, tienes...",
+      "items": [
+        {
+          "texto_enunciado": "usted, sueño — ¿_____?",
+          "solucion_correcta": [
+            "¿Tiene usted sueño?"
+          ]
+        },
+        {
+          "texto_enunciado": "(tú) dinero — ¿_____?",
+          "solucion_correcta": [
+            "¿Tienes dinero?"
+          ]
+        },
+        {
+          "texto_enunciado": "(nosotros) no, coche — _____",
+          "solucion_correcta": [
+            "No tenemos coche"
+          ]
+        },
+        {
+          "texto_enunciado": "ustedes, hijos — ¿_____?",
+          "solucion_correcta": [
+            "¿Tienen ustedes hijos?"
+          ]
+        },
+        {
+          "texto_enunciado": "mis abuelos, doce nietos — _____",
+          "solucion_correcta": [
+            "Mis abuelos tienen doce nietos"
+          ]
+        },
+        {
+          "texto_enunciado": "usted, una casa grande — ¿_____?",
+          "solucion_correcta": [
+            "¿Tiene usted una casa grande?"
+          ]
+        },
+        {
+          "texto_enunciado": "(vosotras) muchos amigos — ¿_____?",
+          "solucion_correcta": [
+            "¿Tenéis muchos amigos?"
+          ]
+        },
+        {
+          "texto_enunciado": "ustedes, perro — ¿_____?",
+          "solucion_correcta": [
+            "¿Tienen ustedes perro?"
+          ]
+        },
+        {
+          "texto_enunciado": "(tú) un diccionario — ¿_____?",
+          "solucion_correcta": [
+            "¿Tienes un diccionario?"
+          ]
+        },
+        {
+          "texto_enunciado": "mi casa, no, ascensor — _____",
+          "solucion_correcta": [
+            "Mi casa no tiene ascensor"
+          ]
+        }
+      ]
+    }
+  ]
+}

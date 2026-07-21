@@ -1,0 +1,213 @@
+{
+  "tema": "unidad-52",
+  "titulo": "Vivo en México desde 1998",
+  "descripcion_gramatical": "Presente para expresar períodos de tiempo",
+  "fuente": "libro",
+  "unidad_libro": 52,
+  "ejercicios": [
+    {
+      "subejercicio": "52.1",
+      "tipologia": "T4",
+      "enunciado": "Complete los diálogos con la forma adecuada del verbo.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cuánto tiempo hace que (vivir) _____ usted en Caracas?",
+          "solucion_correcta": [
+            "vive"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Hablas español? —Sí, lo (hablar) _____ desde que era pequeño.",
+          "solucion_correcta": [
+            "hablo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Hace mucho que (conocer) _____ a Ronaldo? —Sí, lo _____ desde 1995.",
+          "solucion_correcta": [
+            "conoces",
+            "conozco"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuánto tiempo hace que (vivir) _____ ustedes en Quito? —Diez meses.",
+          "solucion_correcta": [
+            "Viven"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Desde cuándo (ser) _____ amigos Jorge y tú? —_____ amigos desde hace unos cinco años.",
+          "solucion_correcta": [
+            "sois",
+            "Somos"
+          ]
+        },
+        {
+          "texto_enunciado": "—Hace dos semanas que (trabajar) _____ en este bar. Me gusta.",
+          "solucion_correcta": [
+            "trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Desde cuándo no (ver) _____ a Petra? —No la _____ desde el verano pasado.",
+          "solucion_correcta": [
+            "ves",
+            "veo"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucas y Alba no (tener) _____ vacaciones desde hace cuatro años.",
+          "solucion_correcta": [
+            "tienen"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Hace mucho que (conducir) _____ usted?",
+          "solucion_correcta": [
+            "conduce"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuánto tiempo hace que (conocerse) _____ Elisa y Mario?",
+          "solucion_correcta": [
+            "se conocen"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "52.2",
+      "tipologia": "T12",
+      "enunciado": "Exprese la información dada en una frase comenzando con las palabras indicadas y el presente de indicativo en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Lupe conoce a Jaime. Lo conoció en 2001. Lupe _____.",
+          "solucion_correcta": [
+            "conoce a Jaime desde 2001"
+          ]
+        },
+        {
+          "texto_enunciado": "Yasir estudia español. Empezó a estudiarlo hace seis meses. Yasir _____.",
+          "solucion_correcta": [
+            "estudia español desde hace seis meses"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que vimos el mar fue hace un año. Hace _____.",
+          "solucion_correcta": [
+            "un año que no vemos el mar"
+          ]
+        },
+        {
+          "texto_enunciado": "Patricia dejó de venir el día de su cumpleaños. Patricia _____.",
+          "solucion_correcta": [
+            "no viene desde el día de su cumpleaños"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que mis padres me escribieron fue en Navidad. Mis padres _____.",
+          "solucion_correcta": [
+            "no me escriben desde Navidad"
+          ]
+        },
+        {
+          "texto_enunciado": "Salgo con Rosario. Empecé a salir con ella hace un mes. Hace _____.",
+          "solucion_correcta": [
+            "un mes que salgo con Rosario"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que fui al cine fue hace dos semanas. Hace _____.",
+          "solucion_correcta": [
+            "dos semanas que no voy al cine"
+          ]
+        },
+        {
+          "texto_enunciado": "Vivo en Guayaquil. Llegué allí en 1999. (Yo) _____.",
+          "solucion_correcta": [
+            "Vivo en Guayaquil desde 1999"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy buscando mis gafas. Empecé a buscarlas hace una hora. Hace _____.",
+          "solucion_correcta": [
+            "una hora que estoy buscando mis gafas"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que mis padres comieron carne fue hace cinco años. Hace _____.",
+          "solucion_correcta": [
+            "cinco años que mis padres no comen carne"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo móvil. Lo compré en julio. (Yo) _____.",
+          "solucion_correcta": [
+            "Tengo móvil desde julio"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que José vio a Marisa fue en verano. José _____.",
+          "solucion_correcta": [
+            "José no ve a Marisa desde el verano"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "52.3",
+      "tipologia": "T12",
+      "enunciado": "Formule preguntas para las respuestas dadas.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____? Hace cinco años que conozco a César.",
+          "solucion_correcta": [
+            "¿Cuánto tiempo hace que conoces a César?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? No fumo desde hace un mes.",
+          "solucion_correcta": [
+            "¿Desde cuándo no fumas?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? Hace dos años que vivimos en Mérida.",
+          "solucion_correcta": [
+            "¿Cuánto tiempo hace que vivís en Mérida?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? Asún y yo salimos juntos desde que teníamos dieciséis años.",
+          "solucion_correcta": [
+            "¿Desde cuándo salís juntos?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? Mi padre trabaja en esta empresa desde que tenía veinte años.",
+          "solucion_correcta": [
+            "¿Desde cuándo trabaja tu padre en esta empresa?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? Hace dos años que estudiamos español.",
+          "solucion_correcta": [
+            "¿Cuánto tiempo hace que estudiáis español?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? No vamos al cine desde las pasadas Navidades.",
+          "solucion_correcta": [
+            "¿Desde cuándo no vais al cine?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? Hace muchísimo tiempo que no como un helado.",
+          "solucion_correcta": [
+            "¿Cuánto tiempo hace que no comes un helado?"
+          ]
+        }
+      ]
+    }
+  ]
+}

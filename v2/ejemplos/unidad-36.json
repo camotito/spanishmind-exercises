@@ -1,0 +1,229 @@
+{
+  "tema": "unidad-36",
+  "titulo": "Me han regalado un reloj",
+  "descripcion_gramatical": "Pronombres personales de complemento indirecto",
+  "fuente": "libro",
+  "unidad_libro": 36,
+  "ejercicios": [
+    {
+      "subejercicio": "36.1",
+      "tipologia": "T2",
+      "enunciado": "Complete con me, te, le...",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué _____ ha regalado? — _____ ha regalado un pañuelo.",
+          "solucion_correcta": [
+            "te",
+            "Me"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ha regalado unos libros.",
+          "solucion_correcta": [
+            "Nos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ha regalado una bufanda.",
+          "solucion_correcta": [
+            "Le"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué _____ ha regalado a usted?",
+          "solucion_correcta": [
+            "le"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ha regalado perfume.",
+          "solucion_correcta": [
+            "Les"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué _____ ha regalado?",
+          "solucion_correcta": [
+            "os"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ha regalado un paraguas.",
+          "solucion_correcta": [
+            "Le"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer pregunta a otra mujer, que sostiene un pañuelo."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un hombre sostiene unos libros mientras habla con otro hombre."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una mujer habla con otra persona que sostiene una bufanda."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer pregunta a un hombre que sostiene un regalo."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una mujer entrega un frasco de perfume a otra mujer."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una mujer con un regalo habla con otra mujer."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mujer habla con otra mujer que sostiene un paraguas."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "36.2",
+      "tipologia": "T12",
+      "enunciado": "Responda a estas preguntas siguiendo el modelo.",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué te han dicho? _____.",
+          "solucion_correcta": [
+            "No me han dicho nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué le ha dicho a usted? _____.",
+          "solucion_correcta": [
+            "No me ha dicho nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué os ha dado? _____.",
+          "solucion_correcta": [
+            "No nos ha dado nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué le han preguntado a Susana? _____.",
+          "solucion_correcta": [
+            "No le han preguntado nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué me ha dicho? _____.",
+          "solucion_correcta": [
+            "No te ha dicho nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué nos han preguntado? _____.",
+          "solucion_correcta": [
+            "No os/nos han preguntado nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué te ha vendido? _____.",
+          "solucion_correcta": [
+            "No me ha vendido nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué les han dado a ustedes? _____.",
+          "solucion_correcta": [
+            "No nos han dado nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué le han preguntado a Alberto? _____.",
+          "solucion_correcta": [
+            "No le han preguntado nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué les han regalado a tus hijas? _____.",
+          "solucion_correcta": [
+            "No les han regalado nada"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "36.3",
+      "tipologia": "T12",
+      "enunciado": "Escriba preguntas y respuestas como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "¿Te dijo algo Luis? _____.",
+          "solucion_correcta": [
+            "A mí no me dijo nada",
+            "¿Les dijo algo a ustedes?",
+            "A nosotros no nos dijo nada",
+            "¿Le dijo algo a Marcela?",
+            "A Marcela/ella no le dijo nada"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "(¿a ustedes?) ¿_____? _____.",
+          "solucion_correcta": [
+            "A nosotros no nos ha preguntado nada",
+            "¿Le ha preguntado algo a Tomás?",
+            "A Tomás/él no le ha preguntado nada",
+            "¿Le ha preguntado algo a usted?",
+            "A mí no me ha preguntado nada"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "(¿a Marcela?) ¿_____? _____.",
+          "solucion_correcta": [
+            "A ti no te ha comprado nada",
+            "¿Nos ha comprado algo a nosotros?",
+            "A vosotros no os ha comprado nada / A nosotros no nos ha comprado nada",
+            "¿Le ha comprado algo a su hermano?",
+            "A su hermano / A él no le ha comprado nada"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "¿Os ha preguntado algo Lola? _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "(¿a Tomás?) ¿_____? _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "(¿a usted?) ¿_____? _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "¿Me ha comprado algo Yvonne? _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "(¿a nosotros?) ¿_____? _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "(¿a su hermano?) ¿_____? _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    }
+  ]
+}

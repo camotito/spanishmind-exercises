@@ -1,0 +1,148 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "83.1",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría? Escriba frases con quien y el pretérito imperfecto de subjuntivo del verbo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "A alguien le gustaría ser más alto. _____"
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría poder vivir en Guatemala, pero lo ve difícil. _____"
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría saber hablar chino, pero lo ve difícil. _____"
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría tener tanta suerte como un amigo, pero lo ve difícil. _____"
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría estar ahora de vacaciones, pero no lo está. _____"
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría conducir un coche de carreras, pero lo ve difícil. _____"
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría sonreír siempre, pero no es posible. _____"
+        }
+      ],
+      "tipologia_libre_original": "Producción de frases a partir de situaciones descritas, usando quien y el pretérito imperfecto de subjuntivo del verbo adecuado."
+    },
+    {
+      "subejercicio": "83.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro en imperfecto de subjuntivo.",
+      "banco_palabras": [
+        "caerse",
+        "dar",
+        "haber",
+        "hacer",
+        "leer",
+        "oír",
+        "pedir",
+        "poder",
+        "sentir",
+        "ser",
+        "tener",
+        "traducir",
+        "traer"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Era imposible que _____ las maletas. Estaban bien sujetas."
+        },
+        {
+          "texto_enunciado": "Sería maravilloso que _____ mucho trabajo. Podríamos ahorrar para un piso."
+        },
+        {
+          "texto_enunciado": "Me llamó la atención que le _____ el diccionario a Gabriel. No sois amigos."
+        },
+        {
+          "texto_enunciado": "¿Por qué habéis traído pasteles? No era necesario que _____ nada."
+        },
+        {
+          "texto_enunciado": "El profesor no quería que _____ las frases."
+        },
+        {
+          "texto_enunciado": "Perdonen, pero preferiría que no _____ fuego aquí."
+        },
+        {
+          "texto_enunciado": "Me encantaría que _____ pasar unos días conmigo. Lo paso muy bien con vosotras."
+        },
+        {
+          "texto_enunciado": "—Josefina sintió mucho que no te _____ el empleo. —Puede que lo _____, pero no me dijo nada."
+        },
+        {
+          "texto_enunciado": "Mi padre esperaba que _____ abogado como él, pero yo no quise."
+        },
+        {
+          "texto_enunciado": "Sería bueno que _____ más, niños. Leer es importante."
+        },
+        {
+          "texto_enunciado": "—¿Por qué no vinieron cuando los llamé? —Puede que no te _____."
+        },
+        {
+          "texto_enunciado": "Me gustaría que _____ menos violencia en el mundo."
+        }
+      ],
+      "tipologia_libre_original": "Completar oraciones seleccionando verbos de un recuadro y conjugándolos en imperfecto de subjuntivo."
+    },
+    {
+      "subejercicio": "83.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos oraciones con que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No vinisteis a la fiesta. Me extrañó. _____."
+        },
+        {
+          "texto_enunciado": "Nos hicieron una foto. No nos gustó. _____."
+        },
+        {
+          "texto_enunciado": "Elegiste mi clase. Me alegré de ello. _____."
+        },
+        {
+          "texto_enunciado": "Rafa tuvo que irse. Lo sentimos. _____."
+        },
+        {
+          "texto_enunciado": "Raúl no vino a mi fiesta. No me importó. _____."
+        },
+        {
+          "texto_enunciado": "Gisele dijo que yo había mentido. Me molestó. _____."
+        },
+        {
+          "texto_enunciado": "Te reíste de Blas. Me pareció mal. _____."
+        },
+        {
+          "texto_enunciado": "No me hiciste caso. No me gustó. _____."
+        },
+        {
+          "texto_enunciado": "Jesús y Luis durmieron ocho horas. Me extrañó. _____."
+        },
+        {
+          "texto_enunciado": "Tus hermanas no quisieron salir con nosotras. Me pareció lógico. _____."
+        },
+        {
+          "texto_enunciado": "Los niños nos dieron la bienvenida. Nos encantó. _____."
+        },
+        {
+          "texto_enunciado": "Alberto hizo la cena. Nos extrañó. _____."
+        },
+        {
+          "texto_enunciado": "Su perro se murió joven. Lo sintió. _____."
+        },
+        {
+          "texto_enunciado": "Construyeron un cine en su barrio. Se alegró mucho. _____."
+        }
+      ],
+      "tipologia_libre_original": "Unión y reescritura de dos oraciones en una sola mediante que, realizando los cambios verbales y sintácticos necesarios."
+    }
+  ],
+  "unidad": 83,
+  "titulo_libro": "fuera, tuviera... -- Pretérito imperfecto de subjuntivo: verbos irregulares",
+  "scan": "libro-rojo-176.png"
+}

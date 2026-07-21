@@ -1,0 +1,228 @@
+{
+  "tema": "unidad-30",
+  "titulo": "¿quién?, ¿qué?...",
+  "descripcion_gramatical": "Interrogativos (1)",
+  "fuente": "libro",
+  "unidad_libro": 30,
+  "ejercicios": [
+    {
+      "subejercicio": "30.1",
+      "tipologia": "T9",
+      "enunciado": "Ordene las palabras de las siguientes preguntas.",
+      "items": [
+        {
+          "texto_enunciado": "¿tiene / en la mano / Julián / qué? _____",
+          "solucion_correcta": [
+            "¿Qué tiene Julián en la mano?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿quién / Eloísa / está bailando / con? _____",
+          "solucion_correcta": [
+            "¿Con quién está bailando Eloísa?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿ese anillo / para / es / quién? _____",
+          "solucion_correcta": [
+            "¿Para quién es ese anillo?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿anoche / pasó / qué? _____",
+          "solucion_correcta": [
+            "¿Qué pasó anoche?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿quién / esa bolsa / de / es? _____",
+          "solucion_correcta": [
+            "¿De quién es esa bolsa?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿tus padres / te / qué / han regalado? _____",
+          "solucion_correcta": [
+            "¿Qué te han regalado tus padres?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿la puerta / qué / has abierto / con? _____",
+          "solucion_correcta": [
+            "¿Con qué has abierto la puerta?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿está escribiendo / una novela / quién? _____",
+          "solucion_correcta": [
+            "¿Quién está escribiendo una novela?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿María / qué / quiere? _____",
+          "solucion_correcta": [
+            "¿Qué quiere María?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿quiere / a María / quién? _____",
+          "solucion_correcta": [
+            "¿Quién quiere a María?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿es / la sopa / qué / de? _____",
+          "solucion_correcta": [
+            "¿De qué es la sopa?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "30.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las preguntas con quién, quiénes o qué.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____ te ha regalado ese collar?",
+          "solucion_correcta": [
+            "Quién"
+          ]
+        },
+        {
+          "texto_enunciado": "¿De _____ es esta pluma?",
+          "solucion_correcta": [
+            "Quién"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ miel tomas normalmente?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Con _____ fuiste a Bolivia?",
+          "solucion_correcta": [
+            "quién"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ estás haciendo?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ van a jugar en el equipo esta semana?",
+          "solucion_correcta": [
+            "Quiénes"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ libros le gustan a Teresa?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Con _____ has abierto el paquete?",
+          "solucion_correcta": [
+            "qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¿A _____ visteis anoche en la fiesta?",
+          "solucion_correcta": [
+            "quién"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ visteis anoche en la tele?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ quería Julián?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "30.3",
+      "tipologia": "T12",
+      "enunciado": "Formule preguntas sobre la información marcada en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "–Ayer estuve <u>con Águeda</u>. –¿_____ estuviste ayer?",
+          "solucion_correcta": [
+            "Con quién"
+          ]
+        },
+        {
+          "texto_enunciado": "–Esa silla está hecha <u>de cuerda</u>. –¿_____ está hecha esa silla?",
+          "solucion_correcta": [
+            "De qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–Normalmente comemos con <u>pan de molde</u>. –¿_____ pan coméis?",
+          "solucion_correcta": [
+            "Con qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–Alfonso quiere comprarse <u>un CD</u>. –¿_____ quiere comprarse Alfonso?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–Estas gafas son <u>de Pablo</u>. –¿_____ son esas gafas?",
+          "solucion_correcta": [
+            "De quién"
+          ]
+        },
+        {
+          "texto_enunciado": "–Georgina está trabajando <u>con su madre</u>. –¿_____ está trabajando Georgina?",
+          "solucion_correcta": [
+            "Con quién"
+          ]
+        },
+        {
+          "texto_enunciado": "–Han ganado <u>Eduardo y Marisa</u>. –¿_____ han ganado?",
+          "solucion_correcta": [
+            "Quiénes"
+          ]
+        },
+        {
+          "texto_enunciado": "–Mira. Esos chicos están <u>bailando</u>. –¿_____ están haciendo esos chicos?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–Belinda no quiere <u>a Ariel</u>. –¿_____ no quiere Belinda?",
+          "solucion_correcta": [
+            "A quién"
+          ]
+        },
+        {
+          "texto_enunciado": "–Estas flores son <u>para mi abuela</u>. –¿_____ son esas flores?",
+          "solucion_correcta": [
+            "Para quién"
+          ]
+        },
+        {
+          "texto_enunciado": "–Me han regalado <u>unos bombones</u>. –¿_____ te han regalado?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        }
+      ]
+    }
+  ]
+}

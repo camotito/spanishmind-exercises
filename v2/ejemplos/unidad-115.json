@@ -1,0 +1,197 @@
+{
+  "tema": "unidad-115",
+  "titulo": "Pienso en ti",
+  "descripcion_gramatical": "Verbos con preposiciones",
+  "fuente": "libro",
+  "unidad_libro": 115,
+  "ejercicios": [
+    {
+      "subejercicio": "115.1",
+      "tipologia": "T13",
+      "enunciado": "Una las dos columnas con las preposiciones adecuadas.",
+      "items": [],
+      "banco_palabras": [
+        "a",
+        "con",
+        "de",
+        "en"
+      ]
+    },
+    {
+      "subejercicio": "115.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con a, de, en o con.",
+      "items": [
+        {
+          "texto_enunciado": "¿Confías _____ nosotros?",
+          "solucion_correcta": [
+            "en"
+          ]
+        },
+        {
+          "texto_enunciado": "Lina se ha divorciado _____ su marido.",
+          "solucion_correcta": [
+            "de"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te atreves _____ tirarte desde aquí?",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "Esther se ha enfadado _____ Amelia.",
+          "solucion_correcta": [
+            "con"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo van a comenzar _____ pintar la casa?",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo que aprender _____ conducir.",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Crees _____ las supersticiones?",
+          "solucion_correcta": [
+            "en"
+          ]
+        },
+        {
+          "texto_enunciado": "Me alegro mucho _____ verte.",
+          "solucion_correcta": [
+            "de"
+          ]
+        },
+        {
+          "texto_enunciado": "Bruno y Adela no se deciden _____ casarse.",
+          "solucion_correcta": [
+            "a"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "115.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con a, de, en, con y las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Esta noche vienen unos amigos _____.",
+          "solucion_correcta": [
+            "a cenar"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí huele _____.",
+          "solucion_correcta": [
+            "a perfume"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo me conformo _____.",
+          "solucion_correcta": [
+            "con ganar para vivir"
+          ]
+        },
+        {
+          "texto_enunciado": "No te molestes _____.",
+          "solucion_correcta": [
+            "en acompañarme a casa"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya me he acostumbrado _____.",
+          "solucion_correcta": [
+            "a levantarme temprano"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que disfrutar _____.",
+          "solucion_correcta": [
+            "de la vida"
+          ]
+        },
+        {
+          "texto_enunciado": "Carlos cuenta siempre _____.",
+          "solucion_correcta": [
+            "con la ayuda de sus amigos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién te enseña _____?",
+          "solucion_correcta": [
+            "a hacer yoga"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucio se arrepiente _____.",
+          "solucion_correcta": [
+            "de su pasado"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acompañarme a casa",
+        "cenar",
+        "ganar para vivir",
+        "hacer yoga",
+        "la ayuda de mis amigos",
+        "la vida",
+        "levantarme temprano",
+        "perfume",
+        "su pasado"
+      ]
+    },
+    {
+      "subejercicio": "115.4",
+      "tipologia": "T4",
+      "enunciado": "Sustituya las palabras entre paréntesis por la forma adecuada del pronombre. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer me acordé de (tú) _____ en el concierto.",
+          "solucion_correcta": [
+            "ti"
+          ]
+        },
+        {
+          "texto_enunciado": "Confío en (mi hermano) _____.",
+          "solucion_correcta": [
+            "él"
+          ]
+        },
+        {
+          "texto_enunciado": "No se quiere casar con (yo) _____.",
+          "solucion_correcta": [
+            "conmigo"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gusta que se rían de (mis amigos y yo) _____.",
+          "solucion_correcta": [
+            "nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis padres no desconfían de (yo) _____.",
+          "solucion_correcta": [
+            "mí"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué se ha enfadado Tere con (tú) _____?",
+          "solucion_correcta": [
+            "contigo"
+          ]
+        }
+      ]
+    }
+  ]
+}

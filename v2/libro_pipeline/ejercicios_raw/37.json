@@ -1,0 +1,135 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "37.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas con me, te, se... y lo, la, los, las.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Quién te ha regalado esos bombones? –_____ _____ ha regalado Anita."
+        },
+        {
+          "texto_enunciado": "–¿Quién les ha prestado el dinero a tus padres? –_____ _____ ha prestado Juan."
+        },
+        {
+          "texto_enunciado": "–¿Quién os ha enviado ese paquete? –_____ _____ ha enviado mi tía Rosa."
+        },
+        {
+          "texto_enunciado": "–¿Quién me envía estas flores? –_____ _____ envía Raúl."
+        },
+        {
+          "texto_enunciado": "–¿Quién le ha regalado esa corbata, Antonio? –_____ _____ ha regalado mi mujer."
+        },
+        {
+          "texto_enunciado": "–¿Quién les ha enseñado el museo a ustedes? –_____ _____ ha enseñado un guía turístico."
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Conteste a las preguntas.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Te ha dado Pepe el regalo? –No, _____."
+        },
+        {
+          "texto_enunciado": "–¿Os ha prestado Pablo el dinero? –Sí, _____."
+        },
+        {
+          "texto_enunciado": "–¿Les ha presentado Sara su novio a sus padres? –No, _____."
+        },
+        {
+          "texto_enunciado": "–¿Le ha enseñado a usted su casa Marta? –Sí, _____."
+        },
+        {
+          "texto_enunciado": "–¿Les ha presentado Hugo sus amigos a sus padres? –Sí, _____."
+        },
+        {
+          "texto_enunciado": "–¿Le ha vendido Jesús su coche a Antonia? –No, _____."
+        },
+        {
+          "texto_enunciado": "–¿Les ha enseñado a ustedes los cuadros Ramón? –Sí, _____."
+        },
+        {
+          "texto_enunciado": "–¿Me ha traído Rita las entradas? –Sí, _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con me, te, se... y lo, la, los, las.",
+      "items": [
+        {
+          "texto_enunciado": "Este paraguas (a él) _____ _____ regaló Andrea."
+        },
+        {
+          "texto_enunciado": "Esta corbata (a mí) _____ _____ regaló mi novia."
+        },
+        {
+          "texto_enunciado": "Ese coche (a ellos) _____ _____ ha vendido un amigo."
+        },
+        {
+          "texto_enunciado": "Esa lámpara (a nosotros) _____ _____ ha regalado una tía de Alberto."
+        },
+        {
+          "texto_enunciado": "Esas flores (a ella) _____ _____ ha traído su novio."
+        },
+        {
+          "texto_enunciado": "Este paquete (a usted) _____ _____ ha traído un mensajero."
+        },
+        {
+          "texto_enunciado": "Esos bombones (a ellas) _____ _____ ha comprado su hermano."
+        },
+        {
+          "texto_enunciado": "Este libro (a ti) _____ _____ ha traído Víctor."
+        },
+        {
+          "texto_enunciado": "Esta carta (a mí) _____ _____ envía una amiga de Perú."
+        },
+        {
+          "texto_enunciado": "Estos helados (a vosotros) _____ _____ compro yo."
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Responda como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Te ha dado las entradas? –No, _____."
+        },
+        {
+          "texto_enunciado": "–¿Le ha dado a usted el dinero? –No, _____."
+        },
+        {
+          "texto_enunciado": "–¿Os ha dado las llaves? –No, _____."
+        },
+        {
+          "texto_enunciado": "–¿Me ha enviado el paquete? –No, _____, don Antonio."
+        },
+        {
+          "texto_enunciado": "–¿Nos han aprobado? –No, _____."
+        },
+        {
+          "texto_enunciado": "–¿La han aprobado a Teresa? –Sí, _____."
+        },
+        {
+          "texto_enunciado": "–¿Y lo han aprobado a Alfonso? –No, _____."
+        },
+        {
+          "texto_enunciado": "–¿Nos han invitado a la fiesta? –No, _____."
+        }
+      ]
+    }
+  ],
+  "unidad": 37,
+  "titulo_libro": "Se lo he dado. Te lo he dado -- Pronombres de complemento indirecto y directo",
+  "scan": "libro-rojo-084.png"
+}

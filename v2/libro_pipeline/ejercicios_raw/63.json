@@ -1,0 +1,106 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "63.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el pretérito imperfecto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (yo, ser) _____ pequeño, siempre (rezar) _____ antes de acostarme."
+        },
+        {
+          "texto_enunciado": "Cuando Martín y Pablo (ser) _____ jóvenes, (llevar) _____ camisas de flores y (escuchar) _____ música pop."
+        },
+        {
+          "texto_enunciado": "Cuando nos casamos, (vivir) _____ en un piso alquilado y Nuria (trabajar) _____ en una empresa de informática."
+        },
+        {
+          "texto_enunciado": "Loli (ser) _____ muy independiente de pequeña. (Ducharse) _____ sola, (hacerse) _____ la cama, (prepararse) _____ el desayuno e (ir) _____ sola al colegio."
+        },
+        {
+          "texto_enunciado": "—¿A qué (tú, dedicarse) _____ antes de conocernos? —(Estudiar) _____ Derecho."
+        },
+        {
+          "texto_enunciado": "Cuando (nosotros, vivir) _____ en Ciudad de México, (ir) _____ a Acapulco todos los veranos."
+        },
+        {
+          "texto_enunciado": "—¿Qué (querer) _____ ser de pequeña, María? —(Querer) _____ ser astronauta."
+        }
+      ]
+    },
+    {
+      "subejercicio": "63.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases sobre las antiguas civilizaciones de América.",
+      "banco_palabras": [
+        "adorar",
+        "beber",
+        "construir",
+        "criar",
+        "ser",
+        "tener",
+        "vivir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Los aztecas _____ pirámides escalonadas."
+        },
+        {
+          "texto_enunciado": "Los mayas _____ un calendario de dieciocho meses."
+        },
+        {
+          "texto_enunciado": "Los aztecas _____ en el centro y sur de México."
+        },
+        {
+          "texto_enunciado": "Los incas _____ al sol."
+        },
+        {
+          "texto_enunciado": "Los aztecas _____ chocolate."
+        },
+        {
+          "texto_enunciado": "Los incas _____ llamas."
+        },
+        {
+          "texto_enunciado": "Los caribes _____ cazadores y recolectores."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases con verbos seleccionados de un banco y conjugados en pretérito imperfecto."
+    },
+    {
+      "subejercicio": "63.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete el texto utilizando los verbos del recuadro.",
+      "banco_palabras": [
+        "acostarse",
+        "ayudar",
+        "bailar",
+        "bañarse",
+        "cultivar",
+        "divertirse",
+        "estar",
+        "gustar",
+        "haber",
+        "jugar",
+        "llevar",
+        "ocuparse",
+        "querer",
+        "reunirse",
+        "ser",
+        "tener",
+        "trabajar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Cuando era pequeño pasaba los veranos en el pueblo de mis abuelos. _____ un pueblo muy pequeño y muy pobre. Las casas _____ de adobe y _____ unas ventanas muy pequeñas. La casa de mis abuelos _____ en las afueras del pueblo, cerca del río. _____ dos pisos y en la parte de atrás _____ un pequeño huerto con algunos frutales. Mi abuelo no _____ casi pelo; _____ siempre una boina negra. Mi abuela _____ el pelo y los ojos grises. Los dos me _____ mucho. Mi abuelo _____ en el campo; _____ trigo y uvas para hacer vino. Mi abuela le _____ y _____ de la casa. Los veranos en el pueblo _____ muy divertidos. _____ muchos amigos y _____ todas las tardes. Unas veces _____ al fútbol, otras _____ en el río. Cuando más me _____ era en las fiestas. Durante tres o cuatro días _____ baile todas las noches. Los chicos no _____ mucho, pero nos _____ la música y _____ tardísimo. _____ unos veranos maravillosos."
+        }
+      ],
+      "tipologia_libre_original": "Completar un texto narrativo con verbos seleccionados de un banco y conjugados en pretérito imperfecto."
+    }
+  ],
+  "unidad": 63,
+  "titulo_libro": "trabajaba, comía, vivía -- Pretérito imperfecto",
+  "scan": "libro-rojo-136.png"
+}

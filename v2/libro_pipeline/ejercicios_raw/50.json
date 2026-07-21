@@ -1,0 +1,176 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "50.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Utilice los verbos del recuadro para completar las siguientes frases.",
+      "banco_palabras": [
+        "dar",
+        "dar",
+        "hacer",
+        "huir",
+        "ir",
+        "poner",
+        "poner",
+        "saber",
+        "saber",
+        "traducir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Guillermo no _____ nadar."
+        },
+        {
+          "texto_enunciado": "Soy profesor. _____ clases de Filosofía."
+        },
+        {
+          "texto_enunciado": "Mi familia _____ a Punta del Este todos los veranos."
+        },
+        {
+          "texto_enunciado": "Julia es profesora. _____ clases de Biología."
+        },
+        {
+          "texto_enunciado": "Las cigüeñas _____ sus nidos en lugares altos."
+        },
+        {
+          "texto_enunciado": "(yo) _____ la radio cuando me despierto."
+        },
+        {
+          "texto_enunciado": "Mis padres _____ un viaje todos los años."
+        },
+        {
+          "texto_enunciado": "Marta no _____ esquiar."
+        },
+        {
+          "texto_enunciado": "La mayoría de animales _____ cuando hay peligro."
+        },
+        {
+          "texto_enunciado": "Soy traductor. _____ libros del francés al español."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases conjugando los verbos proporcionados en un recuadro."
+    },
+    {
+      "subejercicio": "50.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las preguntas y las respuestas con los siguientes verbos: conducir, conocer, dar, hacer, ir, saber o salir.",
+      "items": [
+        {
+          "texto_enunciado": "—¿_____ conducir? —Sí, pero no _____ muy bien."
+        },
+        {
+          "texto_enunciado": "—¿Cómo _____ a la oficina? —Normalmente _____ en metro."
+        },
+        {
+          "texto_enunciado": "—¿Qué _____ los fines de semana? —_____ con mis amigos."
+        },
+        {
+          "texto_enunciado": "—¿_____ usted hacer empanadas? —Sí, pero no las _____ muy bien."
+        },
+        {
+          "texto_enunciado": "—¿_____ usted hablar inglés? —No, solo _____ hablar español."
+        },
+        {
+          "texto_enunciado": "—¿_____ usted La Habana? —No, no la _____."
+        },
+        {
+          "texto_enunciado": "—¿Adónde _____ usted en verano? —Normalmente _____ a la playa."
+        },
+        {
+          "texto_enunciado": "—¿Qué _____ (vosotros) los domingos? —_____ una vuelta o _____ a bailar."
+        },
+        {
+          "texto_enunciado": "—¿_____ (vosotros) mucho al cine? —_____ dos o tres veces al mes."
+        },
+        {
+          "texto_enunciado": "—¿_____ ustedes España? —Sí, la _____ muy bien. _____ allí con frecuencia."
+        }
+      ],
+      "tipologia_libre_original": "Completar preguntas y respuestas conjugando los verbos indicados en el enunciado."
+    },
+    {
+      "subejercicio": "50.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete los bocadillos con los verbos del recuadro en forma afirmativa o negativa.",
+      "banco_palabras": [
+        "conocer",
+        "huir",
+        "ir",
+        "ir",
+        "oír",
+        "parecer",
+        "saber",
+        "traer"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer pregunta a dos jóvenes que llevan mochilas."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un hombre corre mientras un automóvil se aproxima y dos personas lo observan."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una persona pide socorro mientras se está ahogando."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre habla con un anciano que se lleva una mano a la oreja."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una mujer con el pelo alborotado y aspecto de bruja."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una persona pregunta a un conductor junto a un autobús."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Un hombre muestra una bandeja cubierta a varias personas."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un hombre y una mujer conversan mientras sostienen unas tazas."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "¿Adónde _____?"
+        },
+        {
+          "texto_enunciado": "¿Por qué _____?"
+        },
+        {
+          "texto_enunciado": "¡Socorro! _____ nadar."
+        },
+        {
+          "texto_enunciado": "Habla más alto. _____ bien."
+        },
+        {
+          "texto_enunciado": "_____ una bruja."
+        },
+        {
+          "texto_enunciado": "Perdone, ¿adónde _____ este autobús?"
+        },
+        {
+          "texto_enunciado": "¡_____ pasteles!"
+        },
+        {
+          "texto_enunciado": "Perdona, _____ te _____. ¿Cómo te llamas?"
+        }
+      ]
+    }
+  ],
+  "unidad": 50,
+  "titulo_libro": "voy, hago, conozco... -- Presente de indicativo: verbos irregulares (2)",
+  "scan": "libro-rojo-110.png"
+}

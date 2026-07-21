@@ -1,0 +1,165 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "116.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con o/u o y/e.",
+      "items": [
+        {
+          "texto_enunciado": "¿Es usted peruano _____ boliviano?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Tienes lápiz _____ papel?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No recuerdo si dijo septiembre _____ octubre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mis meses preferidos son julio _____ agosto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No recuerdo si me dieron diez _____ once.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Solo conozco dos países europeos, Francia _____ Italia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—¿Son tuyos _____ de Carlos? —Son míos _____ de Carlos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Gabriel _____ Ignacio trabajan en la misma empresa.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "116.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con y/e, ni o ni... ni. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Keiko habla inglés. Keiko habla español. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No hablo inglés. No hablo alemán. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me gusta la fruta. No me gustan las verduras. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Juan le gusta bailar. A Diana le gusta bailar. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Juan no le gusta el fútbol. A Diana no le gusta el fútbol. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Héctor estudia idiomas. Héctor estudia informática. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luisa trabaja en la universidad. Luisa trabaja en una academia. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luis no tiene coche. Luis no sabe conducir. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi hermano no quiere salir. Mi hermana no quiere salir. _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Reescritura por combinación: cada ítem presenta dos frases independientes y una línea en la que deben unirse con y/e, ni o ni... ni, haciendo los cambios necesarios."
+    },
+    {
+      "subejercicio": "116.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases sobre un grupo de amigos con y/e, ni, ni... ni o pero.",
+      "items": [
+        {
+          "texto_enunciado": "Raquel es española. Irene es española. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raquel juega al baloncesto. No es muy alta. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pedro no es muy guapo. Pedro es muy simpático. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Pedro le gusta Raquel. A Raquel no le gusta Pedro. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raquel no trabaja. Pedro no trabaja. Irene no trabaja. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Raquel le gusta la música clásica. A Irene le gusta la música clásica. A Pedro le gusta la música clásica. _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Reescritura por combinación: cada ítem presenta dos o tres frases sobre un grupo de amigos y una línea para unirlas en una sola oración con y/e, ni, ni... ni o pero."
+    },
+    {
+      "subejercicio": "116.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con pero, sino o sino que.",
+      "items": [
+        {
+          "texto_enunciado": "Hugo no vive en La Paz, _____ en Cochabamba.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es casado, _____ no conozco a su mujer.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Trabaja en un taller, _____ no gana mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No solo no trabaja, _____ tampoco estudia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Juana no es mexicana, _____ guatemalteca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nació en Quezaltenango, _____ vive en San Cristóbal de las Casas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No solo trabaja, _____ además va a clases por la noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiere poner un negocio, _____ no tiene dinero.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 116,
+  "titulo_libro": "y, o, pero... -- Conjunciones",
+  "scan": "libro-rojo-242.png"
+}

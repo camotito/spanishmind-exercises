@@ -1,0 +1,197 @@
+{
+  "tema": "unidad-62",
+  "titulo": "he trabajado / trabajé",
+  "descripcion_gramatical": "Contraste entre pretérito perfecto y pretérito indefinido",
+  "fuente": "libro",
+  "unidad_libro": 62,
+  "ejercicios": [
+    {
+      "subejercicio": "62.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "(Hemos estado/estuvimos) con Rosa hace poco.",
+          "solucion_correcta": [
+            "Hemos estado"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy no (he ido/fui) a trabajar.",
+          "solucion_correcta": [
+            "he ido"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo (ha nacido/nació) tu hijo mayor?",
+          "solucion_correcta": [
+            "nació"
+          ]
+        },
+        {
+          "texto_enunciado": "(Hemos estado/Estuvimos) en México el verano de 1998.",
+          "solucion_correcta": [
+            "Estuvimos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Han comido/Comieron) alguna vez ceviche?",
+          "solucion_correcta": [
+            "Han comido"
+          ]
+        },
+        {
+          "texto_enunciado": "Este invierno no (ha nevado/nevó) mucho.",
+          "solucion_correcta": [
+            "ha nevado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Has visto/Viste) ya el vídeo que te presté?",
+          "solucion_correcta": [
+            "Has visto"
+          ]
+        },
+        {
+          "texto_enunciado": "Peter no (ha estudiado/estudió) nunca español.",
+          "solucion_correcta": [
+            "ha estudiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Amalia y sus padres (han venido/vinieron) a España hace tres años.",
+          "solucion_correcta": [
+            "vinieron"
+          ]
+        },
+        {
+          "texto_enunciado": "Todavía no (he visto/vi) la última exposición de Barceló.",
+          "solucion_correcta": [
+            "he visto"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Has trabajado/Trabajaste) alguna vez en una película?",
+          "solucion_correcta": [
+            "Has trabajado"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando nos casamos, (hemos hecho/hicimos) un viaje por América Central.",
+          "solucion_correcta": [
+            "hicimos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con la forma adecuada: pretérito perfecto o pretérito indefinido.",
+      "items": [
+        {
+          "texto_enunciado": "¿(ustedes, montar) _____ alguna vez en globo?",
+          "solucion_correcta": [
+            "Han montado"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi hermana (tener) _____ un niño hace poco.",
+          "solucion_correcta": [
+            "ha tenido"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosana nos (invitar) _____ a su chalé el fin de semana pasado.",
+          "solucion_correcta": [
+            "invitó"
+          ]
+        },
+        {
+          "texto_enunciado": "Este año (haber) _____ menos accidentes en las carreteras.",
+          "solucion_correcta": [
+            "ha habido"
+          ]
+        },
+        {
+          "texto_enunciado": "El siglo pasado (haber) _____ dos guerras mundiales.",
+          "solucion_correcta": [
+            "hubo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(tú, ver) _____ a Ana? –Sí, la (ver) _____ el domingo.",
+          "solucion_correcta": [
+            "Has visto",
+            "vi"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(vosotras, estar) _____ alguna vez en América del Sur? –Sí, hace cuatro años (estar) _____ en Uruguay.",
+          "solucion_correcta": [
+            "Habéis estado",
+            "estuvimos"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(tú, sacar) _____ las entradas para el partido? –Por supuesto. Las (yo, comprar) _____ hace dos semanas.",
+          "solucion_correcta": [
+            "Has sacado",
+            "compré"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué (ustedes, hacer) _____ este verano? –En julio (estar) _____ en Cancún. Lo (pasar) _____ estupendamente.",
+          "solucion_correcta": [
+            "han hecho",
+            "estuvimos",
+            "pasamos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.3",
+      "tipologia": "T12",
+      "enunciado": "Arnaldo y Maite están pasando una semana de vacaciones en España. Complete el diálogo escribiendo las preguntas y respuestas como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "(estar, Barcelona) ¿_____\n(miércoles) Sí, _____.\nNo, _____.",
+          "solucion_correcta": [
+            "¿Habéis estado ya en Barcelona?",
+            "estuvimos el miércoles",
+            "todavía no hemos estado en Barcelona"
+          ]
+        },
+        {
+          "texto_enunciado": "(probar, el cocido) ¿_____?\n(lunes) Sí, _____.",
+          "solucion_correcta": [
+            "¿Habéis probado ya el cocido?",
+            "lo probamos el lunes"
+          ]
+        },
+        {
+          "texto_enunciado": "(visitar, Museo del Prado) ¿_____?\n(martes por la mañana) Sí, _____.",
+          "solucion_correcta": [
+            "¿Habéis visitado ya el Museo del Prado?",
+            "lo visitamos el martes por la mañana"
+          ]
+        },
+        {
+          "texto_enunciado": "(comprar, los regalos) ¿_____?\nNo, _____.",
+          "solucion_correcta": [
+            "¿Habéis comprado ya los regalos?",
+            "todavía no los hemos comprado"
+          ]
+        },
+        {
+          "texto_enunciado": "(ir, a Sevilla) ¿_____?\n(ayer) Sí, _____.",
+          "solucion_correcta": [
+            "¿Habéis ido ya a Sevilla?",
+            "fuimos ayer"
+          ]
+        }
+      ]
+    }
+  ]
+}

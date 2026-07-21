@@ -1,0 +1,257 @@
+{
+  "tema": "unidad-49",
+  "titulo": "quiero, mido, sueño...",
+  "descripcion_gramatical": "Presente de indicativo: verbos irregulares (1)",
+  "fuente": "libro",
+  "unidad_libro": 49,
+  "ejercicios": [
+    {
+      "subejercicio": "49.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las formas correspondientes de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Antonio (querer) _____ ser médico.",
+          "solucion_correcta": [
+            "quiere"
+          ]
+        },
+        {
+          "texto_enunciado": "En verano (yo, regar) _____ las plantas todos los días.",
+          "solucion_correcta": [
+            "riego"
+          ]
+        },
+        {
+          "texto_enunciado": "La clase (empezar) _____ a las ocho.",
+          "solucion_correcta": [
+            "empieza"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis y Pili (jugar) _____ muy mal al golf. Siempre (perder) _____.",
+          "solucion_correcta": [
+            "juegan",
+            "pierden"
+          ]
+        },
+        {
+          "texto_enunciado": "Los bancos (cerrar) _____ a las dos.",
+          "solucion_correcta": [
+            "cierran"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo, pensar) _____ mucho en mis amigos.",
+          "solucion_correcta": [
+            "Pienso"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunos alumnos (venir) _____ mucho a la biblioteca.",
+          "solucion_correcta": [
+            "vienen"
+          ]
+        },
+        {
+          "texto_enunciado": "Antonia (no mentir) _____ nunca. Siempre (decir) _____ la verdad.",
+          "solucion_correcta": [
+            "no miente",
+            "dice"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy muy nerviosa. (no poder) _____ dormir.",
+          "solucion_correcta": [
+            "No puedo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuánto (medir) _____ una jirafa?",
+          "solucion_correcta": [
+            "mide"
+          ]
+        },
+        {
+          "texto_enunciado": "A veces (yo, decir) _____ muchas tonterías.",
+          "solucion_correcta": [
+            "digo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿A qué velocidad (volar) _____ un avión?",
+          "solucion_correcta": [
+            "vuela"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "49.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las preguntas y las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Cuánto (tú, medir) _____? —_____ 1,75 metros.",
+          "solucion_correcta": [
+            "mides",
+            "Mido"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuántas horas (tú, dormir) _____ al día? —_____ unas ocho horas.",
+          "solucion_correcta": [
+            "duermes",
+            "Duermo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿(preferir) _____ usted carne o pescado? —_____ el pescado.",
+          "solucion_correcta": [
+            "Prefiere",
+            "Prefiero"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿A qué hora (empezar) _____ ustedes a trabajar? —_____ a las nueve.",
+          "solucion_correcta": [
+            "empiezan",
+            "Empezamos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Quién (fregar) _____ los platos en tu casa? —Los _____ yo.",
+          "solucion_correcta": [
+            "friega",
+            "friego"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué (tú, querer) _____ ser de mayor? —_____ ser arquitecto.",
+          "solucion_correcta": [
+            "quieres",
+            "Quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿A qué hora (tú, volver) _____ por la noche? —Normalmente _____ sobre las diez.",
+          "solucion_correcta": [
+            "vuelves",
+            "vuelvo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cómo (tú, venir) _____ a la academia? —_____ en autobús.",
+          "solucion_correcta": [
+            "vienes",
+            "Vengo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "49.3",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con los verbos del recuadro en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "¿De dónde _____? De la piscina.",
+          "solucion_correcta": [
+            "vienes"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué _____ tomar?",
+          "solucion_correcta": [
+            "quieren"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué _____? _____ oírte.",
+          "solucion_correcta": [
+            "dices",
+            "No puedo"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué bien _____ estas flores!",
+          "solucion_correcta": [
+            "huelen"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuánto _____ estos zapatos?",
+          "solucion_correcta": [
+            "cuestan"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ mis gafas.",
+          "solucion_correcta": [
+            "No encuentro"
+          ]
+        },
+        {
+          "texto_enunciado": "No tengas miedo. _____.",
+          "solucion_correcta": [
+            "No muerde"
+          ]
+        },
+        {
+          "texto_enunciado": "Este despertador _____.",
+          "solucion_correcta": [
+            "no suena"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "costar",
+        "decir",
+        "encontrar",
+        "morder",
+        "oler",
+        "poder",
+        "querer",
+        "sonar",
+        "venir"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer pregunta a un hombre de dónde viene y él responde que viene de la piscina."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una persona ofrece una bandeja con bebidas o comida a varias personas."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos personas intentan hablar en medio de mucho ruido."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer huele un ramo de flores."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una mujer pregunta por el precio de unos zapatos."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una persona busca sus gafas entre varios objetos."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mujer lleva un perro con correa delante de un niño asustado."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un hombre sostiene un despertador junto a su oído."
+          }
+        ]
+      }
+    }
+  ]
+}

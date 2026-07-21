@@ -1,0 +1,115 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "7.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los textos con un, una, unos, unas o el, la, los, las (utilice al o del cuando sea necesario).",
+      "items": [
+        {
+          "texto_enunciado": "He visto _____ película preciosa. Es _____ comedia. _____ actores son fabulosos. _____ película es sobre _____ médico que se enamora de _____ paciente. _____ médico no sabe cómo decírselo a _____ paciente. Esta tiene _____ hijo y _____ médico tiene _____ hija. _____ hijo de _____ paciente y _____ hija de _____ médico se conocen y se hacen amigos. _____ día dan _____ fiesta e invitan a sus padres a _____ fiesta. _____ película acaba con _____ boda de _____ padres."
+        },
+        {
+          "texto_enunciado": "Es _____ cuadro precioso. Se ve a _____ hombre y _____ mujer en _____ jardín. _____ hombre está leyendo _____ libro y _____ mujer está tumbada debajo de _____ árbol. En _____ ramas de _____ árbol hay _____ pájaros de muchos colores. _____ pájaros tienen _____ alas extendidas; parece que van a echarse a volar."
+        },
+        {
+          "texto_enunciado": "Mis hijos tienen _____ perro y _____ gato. _____ perro duerme en _____ jardín y _____ gato dentro de casa."
+        }
+      ]
+    },
+    {
+      "subejercicio": "7.2",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Chihuahua es (la/una) ciudad de México."
+        },
+        {
+          "texto_enunciado": "He visto (la/una) película de acción. (El/Un) personaje principal era (el/un) detective."
+        },
+        {
+          "texto_enunciado": "(La/Una) nueva película de Fernando Trueba es muy buena."
+        },
+        {
+          "texto_enunciado": "Soy enfermero y trabajo en (el/un) hospital."
+        },
+        {
+          "texto_enunciado": "Estoy leyendo (el/un) libro sobre (el/un) rey Juan Carlos."
+        },
+        {
+          "texto_enunciado": "¿Qué es eso? ¿Es (la/una) televisión portátil?"
+        },
+        {
+          "texto_enunciado": "¿Quién es (el/un) primer ministro?"
+        },
+        {
+          "texto_enunciado": "Carmen trabaja en (el/un) hotel. Es recepcionista."
+        },
+        {
+          "texto_enunciado": "(La/Una) novia de Arturo es brasileña."
+        },
+        {
+          "texto_enunciado": "(El/Un) Sol es (la/una) estrella."
+        },
+        {
+          "texto_enunciado": "Paco es (el/un) nombre español."
+        },
+        {
+          "texto_enunciado": "–¿Dónde está Carlos? –En (la/una) cocina."
+        },
+        {
+          "texto_enunciado": "Vivo en (el/un) centro de Lima."
+        },
+        {
+          "texto_enunciado": "(La/Una) moto de Pedro es italiana."
+        },
+        {
+          "texto_enunciado": "(La/Una) Luna gira alrededor de (la/una) Tierra."
+        }
+      ]
+    },
+    {
+      "subejercicio": "7.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con un, una, unos, unas o el, la, los, las.",
+      "items": [
+        {
+          "texto_enunciado": "Me han regalado _____ bombones."
+        },
+        {
+          "texto_enunciado": "No me gusta _____ chocolate."
+        },
+        {
+          "texto_enunciado": "_____ piña, por favor."
+        },
+        {
+          "texto_enunciado": "_____ piña es mi fruta preferida."
+        },
+        {
+          "texto_enunciado": "Me encantan _____ cuadros de Dalí."
+        },
+        {
+          "texto_enunciado": "¿Te gustan _____ peras?"
+        },
+        {
+          "texto_enunciado": "Me he comprado _____ vaqueros."
+        },
+        {
+          "texto_enunciado": "Te he comprado _____ margaritas."
+        },
+        {
+          "texto_enunciado": "Quiero comprarme _____ pantalones cortos."
+        },
+        {
+          "texto_enunciado": "Me encanta _____ agua."
+        }
+      ]
+    }
+  ],
+  "unidad": 7,
+  "titulo_libro": "un perro / el perro -- Contraste entre el artículo determinado y el indeterminado",
+  "scan": "libro-rojo-024.png"
+}

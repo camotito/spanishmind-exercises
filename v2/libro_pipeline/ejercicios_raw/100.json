@@ -1,0 +1,134 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "100.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete con aquí, ahí o allí.",
+      "items": [
+        {
+          "texto_enunciado": "Ven _____, Bruno.",
+          "estimulo_visual": "Una mujer llama con la mano a Bruno, que está cerca de ella."
+        },
+        {
+          "texto_enunciado": "_____ hay agua.",
+          "estimulo_visual": "Una mujer indica a un hombre una fuente o un recipiente con agua."
+        },
+        {
+          "texto_enunciado": "_____ hay algo.",
+          "estimulo_visual": "Dos personas miran y señalan algo situado a lo lejos."
+        },
+        {
+          "texto_enunciado": "¿Qué hay _____?",
+          "estimulo_visual": "Un hombre señala a una mujer situada junto a un árbol."
+        },
+        {
+          "texto_enunciado": "Sí, está _____ arriba.",
+          "estimulo_visual": "Dos personas señalan a Ana, que está lejos, en una zona elevada del paisaje."
+        },
+        {
+          "texto_enunciado": "Ponlos _____ dentro.",
+          "estimulo_visual": "Una mujer sostiene unos platos y un hombre señala el interior de un mueble."
+        },
+        {
+          "texto_enunciado": "Mira, _____ hay sombra.",
+          "estimulo_visual": "Dos personas observan la sombra proyectada por un árbol."
+        },
+        {
+          "texto_enunciado": "Siéntate _____, a mi lado.",
+          "estimulo_visual": "Una mujer sentada señala el asiento que está a su lado mientras habla con un hombre."
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras del recuadro.",
+      "banco_palabras": [
+        "abajo",
+        "alrededor",
+        "debajo",
+        "delante",
+        "dentro",
+        "encima",
+        "enfrente",
+        "fuera"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Váyanse a jugar _____.",
+          "estimulo_visual": "Dos niñas juegan con bloques dentro de una habitación y un adulto señala hacia el exterior."
+        },
+        {
+          "texto_enunciado": "Prefiero dormir _____.",
+          "estimulo_visual": "Un niño señala la parte inferior de una litera."
+        },
+        {
+          "texto_enunciado": "Deje el paquete aquí _____.",
+          "estimulo_visual": "Un hombre lleva un paquete y otra persona señala la superficie de una mesa."
+        },
+        {
+          "texto_enunciado": "Allí _____.",
+          "estimulo_visual": "Una mujer responde a la pregunta «¿Dónde está tu clase?» y señala una puerta situada frente a ellos."
+        },
+        {
+          "texto_enunciado": "Hay muchas montañas _____.",
+          "estimulo_visual": "Dos personas contemplan una casa rodeada por un paisaje montañoso."
+        },
+        {
+          "texto_enunciado": "¿Quién se sienta _____?",
+          "estimulo_visual": "Dos personas están sentadas a una mesa y hay una silla vacía en primer plano."
+        },
+        {
+          "texto_enunciado": "Aquí _____ no nos mojamos.",
+          "estimulo_visual": "Varias personas se refugian en un establecimiento mientras llueve en la calle."
+        },
+        {
+          "texto_enunciado": "Está _____.",
+          "estimulo_visual": "Una persona pregunta «¿Dónde está Diana?» y otra hace un gesto indicando una ubicación."
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.3",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Ordene las palabras y complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "mis padres / abajo / viven → Abajo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "cerca / Elena / vive → Elena _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "la mesa / fuera / sacad → Sacad _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "aquí / Benito / trabaja → Aquí _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "lejos / mi oficina / está → Mi oficina _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "abajo / yo / duermo → Yo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "allí / la cafetería / está → Allí _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Ejercicio lineal de ordenación: cada ítem presenta tres segmentos desordenados separados por barras y, a la derecha, el comienzo de la frase. El alumno debe ordenar los segmentos y completar en un único espacio la parte restante de la oración."
+    }
+  ],
+  "unidad": 100,
+  "titulo_libro": "aquí, allí, abajo... -- Adverbios de lugar",
+  "scan": "libro-rojo-210.png"
+}

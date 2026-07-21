@@ -1,0 +1,278 @@
+{
+  "tema": "unidad-43",
+  "titulo": "estoy, estás, está...",
+  "descripcion_gramatical": "Presente de indicativo de estar",
+  "fuente": "libro",
+  "unidad_libro": 43,
+  "ejercicios": [
+    {
+      "subejercicio": "43.1",
+      "tipologia": "T2",
+      "enunciado": "¿Dónde están? Complete las frases con estoy, estás, está...",
+      "items": [
+        {
+          "texto_enunciado": "_____ en México.",
+          "solucion_correcta": [
+            "Estoy"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Dónde _____? —_____ en Paraguay.",
+          "solucion_correcta": [
+            "estáis",
+            "Estamos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Dónde _____? —_____ en París.",
+          "solucion_correcta": [
+            "estás",
+            "Estoy"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una persona habla por teléfono delante de una pirámide de México."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un hombre habla por teléfono con una mujer que está en Paraguay."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un hombre habla por teléfono con una mujer que está en París, junto a la torre Eiffel."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "43.2",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases con estoy, estás, está... y las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Estoy resfriado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué _____?",
+          "solucion_correcta": [
+            "está de buen humor"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Están tristes"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Estamos agotados"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Estoy aburrida"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ Alberto?",
+          "solucion_correcta": [
+            "Estás enfadado"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy _____.",
+          "solucion_correcta": [
+            "está de mal humor"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué _____?",
+          "solucion_correcta": [
+            "están contentos"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "aburrida",
+        "agotado",
+        "contento",
+        "de buen humor",
+        "de mal humor",
+        "enfadado",
+        "resfriado",
+        "triste"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un hombre enfermo se abriga y sostiene un pañuelo."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer está delante de un ordenador con la mano en la frente y otra mujer le habla."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos jugadores aparecen cabizbajos después de un resultado de 0-4."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Dos hombres sonríen y conversan animadamente."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una mujer está sentada frente al televisor."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Alberto carga varios objetos mientras una mujer le habla."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mujer gesticula delante de un ordenador mientras otra la escucha."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Dos jugadores celebran un resultado de 2-0 mientras una mujer sonríe."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "43.3",
+      "tipologia": "T2",
+      "enunciado": "Describa cada ilustración utilizando está o están y las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "La ventana _____.",
+          "solucion_correcta": [
+            "está abierta"
+          ]
+        },
+        {
+          "texto_enunciado": "La puerta _____.",
+          "solucion_correcta": [
+            "está cerrada"
+          ]
+        },
+        {
+          "texto_enunciado": "Los vasos _____.",
+          "solucion_correcta": [
+            "están sucios"
+          ]
+        },
+        {
+          "texto_enunciado": "El cielo _____.",
+          "solucion_correcta": [
+            "está nublado"
+          ]
+        },
+        {
+          "texto_enunciado": "La televisión _____.",
+          "solucion_correcta": [
+            "está apagada"
+          ]
+        },
+        {
+          "texto_enunciado": "Los platos _____.",
+          "solucion_correcta": [
+            "están limpios"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "abierta",
+        "apagada",
+        "cerrada",
+        "limpios",
+        "nublado",
+        "sucios"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una ventana abierta."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una puerta cerrada."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos vasos sucios."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un cielo cubierto de nubes."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una televisión apagada."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Dos platos limpios."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "43.4",
+      "tipologia": "T3",
+      "enunciado": "Complete los diálogos con estoy, estás, está...",
+      "items": [
+        {
+          "texto_enunciado": "—¿Cómo _____ usted, Elisa? —_____ muy bien, gracias.",
+          "solucion_correcta": [
+            "está",
+            "Estoy"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ Luisa? —Sí, pero _____ en la cama.",
+          "solucion_correcta": [
+            "Está",
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ cansado, Virgilio? —No, no _____ cansado. _____ aburrido.",
+          "solucion_correcta": [
+            "Estás",
+            "estoy",
+            "Estoy"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Dónde _____ mi chaqueta nueva? —_____ en el armario.",
+          "solucion_correcta": [
+            "está",
+            "Está"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Dónde _____ las Islas Galápagos? —_____ en el Pacífico.",
+          "solucion_correcta": [
+            "están",
+            "Están"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "75.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete la nota con instrucciones a un amigo. Utilice los verbos del recuadro.",
+      "banco_palabras": [
+        "cerrar",
+        "cerrar",
+        "conectar",
+        "encender",
+        "lavar",
+        "regar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____ todas las ventanas cuando salgas."
+        },
+        {
+          "texto_enunciado": "_____ las plantas todos los días; una vez a la semana es suficiente."
+        },
+        {
+          "texto_enunciado": "_____ la llave del gas cuando acabes de cocinar."
+        },
+        {
+          "texto_enunciado": "_____ los platos en el lavavajillas."
+        },
+        {
+          "texto_enunciado": "_____ la alarma cuando salgas."
+        },
+        {
+          "texto_enunciado": "_____ el calentador una hora antes de ducharte."
+        }
+      ],
+      "tipologia_libre_original": "Completar una nota con formas de imperativo obtenidas a partir de un banco de verbos en infinitivo."
+    },
+    {
+      "subejercicio": "75.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con los verbos del recuadro.",
+      "banco_palabras": [
+        "cerrar",
+        "cerrar",
+        "despertar",
+        "jugar",
+        "pedir",
+        "pedir",
+        "seguir",
+        "sonreír"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "escena": "Una mujer pregunta a un hombre cómo llegar a la calle Toledo."
+          },
+          {
+            "numero": "2",
+            "escena": "Una persona tapa los ojos de otra mientras lleva un regalo."
+          },
+          {
+            "numero": "3",
+            "escena": "Una mujer habla con dos niños que están jugando dentro de una habitación."
+          },
+          {
+            "numero": "4",
+            "escena": "Un grupo de jóvenes está reunido y una chica habla con Tomás."
+          },
+          {
+            "numero": "5",
+            "escena": "Un fotógrafo hace una foto a una pareja."
+          },
+          {
+            "numero": "6",
+            "escena": "Tres personas están sentadas a la mesa en un restaurante."
+          },
+          {
+            "numero": "7",
+            "escena": "Una mujer despierta a Inés, que está acostada."
+          },
+          {
+            "numero": "8",
+            "escena": "Una mujer pide a un hombre que cierre una puerta."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "—¿La calle Toledo, por favor? —_____ todo recto."
+        },
+        {
+          "texto_enunciado": "Tengo algo para ti. _____ los ojos."
+        },
+        {
+          "texto_enunciado": "¡Niños! _____ en el salón."
+        },
+        {
+          "texto_enunciado": "¡_____ un zumo por favor, Tomás!"
+        },
+        {
+          "texto_enunciado": "_____, por favor."
+        },
+        {
+          "texto_enunciado": "_____ sopa. No está muy buena."
+        },
+        {
+          "texto_enunciado": "¡Inés, _____! Son las ocho."
+        },
+        {
+          "texto_enunciado": "_____, por favor."
+        }
+      ]
+    },
+    {
+      "subejercicio": "75.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría en cada caso?",
+      "items": [
+        {
+          "texto_enunciado": "(a su familia) (Empezar) _____ a comer. Yo llegaré un poco tarde."
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Elegir) _____ un libro. Te lo regalo."
+        },
+        {
+          "texto_enunciado": "(a un alumno) (Contar) _____ hasta veinte en español."
+        },
+        {
+          "texto_enunciado": "(a alguien de su familia) (Encender) _____ la luz. Está muy oscuro."
+        },
+        {
+          "texto_enunciado": "(a un camarero) (No, calentar) _____ la leche. La quiero fría."
+        },
+        {
+          "texto_enunciado": "(a unos amigos) (Sonreír) _____. Os voy a hacer una foto."
+        },
+        {
+          "texto_enunciado": "(a unos niños) (No, mentir) _____. Decir mentiras no está bien."
+        },
+        {
+          "texto_enunciado": "(a unos alumnos) (Corregir) _____ el ejercicio."
+        },
+        {
+          "texto_enunciado": "(a un alumno) (Comprobar) _____ las respuestas."
+        },
+        {
+          "texto_enunciado": "(a un alumno) (Cerrar) _____ el libro y (escuchar) _____."
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Freír) _____ más carne, por favor. Tengo mucha hambre."
+        },
+        {
+          "texto_enunciado": "(a un desconocido) (Cruzar) _____ esta calle y (seguir) _____ todo recto."
+        }
+      ]
+    }
+  ],
+  "unidad": 75,
+  "titulo_libro": "Cierra la ventana -- Imperativo: verbos irregulares (1)",
+  "scan": "libro-rojo-160.png"
+}

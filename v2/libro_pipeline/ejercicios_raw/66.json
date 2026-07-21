@@ -1,0 +1,181 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "66.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos frases.",
+      "items": [
+        {
+          "texto_enunciado": "La reunión acabó. Llegué a la oficina. _____."
+        },
+        {
+          "texto_enunciado": "El avión se fue. Llegamos al aeropuerto. _____."
+        },
+        {
+          "texto_enunciado": "Cerraron las tiendas. Aurora quiso comprar comida. _____."
+        },
+        {
+          "texto_enunciado": "Cené. Sonia me llamó. _____."
+        },
+        {
+          "texto_enunciado": "Hubo un accidente. Nos pararon en la carretera. _____."
+        }
+      ],
+      "tipologia_libre_original": "Unión de dos frases mediante la reescritura de una oración completa que expresa la relación temporal entre ambas acciones."
+    },
+    {
+      "subejercicio": "66.2",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Forme frases uniendo las acciones o situaciones de la izquierda con sus consecuencias.",
+      "items": [
+        {
+          "texto_enunciado": "1. Me dejé la tarjeta de crédito."
+        },
+        {
+          "texto_enunciado": "2. Mis padres se dejaron las luces encendidas."
+        },
+        {
+          "texto_enunciado": "3. Félix y Raquel se dejaron las llaves dentro."
+        },
+        {
+          "texto_enunciado": "4. No comiste nada."
+        },
+        {
+          "texto_enunciado": "5. Paloma se tiñó el pelo."
+        },
+        {
+          "texto_enunciado": "6. Mila estudió mucho."
+        },
+        {
+          "texto_enunciado": "7. Víctor tuvo un pequeño accidente."
+        },
+        {
+          "texto_enunciado": "8. El profesor se fue."
+        },
+        {
+          "texto_enunciado": "9. Ramón no compró comida."
+        },
+        {
+          "texto_enunciado": "a. No pudieron entrar en casa."
+        },
+        {
+          "texto_enunciado": "b. Aprobó todo."
+        },
+        {
+          "texto_enunciado": "c. Tuvieron que volver a casa."
+        },
+        {
+          "texto_enunciado": "d. No pude comprar nada."
+        },
+        {
+          "texto_enunciado": "e. No pudimos comer en casa."
+        },
+        {
+          "texto_enunciado": "f. Te desmayaste."
+        },
+        {
+          "texto_enunciado": "g. No pude hablar con él."
+        },
+        {
+          "texto_enunciado": "h. No la reconocimos."
+        },
+        {
+          "texto_enunciado": "i. Llegó tarde."
+        },
+        {
+          "texto_enunciado": "1. _____."
+        },
+        {
+          "texto_enunciado": "2. _____."
+        },
+        {
+          "texto_enunciado": "3. _____."
+        },
+        {
+          "texto_enunciado": "4. _____."
+        },
+        {
+          "texto_enunciado": "5. _____."
+        },
+        {
+          "texto_enunciado": "6. _____."
+        },
+        {
+          "texto_enunciado": "7. _____."
+        },
+        {
+          "texto_enunciado": "8. _____."
+        },
+        {
+          "texto_enunciado": "9. _____."
+        }
+      ],
+      "tipologia_libre_original": "Emparejamiento de una lista de acciones o situaciones con otra lista de consecuencias y posterior escritura de frases completas que unen cada pareja."
+    },
+    {
+      "subejercicio": "66.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "¿Cuál era la situación cuando Javier llegó a casa de sus amigos? Utilice ya y todavía no.",
+      "banco_palabras": [
+        "levantarse",
+        "desayunar",
+        "hacer la cama",
+        "recoger la habitación",
+        "vestirse"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "nombre": "Fernando",
+            "descripcion": "Fernando está acostado en la cama."
+          },
+          {
+            "numero": "2",
+            "nombre": "Lidia",
+            "descripcion": "Lidia está en una habitación desordenada, con ropa y objetos por el suelo."
+          },
+          {
+            "numero": "3",
+            "nombre": "Miguel",
+            "descripcion": "Miguel está junto a una cama y coloca la colcha."
+          },
+          {
+            "numero": "4",
+            "nombre": "Rosa",
+            "descripcion": "Rosa está delante de un armario con una prenda en la mano."
+          },
+          {
+            "numero": "5",
+            "nombre": "Ángel y Pilar",
+            "descripcion": "Ángel y Pilar están sentados a una mesa con tazas, platos y alimentos."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. Fernando _____."
+        },
+        {
+          "texto_enunciado": "2. Lidia _____."
+        },
+        {
+          "texto_enunciado": "3. Miguel _____."
+        },
+        {
+          "texto_enunciado": "4. Rosa _____."
+        },
+        {
+          "texto_enunciado": "5. Ángel y Pilar _____."
+        }
+      ]
+    }
+  ],
+  "unidad": 66,
+  "titulo_libro": "había trabajado -- Pretérito pluscuamperfecto",
+  "scan": "libro-rojo-142.png"
+}

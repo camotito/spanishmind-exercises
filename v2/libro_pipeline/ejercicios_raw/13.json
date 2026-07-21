@@ -1,0 +1,154 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "13.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la forma correcta de los adjetivos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Vivo en un piso (pequeño) _____."
+        },
+        {
+          "texto_enunciado": "Rosa tiene los ojos (verde) _____. Es (rubio) _____ y tiene el pelo (corto) _____ y (rizado) _____. Es muy (simpático) _____ y (alegre) _____, y muy (charlatán) _____."
+        },
+        {
+          "texto_enunciado": "Gerardo y Ana son muy (inteligente) _____."
+        },
+        {
+          "texto_enunciado": "Me gustan las rosas (blanco) _____."
+        },
+        {
+          "texto_enunciado": "Don Santiago es una persona (encantador) _____."
+        },
+        {
+          "texto_enunciado": "Chus y Lolo no son (feliz) _____. Están siempre (enfadado) _____."
+        },
+        {
+          "texto_enunciado": "Me he comprado una camisa (rojo) _____ y unos pantalones (gris) _____."
+        },
+        {
+          "texto_enunciado": "Eduardo es (alto) _____ y (fuerte) _____. Es (moreno) _____ y tiene los ojos (negro) _____. Es muy (guapo) _____, pero es un poco (antipático) _____."
+        },
+        {
+          "texto_enunciado": "Begoña lleva una falda (marrón) _____ y una blusa (amarillo) _____."
+        },
+        {
+          "texto_enunciado": "Concha y Rodrigo son muy (simpático) _____ y muy (trabajador) _____. Además son muy (amable) _____."
+        },
+        {
+          "texto_enunciado": "Las hijas de Andrés son muy (joven) _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "13.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los adjetivos del recuadro.",
+      "banco_palabras": [
+        "alegre",
+        "campeón",
+        "cansado",
+        "enfermo",
+        "fuerte",
+        "gordo",
+        "rubio",
+        "triste"
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Dos mujeres rubias sonrientes.",
+          "Un hombre con aspecto enfermo se toca el cuello.",
+          "Una mujer observa una gata gorda.",
+          "Dos niños enfermos están acostados en una cama.",
+          "Marga sonríe mientras conversa con otras personas.",
+          "Dos mujeres muestran aspecto cansado en un medio de transporte.",
+          "Julia aparece en una competición levantando una pesa.",
+          "Un grupo de hombres celebra con una copa de campeón."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Somos _____."
+        },
+        {
+          "texto_enunciado": "Estoy muy _____."
+        },
+        {
+          "texto_enunciado": "Esta gata está _____."
+        },
+        {
+          "texto_enunciado": "Estamos _____."
+        },
+        {
+          "texto_enunciado": "Marga es muy _____."
+        },
+        {
+          "texto_enunciado": "Estamos muy _____."
+        },
+        {
+          "texto_enunciado": "Julia es muy _____."
+        },
+        {
+          "texto_enunciado": "¡Somos _____!"
+        }
+      ]
+    },
+    {
+      "subejercicio": "13.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con un nombre y un adjetivo del recuadro.",
+      "banco_palabras": [
+        "color",
+        "comida",
+        "edificio",
+        "flor",
+        "idioma",
+        "ojo",
+        "profesor",
+        "ropa",
+        "antiguo",
+        "azul",
+        "rojo",
+        "bueno",
+        "fácil",
+        "nuevo",
+        "preferido",
+        "preferido"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Susana tiene los _____ _____."
+        },
+        {
+          "texto_enunciado": "La amapola es una _____ _____."
+        },
+        {
+          "texto_enunciado": "El español es un _____ _____."
+        },
+        {
+          "texto_enunciado": "Don Tomás es un _____ _____."
+        },
+        {
+          "texto_enunciado": "La _____ _____ de Peter es la tortilla de patatas."
+        },
+        {
+          "texto_enunciado": "En Toledo hay muchos _____ _____."
+        },
+        {
+          "texto_enunciado": "Esta camisa y estos pantalones están muy viejos. Necesito _____ _____."
+        },
+        {
+          "texto_enunciado": "Mi _____ _____ es el rojo."
+        }
+      ],
+      "tipologia_libre_original": "Completar cada frase combinando un nombre y un adjetivo de los recuadros y adaptando su concordancia al contexto."
+    }
+  ],
+  "unidad": 13,
+  "titulo_libro": "un coche pequeño -- Adjetivos calificativos",
+  "scan": "libro-rojo-036.png"
+}

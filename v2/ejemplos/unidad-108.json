@@ -1,0 +1,223 @@
+{
+  "tema": "unidad-108",
+  "titulo": "no, nunca, jamás...",
+  "descripcion_gramatical": "Adverbios de negación",
+  "fuente": "libro",
+  "unidad_libro": 108,
+  "ejercicios": [
+    {
+      "subejercicio": "108.1",
+      "tipologia": "T11",
+      "enunciado": "Haga negativas con no las frases siguientes.",
+      "items": [
+        {
+          "texto_enunciado": "Adela quiere ayudarnos. _____.",
+          "solucion_correcta": [
+            "Adela no quiere ayudarnos"
+          ]
+        },
+        {
+          "texto_enunciado": "A Sara le gustaría vivir en Santiago. _____.",
+          "solucion_correcta": [
+            "A Sara no le gustaría vivir en Santiago"
+          ]
+        },
+        {
+          "texto_enunciado": "Me ha llamado Andrea. _____.",
+          "solucion_correcta": [
+            "No me ha llamado Andrea"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he duchado después del partido. _____.",
+          "solucion_correcta": [
+            "No me he duchado después del partido"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos gusta la música rock. _____.",
+          "solucion_correcta": [
+            "No nos gusta la música rock"
+          ]
+        },
+        {
+          "texto_enunciado": "Preferiría trabajar. _____.",
+          "solucion_correcta": [
+            "Preferiría no trabajar"
+          ]
+        },
+        {
+          "texto_enunciado": "Hemos leído Martín Fierro. _____.",
+          "solucion_correcta": [
+            "No hemos leído Martín Fierro"
+          ]
+        },
+        {
+          "texto_enunciado": "Roberto se acuesta tarde. _____.",
+          "solucion_correcta": [
+            "Roberto no se acuesta tarde"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "108.2",
+      "tipologia": "T11",
+      "enunciado": "Complete las respuestas con las palabras entre paréntesis. Use no solo en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Conoces a alguien en la fiesta. —No, (conozco, a nadie) _____.",
+          "solucion_correcta": [
+            "no conozco a nadie"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Tienen coche tus amigos? —No, (tiene, ninguno de mis amigos) _____ coche.",
+          "solucion_correcta": [
+            "ninguno de mis amigos tiene"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Quién había en casa de Lucía? —(había, nadie) _____.",
+          "solucion_correcta": [
+            "No había nadie"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué te han dicho del examen? —(me han dicho, nada) _____.",
+          "solucion_correcta": [
+            "No me han dicho nada"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Dónde está Alberto? —(sabe, nadie) _____ dónde está.",
+          "solucion_correcta": [
+            "Nadie sabe"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué le pasa a Carmina? —(está a gusto, en ningún sitio) _____.",
+          "solucion_correcta": [
+            "No está a gusto en ningún sitio / En ningún sitio está a gusto"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué quieres? —(quiero, nada) _____.",
+          "solucion_correcta": [
+            "No quiero nada"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuál te gusta? —(me gusta, ninguno) _____.",
+          "solucion_correcta": [
+            "No me gusta ninguno"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Os ha visto alguien? —No, (nos ha visto, nadie) _____.",
+          "solucion_correcta": [
+            "no nos ha visto nadie"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿No quiere ayudarte Eva? —No, (quiere hacerlo, de ninguna manera) _____.",
+          "solucion_correcta": [
+            "no quiere hacerlo de ninguna manera"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "108.3",
+      "tipologia": "T11",
+      "enunciado": "Escriba las frases colocando nunca o jamás en el lugar indicado. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Voy ↑ al fútbol. (nunca) _____.",
+          "solucion_correcta": [
+            "No voy nunca al fútbol"
+          ]
+        },
+        {
+          "texto_enunciado": "↑ Salimos los lunes. (jamás) _____.",
+          "solucion_correcta": [
+            "Jamás salimos los lunes"
+          ]
+        },
+        {
+          "texto_enunciado": "He visto ↑ un jaguar. (jamás) _____.",
+          "solucion_correcta": [
+            "No he visto jamás un jaguar"
+          ]
+        },
+        {
+          "texto_enunciado": "↑ Desayuno antes de ducharme. (nunca) _____.",
+          "solucion_correcta": [
+            "Nunca desayuno antes de ducharme"
+          ]
+        },
+        {
+          "texto_enunciado": "He estado ↑ en Potosí. (nunca) _____.",
+          "solucion_correcta": [
+            "No he estado nunca en Potosí"
+          ]
+        },
+        {
+          "texto_enunciado": "Sofía nos espera ↑. (jamás) _____.",
+          "solucion_correcta": [
+            "Sofía no nos espera jamás"
+          ]
+        },
+        {
+          "texto_enunciado": "De pequeño, ↑ comía pimientos. (jamás) _____.",
+          "solucion_correcta": [
+            "De pequeño, jamás comía pimientos"
+          ]
+        },
+        {
+          "texto_enunciado": "↑ Te olvidaré. (jamás) _____.",
+          "solucion_correcta": [
+            "Jamás te olvidaré"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "108.4",
+      "tipologia": "T10",
+      "enunciado": "Una las dos frases con tampoco.",
+      "items": [
+        {
+          "texto_enunciado": "Fermín no nos llama. Fermín no nos escribe. _____.",
+          "solucion_correcta": [
+            "Fermín no nos llama y tampoco nos escribe"
+          ]
+        },
+        {
+          "texto_enunciado": "Teresa no ha venido. Teresa no ha llamado. _____.",
+          "solucion_correcta": [
+            "Teresa no ha venido y tampoco ha llamado"
+          ]
+        },
+        {
+          "texto_enunciado": "Olga no trabaja. Olga no estudia. _____.",
+          "solucion_correcta": [
+            "Olga no trabaja y tampoco estudia"
+          ]
+        },
+        {
+          "texto_enunciado": "A Armando no le gusta viajar en avión. A Armando no le gusta conducir. _____.",
+          "solucion_correcta": [
+            "A Armando no le gusta viajar en avión y tampoco le gusta conducir"
+          ]
+        },
+        {
+          "texto_enunciado": "Beatriz no fue a trabajar ayer. Beatriz no ha ido a trabajar hoy. _____.",
+          "solucion_correcta": [
+            "Beatriz no fue a trabajar ayer y tampoco ha ido hoy"
+          ]
+        }
+      ]
+    }
+  ]
+}

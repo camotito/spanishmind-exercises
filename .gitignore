@@ -1,6 +1,11 @@
 __pycache__/
 *.pyc
 
+# checkpoints locales del pipeline de digitalizacion (rutas absolutas de esta
+# maquina, se regeneran solos al relanzar extract_*.py) -- no aportan nada
+# compartido entre maquinas.
+v2/libro_pipeline/.estado_*.json
+
 # escaneos del libro: binarios grandes (~550MB) y contenido con copyright,
 # no van al repo. Se referencian por ruta desde v2/libro_pipeline/.
 libro/

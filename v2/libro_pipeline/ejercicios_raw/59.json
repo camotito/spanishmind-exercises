@@ -1,0 +1,125 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "59.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el pretérito indefinido de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Alba (venir) _____ a España en 2001."
+        },
+        {
+          "texto_enunciado": "Unos amigos míos (tener) _____ un accidente el fin de semana pasado."
+        },
+        {
+          "texto_enunciado": "—¿Por qué (no venir) _____ Lucía y Paloma a la fiesta? —Porque (no querer) _____."
+        },
+        {
+          "texto_enunciado": "¿Cuántos hijos (tener) _____ la abuela de Tere?"
+        },
+        {
+          "texto_enunciado": "Esta casa la (construir) _____ el padre de Óscar hace cincuenta años."
+        },
+        {
+          "texto_enunciado": "—¿Qué (ustedes, hacer) _____ el domingo? —Nada especial. (Estar) _____ en casa viendo la tele. Enrique (no querer) _____ salir."
+        },
+        {
+          "texto_enunciado": "Anoche (nosotros, tener) _____ que dormir en casa de Alfredo. No (poder) _____ entrar en la nuestra."
+        },
+        {
+          "texto_enunciado": "¿Cuándo (morir) _____ los abuelos de Miriam?"
+        },
+        {
+          "texto_enunciado": "Laura (caerse) _____ la semana pasada y (romperse) _____ un brazo."
+        },
+        {
+          "texto_enunciado": "—¿Cuándo (saber) _____ usted que estaba enferma? —Cuando me lo (decir) _____ el médico."
+        },
+        {
+          "texto_enunciado": "—¿Qué (pasar) _____ anoche? —(Haber) _____ un incendio en el bloque de Ángel."
+        },
+        {
+          "texto_enunciado": "¿Cuándo (usted, conducir) _____ un coche por primera vez?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "59.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Utilice los siguientes verbos para completar estas frases sobre la historia de América Latina.",
+      "banco_palabras": [
+        "construir",
+        "independizarse",
+        "llegar",
+        "morir",
+        "producirse",
+        "ser",
+        "ser",
+        "ser",
+        "traer"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Cuba _____ en 1898."
+        },
+        {
+          "texto_enunciado": "Bolívar _____ en 1830."
+        },
+        {
+          "texto_enunciado": "Los primeros esclavos africanos _____ a América en el siglo XVI."
+        },
+        {
+          "texto_enunciado": "Los incas _____ Machu Picchu en el siglo XIII."
+        },
+        {
+          "texto_enunciado": "Los españoles _____ el tomate y la patata de América."
+        },
+        {
+          "texto_enunciado": "Hernán Cortés _____ gobernador de Nueva España o México."
+        },
+        {
+          "texto_enunciado": "La decadencia de la cultura maya _____ a mediados del siglo XV."
+        },
+        {
+          "texto_enunciado": "Túpac Amaru I _____ el último emperador inca."
+        },
+        {
+          "texto_enunciado": "Los mayas _____ grandes constructores."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases eligiendo verbos de un banco y conjugándolos en la forma correspondiente."
+    },
+    {
+      "subejercicio": "59.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las conversaciones con los verbos correspondientes.",
+      "banco_palabras": [
+        "alquilar",
+        "gustar",
+        "hacer",
+        "ir",
+        "ir",
+        "recorrer",
+        "ser",
+        "bailar",
+        "divertirse",
+        "ir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "—¿Qué _____ el verano pasado? —_____ a Chile. —¿Con quién _____? —Con un grupo de amigos. _____ un coche y _____ el sur hasta Tierra del Fuego. —¿Os _____? —Sí, _____ un viaje interesantísimo."
+        },
+        {
+          "texto_enunciado": "—¿Qué tal el fin de semana? —_____ a un club de salsa con Armando. _____ como locos toda la noche. Armando _____ muchísimo."
+        }
+      ],
+      "tipologia_libre_original": "Completar conversaciones eligiendo y conjugando los verbos de dos bancos de palabras, uno para cada diálogo."
+    }
+  ],
+  "unidad": 59,
+  "titulo_libro": "durmió, leyó, hizo... -- Pretérito indefinido: verbos irregulares",
+  "scan": "libro-rojo-128.png"
+}

@@ -1,0 +1,219 @@
+{
+  "tema": "unidad-105",
+  "titulo": "muy, mucho, muchos, -ísimo...",
+  "descripcion_gramatical": "Contraste entre formas de expresar grados de cualidad o cantidad",
+  "fuente": "libro",
+  "unidad_libro": 105,
+  "ejercicios": [
+    {
+      "subejercicio": "105.1",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases añadiendo muy o mucho.",
+      "items": [
+        {
+          "texto_enunciado": "Esta novela es buena. _____",
+          "solucion_correcta": [
+            "Esta novela es muy buena"
+          ]
+        },
+        {
+          "texto_enunciado": "Esther duerme. _____",
+          "solucion_correcta": [
+            "Esther duerme mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi casa está lejos. _____",
+          "solucion_correcta": [
+            "Mi casa está muy lejos"
+          ]
+        },
+        {
+          "texto_enunciado": "Raúl prepara bien la carne. _____",
+          "solucion_correcta": [
+            "Juan prepara muy bien la carne"
+          ]
+        },
+        {
+          "texto_enunciado": "Me parezco a mi madre. _____",
+          "solucion_correcta": [
+            "Me parezco mucho a mi madre"
+          ]
+        },
+        {
+          "texto_enunciado": "Hacer ejercicio es sano. _____",
+          "solucion_correcta": [
+            "Hacer ejercicio es muy sano"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan llega siempre tarde. _____",
+          "solucion_correcta": [
+            "Raúl llega siempre muy tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "Eva gasta poco. _____",
+          "solucion_correcta": [
+            "Eva gasta muy poco"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "105.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con la palabra entre paréntesis en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Ernesto tiene (mucho) _____ hermanos.",
+          "solucion_correcta": [
+            "muchos"
+          ]
+        },
+        {
+          "texto_enunciado": "Felisa vive (bastante) _____ lejos.",
+          "solucion_correcta": [
+            "bastante"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy hay (bastante) _____ estrellas en el cielo.",
+          "solucion_correcta": [
+            "bastantes"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gusta Eduardo. Es (demasiado) _____ orgulloso.",
+          "solucion_correcta": [
+            "demasiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Queda (poco) _____ leche. Hay que comprar.",
+          "solucion_correcta": [
+            "poca"
+          ]
+        },
+        {
+          "texto_enunciado": "Has comprado (demasiado) _____ fruta.",
+          "solucion_correcta": [
+            "demasiada"
+          ]
+        },
+        {
+          "texto_enunciado": "Gerardo habla (demasiado) _____. Siempre mete la pata.",
+          "solucion_correcta": [
+            "demasiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Esteban sale (poco) _____. Estudia (mucho) _____.",
+          "solucion_correcta": [
+            "poco"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "He visto esta película (mucho) _____ veces.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Hemos llegado (demasiado) _____ temprano. Aún no han abierto.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Últimamente leo (poco) _____. No tengo (mucho) _____ tiempo.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "No veo a Ruth. Hay (demasiado) _____ gente.",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "105.3",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las expresiones subrayadas por otras con –ísimo.",
+      "items": [
+        {
+          "texto_enunciado": "Alfonso es un chico <u>muy aburrido</u>. _____",
+          "solucion_correcta": [
+            "Alfonso es un chico aburridísimo"
+          ]
+        },
+        {
+          "texto_enunciado": "Olga es una chica <u>muy interesante</u>. _____",
+          "solucion_correcta": [
+            "Olga es una chica interesantísima"
+          ]
+        },
+        {
+          "texto_enunciado": "Roberto camina <u>muy lentamente</u>. _____",
+          "solucion_correcta": [
+            "Roberto camina lentísimamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Daniel me golpeó <u>muy fuerte</u>. _____",
+          "solucion_correcta": [
+            "Daniel me golpeó fortísimo"
+          ]
+        },
+        {
+          "texto_enunciado": "Héctor es <u>muy amigo</u> mío. _____",
+          "solucion_correcta": [
+            "Héctor es amiguísimo mío"
+          ]
+        },
+        {
+          "texto_enunciado": "Este edificio es <u>muy antiguo</u>. _____",
+          "solucion_correcta": [
+            "Este edificio es antiquísimo"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy leyendo una novela <u>muy buena</u>. _____",
+          "solucion_correcta": [
+            "Estoy leyendo una novela buenísima"
+          ]
+        },
+        {
+          "texto_enunciado": "Los hermanos de Lola son <u>muy educados</u>. _____",
+          "solucion_correcta": [
+            "Los hermanos de Lola son educadísimos"
+          ]
+        },
+        {
+          "texto_enunciado": "Miriam explica <u>muy claramente</u>. _____",
+          "solucion_correcta": [
+            "Miriam explica clarísimamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Durante la semana tengo <u>muy poco</u> tiempo libre. _____",
+          "solucion_correcta": [
+            "Durante la semana tengo poquísimo tiempo libre"
+          ]
+        },
+        {
+          "texto_enunciado": "Paula y Gloria son <u>muy amables</u>. _____",
+          "solucion_correcta": [
+            "Paula y Gloria son amabilísimas"
+          ]
+        },
+        {
+          "texto_enunciado": "Los padres de Aurora son <u>muy jóvenes</u>. _____",
+          "solucion_correcta": [
+            "Los padres de Aurora son jovencísimos"
+          ]
+        }
+      ]
+    }
+  ]
+}

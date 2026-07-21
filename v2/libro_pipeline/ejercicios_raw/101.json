@@ -1,0 +1,156 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "101.1",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Hoy es sábado 10. Sustituya las expresiones subrayadas por las palabras del recuadro.",
+      "banco_palabras": [
+        "anoche",
+        "anteayer",
+        "ayer",
+        "hoy",
+        "mañana",
+        "pasado mañana"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "<u>El lunes 12</u> voy al médico. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>El sábado 10</u> he quedado con Eloísa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>El jueves 8</u> estuve en León. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>El domingo 11</u> vamos a hacer una merienda en el campo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>El viernes 9 por la noche</u> salimos a cenar con unos amigos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>El viernes 9</u> recibí una postal de Miguel. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "101.2",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Ordene las palabras y complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "pasado mañana / Emma / se marcha _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "mañana / el jefe / en la oficina / no estará El jefe _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ayer / Olga / me llamó Ayer _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "pasado mañana / mis padres / llegan Pasado mañana _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ahora / Concha / no está Ahora _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "y / entonces / el espectáculo / sonaron unas trompetas / empezó Sonaron unas trompetas _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Ordenación de grupos de palabras separados por barras para formar frases completas. En varios ítems aparece impreso el comienzo de la frase ordenada y el alumno debe completarla en la línea."
+    },
+    {
+      "subejercicio": "101.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "No te preocupes. Estoy segura de que nos veremos (temprano/pronto).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mañana nos tenemos que levantar (temprano/tarde). El avión sale a las siete.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Primero iremos a Mendoza y (entonces/después) a Bariloche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llamamos al timbre y (entonces/después) salió el marido de Tere.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy acabando un trabajo, pero si quieres nos vemos (entonces/luego).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Habéis llegado (tarde/temprano). La película ya ha empezado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Daos prisa. Los invitados van a llegar (temprano/pronto).",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "101.4",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya las palabras subrayadas por alguna de las palabras siguientes: después, entonces, luego, pronto, temprano y tarde.",
+      "items": [
+        {
+          "texto_enunciado": "Tienen que hacer el proyecto <u>en poco tiempo</u>. → _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mañana nos tenemos que levantar <u>a primera hora del día</u>. → _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estaba hablando con Josefina y <u>en ese momento</u> llegó Roberto. → _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ahora tengo trabajo. Te llamaré <u>después del trabajo</u>. → _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Era <u>una hora avanzada de la noche</u>, pero llamamos a una ambulancia y vino <u>en muy poco tiempo</u>. → _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy quiero cenar y acostarme <u>antes de lo normal</u>. Estoy cansado. → _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ahora no tenemos hambre. Comeremos <u>más tarde</u>. → _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Apagaron las luces y <u>en ese momento</u> se oyó una voz. → _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 101,
+  "titulo_libro": "hoy, ayer, entonces, luego... -- Adverbios de tiempo (1)",
+  "scan": "libro-rojo-212.png"
+}

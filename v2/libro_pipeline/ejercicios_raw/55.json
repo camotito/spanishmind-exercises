@@ -1,0 +1,142 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "55.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe y complete los diálogos con gustar o encantar en afirmativa o negativa.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Tabla de preferencias con las columnas tortilla, queso, paella, fabada, calamares y gambas.",
+          "Nati: tortilla, una cara sonriente; queso, X; paella, dos caras sonrientes; fabada, X; calamares, una cara sonriente; gambas, dos caras sonrientes.",
+          "Gerardo: tortilla, X; queso, X; paella, dos caras sonrientes; fabada, una cara sonriente; calamares, X; gambas, dos caras sonrientes.",
+          "don Jesús: tortilla, una cara sonriente; queso, una cara sonriente; paella, X; fabada, dos caras sonrientes; calamares, una cara sonriente; gambas, X.",
+          "Leyenda: una cara sonriente = gustar; dos caras sonrientes = encantar; X = no gustar."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Don Jesús: –¿_____ la tortilla, Gerardo? Gerardo: –No, _____."
+        },
+        {
+          "texto_enunciado": "Gerardo: A Nati _____ la tortilla."
+        },
+        {
+          "texto_enunciado": "Nati: –¿_____ el queso, don Jesús? Don Jesús: –Sí, _____."
+        },
+        {
+          "texto_enunciado": "Don Jesús: A Nati y a Gerardo _____ el queso."
+        },
+        {
+          "texto_enunciado": "Gerardo: A Nati y a mí _____ la paella."
+        },
+        {
+          "texto_enunciado": "Nati: –¿_____ la fabada, don Jesús? Don Jesús: –Sí, _____."
+        },
+        {
+          "texto_enunciado": "Don Jesús: –¿_____ los calamares, Nati? Nati: –Sí, _____ mucho."
+        },
+        {
+          "texto_enunciado": "Gerardo: A mí _____ los calamares."
+        },
+        {
+          "texto_enunciado": "Don Jesús: –¿_____ las gambas a Nati y a ti, Gerardo? Gerardo: –Sí, _____."
+        },
+        {
+          "texto_enunciado": "Nati: –¿_____ a usted las gambas, don Jesús? Don Jesús: –No, _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "55.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con gustar o encantar en afirmativa o negativa.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "simbolo": "☺",
+            "significado": "gustar"
+          },
+          {
+            "simbolo": "☺☺",
+            "significado": "encantar"
+          },
+          {
+            "simbolo": "x",
+            "significado": "no gustar"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "–¿_____ (☺) bailar, Sara? –Sí, _____ (☺☺). ¿Y a ti? –_____ (x)."
+        },
+        {
+          "texto_enunciado": "–¿_____ (☺) leer a Rubén y a ti? –A mí _____ (☺☺), pero _____ (x) mucho."
+        },
+        {
+          "texto_enunciado": "A Nacho _____ (☺) Cristina, pero a Cristina _____ (x) Nacho."
+        },
+        {
+          "texto_enunciado": "–¿_____ (☺) viajar, Manuel? –Sí, mucho. ¿Y a vosotras? –_____ (☺☺)."
+        },
+        {
+          "texto_enunciado": "–¿Qué _____ (☺) a ustedes hacer en vacaciones? –_____ (☺) ir a la playa y descansar."
+        },
+        {
+          "texto_enunciado": "–_____ (☺☺) hacer deporte. ¿Y a ti, Norma? –_____ (☺) pasear y nadar."
+        }
+      ]
+    },
+    {
+      "subejercicio": "55.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los siguientes verbos: apetecer, doler, importar, interesar, quedar, sentar.",
+      "items": [
+        {
+          "texto_enunciado": "A mi abuela _____ mucho las piernas."
+        },
+        {
+          "texto_enunciado": "–¿_____ salir esta noche, Luis? –No, estoy cansado."
+        },
+        {
+          "texto_enunciado": "A Elena y a ti _____ muy bien el color verde."
+        },
+        {
+          "texto_enunciado": "–¿(a vosotros) _____ mucho dinero? –A mí solo _____ un peso."
+        },
+        {
+          "texto_enunciado": "Tengo que ir al dentista. _____ las muelas."
+        },
+        {
+          "texto_enunciado": "A José y a mí no _____ madrugar."
+        },
+        {
+          "texto_enunciado": "–¿_____ a ustedes comer algo? –No, gracias. No tenemos hambre."
+        },
+        {
+          "texto_enunciado": "A Jordi y a Gonzalo _____ bien la corbata."
+        },
+        {
+          "texto_enunciado": "La informática es muy útil, pero a mí no _____ nada."
+        },
+        {
+          "texto_enunciado": "Lo siento, Gema, pero esos pantalones _____ grandes."
+        },
+        {
+          "texto_enunciado": "A ti _____ muy bien los sombreros, Amalia."
+        },
+        {
+          "texto_enunciado": "–¿_____ a usted un gazpacho, Matías? –No, gracias. _____ el estómago."
+        }
+      ]
+    }
+  ],
+  "unidad": 55,
+  "titulo_libro": "Me gusta la ópera -- Verbos con me, te, le...",
+  "scan": "libro-rojo-120.png"
+}

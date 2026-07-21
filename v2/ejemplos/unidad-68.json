@@ -1,0 +1,217 @@
+{
+  "tema": "unidad-68",
+  "titulo": "habré, podré...",
+  "descripcion_gramatical": "Futuro simple: verbos irregulares",
+  "fuente": "libro",
+  "unidad_libro": 68,
+  "ejercicios": [
+    {
+      "subejercicio": "68.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con el futuro simple de los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Has hecho la cama? –No, la _____ luego.",
+          "solucion_correcta": [
+            "haré"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Ha venido Sonia? –No, probablemente _____ más tarde.",
+          "solucion_correcta": [
+            "vendrá"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana _____ tormentas en el centro del país y _____ bastante frío en el norte.",
+          "solucion_correcta": [
+            "habrá",
+            "hará"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Le has dicho a Pepe que no podemos ir a su fiesta? –No, me da apuro. Se lo _____ mañana.",
+          "solucion_correcta": [
+            "diré"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Sabéis ya el resultado del examen? –No, pero lo _____ muy pronto.",
+          "solucion_correcta": [
+            "sabremos"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Ha salido ya Rocío? –No, _____ dentro de un rato.",
+          "solucion_correcta": [
+            "saldrá"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Has puesto el lavavajillas? –No, lo _____ esta noche después de cenar.",
+          "solucion_correcta": [
+            "pondré"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "decir",
+        "haber",
+        "hacer",
+        "hacer",
+        "poner",
+        "saber",
+        "salir",
+        "venir"
+      ]
+    },
+    {
+      "subejercicio": "68.2",
+      "tipologia": "T9",
+      "enunciado": "Complete estas predicciones. ¿Cómo será la vida dentro de cincuenta años? Escriba frases con las palabras dadas.",
+      "items": [
+        {
+          "texto_enunciado": "La vida/ser/muy diferente. En el futuro _____.",
+          "solucion_correcta": [
+            "la vida será muy diferente"
+          ]
+        },
+        {
+          "texto_enunciado": "La gente/vivir/más. _____.",
+          "solucion_correcta": [
+            "La gente vivirá más"
+          ]
+        },
+        {
+          "texto_enunciado": "La gente/trabajar/menos. _____.",
+          "solucion_correcta": [
+            "La gente trabajará menos"
+          ]
+        },
+        {
+          "texto_enunciado": "Los robots/hacer/todos los trabajos físicos. _____.",
+          "solucion_correcta": [
+            "Los robots harán todos los trabajos físicos"
+          ]
+        },
+        {
+          "texto_enunciado": "Haber/ciudades satélite en el espacio. _____.",
+          "solucion_correcta": [
+            "Habrá ciudades satélite en el espacio"
+          ]
+        },
+        {
+          "texto_enunciado": "Muchas enfermedades/desaparecer. _____.",
+          "solucion_correcta": [
+            "Muchas enfermedades desaparecerán"
+          ]
+        },
+        {
+          "texto_enunciado": "No/haber/guerras. _____.",
+          "solucion_correcta": [
+            "No habrá guerras"
+          ]
+        },
+        {
+          "texto_enunciado": "Las casas/estar/informatizadas. _____.",
+          "solucion_correcta": [
+            "Las casas estarán informatizadas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Quién crees que (ganar) _____ la copa?",
+          "solucion_correcta": [
+            "ganará"
+          ]
+        },
+        {
+          "texto_enunciado": "Me imagino que cuando tenga cincuenta años (yo, estar) _____ calvo y (yo, tener) _____ muchas arrugas.",
+          "solucion_correcta": [
+            "estaré",
+            "tendré"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué vais a hacer este verano? –Seguramente (ir) _____ a Viña.",
+          "solucion_correcta": [
+            "iremos"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Has invitado a Carlos y a Toñi? –Sí, pero supongo que no (venir) _____.",
+          "solucion_correcta": [
+            "vendrán"
+          ]
+        },
+        {
+          "texto_enunciado": "No he visto a Lucía esta semana. ¿Crees que (acordarse) _____ de la cita?",
+          "solucion_correcta": [
+            "se acordará"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué vas a estudiar, Rafa? –No lo sé. Probablemente (estudiar) _____ Medicina.",
+          "solucion_correcta": [
+            "estudiaré"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Supongo que (venir) _____ todos el sábado? –No lo sé. Ana no está bien.",
+          "solucion_correcta": [
+            "vendréis"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Sabes dónde está Julia? –_____ en casa. No sale nunca.",
+          "solucion_correcta": [
+            "Estará"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Tienes tú las entradas? –¿Yo? No, las _____ Blanca. Las ha comprado ella.",
+          "solucion_correcta": [
+            "tendrá"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Cuántas personas crees que hay en el teatro? –_____ unas cuarenta.",
+          "solucion_correcta": [
+            "Habrá"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quién es la chica que está con Jorge? –No la conozco. _____ una amiga.",
+          "solucion_correcta": [
+            "Será"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Sabes a qué hora empieza el concierto? –No. Lo _____ Amalia. Ella tiene el programa.",
+          "solucion_correcta": [
+            "Sabrá"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Sabes cuánto valen esos ordenadores? –No _____ mucho. Están de oferta.",
+          "solucion_correcta": [
+            "valdrán"
+          ]
+        }
+      ]
+    }
+  ]
+}

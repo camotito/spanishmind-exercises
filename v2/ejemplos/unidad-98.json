@@ -1,0 +1,197 @@
+{
+  "tema": "unidad-98",
+  "titulo": "trabajando, comiendo, viviendo",
+  "descripcion_gramatical": "Gerundio",
+  "fuente": "libro",
+  "unidad_libro": 98,
+  "ejercicios": [
+    {
+      "subejercicio": "98.1",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases con el gerundio como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Se marchó mientras se reía.</u> _____.",
+          "solucion_correcta": [
+            "Se marchó riendo"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Me gusta trabajar mientras escucho música.</u> _____.",
+          "solucion_correcta": [
+            "Me gusta trabajar escuchando música"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Carmen desayuna mientras lee el periódico.</u> _____.",
+          "solucion_correcta": [
+            "Carmen desayuna leyendo el periódico"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Me afeito mientras escucho las noticias.</u> _____.",
+          "solucion_correcta": [
+            "Me afeito escuchando las noticias"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Esther salió y cerró la puerta.</u> _____.",
+          "solucion_correcta": [
+            "Esther salió cerrando la puerta"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Pedro llegó y dio abrazos a todos.</u> _____.",
+          "solucion_correcta": [
+            "Pedro llegó dando abrazos a todos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.2",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las palabras subrayadas por un gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "Contestó <u>con una sonrisa</u>. _____.",
+          "solucion_correcta": [
+            "Contestó sonriendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Bajaron las escaleras <u>a todo correr</u>. _____.",
+          "solucion_correcta": [
+            "Bajaron las escaleras corriendo"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Con los viajes</u> se conoce a mucha gente. _____.",
+          "solucion_correcta": [
+            "Viajando se conoce a mucha gente"
+          ]
+        },
+        {
+          "texto_enunciado": "Nuestro profesor es feliz <u>con el trabajo</u>. _____.",
+          "solucion_correcta": [
+            "Nuestro profesor es feliz trabajando"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Con la lectura</u> se conocen muchos mundos. _____.",
+          "solucion_correcta": [
+            "Leyendo se conocen muchos mundos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases usando el gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "<u>La policía sorprendió a los ladrones cuando hacían un agujero.</u> _____.",
+          "solucion_correcta": [
+            "La policía sorprendió a los ladrones haciendo un agujero"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Esta mañana he visto a Emilio cuando salía de su casa.</u> _____.",
+          "solucion_correcta": [
+            "Esta mañana he visto a Emilio saliendo de su casa"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Amalia conoció a su marido cuando viajaban por Cuba.</u> _____.",
+          "solucion_correcta": [
+            "Amalia conoció a su marido viajando por Cuba"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>No me puedo imaginar a Daniel cuando da clases de ruso.</u> _____.",
+          "solucion_correcta": [
+            "No me puedo imaginar a Daniel dando clases de ruso"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Me gusta fotografiar a la gente mientras camina por la ciudad.</u> _____.",
+          "solucion_correcta": [
+            "Me gusta fotografiar a la gente caminando por la ciudad"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Ayer había aquí un hombre que vendía dulces.</u> _____.",
+          "solucion_correcta": [
+            "Ayer había aquí un hombre vendiendo dulces"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Recuerdo a Ana cuando daba sus primeros pasos.</u> _____.",
+          "solucion_correcta": [
+            "Recuerdo a Ana dando sus primeros pasos"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>En el parque hay dos chicos que tocan la guitarra.</u> _____.",
+          "solucion_correcta": [
+            "En el parque hay dos chicos tocando la guitarra"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.4",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con la forma adecuada de seguir o llevar y el gerundio de los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Dónde trabajas ahora, Carlos? —_____ en la academia de idiomas.",
+          "solucion_correcta": [
+            "Sigo trabajando"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuánto tiempo _____ juntos Arturo y tú cuando os casasteis?",
+          "solucion_correcta": [
+            "llevabais saliendo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Dónde viven tus padres ahora? —_____ en Monterrey. _____ allí casi diez años.",
+          "solucion_correcta": [
+            "Siguen viviendo",
+            "Llevan viviendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me duelen los ojos. _____ desde las ocho.",
+          "solucion_correcta": [
+            "Llevo leyendo"
+          ]
+        },
+        {
+          "texto_enunciado": "El médico le aconsejó que no tomara azúcar, pero él _____.",
+          "solucion_correcta": [
+            "Sigue/siguió tomándola"
+          ]
+        },
+        {
+          "texto_enunciado": "Me estoy preocupando. _____ a Marta casi una hora.",
+          "solucion_correcta": [
+            "Llevo esperando"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "tomar",
+        "esperar",
+        "leer",
+        "salir",
+        "trabajar",
+        "vivir",
+        "vivir"
+      ]
+    }
+  ]
+}

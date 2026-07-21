@@ -1,0 +1,145 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "47.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "(Hay/Está) un paquete para ti. (Hay/Está) en tu habitación."
+        },
+        {
+          "texto_enunciado": "¿Cuántos alumnos (hay/están) en tu clase?"
+        },
+        {
+          "texto_enunciado": "–¿(Hay/Está) pan? –Sí, (hay/está) en la despensa."
+        },
+        {
+          "texto_enunciado": "–¿(Hay/Está) algo para comer? –Sí, (hay/está) queso en la nevera."
+        },
+        {
+          "texto_enunciado": "¿Qué (hay/está) en esa caja?"
+        },
+        {
+          "texto_enunciado": "¿(Hay/Está) una estación de metro por aquí?"
+        },
+        {
+          "texto_enunciado": "La cafetería del hospital (hay/está) en el sótano."
+        },
+        {
+          "texto_enunciado": "En este edificio (hay/están) dos oficinas. (Hay/Están) en el primer piso."
+        },
+        {
+          "texto_enunciado": "(Hay/Está) un ratón en mi habitación. (Hay/Está) debajo de la cama."
+        },
+        {
+          "texto_enunciado": "(Hay/Están) muchos museos en Barcelona."
+        }
+      ]
+    },
+    {
+      "subejercicio": "47.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Seleccione las formas adecuadas y escriba frases.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Primera columna de la tabla: «¿Dónde».",
+          "Segunda columna de la tabla: «hay», «está», «están».",
+          "Tercera columna de la tabla: «una farmacia?», «una parada de autobús?», «la parada de autobús más próxima?», «el Hospital Central?», «las ruinas de Tikal?», «un banco?», «el Banco de Galicia?», «los cines Luna?»."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        }
+      ],
+      "tipologia_libre_original": "Producción de frases mediante la combinación de elementos presentados en una tabla: el interrogativo «¿Dónde», una de las formas «hay», «está» o «están» y uno de ocho sintagmas nominales."
+    },
+    {
+      "subejercicio": "47.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con hay, está o están.",
+      "items": [
+        {
+          "texto_enunciado": "_____ diez alumnos en mi clase."
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ la casa de tu abuelo?"
+        },
+        {
+          "texto_enunciado": "_____ un cine nuevo en mi barrio. _____ en la calle de Bravo Murillo."
+        },
+        {
+          "texto_enunciado": "Perdone, ¿_____ la calle 67 por aquí?"
+        },
+        {
+          "texto_enunciado": "Mis compañeros _____ en la cafetería."
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ la parada del 61?"
+        },
+        {
+          "texto_enunciado": "_____ un departamento nuevo en la empresa. _____ en el piso cuarto."
+        },
+        {
+          "texto_enunciado": "¿_____ leche? –Sí, _____ un litro. _____ en la nevera."
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ una parada de taxis?"
+        },
+        {
+          "texto_enunciado": "En mi pueblo _____ dos piscinas. _____ en las afueras."
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ la posada La Montaña?"
+        },
+        {
+          "texto_enunciado": "¿_____ una papelería por aquí?"
+        },
+        {
+          "texto_enunciado": "_____ unas cartas para usted. _____ en el salón."
+        },
+        {
+          "texto_enunciado": "En mi calle _____ un hotel. _____ cerca de mi casa."
+        },
+        {
+          "texto_enunciado": "En Bogotá _____ un museo del oro."
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ mis llaves?"
+        },
+        {
+          "texto_enunciado": "En Lima _____ muchos edificios antiguos. _____ todos en el centro."
+        }
+      ]
+    }
+  ],
+  "unidad": 47,
+  "titulo_libro": "Hay un cine. Está en la calle Mayor -- Contraste entre haber y estar",
+  "scan": "libro-rojo-104.png"
+}

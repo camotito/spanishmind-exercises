@@ -1,0 +1,118 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "89.1",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Complete los mensajes del contestador automático. Use quiero saber.",
+      "items": [
+        {
+          "texto_enunciado": "(Raquel a Patricia: ¿Dónde ha comprado el libro sobre Cuba?) _____."
+        },
+        {
+          "texto_enunciado": "(Su padre a Fermín: ¿Cuándo le va a devolver el coche?) _____."
+        },
+        {
+          "texto_enunciado": "(Ernesto a Susana: ¿Va a venir al concierto esta noche?) _____."
+        },
+        {
+          "texto_enunciado": "(Fede a Toni: ¿Dónde vive Laura?) _____."
+        },
+        {
+          "texto_enunciado": "(Ismael a su madre: ¿Puede cuidar a los niños esta noche?) _____."
+        },
+        {
+          "texto_enunciado": "(Lolo a Ana: ¿Está ocupada el sábado?) _____."
+        }
+      ],
+      "tipologia_libre_original": "Transformación de preguntas directas en mensajes de estilo indirecto para un contestador automático usando «quiero saber»."
+    },
+    {
+      "subejercicio": "89.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el verbo entre paréntesis en el tiempo más adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "El domingo vi a Carlos y le pregunté (“¿Tienes novia?”) _____."
+        },
+        {
+          "texto_enunciado": "Ayer me llamó Jesús. Quería saber (“¿Cuándo lo vas a llamar?”) _____."
+        },
+        {
+          "texto_enunciado": "Hace unos días me llamó Ana. Quería saber (“¿Qué hace Ramón?”) _____."
+        },
+        {
+          "texto_enunciado": "Ayer vi a Lola. Me preguntó (“¿Qué vais a hacer este verano?”) _____."
+        },
+        {
+          "texto_enunciado": "Esta mañana llamó Alberto. Quería saber (“¿Os gustaría salir el sábado?”) _____."
+        },
+        {
+          "texto_enunciado": "Ayer tuve carta de Ángela. Quería saber (“¿Por qué has dejado el trabajo?”) _____."
+        },
+        {
+          "texto_enunciado": "El lunes llamé al administrador para preguntarle (“¿Quién pagará el arreglo de la cocina?”) _____."
+        },
+        {
+          "texto_enunciado": "Ayer tuvimos una llamada de la policía. Querían saber (“¿Han visto a alguien sospechoso por el barrio?”) _____."
+        },
+        {
+          "texto_enunciado": "Esta mañana me preguntó Luisa (“¿Te llamó Ángel anoche?”) _____."
+        },
+        {
+          "texto_enunciado": "Ayer le pregunté a Adolfo (“¿Dónde conociste a Silvia?”) _____."
+        }
+      ],
+      "tipologia_libre_original": "Transformación de preguntas directas entre paréntesis en preguntas de estilo indirecto, ajustando los tiempos verbales."
+    },
+    {
+      "subejercicio": "89.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "La semana pasada Sabina tuvo una entrevista para un trabajo en una agencia de viajes. Lea las preguntas que le hicieron. Hoy Sabina le está contando la entrevista a un amigo. Complete las frases.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "imagen": "La entrevistadora y Sabina durante la entrevista",
+            "texto": "1. ¿Cuántos años tiene? 2. ¿Dónde ha estudiado? 3. ¿Sabe usar un ordenador? 4. ¿Habla algún idioma extranjero? 5. ¿Por qué quiere dejar su empleo actual? 6. ¿Ha estado en América Latina? 7. ¿Estaría dispuesta a viajar? 8. ¿Cuánto espera ganar?"
+          },
+          {
+            "imagen": "Sabina hablando con un amigo",
+            "texto": "¿Cómo fue la entrevista?"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "—Bien. Primero me preguntaron (1) _____"
+        },
+        {
+          "texto_enunciado": "y (2) _____."
+        },
+        {
+          "texto_enunciado": "Por supuesto, querían saber (3) _____"
+        },
+        {
+          "texto_enunciado": "y (4) _____."
+        },
+        {
+          "texto_enunciado": "También me preguntaron (5) _____."
+        },
+        {
+          "texto_enunciado": "Como están muy relacionados con América Latina me preguntaron (6) _____."
+        },
+        {
+          "texto_enunciado": "Finalmente me preguntaron (7) _____"
+        },
+        {
+          "texto_enunciado": "y (8) _____. Salí muy contenta. Espero que me llamen."
+        }
+      ]
+    }
+  ],
+  "unidad": 89,
+  "titulo_libro": "Me preguntó dónde vivía -- Estilo indirecto (2)",
+  "scan": "libro-rojo-188.png"
+}

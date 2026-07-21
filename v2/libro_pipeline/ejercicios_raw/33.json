@@ -1,0 +1,151 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "33.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y escriba las exclamaciones oportunas con qué y los nombres y adjetivos dados.",
+      "banco_palabras": [
+        "camisa",
+        "chico",
+        "coche",
+        "pendientes",
+        "relojes",
+        "alto",
+        "barato",
+        "bonito",
+        "caro",
+        "largo"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un coche muy largo."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una camisa con una etiqueta de precio de 200."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Unos pendientes expuestos en una caja."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un chico mirándose en un espejo."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Varios relojes con un cartel de 5 €."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____"
+        },
+        {
+          "texto_enunciado": "2. _____"
+        },
+        {
+          "texto_enunciado": "3. _____"
+        },
+        {
+          "texto_enunciado": "4. _____"
+        },
+        {
+          "texto_enunciado": "5. _____"
+        }
+      ],
+      "tipologia_libre_original": "Producción de exclamaciones completas a partir de cinco ilustraciones y un banco de nombres y adjetivos."
+    },
+    {
+      "subejercicio": "33.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con qué, cómo o cuánto, cuánta...",
+      "items": [
+        {
+          "texto_enunciado": "1. ¡_____ duerme José!"
+        },
+        {
+          "texto_enunciado": "2. ¡_____ noche tan fría!"
+        },
+        {
+          "texto_enunciado": "3. ¡_____ estrellas!"
+        },
+        {
+          "texto_enunciado": "4. ¡_____ corren tus hijos!"
+        },
+        {
+          "texto_enunciado": "5. ¡_____ barbaridad! ¡_____ cuesta ese cuadro!"
+        },
+        {
+          "texto_enunciado": "6. ¡_____ llueve! Parece el diluvio."
+        },
+        {
+          "texto_enunciado": "7. ¡_____ libros tiene Marisa!"
+        },
+        {
+          "texto_enunciado": "8. ¡_____ lloran! ¡Pobrecillos!"
+        },
+        {
+          "texto_enunciado": "9. ¡_____ vago es Lolo! No le gusta nada trabajar."
+        },
+        {
+          "texto_enunciado": "10. ¡_____ tarde es! Tengo que irme."
+        }
+      ]
+    },
+    {
+      "subejercicio": "33.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Exprese sus sentimientos ante las siguientes afirmaciones utilizando qué, cómo o cuánto, cuánta...",
+      "items": [
+        {
+          "texto_enunciado": "1. Jorge tiene muy mala suerte. _____"
+        },
+        {
+          "texto_enunciado": "2. Hoy hace mucho calor. _____"
+        },
+        {
+          "texto_enunciado": "3. Lotta habla español muy bien. _____"
+        },
+        {
+          "texto_enunciado": "4. Estamos muy cansadas. _____"
+        },
+        {
+          "texto_enunciado": "5. Alfonso conduce muy mal. _____"
+        },
+        {
+          "texto_enunciado": "6. Sara y Eva son muy listas. _____"
+        },
+        {
+          "texto_enunciado": "7. Rodri come muy deprisa. _____"
+        },
+        {
+          "texto_enunciado": "8. Lucio es muy guapo. _____"
+        },
+        {
+          "texto_enunciado": "9. Rosario duerme mucho. _____"
+        },
+        {
+          "texto_enunciado": "10. Alberto gasta mucho dinero. _____"
+        },
+        {
+          "texto_enunciado": "11. Hay mucha gente en la playa. _____"
+        },
+        {
+          "texto_enunciado": "12. Tengo mucha suerte. _____"
+        }
+      ],
+      "tipologia_libre_original": "Reformulación de afirmaciones como oraciones exclamativas utilizando qué, cómo, cuánto o cuánta."
+    }
+  ],
+  "unidad": 33,
+  "titulo_libro": "¡qué!, ¡cuánto!, ¡cómo!... -- Exclamativos",
+  "scan": "libro-rojo-076.png"
+}

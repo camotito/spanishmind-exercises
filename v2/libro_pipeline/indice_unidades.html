@@ -1,0 +1,983 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Indice de unidades - Gramatica de uso del espanol</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff; --fg: #1a1a1a; --muted: #666; --border: #ddd;
+    --row-hover: #f2f6fb; --badge-ok-bg: #e3f5e6; --badge-ok-fg: #1e7d34;
+    --badge-warn-bg: #fdecea; --badge-warn-fg: #b3261e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16181d; --fg: #e6e6e6; --muted: #9aa0a6; --border: #333;
+      --row-hover: #20242c; --badge-ok-bg: #143d20; --badge-ok-fg: #7fd995;
+      --badge-warn-bg: #3d1a17; --badge-warn-fg: #f2a29c;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: var(--bg); color: var(--fg);
+    margin: 0; padding: 1.5rem clamp(1rem, 4vw, 3rem) 3rem;
+  }
+  h1 { font-size: 1.4rem; margin: 0 0 0.25rem; }
+  .subtitle { color: var(--muted); font-size: 0.9rem; margin: 0 0 1.25rem; }
+  #buscador {
+    width: 100%; font-size: 1rem; padding: 0.6rem 0.9rem;
+    border: 1px solid var(--border); border-radius: 8px;
+    background: var(--bg); color: var(--fg); margin-bottom: 0.5rem;
+  }
+  #contador { color: var(--muted); font-size: 0.85rem; margin-bottom: 1rem; }
+  .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 8px; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.5rem 0.75rem; border-bottom: 1px solid var(--border); }
+  th { position: sticky; top: 0; background: var(--bg); cursor: default; }
+  tbody tr:hover { background: var(--row-hover); }
+  .col-num { width: 3.5rem; font-variant-numeric: tabular-nums; color: var(--muted); }
+  .col-pagina { width: 4.5rem; font-variant-numeric: tabular-nums; color: var(--muted); }
+  .col-gramatica { color: var(--muted); }
+  .col-estado { white-space: nowrap; }
+  .badge {
+    display: inline-block; font-size: 0.72rem; padding: 0.15rem 0.5rem;
+    border-radius: 999px; margin-right: 0.25rem;
+  }
+  .badge-ok { background: var(--badge-ok-bg); color: var(--badge-ok-fg); }
+  .badge-warn { background: var(--badge-warn-bg); color: var(--badge-warn-fg); }
+  tr.hidden { display: none; }
+</style>
+</head>
+<body>
+<h1>Indice de unidades del libro</h1>
+<p class="subtitle">"Gramatica de uso del espanol" (Aragones/Palencia) &mdash; 126 unidades. Busca por titulo, gramatica o numero.</p>
+<input id="buscador" type="search" placeholder="Buscar, ej. &quot;todavia&quot;, &quot;subjuntivo&quot;, &quot;38&quot;..." autofocus>
+<div id="contador"></div>
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th class="col-num">#</th>
+      <th class="col-ejemplo">Titulo</th>
+      <th class="col-gramatica">Gramatica</th>
+      <th class="col-pagina">Pag.</th>
+      <th class="col-estado">Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr data-search="1 el hijo, la hija masculino, femenino (1) sustantivos-genero-profesiones">
+      <td class="col-num">1</td>
+      <td class="col-ejemplo">el hijo, la hija</td>
+      <td class="col-gramatica">Masculino, femenino (1)</td>
+      <td class="col-pagina">11</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span></td>
+    </tr>
+    <tr data-search="2 el libro, la mesa masculino, femenino (2) clasificacion-genero-terminaciones">
+      <td class="col-num">2</td>
+      <td class="col-ejemplo">el libro, la mesa</td>
+      <td class="col-gramatica">Masculino, femenino (2)</td>
+      <td class="col-pagina">13</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span></td>
+    </tr>
+    <tr data-search="3 libro, libros singular, plural numero-plural">
+      <td class="col-num">3</td>
+      <td class="col-ejemplo">libro, libros</td>
+      <td class="col-gramatica">Singular, plural</td>
+      <td class="col-pagina">15</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span></td>
+    </tr>
+    <tr data-search="4 un, una, unos, unas el artículo indeterminado articulo-indeterminado">
+      <td class="col-num">4</td>
+      <td class="col-ejemplo">un, una, unos, unas</td>
+      <td class="col-gramatica">El artículo indeterminado</td>
+      <td class="col-pagina">17</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span></td>
+    </tr>
+    <tr data-search="5 un coche / coche ausencia de artículo ausencia-articulo">
+      <td class="col-num">5</td>
+      <td class="col-ejemplo">un coche / coche</td>
+      <td class="col-gramatica">Ausencia de artículo</td>
+      <td class="col-pagina">19</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span></td>
+    </tr>
+    <tr data-search="6 el, la, los, las el artículo determinado articulo-determinado">
+      <td class="col-num">6</td>
+      <td class="col-ejemplo">el, la, los, las</td>
+      <td class="col-gramatica">El artículo determinado</td>
+      <td class="col-pagina">21</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span></td>
+    </tr>
+    <tr data-search="7 un perro / el perro contraste entre el artículo determinado y el indeterminado contraste-articulos">
+      <td class="col-num">7</td>
+      <td class="col-ejemplo">un perro / el perro</td>
+      <td class="col-gramatica">Contraste entre el artículo determinado y el indeterminado</td>
+      <td class="col-pagina">23</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span></td>
+    </tr>
+    <tr data-search="8 el señor alonso, la calle mayor el artículo determinado con nombres propios articulo-nombres-propios">
+      <td class="col-num">8</td>
+      <td class="col-ejemplo">el señor Alonso, la calle Mayor</td>
+      <td class="col-gramatica">El artículo determinado con nombres propios</td>
+      <td class="col-pagina">25</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span></td>
+    </tr>
+    <tr data-search="9 el seis de enero el artículo determinado con expresiones de tiempo y de cantidad articulo-tiempo-cantidad">
+      <td class="col-num">9</td>
+      <td class="col-ejemplo">el seis de enero</td>
+      <td class="col-gramatica">El artículo determinado con expresiones de tiempo y de cantidad</td>
+      <td class="col-pagina">27</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span></td>
+    </tr>
+    <tr data-search="10 tocar la guitarra otros usos del artículo determinado otros-usos-articulo">
+      <td class="col-num">10</td>
+      <td class="col-ejemplo">tocar la guitarra</td>
+      <td class="col-gramatica">Otros usos del artículo determinado</td>
+      <td class="col-pagina">29</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="11 el rojo, uno rojo omisión del nombre ">
+      <td class="col-num">11</td>
+      <td class="col-ejemplo">el rojo, uno rojo</td>
+      <td class="col-gramatica">Omisión del nombre</td>
+      <td class="col-pagina">31</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="12 este, ese, aquel... demostrativos ">
+      <td class="col-num">12</td>
+      <td class="col-ejemplo">este, ese, aquel...</td>
+      <td class="col-gramatica">Demostrativos</td>
+      <td class="col-pagina">33</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="13 un coche pequeño adjetivos calificativos ">
+      <td class="col-num">13</td>
+      <td class="col-ejemplo">un coche pequeño</td>
+      <td class="col-gramatica">Adjetivos calificativos</td>
+      <td class="col-pagina">35</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="14 una amiga chilena adjetivos de nacionalidad ">
+      <td class="col-num">14</td>
+      <td class="col-ejemplo">una amiga chilena</td>
+      <td class="col-gramatica">Adjetivos de nacionalidad</td>
+      <td class="col-pagina">37</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="15 más caro, menos trabajador forma comparativa de los adjetivos (1) ">
+      <td class="col-num">15</td>
+      <td class="col-ejemplo">más caro, menos trabajador</td>
+      <td class="col-gramatica">Forma comparativa de los adjetivos (1)</td>
+      <td class="col-pagina">39</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="16 tan alto, igual de alto forma comparativa de los adjetivos (2) ">
+      <td class="col-num">16</td>
+      <td class="col-ejemplo">tan alto, igual de alto</td>
+      <td class="col-gramatica">Forma comparativa de los adjetivos (2)</td>
+      <td class="col-pagina">41</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="17 la más alta, el menos trabajador superlativo ">
+      <td class="col-num">17</td>
+      <td class="col-ejemplo">la más alta, el menos trabajador</td>
+      <td class="col-gramatica">Superlativo</td>
+      <td class="col-pagina">43</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="18 mi, tu, su... posesivos (1) ">
+      <td class="col-num">18</td>
+      <td class="col-ejemplo">mi, tu, su...</td>
+      <td class="col-gramatica">Posesivos (1)</td>
+      <td class="col-pagina">45</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="19 mío, tuyo, suyo... posesivos (2) ">
+      <td class="col-num">19</td>
+      <td class="col-ejemplo">mío, tuyo, suyo...</td>
+      <td class="col-gramatica">Posesivos (2)</td>
+      <td class="col-pagina">47</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="20 todos, algunos, unos, ninguno... indefinidos (1) ">
+      <td class="col-num">20</td>
+      <td class="col-ejemplo">todos, algunos, unos, ninguno...</td>
+      <td class="col-gramatica">Indefinidos (1)</td>
+      <td class="col-pagina">49</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="21 uno, otro, cualquiera indefinidos (2) ">
+      <td class="col-num">21</td>
+      <td class="col-ejemplo">uno, otro, cualquiera</td>
+      <td class="col-gramatica">Indefinidos (2)</td>
+      <td class="col-pagina">51</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="22 mucho, poco, demasiado, suficiente... indefinidos (3) ">
+      <td class="col-num">22</td>
+      <td class="col-ejemplo">mucho, poco, demasiado, suficiente...</td>
+      <td class="col-gramatica">Indefinidos (3)</td>
+      <td class="col-pagina">53</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="23 alguien, algo, nadie, nada indefinidos (4) ">
+      <td class="col-num">23</td>
+      <td class="col-ejemplo">alguien, algo, nadie, nada</td>
+      <td class="col-gramatica">Indefinidos (4)</td>
+      <td class="col-pagina">55</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="24 más, menos, tanto como comparación con nombres ">
+      <td class="col-num">24</td>
+      <td class="col-ejemplo">más, menos, tanto como</td>
+      <td class="col-gramatica">Comparación con nombres</td>
+      <td class="col-pagina">57</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="25 uno, dos, tres... números cardinales (1) ">
+      <td class="col-num">25</td>
+      <td class="col-ejemplo">uno, dos, tres...</td>
+      <td class="col-gramatica">Números cardinales (1)</td>
+      <td class="col-pagina">59</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="26 cien, mil, un millón... números cardinales (2) ">
+      <td class="col-num">26</td>
+      <td class="col-ejemplo">cien, mil, un millón...</td>
+      <td class="col-gramatica">Números cardinales (2)</td>
+      <td class="col-pagina">61</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="27 los numerales ordinales números ordinales numeros-ordinales">
+      <td class="col-num">27</td>
+      <td class="col-ejemplo">Los numerales ordinales</td>
+      <td class="col-gramatica">Números ordinales</td>
+      <td class="col-pagina">63</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span></td>
+    </tr>
+    <tr data-search="28 que, el que, quien... relativos (1) ">
+      <td class="col-num">28</td>
+      <td class="col-ejemplo">que, el que, quien...</td>
+      <td class="col-gramatica">Relativos (1)</td>
+      <td class="col-pagina">65</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="29 cuyo, donde, cuando... relativos (2) ">
+      <td class="col-num">29</td>
+      <td class="col-ejemplo">cuyo, donde, cuando...</td>
+      <td class="col-gramatica">Relativos (2)</td>
+      <td class="col-pagina">67</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="30 ¿quién?, ¿qué?... interrogativos (1) ">
+      <td class="col-num">30</td>
+      <td class="col-ejemplo">¿quién?, ¿qué?...</td>
+      <td class="col-gramatica">Interrogativos (1)</td>
+      <td class="col-pagina">69</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="31 ¿cuál?, ¿qué?... interrogativos (2) ">
+      <td class="col-num">31</td>
+      <td class="col-ejemplo">¿cuál?, ¿qué?...</td>
+      <td class="col-gramatica">Interrogativos (2)</td>
+      <td class="col-pagina">71</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="32 ¿cuándo?, ¿dónde?... interrogativos (3) ">
+      <td class="col-num">32</td>
+      <td class="col-ejemplo">¿cuándo?, ¿dónde?...</td>
+      <td class="col-gramatica">Interrogativos (3)</td>
+      <td class="col-pagina">73</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="33 ¡qué!, ¡cuánto!, ¡cómo!... exclamativos ">
+      <td class="col-num">33</td>
+      <td class="col-ejemplo">¡qué!, ¡cuánto!, ¡cómo!...</td>
+      <td class="col-gramatica">Exclamativos</td>
+      <td class="col-pagina">75</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="34 yo, tú, él... pronombres personales de sujeto ">
+      <td class="col-num">34</td>
+      <td class="col-ejemplo">yo, tú, él...</td>
+      <td class="col-gramatica">Pronombres personales de sujeto</td>
+      <td class="col-pagina">77</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="35 te amo pronombres personales de complemento directo ">
+      <td class="col-num">35</td>
+      <td class="col-ejemplo">Te amo</td>
+      <td class="col-gramatica">Pronombres personales de complemento directo</td>
+      <td class="col-pagina">79</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="36 me han regalado un reloj pronombres personales de complemento indirecto ">
+      <td class="col-num">36</td>
+      <td class="col-ejemplo">Me han regalado un reloj</td>
+      <td class="col-gramatica">Pronombres personales de complemento indirecto</td>
+      <td class="col-pagina">81</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="37 se lo he dado. te lo he dado pronombres de complemento indirecto y directo ">
+      <td class="col-num">37</td>
+      <td class="col-ejemplo">Se lo he dado. Te lo he dado</td>
+      <td class="col-gramatica">Pronombres de complemento indirecto y directo</td>
+      <td class="col-pagina">83</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="38 confusión entre pronombres personales de complemento pronombres de objeto directo e indirecto pronombres-lo-la-le">
+      <td class="col-num">38</td>
+      <td class="col-ejemplo">Confusión entre pronombres personales de complemento</td>
+      <td class="col-gramatica">Pronombres de objeto directo e indirecto</td>
+      <td class="col-pagina">85</td>
+      <td class="col-estado"><span class="badge badge-ok" title="Ya promovida a v2/content/">en banco</span><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="39 ámame, dámelo pronombres de complemento con el imperativo, el infinitivo y el gerundio ">
+      <td class="col-num">39</td>
+      <td class="col-ejemplo">ámame, dámelo</td>
+      <td class="col-gramatica">Pronombres de complemento con el imperativo, el infinitivo y el gerundio</td>
+      <td class="col-pagina">87</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="40 me ducho, nos queremos pronombres reflexivos y con valor recíproco ">
+      <td class="col-num">40</td>
+      <td class="col-ejemplo">me ducho, nos queremos</td>
+      <td class="col-gramatica">Pronombres reflexivos y con valor recíproco</td>
+      <td class="col-pagina">89</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="41 para mí, contigo... pronombres personales con preposiciones ">
+      <td class="col-num">41</td>
+      <td class="col-ejemplo">para mí, contigo...</td>
+      <td class="col-gramatica">Pronombres personales con preposiciones</td>
+      <td class="col-pagina">91</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="42 soy, eres, es... presente de indicativo de ser ">
+      <td class="col-num">42</td>
+      <td class="col-ejemplo">soy, eres, es...</td>
+      <td class="col-gramatica">Presente de indicativo de ser</td>
+      <td class="col-pagina">93</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="43 estoy, estás, está... presente de indicativo de estar ">
+      <td class="col-num">43</td>
+      <td class="col-ejemplo">estoy, estás, está...</td>
+      <td class="col-gramatica">Presente de indicativo de estar</td>
+      <td class="col-pagina">95</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="44 soy alegre / estoy alegre contraste entre ser y estar ">
+      <td class="col-num">44</td>
+      <td class="col-ejemplo">soy alegre / estoy alegre</td>
+      <td class="col-gramatica">Contraste entre ser y estar</td>
+      <td class="col-pagina">97</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="45 tengo, tienes, tiene... presente de indicativo de tener ">
+      <td class="col-num">45</td>
+      <td class="col-ejemplo">tengo, tienes, tiene...</td>
+      <td class="col-gramatica">Presente de indicativo de tener</td>
+      <td class="col-pagina">99</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="46 hay un vaso en la mesa presente de indicativo de haber impersonal ">
+      <td class="col-num">46</td>
+      <td class="col-ejemplo">Hay un vaso en la mesa</td>
+      <td class="col-gramatica">Presente de indicativo de haber impersonal</td>
+      <td class="col-pagina">101</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="47 hay un cine. está en la calle mayor contraste entre haber y estar ">
+      <td class="col-num">47</td>
+      <td class="col-ejemplo">Hay un cine. Está en la calle Mayor</td>
+      <td class="col-gramatica">Contraste entre haber y estar</td>
+      <td class="col-pagina">103</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="48 trabajo, como, vivo... presente de indicativo: verbos regulares ">
+      <td class="col-num">48</td>
+      <td class="col-ejemplo">trabajo, como, vivo...</td>
+      <td class="col-gramatica">Presente de indicativo: verbos regulares</td>
+      <td class="col-pagina">105</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="49 quiero, mido, sueño... presente de indicativo: verbos irregulares (1) ">
+      <td class="col-num">49</td>
+      <td class="col-ejemplo">quiero, mido, sueño...</td>
+      <td class="col-gramatica">Presente de indicativo: verbos irregulares (1)</td>
+      <td class="col-pagina">107</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="50 voy, hago, conozco... presente de indicativo: verbos irregulares (2) ">
+      <td class="col-num">50</td>
+      <td class="col-ejemplo">voy, hago, conozco...</td>
+      <td class="col-gramatica">Presente de indicativo: verbos irregulares (2)</td>
+      <td class="col-pagina">109</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="51 mañana voy al médico presente de indicativo: otros usos ">
+      <td class="col-num">51</td>
+      <td class="col-ejemplo">Mañana voy al médico</td>
+      <td class="col-gramatica">Presente de indicativo: otros usos</td>
+      <td class="col-pagina">111</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="52 vivo en méxico desde 1998 presente para expresar períodos de tiempo ">
+      <td class="col-num">52</td>
+      <td class="col-ejemplo">Vivo en México desde 1998</td>
+      <td class="col-gramatica">Presente para expresar períodos de tiempo</td>
+      <td class="col-pagina">113</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="53 me levanto verbos con me, te, se... ">
+      <td class="col-num">53</td>
+      <td class="col-ejemplo">me levanto</td>
+      <td class="col-gramatica">Verbos con me, te, se...</td>
+      <td class="col-pagina">115</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="54 me lavo / lavo contraste entre verbos con y sin me, te, se... ">
+      <td class="col-num">54</td>
+      <td class="col-ejemplo">me lavo / lavo</td>
+      <td class="col-gramatica">Contraste entre verbos con y sin me, te, se...</td>
+      <td class="col-pagina">117</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="55 me gusta la ópera verbos con me, te, le... ">
+      <td class="col-num">55</td>
+      <td class="col-ejemplo">Me gusta la ópera</td>
+      <td class="col-gramatica">Verbos con me, te, le...</td>
+      <td class="col-pagina">119</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="56 estoy viendo las noticias presente de estar + gerundio ">
+      <td class="col-num">56</td>
+      <td class="col-ejemplo">Estoy viendo las noticias</td>
+      <td class="col-gramatica">Presente de estar + gerundio</td>
+      <td class="col-pagina">121</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="57 hago / estoy haciendo contraste entre presente de indicativo y estar + gerundio ">
+      <td class="col-num">57</td>
+      <td class="col-ejemplo">hago / estoy haciendo</td>
+      <td class="col-gramatica">Contraste entre presente de indicativo y estar + gerundio</td>
+      <td class="col-pagina">123</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="58 trabajé, comí, viví pretérito indefinido: verbos regulares ">
+      <td class="col-num">58</td>
+      <td class="col-ejemplo">trabajé, comí, viví</td>
+      <td class="col-gramatica">Pretérito indefinido: verbos regulares</td>
+      <td class="col-pagina">125</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="59 durmió, leyó, hizo... pretérito indefinido: verbos irregulares ">
+      <td class="col-num">59</td>
+      <td class="col-ejemplo">durmió, leyó, hizo...</td>
+      <td class="col-gramatica">Pretérito indefinido: verbos irregulares</td>
+      <td class="col-pagina">127</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="60 he trabajado pretérito perfecto de indicativo (1) ">
+      <td class="col-num">60</td>
+      <td class="col-ejemplo">he trabajado</td>
+      <td class="col-gramatica">Pretérito perfecto de indicativo (1)</td>
+      <td class="col-pagina">129</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="61 he viajado mucho pretérito perfecto de indicativo (2) ">
+      <td class="col-num">61</td>
+      <td class="col-ejemplo">He viajado mucho</td>
+      <td class="col-gramatica">Pretérito perfecto de indicativo (2)</td>
+      <td class="col-pagina">131</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="62 he trabajado / trabajé contraste entre pretérito perfecto y pretérito indefinido ">
+      <td class="col-num">62</td>
+      <td class="col-ejemplo">he trabajado / trabajé</td>
+      <td class="col-gramatica">Contraste entre pretérito perfecto y pretérito indefinido</td>
+      <td class="col-pagina">133</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="63 trabajaba, comía, vivía pretérito imperfecto ">
+      <td class="col-num">63</td>
+      <td class="col-ejemplo">trabajaba, comía, vivía</td>
+      <td class="col-gramatica">Pretérito imperfecto</td>
+      <td class="col-pagina">135</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="64 trabajé/trabajaba contraste entre pretérito indefinido y pretérito imperfecto ">
+      <td class="col-num">64</td>
+      <td class="col-ejemplo">trabajé/trabajaba</td>
+      <td class="col-gramatica">Contraste entre pretérito indefinido y pretérito imperfecto</td>
+      <td class="col-pagina">137</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="65 estaba trabajando / trabajé estaba + gerundio y contraste con el pretérito indefinido ">
+      <td class="col-num">65</td>
+      <td class="col-ejemplo">estaba trabajando / trabajé</td>
+      <td class="col-gramatica">estaba + gerundio y contraste con el pretérito indefinido</td>
+      <td class="col-pagina">139</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="66 había trabajado pretérito pluscuamperfecto ">
+      <td class="col-num">66</td>
+      <td class="col-ejemplo">había trabajado</td>
+      <td class="col-gramatica">Pretérito pluscuamperfecto</td>
+      <td class="col-pagina">141</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="67 trabajaré, comeré, viviré futuro simple: verbos regulares ">
+      <td class="col-num">67</td>
+      <td class="col-ejemplo">trabajaré, comeré, viviré</td>
+      <td class="col-gramatica">Futuro simple: verbos regulares</td>
+      <td class="col-pagina">143</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="68 habré, podré... futuro simple: verbos irregulares ">
+      <td class="col-num">68</td>
+      <td class="col-ejemplo">habré, podré...</td>
+      <td class="col-gramatica">Futuro simple: verbos irregulares</td>
+      <td class="col-pagina">145</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="69 voy a salir... presente de ir a + infinitivo ">
+      <td class="col-num">69</td>
+      <td class="col-ejemplo">voy a salir...</td>
+      <td class="col-gramatica">Presente de ir a + infinitivo</td>
+      <td class="col-pagina">147</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="70 haré / hago / voy a hacer contraste entre las diversas formas de hablar del futuro ">
+      <td class="col-num">70</td>
+      <td class="col-ejemplo">haré / hago / voy a hacer</td>
+      <td class="col-gramatica">Contraste entre las diversas formas de hablar del futuro</td>
+      <td class="col-pagina">149</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="71 trabajaría, comería, viviría condicional simple: verbos regulares ">
+      <td class="col-num">71</td>
+      <td class="col-ejemplo">trabajaría, comería, viviría</td>
+      <td class="col-gramatica">Condicional simple: verbos regulares</td>
+      <td class="col-pagina">151</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="72 habría, podría... condicional simple: verbos irregulares ">
+      <td class="col-num">72</td>
+      <td class="col-ejemplo">habría, podría...</td>
+      <td class="col-gramatica">Condicional simple: verbos irregulares</td>
+      <td class="col-pagina">153</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="73 abre la ventana imperativo afirmativo: verbos regulares ">
+      <td class="col-num">73</td>
+      <td class="col-ejemplo">Abre la ventana</td>
+      <td class="col-gramatica">Imperativo afirmativo: verbos regulares</td>
+      <td class="col-pagina">155</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="74 no abras la ventana imperativo negativo: verbos regulares ">
+      <td class="col-num">74</td>
+      <td class="col-ejemplo">No abras la ventana</td>
+      <td class="col-gramatica">Imperativo negativo: verbos regulares</td>
+      <td class="col-pagina">157</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="75 cierra la ventana imperativo: verbos irregulares (1) ">
+      <td class="col-num">75</td>
+      <td class="col-ejemplo">Cierra la ventana</td>
+      <td class="col-gramatica">Imperativo: verbos irregulares (1)</td>
+      <td class="col-pagina">159</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="76 pon la mesa imperativo: verbos irregulares (2) ">
+      <td class="col-num">76</td>
+      <td class="col-ejemplo">Pon la mesa</td>
+      <td class="col-gramatica">Imperativo: verbos irregulares (2)</td>
+      <td class="col-pagina">161</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="77 lávate imperativo de verbos con se ">
+      <td class="col-num">77</td>
+      <td class="col-ejemplo">lávate</td>
+      <td class="col-gramatica">Imperativo de verbos con se</td>
+      <td class="col-pagina">163</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="78 dámelo, no me lo des imperativo con pronombres de complemento ">
+      <td class="col-num">78</td>
+      <td class="col-ejemplo">dámelo, no me lo des</td>
+      <td class="col-gramatica">Imperativo con pronombres de complemento</td>
+      <td class="col-pagina">165</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="79 trabaje, coma, viva presente de subjuntivo: verbos regulares ">
+      <td class="col-num">79</td>
+      <td class="col-ejemplo">trabaje, coma, viva</td>
+      <td class="col-gramatica">Presente de subjuntivo: verbos regulares</td>
+      <td class="col-pagina">167</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="80 quiera, juegue... presente de subjuntivo: verbos irregulares (1) ">
+      <td class="col-num">80</td>
+      <td class="col-ejemplo">quiera, juegue...</td>
+      <td class="col-gramatica">Presente de subjuntivo: verbos irregulares (1)</td>
+      <td class="col-pagina">169</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="81 conozca, diga, vaya... presente de subjuntivo: verbos irregulares (2) ">
+      <td class="col-num">81</td>
+      <td class="col-ejemplo">conozca, diga, vaya...</td>
+      <td class="col-gramatica">Presente de subjuntivo: verbos irregulares (2)</td>
+      <td class="col-pagina">171</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="82 trabajara, comiera, viviera pretérito imperfecto de subjuntivo: verbos regulares ">
+      <td class="col-num">82</td>
+      <td class="col-ejemplo">trabajara, comiera, viviera</td>
+      <td class="col-gramatica">Pretérito imperfecto de subjuntivo: verbos regulares</td>
+      <td class="col-pagina">173</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="83 fuera, tuviera... pretérito imperfecto de subjuntivo: verbos irregulares ">
+      <td class="col-num">83</td>
+      <td class="col-ejemplo">fuera, tuviera...</td>
+      <td class="col-gramatica">Pretérito imperfecto de subjuntivo: verbos irregulares</td>
+      <td class="col-pagina">175</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="84 quiero que me ayudes expresión de deseos ">
+      <td class="col-num">84</td>
+      <td class="col-ejemplo">Quiero que me ayudes</td>
+      <td class="col-gramatica">Expresión de deseos</td>
+      <td class="col-pagina">177</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="85 quizás lo haga expresión de probabilidad ">
+      <td class="col-num">85</td>
+      <td class="col-ejemplo">Quizás lo haga</td>
+      <td class="col-gramatica">Expresión de probabilidad</td>
+      <td class="col-pagina">179</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="86 me gusta que venga a casa expresión de emociones, sentimientos y valoraciones ">
+      <td class="col-num">86</td>
+      <td class="col-ejemplo">Me gusta que venga a casa</td>
+      <td class="col-gramatica">Expresión de emociones, sentimientos y valoraciones</td>
+      <td class="col-pagina">181</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="87 creo que es... / no creo que sea... contraste entre indicativo y subjuntivo ">
+      <td class="col-num">87</td>
+      <td class="col-ejemplo">Creo que es... / No creo que sea...</td>
+      <td class="col-gramatica">Contraste entre indicativo y subjuntivo</td>
+      <td class="col-pagina">183</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="88 dice que vive... dijo que vivía... estilo indirecto (1) ">
+      <td class="col-num">88</td>
+      <td class="col-ejemplo">Dice que vive... Dijo que vivía...</td>
+      <td class="col-gramatica">Estilo indirecto (1)</td>
+      <td class="col-pagina">185</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="89 me preguntó dónde vivía estilo indirecto (2) ">
+      <td class="col-num">89</td>
+      <td class="col-ejemplo">Me preguntó dónde vivía</td>
+      <td class="col-gramatica">Estilo indirecto (2)</td>
+      <td class="col-pagina">187</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="90 me pidió que le ayudara estilo indirecto (3) ">
+      <td class="col-num">90</td>
+      <td class="col-ejemplo">Me pidió que le ayudara</td>
+      <td class="col-gramatica">Estilo indirecto (3)</td>
+      <td class="col-pagina">189</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="91 si ganan serán campeones condicionales (1) ">
+      <td class="col-num">91</td>
+      <td class="col-ejemplo">Si ganan serán campeones</td>
+      <td class="col-gramatica">Condicionales (1)</td>
+      <td class="col-pagina">191</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="92 si encontrara trabajo, me casaría condicionales (2) ">
+      <td class="col-num">92</td>
+      <td class="col-ejemplo">Si encontrara trabajo, me casaría</td>
+      <td class="col-gramatica">Condicionales (2)</td>
+      <td class="col-pagina">193</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="93 viajar es estupendo infinitivo ">
+      <td class="col-num">93</td>
+      <td class="col-ejemplo">Viajar es estupendo</td>
+      <td class="col-gramatica">Infinitivo</td>
+      <td class="col-pagina">195</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="94 me puse a trabajar. voy a trabajar expresiones con infinitivo (1) ">
+      <td class="col-num">94</td>
+      <td class="col-ejemplo">Me puse a trabajar. Voy a trabajar</td>
+      <td class="col-gramatica">Expresiones con infinitivo (1)</td>
+      <td class="col-pagina">197</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="95 tengo que trabajar. ¿puedo abrir la ventana? expresiones con infinitivo (2) ">
+      <td class="col-num">95</td>
+      <td class="col-ejemplo">Tengo que trabajar. ¿Puedo abrir la ventana?</td>
+      <td class="col-gramatica">Expresiones con infinitivo (2)</td>
+      <td class="col-pagina">199</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="96 suelo comer en casa expresiones con infinitivo (3) ">
+      <td class="col-num">96</td>
+      <td class="col-ejemplo">Suelo comer en casa</td>
+      <td class="col-gramatica">Expresiones con infinitivo (3)</td>
+      <td class="col-pagina">201</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="97 quiero ir / quiero que vayas verbos seguidos de infinitivo o de subjuntivo ">
+      <td class="col-num">97</td>
+      <td class="col-ejemplo">Quiero ir / Quiero que vayas</td>
+      <td class="col-gramatica">Verbos seguidos de infinitivo o de subjuntivo</td>
+      <td class="col-pagina">203</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="98 trabajando, comiendo, viviendo gerundio ">
+      <td class="col-num">98</td>
+      <td class="col-ejemplo">trabajando, comiendo, viviendo</td>
+      <td class="col-gramatica">Gerundio</td>
+      <td class="col-pagina">205</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="99 trabajado, comido, vivido participio ">
+      <td class="col-num">99</td>
+      <td class="col-ejemplo">trabajado, comido, vivido</td>
+      <td class="col-gramatica">Participio</td>
+      <td class="col-pagina">207</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="100 aquí, allí, abajo... adverbios de lugar ">
+      <td class="col-num">100</td>
+      <td class="col-ejemplo">aquí, allí, abajo...</td>
+      <td class="col-gramatica">Adverbios de lugar</td>
+      <td class="col-pagina">209</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="101 hoy, ayer, entonces, luego... adverbios de tiempo (1) ">
+      <td class="col-num">101</td>
+      <td class="col-ejemplo">hoy, ayer, entonces, luego...</td>
+      <td class="col-gramatica">Adverbios de tiempo (1)</td>
+      <td class="col-pagina">211</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="102 ya, todavía, aún adverbios de tiempo (2) ">
+      <td class="col-num">102</td>
+      <td class="col-ejemplo">ya, todavía, aún</td>
+      <td class="col-gramatica">Adverbios de tiempo (2)</td>
+      <td class="col-pagina">213</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="103 siempre, de vez en cuando, a veces... adverbios y expresiones de frecuencia ">
+      <td class="col-num">103</td>
+      <td class="col-ejemplo">siempre, de vez en cuando, a veces...</td>
+      <td class="col-gramatica">Adverbios y expresiones de frecuencia</td>
+      <td class="col-pagina">215</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="104 muy, mucho, bastante... adverbios de cantidad ">
+      <td class="col-num">104</td>
+      <td class="col-ejemplo">muy, mucho, bastante...</td>
+      <td class="col-gramatica">Adverbios de cantidad</td>
+      <td class="col-pagina">217</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="105 muy, mucho, muchos, -ísimo... contraste entre formas de expresar grados de cualidad o cantidad ">
+      <td class="col-num">105</td>
+      <td class="col-ejemplo">muy, mucho, muchos, -ísimo...</td>
+      <td class="col-gramatica">Contraste entre formas de expresar grados de cualidad o cantidad</td>
+      <td class="col-pagina">219</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="106 bien, fácilmente... adverbios de modo ">
+      <td class="col-num">106</td>
+      <td class="col-ejemplo">bien, fácilmente...</td>
+      <td class="col-gramatica">Adverbios de modo</td>
+      <td class="col-pagina">221</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="107 más rápido, mejor, peor... comparación de adverbios ">
+      <td class="col-num">107</td>
+      <td class="col-ejemplo">más rápido, mejor, peor...</td>
+      <td class="col-gramatica">Comparación de adverbios</td>
+      <td class="col-pagina">223</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="108 no, nunca, jamás... adverbios de negación ">
+      <td class="col-num">108</td>
+      <td class="col-ejemplo">no, nunca, jamás...</td>
+      <td class="col-gramatica">Adverbios de negación</td>
+      <td class="col-pagina">225</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="109 yo sí, yo no, yo también, yo tampoco expresión de coincidencia o no coincidencia ">
+      <td class="col-num">109</td>
+      <td class="col-ejemplo">yo sí, yo no, yo también, yo tampoco</td>
+      <td class="col-gramatica">Expresión de coincidencia o no coincidencia</td>
+      <td class="col-pagina">227</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="110 a las cinco, por la mañana... preposiciones (1) ">
+      <td class="col-num">110</td>
+      <td class="col-ejemplo">a las cinco, por la mañana...</td>
+      <td class="col-gramatica">Preposiciones (1)</td>
+      <td class="col-pagina">229</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="111 a tijuana, desde la playa... preposiciones (2) ">
+      <td class="col-num">111</td>
+      <td class="col-ejemplo">a Tijuana, desde la playa...</td>
+      <td class="col-gramatica">Preposiciones (2)</td>
+      <td class="col-pagina">231</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="112 encima de la mesa, dentro de la caja... preposiciones (3) ">
+      <td class="col-num">112</td>
+      <td class="col-ejemplo">encima de la mesa, dentro de la caja...</td>
+      <td class="col-gramatica">Preposiciones (3)</td>
+      <td class="col-pagina">233</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="113 a pedro, de elvira, en autobús... preposiciones (4) ">
+      <td class="col-num">113</td>
+      <td class="col-ejemplo">a Pedro, de Elvira, en autobús...</td>
+      <td class="col-gramatica">Preposiciones (4)</td>
+      <td class="col-pagina">235</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="114 para ti, por amor... preposiciones (5) ">
+      <td class="col-num">114</td>
+      <td class="col-ejemplo">para ti, por amor...</td>
+      <td class="col-gramatica">Preposiciones (5)</td>
+      <td class="col-pagina">237</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="115 pienso en ti verbos con preposiciones ">
+      <td class="col-num">115</td>
+      <td class="col-ejemplo">Pienso en ti</td>
+      <td class="col-gramatica">Verbos con preposiciones</td>
+      <td class="col-pagina">239</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="116 y, o, pero... conjunciones ">
+      <td class="col-num">116</td>
+      <td class="col-ejemplo">y, o, pero...</td>
+      <td class="col-gramatica">Conjunciones</td>
+      <td class="col-pagina">241</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="117 para, para que oraciones finales ">
+      <td class="col-num">117</td>
+      <td class="col-ejemplo">para, para que</td>
+      <td class="col-gramatica">Oraciones finales</td>
+      <td class="col-pagina">243</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="118 cuando, antes de que, siempre que... oraciones temporales ">
+      <td class="col-num">118</td>
+      <td class="col-ejemplo">cuando, antes de que, siempre que...</td>
+      <td class="col-gramatica">Oraciones temporales</td>
+      <td class="col-pagina">245</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="119 porque, como, puesto que... oraciones causales ">
+      <td class="col-num">119</td>
+      <td class="col-ejemplo">porque, como, puesto que...</td>
+      <td class="col-gramatica">Oraciones causales</td>
+      <td class="col-pagina">247</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="120 aunque, a pesar de que... oraciones concesivas ">
+      <td class="col-num">120</td>
+      <td class="col-ejemplo">aunque, a pesar de que...</td>
+      <td class="col-gramatica">Oraciones concesivas</td>
+      <td class="col-pagina">249</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="121 por eso, así que, tanto... que oraciones consecutivas ">
+      <td class="col-num">121</td>
+      <td class="col-ejemplo">por eso, así que, tanto... que</td>
+      <td class="col-gramatica">Oraciones consecutivas</td>
+      <td class="col-pagina">251</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="122 aquí se trabaja mucho oraciones impersonales ">
+      <td class="col-num">122</td>
+      <td class="col-ejemplo">Aquí se trabaja mucho</td>
+      <td class="col-gramatica">Oraciones impersonales</td>
+      <td class="col-pagina">253</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="123 médico, árbol, inglés reglas de acentuación (1) ">
+      <td class="col-num">123</td>
+      <td class="col-ejemplo">médico, árbol, inglés</td>
+      <td class="col-gramatica">Reglas de acentuación (1)</td>
+      <td class="col-pagina">257</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="124 adiós, león, continúa reglas de acentuación (2) ">
+      <td class="col-num">124</td>
+      <td class="col-ejemplo">adiós, león, continúa</td>
+      <td class="col-gramatica">Reglas de acentuación (2)</td>
+      <td class="col-pagina">259</td>
+      <td class="col-estado"><span class="badge badge-warn" title="Ver v2/libro_pipeline/avisos_merge.md">avisos</span></td>
+    </tr>
+    <tr data-search="125 arturo sánchez uso de mayúsculas ">
+      <td class="col-num">125</td>
+      <td class="col-ejemplo">Arturo Sánchez</td>
+      <td class="col-gramatica">Uso de mayúsculas</td>
+      <td class="col-pagina">261</td>
+      <td class="col-estado"></td>
+    </tr>
+    <tr data-search="126 conjugación verbal con vos conjugación verbal con vos ">
+      <td class="col-num">126</td>
+      <td class="col-ejemplo">Conjugación verbal con vos</td>
+      <td class="col-gramatica">Conjugación verbal con vos</td>
+      <td class="col-pagina">263</td>
+      <td class="col-estado"></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<script>
+const input = document.getElementById('buscador');
+const rows = Array.from(document.querySelectorAll('tbody tr'));
+const contador = document.getElementById('contador');
+
+function normalizar(s) {
+  return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+}
+
+function filtrar() {
+  const q = normalizar(input.value.trim());
+  let visibles = 0;
+  for (const row of rows) {
+    const blob = normalizar(row.dataset.search);
+    const match = q === '' || blob.includes(q);
+    row.classList.toggle('hidden', !match);
+    if (match) visibles++;
+  }
+  contador.textContent = q === ''
+    ? `126 unidades`
+    : `${visibles} de 126 unidades`;
+}
+
+input.addEventListener('input', filtrar);
+filtrar();
+</script>
+</body>
+</html>

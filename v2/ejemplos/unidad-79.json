@@ -1,0 +1,192 @@
+{
+  "tema": "unidad-79",
+  "titulo": "trabaje, coma, viva",
+  "descripcion_gramatical": "Presente de subjuntivo: verbos regulares",
+  "fuente": "libro",
+  "unidad_libro": 79,
+  "ejercicios": [
+    {
+      "subejercicio": "79.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "¿Tienes un momento, Carlos? Quiero que me (tú, ayudar) _____.",
+          "solucion_correcta": [
+            "ayudes"
+          ]
+        },
+        {
+          "texto_enunciado": "Ha llamado el Sr. Cabrera. Quiere que (nosotros, trabajar) _____ el sábado.",
+          "solucion_correcta": [
+            "trabajemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa quiere que le (yo, prestar) _____ el coche el domingo.",
+          "solucion_correcta": [
+            "preste"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gusta que (tú, estar) _____ triste, Pedro.",
+          "solucion_correcta": [
+            "estés"
+          ]
+        },
+        {
+          "texto_enunciado": "Espero que me (ustedes, escribir) _____ cuando lleguen a Santo Domingo.",
+          "solucion_correcta": [
+            "escriban"
+          ]
+        },
+        {
+          "texto_enunciado": "Ha llamado Lolita. Quiere que (nosotros, comer) _____ fuera el domingo.",
+          "solucion_correcta": [
+            "comamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta que la gente (leer) _____.",
+          "solucion_correcta": [
+            "lea"
+          ]
+        },
+        {
+          "texto_enunciado": "A Marisa no le gusta que Gregorio la (llamar) _____ todos los días.",
+          "solucion_correcta": [
+            "llame"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Ojalá (vosotros, ser) _____ felices!",
+          "solucion_correcta": [
+            "seáis"
+          ]
+        },
+        {
+          "texto_enunciado": "Espero que (llegar) _____ pronto tus amigos. Estoy cansada de esperar.",
+          "solucion_correcta": [
+            "lleguen"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "79.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las respuestas con los verbos correspondientes en presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Dónde está Belén? —No sé. Puede que _____ en su despacho.",
+          "solucion_correcta": [
+            "esté"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Has visto a Juan? —No, pero quizás lo _____ mañana.",
+          "solucion_correcta": [
+            "vea"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Han llamado tus padres? —No. Puede que no _____ hoy.",
+          "solucion_correcta": [
+            "llamen"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué vas a estudiar, Graciela? —No sé todavía. Es probable que _____ Derecho.",
+          "solucion_correcta": [
+            "estudie"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Abren hoy los bancos? —No. Puede que no _____ hoy. Es sábado.",
+          "solucion_correcta": [
+            "abran"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Dónde están tus hermanas? —No sé. Puede que _____ en el jardín.",
+          "solucion_correcta": [
+            "estén"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuándo os casáis? —No estamos seguros. Puede que _____ el año que viene.",
+          "solucion_correcta": [
+            "nos casemos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Te van a dar el trabajo que te prometieron? —No sé. Es probable que no me lo _____.",
+          "solucion_correcta": [
+            "den"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuándo se marchan ustedes? —No sé. Puede que _____ mañana.",
+          "solucion_correcta": [
+            "nos marchemos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Vais a ganar el torneo? —No sé. Es probable que no lo _____.",
+          "solucion_correcta": [
+            "ganemos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "79.3",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con que como en el ejemplo. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Agustín bebe demasiada cola. A Sonia no le gusta. _____",
+          "solucion_correcta": [
+            "A Sonia no le gusta que Agustín beba demasiada cola"
+          ]
+        },
+        {
+          "texto_enunciado": "Jaime y Yolanda son amables. A Pilar le gusta. _____",
+          "solucion_correcta": [
+            "A Pilar le gusta que Jaime y Yolanda sean amables"
+          ]
+        },
+        {
+          "texto_enunciado": "Ernestina vive en el extranjero. A Lorenzo no le gusta. _____",
+          "solucion_correcta": [
+            "A Lorenzo no le gusta que Ernestina viva en el extranjero"
+          ]
+        },
+        {
+          "texto_enunciado": "Jacinta es cariñosa. A Mario le encanta. _____",
+          "solucion_correcta": [
+            "A Mario le encanta que Jacinta sea cariñosa"
+          ]
+        },
+        {
+          "texto_enunciado": "Lolo da muchas fiestas. A Tomás no le gusta. _____",
+          "solucion_correcta": [
+            "A Tomás no le gusta que Lolo dé muchas/tantas fiestas"
+          ]
+        },
+        {
+          "texto_enunciado": "Ves muchas películas de terror. A tu padre no le gusta. _____",
+          "solucion_correcta": [
+            "A tu padre no le gusta que veas muchas/tantas películas de terror"
+          ]
+        },
+        {
+          "texto_enunciado": "Trabajáis mucho. A vuestro profesor le encanta. _____",
+          "solucion_correcta": [
+            "A vuestro profesor le encanta que trabajéis mucho/tanto"
+          ]
+        }
+      ]
+    }
+  ]
+}

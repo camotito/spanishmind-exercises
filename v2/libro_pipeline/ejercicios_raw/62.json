@@ -1,0 +1,110 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "62.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "(Hemos estado/estuvimos) con Rosa hace poco."
+        },
+        {
+          "texto_enunciado": "Hoy no (he ido/fui) a trabajar."
+        },
+        {
+          "texto_enunciado": "¿Cuándo (ha nacido/nació) tu hijo mayor?"
+        },
+        {
+          "texto_enunciado": "(Hemos estado/Estuvimos) en México el verano de 1998."
+        },
+        {
+          "texto_enunciado": "¿(Han comido/Comieron) alguna vez ceviche?"
+        },
+        {
+          "texto_enunciado": "Este invierno no (ha nevado/nevó) mucho."
+        },
+        {
+          "texto_enunciado": "¿(Has visto/Viste) ya el vídeo que te presté?"
+        },
+        {
+          "texto_enunciado": "Peter no (ha estudiado/estudió) nunca español."
+        },
+        {
+          "texto_enunciado": "Amalia y sus padres (han venido/vinieron) a España hace tres años."
+        },
+        {
+          "texto_enunciado": "Todavía no (he visto/vi) la última exposición de Barceló."
+        },
+        {
+          "texto_enunciado": "¿(Has trabajado/Trabajaste) alguna vez en una película?"
+        },
+        {
+          "texto_enunciado": "Cuando nos casamos, (hemos hecho/hicimos) un viaje por América Central."
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la forma adecuada: pretérito perfecto o pretérito indefinido.",
+      "items": [
+        {
+          "texto_enunciado": "¿(ustedes, montar) _____ alguna vez en globo?"
+        },
+        {
+          "texto_enunciado": "Mi hermana (tener) _____ un niño hace poco."
+        },
+        {
+          "texto_enunciado": "Rosana nos (invitar) _____ a su chalé el fin de semana pasado."
+        },
+        {
+          "texto_enunciado": "Este año (haber) _____ menos accidentes en las carreteras."
+        },
+        {
+          "texto_enunciado": "El siglo pasado (haber) _____ dos guerras mundiales."
+        },
+        {
+          "texto_enunciado": "–¿(tú, ver) _____ a Ana? –Sí, la (ver) _____ el domingo."
+        },
+        {
+          "texto_enunciado": "–¿(vosotras, estar) _____ alguna vez en América del Sur? –Sí, hace cuatro años (estar) _____ en Uruguay."
+        },
+        {
+          "texto_enunciado": "–¿(tú, sacar) _____ las entradas para el partido? –Por supuesto. Las (yo, comprar) _____ hace dos semanas."
+        },
+        {
+          "texto_enunciado": "–¿Qué (ustedes, hacer) _____ este verano? –En julio (estar) _____ en Cancún. Lo (pasar) _____ estupendamente."
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Arnaldo y Maite están pasando una semana de vacaciones en España. Complete el diálogo escribiendo las preguntas y respuestas como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "(estar, Barcelona) ¿_____\n(miércoles) Sí, _____.\nNo, _____."
+        },
+        {
+          "texto_enunciado": "(probar, el cocido) ¿_____?\n(lunes) Sí, _____."
+        },
+        {
+          "texto_enunciado": "(visitar, Museo del Prado) ¿_____?\n(martes por la mañana) Sí, _____."
+        },
+        {
+          "texto_enunciado": "(comprar, los regalos) ¿_____?\nNo, _____."
+        },
+        {
+          "texto_enunciado": "(ir, a Sevilla) ¿_____?\n(ayer) Sí, _____."
+        }
+      ],
+      "tipologia_libre_original": "Producción de preguntas y respuestas de un diálogo a partir de verbos, lugares y referencias temporales entre paréntesis, siguiendo un ejemplo."
+    }
+  ],
+  "unidad": 62,
+  "titulo_libro": "he trabajado / trabajé -- Contraste entre pretérito perfecto y pretérito indefinido",
+  "scan": "libro-rojo-134.png"
+}

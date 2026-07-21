@@ -1,0 +1,773 @@
+{
+  "secciones": {
+    "Otras cuestiones": {
+      "pagina": 255
+    },
+    "Soluciones a los ejercicios": {
+      "pagina": 269,
+      "scan_fin": 290,
+      "scan_inicio": 270
+    },
+    "Índice analítico": {
+      "pagina": 263
+    }
+  },
+  "unidades": {
+    "1": {
+      "pagina": 10,
+      "pagina_ejercicios": 11,
+      "scan_ejercicios": "libro-rojo-012.png",
+      "titulo": "el hijo, la hija -- Masculino, femenino (1)"
+    },
+    "10": {
+      "pagina": 28,
+      "pagina_ejercicios": 29,
+      "scan_ejercicios": "libro-rojo-030.png",
+      "titulo": "tocar la guitarra -- Otros usos del artículo determinado"
+    },
+    "100": {
+      "pagina": 208,
+      "pagina_ejercicios": 209,
+      "scan_ejercicios": "libro-rojo-210.png",
+      "titulo": "aquí, allí, abajo... -- Adverbios de lugar"
+    },
+    "101": {
+      "pagina": 210,
+      "pagina_ejercicios": 211,
+      "scan_ejercicios": "libro-rojo-212.png",
+      "titulo": "hoy, ayer, entonces, luego... -- Adverbios de tiempo (1)"
+    },
+    "102": {
+      "pagina": 212,
+      "pagina_ejercicios": 213,
+      "scan_ejercicios": "libro-rojo-214.png",
+      "titulo": "ya, todavía, aún -- Adverbios de tiempo (2)"
+    },
+    "103": {
+      "pagina": 214,
+      "pagina_ejercicios": 215,
+      "scan_ejercicios": "libro-rojo-216.png",
+      "titulo": "siempre, de vez en cuando, a veces... -- Adverbios y expresiones de frecuencia"
+    },
+    "104": {
+      "pagina": 216,
+      "pagina_ejercicios": 217,
+      "scan_ejercicios": "libro-rojo-218.png",
+      "titulo": "muy, mucho, bastante... -- Adverbios de cantidad"
+    },
+    "105": {
+      "pagina": 218,
+      "pagina_ejercicios": 219,
+      "scan_ejercicios": "libro-rojo-220.png",
+      "titulo": "muy, mucho, muchos, -ísimo... -- Contraste entre formas de expresar grados de cualidad o cantidad"
+    },
+    "106": {
+      "pagina": 220,
+      "pagina_ejercicios": 221,
+      "scan_ejercicios": "libro-rojo-222.png",
+      "titulo": "bien, fácilmente... -- Adverbios de modo"
+    },
+    "107": {
+      "pagina": 222,
+      "pagina_ejercicios": 223,
+      "scan_ejercicios": "libro-rojo-224.png",
+      "titulo": "más rápido, mejor, peor... -- Comparación de adverbios"
+    },
+    "108": {
+      "pagina": 224,
+      "pagina_ejercicios": 225,
+      "scan_ejercicios": "libro-rojo-226.png",
+      "titulo": "no, nunca, jamás... -- Adverbios de negación"
+    },
+    "109": {
+      "pagina": 226,
+      "pagina_ejercicios": 227,
+      "scan_ejercicios": "libro-rojo-228.png",
+      "titulo": "yo sí, yo no, yo también, yo tampoco -- Expresión de coincidencia o no coincidencia"
+    },
+    "11": {
+      "pagina": 30,
+      "pagina_ejercicios": 31,
+      "scan_ejercicios": "libro-rojo-032.png",
+      "titulo": "el rojo, uno rojo -- Omisión del nombre"
+    },
+    "110": {
+      "pagina": 228,
+      "pagina_ejercicios": 229,
+      "scan_ejercicios": "libro-rojo-230.png",
+      "titulo": "a las cinco, por la mañana... -- Preposiciones (1)"
+    },
+    "111": {
+      "pagina": 230,
+      "pagina_ejercicios": 231,
+      "scan_ejercicios": "libro-rojo-232.png",
+      "titulo": "a Tijuana, desde la playa... -- Preposiciones (2)"
+    },
+    "112": {
+      "pagina": 232,
+      "pagina_ejercicios": 233,
+      "scan_ejercicios": "libro-rojo-234.png",
+      "titulo": "encima de la mesa, dentro de la caja... -- Preposiciones (3)"
+    },
+    "113": {
+      "pagina": 234,
+      "pagina_ejercicios": 235,
+      "scan_ejercicios": "libro-rojo-236.png",
+      "titulo": "a Pedro, de Elvira, en autobús... -- Preposiciones (4)"
+    },
+    "114": {
+      "pagina": 236,
+      "pagina_ejercicios": 237,
+      "scan_ejercicios": "libro-rojo-238.png",
+      "titulo": "para ti, por amor... -- Preposiciones (5)"
+    },
+    "115": {
+      "pagina": 238,
+      "pagina_ejercicios": 239,
+      "scan_ejercicios": "libro-rojo-240.png",
+      "titulo": "Pienso en ti -- Verbos con preposiciones"
+    },
+    "116": {
+      "pagina": 240,
+      "pagina_ejercicios": 241,
+      "scan_ejercicios": "libro-rojo-242.png",
+      "titulo": "y, o, pero... -- Conjunciones"
+    },
+    "117": {
+      "pagina": 242,
+      "pagina_ejercicios": 243,
+      "scan_ejercicios": "libro-rojo-244.png",
+      "titulo": "para, para que -- Oraciones finales"
+    },
+    "118": {
+      "pagina": 244,
+      "pagina_ejercicios": 245,
+      "scan_ejercicios": "libro-rojo-246.png",
+      "titulo": "cuando, antes de que, siempre que... -- Oraciones temporales"
+    },
+    "119": {
+      "pagina": 246,
+      "pagina_ejercicios": 247,
+      "scan_ejercicios": "libro-rojo-248.png",
+      "titulo": "porque, como, puesto que... -- Oraciones causales"
+    },
+    "12": {
+      "pagina": 32,
+      "pagina_ejercicios": 33,
+      "scan_ejercicios": "libro-rojo-034.png",
+      "titulo": "este, ese, aquel... -- Demostrativos"
+    },
+    "120": {
+      "pagina": 248,
+      "pagina_ejercicios": 249,
+      "scan_ejercicios": "libro-rojo-250.png",
+      "titulo": "aunque, a pesar de que... -- Oraciones concesivas"
+    },
+    "121": {
+      "pagina": 250,
+      "pagina_ejercicios": 251,
+      "scan_ejercicios": "libro-rojo-252.png",
+      "titulo": "por eso, así que, tanto... que -- Oraciones consecutivas"
+    },
+    "122": {
+      "pagina": 252,
+      "pagina_ejercicios": 253,
+      "scan_ejercicios": "libro-rojo-254.png",
+      "titulo": "Aquí se trabaja mucho -- Oraciones impersonales"
+    },
+    "123": {
+      "pagina": 256,
+      "pagina_ejercicios": 257,
+      "scan_ejercicios": "libro-rojo-258.png",
+      "titulo": "médico, árbol, inglés -- Reglas de acentuación (1)"
+    },
+    "124": {
+      "pagina": 258,
+      "pagina_ejercicios": 259,
+      "scan_ejercicios": "libro-rojo-260.png",
+      "titulo": "adiós, león, continúa -- Reglas de acentuación (2)"
+    },
+    "125": {
+      "pagina": 260,
+      "pagina_ejercicios": 261,
+      "scan_ejercicios": "libro-rojo-262.png",
+      "titulo": "Arturo Sánchez -- Uso de mayúsculas"
+    },
+    "126": {
+      "pagina": 262,
+      "pagina_ejercicios": 263,
+      "scan_ejercicios": "libro-rojo-264.png",
+      "titulo": "Conjugación verbal con vos"
+    },
+    "13": {
+      "pagina": 34,
+      "pagina_ejercicios": 35,
+      "scan_ejercicios": "libro-rojo-036.png",
+      "titulo": "un coche pequeño -- Adjetivos calificativos"
+    },
+    "14": {
+      "pagina": 36,
+      "pagina_ejercicios": 37,
+      "scan_ejercicios": "libro-rojo-038.png",
+      "titulo": "una amiga chilena -- Adjetivos de nacionalidad"
+    },
+    "15": {
+      "pagina": 38,
+      "pagina_ejercicios": 39,
+      "scan_ejercicios": "libro-rojo-040.png",
+      "titulo": "más caro, menos trabajador -- Forma comparativa de los adjetivos (1)"
+    },
+    "16": {
+      "pagina": 40,
+      "pagina_ejercicios": 41,
+      "scan_ejercicios": "libro-rojo-042.png",
+      "titulo": "tan alto, igual de alto -- Forma comparativa de los adjetivos (2)"
+    },
+    "17": {
+      "pagina": 42,
+      "pagina_ejercicios": 43,
+      "scan_ejercicios": "libro-rojo-044.png",
+      "titulo": "la más alta, el menos trabajador -- Superlativo"
+    },
+    "18": {
+      "pagina": 44,
+      "pagina_ejercicios": 45,
+      "scan_ejercicios": "libro-rojo-046.png",
+      "titulo": "mi, tu, su... -- Posesivos (1)"
+    },
+    "19": {
+      "pagina": 46,
+      "pagina_ejercicios": 47,
+      "scan_ejercicios": "libro-rojo-048.png",
+      "titulo": "mío, tuyo, suyo... -- Posesivos (2)"
+    },
+    "2": {
+      "pagina": 12,
+      "pagina_ejercicios": 13,
+      "scan_ejercicios": "libro-rojo-014.png",
+      "titulo": "el libro, la mesa -- Masculino, femenino (2)"
+    },
+    "20": {
+      "pagina": 48,
+      "pagina_ejercicios": 49,
+      "scan_ejercicios": "libro-rojo-050.png",
+      "titulo": "todos, algunos, unos, ninguno... -- Indefinidos (1)"
+    },
+    "21": {
+      "pagina": 50,
+      "pagina_ejercicios": 51,
+      "scan_ejercicios": "libro-rojo-052.png",
+      "titulo": "uno, otro, cualquiera -- Indefinidos (2)"
+    },
+    "22": {
+      "pagina": 52,
+      "pagina_ejercicios": 53,
+      "scan_ejercicios": "libro-rojo-054.png",
+      "titulo": "mucho, poco, demasiado, suficiente... -- Indefinidos (3)"
+    },
+    "23": {
+      "pagina": 54,
+      "pagina_ejercicios": 55,
+      "scan_ejercicios": "libro-rojo-056.png",
+      "titulo": "alguien, algo, nadie, nada -- Indefinidos (4)"
+    },
+    "24": {
+      "pagina": 56,
+      "pagina_ejercicios": 57,
+      "scan_ejercicios": "libro-rojo-058.png",
+      "titulo": "más, menos, tanto como -- Comparación con nombres"
+    },
+    "25": {
+      "pagina": 58,
+      "pagina_ejercicios": 59,
+      "scan_ejercicios": "libro-rojo-060.png",
+      "titulo": "uno, dos, tres... -- Números cardinales (1)"
+    },
+    "26": {
+      "pagina": 60,
+      "pagina_ejercicios": 61,
+      "scan_ejercicios": "libro-rojo-062.png",
+      "titulo": "cien, mil, un millón... -- Números cardinales (2)"
+    },
+    "27": {
+      "pagina": 62,
+      "pagina_ejercicios": 63,
+      "scan_ejercicios": "libro-rojo-064.png",
+      "titulo": "Los numerales ordinales -- Números ordinales"
+    },
+    "28": {
+      "pagina": 64,
+      "pagina_ejercicios": 65,
+      "scan_ejercicios": "libro-rojo-066.png",
+      "titulo": "que, el que, quien... -- Relativos (1)"
+    },
+    "29": {
+      "pagina": 66,
+      "pagina_ejercicios": 67,
+      "scan_ejercicios": "libro-rojo-068.png",
+      "titulo": "cuyo, donde, cuando... -- Relativos (2)"
+    },
+    "3": {
+      "pagina": 14,
+      "pagina_ejercicios": 15,
+      "scan_ejercicios": "libro-rojo-016.png",
+      "titulo": "libro, libros -- Singular, plural"
+    },
+    "30": {
+      "pagina": 68,
+      "pagina_ejercicios": 69,
+      "scan_ejercicios": "libro-rojo-070.png",
+      "titulo": "¿quién?, ¿qué?... -- Interrogativos (1)"
+    },
+    "31": {
+      "pagina": 70,
+      "pagina_ejercicios": 71,
+      "scan_ejercicios": "libro-rojo-072.png",
+      "titulo": "¿cuál?, ¿qué?... -- Interrogativos (2)"
+    },
+    "32": {
+      "pagina": 72,
+      "pagina_ejercicios": 73,
+      "scan_ejercicios": "libro-rojo-074.png",
+      "titulo": "¿cuándo?, ¿dónde?... -- Interrogativos (3)"
+    },
+    "33": {
+      "pagina": 74,
+      "pagina_ejercicios": 75,
+      "scan_ejercicios": "libro-rojo-076.png",
+      "titulo": "¡qué!, ¡cuánto!, ¡cómo!... -- Exclamativos"
+    },
+    "34": {
+      "pagina": 76,
+      "pagina_ejercicios": 77,
+      "scan_ejercicios": "libro-rojo-078.png",
+      "titulo": "yo, tú, él... -- Pronombres personales de sujeto"
+    },
+    "35": {
+      "pagina": 78,
+      "pagina_ejercicios": 79,
+      "scan_ejercicios": "libro-rojo-080.png",
+      "titulo": "Te amo -- Pronombres personales de complemento directo"
+    },
+    "36": {
+      "pagina": 80,
+      "pagina_ejercicios": 81,
+      "scan_ejercicios": "libro-rojo-082.png",
+      "titulo": "Me han regalado un reloj -- Pronombres personales de complemento indirecto"
+    },
+    "37": {
+      "pagina": 82,
+      "pagina_ejercicios": 83,
+      "scan_ejercicios": "libro-rojo-084.png",
+      "titulo": "Se lo he dado. Te lo he dado -- Pronombres de complemento indirecto y directo"
+    },
+    "38": {
+      "pagina": 84,
+      "pagina_ejercicios": 85,
+      "scan_ejercicios": "libro-rojo-086.png",
+      "titulo": "Confusión entre pronombres personales de complemento -- Pronombres de objeto directo e indirecto"
+    },
+    "39": {
+      "pagina": 86,
+      "pagina_ejercicios": 87,
+      "scan_ejercicios": "libro-rojo-088.png",
+      "titulo": "ámame, dámelo -- Pronombres de complemento con el imperativo, el infinitivo y el gerundio"
+    },
+    "4": {
+      "pagina": 16,
+      "pagina_ejercicios": 17,
+      "scan_ejercicios": "libro-rojo-018.png",
+      "titulo": "un, una, unos, unas -- El artículo indeterminado"
+    },
+    "40": {
+      "pagina": 88,
+      "pagina_ejercicios": 89,
+      "scan_ejercicios": "libro-rojo-090.png",
+      "titulo": "me ducho, nos queremos -- Pronombres reflexivos y con valor recíproco"
+    },
+    "41": {
+      "pagina": 90,
+      "pagina_ejercicios": 91,
+      "scan_ejercicios": "libro-rojo-092.png",
+      "titulo": "para mí, contigo... -- Pronombres personales con preposiciones"
+    },
+    "42": {
+      "pagina": 92,
+      "pagina_ejercicios": 93,
+      "scan_ejercicios": "libro-rojo-094.png",
+      "titulo": "soy, eres, es... -- Presente de indicativo de ser"
+    },
+    "43": {
+      "pagina": 94,
+      "pagina_ejercicios": 95,
+      "scan_ejercicios": "libro-rojo-096.png",
+      "titulo": "estoy, estás, está... -- Presente de indicativo de estar"
+    },
+    "44": {
+      "pagina": 96,
+      "pagina_ejercicios": 97,
+      "scan_ejercicios": "libro-rojo-098.png",
+      "titulo": "soy alegre / estoy alegre -- Contraste entre ser y estar"
+    },
+    "45": {
+      "pagina": 98,
+      "pagina_ejercicios": 99,
+      "scan_ejercicios": "libro-rojo-100.png",
+      "titulo": "tengo, tienes, tiene... -- Presente de indicativo de tener"
+    },
+    "46": {
+      "pagina": 100,
+      "pagina_ejercicios": 101,
+      "scan_ejercicios": "libro-rojo-102.png",
+      "titulo": "Hay un vaso en la mesa -- Presente de indicativo de haber impersonal"
+    },
+    "47": {
+      "pagina": 102,
+      "pagina_ejercicios": 103,
+      "scan_ejercicios": "libro-rojo-104.png",
+      "titulo": "Hay un cine. Está en la calle Mayor -- Contraste entre haber y estar"
+    },
+    "48": {
+      "pagina": 104,
+      "pagina_ejercicios": 105,
+      "scan_ejercicios": "libro-rojo-106.png",
+      "titulo": "trabajo, como, vivo... -- Presente de indicativo: verbos regulares"
+    },
+    "49": {
+      "pagina": 106,
+      "pagina_ejercicios": 107,
+      "scan_ejercicios": "libro-rojo-108.png",
+      "titulo": "quiero, mido, sueño... -- Presente de indicativo: verbos irregulares (1)"
+    },
+    "5": {
+      "pagina": 18,
+      "pagina_ejercicios": 19,
+      "scan_ejercicios": "libro-rojo-020.png",
+      "titulo": "un coche / coche -- Ausencia de artículo"
+    },
+    "50": {
+      "pagina": 108,
+      "pagina_ejercicios": 109,
+      "scan_ejercicios": "libro-rojo-110.png",
+      "titulo": "voy, hago, conozco... -- Presente de indicativo: verbos irregulares (2)"
+    },
+    "51": {
+      "pagina": 110,
+      "pagina_ejercicios": 111,
+      "scan_ejercicios": "libro-rojo-112.png",
+      "titulo": "Mañana voy al médico -- Presente de indicativo: otros usos"
+    },
+    "52": {
+      "pagina": 112,
+      "pagina_ejercicios": 113,
+      "scan_ejercicios": "libro-rojo-114.png",
+      "titulo": "Vivo en México desde 1998 -- Presente para expresar períodos de tiempo"
+    },
+    "53": {
+      "pagina": 114,
+      "pagina_ejercicios": 115,
+      "scan_ejercicios": "libro-rojo-116.png",
+      "titulo": "me levanto -- Verbos con me, te, se..."
+    },
+    "54": {
+      "pagina": 116,
+      "pagina_ejercicios": 117,
+      "scan_ejercicios": "libro-rojo-118.png",
+      "titulo": "me lavo / lavo -- Contraste entre verbos con y sin me, te, se..."
+    },
+    "55": {
+      "pagina": 118,
+      "pagina_ejercicios": 119,
+      "scan_ejercicios": "libro-rojo-120.png",
+      "titulo": "Me gusta la ópera -- Verbos con me, te, le..."
+    },
+    "56": {
+      "pagina": 120,
+      "pagina_ejercicios": 121,
+      "scan_ejercicios": "libro-rojo-122.png",
+      "titulo": "Estoy viendo las noticias -- Presente de estar + gerundio"
+    },
+    "57": {
+      "pagina": 122,
+      "pagina_ejercicios": 123,
+      "scan_ejercicios": "libro-rojo-124.png",
+      "titulo": "hago / estoy haciendo -- Contraste entre presente de indicativo y estar + gerundio"
+    },
+    "58": {
+      "pagina": 124,
+      "pagina_ejercicios": 125,
+      "scan_ejercicios": "libro-rojo-126.png",
+      "titulo": "trabajé, comí, viví -- Pretérito indefinido: verbos regulares"
+    },
+    "59": {
+      "pagina": 126,
+      "pagina_ejercicios": 127,
+      "scan_ejercicios": "libro-rojo-128.png",
+      "titulo": "durmió, leyó, hizo... -- Pretérito indefinido: verbos irregulares"
+    },
+    "6": {
+      "pagina": 20,
+      "pagina_ejercicios": 21,
+      "scan_ejercicios": "libro-rojo-022.png",
+      "titulo": "el, la, los, las -- El artículo determinado"
+    },
+    "60": {
+      "pagina": 128,
+      "pagina_ejercicios": 129,
+      "scan_ejercicios": "libro-rojo-130.png",
+      "titulo": "he trabajado -- Pretérito perfecto de indicativo (1)"
+    },
+    "61": {
+      "pagina": 130,
+      "pagina_ejercicios": 131,
+      "scan_ejercicios": "libro-rojo-132.png",
+      "titulo": "He viajado mucho -- Pretérito perfecto de indicativo (2)"
+    },
+    "62": {
+      "pagina": 132,
+      "pagina_ejercicios": 133,
+      "scan_ejercicios": "libro-rojo-134.png",
+      "titulo": "he trabajado / trabajé -- Contraste entre pretérito perfecto y pretérito indefinido"
+    },
+    "63": {
+      "pagina": 134,
+      "pagina_ejercicios": 135,
+      "scan_ejercicios": "libro-rojo-136.png",
+      "titulo": "trabajaba, comía, vivía -- Pretérito imperfecto"
+    },
+    "64": {
+      "pagina": 136,
+      "pagina_ejercicios": 137,
+      "scan_ejercicios": "libro-rojo-138.png",
+      "titulo": "trabajé/trabajaba -- Contraste entre pretérito indefinido y pretérito imperfecto"
+    },
+    "65": {
+      "pagina": 138,
+      "pagina_ejercicios": 139,
+      "scan_ejercicios": "libro-rojo-140.png",
+      "titulo": "estaba trabajando / trabajé -- estaba + gerundio y contraste con el pretérito indefinido"
+    },
+    "66": {
+      "pagina": 140,
+      "pagina_ejercicios": 141,
+      "scan_ejercicios": "libro-rojo-142.png",
+      "titulo": "había trabajado -- Pretérito pluscuamperfecto"
+    },
+    "67": {
+      "pagina": 142,
+      "pagina_ejercicios": 143,
+      "scan_ejercicios": "libro-rojo-144.png",
+      "titulo": "trabajaré, comeré, viviré -- Futuro simple: verbos regulares"
+    },
+    "68": {
+      "pagina": 144,
+      "pagina_ejercicios": 145,
+      "scan_ejercicios": "libro-rojo-146.png",
+      "titulo": "habré, podré... -- Futuro simple: verbos irregulares"
+    },
+    "69": {
+      "pagina": 146,
+      "pagina_ejercicios": 147,
+      "scan_ejercicios": "libro-rojo-148.png",
+      "titulo": "voy a salir... -- Presente de ir a + infinitivo"
+    },
+    "7": {
+      "pagina": 22,
+      "pagina_ejercicios": 23,
+      "scan_ejercicios": "libro-rojo-024.png",
+      "titulo": "un perro / el perro -- Contraste entre el artículo determinado y el indeterminado"
+    },
+    "70": {
+      "pagina": 148,
+      "pagina_ejercicios": 149,
+      "scan_ejercicios": "libro-rojo-150.png",
+      "titulo": "haré / hago / voy a hacer -- Contraste entre las diversas formas de hablar del futuro"
+    },
+    "71": {
+      "pagina": 150,
+      "pagina_ejercicios": 151,
+      "scan_ejercicios": "libro-rojo-152.png",
+      "titulo": "trabajaría, comería, viviría -- Condicional simple: verbos regulares"
+    },
+    "72": {
+      "pagina": 152,
+      "pagina_ejercicios": 153,
+      "scan_ejercicios": "libro-rojo-154.png",
+      "titulo": "habría, podría... -- Condicional simple: verbos irregulares"
+    },
+    "73": {
+      "pagina": 154,
+      "pagina_ejercicios": 155,
+      "scan_ejercicios": "libro-rojo-156.png",
+      "titulo": "Abre la ventana -- Imperativo afirmativo: verbos regulares"
+    },
+    "74": {
+      "pagina": 156,
+      "pagina_ejercicios": 157,
+      "scan_ejercicios": "libro-rojo-158.png",
+      "titulo": "No abras la ventana -- Imperativo negativo: verbos regulares"
+    },
+    "75": {
+      "pagina": 158,
+      "pagina_ejercicios": 159,
+      "scan_ejercicios": "libro-rojo-160.png",
+      "titulo": "Cierra la ventana -- Imperativo: verbos irregulares (1)"
+    },
+    "76": {
+      "pagina": 160,
+      "pagina_ejercicios": 161,
+      "scan_ejercicios": "libro-rojo-162.png",
+      "titulo": "Pon la mesa -- Imperativo: verbos irregulares (2)"
+    },
+    "77": {
+      "pagina": 162,
+      "pagina_ejercicios": 163,
+      "scan_ejercicios": "libro-rojo-164.png",
+      "titulo": "lávate -- Imperativo de verbos con se"
+    },
+    "78": {
+      "pagina": 164,
+      "pagina_ejercicios": 165,
+      "scan_ejercicios": "libro-rojo-166.png",
+      "titulo": "dámelo, no me lo des -- Imperativo con pronombres de complemento"
+    },
+    "79": {
+      "pagina": 166,
+      "pagina_ejercicios": 167,
+      "scan_ejercicios": "libro-rojo-168.png",
+      "titulo": "trabaje, coma, viva -- Presente de subjuntivo: verbos regulares"
+    },
+    "8": {
+      "pagina": 24,
+      "pagina_ejercicios": 25,
+      "scan_ejercicios": "libro-rojo-026.png",
+      "titulo": "el señor Alonso, la calle Mayor -- El artículo determinado con nombres propios"
+    },
+    "80": {
+      "pagina": 168,
+      "pagina_ejercicios": 169,
+      "scan_ejercicios": "libro-rojo-170.png",
+      "titulo": "quiera, juegue... -- Presente de subjuntivo: verbos irregulares (1)"
+    },
+    "81": {
+      "pagina": 170,
+      "pagina_ejercicios": 171,
+      "scan_ejercicios": "libro-rojo-172.png",
+      "titulo": "conozca, diga, vaya... -- Presente de subjuntivo: verbos irregulares (2)"
+    },
+    "82": {
+      "pagina": 172,
+      "pagina_ejercicios": 173,
+      "scan_ejercicios": "libro-rojo-174.png",
+      "titulo": "trabajara, comiera, viviera -- Pretérito imperfecto de subjuntivo: verbos regulares"
+    },
+    "83": {
+      "pagina": 174,
+      "pagina_ejercicios": 175,
+      "scan_ejercicios": "libro-rojo-176.png",
+      "titulo": "fuera, tuviera... -- Pretérito imperfecto de subjuntivo: verbos irregulares"
+    },
+    "84": {
+      "pagina": 176,
+      "pagina_ejercicios": 177,
+      "scan_ejercicios": "libro-rojo-178.png",
+      "titulo": "Quiero que me ayudes -- Expresión de deseos"
+    },
+    "85": {
+      "pagina": 178,
+      "pagina_ejercicios": 179,
+      "scan_ejercicios": "libro-rojo-180.png",
+      "titulo": "Quizás lo haga -- Expresión de probabilidad"
+    },
+    "86": {
+      "pagina": 180,
+      "pagina_ejercicios": 181,
+      "scan_ejercicios": "libro-rojo-182.png",
+      "titulo": "Me gusta que venga a casa -- Expresión de emociones, sentimientos y valoraciones"
+    },
+    "87": {
+      "pagina": 182,
+      "pagina_ejercicios": 183,
+      "scan_ejercicios": "libro-rojo-184.png",
+      "titulo": "Creo que es... / No creo que sea... -- Contraste entre indicativo y subjuntivo"
+    },
+    "88": {
+      "pagina": 184,
+      "pagina_ejercicios": 185,
+      "scan_ejercicios": "libro-rojo-186.png",
+      "titulo": "Dice que vive... Dijo que vivía... -- Estilo indirecto (1)"
+    },
+    "89": {
+      "pagina": 186,
+      "pagina_ejercicios": 187,
+      "scan_ejercicios": "libro-rojo-188.png",
+      "titulo": "Me preguntó dónde vivía -- Estilo indirecto (2)"
+    },
+    "9": {
+      "pagina": 26,
+      "pagina_ejercicios": 27,
+      "scan_ejercicios": "libro-rojo-028.png",
+      "titulo": "el seis de enero -- El artículo determinado con expresiones de tiempo y de cantidad"
+    },
+    "90": {
+      "pagina": 188,
+      "pagina_ejercicios": 189,
+      "scan_ejercicios": "libro-rojo-190.png",
+      "titulo": "Me pidió que le ayudara -- Estilo indirecto (3)"
+    },
+    "91": {
+      "pagina": 190,
+      "pagina_ejercicios": 191,
+      "scan_ejercicios": "libro-rojo-192.png",
+      "titulo": "Si ganan serán campeones -- Condicionales (1)"
+    },
+    "92": {
+      "pagina": 192,
+      "pagina_ejercicios": 193,
+      "scan_ejercicios": "libro-rojo-194.png",
+      "titulo": "Si encontrara trabajo, me casaría -- Condicionales (2)"
+    },
+    "93": {
+      "pagina": 194,
+      "pagina_ejercicios": 195,
+      "scan_ejercicios": "libro-rojo-196.png",
+      "titulo": "Viajar es estupendo -- Infinitivo"
+    },
+    "94": {
+      "pagina": 196,
+      "pagina_ejercicios": 197,
+      "scan_ejercicios": "libro-rojo-198.png",
+      "titulo": "Me puse a trabajar. Voy a trabajar -- Expresiones con infinitivo (1)"
+    },
+    "95": {
+      "pagina": 198,
+      "pagina_ejercicios": 199,
+      "scan_ejercicios": "libro-rojo-200.png",
+      "titulo": "Tengo que trabajar. ¿Puedo abrir la ventana? -- Expresiones con infinitivo (2)"
+    },
+    "96": {
+      "pagina": 200,
+      "pagina_ejercicios": 201,
+      "scan_ejercicios": "libro-rojo-202.png",
+      "titulo": "Suelo comer en casa -- Expresiones con infinitivo (3)"
+    },
+    "97": {
+      "pagina": 202,
+      "pagina_ejercicios": 203,
+      "scan_ejercicios": "libro-rojo-204.png",
+      "titulo": "Quiero ir / Quiero que vayas -- Verbos seguidos de infinitivo o de subjuntivo"
+    },
+    "98": {
+      "pagina": 204,
+      "pagina_ejercicios": 205,
+      "scan_ejercicios": "libro-rojo-206.png",
+      "titulo": "trabajando, comiendo, viviendo -- Gerundio"
+    },
+    "99": {
+      "pagina": 206,
+      "pagina_ejercicios": 207,
+      "scan_ejercicios": "libro-rojo-208.png",
+      "titulo": "trabajado, comido, vivido -- Participio"
+    }
+  }
+}

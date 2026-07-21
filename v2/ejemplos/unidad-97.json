@@ -1,0 +1,221 @@
+{
+  "tema": "unidad-97",
+  "titulo": "Quiero ir / Quiero que vayas",
+  "descripcion_gramatical": "Verbos seguidos de infinitivo o de subjuntivo",
+  "fuente": "libro",
+  "unidad_libro": 97,
+  "ejercicios": [
+    {
+      "subejercicio": "97.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en infinitivo o en presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Espero que Enrique me (devolver) _____ la cámara pronto.",
+          "solucion_correcta": [
+            "devuelva"
+          ]
+        },
+        {
+          "texto_enunciado": "No quiero (gastar) _____ demasiado dinero en el coche.",
+          "solucion_correcta": [
+            "gastar"
+          ]
+        },
+        {
+          "texto_enunciado": "Prefiero que (hacer) _____ calor en verano.",
+          "solucion_correcta": [
+            "haga"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi médico siempre me aconseja que (comer) _____ más.",
+          "solucion_correcta": [
+            "coma"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Necesitas que te (echar) _____ una mano?",
+          "solucion_correcta": [
+            "eche"
+          ]
+        },
+        {
+          "texto_enunciado": "Elsa prefiere (tener) _____ los sábados libres.",
+          "solucion_correcta": [
+            "tener"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre intentáis que (conducir) _____ yo.",
+          "solucion_correcta": [
+            "conduzca"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué queréis que (llevar) _____ yo a la fiesta?",
+          "solucion_correcta": [
+            "lleve"
+          ]
+        },
+        {
+          "texto_enunciado": "No necesitan que nadie las (ayudar) _____.",
+          "solucion_correcta": [
+            "ayude"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Me dejas (usar) _____ tu móvil?",
+          "solucion_correcta": [
+            "usar"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "97.2",
+      "tipologia": "T4",
+      "enunciado": "¿Qué le gustaría que el Ayuntamiento hiciera en su ciudad? Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Me gustaría que (plantar árboles) _____.",
+          "solucion_correcta": [
+            "plantara más árboles"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría que (hacer parques) _____.",
+          "solucion_correcta": [
+            "hiciera más parques"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría que (poner autobuses) _____.",
+          "solucion_correcta": [
+            "pusiera más autobuses"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría que (limpiar las calles) _____.",
+          "solucion_correcta": [
+            "limpiara las calles"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría que (bajar los impuestos) _____.",
+          "solucion_correcta": [
+            "bajara los impuestos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "97.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro en infinitivo, presente o pretérito imperfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Ángeles no quiso que yo la _____ al médico.",
+          "solucion_correcta": [
+            "acompañara"
+          ]
+        },
+        {
+          "texto_enunciado": "Si no os importa, preferiría que _____ en otra parte.",
+          "solucion_correcta": [
+            "jugarais"
+          ]
+        },
+        {
+          "texto_enunciado": "¿A quién le gustaría _____ un viaje por la Baja California?",
+          "solucion_correcta": [
+            "hacer"
+          ]
+        },
+        {
+          "texto_enunciado": "Mónica me ha pedido que la _____ a pintar su piso.",
+          "solucion_correcta": [
+            "ayude"
+          ]
+        },
+        {
+          "texto_enunciado": "Antes me avergonzaba de _____ mal español.",
+          "solucion_correcta": [
+            "hablar"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis amigos insistieron en que (yo) _____ a un concurso de televisión.",
+          "solucion_correcta": [
+            "fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi padre me enseñó a _____ cuando tenía ocho años.",
+          "solucion_correcta": [
+            "nadar"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acompañar",
+        "ayudar",
+        "hablar",
+        "hacer",
+        "ir",
+        "jugar",
+        "nadar"
+      ]
+    },
+    {
+      "subejercicio": "97.4",
+      "tipologia": "T9",
+      "enunciado": "Escriba frases con las palabras dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Me gustaría / Antonio / ser / amable. _____.",
+          "solucion_correcta": [
+            "Me gustaría que Antonio fuera más amable"
+          ]
+        },
+        {
+          "texto_enunciado": "Luisa no quiso / salir / el domingo. _____.",
+          "solucion_correcta": [
+            "Luisa no quiso salir el domingo"
+          ]
+        },
+        {
+          "texto_enunciado": "Mario se ha acostumbrado / a / Lupe / hacer la comida. _____.",
+          "solucion_correcta": [
+            "Mario se ha acostumbrado a que Lupe haga la comida"
+          ]
+        },
+        {
+          "texto_enunciado": "Recordad / mis padres / llegar / esta noche. _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "La profesora no deja / usar / el diccionario / en clase. _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Ayer me olvidé / de / llamar / a Carolina. _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "El director prohibió / llamar a móviles / desde la oficina. _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "No te olvides / de / nosotros / ir al teatro / mañana. _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    }
+  ]
+}

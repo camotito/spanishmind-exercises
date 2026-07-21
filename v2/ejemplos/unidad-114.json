@@ -1,0 +1,201 @@
+{
+  "tema": "unidad-114",
+  "titulo": "para ti, por amor...",
+  "descripcion_gramatical": "Preposiciones (5)",
+  "fuente": "libro",
+  "unidad_libro": 114,
+  "ejercicios": [
+    {
+      "subejercicio": "114.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la preposición correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Te felicito (para/por) tu trabajo.",
+          "solucion_correcta": [
+            "por"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que comprar comida (para/por) el domingo.",
+          "solucion_correcta": [
+            "para"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he comprado una blusa preciosa (para/por) treinta euros.",
+          "solucion_correcta": [
+            "por"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Para/Por) quién es esto?",
+          "solucion_correcta": [
+            "Para"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han regañado (para/por) culpa tuya.",
+          "solucion_correcta": [
+            "por"
+          ]
+        },
+        {
+          "texto_enunciado": "No pudimos salir (para/por) el frío.",
+          "solucion_correcta": [
+            "por"
+          ]
+        },
+        {
+          "texto_enunciado": "No tengo las instrucciones (para/por) instalar el ordenador.",
+          "solucion_correcta": [
+            "para"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "114.2",
+      "tipologia": "T13",
+      "enunciado": "Una las frases con las preposiciones adecuadas.",
+      "items": [],
+      "banco_palabras": [
+        "con",
+        "contra",
+        "sin"
+      ]
+    },
+    {
+      "subejercicio": "114.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con por, para, sin, con, contra o según.",
+      "items": [
+        {
+          "texto_enunciado": "Alfonso y Anselmo viven todavía _____ sus padres.",
+          "solucion_correcta": [
+            "con"
+          ]
+        },
+        {
+          "texto_enunciado": "No podrás encender el gas _____ cerillas.",
+          "solucion_correcta": [
+            "sin"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay pocos remedios _____ el dolor de muelas.",
+          "solucion_correcta": [
+            "para"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encantaría inventar una máquina _____ tender la ropa.",
+          "solucion_correcta": [
+            "para"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Es esto delito, _____ la ley?",
+          "solucion_correcta": [
+            "según"
+          ]
+        },
+        {
+          "texto_enunciado": "Carlota no se fue a México _____ sus padres.",
+          "solucion_correcta": [
+            "por"
+          ]
+        },
+        {
+          "texto_enunciado": "Fernando invitó a Josefina _____ mi voluntad.",
+          "solucion_correcta": [
+            "contra"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ vosotros, ¿quién va a ganar el partido?",
+          "solucion_correcta": [
+            "Según"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "114.4",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con las preposiciones y los nombres del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "He recibido los documentos _____.",
+          "solucion_correcta": [
+            "por correo"
+          ]
+        },
+        {
+          "texto_enunciado": "Es difícil hacer esa traducción _____.",
+          "solucion_correcta": [
+            "sin diccionario"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesitamos cortinas _____.",
+          "solucion_correcta": [
+            "para la habitación"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que atravesar el río _____.",
+          "solucion_correcta": [
+            "por el puente"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he dado un golpe _____.",
+          "solucion_correcta": [
+            "con un martillo"
+          ]
+        },
+        {
+          "texto_enunciado": "Mándame el paquete _____.",
+          "solucion_correcta": [
+            "por avión"
+          ]
+        },
+        {
+          "texto_enunciado": "Martina hace muchos gestos _____.",
+          "solucion_correcta": [
+            "con los ojos"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace frío. No salgas _____.",
+          "solucion_correcta": [
+            "sin abrigo"
+          ]
+        },
+        {
+          "texto_enunciado": "Están buscando una vacuna _____.",
+          "solucion_correcta": [
+            "contra el sida"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "con",
+        "contra",
+        "para",
+        "por",
+        "sin",
+        "abrigo",
+        "avión",
+        "correo",
+        "diccionario",
+        "el puente",
+        "el sida",
+        "la habitación",
+        "los ojos",
+        "un martillo"
+      ]
+    }
+  ]
+}

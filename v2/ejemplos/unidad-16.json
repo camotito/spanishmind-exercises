@@ -1,0 +1,232 @@
+{
+  "tema": "unidad-16",
+  "titulo": "tan alto, igual de alto",
+  "descripcion_gramatical": "Forma comparativa de los adjetivos (2)",
+  "fuente": "libro",
+  "unidad_libro": 16,
+  "ejercicios": [
+    {
+      "subejercicio": "16.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con el comparativo de igualdad y las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "(David, 52 años; Alonso, 40 años) David _____.",
+          "solucion_correcta": [
+            "no es tan joven como Alonso"
+          ]
+        },
+        {
+          "texto_enunciado": "(Ana, 1,72 m; María, 1,72 m) Ana y María _____.",
+          "solucion_correcta": [
+            "son igual de altas"
+          ]
+        },
+        {
+          "texto_enunciado": "(Darío, 90/100; Margarita, 90/100) Darío y Margarita _____.",
+          "solucion_correcta": [
+            "son igual de inteligentes"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "(naranjas, 2,20 euros el kilo; manzanas, 1,90 euros el kilo) Las manzanas _____.",
+          "solucion_correcta": [
+            "no están/son tan caras como las naranjas"
+          ]
+        },
+        {
+          "texto_enunciado": "(Antonio, 100 m/9,5 s; Paco, 100 m/9,5 s) Antonio y Paco _____.",
+          "solucion_correcta": [
+            "son igual de rápidos"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "(Esther, alegre ++; Pilar, alegre +) Pilar _____.",
+          "solucion_correcta": [
+            "no es tan alegre como Esther"
+          ]
+        },
+        {
+          "texto_enunciado": "(Fermín, 1,75 m; Álvaro, 1,78 m) Fermín _____.",
+          "solucion_correcta": [
+            "no es tan alto como Álvaro"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "alegre",
+        "alto",
+        "alto",
+        "caro",
+        "inteligente",
+        "joven",
+        "rápido"
+      ]
+    },
+    {
+      "subejercicio": "16.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las comparaciones de igualdad con los adjetivos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "El italiano es _____ el español.",
+          "solucion_correcta": [
+            "tan fácil como / igual de fácil que"
+          ]
+        },
+        {
+          "texto_enunciado": "Un coche no es _____ un avión.",
+          "solucion_correcta": [
+            "tan rápido como"
+          ]
+        },
+        {
+          "texto_enunciado": "Un gorila no es _____ una jirafa.",
+          "solucion_correcta": [
+            "tan alto como"
+          ]
+        },
+        {
+          "texto_enunciado": "Un oso y un gorila son _____.",
+          "solucion_correcta": [
+            "igual de fuertes"
+          ]
+        },
+        {
+          "texto_enunciado": "El café de Brasil es _____ el de México.",
+          "solucion_correcta": [
+            "tan bueno como / igual de bueno que"
+          ]
+        },
+        {
+          "texto_enunciado": "El teatro es _____ el cine.",
+          "solucion_correcta": [
+            "tan entretenido como / igual de entretenido que"
+          ]
+        },
+        {
+          "texto_enunciado": "El esquí no es _____ el alpinismo.",
+          "solucion_correcta": [
+            "tan peligroso como"
+          ]
+        },
+        {
+          "texto_enunciado": "El tabaco y el alcohol son _____.",
+          "solucion_correcta": [
+            "igual de malos"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "alto",
+        "bueno",
+        "entretenido",
+        "fácil",
+        "fuerte",
+        "malo",
+        "peligroso",
+        "rápido"
+      ]
+    },
+    {
+      "subejercicio": "16.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases con el comparativo de igualdad. Cambie el adjetivo si es necesario.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Jorge es más feo que yo.</u> Jorge _____.",
+          "solucion_correcta": [
+            "no es tan guapo como yo"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Elio es más bajo que su padre.</u> Elio _____.",
+          "solucion_correcta": [
+            "no es tan alto como su padre"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>La silla es más incómoda que el sillón.</u> La silla _____.",
+          "solucion_correcta": [
+            "no es tan cómoda como el sillón"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Vosotras sois más simpáticas que Hugo.</u> Hugo _____.",
+          "solucion_correcta": [
+            "no es tan simpático como vosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Eres más fuerte que yo.</u> (Yo) _____.",
+          "solucion_correcta": [
+            "No soy tan fuerte como tú"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Él es peor que Rinaldo.</u> Él _____.",
+          "solucion_correcta": [
+            "no es tan bueno como Rinaldo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "16.4",
+      "tipologia": "T3",
+      "enunciado": "Complete los diálogos con el comparativo de igualdad.",
+      "items": [
+        {
+          "texto_enunciado": "—Luis es muy listo. —Pues su hermano es _____.",
+          "solucion_correcta": [
+            "igual de listo / tan listo como él"
+          ]
+        },
+        {
+          "texto_enunciado": "—Rosario es muy elegante. —Pues sus hijas no son _____.",
+          "solucion_correcta": [
+            "tan elegantes"
+          ]
+        },
+        {
+          "texto_enunciado": "—Jesús es muy simpático. —Pues su hermana no es _____.",
+          "solucion_correcta": [
+            "tan simpática"
+          ]
+        },
+        {
+          "texto_enunciado": "—Los peruanos son muy amables. —Pues los colombianos son _____.",
+          "solucion_correcta": [
+            "igual de amables / tan amables como los peruanos"
+          ]
+        },
+        {
+          "texto_enunciado": "—Esta cama es muy cómoda. —Pues la mía no es _____.",
+          "solucion_correcta": [
+            "tan cómoda"
+          ]
+        },
+        {
+          "texto_enunciado": "—Juan es muy amable. —Pues sus hijos no son _____.",
+          "solucion_correcta": [
+            "tan amables"
+          ]
+        },
+        {
+          "texto_enunciado": "—Este piso es viejo. —Pues el mío es _____.",
+          "solucion_correcta": [
+            "igual de viejo / tan viejo como el tuyo"
+          ]
+        },
+        {
+          "texto_enunciado": "—Elvira es muy guapa. —Pues sus hermanas son _____.",
+          "solucion_correcta": [
+            "igual de guapas / tan guapas como ella"
+          ]
+        }
+      ]
+    }
+  ]
+}

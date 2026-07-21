@@ -1,0 +1,144 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "36.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete con me, te, le...",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer pregunta a otra mujer, que sostiene un pañuelo."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un hombre sostiene unos libros mientras habla con otro hombre."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una mujer habla con otra persona que sostiene una bufanda."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer pregunta a un hombre que sostiene un regalo."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una mujer entrega un frasco de perfume a otra mujer."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una mujer con un regalo habla con otra mujer."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mujer habla con otra mujer que sostiene un paraguas."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "¿Qué _____ ha regalado? — _____ ha regalado un pañuelo."
+        },
+        {
+          "texto_enunciado": "_____ ha regalado unos libros."
+        },
+        {
+          "texto_enunciado": "_____ ha regalado una bufanda."
+        },
+        {
+          "texto_enunciado": "¿Qué _____ ha regalado a usted?"
+        },
+        {
+          "texto_enunciado": "_____ ha regalado perfume."
+        },
+        {
+          "texto_enunciado": "¿Qué _____ ha regalado?"
+        },
+        {
+          "texto_enunciado": "_____ ha regalado un paraguas."
+        }
+      ]
+    },
+    {
+      "subejercicio": "36.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Responda a estas preguntas siguiendo el modelo.",
+      "items": [
+        {
+          "texto_enunciado": "1. ¿Qué te han dicho? _____."
+        },
+        {
+          "texto_enunciado": "2. ¿Qué le ha dicho a usted? _____."
+        },
+        {
+          "texto_enunciado": "3. ¿Qué os ha dado? _____."
+        },
+        {
+          "texto_enunciado": "4. ¿Qué le han preguntado a Susana? _____."
+        },
+        {
+          "texto_enunciado": "5. ¿Qué me ha dicho? _____."
+        },
+        {
+          "texto_enunciado": "6. ¿Qué nos han preguntado? _____."
+        },
+        {
+          "texto_enunciado": "7. ¿Qué te ha vendido? _____."
+        },
+        {
+          "texto_enunciado": "8. ¿Qué les han dado a ustedes? _____."
+        },
+        {
+          "texto_enunciado": "9. ¿Qué le han preguntado a Alberto? _____."
+        },
+        {
+          "texto_enunciado": "10. ¿Qué les han regalado a tus hijas? _____."
+        }
+      ],
+      "tipologia_libre_original": "Producción de respuestas negativas completas a partir de preguntas, siguiendo una respuesta modelo."
+    },
+    {
+      "subejercicio": "36.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Escriba preguntas y respuestas como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "1. ¿Te dijo algo Luis? _____."
+        },
+        {
+          "texto_enunciado": "(¿a ustedes?) ¿_____? _____."
+        },
+        {
+          "texto_enunciado": "(¿a Marcela?) ¿_____? _____."
+        },
+        {
+          "texto_enunciado": "2. ¿Os ha preguntado algo Lola? _____."
+        },
+        {
+          "texto_enunciado": "(¿a Tomás?) ¿_____? _____."
+        },
+        {
+          "texto_enunciado": "(¿a usted?) ¿_____? _____."
+        },
+        {
+          "texto_enunciado": "3. ¿Me ha comprado algo Yvonne? _____."
+        },
+        {
+          "texto_enunciado": "(¿a nosotros?) ¿_____? _____."
+        },
+        {
+          "texto_enunciado": "(¿a su hermano?) ¿_____? _____."
+        }
+      ],
+      "tipologia_libre_original": "Producción pautada de preguntas y respuestas completas, modificando los pronombres según los destinatarios indicados entre paréntesis."
+    }
+  ],
+  "unidad": 36,
+  "titulo_libro": "Me han regalado un reloj -- Pronombres personales de complemento indirecto",
+  "scan": "libro-rojo-082.png"
+}

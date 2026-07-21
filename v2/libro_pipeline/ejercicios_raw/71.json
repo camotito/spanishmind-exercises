@@ -1,0 +1,140 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "71.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el condicional simple de los verbos correspondientes.",
+      "items": [
+        {
+          "texto_enunciado": "Esta tarta está buena, pero _____ mejor con nata."
+        },
+        {
+          "texto_enunciado": "Aquí estamos bien, pero _____ mejor en la playa."
+        },
+        {
+          "texto_enunciado": "Soy feliz, pero _____ más feliz con un buen empleo."
+        },
+        {
+          "texto_enunciado": "Tocáis bien el piano, pero _____ mejor con un poco más de práctica."
+        },
+        {
+          "texto_enunciado": "Ustedes viven muy bien aquí, pero creo que _____ mejor en el campo."
+        },
+        {
+          "texto_enunciado": "Susi trabaja muy bien, pero _____ mejor con más sueldo."
+        },
+        {
+          "texto_enunciado": "Me siento bien, pero _____ mejor con una buena comida."
+        },
+        {
+          "texto_enunciado": "Tarik habla español bastante bien, pero _____ mejor con un buen profesor."
+        }
+      ]
+    },
+    {
+      "subejercicio": "71.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete los deseos con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(a nosotras, gustar) _____ hablar muchos idiomas."
+        },
+        {
+          "texto_enunciado": "A Abdou (encantar) _____ hablar bien español."
+        },
+        {
+          "texto_enunciado": "(a mí, no, gustar) _____ vivir en una gran ciudad."
+        },
+        {
+          "texto_enunciado": "¿(a ustedes, gustar) _____ hacer un viaje por Andalucía?"
+        },
+        {
+          "texto_enunciado": "Me gusta este hotel, pero (yo, preferir) _____ alojarme en uno más céntrico."
+        },
+        {
+          "texto_enunciado": "A mis padres (encantar) _____ visitar las ruinas mayas."
+        },
+        {
+          "texto_enunciado": "Nos encanta comer en casa, pero hoy (preferir) _____ comer fuera."
+        }
+      ]
+    },
+    {
+      "subejercicio": "71.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Me (gusta/gustaría) visitar Argentina, pero ahora no tengo vacaciones."
+        },
+        {
+          "texto_enunciado": "Nos (encanta/encantaría) bailar. Lo pasamos fenomenal."
+        },
+        {
+          "texto_enunciado": "(Prefiero/Preferiría) trabajar, pero no encuentro empleo."
+        },
+        {
+          "texto_enunciado": "¿Qué os (gusta/gustaría) hacer hoy? Podemos hacer lo que queráis."
+        },
+        {
+          "texto_enunciado": "A Paloma le (encanta/encantaría) viajar. Ha recorrido medio mundo."
+        },
+        {
+          "texto_enunciado": "Los sábados me (gusta/gustaría) salir con Pepa y Pablo. Lo pasamos muy bien con ellos."
+        },
+        {
+          "texto_enunciado": "(Prefiero/Preferiría) vivir con gente. Cuando vivía sola era muy aburrido."
+        },
+        {
+          "texto_enunciado": "Me (encanta/encantaría) saber pintar bien. Es el sueño de mi vida."
+        }
+      ]
+    },
+    {
+      "subejercicio": "71.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete los consejos con los verbos del recuadro.",
+      "banco_palabras": [
+        "buscar",
+        "deber",
+        "deber",
+        "estudiar",
+        "hablar",
+        "ir",
+        "pedir",
+        "ser"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____ madrugar más. Sois un poco perezosos."
+        },
+        {
+          "texto_enunciado": "_____ mejor que llamaras a Marta y se lo explicaras todo."
+        },
+        {
+          "texto_enunciado": "Yo que tú, _____ Bellas Artes."
+        },
+        {
+          "texto_enunciado": "Yo que ustedes _____ otro empleo. Esta empresa va a cerrar."
+        },
+        {
+          "texto_enunciado": "Perdonen, pero creo que _____ pedir disculpas a Irene por llegar tan tarde."
+        },
+        {
+          "texto_enunciado": "Yo que tú _____ al médico. Tienes mala cara."
+        },
+        {
+          "texto_enunciado": "Yo _____ con el director y le _____ un aumento."
+        }
+      ],
+      "tipologia_libre_original": "Completar consejos seleccionando los verbos de un recuadro y conjugándolos en la forma adecuada."
+    }
+  ],
+  "unidad": 71,
+  "titulo_libro": "trabajaría, comería, viviría -- Condicional simple: verbos regulares",
+  "scan": "libro-rojo-152.png"
+}

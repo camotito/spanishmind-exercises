@@ -1,0 +1,182 @@
+{
+  "tema": "unidad-58",
+  "titulo": "trabajé, comí, viví",
+  "descripcion_gramatical": "Pretérito indefinido: verbos regulares",
+  "fuente": "libro",
+  "unidad_libro": 58,
+  "ejercicios": [
+    {
+      "subejercicio": "58.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el pretérito indefinido de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Pablo y Mar (casarse) _____ hace tres meses.",
+          "solucion_correcta": [
+            "se casaron"
+          ]
+        },
+        {
+          "texto_enunciado": "El domingo por la mañana (yo, no salir) _____. (Levantarse) _____ tarde, (lavarse) _____ el pelo, (desayunar) _____ y (escribir) _____ algunas cartas.",
+          "solucion_correcta": [
+            "no salí",
+            "Me levanté",
+            "me lavé",
+            "desayuné",
+            "escribí"
+          ]
+        },
+        {
+          "texto_enunciado": "El año pasado (nosotros, ver) _____ a Mercedes Sosa en directo.",
+          "solucion_correcta": [
+            "vimos"
+          ]
+        },
+        {
+          "texto_enunciado": "Yolanda y Arturo (vivir) _____ en Argentina hasta 1998.",
+          "solucion_correcta": [
+            "vivieron"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué os (pasar) _____ ayer? —(No sonar) _____ el despertador y (llegar) _____ tarde.",
+          "solucion_correcta": [
+            "pasó",
+            "No sonó",
+            "llegamos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuándo (conocerse) _____ Gala y tú? —(Conocerse) _____ en 1999, durante un viaje a Santo Domingo.",
+          "solucion_correcta": [
+            "os conocisteis",
+            "Nos conocimos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿A qué hora (acabar) _____ la fiesta anoche? —No lo sé. Yo (acostarse) _____ a las doce.",
+          "solucion_correcta": [
+            "acabó",
+            "me acosté"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Con quién (tú, salir) _____ el domingo?",
+          "solucion_correcta": [
+            "saliste"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "58.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las siguientes preguntas.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer conocí a Donato. ¿A quién _____ ayer?",
+          "solucion_correcta": [
+            "conociste"
+          ]
+        },
+        {
+          "texto_enunciado": "El domingo dimos un paseo por el Malecón. ¿Por dónde _____ un paseo el domingo?",
+          "solucion_correcta": [
+            "disteis"
+          ]
+        },
+        {
+          "texto_enunciado": "De joven, viví seis meses en Chile. ¿Dónde _____ de joven?",
+          "solucion_correcta": [
+            "viviste"
+          ]
+        },
+        {
+          "texto_enunciado": "El año pasado trabajé en una academia. ¿Dónde _____ el año pasado?",
+          "solucion_correcta": [
+            "trabajaste"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche hablé con Alicia. ¿Con quién _____ anoche?",
+          "solucion_correcta": [
+            "hablaste"
+          ]
+        },
+        {
+          "texto_enunciado": "La semana pasada comimos en un mesón. ¿Dónde _____ la semana pasada?",
+          "solucion_correcta": [
+            "comisteis"
+          ]
+        },
+        {
+          "texto_enunciado": "El sábado pasamos el día con Araceli. ¿Con quién _____ el día el sábado?",
+          "solucion_correcta": [
+            "pasasteis"
+          ]
+        },
+        {
+          "texto_enunciado": "Di una fiesta hace una semana. ¿Cuándo _____ una fiesta?",
+          "solucion_correcta": [
+            "diste"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "58.3",
+      "tipologia": "T4",
+      "enunciado": "Complete esta historia con el pretérito indefinido de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Una noche me (despertar) _____ un ruido. (Levantarse) _____, (encender) _____ la luz y (acercarse) _____ a la ventana. En la calle (ver) _____ una figura vestida de blanco. Cuando la figura me (ver) _____, me (llamar) _____ con la mano. (Dar) _____ un grito y la figura (alejarse) _____. (Regresar) _____ a la cama, (apagar) _____ la luz y (acostarse) _____. Nunca más (volver) _____ a verla.",
+          "solucion_correcta": [
+            "despertó",
+            "Me levanté",
+            "encendí",
+            "me acerqué",
+            "vi",
+            "vio",
+            "llamó",
+            "Di",
+            "se alejó",
+            "Regresé",
+            "apagué",
+            "me acosté",
+            "volví"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "58.4",
+      "tipologia": "T8",
+      "enunciado": "Utilice los verbos del recuadro para completar la biografía de Isabel Allende.",
+      "items": [
+        {
+          "texto_enunciado": "Isabel Allende es chilena, pero _____ en Lima, Perú, el 2 de agosto de 1942. En 1945 su madre _____ a Chile con Isabel y sus hermanos. En 1962 _____ por primera vez y al año siguiente _____ su hija Paula. En 1975, dos años después del golpe militar en Chile, _____ en Caracas, Venezuela. Aquí _____ trece años y _____ su gran éxito, La casa de los espíritus. En 1987 _____ a los Estados Unidos, donde reside actualmente.",
+          "solucion_correcta": [
+            "nació",
+            "regresó",
+            "se casó",
+            "nació",
+            "se refugió",
+            "vivió",
+            "escribió",
+            "se trasladó"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "casarse",
+        "escribir",
+        "nacer",
+        "nacer",
+        "refugiarse",
+        "regresar",
+        "trasladarse",
+        "vivir"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "26.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Transcriba los siguientes números.",
+      "items": [
+        {
+          "texto_enunciado": "(183) _____"
+        },
+        {
+          "texto_enunciado": "(1 070) _____"
+        },
+        {
+          "texto_enunciado": "(3 561) _____"
+        },
+        {
+          "texto_enunciado": "(115,10) _____"
+        },
+        {
+          "texto_enunciado": "(1 231 758) _____"
+        },
+        {
+          "texto_enunciado": "(3 050 947) _____"
+        },
+        {
+          "texto_enunciado": "(415,25) _____"
+        },
+        {
+          "texto_enunciado": "(22 891 604) _____"
+        }
+      ]
+    },
+    {
+      "subejercicio": "26.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba con letras los siguientes precios.",
+      "contexto_grafico": {
+        "tipo": "vocabulary_box",
+        "datos": [
+          {
+            "simbolo": "$",
+            "equivalencia": "1 $ = un dólar"
+          },
+          {
+            "simbolo": "€",
+            "equivalencia": "1 € = un euro"
+          },
+          {
+            "simbolo": "¥",
+            "equivalencia": "1 ¥ = un yen"
+          },
+          {
+            "simbolo": "BRL",
+            "equivalencia": "1 BRL = un real"
+          },
+          {
+            "simbolo": "DKK",
+            "equivalencia": "1 DKK = una corona danesa"
+          },
+          {
+            "simbolo": "TRL",
+            "equivalencia": "1 TRL = una lira turca"
+          },
+          {
+            "simbolo": "MXN",
+            "equivalencia": "1 MXN = un peso mexicano"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "($ 205) _____"
+        },
+        {
+          "texto_enunciado": "(€ 301) _____"
+        },
+        {
+          "texto_enunciado": "(¥ 2 612) _____"
+        },
+        {
+          "texto_enunciado": "(€ 83 195) _____"
+        },
+        {
+          "texto_enunciado": "(BRL 568) _____"
+        },
+        {
+          "texto_enunciado": "(DKK 1 421) _____"
+        },
+        {
+          "texto_enunciado": "(TRL 833) _____"
+        },
+        {
+          "texto_enunciado": "(MXN 471 950) _____"
+        }
+      ]
+    },
+    {
+      "subejercicio": "26.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases escribiendo los números entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "La Habana tiene (2 000 000) _____ de habitantes."
+        },
+        {
+          "texto_enunciado": "María gana (2 085) _____ euros al mes."
+        },
+        {
+          "texto_enunciado": "Rafael tiene una colección de más de (300) _____ mariposas."
+        },
+        {
+          "texto_enunciado": "La mujer más vieja del mundo tiene (118) _____ años."
+        },
+        {
+          "texto_enunciado": "De Cartagena a Bogotá hay (1 274) _____ kilómetros."
+        },
+        {
+          "texto_enunciado": "Alberto pesa (108) _____ kilos."
+        },
+        {
+          "texto_enunciado": "Machu Picchu tiene más de (500) _____ años."
+        },
+        {
+          "texto_enunciado": "Esta televisión cuesta (310) _____ bolívares."
+        }
+      ]
+    },
+    {
+      "subejercicio": "26.4",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las fechas con palabras.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "mes": "enero",
+            "dia": "21",
+            "año": "1812"
+          },
+          {
+            "mes": "mayo",
+            "dia": "2",
+            "año": "2001"
+          },
+          {
+            "mes": "octubre",
+            "dia": "25",
+            "año": "1954"
+          },
+          {
+            "mes": "diciembre",
+            "dia": "31",
+            "año": "2008"
+          },
+          {
+            "mes": "julio",
+            "dia": "10",
+            "año": "1613"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        }
+      ]
+    }
+  ],
+  "unidad": 26,
+  "titulo_libro": "cien, mil, un millón... -- Números cardinales (2)",
+  "scan": "libro-rojo-062.png"
+}

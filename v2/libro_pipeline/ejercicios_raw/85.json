@@ -1,0 +1,117 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "85.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas con el presente de subjuntivo en forma afirmativa o negativa o el infinitivo de los verbos correspondientes.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Cree que va a llover esta tarde? –No sé. Puede que _____."
+        },
+        {
+          "texto_enunciado": "–¿Vais a ir a la fiesta de Elisa? –Tenemos mucho que estudiar. Quizás _____."
+        },
+        {
+          "texto_enunciado": "–¿Está Carmen Perón en su despacho? –No sé. Es posible que _____. Mira tú."
+        },
+        {
+          "texto_enunciado": "–¿Sabes si Alicia va a venir hoy a clase? –No sé. Puede que _____. Últimamente no viene mucho."
+        },
+        {
+          "texto_enunciado": "–¿Por qué no duermes bien? –Es imposible _____ aquí. Hay mucho ruido."
+        },
+        {
+          "texto_enunciado": "–¿Sabes si hay un tren a Aguascalientes? –Posiblemente _____ uno por la mañana."
+        },
+        {
+          "texto_enunciado": "–¿Sabe si Celia quiere trabajar este verano? –No sé, pero es probable que _____. Necesita dinero para el curso."
+        },
+        {
+          "texto_enunciado": "–¿No puede encontrar otro piso mejor? –Es imposible _____ nada mejor por este precio."
+        }
+      ]
+    },
+    {
+      "subejercicio": "85.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos. Use el pretérito imperfecto de subjuntivo o el pretérito indefinido en la forma afirmativa o negativa de los verbos correspondientes.",
+      "items": [
+        {
+          "texto_enunciado": "–Miguel dijo la verdad. –No te creo. Es imposible que _____."
+        },
+        {
+          "texto_enunciado": "–Fue José. Seguro. –Yo no estoy tan segura. Puede que _____."
+        },
+        {
+          "texto_enunciado": "–Lo hizo Sara. –¿Estás seguro? Quizás _____."
+        },
+        {
+          "texto_enunciado": "–Aurora no vino la semana pasada porque estaba enferma. –Sí. Es probable que _____. Es una chica muy débil."
+        },
+        {
+          "texto_enunciado": "–Mario dice que se olvidó. –Tal vez _____. Es muy despistado."
+        }
+      ]
+    },
+    {
+      "subejercicio": "85.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Vas a ver pronto a Tomás? –Sí. Seguramente lo _____ el sábado."
+        },
+        {
+          "texto_enunciado": "–¿Crees que vas a aprobar? –Sí. Seguramente _____."
+        },
+        {
+          "texto_enunciado": "–¿Van a ir a Bariloche este invierno? –Sí. Seguramente _____ unos días."
+        },
+        {
+          "texto_enunciado": "–¿Crees que encontraré la cartera? –Sí. Seguramente la _____ en algún rincón."
+        },
+        {
+          "texto_enunciado": "–¿Sabes si Antonio tiene el teléfono de Amelia? –Sí. Seguramente lo _____."
+        },
+        {
+          "texto_enunciado": "–¿Crees que ese cuadro lo ha pintado Margarita? –Sí. Seguramente lo _____ ella."
+        }
+      ]
+    },
+    {
+      "subejercicio": "85.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba cada verbo en el tiempo correspondiente.",
+      "items": [
+        {
+          "texto_enunciado": "–¡Teléfono, Lola! –Lo cojo yo. Puede que (ser) _____ Víctor."
+        },
+        {
+          "texto_enunciado": "–¿Cuándo vais a inaugurar el nuevo piso? –Quizá lo (hacer) _____ el mes que viene."
+        },
+        {
+          "texto_enunciado": "–Felipe me llama todos los días. –Seguramente le (gustar) _____."
+        },
+        {
+          "texto_enunciado": "Es imposible (encontrar) _____ habitación en ningún hotel. Están todos llenos."
+        },
+        {
+          "texto_enunciado": "–Luis no nos saludó anoche. –Probablemente no os (ver) _____."
+        },
+        {
+          "texto_enunciado": "–Me apetece comer algo. –Es imposible que (tener) _____ hambre. Hemos comido hace una hora."
+        },
+        {
+          "texto_enunciado": "Anoche no dormí bien. Puede que me (sentar) _____ algo mal."
+        }
+      ]
+    }
+  ],
+  "unidad": 85,
+  "titulo_libro": "Quizás lo haga -- Expresión de probabilidad",
+  "scan": "libro-rojo-180.png"
+}

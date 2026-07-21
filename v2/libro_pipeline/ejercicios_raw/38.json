@@ -1,0 +1,124 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "38.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿Quieres este libro? –No, no (le/lo) quiero. Gracias."
+        },
+        {
+          "texto_enunciado": "2. –¿Me dejas el lápiz? –No puedo. (Le/Lo) necesito."
+        },
+        {
+          "texto_enunciado": "3. –¿Quieres a Ana? –Sí, (la/le) quiero."
+        },
+        {
+          "texto_enunciado": "4. –¿Ha visto usted mis gafas? –No, no (las/les) he visto."
+        },
+        {
+          "texto_enunciado": "5. –¿(La/Le) has regalado tu chaqueta roja a Luisa? –No, no (se/le) (la/le) he regalado. (Se/Le) (la/le) he prestado."
+        },
+        {
+          "texto_enunciado": "6. –¿Han visto ustedes a mis padres? –No, no (se/los) hemos visto."
+        },
+        {
+          "texto_enunciado": "7. (Le/La) he prestado cien euros a Ivana."
+        },
+        {
+          "texto_enunciado": "8. –¿(Les/Los) has dejado el coche a tus hermanos? –No, no (se/les) (le/lo) he dejado."
+        },
+        {
+          "texto_enunciado": "9. –¿Has visto a mis hermanas? –Sí, (las/les) he visto."
+        },
+        {
+          "texto_enunciado": "10. Inés, (la/le) llaman por teléfono."
+        },
+        {
+          "texto_enunciado": "11. ¿Quiere ver a Andrés? –No, no quiero (verla/verlo)."
+        },
+        {
+          "texto_enunciado": "12. (Les/Los) he comprado una televisión a mis padres."
+        },
+        {
+          "texto_enunciado": "13. (La/Le) dije a Juana que no tengo dinero."
+        },
+        {
+          "texto_enunciado": "14. Ayer (la/le) vi en el parque, Elisa."
+        },
+        {
+          "texto_enunciado": "15. –¿Qué (la/le) pasa a Elsa? –(La/Le) duele la cabeza."
+        }
+      ]
+    },
+    {
+      "subejercicio": "38.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con lo, la, los, las, le, les o se.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿Has visto a Juana? –Sí, _____ he visto."
+        },
+        {
+          "texto_enunciado": "2. _____ he regalado unos bombones a Sarita."
+        },
+        {
+          "texto_enunciado": "3. –¿Has llamado a tu padre, Héctor? –Sí, _____ he llamado."
+        },
+        {
+          "texto_enunciado": "4. ¿Qué _____ has dicho a la profesora?"
+        },
+        {
+          "texto_enunciado": "5. ¿_____ has regalado tus discos a Enrique? Sí, _____ _____ he regalado."
+        },
+        {
+          "texto_enunciado": "6. –¿Has visto a Concha? –No, hoy no _____ he visto."
+        },
+        {
+          "texto_enunciado": "7. A Pili _____ duelen las muelas."
+        },
+        {
+          "texto_enunciado": "8. –¿Qué _____ has comprado a tus padres? –A mi padre _____ he comprado un libro y a mi madre _____ he comprado un pañuelo."
+        }
+      ]
+    },
+    {
+      "subejercicio": "38.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Utilice los pronombres adecuados para completar estas frases.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿_____ has dicho a Juan que necesito el coche? –Sí, _____ he dicho, pero dice que él también _____ necesita."
+        },
+        {
+          "texto_enunciado": "2. –¿Sabes que me voy a Colombia? –No, no _____ sabía."
+        },
+        {
+          "texto_enunciado": "3. –¿Es verdad que Ángela tiene mucho dinero? –_____ es, pero no _____ parece."
+        },
+        {
+          "texto_enunciado": "4. –¿Sabe papá que necesito dinero? –_____ sabe, pero dice que _____ _____ pidas luego."
+        },
+        {
+          "texto_enunciado": "5. No _____ entiendo. _____ he ofrecido ayuda a Teresa, pero no _____ ha aceptado."
+        },
+        {
+          "texto_enunciado": "6. –¿De verdad que Ana es escritora? –Claro que _____ es, pero no _____ sabe nadie."
+        },
+        {
+          "texto_enunciado": "7. –Juan y Lola se han casado. –Ya sabía que _____ harían. Él _____ quiere mucho."
+        },
+        {
+          "texto_enunciado": "8. –Se ha muerto Momo. –¡Cuánto _____ siento! Yo _____ quería mucho."
+        }
+      ]
+    }
+  ],
+  "unidad": 38,
+  "titulo_libro": "Confusión entre pronombres personales de complemento -- Pronombres de objeto directo e indirecto",
+  "scan": "libro-rojo-086.png"
+}

@@ -1,0 +1,138 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "70.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "1. ¡Daos prisa! (Va a salir/Saldrá) el tren."
+        },
+        {
+          "texto_enunciado": "2. –¿De dónde es Paola? –No sé. (Es/Será) italiana."
+        },
+        {
+          "texto_enunciado": "3. ¡Cuidado! Te (caerás/vas a caer)."
+        },
+        {
+          "texto_enunciado": "4. ¡Mira! (Saldrá/Va a salir) el sol."
+        },
+        {
+          "texto_enunciado": "5. Me (voy/iré) de vacaciones mañana."
+        },
+        {
+          "texto_enunciado": "6. ¿A qué hora (llegará/llega) el vuelo de La Habana?"
+        },
+        {
+          "texto_enunciado": "7. ¿Dónde (trabaja/trabajará) Cecilia? Me gustaría saberlo."
+        }
+      ]
+    },
+    {
+      "subejercicio": "70.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el futuro simple o con voy, vas, va... a + infinitivo de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿Cuándo (tú, arreglar) _____ la habitación? –No sé. La (yo, arreglar) _____ cuando tenga tiempo."
+        },
+        {
+          "texto_enunciado": "2. ¿Qué (ustedes, hacer) _____ el domingo?"
+        },
+        {
+          "texto_enunciado": "3. No se preocupen. (Ser) _____ ustedes muy felices y (tener) _____ muchos hijos."
+        },
+        {
+          "texto_enunciado": "4. Te (yo, llamar) _____ cuando llegue a Santiago."
+        },
+        {
+          "texto_enunciado": "5. Esta noche no puedo salir. Me (llamar) _____ Osvaldo."
+        },
+        {
+          "texto_enunciado": "6. ¿Adónde (ustedes, ir) _____ este verano?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "70.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el futuro simple o el presente de indicativo de los verbos del recuadro.",
+      "banco_palabras": [
+        "casarse",
+        "examinar",
+        "haber",
+        "poder",
+        "regresar",
+        "ser",
+        "ser",
+        "vivir",
+        "vivir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "1. Estoy un poco nervioso. Me _____ mañana."
+        },
+        {
+          "texto_enunciado": "2. En el futuro _____ viajar por el espacio."
+        },
+        {
+          "texto_enunciado": "3. –¿Conoces a Lola? –Sí, _____ una amiga de mi hermana."
+        },
+        {
+          "texto_enunciado": "4. –¿Quién es el chico que está con Marta? –No sé. _____ un amigo suyo."
+        },
+        {
+          "texto_enunciado": "5. –¿Sabes dónde _____ Pedro? –Ni idea. _____ con sus padres, supongo."
+        },
+        {
+          "texto_enunciado": "6. –¿Cuándo _____ a Chile, Pato? –La semana que viene."
+        },
+        {
+          "texto_enunciado": "7. Seguramente Trini y yo _____ el año que viene."
+        },
+        {
+          "texto_enunciado": "8. –¿Hay leche? –No sé. _____ algo en la nevera."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases seleccionando un verbo de un banco de palabras y conjugándolo en futuro simple o presente de indicativo."
+    },
+    {
+      "subejercicio": "70.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con voy, vas, va... a + infinitivo o el presente de indicativo de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿Cuándo (empezar) _____ las clases? –El lunes que viene."
+        },
+        {
+          "texto_enunciado": "2. Daos prisa; es muy tarde. (Cerrar) _____ los restaurantes."
+        },
+        {
+          "texto_enunciado": "3. Ignacio y yo (trabajar) _____ en un restaurante este verano."
+        },
+        {
+          "texto_enunciado": "4. –¿Cuándo (ser) _____ el examen? –El día doce."
+        },
+        {
+          "texto_enunciado": "5. ¿A qué hora (salir) _____ tu avión mañana?"
+        },
+        {
+          "texto_enunciado": "6. –¿Qué (tú, hacer) _____ mañana? –No sé. No tengo planes."
+        },
+        {
+          "texto_enunciado": "7. Perdone, ¿cuándo (acabar) _____ el concierto?"
+        },
+        {
+          "texto_enunciado": "8. –¿Cuándo (acabar) _____ el cuadro, Miguel? –No sé. Pronto."
+        }
+      ]
+    }
+  ],
+  "unidad": 70,
+  "titulo_libro": "haré / hago / voy a hacer -- Contraste entre las diversas formas de hablar del futuro",
+  "scan": "libro-rojo-150.png"
+}

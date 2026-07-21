@@ -1,0 +1,350 @@
+{
+  "tema": "unidad-25",
+  "titulo": "uno, dos, tres...",
+  "descripcion_gramatical": "Números cardinales (1)",
+  "fuente": "libro",
+  "unidad_libro": 25,
+  "ejercicios": [
+    {
+      "subejercicio": "25.1",
+      "tipologia": "T4",
+      "enunciado": "Escriba los siguientes números con palabras.",
+      "items": [
+        {
+          "texto_enunciado": "(21 euros) _____",
+          "solucion_correcta": [
+            "Veintiún euros"
+          ]
+        },
+        {
+          "texto_enunciado": "(10 de enero) _____",
+          "solucion_correcta": [
+            "Diez de enero"
+          ]
+        },
+        {
+          "texto_enunciado": "(31 días) _____",
+          "solucion_correcta": [
+            "Treinta y un días"
+          ]
+        },
+        {
+          "texto_enunciado": "(49 kilos) _____",
+          "solucion_correcta": [
+            "Cuarenta y nueve kilos"
+          ]
+        },
+        {
+          "texto_enunciado": "(15 de diciembre) _____",
+          "solucion_correcta": [
+            "Quince de diciembre"
+          ]
+        },
+        {
+          "texto_enunciado": "(88 centímetros) _____",
+          "solucion_correcta": [
+            "Ochenta y ocho centímetros"
+          ]
+        },
+        {
+          "texto_enunciado": "(31 aulas) _____",
+          "solucion_correcta": [
+            "Treinta y un aulas"
+          ]
+        },
+        {
+          "texto_enunciado": "(28 de febrero) _____",
+          "solucion_correcta": [
+            "Veintiocho de febrero"
+          ]
+        },
+        {
+          "texto_enunciado": "(25 años) _____",
+          "solucion_correcta": [
+            "Veinticinco años"
+          ]
+        },
+        {
+          "texto_enunciado": "(61 semanas) _____",
+          "solucion_correcta": [
+            "Sesenta y un semanas"
+          ]
+        },
+        {
+          "texto_enunciado": "(1 de mayo) _____",
+          "solucion_correcta": [
+            "Uno de mayo"
+          ]
+        },
+        {
+          "texto_enunciado": "(45 kilómetros) _____",
+          "solucion_correcta": [
+            "Cuarenta y cinco kilómetros"
+          ]
+        },
+        {
+          "texto_enunciado": "(34 metros) _____",
+          "solucion_correcta": [
+            "Treinta y cuatro metros"
+          ]
+        },
+        {
+          "texto_enunciado": "(53 años) _____",
+          "solucion_correcta": [
+            "Cincuenta y tres años"
+          ]
+        },
+        {
+          "texto_enunciado": "(92 kilos) _____",
+          "solucion_correcta": [
+            "Noventa y dos kilos"
+          ]
+        },
+        {
+          "texto_enunciado": "(21 alumnas) _____",
+          "solucion_correcta": [
+            "Veintiuna alumnas"
+          ]
+        },
+        {
+          "texto_enunciado": "(5 de agosto) _____",
+          "solucion_correcta": [
+            "Cinco de agosto"
+          ]
+        },
+        {
+          "texto_enunciado": "(11 alumnos) _____",
+          "solucion_correcta": [
+            "Once alumnos"
+          ]
+        },
+        {
+          "texto_enunciado": "(76 años) _____",
+          "solucion_correcta": [
+            "Setenta y seis años"
+          ]
+        },
+        {
+          "texto_enunciado": "(51 libras) _____",
+          "solucion_correcta": [
+            "Cincuenta y una libras"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "25.2",
+      "tipologia": "T6",
+      "enunciado": "¿Qué hora es? Observe y anote.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las tres y veinte"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "la una y cuarto"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las nueve y media"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las seis menos cuarto"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las once menos veinticinco"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las ocho quince / las ocho y cuarto"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las nueve cincuenta / las diez menos diez"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las veintiuna veinte"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las doce y treinta y siete"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "las dieciocho cincuenta y dos"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "clocks",
+        "datos": [
+          {
+            "numero": "1",
+            "tipo_reloj": "analógico",
+            "hora": "3:20"
+          },
+          {
+            "numero": "2",
+            "tipo_reloj": "analógico",
+            "hora": "12:15"
+          },
+          {
+            "numero": "3",
+            "tipo_reloj": "analógico",
+            "hora": "9:30"
+          },
+          {
+            "numero": "4",
+            "tipo_reloj": "analógico",
+            "hora": "5:45"
+          },
+          {
+            "numero": "5",
+            "tipo_reloj": "analógico",
+            "hora": "11:35"
+          },
+          {
+            "numero": "6",
+            "tipo_reloj": "digital",
+            "hora": "8:15"
+          },
+          {
+            "numero": "7",
+            "tipo_reloj": "digital",
+            "hora": "9:00"
+          },
+          {
+            "numero": "8",
+            "tipo_reloj": "digital",
+            "hora": "21:20"
+          },
+          {
+            "numero": "9",
+            "tipo_reloj": "digital",
+            "hora": "12:37"
+          },
+          {
+            "numero": "10",
+            "tipo_reloj": "digital",
+            "hora": "18:52"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "25.3",
+      "tipologia": "T6",
+      "enunciado": "Escriba los números de teléfono como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "nueve tres, cinco cuarenta y siete, ochenta y nueve, cero dos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "nueve dos, cuatro setenta y ocho, noventa, dieciséis"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "cinco doce, cero dos, noventa y seis"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "nueve uno, cuatro sesenta y cuatro, treinta y tres, cincuenta y ocho"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "nueve seis, tres cincuenta y dos, sesenta y tres, sesenta y uno"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "cero uno, ocho veintitrés, setenta y uno, noventa y dos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Cincuenta y cinco, cuarenta y tres, doce, noventa y ocho"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "seis cincuenta, veintidós, treinta y cuatro, cincuenta y nueve"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "nombre": "Pilar",
+            "telefono": "935478902"
+          },
+          {
+            "nombre": "Elvira",
+            "telefono": "92 478 90 16"
+          },
+          {
+            "nombre": "Tomás",
+            "telefono": "512 02 16"
+          },
+          {
+            "nombre": "José Luis",
+            "telefono": "91 4643358"
+          },
+          {
+            "nombre": "Antonia",
+            "telefono": "96 3526361"
+          },
+          {
+            "nombre": "Virginia",
+            "telefono": "(01) 823-7192"
+          },
+          {
+            "nombre": "Ramón",
+            "telefono": "5543 1298"
+          },
+          {
+            "nombre": "Alicia",
+            "telefono": "650 22 3459"
+          }
+        ]
+      }
+    }
+  ]
+}

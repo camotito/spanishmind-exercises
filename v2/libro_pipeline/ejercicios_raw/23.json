@@ -1,0 +1,140 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "23.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases con hay, no hay + alguien, algo, nadie o nada.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mesa vacía."
+          },
+          {
+            "numero": "2",
+            "descripcion": "La silueta de una persona en una habitación."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un objeto alargado detrás de un árbol."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un salón sin personas."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un objeto entre las páginas de un libro."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una figura dentro de una piscina."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una caja abierta y vacía."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un objeto entre las ramas de un árbol."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ en la mesa."
+        },
+        {
+          "texto_enunciado": "_____ en mi habitación."
+        },
+        {
+          "texto_enunciado": "_____ detrás del árbol."
+        },
+        {
+          "texto_enunciado": "_____ en el salón."
+        },
+        {
+          "texto_enunciado": "_____ en el libro."
+        },
+        {
+          "texto_enunciado": "_____ en la piscina."
+        },
+        {
+          "texto_enunciado": "_____ en la caja."
+        },
+        {
+          "texto_enunciado": "_____ en el árbol."
+        }
+      ]
+    },
+    {
+      "subejercicio": "23.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con alguien, algo, nadie o nada.",
+      "items": [
+        {
+          "texto_enunciado": "Hay _____ esperándole en recepción."
+        },
+        {
+          "texto_enunciado": "Me han dado _____ para ti."
+        },
+        {
+          "texto_enunciado": "_____ huele mal en la cocina."
+        },
+        {
+          "texto_enunciado": "Hoy no he hecho _____."
+        },
+        {
+          "texto_enunciado": "¿Ha visto _____ mi bolígrafo?"
+        },
+        {
+          "texto_enunciado": "_____ quiere acompañarme al cine."
+        },
+        {
+          "texto_enunciado": "Necesito que _____ me ayude con este ejercicio."
+        },
+        {
+          "texto_enunciado": "Hay mucha gente en la calle. ¿Ha pasado _____?"
+        },
+        {
+          "texto_enunciado": "No ha pasado _____. Ha sido una falsa alarma."
+        },
+        {
+          "texto_enunciado": "No hay _____ en casa de Tomás. No contestan el teléfono."
+        }
+      ]
+    },
+    {
+      "subejercicio": "23.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Conteste a las preguntas usando algo, nada, algo de o nada de.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Hay comida? —No queda _____ queso, pero queda _____ jamón."
+        },
+        {
+          "texto_enunciado": "—¿Queda pan? —Queda _____, pero poco."
+        },
+        {
+          "texto_enunciado": "—¿Y leche? —No queda _____, pero queda _____ zumo."
+        },
+        {
+          "texto_enunciado": "—Necesitamos comprar comida. ¿Tenéis dinero? —Tenemos _____, pero poco."
+        },
+        {
+          "texto_enunciado": "—¿Qué podemos comprar? —Bueno, podemos comprar _____ pan y _____ queso."
+        },
+        {
+          "texto_enunciado": "—¿Y fruta? —No podemos comprar _____ fruta. No tenemos suficiente dinero."
+        }
+      ]
+    }
+  ],
+  "unidad": 23,
+  "titulo_libro": "alguien, algo, nadie, nada -- Indefinidos (4)",
+  "scan": "libro-rojo-056.png"
+}

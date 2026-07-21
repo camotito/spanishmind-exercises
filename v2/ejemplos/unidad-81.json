@@ -1,0 +1,186 @@
+{
+  "tema": "unidad-81",
+  "titulo": "conozca, diga, vaya...",
+  "descripcion_gramatical": "Presente de subjuntivo: verbos irregulares (2)",
+  "fuente": "libro",
+  "unidad_libro": 81,
+  "ejercicios": [
+    {
+      "subejercicio": "81.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Espero que Ana (traer) _____ algo de postre. Yo no he comprado nada.",
+          "solucion_correcta": [
+            "traiga"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encanta que Álvaro (tener) _____ tantos amigos.",
+          "solucion_correcta": [
+            "tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Dónde está Carla? –Pregúntale a Mario. Es probable que él lo (saber) _____.",
+          "solucion_correcta": [
+            "sepa"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis y Pili quieren que (nosotros, ir) _____ de excursión este domingo. ¿Qué te parece?",
+          "solucion_correcta": [
+            "vayamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo invito. No quiero que (ustedes, decir) _____ que no lo hemos celebrado.",
+          "solucion_correcta": [
+            "digan"
+          ]
+        },
+        {
+          "texto_enunciado": "Habla un poco más alto. Puede que los de atrás no te (oír) _____.",
+          "solucion_correcta": [
+            "oigan"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Ojalá (hacer) _____ buen tiempo mañana! Queremos ir al campo.",
+          "solucion_correcta": [
+            "haga"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gusta que (tú, conducir) _____ tan deprisa. Me pone nerviosa.",
+          "solucion_correcta": [
+            "conduzcas"
+          ]
+        },
+        {
+          "texto_enunciado": "Bájate de ahí, Raúl. No quiero que (tú, caerse) _____.",
+          "solucion_correcta": [
+            "te caigas"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Vais a estar en casa esta noche? –No lo sé. Puede que (salir) _____.",
+          "solucion_correcta": [
+            "salgamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Les voy a presentar a María. Quiero que la (conocer) _____.",
+          "solucion_correcta": [
+            "conozcan"
+          ]
+        },
+        {
+          "texto_enunciado": "Siento que no (haber) _____ más helado, pero se ha acabado.",
+          "solucion_correcta": [
+            "haya"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "81.2",
+      "tipologia": "T10",
+      "enunciado": "Una las dos frases con que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Hay pobreza en el mundo. Me parece terrible. _____.",
+          "solucion_correcta": [
+            "Me parece terrible que haya pobreza en el mundo"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi gato huye cuando ve a un perro. Es lógico. _____.",
+          "solucion_correcta": [
+            "Es lógico que mi gato huya cuando ve un perro"
+          ]
+        },
+        {
+          "texto_enunciado": "Antonia no dice nunca la verdad. Me parece mal. _____.",
+          "solucion_correcta": [
+            "Me parece mal que Antonia no diga nunca la verdad"
+          ]
+        },
+        {
+          "texto_enunciado": "Luciano y Adolfo no saben usar un ordenador. Me parece increíble. _____.",
+          "solucion_correcta": [
+            "Me parece increíble que Luciano y Adolfo no sepan usar un ordenador"
+          ]
+        },
+        {
+          "texto_enunciado": "Pones siempre la mesa. Me parece bien. _____.",
+          "solucion_correcta": [
+            "Me parece bien que pongas siempre la mesa"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenéis siempre hambre; trabajáis mucho. Es natural. _____.",
+          "solucion_correcta": [
+            "Es natural que tengáis siempre hambre; trabajáis mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "Susana no hace nunca la cama. No me parece bien. _____.",
+          "solucion_correcta": [
+            "No me parece bien que Susana no haga nunca la cama"
+          ]
+        },
+        {
+          "texto_enunciado": "Destruyen los bosques. Es una vergüenza. _____.",
+          "solucion_correcta": [
+            "Es una vergüenza que destruyan los bosques"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "81.3",
+      "tipologia": "T3",
+      "enunciado": "Complete los diálogos con los verbos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "–Mira esos obreros. Se van a caer. –Es imposible que _____. Tienen cinturones de seguridad.",
+          "solucion_correcta": [
+            "se caigan"
+          ]
+        },
+        {
+          "texto_enunciado": "–Hay mucha gente en la exposición. –Es normal que _____ tanta gente. Es una pintora buenísima.",
+          "solucion_correcta": [
+            "haya"
+          ]
+        },
+        {
+          "texto_enunciado": "–Elsa sale con Tomás. –No me gusta que _____ con ese chico. Es muy celoso.",
+          "solucion_correcta": [
+            "salga"
+          ]
+        },
+        {
+          "texto_enunciado": "–¡Cuidado! Te van a oír. –Es igual. No me importa que me _____.",
+          "solucion_correcta": [
+            "oigan"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Creéis que os puede reconocer? –Sí, tengo miedo de que nos _____.",
+          "solucion_correcta": [
+            "reconozcan"
+          ]
+        },
+        {
+          "texto_enunciado": "–Gloria es educadísima. –Sí, me llama la atención que _____ tan educada.",
+          "solucion_correcta": [
+            "sea"
+          ]
+        }
+      ]
+    }
+  ]
+}

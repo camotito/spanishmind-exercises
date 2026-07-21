@@ -1,0 +1,127 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "117.1",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Forme frases uniendo los elementos de las dos columnas.",
+      "items": [],
+      "tipologia_libre_original": "Ejercicio de emparejamiento en dos columnas para formar frases. Columna izquierda: 1. «Tengo que ver a María para»; 2. «Tengo que ver a Carlos para que»; 3. «Habla bajo para que»; 4. «Habla bajo para»; 5. «Llama a casa de Elisa para»; 6. «Llama a Jesús para que»; 7. «Pablo trabajó mucho para»; 8. «Rosana trabajó mucho para que»; 9. «No aparques aquí para»; 10. «No aparques aquí para que». Columna derecha: a. «no obstaculizar la salida.»; b. «comprarse la furgoneta.»; c. «hablar con su madre.»; d. «no nos oigan.»; e. «darle un recado.»; f. «no despertar a los niños.»; g. «venga a las siete.»; h. «no te multen.»; i. «sus hijos pudieran estudiar.»; j. «me explique algo.». Aparece como ejemplo una flecha que une el elemento 1 con el elemento e."
+    },
+    {
+      "subejercicio": "117.2",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases como en los ejemplos.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Lleva un paraguas o te mojarás.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Préstales el libro o no podrán estudiar.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Pon la radio o no oirás las noticias.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Daos prisa o llegaréis tarde.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Baja la televisión o no se dormirá el niño.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Venid a casa o se enfadará mi hermano.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Tengo que ahorrar o no me compraré la moto.</u> _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "117.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Tienes que venir a casa para que te (conozcan/conocieran) mis padres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tuve que llamar a Raquel para que me (abra/abriera) la puerta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cierra la ventana para que no nos (vean/vieran) los vecinos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Abre la ventana para que (entre/entrara) el aire.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llama a Víctor para que (vaya/fuera) preparando la cena.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llamé a Sara para que (vaya/fuera) a recoger las entradas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me escondí detrás de un árbol para que no me (vea/viera) nadie.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "117.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las oraciones finales con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Hice las camas (tú, descansar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vinieron a Madrid (ellos, ver) _____ la final del campeonato.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luis quiere dar una fiesta (nosotros, conocer) _____ a su novia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En verano vamos a pasar por Quito (nosotros, ver) _____ a tu prima.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Saldremos de noche (los niños, no, pasar) _____ calor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer salimos (nosotros, tomar) _____ un poco el aire.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Voy a comprar unos huevos (Manu, hacer) _____ un flan.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llamé a Ricardo (él, recoger) _____ a Marga en la estación.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 117,
+  "titulo_libro": "para, para que -- Oraciones finales",
+  "scan": "libro-rojo-244.png"
+}

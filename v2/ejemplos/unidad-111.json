@@ -1,0 +1,242 @@
+{
+  "tema": "unidad-111",
+  "titulo": "a Tijuana, desde la playa...",
+  "descripcion_gramatical": "Preposiciones (2)",
+  "fuente": "libro",
+  "unidad_libro": 111,
+  "ejercicios": [
+    {
+      "subejercicio": "111.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la preposición correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Vengo (hasta/de) casa de Juana.",
+          "solucion_correcta": [
+            "de"
+          ]
+        },
+        {
+          "texto_enunciado": "Ven (a/hasta) casa esta noche.",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Van a ir (a/de) Calpe este verano?",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "(De/Desde) aquí se ve muy bien la obra.",
+          "solucion_correcta": [
+            "Desde"
+          ]
+        },
+        {
+          "texto_enunciado": "No mires (a/hacia) abajo. Te puedes marear.",
+          "solucion_correcta": [
+            "hacia"
+          ]
+        },
+        {
+          "texto_enunciado": "(Al/Del) instituto (a/hacia) mi casa hay más de diez kilómetros.",
+          "solucion_correcta": [
+            "Del",
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Ánimo! Tienes que llegar (a/hacia) la meta.",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿(A/Hasta) dónde hay que llegar? —(Hasta/Hacia) el árbol que está en la esquina.",
+          "solucion_correcta": [
+            "Hasta",
+            "Hasta"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "111.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con a, hacia, hasta, de, desde. En algunos casos hay dos posibilidades correctas.",
+      "items": [
+        {
+          "texto_enunciado": "¿Nos puede llevar _____ la estación?",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Vosotras podéis nadar _____ la orilla?",
+          "solucion_correcta": [
+            "hasta"
+          ]
+        },
+        {
+          "texto_enunciado": "Este autobús no llega _____ el centro.",
+          "solucion_correcta": [
+            "hasta/al"
+          ]
+        },
+        {
+          "texto_enunciado": "Para ver esa estrella hay que mirar _____ el Este.",
+          "solucion_correcta": [
+            "hacia/al"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Santiago _____ Lima hay una buena carretera.",
+          "solucion_correcta": [
+            "De/Desde",
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "El Ebro fluye _____ el Este.",
+          "solucion_correcta": [
+            "hacia"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ aquí _____ casa de Lola hay solo dos kilómetros.",
+          "solucion_correcta": [
+            "De/Desde",
+            "a/hasta"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuántos kilómetros hay _____ Valencia?",
+          "solucion_correcta": [
+            "a/hasta"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ dónde vienes? —_____ una conferencia sobre los mayas.",
+          "solucion_correcta": [
+            "De",
+            "De"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ aquí arriba no se oye nada.",
+          "solucion_correcta": [
+            "Desde"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cómo se va _____ el estadio?",
+          "solucion_correcta": [
+            "al"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "111.3",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con de, a, sobre, en o entre.",
+      "items": [
+        {
+          "texto_enunciado": "Hay una foto _____ el piano.",
+          "estimulo_visual": "dibujo de una fotografía colocada sobre un piano",
+          "solucion_correcta": [
+            "sobre"
+          ]
+        },
+        {
+          "texto_enunciado": "Bibiana está _____ su madre y su padre.",
+          "estimulo_visual": "fotografía familiar con Bibiana entre su madre y su padre",
+          "solucion_correcta": [
+            "entre"
+          ]
+        },
+        {
+          "texto_enunciado": "Asunción está _____ Paraguay.",
+          "estimulo_visual": "mapa de Paraguay con Asunción señalada",
+          "solucion_correcta": [
+            "en"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay un quiosco de flores _____ la puerta de los almacenes.",
+          "estimulo_visual": "dibujo de un quiosco de flores junto a la puerta de unos almacenes",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "Tuerce por la primera _____ la izquierda.",
+          "estimulo_visual": "dibujo de una calle con una flecha que indica un giro a la izquierda",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay unas nubes _____ el pueblo.",
+          "estimulo_visual": "dibujo de unas nubes sobre un pueblo",
+          "solucion_correcta": [
+            "sobre"
+          ]
+        },
+        {
+          "texto_enunciado": "Costa Rica está _____ Nicaragua y Panamá.",
+          "estimulo_visual": "mapa en el que Costa Rica aparece entre Nicaragua y Panamá",
+          "solucion_correcta": [
+            "entre"
+          ]
+        },
+        {
+          "texto_enunciado": "Solo hay dos alumnos _____ el aula.",
+          "estimulo_visual": "dibujo de un aula en la que hay dos alumnos",
+          "solucion_correcta": [
+            "en"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una fotografía está colocada sobre un piano."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Fotografía familiar en la que una niña aparece entre su madre y su padre."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Mapa de Paraguay en el que se señala Asunción."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un quiosco de flores está junto a la puerta de unos almacenes."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una calle con una flecha que indica un giro a la izquierda."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Un pueblo con nubes en el cielo."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Mapa en el que Costa Rica aparece entre Nicaragua y Panamá."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un aula casi vacía con dos alumnos."
+          }
+        ]
+      }
+    }
+  ]
+}

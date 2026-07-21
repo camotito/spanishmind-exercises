@@ -1,0 +1,245 @@
+{
+  "tema": "unidad-37",
+  "titulo": "Se lo he dado. Te lo he dado",
+  "descripcion_gramatical": "Pronombres de complemento indirecto y directo",
+  "fuente": "libro",
+  "unidad_libro": 37,
+  "ejercicios": [
+    {
+      "subejercicio": "37.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las respuestas con me, te, se... y lo, la, los, las.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Quién te ha regalado esos bombones? –_____ _____ ha regalado Anita.",
+          "solucion_correcta": [
+            "Me los"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Quién les ha prestado el dinero a tus padres? –_____ _____ ha prestado Juan.",
+          "solucion_correcta": [
+            "Se lo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Quién os ha enviado ese paquete? –_____ _____ ha enviado mi tía Rosa.",
+          "solucion_correcta": [
+            "Nos lo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Quién me envía estas flores? –_____ _____ envía Raúl.",
+          "solucion_correcta": [
+            "Te las"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Quién le ha regalado esa corbata, Antonio? –_____ _____ ha regalado mi mujer.",
+          "solucion_correcta": [
+            "Me la"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Quién les ha enseñado el museo a ustedes? –_____ _____ ha enseñado un guía turístico.",
+          "solucion_correcta": [
+            "Nos lo"
+          ],
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.2",
+      "tipologia": "T3",
+      "enunciado": "Conteste a las preguntas.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Te ha dado Pepe el regalo? –No, _____.",
+          "solucion_correcta": [
+            "no me lo ha dado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Os ha prestado Pablo el dinero? –Sí, _____.",
+          "solucion_correcta": [
+            "nos lo ha prestado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Les ha presentado Sara su novio a sus padres? –No, _____.",
+          "solucion_correcta": [
+            "no se lo ha presentado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Le ha enseñado a usted su casa Marta? –Sí, _____.",
+          "solucion_correcta": [
+            "me la ha enseñado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Les ha presentado Hugo sus amigos a sus padres? –Sí, _____.",
+          "solucion_correcta": [
+            "se los ha presentado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Le ha vendido Jesús su coche a Antonia? –No, _____.",
+          "solucion_correcta": [
+            "no se lo ha vendido"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Les ha enseñado a ustedes los cuadros Ramón? –Sí, _____.",
+          "solucion_correcta": [
+            "nos los ha enseñado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Me ha traído Rita las entradas? –Sí, _____.",
+          "solucion_correcta": [
+            "te las ha traído"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con me, te, se... y lo, la, los, las.",
+      "items": [
+        {
+          "texto_enunciado": "Este paraguas (a él) _____ _____ regaló Andrea.",
+          "solucion_correcta": [
+            "Se lo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Esta corbata (a mí) _____ _____ regaló mi novia.",
+          "solucion_correcta": [
+            "me la"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Ese coche (a ellos) _____ _____ ha vendido un amigo.",
+          "solucion_correcta": [
+            "Se lo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Esa lámpara (a nosotros) _____ _____ ha regalado una tía de Alberto.",
+          "solucion_correcta": [
+            "nos la"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Esas flores (a ella) _____ _____ ha traído su novio.",
+          "solucion_correcta": [
+            "se las"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Este paquete (a usted) _____ _____ ha traído un mensajero.",
+          "solucion_correcta": [
+            "Se lo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Esos bombones (a ellas) _____ _____ ha comprado su hermano.",
+          "solucion_correcta": [
+            "se los"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Este libro (a ti) _____ _____ ha traído Víctor.",
+          "solucion_correcta": [
+            "te lo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Esta carta (a mí) _____ _____ envía una amiga de Perú.",
+          "solucion_correcta": [
+            "me la"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Estos helados (a vosotros) _____ _____ compro yo.",
+          "solucion_correcta": [
+            "os los"
+          ],
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.4",
+      "tipologia": "T3",
+      "enunciado": "Responda como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Te ha dado las entradas? –No, _____.",
+          "solucion_correcta": [
+            "a mí no me las ha dado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Le ha dado a usted el dinero? –No, _____.",
+          "solucion_correcta": [
+            "a mí no me lo ha dado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Os ha dado las llaves? –No, _____.",
+          "solucion_correcta": [
+            "a nosotros no nos las ha dado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Me ha enviado el paquete? –No, _____, don Antonio.",
+          "solucion_correcta": [
+            "a usted no se lo ha enviado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Nos han aprobado? –No, _____.",
+          "solucion_correcta": [
+            "a nosotros/vosotros no nos/os han aprobado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿La han aprobado a Teresa? –Sí, _____.",
+          "solucion_correcta": [
+            "a ella la han aprobado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Y lo han aprobado a Alfonso? –No, _____.",
+          "solucion_correcta": [
+            "a él no lo han aprobado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Nos han invitado a la fiesta? –No, _____.",
+          "solucion_correcta": [
+            "a nosotros/vosotros no nos/os han invitado"
+          ]
+        }
+      ]
+    }
+  ]
+}

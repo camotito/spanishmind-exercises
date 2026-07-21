@@ -1,0 +1,364 @@
+{
+  "tema": "articulo-determinado",
+  "titulo": "el, la, los, las",
+  "descripcion_gramatical": "El artículo determinado",
+  "fuente": "libro",
+  "unidad_libro": 6,
+  "ejercicios": [
+    {
+      "subejercicio": "6.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con el, la, los, las.",
+      "items": [
+        {
+          "texto_enunciado": "_____ casa",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ médico",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ naranjas",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ coche",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ habitación",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ águila",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ pantalones",
+          "solucion_correcta": [
+            "los"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ aula",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ sillas",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ lápices",
+          "solucion_correcta": [
+            "los"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ tijeras",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ profesor",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ perro",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ hermana",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ alumnos",
+          "solucion_correcta": [
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.2",
+      "tipologia": "T2",
+      "enunciado": "Observe la ilustración y complete las frases con el, la, los, las y las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____ de Marta se llama Felipe.",
+          "solucion_correcta": [
+            "El padre"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llama Claudia.",
+          "solucion_correcta": [
+            "La madre"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llama Javier.",
+          "solucion_correcta": [
+            "El tío"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llama Lucía.",
+          "solucion_correcta": [
+            "La tía"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llaman Enrique y Fernando.",
+          "solucion_correcta": [
+            "Los hermanos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llama Isabel.",
+          "solucion_correcta": [
+            "La hermana"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llama Juan.",
+          "solucion_correcta": [
+            "El marido"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llaman Irene y Juana.",
+          "solucion_correcta": [
+            "Las hijas"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "hermana",
+        "hermanos",
+        "hijas",
+        "madre",
+        "marido",
+        "padre",
+        "tía",
+        "tío"
+      ],
+      "contexto_grafico": {
+        "tipo": "family_tree",
+        "datos": [
+          {
+            "nombre": "Felipe",
+            "relacion_con_marta": "padre"
+          },
+          {
+            "nombre": "Claudia",
+            "relacion_con_marta": "madre"
+          },
+          {
+            "nombre": "Javier",
+            "relacion_con_marta": "marido"
+          },
+          {
+            "nombre": "Lucía",
+            "relacion_con_marta": "hermana"
+          },
+          {
+            "nombre": "Enrique",
+            "relacion_con_marta": "hermano"
+          },
+          {
+            "nombre": "Fernando",
+            "relacion_con_marta": "hermano"
+          },
+          {
+            "nombre": "Isabel",
+            "relacion_con_marta": "tía"
+          },
+          {
+            "nombre": "Juan",
+            "relacion_con_marta": "tío"
+          },
+          {
+            "nombre": "Irene",
+            "relacion_con_marta": "hija"
+          },
+          {
+            "nombre": "Juana",
+            "relacion_con_marta": "hija"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "6.3",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases con las palabras del recuadro y el, la, los, las.",
+      "items": [
+        {
+          "texto_enunciado": "Susana está en _____.",
+          "solucion_correcta": [
+            "el jardín"
+          ]
+        },
+        {
+          "texto_enunciado": "Cierra _____.",
+          "solucion_correcta": [
+            "la ventana"
+          ]
+        },
+        {
+          "texto_enunciado": "Pásame _____, por favor.",
+          "solucion_correcta": [
+            "el agua"
+          ]
+        },
+        {
+          "texto_enunciado": "Déjame _____.",
+          "solucion_correcta": [
+            "el diccionario"
+          ]
+        },
+        {
+          "texto_enunciado": "Enciende _____.",
+          "solucion_correcta": [
+            "la luz"
+          ]
+        },
+        {
+          "texto_enunciado": "Pásame _____.",
+          "solucion_correcta": [
+            "las tijeras"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "agua",
+        "diccionario",
+        "jardín",
+        "luz",
+        "tijeras",
+        "ventana"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Susana está con otra persona en un jardín."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una persona pide a otra que cierre una ventana."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Tres personas están sentadas a la mesa junto a una jarra de agua."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una persona pide a otra un diccionario que está sobre la mesa."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Varias personas están en una sala oscura y una de ellas pide que enciendan la luz."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Tres personas trabajan con papel y una de ellas tiene unas tijeras."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "6.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las siguientes frases con el, la, los, las (utilice al y del cuando sea necesario).",
+      "items": [
+        {
+          "texto_enunciado": "_____ águilas son aves.",
+          "solucion_correcta": [
+            "Las"
+          ]
+        },
+        {
+          "texto_enunciado": "Montevideo es _____ capital de Uruguay.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Queremos ver a _____ jefe de estudios.",
+          "solucion_correcta": [
+            "al"
+          ]
+        },
+        {
+          "texto_enunciado": "Cierra _____ puerta de _____ jardín, por favor.",
+          "solucion_correcta": [
+            "la",
+            "del"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenéis que ir a _____ aula 15.",
+          "solucion_correcta": [
+            "al"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ agua es mi bebida preferida.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ padres de Sofía viven en Lima.",
+          "solucion_correcta": [
+            "Los"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustan _____ naranjas.",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "Vivimos cerca de _____ centro.",
+          "solucion_correcta": [
+            "del"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese coche es de _____ padre de Mónica.",
+          "solucion_correcta": [
+            "del"
+          ]
+        }
+      ]
+    }
+  ]
+}

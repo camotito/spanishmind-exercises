@@ -1,0 +1,228 @@
+{
+  "tema": "unidad-35",
+  "titulo": "Te amo",
+  "descripcion_gramatical": "Pronombres personales de complemento directo",
+  "fuente": "libro",
+  "unidad_libro": 35,
+  "ejercicios": [
+    {
+      "subejercicio": "35.1",
+      "tipologia": "T3",
+      "enunciado": "Utilice lo, la, los, las para completar las siguientes frases.",
+      "items": [
+        {
+          "texto_enunciado": "¿Dónde está Andrés? No _____ veo.",
+          "solucion_correcta": [
+            "lo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde están las cucharas? No _____ veo.",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde están tus amigos? No _____ veo.",
+          "solucion_correcta": [
+            "los"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde está el teléfono? No _____ veo.",
+          "solucion_correcta": [
+            "lo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde está Julia? No _____ veo.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde están tus padres? No _____ veo.",
+          "solucion_correcta": [
+            "los"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde está la entrada? No _____ veo.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde están las naranjas? No _____ veo.",
+          "solucion_correcta": [
+            "las"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con me, te, lo...",
+      "items": [
+        {
+          "texto_enunciado": "Yo _____ conozco. Tú eres amigo de Ana.",
+          "solucion_correcta": [
+            "te"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo _____ conozco. Ustedes son los padres de Jesús.",
+          "solucion_correcta": [
+            "los"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo _____ conozco. Vosotros sois compañeros de Ramón.",
+          "solucion_correcta": [
+            "os"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo _____ conozco. Usted es la madre de Rosario.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo _____ conozco. Ustedes son las tías de Pepe.",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo _____ conozco. Vosotras sois amigas de Raquel.",
+          "solucion_correcta": [
+            "os"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo _____ conozco. Usted es el padre de Pedro.",
+          "solucion_correcta": [
+            "lo"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo _____ conozco. Tú vives en la calle Arenal.",
+          "solucion_correcta": [
+            "te"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.3",
+      "tipologia": "T3",
+      "enunciado": "Utilice me, te, lo... y las formas verbales correspondientes para completar las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Amas a Luis? –Sí, _____.",
+          "solucion_correcta": [
+            "lo amo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quieres esta foto? –No, _____.",
+          "solucion_correcta": [
+            "no la quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Has comprado el periódico? –No, _____.",
+          "solucion_correcta": [
+            "no lo he"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Nos quieres, mamá? –Sí, _____ mucho.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Has visto mis zapatillas? –No, _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Me recuerdas? –Sí, _____. Tú eres Julián.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Ves mucho a Pepe y a Luisa? –Sí, _____ mucho.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Te quiere Elena? –No, _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Conoces a los Sres. Pardo? –No, _____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "–¿Te conocen en esta tienda? –Sí, _____ mucho.",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con me, te, lo... y a mí, a ti, a él...",
+      "items": [
+        {
+          "texto_enunciado": "Yo conozco a esa chica, pero ella no _____ conoce _____.",
+          "solucion_correcta": [
+            "me",
+            "a mí"
+          ]
+        },
+        {
+          "texto_enunciado": "Desde aquí vemos a Roberto, pero él no _____ ve _____.",
+          "solucion_correcta": [
+            "nos",
+            "a nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Teresa quiere a Alfredo, pero él no _____ quiere _____.",
+          "solucion_correcta": [
+            "la",
+            "a ella"
+          ]
+        },
+        {
+          "texto_enunciado": "Esas señoras me conocen, pero yo no _____ conozco _____.",
+          "solucion_correcta": [
+            "las",
+            "a ellas"
+          ]
+        },
+        {
+          "texto_enunciado": "Ustedes me conocen, pero yo no _____ conozco _____.",
+          "solucion_correcta": [
+            "los",
+            "a ustedes"
+          ]
+        },
+        {
+          "texto_enunciado": "Esos chicos conocen a Miguel, pero Miguel no _____ conoce _____.",
+          "solucion_correcta": [
+            "los",
+            "a ellos"
+          ]
+        }
+      ]
+    }
+  ]
+}

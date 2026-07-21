@@ -1,0 +1,124 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "24.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con más, menos o tanto, tanta, tantos, tantas.",
+      "items": [
+        {
+          "texto_enunciado": "Buenos Aires tiene (+) _____ habitantes que Madrid."
+        },
+        {
+          "texto_enunciado": "Ahora bebo (−) _____ leche que cuando era pequeño."
+        },
+        {
+          "texto_enunciado": "Sol ha leído (+) _____ libros que yo."
+        },
+        {
+          "texto_enunciado": "No tengo (=) _____ amigos como mi hermana."
+        },
+        {
+          "texto_enunciado": "En Canarias no hace (=) _____ calor como en Cuba."
+        },
+        {
+          "texto_enunciado": "José Manuel trabaja (−) _____ horas que tú."
+        },
+        {
+          "texto_enunciado": "Tenemos (=) _____ prisa como tú."
+        },
+        {
+          "texto_enunciado": "Samuel tiene (+) _____ ropa que yo."
+        },
+        {
+          "texto_enunciado": "En La Paz hace (+) _____ frío que en Caracas."
+        }
+      ]
+    },
+    {
+      "subejercicio": "24.2",
+      "tipologia": "T6",
+      "tipologia_libre": null,
+      "enunciado": "Establezca comparaciones utilizando las palabras del recuadro.",
+      "banco_palabras": [
+        "años",
+        "calor",
+        "corbatas",
+        "dinero",
+        "estudiantes",
+        "frío",
+        "habitantes",
+        "hambre",
+        "leche",
+        "postales"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Roberto tiene 200 pesos. Clara tiene 20. Clara tiene _____."
+        },
+        {
+          "texto_enunciado": "Elsa bebe 1/2 litro de leche al día. Eloy bebe 1 litro. Elsa no bebe _____."
+        },
+        {
+          "texto_enunciado": "Hoy hace 30°. Ayer hizo 25°. Hoy hace _____."
+        },
+        {
+          "texto_enunciado": "Rosario tiene un millón de habitantes; Mendoza tiene un millón y medio de habitantes. Rosario no tiene _____."
+        },
+        {
+          "texto_enunciado": "Simón tiene 30 años; yo tengo 28. Simón tiene _____."
+        },
+        {
+          "texto_enunciado": "Ayer vinieron doce estudiantes; hoy han venido diez. Hoy no han venido _____."
+        },
+        {
+          "texto_enunciado": "Ayer hizo 5°. Hoy hace 10°. Hoy no hace _____."
+        },
+        {
+          "texto_enunciado": "No he comido nada desde esta mañana; Irene no ha comido nada desde anoche. Irene tiene _____."
+        },
+        {
+          "texto_enunciado": "Tengo dos corbatas; tú también tienes dos corbatas. Tengo _____."
+        },
+        {
+          "texto_enunciado": "Habéis recibido cinco postales este verano; yo he recibido tres. He recibido _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "24.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "–Felipe tiene dos hijos. –Yo tengo _____. Tengo cuatro."
+        },
+        {
+          "texto_enunciado": "–Tengo siete hermanos. –Yo tengo casi _____. Tengo seis."
+        },
+        {
+          "texto_enunciado": "–Aurora tiene 30 días de vacaciones. –Yo tengo _____. Tengo 22."
+        },
+        {
+          "texto_enunciado": "–Tengo unos quinientos libros. –Yo no tengo _____. Tengo unos trescientos."
+        },
+        {
+          "texto_enunciado": "–Tengo sueño. He dormido solo cuatro horas. –Yo tengo _____. He dormido solo dos horas."
+        },
+        {
+          "texto_enunciado": "–Hoy hay cerca de doscientos espectadores. –Ayer había _____. Había solo cincuenta."
+        },
+        {
+          "texto_enunciado": "–Hemos estado en diez países diferentes. –Yo he estado en _____. He estado en doce."
+        },
+        {
+          "texto_enunciado": "–Trabajo ocho horas al día. –Yo trabajo _____. También trabajo ocho."
+        }
+      ]
+    }
+  ],
+  "unidad": 24,
+  "titulo_libro": "más, menos, tanto como -- Comparación con nombres",
+  "scan": "libro-rojo-058.png"
+}

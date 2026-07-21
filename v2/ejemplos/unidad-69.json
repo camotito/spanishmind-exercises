@@ -1,0 +1,218 @@
+{
+  "tema": "unidad-69",
+  "titulo": "voy a salir...",
+  "descripcion_gramatical": "Presente de ir a + infinitivo",
+  "fuente": "libro",
+  "unidad_libro": 69,
+  "ejercicios": [
+    {
+      "subejercicio": "69.1",
+      "tipologia": "T2",
+      "enunciado": "¿Qué van a hacer esta tarde? Observe las ilustraciones y escriba frases con las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____ .",
+          "solucion_correcta": [
+            "Van a jugar al tenis"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ .",
+          "solucion_correcta": [
+            "Van a bañarse"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ .",
+          "solucion_correcta": [
+            "Va a pescar"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ .",
+          "solucion_correcta": [
+            "Va a trabajar en el jardín"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "bañarse",
+        "jugar al tenis",
+        "pescar",
+        "trabajar en el jardín"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Dos mujeres con raquetas de tenis."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Dos hombres en traje de baño con gafas de natación."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un hombre pescando con una caña."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre con sombrero y tijeras de podar."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "69.2",
+      "tipologia": "T8",
+      "enunciado": "¿Qué van a hacer? Complete las frases con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "El coche está sucio. Lo _____.",
+          "solucion_correcta": [
+            "voy a lavar"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo hambre. _____ algo.",
+          "solucion_correcta": [
+            "Voy a comer"
+          ]
+        },
+        {
+          "texto_enunciado": "Estamos cansados. _____.",
+          "solucion_correcta": [
+            "Vamos a acostarnos"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo sed. _____ algo.",
+          "solucion_correcta": [
+            "Voy a beber"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana tenemos un examen. _____ un poco.",
+          "solucion_correcta": [
+            "Vamos a estudiar"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ la calefacción. Tengo frío.",
+          "solucion_correcta": [
+            "Voy a encender"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy aburrido. _____ una película.",
+          "solucion_correcta": [
+            "Voy a ver"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acostarse",
+        "beber",
+        "comer",
+        "encender",
+        "estudiar",
+        "lavar",
+        "ver"
+      ]
+    },
+    {
+      "subejercicio": "69.3",
+      "tipologia": "T4",
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Qué (hacer) _____ ustedes este verano? —Los niños (pasar) _____ unos días en un campamento, y Celia y yo (ir) _____ a Marbella. —¿Y dónde (alojarse) _____? —En un chalé alquilado. Lo (compartir) _____ con unos amigos.",
+          "solucion_correcta": [
+            "van a hacer",
+            "van a pasar",
+            "vamos a ir",
+            "vais a alojaros",
+            "vamos a compartir"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuándo (arreglar) _____ tu habitación, Marta? —Hoy no puedo. (Ir) _____ a la fiesta de Sandra. Es su cumpleaños. —¿Y qué le (regalar) _____? —No lo sé. Ahora le (comprar) _____ algo.",
+          "solucion_correcta": [
+            "vas a arreglar",
+            "Voy a ir",
+            "vas a regalar",
+            "voy a comprar"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cuándo (ver) _____ a Luchi? —El domingo. (Salir) _____ con ella y con Elena. —¿Adónde (ir) _____? —(Cenar) _____ fuera.",
+          "solucion_correcta": [
+            "vas a ver",
+            "Voy a salir",
+            "vais a ir",
+            "Vamos a cenar"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "69.4",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____ un niño.",
+          "solucion_correcta": [
+            "Vamos a tener un niño"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Silencio! _____ la obra.",
+          "solucion_correcta": [
+            "Va a empezar"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira. _____.",
+          "solucion_correcta": [
+            "Va a aterrizar un avión"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ el autobús!",
+          "solucion_correcta": [
+            "Vamos a perder"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "aterrizar",
+        "empezar",
+        "perder",
+        "tener"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una pareja; la mujer está embarazada."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un público ante el escenario de un teatro."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos personas observan un avión que se aproxima a tierra."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Dos personas corren detrás de un autobús."
+          }
+        ]
+      }
+    }
+  ]
+}

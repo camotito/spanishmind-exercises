@@ -1,0 +1,272 @@
+{
+  "tema": "unidad-112",
+  "titulo": "encima de la mesa, dentro de la caja...",
+  "descripcion_gramatical": "Preposiciones (3)",
+  "fuente": "libro",
+  "unidad_libro": 112,
+  "ejercicios": [
+    {
+      "subejercicio": "112.1",
+      "tipologia": "T9",
+      "enunciado": "Ordene las palabras para formar frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "un bar / hay / el cine / frente a _____.",
+          "solucion_correcta": [
+            "Hay un bar frente al cine"
+          ]
+        },
+        {
+          "texto_enunciado": "el suelo / los cables / debajo de / van _____.",
+          "solucion_correcta": [
+            "Los cables van debajo del suelo"
+          ]
+        },
+        {
+          "texto_enunciado": "una estación de metro / mi casa / hay / cerca de _____.",
+          "solucion_correcta": [
+            "Hay una estación de metro cerca de mi casa"
+          ]
+        },
+        {
+          "texto_enunciado": "se sienta / junto a / Alfonso / mí _____.",
+          "solucion_correcta": [
+            "Alfonso se sienta junto a mí"
+          ]
+        },
+        {
+          "texto_enunciado": "el televisor / no pongas / encima de / nada _____.",
+          "solucion_correcta": [
+            "No pongas nada encima del televisor"
+          ]
+        },
+        {
+          "texto_enunciado": "te espero / el hotel / frente a _____.",
+          "solucion_correcta": [
+            "Te espero frente al hotel"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "112.2",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Hay un banco (cine) _____.",
+          "estimulo_visual": "dibujo de un banco situado al lado de un cine",
+          "solucion_correcta": [
+            "junto al cine"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay muchos árboles (museo) _____.",
+          "estimulo_visual": "dibujo de un museo rodeado de muchos árboles",
+          "solucion_correcta": [
+            "alrededor del museo"
+          ]
+        },
+        {
+          "texto_enunciado": "Las zapatillas están (cama) _____.",
+          "estimulo_visual": "dibujo de unas zapatillas situadas debajo de una cama",
+          "solucion_correcta": [
+            "debajo de la cama"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay un parque (colegio) _____.",
+          "estimulo_visual": "dibujo de un parque con columpios situado delante de un colegio",
+          "solucion_correcta": [
+            "detrás del colegio"
+          ]
+        },
+        {
+          "texto_enunciado": "La estación está (hospital) _____.",
+          "estimulo_visual": "dibujo de una estación situada frente a un hospital",
+          "solucion_correcta": [
+            "frente al hospital"
+          ]
+        },
+        {
+          "texto_enunciado": "Saturno está (Tierra) _____.",
+          "estimulo_visual": "dibujo de la Tierra y Saturno muy separados",
+          "solucion_correcta": [
+            "lejos de la Tierra"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay una mosca (botella) _____.",
+          "estimulo_visual": "dibujo de una mosca dentro de una botella",
+          "solucion_correcta": [
+            "dentro de la botella"
+          ]
+        },
+        {
+          "texto_enunciado": "Se han dejado la leche (nevera) _____.",
+          "estimulo_visual": "dibujo de un cartón de leche situado fuera de una nevera abierta",
+          "solucion_correcta": [
+            "fuera de la nevera"
+          ]
+        },
+        {
+          "texto_enunciado": "He dejado el coche (tienda) _____.",
+          "estimulo_visual": "dibujo de un coche situado delante de una tienda",
+          "solucion_correcta": [
+            "delante de la tienda"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo una foto (mesa) _____.",
+          "estimulo_visual": "dibujo de una fotografía colocada encima de una mesa",
+          "solucion_correcta": [
+            "encima de la mesa"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "alrededor de",
+        "debajo de",
+        "delante de",
+        "dentro de",
+        "detrás de",
+        "encima de",
+        "fuera de",
+        "frente a",
+        "junto a",
+        "lejos de"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un banco situado al lado de un cine."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un museo rodeado de muchos árboles."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Unas zapatillas situadas debajo de una cama."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un parque con columpios situado delante de un colegio."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una estación situada frente a un hospital."
+          },
+          {
+            "numero": "6",
+            "descripcion": "La Tierra y Saturno aparecen muy separados."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mosca dentro de una botella."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un cartón de leche situado fuera de una nevera abierta."
+          },
+          {
+            "numero": "9",
+            "descripcion": "Un coche situado delante de una tienda."
+          },
+          {
+            "numero": "10",
+            "descripcion": "Una fotografía colocada encima de una mesa."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "112.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con las preposiciones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "No podemos ir andando a la playa. Está _____ aquí.",
+          "solucion_correcta": [
+            "lejos de"
+          ]
+        },
+        {
+          "texto_enunciado": "La cola es muy larga. Hay casi cien personas _____ nosotros.",
+          "solucion_correcta": [
+            "delante de"
+          ]
+        },
+        {
+          "texto_enunciado": "Eduardo no se sienta nunca _____ Cristina.",
+          "solucion_correcta": [
+            "junto a"
+          ]
+        },
+        {
+          "texto_enunciado": "No hace falta ir en coche. El cine está _____ mi casa.",
+          "solucion_correcta": [
+            "cerca de"
+          ]
+        },
+        {
+          "texto_enunciado": "Las tijeras están _____ uno de esos cajones.",
+          "solucion_correcta": [
+            "dentro de"
+          ]
+        },
+        {
+          "texto_enunciado": "Trae mala suerte pasar por _____ una escalera.",
+          "solucion_correcta": [
+            "debajo de"
+          ]
+        },
+        {
+          "texto_enunciado": "Por favor, no pongáis los pies _____ la mesa.",
+          "solucion_correcta": [
+            "encima de"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay una parada de autobús justo _____ mi casa.",
+          "solucion_correcta": [
+            "enfrente de"
+          ]
+        },
+        {
+          "texto_enunciado": "Ponte _____ mí. Yo he llegado primero.",
+          "solucion_correcta": [
+            "detrás de"
+          ]
+        },
+        {
+          "texto_enunciado": "En las fiestas colocan puestos _____ la plaza.",
+          "solucion_correcta": [
+            "alrededor de"
+          ]
+        },
+        {
+          "texto_enunciado": "Deja el paraguas _____ la casa.",
+          "solucion_correcta": [
+            "fuera de"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "alrededor de",
+        "cerca de",
+        "debajo de",
+        "delante de",
+        "dentro de",
+        "detrás de",
+        "encima de",
+        "enfrente de",
+        "fuera de",
+        "junto a",
+        "lejos de"
+      ]
+    }
+  ]
+}

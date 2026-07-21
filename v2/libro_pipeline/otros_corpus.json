@@ -1,0 +1,1582 @@
+[
+  {
+    "unidad": 2,
+    "titulo": "el libro, la mesa -- Masculino, femenino (2)",
+    "sub": "2.1",
+    "enunciado": "Clasifique los siguientes nombres en la tabla.",
+    "libre": "Clasificación de un banco de 32 nombres en una tabla con dos secciones, «EL...» y «LA...». Cada sección tiene 16 espacios distribuidos en dos columnas de ocho filas. En la primera celda de «EL...» aparece «cine» como modelo y en la primera celda de «LA...» aparece «atención» como modelo; las otras 30 celdas están vacías.",
+    "n_items": 0,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 2,
+    "titulo": "el libro, la mesa -- Masculino, femenino (2)",
+    "sub": "2.2",
+    "enunciado": "Complete las siguientes tablas con los animales correspondientes.",
+    "libre": "Dos tablas paralelas con los encabezados «MASCULINO» y «FEMENINO», cada una con tres filas. El alumno debe completar el miembro correspondiente de cada pareja de animales. Primera tabla: fila 1, «el gato» y «la gata» como modelo impreso; fila 2, celda masculina vacía y «la yegua»; fila 3, «el gallo» y celda femenina vacía. Segunda tabla: fila 1, celda masculina vacía y «la perra»; fila 2, «el león» y celda femenina vacía; fila 3, celda masculina vacía y «la vaca».",
+    "n_items": 0,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 3,
+    "titulo": "libro, libros -- Singular, plural",
+    "sub": "3.2",
+    "enunciado": "Continúe la descripción indicando los objetos que aparecen en el dibujo.",
+    "libre": "Enumeración abierta a partir de un dibujo compartido. Bajo la fórmula «En el dibujo hay...» aparecen diez líneas de respuesta distribuidas en dos columnas de cinco. La primera línea de cada columna está resuelta como modelo: «1 mesa» y «2 botellas»; quedan ocho líneas vacías para continuar la descripción usando las palabras del banco y las cantidades observadas en el dibujo.",
+    "n_items": 0,
+    "banco": true,
+    "grafico": "descripcion_libre"
+  },
+  {
+    "unidad": 8,
+    "titulo": "el señor Alonso, la calle Mayor -- El artículo determinado con nombres propios",
+    "sub": "8.3",
+    "enunciado": "Complete las frases con los nombres y el, la, los, las cuando sea necesario.",
+    "libre": "Se presentan nombres geográficos entre paréntesis y el alumno debe colocarlos en las frases, añadiendo el, la, los o las cuando sea necesario.",
+    "n_items": 12,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 13,
+    "titulo": "un coche pequeño -- Adjetivos calificativos",
+    "sub": "13.3",
+    "enunciado": "Complete las frases con un nombre y un adjetivo del recuadro.",
+    "libre": "Completar cada frase combinando un nombre y un adjetivo de los recuadros y adaptando su concordancia al contexto.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 14,
+    "titulo": "una amiga chilena -- Adjetivos de nacionalidad",
+    "sub": "14.3",
+    "enunciado": "Complete las frases con un nombre y un adjetivo de cada recuadro.",
+    "libre": "Completar cada frase combinando un nombre del primer recuadro y un adjetivo de nacionalidad del segundo recuadro.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 16,
+    "titulo": "tan alto, igual de alto -- Forma comparativa de los adjetivos (2)",
+    "sub": "16.1",
+    "enunciado": "Complete las frases con el comparativo de igualdad y las palabras del recuadro.",
+    "libre": "Completar frases con el comparativo de igualdad usando palabras de un banco y datos contextuales entre paréntesis.",
+    "n_items": 7,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 16,
+    "titulo": "tan alto, igual de alto -- Forma comparativa de los adjetivos (2)",
+    "sub": "16.2",
+    "enunciado": "Complete las comparaciones de igualdad con los adjetivos del recuadro.",
+    "libre": "Completar comparaciones de igualdad con adjetivos seleccionados de un banco de palabras.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 21,
+    "titulo": "uno, otro, cualquiera -- Indefinidos (2)",
+    "sub": "21.2",
+    "enunciado": "Utilice las expresiones del recuadro para completar las siguientes frases.",
+    "libre": "Completar frases seleccionando la expresión adecuada de un recuadro.",
+    "n_items": 5,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 22,
+    "titulo": "mucho, poco, demasiado, suficiente... -- Indefinidos (3)",
+    "sub": "22.2",
+    "enunciado": "Indique si estas cantidades le parecen demasiado o suficiente.",
+    "libre": "Valoración de cantidades: se presenta una situación y el alumno debe escribir una oración indicando si la cantidad le parece excesiva o suficiente.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 28,
+    "titulo": "que, el que, quien... -- Relativos (1)",
+    "sub": "28.2",
+    "enunciado": "Una las dos frases en una sola con que, quien, quienes, el que, la que, los que o las que.",
+    "libre": "Combinación de dos frases en una sola mediante un relativo adecuado, con un inicio de respuesta pautado.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 28,
+    "titulo": "que, el que, quien... -- Relativos (1)",
+    "sub": "28.3",
+    "enunciado": "Escriba las respuestas con las palabras entre paréntesis y el relativo adecuado.",
+    "libre": "Producción de una respuesta completa combinando las frases dadas entre paréntesis mediante el relativo adecuado.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 29,
+    "titulo": "cuyo, donde, cuando... -- Relativos (2)",
+    "sub": "29.1",
+    "enunciado": "Una las frases con cuyo, cuya, cuyos, cuyas como en el ejemplo.",
+    "libre": "Combinación de dos frases en una sola mediante cuyo, cuya, cuyos o cuyas, con una línea para escribir la oración resultante.",
+    "n_items": 10,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 29,
+    "titulo": "cuyo, donde, cuando... -- Relativos (2)",
+    "sub": "29.3",
+    "enunciado": "Complete las frases con donde, adonde o cuando.",
+    "libre": "Completar frases eligiendo uno de los relativos donde, adonde o cuando indicados en el enunciado.",
+    "n_items": 12,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 30,
+    "titulo": "¿quién?, ¿qué?... -- Interrogativos (1)",
+    "sub": "30.1",
+    "enunciado": "Ordene las palabras de las siguientes preguntas.",
+    "libre": "Ordenación de grupos de palabras separados por barras para formar preguntas completas.",
+    "n_items": 11,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 30,
+    "titulo": "¿quién?, ¿qué?... -- Interrogativos (1)",
+    "sub": "30.3",
+    "enunciado": "Formule preguntas sobre la información marcada en cada caso.",
+    "libre": "Formulación de preguntas para solicitar la información subrayada en una oración previa.",
+    "n_items": 11,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 31,
+    "titulo": "¿cuál?, ¿qué?... -- Interrogativos (2)",
+    "sub": "31.1",
+    "enunciado": "Una los interrogativos con el resto de las preguntas.",
+    "libre": "Emparejamiento: se presenta un recuadro con interrogativos y el alumno debe unir cada uno con el resto de la pregunta correspondiente.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 32,
+    "titulo": "¿cuándo?, ¿dónde?... -- Interrogativos (3)",
+    "sub": "32.1",
+    "enunciado": "Ordene las palabras para formar frases.",
+    "libre": "Ordenación de palabras y segmentos desordenados para formar preguntas completas.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 33,
+    "titulo": "¡qué!, ¡cuánto!, ¡cómo!... -- Exclamativos",
+    "sub": "33.1",
+    "enunciado": "Observe las ilustraciones y escriba las exclamaciones oportunas con qué y los nombres y adjetivos dados.",
+    "libre": "Producción de exclamaciones completas a partir de cinco ilustraciones y un banco de nombres y adjetivos.",
+    "n_items": 5,
+    "banco": true,
+    "grafico": "functional_images"
+  },
+  {
+    "unidad": 33,
+    "titulo": "¡qué!, ¡cuánto!, ¡cómo!... -- Exclamativos",
+    "sub": "33.3",
+    "enunciado": "Exprese sus sentimientos ante las siguientes afirmaciones utilizando qué, cómo o cuánto, cuánta...",
+    "libre": "Reformulación de afirmaciones como oraciones exclamativas utilizando qué, cómo, cuánto o cuánta.",
+    "n_items": 12,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 36,
+    "titulo": "Me han regalado un reloj -- Pronombres personales de complemento indirecto",
+    "sub": "36.2",
+    "enunciado": "Responda a estas preguntas siguiendo el modelo.",
+    "libre": "Producción de respuestas negativas completas a partir de preguntas, siguiendo una respuesta modelo.",
+    "n_items": 10,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 36,
+    "titulo": "Me han regalado un reloj -- Pronombres personales de complemento indirecto",
+    "sub": "36.3",
+    "enunciado": "Escriba preguntas y respuestas como en el ejemplo.",
+    "libre": "Producción pautada de preguntas y respuestas completas, modificando los pronombres según los destinatarios indicados entre paréntesis.",
+    "n_items": 9,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 39,
+    "titulo": "ámame, dámelo -- Pronombres de complemento con el imperativo, el infinitivo y el gerundio",
+    "sub": "39.2",
+    "enunciado": "Complete las frases con los infinitivos del recuadro y los pronombres adecuados.",
+    "libre": "Completar frases con un infinitivo elegido de un recuadro y combinarlo con los pronombres adecuados.",
+    "n_items": 9,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 39,
+    "titulo": "ámame, dámelo -- Pronombres de complemento con el imperativo, el infinitivo y el gerundio",
+    "sub": "39.4",
+    "enunciado": "Ordene las palabras y ponga las tildes necesarias.",
+    "libre": "Ordenar grupos de palabras separados por barras para formar oraciones y añadir las tildes necesarias.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 42,
+    "titulo": "soy, eres, es... -- Presente de indicativo de ser",
+    "sub": "42.3",
+    "enunciado": "Escriba frases con soy, eres, es... en forma afirmativa o negativa.",
+    "libre": "Producción de oraciones completas afirmativas o negativas a partir de grupos de palabras separados por barras, utilizando la forma adecuada del verbo ser.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 47,
+    "titulo": "Hay un cine. Está en la calle Mayor -- Contraste entre haber y estar",
+    "sub": "47.2",
+    "enunciado": "Seleccione las formas adecuadas y escriba frases.",
+    "libre": "Producción de frases mediante la combinación de elementos presentados en una tabla: el interrogativo «¿Dónde», una de las formas «hay», «está» o «están» y uno de ocho sintagmas nominales.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": "descripcion_libre"
+  },
+  {
+    "unidad": 50,
+    "titulo": "voy, hago, conozco... -- Presente de indicativo: verbos irregulares (2)",
+    "sub": "50.1",
+    "enunciado": "Utilice los verbos del recuadro para completar las siguientes frases.",
+    "libre": "Completar frases conjugando los verbos proporcionados en un recuadro.",
+    "n_items": 10,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 50,
+    "titulo": "voy, hago, conozco... -- Presente de indicativo: verbos irregulares (2)",
+    "sub": "50.2",
+    "enunciado": "Complete las preguntas y las respuestas con los siguientes verbos: conducir, conocer, dar, hacer, ir, saber o salir.",
+    "libre": "Completar preguntas y respuestas conjugando los verbos indicados en el enunciado.",
+    "n_items": 10,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 51,
+    "titulo": "Mañana voy al médico -- Presente de indicativo: otros usos",
+    "sub": "51.2",
+    "enunciado": "Complete las frases con los verbos del recuadro.",
+    "libre": "Completar frases conjugando y seleccionando los verbos de un recuadro.",
+    "n_items": 10,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 51,
+    "titulo": "Mañana voy al médico -- Presente de indicativo: otros usos",
+    "sub": "51.3",
+    "enunciado": "Escriba las instrucciones completas utilizando las palabras del recuadro.",
+    "libre": "Completar un texto de instrucciones conjugando y seleccionando los verbos de un recuadro.",
+    "n_items": 1,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 51,
+    "titulo": "Mañana voy al médico -- Presente de indicativo: otros usos",
+    "sub": "51.4",
+    "enunciado": "Complete los diálogos con los verbos del recuadro.",
+    "libre": "Completar diálogos conjugando y seleccionando los verbos de un recuadro.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 52,
+    "titulo": "Vivo en México desde 1998 -- Presente para expresar períodos de tiempo",
+    "sub": "52.2",
+    "enunciado": "Exprese la información dada en una frase comenzando con las palabras indicadas y el presente de indicativo en forma afirmativa o negativa.",
+    "libre": "Reformulación de dos frases dadas en una sola frase, comenzando con las palabras indicadas y usando el presente de indicativo en forma afirmativa o negativa.",
+    "n_items": 12,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 52,
+    "titulo": "Vivo en México desde 1998 -- Presente para expresar períodos de tiempo",
+    "sub": "52.3",
+    "enunciado": "Formule preguntas para las respuestas dadas.",
+    "libre": "Producción de una pregunta completa a partir de la respuesta proporcionada.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 53,
+    "titulo": "me levanto -- Verbos con me, te, se...",
+    "sub": "53.2",
+    "enunciado": "Complete las frases con los verbos del recuadro en forma afirmativa o negativa.",
+    "libre": "Selección de verbos pronominales de un recuadro y conjugación en presente, en forma afirmativa o negativa según el contexto de cada frase.",
+    "n_items": 12,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 54,
+    "titulo": "me lavo / lavo -- Contraste entre verbos con y sin me, te, se...",
+    "sub": "54.2",
+    "enunciado": "Complete las frases con los verbos del recuadro.",
+    "libre": "Completar frases conjugando los verbos de un recuadro y eligiendo entre sus formas reflexivas y no reflexivas.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 56,
+    "titulo": "Estoy viendo las noticias -- Presente de estar + gerundio",
+    "sub": "56.2",
+    "enunciado": "Complete las frases con los verbos siguientes.",
+    "libre": "Completar frases y diálogos seleccionando verbos de un banco y conjugándolos en la perífrasis estar + gerundio.",
+    "n_items": 11,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 56,
+    "titulo": "Estoy viendo las noticias -- Presente de estar + gerundio",
+    "sub": "56.3",
+    "enunciado": "¿Qué está pasando en este momento? Escriba frases ciertas.",
+    "libre": "Producción de frases afirmativas o negativas sobre acciones que suceden en este momento a partir de estímulos verbales entre paréntesis.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 58,
+    "titulo": "trabajé, comí, viví -- Pretérito indefinido: verbos regulares",
+    "sub": "58.4",
+    "enunciado": "Utilice los verbos del recuadro para completar la biografía de Isabel Allende.",
+    "libre": "Completar una biografía seleccionando los verbos de un recuadro y conjugándolos en pretérito indefinido.",
+    "n_items": 1,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 59,
+    "titulo": "durmió, leyó, hizo... -- Pretérito indefinido: verbos irregulares",
+    "sub": "59.2",
+    "enunciado": "Utilice los siguientes verbos para completar estas frases sobre la historia de América Latina.",
+    "libre": "Completar frases eligiendo verbos de un banco y conjugándolos en la forma correspondiente.",
+    "n_items": 9,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 59,
+    "titulo": "durmió, leyó, hizo... -- Pretérito indefinido: verbos irregulares",
+    "sub": "59.3",
+    "enunciado": "Complete las conversaciones con los verbos correspondientes.",
+    "libre": "Completar conversaciones eligiendo y conjugando los verbos de dos bancos de palabras, uno para cada diálogo.",
+    "n_items": 2,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 60,
+    "titulo": "he trabajado -- Pretérito perfecto de indicativo (1)",
+    "sub": "60.3",
+    "enunciado": "Escriba las noticias correspondientes a los titulares dados. Utilice los verbos del recuadro.",
+    "libre": "Producción de una noticia en pretérito perfecto a partir de un titular y de un verbo seleccionado de un recuadro.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 61,
+    "titulo": "He viajado mucho -- Pretérito perfecto de indicativo (2)",
+    "sub": "61.2",
+    "enunciado": "Escriba frases con estas palabras.",
+    "libre": "Producción de frases completas a partir de grupos de palabras y verbos en infinitivo separados por barras.",
+    "n_items": 5,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 61,
+    "titulo": "He viajado mucho -- Pretérito perfecto de indicativo (2)",
+    "sub": "61.3",
+    "enunciado": "Forme frases uniendo los elementos de las dos columnas.",
+    "libre": "Unión de consecuencias y causas presentadas en dos columnas para producir frases completas con «porque».",
+    "n_items": 4,
+    "banco": false,
+    "grafico": "descripcion_libre"
+  },
+  {
+    "unidad": 61,
+    "titulo": "He viajado mucho -- Pretérito perfecto de indicativo (2)",
+    "sub": "61.4",
+    "enunciado": "Laura y Gabriel se van de vacaciones la semana que viene. Escriba las preguntas de Gabriel sobre los preparativos y las respuestas de Laura.",
+    "libre": "Producción de diálogos de pregunta y respuesta a partir de una acción indicada entre paréntesis.",
+    "n_items": 5,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 62,
+    "titulo": "he trabajado / trabajé -- Contraste entre pretérito perfecto y pretérito indefinido",
+    "sub": "62.3",
+    "enunciado": "Arnaldo y Maite están pasando una semana de vacaciones en España. Complete el diálogo escribiendo las preguntas y respuestas como en el ejemplo.",
+    "libre": "Producción de preguntas y respuestas de un diálogo a partir de verbos, lugares y referencias temporales entre paréntesis, siguiendo un ejemplo.",
+    "n_items": 5,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 63,
+    "titulo": "trabajaba, comía, vivía -- Pretérito imperfecto",
+    "sub": "63.2",
+    "enunciado": "Complete las frases sobre las antiguas civilizaciones de América.",
+    "libre": "Completar frases con verbos seleccionados de un banco y conjugados en pretérito imperfecto.",
+    "n_items": 7,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 63,
+    "titulo": "trabajaba, comía, vivía -- Pretérito imperfecto",
+    "sub": "63.3",
+    "enunciado": "Complete el texto utilizando los verbos del recuadro.",
+    "libre": "Completar un texto narrativo con verbos seleccionados de un banco y conjugados en pretérito imperfecto.",
+    "n_items": 1,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 66,
+    "titulo": "había trabajado -- Pretérito pluscuamperfecto",
+    "sub": "66.1",
+    "enunciado": "Una las dos frases.",
+    "libre": "Unión de dos frases mediante la reescritura de una oración completa que expresa la relación temporal entre ambas acciones.",
+    "n_items": 5,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 66,
+    "titulo": "había trabajado -- Pretérito pluscuamperfecto",
+    "sub": "66.2",
+    "enunciado": "Forme frases uniendo las acciones o situaciones de la izquierda con sus consecuencias.",
+    "libre": "Emparejamiento de una lista de acciones o situaciones con otra lista de consecuencias y posterior escritura de frases completas que unen cada pareja.",
+    "n_items": 27,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 67,
+    "titulo": "trabajaré, comeré, viviré -- Futuro simple: verbos regulares",
+    "sub": "67.3",
+    "enunciado": "Complete las predicciones del horóscopo.",
+    "libre": "Completar predicciones del horóscopo seleccionando verbos de un banco de palabras y conjugándolos en futuro simple; cada predicción está acompañada por el glifo del signo zodiacal correspondiente.",
+    "n_items": 4,
+    "banco": true,
+    "grafico": "functional_images"
+  },
+  {
+    "unidad": 68,
+    "titulo": "habré, podré... -- Futuro simple: verbos irregulares",
+    "sub": "68.1",
+    "enunciado": "Complete las frases con el futuro simple de los verbos del recuadro.",
+    "libre": "Completar frases conjugando en futuro simple los verbos proporcionados en un banco de palabras.",
+    "n_items": 7,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 68,
+    "titulo": "habré, podré... -- Futuro simple: verbos irregulares",
+    "sub": "68.2",
+    "enunciado": "Complete estas predicciones. ¿Cómo será la vida dentro de cincuenta años? Escriba frases con las palabras dadas.",
+    "libre": "Escribir predicciones completas en futuro a partir de grupos de palabras separados por barras.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 69,
+    "titulo": "voy a salir... -- Presente de ir a + infinitivo",
+    "sub": "69.2",
+    "enunciado": "¿Qué van a hacer? Complete las frases con los verbos del recuadro.",
+    "libre": "Completar frases con la perífrasis ir a + infinitivo utilizando los verbos de un banco de palabras.",
+    "n_items": 7,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 70,
+    "titulo": "haré / hago / voy a hacer -- Contraste entre las diversas formas de hablar del futuro",
+    "sub": "70.3",
+    "enunciado": "Complete las frases con el futuro simple o el presente de indicativo de los verbos del recuadro.",
+    "libre": "Completar frases seleccionando un verbo de un banco de palabras y conjugándolo en futuro simple o presente de indicativo.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 71,
+    "titulo": "trabajaría, comería, viviría -- Condicional simple: verbos regulares",
+    "sub": "71.4",
+    "enunciado": "Complete los consejos con los verbos del recuadro.",
+    "libre": "Completar consejos seleccionando los verbos de un recuadro y conjugándolos en la forma adecuada.",
+    "n_items": 7,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 72,
+    "titulo": "habría, podría... -- Condicional simple: verbos irregulares",
+    "sub": "72.4",
+    "enunciado": "Haga las siguientes peticiones de una manera educada.",
+    "libre": "Formulación de peticiones completas de manera educada a partir de un destinatario indicado y de una pregunta con el verbo en infinitivo entre paréntesis.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 73,
+    "titulo": "Abre la ventana -- Imperativo afirmativo: verbos regulares",
+    "sub": "73.1",
+    "enunciado": "Escriba los consejos del médico. Utilice los verbos del recuadro.",
+    "libre": "Completar consejos médicos conjugando en imperativo los verbos de un recuadro; aparece una ilustración de un médico con un paciente.",
+    "n_items": 5,
+    "banco": true,
+    "grafico": "functional_images"
+  },
+  {
+    "unidad": 75,
+    "titulo": "Cierra la ventana -- Imperativo: verbos irregulares (1)",
+    "sub": "75.1",
+    "enunciado": "Complete la nota con instrucciones a un amigo. Utilice los verbos del recuadro.",
+    "libre": "Completar una nota con formas de imperativo obtenidas a partir de un banco de verbos en infinitivo.",
+    "n_items": 6,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 76,
+    "titulo": "Pon la mesa -- Imperativo: verbos irregulares (2)",
+    "sub": "76.2",
+    "enunciado": "Complete las instrucciones con los verbos del recuadro en forma afirmativa o negativa.",
+    "libre": "Completar una lista de instrucciones con los verbos de un recuadro, conjugados en forma afirmativa o negativa.",
+    "n_items": 6,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 79,
+    "titulo": "trabaje, coma, viva -- Presente de subjuntivo: verbos regulares",
+    "sub": "79.3",
+    "enunciado": "Una las frases con que como en el ejemplo. Haga los cambios necesarios.",
+    "libre": "Se presentan dos frases independientes que el alumno debe unir con «que», realizando los cambios verbales necesarios y escribiendo la oración resultante.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 80,
+    "titulo": "quiera, juegue... -- Presente de subjuntivo: verbos irregulares (1)",
+    "sub": "80.2",
+    "enunciado": "Una las dos frases con que. Haga los cambios necesarios.",
+    "libre": "Unión de dos frases mediante que, realizando los cambios verbales y sintácticos necesarios y escribiendo una nueva oración completa.",
+    "n_items": 10,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 81,
+    "titulo": "conozca, diga, vaya... -- Presente de subjuntivo: verbos irregulares (2)",
+    "sub": "81.2",
+    "enunciado": "Una las dos frases con que. Haga los cambios necesarios.",
+    "libre": "Reescritura mediante la unión de dos frases con «que», realizando los cambios gramaticales necesarios.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 82,
+    "titulo": "trabajara, comiera, viviera -- Pretérito imperfecto de subjuntivo: verbos regulares",
+    "sub": "82.1",
+    "enunciado": "¿Qué diría? Escriba frases con quién y el pretérito imperfecto de subjuntivo del verbo adecuado.",
+    "libre": "Producción de una frase exclamativa con quién y el pretérito imperfecto de subjuntivo a partir de una situación escrita.",
+    "n_items": 5,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 82,
+    "titulo": "trabajara, comiera, viviera -- Pretérito imperfecto de subjuntivo: verbos regulares",
+    "sub": "82.2",
+    "enunciado": "Complete las frases con los verbos del recuadro en imperfecto de subjuntivo.",
+    "libre": "Completar frases conjugando en imperfecto de subjuntivo los verbos proporcionados en un banco de palabras.",
+    "n_items": 12,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 82,
+    "titulo": "trabajara, comiera, viviera -- Pretérito imperfecto de subjuntivo: verbos regulares",
+    "sub": "82.3",
+    "enunciado": "Una las dos oraciones con que. Haga los cambios necesarios.",
+    "libre": "Unión y reescritura de dos oraciones mediante que, realizando los cambios verbales necesarios.",
+    "n_items": 12,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 83,
+    "titulo": "fuera, tuviera... -- Pretérito imperfecto de subjuntivo: verbos irregulares",
+    "sub": "83.1",
+    "enunciado": "¿Qué diría? Escriba frases con quien y el pretérito imperfecto de subjuntivo del verbo adecuado.",
+    "libre": "Producción de frases a partir de situaciones descritas, usando quien y el pretérito imperfecto de subjuntivo del verbo adecuado.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 83,
+    "titulo": "fuera, tuviera... -- Pretérito imperfecto de subjuntivo: verbos irregulares",
+    "sub": "83.2",
+    "enunciado": "Complete las frases con los verbos del recuadro en imperfecto de subjuntivo.",
+    "libre": "Completar oraciones seleccionando verbos de un recuadro y conjugándolos en imperfecto de subjuntivo.",
+    "n_items": 12,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 83,
+    "titulo": "fuera, tuviera... -- Pretérito imperfecto de subjuntivo: verbos irregulares",
+    "sub": "83.3",
+    "enunciado": "Una las dos oraciones con que. Haga los cambios necesarios.",
+    "libre": "Unión y reescritura de dos oraciones en una sola mediante que, realizando los cambios verbales y sintácticos necesarios.",
+    "n_items": 14,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 84,
+    "titulo": "Quiero que me ayudes -- Expresión de deseos",
+    "sub": "84.2",
+    "enunciado": "Escriba frases como en el ejemplo utilizando el presente o el imperfecto de subjuntivo.",
+    "libre": "Producción de una oración subordinada a partir de un sujeto y una acción presentados entre paréntesis, utilizando el presente o el imperfecto de subjuntivo.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 84,
+    "titulo": "Quiero que me ayudes -- Expresión de deseos",
+    "sub": "84.3",
+    "enunciado": "¿Qué diría en estas situaciones? Complete las frases con los verbos del recuadro.",
+    "libre": "Completar fórmulas de buenos deseos conjugando y seleccionando verbos de un recuadro.",
+    "n_items": 6,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 84,
+    "titulo": "Quiero que me ayudes -- Expresión de deseos",
+    "sub": "84.4",
+    "enunciado": "¿Qué diría? Escriba frases con ¡ojalá!",
+    "libre": "Producción de deseos con «¡ojalá!» a partir de situaciones descritas mediante texto.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 86,
+    "titulo": "Me gusta que venga a casa -- Expresión de emociones, sentimientos y valoraciones",
+    "sub": "86.1",
+    "enunciado": "Una las frases. Haga los cambios necesarios.",
+    "libre": "Combinación de dos frases en una sola oración, realizando los cambios gramaticales necesarios.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 86,
+    "titulo": "Me gusta que venga a casa -- Expresión de emociones, sentimientos y valoraciones",
+    "sub": "86.3",
+    "enunciado": "Una las frases. Haga los cambios necesarios.",
+    "libre": "Combinación de dos frases en una sola oración, realizando los cambios gramaticales necesarios.",
+    "n_items": 10,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 86,
+    "titulo": "Me gusta que venga a casa -- Expresión de emociones, sentimientos y valoraciones",
+    "sub": "86.4",
+    "enunciado": "Está comentando algunos aspectos de un país que está visitando. Escriba frases como en el ejemplo.",
+    "libre": "Reformulación de una afirmación como una oración subordinada que completa una valoración o reacción dada.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 87,
+    "titulo": "Creo que es... / No creo que sea... -- Contraste entre indicativo y subjuntivo",
+    "sub": "87.3",
+    "enunciado": "Complete en forma afirmativa o negativa. Utilice las expresiones del recuadro.",
+    "libre": "Completar frases en forma afirmativa o negativa conjugando las expresiones proporcionadas en un recuadro.",
+    "n_items": 5,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 87,
+    "titulo": "Creo que es... / No creo que sea... -- Contraste entre indicativo y subjuntivo",
+    "sub": "87.4",
+    "enunciado": "Complete las frases con los verbos del recuadro en indicativo o subjuntivo.",
+    "libre": "Completar frases conjugando los verbos de un recuadro en indicativo o subjuntivo según el contexto.",
+    "n_items": 6,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 88,
+    "titulo": "Dice que vive... Dijo que vivía... -- Estilo indirecto (1)",
+    "sub": "88.1",
+    "enunciado": "Transmita las informaciones telefónicas. Haga los cambios necesarios.",
+    "libre": "Transformación de mensajes telefónicos en estilo directo a estilo indirecto, haciendo los cambios de persona, tiempo y referencias necesarios.",
+    "n_items": 5,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 88,
+    "titulo": "Dice que vive... Dijo que vivía... -- Estilo indirecto (1)",
+    "sub": "88.3",
+    "enunciado": "La semana pasada Leo se encontró con Germán, un amigo al que no veía hacía mucho tiempo. Lea las informaciones. Ha pasado una semana. Leo le está contando a una amiga común lo que le dijo Germán. Escriba las frases con los verbos entre paréntesis.",
+    "libre": "Conversión de informaciones numeradas en estilo directo a un relato en estilo indirecto, empleando en cada frase el verbo de comunicación indicado entre paréntesis y con apoyo de una conversación ilustrada.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": "functional_images"
+  },
+  {
+    "unidad": 89,
+    "titulo": "Me preguntó dónde vivía -- Estilo indirecto (2)",
+    "sub": "89.1",
+    "enunciado": "Complete los mensajes del contestador automático. Use quiero saber.",
+    "libre": "Transformación de preguntas directas en mensajes de estilo indirecto para un contestador automático usando «quiero saber».",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 89,
+    "titulo": "Me preguntó dónde vivía -- Estilo indirecto (2)",
+    "sub": "89.2",
+    "enunciado": "Complete las frases con el verbo entre paréntesis en el tiempo más adecuado.",
+    "libre": "Transformación de preguntas directas entre paréntesis en preguntas de estilo indirecto, ajustando los tiempos verbales.",
+    "n_items": 10,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 90,
+    "titulo": "Me pidió que le ayudara -- Estilo indirecto (3)",
+    "sub": "90.1",
+    "enunciado": "Ponga las órdenes y peticiones en estilo indirecto, comenzando con dice, me ha dicho o me ha pedido.",
+    "libre": "Transformación de órdenes y peticiones de estilo directo a estilo indirecto a partir de una persona indicada entre paréntesis.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 90,
+    "titulo": "Me pidió que le ayudara -- Estilo indirecto (3)",
+    "sub": "90.2",
+    "enunciado": "Complete las respuestas con los verbos del recuadro en el tiempo adecuado.",
+    "libre": "Completar diálogos conjugando en el tiempo adecuado los verbos ofrecidos en un recuadro.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 90,
+    "titulo": "Me pidió que le ayudara -- Estilo indirecto (3)",
+    "sub": "90.3",
+    "enunciado": "Complete las frases con las formas del recuadro.",
+    "libre": "Completar frases seleccionando las formas verbales ofrecidas en un recuadro.",
+    "n_items": 6,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 90,
+    "titulo": "Me pidió que le ayudara -- Estilo indirecto (3)",
+    "sub": "90.4",
+    "enunciado": "Complete los diálogos con las expresiones del recuadro.",
+    "libre": "Completar diálogos transformando y usando las expresiones ofrecidas en un recuadro.",
+    "n_items": 6,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 91,
+    "titulo": "Si ganan serán campeones -- Condicionales (1)",
+    "sub": "91.1",
+    "enunciado": "Complete las condiciones con las expresiones del recuadro en forma afirmativa o negativa.",
+    "libre": "Completar condiciones con expresiones de un banco, conjugándolas en forma afirmativa o negativa.",
+    "n_items": 7,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 91,
+    "titulo": "Si ganan serán campeones -- Condicionales (1)",
+    "sub": "91.2",
+    "enunciado": "Complete las frases con las consecuencias del recuadro en forma afirmativa o negativa.",
+    "libre": "Completar consecuencias con expresiones de un banco, conjugándolas en forma afirmativa o negativa.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 91,
+    "titulo": "Si ganan serán campeones -- Condicionales (1)",
+    "sub": "91.3",
+    "enunciado": "Una condiciones y consecuencias mediante frases con si.",
+    "libre": "Relacionar cada condición y su consecuencia presentadas por parejas en una tabla y escribir una frase completa con si.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": "descripcion_libre"
+  },
+  {
+    "unidad": 91,
+    "titulo": "Si ganan serán campeones -- Condicionales (1)",
+    "sub": "91.4",
+    "enunciado": "Complete los diálogos con los verbos dados.",
+    "libre": "Completar diálogos conjugando los verbos dados en los recuadros correspondientes.",
+    "n_items": 2,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 92,
+    "titulo": "Si encontrara trabajo, me casaría -- Condicionales (2)",
+    "sub": "92.3",
+    "enunciado": "Una las frases.",
+    "libre": "Ejercicio de emparejamiento en dos columnas: se debe unir cada comienzo de frase condicional numerado con una continuación identificada mediante una letra.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 93,
+    "titulo": "Viajar es estupendo -- Infinitivo",
+    "sub": "93.2",
+    "enunciado": "Una las frases como en el ejemplo. Haga los cambios necesarios.",
+    "libre": "Reescritura mediante la unión de dos frases: se presentan dos oraciones independientes y el alumno debe combinarlas en una sola oración usando un infinitivo y haciendo los cambios necesarios.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 93,
+    "titulo": "Viajar es estupendo -- Infinitivo",
+    "sub": "93.3",
+    "enunciado": "Complete las frases con los verbos del recuadro y a, de, en, con en caso necesario.",
+    "libre": "Completar frases seleccionando un verbo en infinitivo de un recuadro y añadiendo, cuando sea necesario, una de las preposiciones a, de, en o con.",
+    "n_items": 10,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 94,
+    "titulo": "Me puse a trabajar. Voy a trabajar -- Expresiones con infinitivo (1)",
+    "sub": "94.2",
+    "enunciado": "Vuelva a escribir las frases con dejar de / no dejar de en el tiempo adecuado.",
+    "libre": "Reescritura completa de oraciones utilizando dejar de o no dejar de conjugado en el tiempo adecuado. Cada oración de partida va seguida de una línea para escribir la nueva oración.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 94,
+    "titulo": "Me puse a trabajar. Voy a trabajar -- Expresiones con infinitivo (1)",
+    "sub": "94.3",
+    "enunciado": "Vuelva a escribir las frases con acabar de en el tiempo adecuado.",
+    "libre": "Reescritura completa de oraciones utilizando acabar de conjugado en el tiempo adecuado. Cada oración de partida va seguida de una línea para escribir la nueva oración.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 94,
+    "titulo": "Me puse a trabajar. Voy a trabajar -- Expresiones con infinitivo (1)",
+    "sub": "94.4",
+    "enunciado": "Utilice la forma adecuada de ir a + los infinitivos del recuadro.",
+    "libre": "Completar oraciones con la forma adecuada de ir a y uno de los infinitivos proporcionados en un recuadro. Cada infinitivo se utiliza para formar una perífrasis verbal adecuada al contexto.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 97,
+    "titulo": "Quiero ir / Quiero que vayas -- Verbos seguidos de infinitivo o de subjuntivo",
+    "sub": "97.3",
+    "enunciado": "Complete las frases con los verbos del recuadro en infinitivo, presente o pretérito imperfecto de subjuntivo.",
+    "libre": "Completar frases seleccionando un verbo de un recuadro y escribiéndolo en infinitivo, presente o pretérito imperfecto de subjuntivo, según el contexto.",
+    "n_items": 7,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 97,
+    "titulo": "Quiero ir / Quiero que vayas -- Verbos seguidos de infinitivo o de subjuntivo",
+    "sub": "97.4",
+    "enunciado": "Escriba frases con las palabras dadas.",
+    "libre": "Producción de una oración completa a partir de palabras o segmentos dados y separados por barras oblicuas; cada ítem incluye una línea para escribir la frase resultante.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 98,
+    "titulo": "trabajando, comiendo, viviendo -- Gerundio",
+    "sub": "98.4",
+    "enunciado": "Complete las frases con la forma adecuada de seguir o llevar y el gerundio de los verbos del recuadro.",
+    "libre": "Completar una lista lineal de frases con la forma adecuada de seguir o llevar y el gerundio de uno de los verbos proporcionados en un banco de palabras; un verbo del banco puede aparecer repetido y un ítem contiene dos huecos.",
+    "n_items": 6,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 99,
+    "titulo": "trabajado, comido, vivido -- Participio",
+    "sub": "99.1",
+    "enunciado": "Complete las frases con la forma correcta de los participios de los verbos del recuadro.",
+    "libre": "Completar una lista de frases con la forma correcta del participio de uno de los verbos proporcionados en un recuadro.",
+    "n_items": 12,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 99,
+    "titulo": "trabajado, comido, vivido -- Participio",
+    "sub": "99.2",
+    "enunciado": "Complete el texto con los participios de los verbos del recuadro.",
+    "libre": "Completar los doce huecos de una carta con los participios de los verbos proporcionados en un recuadro.",
+    "n_items": 1,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 100,
+    "titulo": "aquí, allí, abajo... -- Adverbios de lugar",
+    "sub": "100.3",
+    "enunciado": "Ordene las palabras y complete las frases.",
+    "libre": "Ejercicio lineal de ordenación: cada ítem presenta tres segmentos desordenados separados por barras y, a la derecha, el comienzo de la frase. El alumno debe ordenar los segmentos y completar en un único espacio la parte restante de la oración.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 101,
+    "titulo": "hoy, ayer, entonces, luego... -- Adverbios de tiempo (1)",
+    "sub": "101.2",
+    "enunciado": "Ordene las palabras y complete las frases.",
+    "libre": "Ordenación de grupos de palabras separados por barras para formar frases completas. En varios ítems aparece impreso el comienzo de la frase ordenada y el alumno debe completarla en la línea.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 102,
+    "titulo": "ya, todavía, aún -- Adverbios de tiempo (2)",
+    "sub": "102.2",
+    "enunciado": "Lea las respuestas y escriba las preguntas.",
+    "libre": "Construcción de preguntas a partir de respuestas dadas. Se presentan cinco diálogos: la pregunta completa debe escribirse en un único hueco situado entre los signos de interrogación y cada respuesta funciona como estímulo textual.",
+    "n_items": 5,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 103,
+    "titulo": "siempre, de vez en cuando, a veces... -- Adverbios y expresiones de frecuencia",
+    "sub": "103.2",
+    "enunciado": "Vuelva a escribir las frases añadiendo la expresión entre paréntesis en el lugar indicado. Haga los cambios necesarios.",
+    "libre": "Reescritura completa de oraciones añadiendo la expresión de frecuencia dada entre paréntesis en la posición señalada por una flecha vertical, con los cambios necesarios. Cada fila presenta una oración de origen, una flecha que marca el punto de inserción y una línea para escribir la oración resultante.",
+    "n_items": 5,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 103,
+    "titulo": "siempre, de vez en cuando, a veces... -- Adverbios y expresiones de frecuencia",
+    "sub": "103.3",
+    "enunciado": "Coloque las expresiones del recuadro por orden, de mayor a menor frecuencia.",
+    "libre": "Ordenación de un banco de siete expresiones temporales en una escala de mayor a menor frecuencia. La tabla de respuesta tiene seis niveles numerados: los niveles 1, 2, 4, 5 y 6 contienen una sola posición, mientras que el nivel 3 contiene dos posiciones separadas por una barra porque dos expresiones tienen la misma frecuencia. Una flecha vertical va del signo positivo en la parte superior al signo negativo en la parte inferior.",
+    "n_items": 6,
+    "banco": true,
+    "grafico": "descripcion_libre"
+  },
+  {
+    "unidad": 104,
+    "titulo": "muy, mucho, bastante... -- Adverbios de cantidad",
+    "sub": "104.3",
+    "enunciado": "Complete con algo, bastante, demasiado, mucho, nada o poco.",
+    "libre": "Completar una lista lineal de frases eligiendo, según el contexto, entre los cuantificadores algo, bastante, demasiado, mucho, nada o poco indicados en el enunciado; algunas frases contienen dos huecos.",
+    "n_items": 10,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 105,
+    "titulo": "muy, mucho, muchos, -ísimo... -- Contraste entre formas de expresar grados de cualidad o cantidad",
+    "sub": "105.1",
+    "enunciado": "Vuelva a escribir las frases añadiendo muy o mucho.",
+    "libre": "Lista de frases base que deben reescribirse completas en una línea de respuesta añadiendo «muy» o «mucho» en el lugar adecuado.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 106,
+    "titulo": "bien, fácilmente... -- Adverbios de modo",
+    "sub": "106.3",
+    "enunciado": "Complete las frases con las palabras del recuadro. Haga los cambios necesarios.",
+    "libre": "Completar una lista lineal de frases seleccionando palabras de un recuadro y realizando los cambios morfológicos necesarios.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 107,
+    "titulo": "más rápido, mejor, peor... -- Comparación de adverbios",
+    "sub": "107.1",
+    "enunciado": "Complete las frases con la forma comparativa de superioridad o igualdad de los adverbios del recuadro.",
+    "libre": "Completar frases construyendo comparativos de superioridad o igualdad a partir de un banco de adverbios.",
+    "n_items": 9,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 107,
+    "titulo": "más rápido, mejor, peor... -- Comparación de adverbios",
+    "sub": "107.3",
+    "enunciado": "Vuelva a escribir la frase con el comparativo de igualdad.",
+    "libre": "Reescritura completa de oraciones comparativas de inferioridad para expresarlas mediante el comparativo de igualdad; cada oración base va seguida de una línea para escribir la nueva frase.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 108,
+    "titulo": "no, nunca, jamás... -- Adverbios de negación",
+    "sub": "108.1",
+    "enunciado": "Haga negativas con no las frases siguientes.",
+    "libre": "Transformación oracional: se presenta una frase afirmativa y el alumno debe reescribirla completa en forma negativa usando no.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 108,
+    "titulo": "no, nunca, jamás... -- Adverbios de negación",
+    "sub": "108.2",
+    "enunciado": "Complete las respuestas con las palabras entre paréntesis. Use no solo en caso necesario.",
+    "libre": "Completar respuestas reorganizando y conjugando las palabras proporcionadas entre paréntesis, añadiendo no únicamente cuando sea necesario.",
+    "n_items": 10,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 108,
+    "titulo": "no, nunca, jamás... -- Adverbios de negación",
+    "sub": "108.3",
+    "enunciado": "Escriba las frases colocando nunca o jamás en el lugar indicado. Haga los cambios necesarios.",
+    "libre": "Reescritura oracional guiada: una flecha señala el lugar donde debe colocarse nunca o jamás, indicado entre paréntesis, y el alumno debe hacer los cambios gramaticales necesarios.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 108,
+    "titulo": "no, nunca, jamás... -- Adverbios de negación",
+    "sub": "108.4",
+    "enunciado": "Una las dos frases con tampoco.",
+    "libre": "Combinación de oraciones: se presentan dos frases negativas y el alumno debe unirlas en una sola oración usando tampoco.",
+    "n_items": 5,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 109,
+    "titulo": "yo sí, yo no, yo también, yo tampoco -- Expresión de coincidencia o no coincidencia",
+    "sub": "109.1",
+    "enunciado": "Exprese coincidencia. Complete las respuestas con también o tampoco.",
+    "libre": "Lista lineal de diálogos con un hueco en cada respuesta; el alumno debe completarlos eligiendo entre «también» y «tampoco», opciones indicadas globalmente en el enunciado.",
+    "n_items": 9,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 109,
+    "titulo": "yo sí, yo no, yo también, yo tampoco -- Expresión de coincidencia o no coincidencia",
+    "sub": "109.2",
+    "enunciado": "Exprese falta de coincidencia. Complete las frases con sí o no.",
+    "libre": "Lista lineal de diálogos con un hueco en cada respuesta; el alumno debe expresar falta de coincidencia eligiendo entre «sí» y «no», opciones indicadas globalmente en el enunciado.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 109,
+    "titulo": "yo sí, yo no, yo también, yo tampoco -- Expresión de coincidencia o no coincidencia",
+    "sub": "109.3",
+    "enunciado": "Complete los diálogos expresando coincidencia o falta de coincidencia de acuerdo con la siguiente clave: = coincidencia, – diferencia.",
+    "libre": "Lista lineal de diálogos que deben completarse con expresiones de coincidencia o diferencia; cada hueco va precedido por una indicación entre paréntesis con la persona que debe responder y el símbolo «=» o «–».",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 109,
+    "titulo": "yo sí, yo no, yo también, yo tampoco -- Expresión de coincidencia o no coincidencia",
+    "sub": "109.4",
+    "enunciado": "Complete las respuestas de acuerdo con la siguiente clave: (√) respuesta afirmativa, (x) respuesta negativa.",
+    "libre": "Lista lineal de preguntas con una o varias respuestas incompletas; cada hueco está precedido por la clave «(√)» para respuesta afirmativa o «(x)» para respuesta negativa.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 110,
+    "titulo": "a las cinco, por la mañana... -- Preposiciones (1)",
+    "sub": "110.1",
+    "enunciado": "Una las columnas con las preposiciones adecuadas.",
+    "libre": "Ejercicio de emparejamiento en tres columnas: hay que unir cada uno de los nueve inicios de frase de la columna izquierda con una preposición del recuadro central y con una de las nueve terminaciones de la columna derecha. El recuadro central contiene «a», «de», «en» y «por». Las terminaciones de la derecha son: «octubre.», «la noche. Se duerme.», «la mañana.», «invierno.», «este momento.», «la tarde, cuando estábamos comiendo.», «las siete.», «el año 1987.» y «mediodía para tomar algo.».",
+    "n_items": 9,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 110,
+    "titulo": "a las cinco, por la mañana... -- Preposiciones (1)",
+    "sub": "110.3",
+    "enunciado": "Complete las frases con de, desde, a, hasta, dentro de, durante y las expresiones entre paréntesis.",
+    "libre": "Ejercicio de producción escrita pautada: cada ítem presenta una frase y, entre paréntesis, una o dos expresiones temporales que deben incorporarse al completar o reformular la frase mediante «de», «desde», «a», «hasta», «dentro de» o «durante». Cada ítem dispone de una línea larga para escribir la respuesta.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 110,
+    "titulo": "a las cinco, por la mañana... -- Preposiciones (1)",
+    "sub": "110.4",
+    "enunciado": "Complete las frases con antes de, durante o después de y las expresiones del recuadro.",
+    "libre": "Ejercicio de completar frases combinando una de las expresiones «antes de», «durante» o «después de» con una expresión temporal elegida del recuadro. El recuadro contiene seis expresiones y hay seis frases con un hueco final.",
+    "n_items": 6,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 112,
+    "titulo": "encima de la mesa, dentro de la caja... -- Preposiciones (3)",
+    "sub": "112.1",
+    "enunciado": "Ordene las palabras para formar frases. Haga los cambios necesarios.",
+    "libre": "Ordenación de grupos de palabras separados por barras para formar una frase completa, realizando los cambios gramaticales necesarios. Cada ítem presenta los segmentos desordenados y una línea para escribir la oración resultante.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 112,
+    "titulo": "encima de la mesa, dentro de la caja... -- Preposiciones (3)",
+    "sub": "112.3",
+    "enunciado": "Complete las frases con las preposiciones del recuadro.",
+    "libre": "Completar frases seleccionando para cada hueco una preposición o locución prepositiva de un recuadro compartido. El banco contiene once expresiones y cada frase tiene un único hueco.",
+    "n_items": 11,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 113,
+    "titulo": "a Pedro, de Elvira, en autobús... -- Preposiciones (4)",
+    "sub": "113.4",
+    "enunciado": "Complete las frases con las preposiciones a, de, en o sobre y las palabras del recuadro.",
+    "libre": "Lista lineal de frases con un hueco. En cada frase se debe combinar una de las palabras o expresiones del recuadro con una preposición elegida entre a, de, en o sobre.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 114,
+    "titulo": "para ti, por amor... -- Preposiciones (5)",
+    "sub": "114.2",
+    "enunciado": "Una las frases con las preposiciones adecuadas.",
+    "libre": "Ejercicio de asociación en tres partes. Hay que unir cada inicio de frase de la columna izquierda con una de las preposiciones del recuadro central y con un final de la columna derecha. Inicios: 1. «Quiero un café»; 2. «No os podéis ir»; 3. «¿Te gustan las patatas»; 4. «No puedes cortar esa tela»; 5. «No veo ese cartel»; 6. «Mañana hay una manifestación»; 7. «No podemos pintar el techo»; 8. «Es pesado conducir». El recuadro central contiene «con», «contra» y «sin». Finales: a. «la pena de muerte.»; b. «escalera.»; c. «tijeras.»; d. «carne?»; e. «lluvia.»; f. «leche.»; g. «permiso.»; h. «gafas.». El primer ejemplo aparece unido mediante flechas: «Quiero un café» + «con» + «leche.».",
+    "n_items": 0,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 114,
+    "titulo": "para ti, por amor... -- Preposiciones (5)",
+    "sub": "114.3",
+    "enunciado": "Complete las frases con por, para, sin, con, contra o según.",
+    "libre": "Lista lineal de frases con un hueco en cada una. El alumno debe completar los huecos eligiendo entre las preposiciones indicadas en el enunciado: «por», «para», «sin», «con», «contra» o «según». Las opciones no aparecen en un recuadro ni incrustadas individualmente en las frases.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 114,
+    "titulo": "para ti, por amor... -- Preposiciones (5)",
+    "sub": "114.4",
+    "enunciado": "Complete las frases con las preposiciones y los nombres del recuadro.",
+    "libre": "Lista lineal de frases que deben completarse combinando una preposición y un nombre procedentes de dos recuadros independientes. El primer recuadro contiene las preposiciones «con», «contra», «para», «por» y «sin». El segundo contiene los nombres «abrigo», «avión», «correo», «diccionario», «el puente», «el sida», «la habitación», «los ojos» y «un martillo». En el primer ítem aparece impreso como ejemplo «por correo», y «correo» está tachado en el recuadro.",
+    "n_items": 9,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 115,
+    "titulo": "Pienso en ti -- Verbos con preposiciones",
+    "sub": "115.1",
+    "enunciado": "Una las dos columnas con las preposiciones adecuadas.",
+    "libre": "Ejercicio de emparejamiento: hay que unir ocho comienzos de frase de la columna izquierda con ocho finales de la columna derecha, intercalando una de las preposiciones del recuadro central. Columna izquierda: «Valentín se dedica», «Sara no cree», «Siempre hemos soñado», «Arturo se parece», «Alba se ha enamorado», «¿Puedes ayudarme», «Con Pablo te mueres», «Esta televisión tarda mucho». Columna derecha: «risa.», «su madre.», «encenderse.», «la existencia de extraterrestres.», «llevar estas cajas?», «su profesor.», «exportar fruta.», «visitar la isla de Pascua.».",
+    "n_items": 0,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 115,
+    "titulo": "Pienso en ti -- Verbos con preposiciones",
+    "sub": "115.3",
+    "enunciado": "Complete las frases con a, de, en, con y las expresiones del recuadro.",
+    "libre": "Ejercicio lineal de completar frases combinando una de las preposiciones a, de, en o con con una expresión elegida del recuadro. Cada frase contiene un único espacio en el que debe escribirse la combinación completa.",
+    "n_items": 9,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 116,
+    "titulo": "y, o, pero... -- Conjunciones",
+    "sub": "116.2",
+    "enunciado": "Una las frases con y/e, ni o ni... ni. Haga los cambios necesarios.",
+    "libre": "Reescritura por combinación: cada ítem presenta dos frases independientes y una línea en la que deben unirse con y/e, ni o ni... ni, haciendo los cambios necesarios.",
+    "n_items": 9,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 116,
+    "titulo": "y, o, pero... -- Conjunciones",
+    "sub": "116.3",
+    "enunciado": "Una las frases sobre un grupo de amigos con y/e, ni, ni... ni o pero.",
+    "libre": "Reescritura por combinación: cada ítem presenta dos o tres frases sobre un grupo de amigos y una línea para unirlas en una sola oración con y/e, ni, ni... ni o pero.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 117,
+    "titulo": "para, para que -- Oraciones finales",
+    "sub": "117.1",
+    "enunciado": "Forme frases uniendo los elementos de las dos columnas.",
+    "libre": "Ejercicio de emparejamiento en dos columnas para formar frases. Columna izquierda: 1. «Tengo que ver a María para»; 2. «Tengo que ver a Carlos para que»; 3. «Habla bajo para que»; 4. «Habla bajo para»; 5. «Llama a casa de Elisa para»; 6. «Llama a Jesús para que»; 7. «Pablo trabajó mucho para»; 8. «Rosana trabajó mucho para que»; 9. «No aparques aquí para»; 10. «No aparques aquí para que». Columna derecha: a. «no obstaculizar la salida.»; b. «comprarse la furgoneta.»; c. «hablar con su madre.»; d. «no nos oigan.»; e. «darle un recado.»; f. «no despertar a los niños.»; g. «venga a las siete.»; h. «no te multen.»; i. «sus hijos pudieran estudiar.»; j. «me explique algo.». Aparece como ejemplo una flecha que une el elemento 1 con el elemento e.",
+    "n_items": 0,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 118,
+    "titulo": "cuando, antes de que, siempre que... -- Oraciones temporales",
+    "sub": "118.1",
+    "enunciado": "Complete las frases con las expresiones temporales del recuadro.",
+    "libre": "Completar una lista de frases seleccionando para cada hueco una expresión temporal de un banco de palabras compartido.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 118,
+    "titulo": "cuando, antes de que, siempre que... -- Oraciones temporales",
+    "sub": "118.4",
+    "enunciado": "Una las dos frases con la expresión temporal dada. Haga los cambios necesarios.",
+    "libre": "Unir cada par de frases en una sola construcción mediante la expresión temporal dada, realizando los cambios verbales y sintácticos necesarios. Algunos ítems presentan un hueco después del conector y otros dos huecos, uno a cada lado del conector.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 119,
+    "titulo": "porque, como, puesto que... -- Oraciones causales",
+    "sub": "119.1",
+    "enunciado": "Ordene las palabras de forma correcta.",
+    "libre": "Ordenación de segmentos oracionales separados por barras para escribir una frase completa y correcta.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 119,
+    "titulo": "porque, como, puesto que... -- Oraciones causales",
+    "sub": "119.2",
+    "enunciado": "Complete los espacios en blanco con las expresiones del recuadro.",
+    "libre": "Completar frases causales seleccionando una expresión de un recuadro; algunas expresiones aparecen repetidas.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 119,
+    "titulo": "porque, como, puesto que... -- Oraciones causales",
+    "sub": "119.3",
+    "enunciado": "Una las frases con las expresiones entre paréntesis. Haga los cambios necesarios.",
+    "libre": "Unión y reescritura de dos frases independientes mediante la expresión causal indicada entre paréntesis, haciendo los cambios necesarios.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 119,
+    "titulo": "porque, como, puesto que... -- Oraciones causales",
+    "sub": "119.4",
+    "enunciado": "Escriba las respuestas con es que y una frase del recuadro.",
+    "libre": "Producción de respuestas dialogadas con «es que» y una frase seleccionada del recuadro.",
+    "n_items": 5,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 120,
+    "titulo": "aunque, a pesar de que... -- Oraciones concesivas",
+    "sub": "120.1",
+    "enunciado": "Una las opciones de las dos columnas de manera correcta.",
+    "libre": "Ejercicio de emparejamiento entre dos columnas. La columna izquierda contiene ocho comienzos de oración: «Tengo que trabajar», «Elena tiene que trabajar», «Tenemos que comer patatas», «Tendréis que comer la sopa», «No me podré comprar esa casa», «No me puedo comprar un coche», «Algo te sentó mal» y «Esta comida te puede sentar mal». Cada uno debe unirse con una opción distinta de la columna derecha: a. «aunque no os apetezca mucho.»; b. «por mucho que ahorre.»; c. «aunque comieras poco.»; d. «a pesar de no tener muchas ganas.»; e. «a pesar de que no tiene muchas ganas.»; f. «aunque comas poco.»; g. «aunque no nos apetece mucho.»; h. «por mucho que ahorro.». El primer emparejamiento aparece trazado como ejemplo.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 120,
+    "titulo": "aunque, a pesar de que... -- Oraciones concesivas",
+    "sub": "120.3",
+    "enunciado": "Escriba frases con las ideas dadas.",
+    "libre": "Reformulación pautada de ideas. Cada ítem presenta una o dos oraciones con una relación concesiva expresada mediante «pero» o mediante dos enunciados separados. Debajo aparece el comienzo de una nueva frase con «Aunque», «A pesar de que», «A pesar de» o «Por mucho que», y el alumno debe completar la reformulación.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 121,
+    "titulo": "por eso, así que, tanto... que -- Oraciones consecutivas",
+    "sub": "121.1",
+    "enunciado": "Una las dos frases con las expresiones entre paréntesis. Preste atención al orden.",
+    "libre": "Combinación de dos frases en una sola oración mediante la expresión consecutiva indicada entre paréntesis, prestando atención al orden de las proposiciones.",
+    "n_items": 7,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 121,
+    "titulo": "por eso, así que, tanto... que -- Oraciones consecutivas",
+    "sub": "121.3",
+    "enunciado": "Complete las frases con las palabras del recuadro.",
+    "libre": "Completar siete frases consecutivas seleccionando para cada hueco una expresión de un recuadro con las formas tan, tan poca, tan pocos, tanta, tan poco, tanto y tantos.",
+    "n_items": 7,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 121,
+    "titulo": "por eso, así que, tanto... que -- Oraciones consecutivas",
+    "sub": "121.4",
+    "enunciado": "Una las oraciones con tan, tanto, –a, –os, –as; tan poco, –a, –os, –as... que. Haga los cambios necesarios.",
+    "libre": "Combinación de dos oraciones en una sola estructura consecutiva con tan, tanto, -a, -os, -as o tan poco, -a, -os, -as, seguida de que, realizando los cambios gramaticales necesarios.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 122,
+    "titulo": "Aquí se trabaja mucho -- Oraciones impersonales",
+    "sub": "122.1",
+    "enunciado": "Complete las frases con los verbos del recuadro y se o uno.",
+    "libre": "Completar frases con se o uno y con los verbos proporcionados en recuadros, conjugados en la forma adecuada.",
+    "n_items": 2,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 122,
+    "titulo": "Aquí se trabaja mucho -- Oraciones impersonales",
+    "sub": "122.2",
+    "enunciado": "Vuelva a escribir las frases comenzando con alguna de las expresiones del recuadro.",
+    "libre": "Reescribir oraciones completas comenzando con una de las expresiones impersonales proporcionadas en un recuadro.",
+    "n_items": 8,
+    "banco": true,
+    "grafico": null
+  },
+  {
+    "unidad": 122,
+    "titulo": "Aquí se trabaja mucho -- Oraciones impersonales",
+    "sub": "122.3",
+    "enunciado": "Una las dos oraciones como en el ejemplo. Haga los cambios necesarios.",
+    "libre": "Unir dos oraciones en una sola, siguiendo los ejemplos y realizando los cambios sintácticos necesarios.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 122,
+    "titulo": "Aquí se trabaja mucho -- Oraciones impersonales",
+    "sub": "122.4",
+    "enunciado": "Complete las frases con los siguientes verbos en la forma adecuada: amanecer, anochecer, haber, hacer, nevar, ser.",
+    "libre": "Completar frases conjugando en la forma adecuada uno de los verbos indicados en el enunciado.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 123,
+    "titulo": "médico, árbol, inglés -- Reglas de acentuación (1)",
+    "sub": "123.1",
+    "enunciado": "Subraye la sílaba fuerte.",
+    "libre": "Lista de 25 palabras sin huecos. El alumno debe identificar y subrayar la sílaba fuerte de cada palabra. En el primer ítem, «balón», la sílaba «ón» aparece subrayada como modelo.",
+    "n_items": 25,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 123,
+    "titulo": "médico, árbol, inglés -- Reglas de acentuación (1)",
+    "sub": "123.2",
+    "enunciado": "Escriba la tilde en caso necesario.",
+    "libre": "Lista de 25 palabras sin huecos. El alumno debe escribir la tilde sobre la vocal correspondiente únicamente cuando sea necesaria. El primer ítem, «melón», aparece resuelto como modelo.",
+    "n_items": 25,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 123,
+    "titulo": "médico, árbol, inglés -- Reglas de acentuación (1)",
+    "sub": "123.4",
+    "enunciado": "Añada la tilde donde sea necesario.",
+    "libre": "Lista de 10 oraciones sin huecos. El alumno debe revisar cada oración y añadir las tildes que sean necesarias. En el primer ítem, «mí» aparece subrayado y con tilde como modelo.",
+    "n_items": 10,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 124,
+    "titulo": "adiós, león, continúa -- Reglas de acentuación (2)",
+    "sub": "124.1a",
+    "enunciado": "Divida en sílabas las palabras de más de dos sílabas.",
+    "libre": "División silábica: se presentan veinte palabras y una línea de escritura debajo de cada una para que el alumno las divida en sílabas. El primer ítem aparece resuelto como modelo en la página.",
+    "n_items": 20,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 124,
+    "titulo": "adiós, león, continúa -- Reglas de acentuación (2)",
+    "sub": "124.1b",
+    "enunciado": "Ahora subraye la sílaba fuerte en las palabras de más de dos sílabas.",
+    "libre": "Identificación de la sílaba tónica: se repite la lista de veinte palabras y el alumno debe subrayar directamente la sílaba fuerte de cada palabra.",
+    "n_items": 20,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 124,
+    "titulo": "adiós, león, continúa -- Reglas de acentuación (2)",
+    "sub": "124.2",
+    "enunciado": "Escriba la tilde sobre la sílaba fuerte donde sea necesario.",
+    "libre": "Acentuación directa sobre palabras: se presentan diez palabras sin espacio de respuesta independiente y el alumno debe escribir la tilde sobre la sílaba fuerte cuando sea necesaria.",
+    "n_items": 10,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 124,
+    "titulo": "adiós, león, continúa -- Reglas de acentuación (2)",
+    "sub": "124.3",
+    "enunciado": "Escriba la tilde en los casos en que sea necesario.",
+    "libre": "Acentuación de palabras previamente divididas en sílabas: la sílaba fuerte aparece destacada en negrita, representada mediante etiquetas <strong>, y el alumno debe añadir la tilde cuando sea necesaria.",
+    "n_items": 20,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 124,
+    "titulo": "adiós, león, continúa -- Reglas de acentuación (2)",
+    "sub": "124.4",
+    "enunciado": "Escriba la tilde donde sea necesario.",
+    "libre": "Acentuación de paradigmas verbales: cada ítem contiene una serie de seis formas conjugadas del mismo verbo y el alumno debe escribir las tildes directamente sobre las formas que las necesiten.",
+    "n_items": 4,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 125,
+    "titulo": "Arturo Sánchez -- Uso de mayúsculas",
+    "sub": "125.1",
+    "enunciado": "Vuelva a escribir las frases utilizando mayúsculas donde sea necesario.",
+    "libre": "Reescritura ortográfica de ocho frases completas. El alumno debe copiar cada frase en la línea correspondiente, utilizando mayúsculas donde sea necesario.",
+    "n_items": 8,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 125,
+    "titulo": "Arturo Sánchez -- Uso de mayúsculas",
+    "sub": "125.2",
+    "enunciado": "Corrija los errores en el uso de mayúsculas y minúsculas.",
+    "libre": "Corrección y reescritura ortográfica de seis frases completas que contienen errores en el uso de mayúsculas y minúsculas.",
+    "n_items": 6,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 125,
+    "titulo": "Arturo Sánchez -- Uso de mayúsculas",
+    "sub": "125.3",
+    "enunciado": "Copie el texto, corrigiendo los errores en el uso de mayúsculas.",
+    "libre": "Copia y corrección de un texto completo. Se presenta una carta con errores en el uso de mayúsculas y un recuadro pautado en el que debe copiarse íntegramente el texto corregido.",
+    "n_items": 1,
+    "banco": false,
+    "grafico": null
+  },
+  {
+    "unidad": 125,
+    "titulo": "Arturo Sánchez -- Uso de mayúsculas",
+    "sub": "125.4",
+    "enunciado": "Una los nombres de las organizaciones con sus siglas.",
+    "libre": "Ejercicio de correspondencias en dos columnas. La columna izquierda contiene cinco nombres de organizaciones o expresiones: Instituto Nacional del Libro Español; Fondo Monetario Internacional; Objeto volador no identificado; Comité Olímpico Internacional; Síndrome de Inmunodeficiencia Adquirida. La columna derecha contiene cinco siglas rotuladas: a. COI; b. INLE; c. SIDA; d. FMI; e. OVNI. El alumno debe unir cada nombre con su sigla; se esperan cinco correspondencias.",
+    "n_items": 5,
+    "banco": false,
+    "grafico": null
+  }
+]

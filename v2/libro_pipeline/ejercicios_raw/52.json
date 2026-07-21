@@ -1,0 +1,123 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "52.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con la forma adecuada del verbo.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cuánto tiempo hace que (vivir) _____ usted en Caracas?"
+        },
+        {
+          "texto_enunciado": "—¿Hablas español? —Sí, lo (hablar) _____ desde que era pequeño."
+        },
+        {
+          "texto_enunciado": "—¿Hace mucho que (conocer) _____ a Ronaldo? —Sí, lo _____ desde 1995."
+        },
+        {
+          "texto_enunciado": "—¿Cuánto tiempo hace que (vivir) _____ ustedes en Quito? —Diez meses."
+        },
+        {
+          "texto_enunciado": "—¿Desde cuándo (ser) _____ amigos Jorge y tú? —_____ amigos desde hace unos cinco años."
+        },
+        {
+          "texto_enunciado": "—Hace dos semanas que (trabajar) _____ en este bar. Me gusta."
+        },
+        {
+          "texto_enunciado": "—¿Desde cuándo no (ver) _____ a Petra? —No la _____ desde el verano pasado."
+        },
+        {
+          "texto_enunciado": "Lucas y Alba no (tener) _____ vacaciones desde hace cuatro años."
+        },
+        {
+          "texto_enunciado": "¿Hace mucho que (conducir) _____ usted?"
+        },
+        {
+          "texto_enunciado": "¿Cuánto tiempo hace que (conocerse) _____ Elisa y Mario?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "52.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Exprese la información dada en una frase comenzando con las palabras indicadas y el presente de indicativo en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Lupe conoce a Jaime. Lo conoció en 2001. Lupe _____."
+        },
+        {
+          "texto_enunciado": "Yasir estudia español. Empezó a estudiarlo hace seis meses. Yasir _____."
+        },
+        {
+          "texto_enunciado": "La última vez que vimos el mar fue hace un año. Hace _____."
+        },
+        {
+          "texto_enunciado": "Patricia dejó de venir el día de su cumpleaños. Patricia _____."
+        },
+        {
+          "texto_enunciado": "La última vez que mis padres me escribieron fue en Navidad. Mis padres _____."
+        },
+        {
+          "texto_enunciado": "Salgo con Rosario. Empecé a salir con ella hace un mes. Hace _____."
+        },
+        {
+          "texto_enunciado": "La última vez que fui al cine fue hace dos semanas. Hace _____."
+        },
+        {
+          "texto_enunciado": "Vivo en Guayaquil. Llegué allí en 1999. (Yo) _____."
+        },
+        {
+          "texto_enunciado": "Estoy buscando mis gafas. Empecé a buscarlas hace una hora. Hace _____."
+        },
+        {
+          "texto_enunciado": "La última vez que mis padres comieron carne fue hace cinco años. Hace _____."
+        },
+        {
+          "texto_enunciado": "Tengo móvil. Lo compré en julio. (Yo) _____."
+        },
+        {
+          "texto_enunciado": "La última vez que José vio a Marisa fue en verano. José _____."
+        }
+      ],
+      "tipologia_libre_original": "Reformulación de dos frases dadas en una sola frase, comenzando con las palabras indicadas y usando el presente de indicativo en forma afirmativa o negativa."
+    },
+    {
+      "subejercicio": "52.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Formule preguntas para las respuestas dadas.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____? Hace cinco años que conozco a César."
+        },
+        {
+          "texto_enunciado": "¿_____? No fumo desde hace un mes."
+        },
+        {
+          "texto_enunciado": "¿_____? Hace dos años que vivimos en Mérida."
+        },
+        {
+          "texto_enunciado": "¿_____? Asún y yo salimos juntos desde que teníamos dieciséis años."
+        },
+        {
+          "texto_enunciado": "¿_____? Mi padre trabaja en esta empresa desde que tenía veinte años."
+        },
+        {
+          "texto_enunciado": "¿_____? Hace dos años que estudiamos español."
+        },
+        {
+          "texto_enunciado": "¿_____? No vamos al cine desde las pasadas Navidades."
+        },
+        {
+          "texto_enunciado": "¿_____? Hace muchísimo tiempo que no como un helado."
+        }
+      ],
+      "tipologia_libre_original": "Producción de una pregunta completa a partir de la respuesta proporcionada."
+    }
+  ],
+  "unidad": 52,
+  "titulo_libro": "Vivo en México desde 1998 -- Presente para expresar períodos de tiempo",
+  "scan": "libro-rojo-114.png"
+}

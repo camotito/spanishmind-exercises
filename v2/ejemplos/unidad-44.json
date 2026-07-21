@@ -1,0 +1,290 @@
+{
+  "tema": "unidad-44",
+  "titulo": "soy alegre / estoy alegre",
+  "descripcion_gramatical": "Contraste entre ser y estar",
+  "fuente": "libro",
+  "unidad_libro": 44,
+  "ejercicios": [
+    {
+      "subejercicio": "44.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "(Soy/Estoy) cansado.",
+          "solucion_correcta": [
+            "Estoy"
+          ]
+        },
+        {
+          "texto_enunciado": "Este café (es/está) muy caliente.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunas rosas (son/están) blancas.",
+          "solucion_correcta": [
+            "son"
+          ]
+        },
+        {
+          "texto_enunciado": "Esos cristales (son/están) sucios.",
+          "solucion_correcta": [
+            "están"
+          ]
+        },
+        {
+          "texto_enunciado": "Este árbol (es/está) muerto.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "Ana y Sergio (son/están) casados.",
+          "solucion_correcta": [
+            "están"
+          ]
+        },
+        {
+          "texto_enunciado": "Las margaritas (son/están) amarillas y blancas.",
+          "solucion_correcta": [
+            "son"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué guapa (eres/estás) con ese sombrero, Lola!",
+          "solucion_correcta": [
+            "estás"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy no (soy/estoy) alegre.",
+          "solucion_correcta": [
+            "estoy"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "44.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con formas de ser o estar.",
+      "items": [
+        {
+          "texto_enunciado": "Las serpientes _____ peligrosas.",
+          "solucion_correcta": [
+            "Son"
+          ]
+        },
+        {
+          "texto_enunciado": "Este libro _____ muy interesante.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "La nieve _____ blanca.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "No os sentéis en esas sillas. _____ sucias.",
+          "solucion_correcta": [
+            "Están"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan _____ muy guapo con uniforme.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "La sopa _____ fría. Caliéntala un poco.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "Los plátanos _____ amarillos.",
+          "solucion_correcta": [
+            "son"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué guapo _____ Francisco! Tiene unos ojos grandísimos.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "Flor y Pili _____ muy guapas con el nuevo peinado.",
+          "solucion_correcta": [
+            "están"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "44.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con el presente de indicativo de ser o estar.",
+      "items": [
+        {
+          "texto_enunciado": "¿Dónde _____ la fiesta?",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "El examen _____ a las diez.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ mis gafas?",
+          "solucion_correcta": [
+            "están"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana _____ mi cumpleaños.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "El examen _____ en el aula 15.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo _____ la boda?",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ la discoteca Futuro?",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "El examen _____ encima de la mesa.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "El concierto _____ en el Teatro Real.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "El Teatro Real _____ en la Plaza de la Ópera.",
+          "solucion_correcta": [
+            "está"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "44.4",
+      "tipologia": "T2",
+      "enunciado": "Utilice formas de ser o estar para completar las frases.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____ lista?",
+          "solucion_correcta": [
+            "Estás"
+          ]
+        },
+        {
+          "texto_enunciado": "Carlos _____ muy moreno.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "Felipe _____ muy rico.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ malo.",
+          "solucion_correcta": [
+            "Estoy"
+          ]
+        },
+        {
+          "texto_enunciado": "Isabel _____ muy morena.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta paella _____ muy rica.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "Ángel y Nieves _____ muy buenos.",
+          "solucion_correcta": [
+            "son"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ aburridos.",
+          "solucion_correcta": [
+            "Estamos"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer llega junto a un coche y otra persona le pregunta si está lista."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Carlos está tumbado al sol y aparece muy moreno."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Felipe aparece junto a una casa grande, un coche y un sirviente."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre enfermo está acostado en la cama."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una mujer llamada Isabel tiene el pelo oscuro."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Un hombre está comiendo una paella."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Ángel y Nieves están sentados en sus pupitres."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Dos personas están sentadas ante el televisor y parecen aburridas."
+          }
+        ]
+      }
+    }
+  ]
+}

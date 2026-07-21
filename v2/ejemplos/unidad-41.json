@@ -1,0 +1,262 @@
+{
+  "tema": "unidad-41",
+  "titulo": "para mí, contigo...",
+  "descripcion_gramatical": "Pronombres personales con preposiciones",
+  "fuente": "libro",
+  "unidad_libro": 41,
+  "ejercicios": [
+    {
+      "subejercicio": "41.1",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases utilizando pronombres.",
+      "items": [
+        {
+          "texto_enunciado": "Para _____.",
+          "solucion_correcta": [
+            "ti"
+          ]
+        },
+        {
+          "texto_enunciado": "Para _____.",
+          "solucion_correcta": [
+            "ustedes"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy enfadada con _____.",
+          "solucion_correcta": [
+            "contigo"
+          ]
+        },
+        {
+          "texto_enunciado": "Para _____.",
+          "solucion_correcta": [
+            "vosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Es para _____? Gracias.",
+          "solucion_correcta": [
+            "nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Buenos días, don Salvador. Me gustaría hablar con _____.",
+          "solucion_correcta": [
+            "usted"
+          ]
+        },
+        {
+          "texto_enunciado": "Está hecha por _____.",
+          "solucion_correcta": [
+            "nosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Para _____? Gracias.",
+          "solucion_correcta": [
+            "mí"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer entrega un regalo a otra mujer.",
+            "texto_globo": "Para ti."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un hombre entrega un regalo a una mujer acompañada por otra persona.",
+            "texto_globo": "Para _____."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una mujer habla enfadada con otra mujer.",
+            "texto_globo": "Estoy enfadada con _____."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre entrega un regalo a dos mujeres.",
+            "texto_globo": "Para _____."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una mujer recibe un regalo de otra mujer.",
+            "texto_globo": "¿Es para _____? Gracias."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una mujer habla por teléfono con don Salvador.",
+            "texto_globo": "Buenos días, don Salvador. Me gustaría hablar con _____."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mujer presenta una tarta a otra mujer.",
+            "texto_globo": "Está hecha por _____."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un hombre recibe un regalo de una mujer.",
+            "texto_globo": "¿Para _____? Gracias."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "41.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con el pronombre adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "¿Has visto a Adolfo? Quiero hablar con _____.",
+          "solucion_correcta": [
+            "él"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Has visto a Petra? Quiero hablar con _____.",
+          "solucion_correcta": [
+            "ella"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Has visto al señor Carmona? Tengo algo para _____.",
+          "solucion_correcta": [
+            "él"
+          ]
+        },
+        {
+          "texto_enunciado": "Antonio te está buscando. Quiere hablar con _____.",
+          "solucion_correcta": [
+            "-tigo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde están Pepe y Susana? Mercedes quiere hablar con _____.",
+          "solucion_correcta": [
+            "ellos"
+          ]
+        },
+        {
+          "texto_enunciado": "Aurora nos está buscando. No puede estar un momento sin _____.",
+          "solucion_correcta": [
+            "nosotros/nosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi jefe me necesita. No sabe hacer nada sin _____.",
+          "solucion_correcta": [
+            "mí"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "41.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con yo, mí, –migo o tú, ti, –tigo.",
+      "items": [
+        {
+          "texto_enunciado": "Estoy triste. Luisa no quiere salir _____.",
+          "solucion_correcta": [
+            "conmigo"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento, Jaime. Han aprobado todos menos _____.",
+          "solucion_correcta": [
+            "tú"
+          ]
+        },
+        {
+          "texto_enunciado": "Toma, un regalo para _____ de parte de Ana.",
+          "solucion_correcta": [
+            "ti"
+          ]
+        },
+        {
+          "texto_enunciado": "Oye, Luis, según _____, ¿quién va a ganar el domingo?",
+          "solucion_correcta": [
+            "tú"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Esto es para _____? Gracias.",
+          "solucion_correcta": [
+            "mí"
+          ]
+        },
+        {
+          "texto_enunciado": "Ven con _____, por favor. Necesito ayuda.",
+          "solucion_correcta": [
+            "-migo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Está Berta con _____, María?",
+          "solucion_correcta": [
+            "-tigo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "41.4",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Según (ti/tú), ¿quién es el mejor cantante del mundo?",
+          "solucion_correcta": [
+            "tú"
+          ]
+        },
+        {
+          "texto_enunciado": "Toma. Este disco es para (ti/tú).",
+          "solucion_correcta": [
+            "ti"
+          ]
+        },
+        {
+          "texto_enunciado": "Ven. Siéntate junto a (mí/yo).",
+          "solucion_correcta": [
+            "mí"
+          ]
+        },
+        {
+          "texto_enunciado": "Luisa se sienta entre Jorge y (mí/yo).",
+          "solucion_correcta": [
+            "yo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quieres venir (conmigo/con yo), Sonia?",
+          "solucion_correcta": [
+            "conmigo"
+          ]
+        },
+        {
+          "texto_enunciado": "Sebastián se sienta delante de (mí/yo).",
+          "solucion_correcta": [
+            "mí"
+          ]
+        },
+        {
+          "texto_enunciado": "A todos les gusta el pescado menos a (mí/yo).",
+          "solucion_correcta": [
+            "mí"
+          ]
+        },
+        {
+          "texto_enunciado": "Han leído todos el Quijote menos (mí/yo).",
+          "solucion_correcta": [
+            "yo"
+          ]
+        }
+      ]
+    }
+  ]
+}

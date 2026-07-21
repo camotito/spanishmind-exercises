@@ -1,0 +1,117 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "2.1",
+      "tipologia": "T14",
+      "tipologia_libre": null,
+      "enunciado": "Clasifique los siguientes nombres en la tabla.",
+      "banco_palabras": [
+        "atención",
+        "cama",
+        "casa",
+        "cine",
+        "ciudad",
+        "cuaderno",
+        "cumpleaños",
+        "día",
+        "expresión",
+        "foto",
+        "habitación",
+        "hotel",
+        "idioma",
+        "lámpara",
+        "lápiz",
+        "leche",
+        "libro",
+        "luz",
+        "mano",
+        "minuto",
+        "museo",
+        "noche",
+        "página",
+        "planeta",
+        "problema",
+        "radio",
+        "teatro",
+        "teléfono",
+        "universidad",
+        "vaso",
+        "ventana",
+        "viernes"
+      ],
+      "items": [],
+      "tipologia_libre_original": "Clasificación de un banco de 32 nombres en una tabla con dos secciones, «EL...» y «LA...». Cada sección tiene 16 espacios distribuidos en dos columnas de ocho filas. En la primera celda de «EL...» aparece «cine» como modelo y en la primera celda de «LA...» aparece «atención» como modelo; las otras 30 celdas están vacías."
+    },
+    {
+      "subejercicio": "2.2",
+      "tipologia": "T14",
+      "tipologia_libre": null,
+      "enunciado": "Complete las siguientes tablas con los animales correspondientes.",
+      "items": [],
+      "tipologia_libre_original": "Dos tablas paralelas con los encabezados «MASCULINO» y «FEMENINO», cada una con tres filas. El alumno debe completar el miembro correspondiente de cada pareja de animales. Primera tabla: fila 1, «el gato» y «la gata» como modelo impreso; fila 2, celda masculina vacía y «la yegua»; fila 3, «el gallo» y celda femenina vacía. Segunda tabla: fila 1, celda masculina vacía y «la perra»; fila 2, «el león» y celda femenina vacía; fila 3, celda masculina vacía y «la vaca»."
+    },
+    {
+      "subejercicio": "2.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Escriba lo que hay en cada ilustración con el o la como en el ejemplo. Consulte el diccionario en caso de duda.",
+      "banco_palabras": [
+        "árbol",
+        "diccionario",
+        "gorila",
+        "hospital",
+        "llave",
+        "mariposa",
+        "nariz",
+        "pez",
+        "tenedor",
+        "tren"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un árbol"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un tren"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un diccionario"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una mariposa"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un gorila"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una llave"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de la entrada de un hospital"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un tenedor"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un pez"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una nariz"
+        }
+      ]
+    }
+  ],
+  "unidad": 2,
+  "titulo_libro": "el libro, la mesa -- Masculino, femenino (2)",
+  "scan": "libro-rojo-014.png"
+}

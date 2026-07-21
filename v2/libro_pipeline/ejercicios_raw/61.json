@@ -1,0 +1,152 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "61.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones. ¿Qué ha hecho Ana Roldán en su vida?",
+      "banco_palabras": [
+        "conocer",
+        "escribir",
+        "estar",
+        "tener",
+        "trabajar",
+        "vivir",
+        "Chile",
+        "hospital",
+        "libro",
+        "personajes famosos",
+        "cinco hijos",
+        "Uruguay"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un pasaporte de Ana Roldán con un sello de entrada en Uruguay."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un libro titulado «Aire», de Ana Roldán."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Ana Roldán acompañada por varios personajes famosos."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una carta dirigida a Ana Roldán en Santiago de Chile."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Ana Roldán trabajando como enfermera en un hospital."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Ana Roldán acompañada por cinco hijos."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____."
+        },
+        {
+          "texto_enunciado": "2. _____."
+        },
+        {
+          "texto_enunciado": "3. _____."
+        },
+        {
+          "texto_enunciado": "4. _____."
+        },
+        {
+          "texto_enunciado": "5. _____."
+        },
+        {
+          "texto_enunciado": "6. _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "61.2",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Escriba frases con estas palabras.",
+      "items": [
+        {
+          "texto_enunciado": "1. Reinaldo / estar / nunca / en África _____."
+        },
+        {
+          "texto_enunciado": "2. ¿ustedes / comer / alguna vez / tortilla? ¿_____?"
+        },
+        {
+          "texto_enunciado": "3. ¿vosotros / enamorarse / alguna vez? ¿_____?"
+        },
+        {
+          "texto_enunciado": "4. yo / nunca / ir / a la ópera _____."
+        },
+        {
+          "texto_enunciado": "5. nosotros / beber / nunca / tequila _____."
+        }
+      ],
+      "tipologia_libre_original": "Producción de frases completas a partir de grupos de palabras y verbos en infinitivo separados por barras."
+    },
+    {
+      "subejercicio": "61.3",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Forme frases uniendo los elementos de las dos columnas.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Columna «consecuencias»: 1. No puedo entrar en casa; 2. Juana no ve bien; 3. No puedo pagar; 4. Están agotadas.",
+          "Columna «causas»: a. trabajar mucho todo el día; b. perder las llaves; c. olvidarse la cartera; d. romperse las gafas."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____."
+        },
+        {
+          "texto_enunciado": "2. _____."
+        },
+        {
+          "texto_enunciado": "3. _____."
+        },
+        {
+          "texto_enunciado": "4. _____."
+        }
+      ],
+      "tipologia_libre_original": "Unión de consecuencias y causas presentadas en dos columnas para producir frases completas con «porque»."
+    },
+    {
+      "subejercicio": "61.4",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Laura y Gabriel se van de vacaciones la semana que viene. Escriba las preguntas de Gabriel sobre los preparativos y las respuestas de Laura.",
+      "items": [
+        {
+          "texto_enunciado": "1. (recoger los billetes) –¿_____? –Sí, _____."
+        },
+        {
+          "texto_enunciado": "2. (reservar el hotel) –¿_____? –Sí, _____."
+        },
+        {
+          "texto_enunciado": "3. (pedir el visado) –¿_____? –Sí, _____."
+        },
+        {
+          "texto_enunciado": "4. (cambiar dinero) –¿_____? –No, _____."
+        },
+        {
+          "texto_enunciado": "5. (recoger los cheques de viaje) –¿_____? –No, _____."
+        }
+      ],
+      "tipologia_libre_original": "Producción de diálogos de pregunta y respuesta a partir de una acción indicada entre paréntesis."
+    }
+  ],
+  "unidad": 61,
+  "titulo_libro": "He viajado mucho -- Pretérito perfecto de indicativo (2)",
+  "scan": "libro-rojo-132.png"
+}

@@ -1,0 +1,228 @@
+{
+  "tema": "unidad-107",
+  "titulo": "más rápido, mejor, peor...",
+  "descripcion_gramatical": "Comparación de adverbios",
+  "fuente": "libro",
+  "unidad_libro": 107,
+  "ejercicios": [
+    {
+      "subejercicio": "107.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con la forma comparativa de superioridad o igualdad de los adverbios del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "No hables tan alto, por favor. Habla _____.",
+          "solucion_correcta": [
+            "más bajo"
+          ]
+        },
+        {
+          "texto_enunciado": "Vas muy rápido. No vayas _____.",
+          "solucion_correcta": [
+            "tan rápido"
+          ]
+        },
+        {
+          "texto_enunciado": "No vayas tan rápido. Ve _____.",
+          "solucion_correcta": [
+            "más despacio"
+          ]
+        },
+        {
+          "texto_enunciado": "No trabajen tanto. Trabajen _____.",
+          "solucion_correcta": [
+            "menos"
+          ]
+        },
+        {
+          "texto_enunciado": "Gritáis mucho. No gritéis _____.",
+          "solucion_correcta": [
+            "tanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Os levantáis demasiado temprano. No os levantéis _____.",
+          "solucion_correcta": [
+            "tan temprano"
+          ]
+        },
+        {
+          "texto_enunciado": "—No puedo abrir la puerta. —Empuja _____.",
+          "solucion_correcta": [
+            "más fuerte"
+          ]
+        },
+        {
+          "texto_enunciado": "Este ejercicio está muy mal. Tienes que hacerlo _____.",
+          "solucion_correcta": [
+            "mejor"
+          ]
+        },
+        {
+          "texto_enunciado": "No seas alocada. Tienes que hacer las cosas _____.",
+          "solucion_correcta": [
+            "más tranquilamente"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "bajo",
+        "bien",
+        "despacio",
+        "fuerte",
+        "mucho",
+        "poco",
+        "rápido",
+        "temprano",
+        "tranquilamente"
+      ]
+    },
+    {
+      "subejercicio": "107.2",
+      "tipologia": "T6",
+      "enunciado": "Escriba las comparaciones según lo indicado entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Sofía vive cerca del cine. (+ nosotros) _____.",
+          "solucion_correcta": [
+            "Sofía vive más cerca del cine que nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy hemos llegado tarde. (− de costumbre) _____.",
+          "solucion_correcta": [
+            "Hoy hemos llegado menos tarde que de costumbre"
+          ]
+        },
+        {
+          "texto_enunciado": "Susana corre mucho. (= Eloísa) _____.",
+          "solucion_correcta": [
+            "Susana corre tanto como Eloísa"
+          ]
+        },
+        {
+          "texto_enunciado": "Julián cocina bien. (+ Vicente) _____.",
+          "solucion_correcta": [
+            "Julián cocina mejor que Vicente"
+          ]
+        },
+        {
+          "texto_enunciado": "Arnaldo gasta mucho. (+ Jesús) _____.",
+          "solucion_correcta": [
+            "Arnaldo gasta más que Jesús"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge se levanta temprano. (= yo) _____.",
+          "solucion_correcta": [
+            "Jorge se levanta tan temprano como yo"
+          ]
+        },
+        {
+          "texto_enunciado": "Sara y Eva conducen bien. (= ustedes) _____.",
+          "solucion_correcta": [
+            "Sara y Eva conducen tan bien como ustedes"
+          ]
+        },
+        {
+          "texto_enunciado": "Hablo poco. (+ mi padre) _____.",
+          "solucion_correcta": [
+            "Hablo menos que mi padre"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "107.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir la frase con el comparativo de igualdad.",
+      "items": [
+        {
+          "texto_enunciado": "Héctor corre menos rápido que tú. _____.",
+          "solucion_correcta": [
+            "Héctor no corre tan rápido como tú"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucas habla menos que yo. _____.",
+          "solucion_correcta": [
+            "Lucas no habla tanto como yo"
+          ]
+        },
+        {
+          "texto_enunciado": "Sonia se acuesta menos tarde que nosotros. _____.",
+          "solucion_correcta": [
+            "Sonia no se acuesta tan tarde como nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Silvia explica menos claro que Laura. _____.",
+          "solucion_correcta": [
+            "Silvia no explica tan claro como Laura"
+          ]
+        },
+        {
+          "texto_enunciado": "Camino menos lentamente que David. _____.",
+          "solucion_correcta": [
+            "Yo no camino tan lentamente como David"
+          ]
+        },
+        {
+          "texto_enunciado": "Ernesto juega menos inteligentemente que Carlos. _____.",
+          "solucion_correcta": [
+            "Ernesto no juega tan inteligentemente como Carlos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "107.4",
+      "tipologia": "T4",
+      "enunciado": "Complete la frase con los verbos y el superlativo de los adverbios entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Quién es (estudia, + poco) _____ de la clase?",
+          "solucion_correcta": [
+            "el que estudia menos / el que menos estudia"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es (habla, + mucho) _____ de tus amigas?",
+          "solucion_correcta": [
+            "la que habla más / la que más habla"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es (vive, + lejos) _____ de tus amigos?",
+          "solucion_correcta": [
+            "el que vive más lejos / el que más lejos vive"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuál de tus hermanos es (levanta, + temprano) _____?",
+          "solucion_correcta": [
+            "el que se levanta más temprano / el que más temprano se levanta"
+          ]
+        },
+        {
+          "texto_enunciado": "Beti y Victoria son (bailan, + mal) _____ del grupo.",
+          "solucion_correcta": [
+            "las que peor bailan / las que bailan peor"
+          ]
+        },
+        {
+          "texto_enunciado": "Serafín y Adrián son (corren, + mucho) _____ del equipo.",
+          "solucion_correcta": [
+            "los que más corren / los que corren más"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es (trabaja, + poco) _____ en tu oficina?",
+          "solucion_correcta": [
+            "el que menos trabaja / el que trabaja menos"
+          ]
+        }
+      ]
+    }
+  ]
+}

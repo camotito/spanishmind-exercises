@@ -1,0 +1,154 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "19.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases como en el ejemplo.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "objeto": "llaves",
+            "escena": "Una persona sostiene unas llaves y otra persona se señala a sí misma."
+          },
+          {
+            "numero": "2",
+            "objeto": "libro",
+            "escena": "Una persona muestra un libro y una mujer se señala a sí misma."
+          },
+          {
+            "numero": "3",
+            "objeto": "paraguas",
+            "escena": "Una persona sostiene un paraguas y señala a una mujer."
+          },
+          {
+            "numero": "4",
+            "objeto": "CD",
+            "escena": "Una persona sostiene un CD delante de varias personas."
+          },
+          {
+            "numero": "5",
+            "objeto": "libros",
+            "escena": "Un hombre sostiene unos libros y habla con otros dos hombres."
+          },
+          {
+            "numero": "6",
+            "objeto": "maletas",
+            "escena": "Varias personas conversan junto a unas maletas."
+          },
+          {
+            "numero": "7",
+            "objeto": "reloj",
+            "escena": "Una mujer muestra un reloj a un hombre."
+          },
+          {
+            "numero": "8",
+            "objeto": "bufanda",
+            "escena": "Un hombre sostiene una bufanda delante de otras dos personas."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "¿De quién son estas llaves? Son _____."
+        },
+        {
+          "texto_enunciado": "¿De quién es este libro? Es _____."
+        },
+        {
+          "texto_enunciado": "¿De quién es este paraguas? Es _____."
+        },
+        {
+          "texto_enunciado": "¿De quién son estos CD? Son _____."
+        },
+        {
+          "texto_enunciado": "¿Son _____ estos libros?"
+        },
+        {
+          "texto_enunciado": "¿Son _____ estas maletas?"
+        },
+        {
+          "texto_enunciado": "¿Es _____ este reloj?"
+        },
+        {
+          "texto_enunciado": "¿Es _____ esta bufanda?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "19.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Escriba el mío, la tuya, los suyos... según corresponda en las siguientes frases.",
+      "items": [
+        {
+          "texto_enunciado": "Estas llaves no son mías. _____ son más pequeñas."
+        },
+        {
+          "texto_enunciado": "–¿Es ese vuestro coche? –No, _____ es más grande."
+        },
+        {
+          "texto_enunciado": "Este abrigo no es de Pedro. _____ es azul."
+        },
+        {
+          "texto_enunciado": "–Perdona, ¿es éste mi asiento? –No, _____ está más atrás."
+        },
+        {
+          "texto_enunciado": "–¿Es ese nuestro profesor? –No, _____ es mayor."
+        },
+        {
+          "texto_enunciado": "–Mi deporte preferido es el fútbol. ¿Y _____? –_____ es el esquí."
+        },
+        {
+          "texto_enunciado": "–Mis hijos practican muchos deportes. ¿Y _____, Manuel? –_____ juegan al tenis."
+        },
+        {
+          "texto_enunciado": "–¿Son esos los padres de Arturo? –No, _____ son más jóvenes."
+        },
+        {
+          "texto_enunciado": "–Mi profesora es peruana. –_____ es argentina."
+        },
+        {
+          "texto_enunciado": "–Nuestros hijos son muy trabajadores. –_____ son un poco vagos."
+        }
+      ]
+    },
+    {
+      "subejercicio": "19.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con mío, tuyo, suyo... y un, una, unos o unas si es necesario.",
+      "items": [
+        {
+          "texto_enunciado": "(amigo, yo) _____ es pintor."
+        },
+        {
+          "texto_enunciado": "(amiga, yo) _____ ha ganado un premio."
+        },
+        {
+          "texto_enunciado": "Ayer estuve con (primo, vosotros) _____."
+        },
+        {
+          "texto_enunciado": "El director del banco es (amigo, ellos) _____."
+        },
+        {
+          "texto_enunciado": "Raquel es (prima, nosotros) _____."
+        },
+        {
+          "texto_enunciado": "¿Es Alicia (tía, tú) _____?"
+        },
+        {
+          "texto_enunciado": "–¿Conocéis a Mariano? –Sí, es (amigo, nosotros) _____."
+        },
+        {
+          "texto_enunciado": "El domingo conocimos a (familiares, ustedes) _____."
+        }
+      ]
+    }
+  ],
+  "unidad": 19,
+  "titulo_libro": "mío, tuyo, suyo... -- Posesivos (2)",
+  "scan": "libro-rojo-048.png"
+}

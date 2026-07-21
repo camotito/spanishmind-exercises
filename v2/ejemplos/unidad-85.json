@@ -1,0 +1,193 @@
+{
+  "tema": "unidad-85",
+  "titulo": "Quizás lo haga",
+  "descripcion_gramatical": "Expresión de probabilidad",
+  "fuente": "libro",
+  "unidad_libro": 85,
+  "ejercicios": [
+    {
+      "subejercicio": "85.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las respuestas con el presente de subjuntivo en forma afirmativa o negativa o el infinitivo de los verbos correspondientes.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Cree que va a llover esta tarde? –No sé. Puede que _____.",
+          "solucion_correcta": [
+            "llueva"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Vais a ir a la fiesta de Elisa? –Tenemos mucho que estudiar. Quizás _____.",
+          "solucion_correcta": [
+            "no vayamos"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Está Carmen Perón en su despacho? –No sé. Es posible que _____. Mira tú.",
+          "solucion_correcta": [
+            "esté"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Sabes si Alicia va a venir hoy a clase? –No sé. Puede que _____. Últimamente no viene mucho.",
+          "solucion_correcta": [
+            "no venga"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Por qué no duermes bien? –Es imposible _____ aquí. Hay mucho ruido.",
+          "solucion_correcta": [
+            "dormir"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Sabes si hay un tren a Aguascalientes? –Posiblemente _____ uno por la mañana.",
+          "solucion_correcta": [
+            "haya"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Sabe si Celia quiere trabajar este verano? –No sé, pero es probable que _____. Necesita dinero para el curso.",
+          "solucion_correcta": [
+            "quiera"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿No puede encontrar otro piso mejor? –Es imposible _____ nada mejor por este precio.",
+          "solucion_correcta": [
+            "encontrar"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "85.2",
+      "tipologia": "T3",
+      "enunciado": "Complete los diálogos. Use el pretérito imperfecto de subjuntivo o el pretérito indefinido en la forma afirmativa o negativa de los verbos correspondientes.",
+      "items": [
+        {
+          "texto_enunciado": "–Miguel dijo la verdad. –No te creo. Es imposible que _____.",
+          "solucion_correcta": [
+            "dijera la verdad"
+          ]
+        },
+        {
+          "texto_enunciado": "–Fue José. Seguro. –Yo no estoy tan segura. Puede que _____.",
+          "solucion_correcta": [
+            "no fuera él"
+          ]
+        },
+        {
+          "texto_enunciado": "–Lo hizo Sara. –¿Estás seguro? Quizás _____.",
+          "solucion_correcta": [
+            "no lo hizo/hiciera ella"
+          ]
+        },
+        {
+          "texto_enunciado": "–Aurora no vino la semana pasada porque estaba enferma. –Sí. Es probable que _____. Es una chica muy débil.",
+          "solucion_correcta": [
+            "estuviera enferma"
+          ]
+        },
+        {
+          "texto_enunciado": "–Mario dice que se olvidó. –Tal vez _____. Es muy despistado.",
+          "solucion_correcta": [
+            "se olvidara"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "85.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Vas a ver pronto a Tomás? –Sí. Seguramente lo _____ el sábado.",
+          "solucion_correcta": [
+            "veré"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Crees que vas a aprobar? –Sí. Seguramente _____.",
+          "solucion_correcta": [
+            "aprobaré"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Van a ir a Bariloche este invierno? –Sí. Seguramente _____ unos días.",
+          "solucion_correcta": [
+            "iremos"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Crees que encontraré la cartera? –Sí. Seguramente la _____ en algún rincón.",
+          "solucion_correcta": [
+            "encontrarás"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Sabes si Antonio tiene el teléfono de Amelia? –Sí. Seguramente lo _____.",
+          "solucion_correcta": [
+            "tenga/tiene"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Crees que ese cuadro lo ha pintado Margarita? –Sí. Seguramente lo _____ ella.",
+          "solucion_correcta": [
+            "pintó/ha pintado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "85.4",
+      "tipologia": "T4",
+      "enunciado": "Escriba cada verbo en el tiempo correspondiente.",
+      "items": [
+        {
+          "texto_enunciado": "–¡Teléfono, Lola! –Lo cojo yo. Puede que (ser) _____ Víctor.",
+          "solucion_correcta": [
+            "sea"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Cuándo vais a inaugurar el nuevo piso? –Quizá lo (hacer) _____ el mes que viene.",
+          "solucion_correcta": [
+            "hagamos"
+          ]
+        },
+        {
+          "texto_enunciado": "–Felipe me llama todos los días. –Seguramente le (gustar) _____.",
+          "solucion_correcta": [
+            "gustas/gustes"
+          ]
+        },
+        {
+          "texto_enunciado": "Es imposible (encontrar) _____ habitación en ningún hotel. Están todos llenos.",
+          "solucion_correcta": [
+            "encontrar"
+          ]
+        },
+        {
+          "texto_enunciado": "–Luis no nos saludó anoche. –Probablemente no os (ver) _____.",
+          "solucion_correcta": [
+            "vio/viera"
+          ]
+        },
+        {
+          "texto_enunciado": "–Me apetece comer algo. –Es imposible que (tener) _____ hambre. Hemos comido hace una hora.",
+          "solucion_correcta": [
+            "tengas"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche no dormí bien. Puede que me (sentar) _____ algo mal.",
+          "solucion_correcta": [
+            "sentara"
+          ]
+        }
+      ]
+    }
+  ]
+}

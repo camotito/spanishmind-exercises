@@ -1,0 +1,168 @@
+{
+  "tema": "unidad-117",
+  "titulo": "para, para que",
+  "descripcion_gramatical": "Oraciones finales",
+  "fuente": "libro",
+  "unidad_libro": 117,
+  "ejercicios": [
+    {
+      "subejercicio": "117.1",
+      "tipologia": "T13",
+      "enunciado": "Forme frases uniendo los elementos de las dos columnas.",
+      "items": []
+    },
+    {
+      "subejercicio": "117.2",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases como en los ejemplos.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Lleva un paraguas o te mojarás.</u> _____.",
+          "solucion_correcta": [
+            "Lleva un paraguas para no mojarte"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Préstales el libro o no podrán estudiar.</u> _____.",
+          "solucion_correcta": [
+            "Préstales el libro para que puedan estudiar"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Pon la radio o no oirás las noticias.</u> _____.",
+          "solucion_correcta": [
+            "Pon la radio para oír las noticias"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Daos prisa o llegaréis tarde.</u> _____.",
+          "solucion_correcta": [
+            "Daos prisa para no llegar tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Baja la televisión o no se dormirá el niño.</u> _____.",
+          "solucion_correcta": [
+            "Baja la televisión para que se duerma el niño"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Venid a casa o se enfadará mi hermano.</u> _____.",
+          "solucion_correcta": [
+            "Venid a casa para que no se enfade mi hermano"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Tengo que ahorrar o no me compraré la moto.</u> _____.",
+          "solucion_correcta": [
+            "Tengo que ahorrar para comprarme la moto"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "117.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Tienes que venir a casa para que te (conozcan/conocieran) mis padres.",
+          "solucion_correcta": [
+            "conozcan"
+          ]
+        },
+        {
+          "texto_enunciado": "Tuve que llamar a Raquel para que me (abra/abriera) la puerta.",
+          "solucion_correcta": [
+            "abriera"
+          ]
+        },
+        {
+          "texto_enunciado": "Cierra la ventana para que no nos (vean/vieran) los vecinos.",
+          "solucion_correcta": [
+            "vean"
+          ]
+        },
+        {
+          "texto_enunciado": "Abre la ventana para que (entre/entrara) el aire.",
+          "solucion_correcta": [
+            "entre"
+          ]
+        },
+        {
+          "texto_enunciado": "Llama a Víctor para que (vaya/fuera) preparando la cena.",
+          "solucion_correcta": [
+            "vaya"
+          ]
+        },
+        {
+          "texto_enunciado": "Llamé a Sara para que (vaya/fuera) a recoger las entradas.",
+          "solucion_correcta": [
+            "fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "Me escondí detrás de un árbol para que no me (vea/viera) nadie.",
+          "solucion_correcta": [
+            "viera"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "117.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las oraciones finales con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Hice las camas (tú, descansar) _____.",
+          "solucion_correcta": [
+            "para que descansaras"
+          ]
+        },
+        {
+          "texto_enunciado": "Vinieron a Madrid (ellos, ver) _____ la final del campeonato.",
+          "solucion_correcta": [
+            "para / a ver"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis quiere dar una fiesta (nosotros, conocer) _____ a su novia.",
+          "solucion_correcta": [
+            "para que conozcamos"
+          ]
+        },
+        {
+          "texto_enunciado": "En verano vamos a pasar por Quito (nosotros, ver) _____ a tu prima.",
+          "solucion_correcta": [
+            "para / a ver"
+          ]
+        },
+        {
+          "texto_enunciado": "Saldremos de noche (los niños, no, pasar) _____ calor.",
+          "solucion_correcta": [
+            "para que los niños no pasen"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer salimos (nosotros, tomar) _____ un poco el aire.",
+          "solucion_correcta": [
+            "a tomar"
+          ]
+        },
+        {
+          "texto_enunciado": "Voy a comprar unos huevos (Manu, hacer) _____ un flan.",
+          "solucion_correcta": [
+            "para que Manu haga"
+          ]
+        },
+        {
+          "texto_enunciado": "Llamé a Ricardo (él, recoger) _____ a Marga en la estación.",
+          "solucion_correcta": [
+            "para que recogiera"
+          ]
+        }
+      ]
+    }
+  ]
+}

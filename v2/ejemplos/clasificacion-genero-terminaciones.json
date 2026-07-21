@@ -1,0 +1,144 @@
+{
+  "tema": "clasificacion-genero-terminaciones",
+  "titulo": "el libro, la mesa",
+  "descripcion_gramatical": "Masculino, femenino (2)",
+  "fuente": "libro",
+  "unidad_libro": 2,
+  "ejercicios": [
+    {
+      "subejercicio": "2.1",
+      "tipologia": "T14",
+      "enunciado": "Clasifique los siguientes nombres en la tabla.",
+      "items": [],
+      "banco_palabras": [
+        "atención",
+        "cama",
+        "casa",
+        "cine",
+        "ciudad",
+        "cuaderno",
+        "cumpleaños",
+        "día",
+        "expresión",
+        "foto",
+        "habitación",
+        "hotel",
+        "idioma",
+        "lámpara",
+        "lápiz",
+        "leche",
+        "libro",
+        "luz",
+        "mano",
+        "minuto",
+        "museo",
+        "noche",
+        "página",
+        "planeta",
+        "problema",
+        "radio",
+        "teatro",
+        "teléfono",
+        "universidad",
+        "vaso",
+        "ventana",
+        "viernes"
+      ]
+    },
+    {
+      "subejercicio": "2.2",
+      "tipologia": "T14",
+      "enunciado": "Complete las siguientes tablas con los animales correspondientes.",
+      "items": []
+    },
+    {
+      "subejercicio": "2.3",
+      "tipologia": "T2",
+      "enunciado": "Escriba lo que hay en cada ilustración con el o la como en el ejemplo. Consulte el diccionario en caso de duda.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un árbol",
+          "solucion_correcta": [
+            "el árbol"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un tren",
+          "solucion_correcta": [
+            "el tren"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un diccionario",
+          "solucion_correcta": [
+            "el diccionario"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una mariposa",
+          "solucion_correcta": [
+            "la mariposa"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un gorila",
+          "solucion_correcta": [
+            "el gorila"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una llave",
+          "solucion_correcta": [
+            "la llave"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de la entrada de un hospital",
+          "solucion_correcta": [
+            "el hospital"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un tenedor",
+          "solucion_correcta": [
+            "el tenedor"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de un pez",
+          "solucion_correcta": [
+            "el pez"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una nariz",
+          "solucion_correcta": [
+            "la nariz"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "árbol",
+        "diccionario",
+        "gorila",
+        "hospital",
+        "llave",
+        "mariposa",
+        "nariz",
+        "pez",
+        "tenedor",
+        "tren"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "tema": "unidad-125",
+  "titulo": "Arturo Sánchez",
+  "descripcion_gramatical": "Uso de mayúsculas",
+  "fuente": "libro",
+  "unidad_libro": 125,
+  "ejercicios": [
+    {
+      "subejercicio": "125.1",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases utilizando mayúsculas donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "mi padre nació en holanda. _____.",
+          "solucion_correcta": [
+            "Mi padre nació en Holanda."
+          ]
+        },
+        {
+          "texto_enunciado": "ayer fue dos de enero. fue el cumpleaños de manuel. _____.",
+          "solucion_correcta": [
+            "Ayer fue dos de enero. Fue el cumpleaños de Manuel."
+          ]
+        },
+        {
+          "texto_enunciado": "hay una exposición sobre los incas en el museo de américa. la ha inaugurado el rey juan carlos. _____.",
+          "solucion_correcta": [
+            "Hay una exposición sobre los incas en el Museo de América. La ha inaugurado el rey Juan Carlos."
+          ]
+        },
+        {
+          "texto_enunciado": "el martes estuve en la fundación san carlos con el señor arroyo. _____.",
+          "solucion_correcta": [
+            "El martes estuve en la Fundación San Carlos con el señor Arroyo."
+          ]
+        },
+        {
+          "texto_enunciado": "la ciudad de las columnas es un libro de alejo carpentier sobre la habana. _____.",
+          "solucion_correcta": [
+            "La ciudad de las columnas es un libro de Alejo Carpentier sobre La Habana."
+          ]
+        },
+        {
+          "texto_enunciado": "¿quién pintó la maja desnuda? _____.",
+          "solucion_correcta": [
+            "¿Quién pintó La maja desnuda?"
+          ]
+        },
+        {
+          "texto_enunciado": "muchas ong colaboran con la onu en países del tercer mundo. _____.",
+          "solucion_correcta": [
+            "Muchas ONG colaboran con la ONU en países del Tercer Mundo."
+          ]
+        },
+        {
+          "texto_enunciado": "¡qué impresionantes son las cataratas de iguazú! _____.",
+          "solucion_correcta": [
+            "¡Qué impresionantes son las cataratas de Iguazú!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "125.2",
+      "tipologia": "T11",
+      "enunciado": "Corrija los errores en el uso de mayúsculas y minúsculas.",
+      "items": [
+        {
+          "texto_enunciado": "Gerardo nació El 23 de Enero. _____.",
+          "solucion_correcta": [
+            "Gerardo nació el 23 de enero."
+          ]
+        },
+        {
+          "texto_enunciado": "Queremos ir a CHina en Diciembre. _____.",
+          "solucion_correcta": [
+            "Queremos ir a China en diciembre."
+          ]
+        },
+        {
+          "texto_enunciado": "¿has leído El Siglo de las Luces? _____.",
+          "solucion_correcta": [
+            "¿Has leído El siglo de las luces?"
+          ]
+        },
+        {
+          "texto_enunciado": "don Julio LLopis vivió muchos años en la Paz. _____.",
+          "solucion_correcta": [
+            "Don Julio Llopis vivió muchos años en La Paz."
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo fue la Guerra de la independencia? _____.",
+          "solucion_correcta": [
+            "¿Cuándo fue la Guerra de la Independencia?"
+          ]
+        },
+        {
+          "texto_enunciado": "La Reina Sofía es Griega. _____.",
+          "solucion_correcta": [
+            "La reina Sofía es griega."
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "125.3",
+      "tipologia": "T11",
+      "enunciado": "Copie el texto, corrigiendo los errores en el uso de mayúsculas.",
+      "items": [
+        {
+          "texto_enunciado": "querida Hermana:\nLLevo una semana en Buenos aires. Estoy\nalojado en el hotel sur, en la avenida riva-\ndavia, muy cerca del Centro.\nMe gusta mucho la Ciudad. Ayer visité la\ncasa rosada, donde vive el presidente del\nPaís. Esta noche voy a ir a escuchar Tangos\nal famoso Barrio de la boca. El Domingo\npróximo salgo para CHile.\n¿cuándo llegas Tú?\nbesos\n_____",
+          "solucion_correcta": [
+            "Querida hermana: Llevo una semana en Buenos Aires. Estoy alojado en el hotel Sur, en la avenida Rivadavia, muy cerca del centro. Me gusta mucho la ciudad. Ayer visité la Casa Rosada, donde vive el presidente del país. Esta noche voy a ir a escuchar tangos al famoso barrio de la Boca. El domingo próximo salgo para Chile. ¿Cuándo llegas tú? Besos."
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "125.4",
+      "tipologia": "T13",
+      "enunciado": "Una los nombres de las organizaciones con sus siglas.",
+      "items": [
+        {
+          "texto_enunciado": "Instituto Nacional del Libro Español _____",
+          "solucion_correcta": [
+            "Instituto Nacional del Libro Español (INLE)."
+          ]
+        },
+        {
+          "texto_enunciado": "Fondo Monetario Internacional _____",
+          "solucion_correcta": [
+            "Fondo Monetario Internacional (FMI)."
+          ]
+        },
+        {
+          "texto_enunciado": "Objeto volador no identificado _____",
+          "solucion_correcta": [
+            "Objeto volador no identificado (OVNI)."
+          ]
+        },
+        {
+          "texto_enunciado": "Comité Olímpico Internacional _____",
+          "solucion_correcta": [
+            "Comité Olímpico Internacional (COI)."
+          ]
+        },
+        {
+          "texto_enunciado": "Síndrome de Inmunodeficiencia Adquirida _____",
+          "solucion_correcta": [
+            "Síndrome de Inmunodeficiencia Adquirida (SIDA)."
+          ]
+        }
+      ]
+    }
+  ]
+}

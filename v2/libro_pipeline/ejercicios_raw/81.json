@@ -1,0 +1,110 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "81.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Espero que Ana (traer) _____ algo de postre. Yo no he comprado nada."
+        },
+        {
+          "texto_enunciado": "Me encanta que Álvaro (tener) _____ tantos amigos."
+        },
+        {
+          "texto_enunciado": "–¿Dónde está Carla? –Pregúntale a Mario. Es probable que él lo (saber) _____."
+        },
+        {
+          "texto_enunciado": "Luis y Pili quieren que (nosotros, ir) _____ de excursión este domingo. ¿Qué te parece?"
+        },
+        {
+          "texto_enunciado": "Yo invito. No quiero que (ustedes, decir) _____ que no lo hemos celebrado."
+        },
+        {
+          "texto_enunciado": "Habla un poco más alto. Puede que los de atrás no te (oír) _____."
+        },
+        {
+          "texto_enunciado": "¡Ojalá (hacer) _____ buen tiempo mañana! Queremos ir al campo."
+        },
+        {
+          "texto_enunciado": "No me gusta que (tú, conducir) _____ tan deprisa. Me pone nerviosa."
+        },
+        {
+          "texto_enunciado": "Bájate de ahí, Raúl. No quiero que (tú, caerse) _____."
+        },
+        {
+          "texto_enunciado": "–¿Vais a estar en casa esta noche? –No lo sé. Puede que (salir) _____."
+        },
+        {
+          "texto_enunciado": "Les voy a presentar a María. Quiero que la (conocer) _____."
+        },
+        {
+          "texto_enunciado": "Siento que no (haber) _____ más helado, pero se ha acabado."
+        }
+      ]
+    },
+    {
+      "subejercicio": "81.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos frases con que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Hay pobreza en el mundo. Me parece terrible. _____."
+        },
+        {
+          "texto_enunciado": "Mi gato huye cuando ve a un perro. Es lógico. _____."
+        },
+        {
+          "texto_enunciado": "Antonia no dice nunca la verdad. Me parece mal. _____."
+        },
+        {
+          "texto_enunciado": "Luciano y Adolfo no saben usar un ordenador. Me parece increíble. _____."
+        },
+        {
+          "texto_enunciado": "Pones siempre la mesa. Me parece bien. _____."
+        },
+        {
+          "texto_enunciado": "Tenéis siempre hambre; trabajáis mucho. Es natural. _____."
+        },
+        {
+          "texto_enunciado": "Susana no hace nunca la cama. No me parece bien. _____."
+        },
+        {
+          "texto_enunciado": "Destruyen los bosques. Es una vergüenza. _____."
+        }
+      ],
+      "tipologia_libre_original": "Reescritura mediante la unión de dos frases con «que», realizando los cambios gramaticales necesarios."
+    },
+    {
+      "subejercicio": "81.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con los verbos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "–Mira esos obreros. Se van a caer. –Es imposible que _____. Tienen cinturones de seguridad."
+        },
+        {
+          "texto_enunciado": "–Hay mucha gente en la exposición. –Es normal que _____ tanta gente. Es una pintora buenísima."
+        },
+        {
+          "texto_enunciado": "–Elsa sale con Tomás. –No me gusta que _____ con ese chico. Es muy celoso."
+        },
+        {
+          "texto_enunciado": "–¡Cuidado! Te van a oír. –Es igual. No me importa que me _____."
+        },
+        {
+          "texto_enunciado": "–¿Creéis que os puede reconocer? –Sí, tengo miedo de que nos _____."
+        },
+        {
+          "texto_enunciado": "–Gloria es educadísima. –Sí, me llama la atención que _____ tan educada."
+        }
+      ]
+    }
+  ],
+  "unidad": 81,
+  "titulo_libro": "conozca, diga, vaya... -- Presente de subjuntivo: verbos irregulares (2)",
+  "scan": "libro-rojo-172.png"
+}

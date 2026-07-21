@@ -1,0 +1,133 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "42.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases con soy, eres, es...",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer pregunta a un hombre y una mujer de dónde son."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer pregunta por Liz a un grupo de personas."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos chicas aparecen juntas y abrazadas."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer pregunta a dos hombres si son médicos."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un hombre pregunta a una mujer de dónde es."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una mujer entrega un billete de 25 euros a un hombre."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "¿De dónde _____? _____ mexicanos."
+        },
+        {
+          "texto_enunciado": "¿Quién _____ Liz? _____ yo."
+        },
+        {
+          "texto_enunciado": "_____ hermanas."
+        },
+        {
+          "texto_enunciado": "¿_____ ustedes médicos? No, _____ enfermeros."
+        },
+        {
+          "texto_enunciado": "¿De dónde _____? _____ de Barcelona."
+        },
+        {
+          "texto_enunciado": "_____ 25 euros."
+        }
+      ]
+    },
+    {
+      "subejercicio": "42.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las preguntas y las respuestas con soy, eres, es...",
+      "items": [
+        {
+          "texto_enunciado": "¿De dónde _____ (tú)? _____ de Quito."
+        },
+        {
+          "texto_enunciado": "¿De dónde _____ tus padres? _____ de Guayaquil."
+        },
+        {
+          "texto_enunciado": "¿Cuántos _____ en tu familia? _____ cuatro."
+        },
+        {
+          "texto_enunciado": "¿_____ profesor? No, _____ estudiante."
+        },
+        {
+          "texto_enunciado": "¿Qué hora _____? _____ las tres."
+        },
+        {
+          "texto_enunciado": "¿Qué día _____ hoy? _____ jueves."
+        },
+        {
+          "texto_enunciado": "¿_____ Rosa y tú hermanos? No, _____ primos."
+        },
+        {
+          "texto_enunciado": "¿A qué hora _____ la clase? _____ a las ocho."
+        },
+        {
+          "texto_enunciado": "¿Cuántos _____ en clase? _____ doce."
+        },
+        {
+          "texto_enunciado": "¿De quién _____ estos libros? _____ de la profesora."
+        }
+      ]
+    },
+    {
+      "subejercicio": "42.3",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Escriba frases con soy, eres, es... en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Elsa y Tomás / chilenos _____."
+        },
+        {
+          "texto_enunciado": "Usted / muy amable _____."
+        },
+        {
+          "texto_enunciado": "Esa mesa / de cristal _____."
+        },
+        {
+          "texto_enunciado": "Mi hermano y yo / no / morenos _____."
+        },
+        {
+          "texto_enunciado": "Vosotros / muy alegres _____."
+        },
+        {
+          "texto_enunciado": "Esos pantalones / no / de lana _____."
+        },
+        {
+          "texto_enunciado": "Ese libro / de Marta _____."
+        },
+        {
+          "texto_enunciado": "Ustedes / no / muy altos _____."
+        }
+      ],
+      "tipologia_libre_original": "Producción de oraciones completas afirmativas o negativas a partir de grupos de palabras separados por barras, utilizando la forma adecuada del verbo ser."
+    }
+  ],
+  "unidad": 42,
+  "titulo_libro": "soy, eres, es... -- Presente de indicativo de ser",
+  "scan": "libro-rojo-094.png"
+}

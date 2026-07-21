@@ -1,0 +1,135 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "68.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el futuro simple de los verbos del recuadro.",
+      "banco_palabras": [
+        "decir",
+        "haber",
+        "hacer",
+        "hacer",
+        "poner",
+        "saber",
+        "salir",
+        "venir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "–¿Has hecho la cama? –No, la _____ luego."
+        },
+        {
+          "texto_enunciado": "–¿Ha venido Sonia? –No, probablemente _____ más tarde."
+        },
+        {
+          "texto_enunciado": "Mañana _____ tormentas en el centro del país y _____ bastante frío en el norte."
+        },
+        {
+          "texto_enunciado": "–¿Le has dicho a Pepe que no podemos ir a su fiesta? –No, me da apuro. Se lo _____ mañana."
+        },
+        {
+          "texto_enunciado": "–¿Sabéis ya el resultado del examen? –No, pero lo _____ muy pronto."
+        },
+        {
+          "texto_enunciado": "–¿Ha salido ya Rocío? –No, _____ dentro de un rato."
+        },
+        {
+          "texto_enunciado": "–¿Has puesto el lavavajillas? –No, lo _____ esta noche después de cenar."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases conjugando en futuro simple los verbos proporcionados en un banco de palabras."
+    },
+    {
+      "subejercicio": "68.2",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Complete estas predicciones. ¿Cómo será la vida dentro de cincuenta años? Escriba frases con las palabras dadas.",
+      "items": [
+        {
+          "texto_enunciado": "La vida/ser/muy diferente. En el futuro _____."
+        },
+        {
+          "texto_enunciado": "La gente/vivir/más. _____."
+        },
+        {
+          "texto_enunciado": "La gente/trabajar/menos. _____."
+        },
+        {
+          "texto_enunciado": "Los robots/hacer/todos los trabajos físicos. _____."
+        },
+        {
+          "texto_enunciado": "Haber/ciudades satélite en el espacio. _____."
+        },
+        {
+          "texto_enunciado": "Muchas enfermedades/desaparecer. _____."
+        },
+        {
+          "texto_enunciado": "No/haber/guerras. _____."
+        },
+        {
+          "texto_enunciado": "Las casas/estar/informatizadas. _____."
+        }
+      ],
+      "tipologia_libre_original": "Escribir predicciones completas en futuro a partir de grupos de palabras separados por barras."
+    },
+    {
+      "subejercicio": "68.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Quién crees que (ganar) _____ la copa?"
+        },
+        {
+          "texto_enunciado": "Me imagino que cuando tenga cincuenta años (yo, estar) _____ calvo y (yo, tener) _____ muchas arrugas."
+        },
+        {
+          "texto_enunciado": "–¿Qué vais a hacer este verano? –Seguramente (ir) _____ a Viña."
+        },
+        {
+          "texto_enunciado": "–¿Has invitado a Carlos y a Toñi? –Sí, pero supongo que no (venir) _____."
+        },
+        {
+          "texto_enunciado": "No he visto a Lucía esta semana. ¿Crees que (acordarse) _____ de la cita?"
+        },
+        {
+          "texto_enunciado": "–¿Qué vas a estudiar, Rafa? –No lo sé. Probablemente (estudiar) _____ Medicina."
+        },
+        {
+          "texto_enunciado": "–¿Supongo que (venir) _____ todos el sábado? –No lo sé. Ana no está bien."
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Sabes dónde está Julia? –_____ en casa. No sale nunca."
+        },
+        {
+          "texto_enunciado": "–¿Tienes tú las entradas? –¿Yo? No, las _____ Blanca. Las ha comprado ella."
+        },
+        {
+          "texto_enunciado": "–¿Cuántas personas crees que hay en el teatro? –_____ unas cuarenta."
+        },
+        {
+          "texto_enunciado": "–¿Quién es la chica que está con Jorge? –No la conozco. _____ una amiga."
+        },
+        {
+          "texto_enunciado": "–¿Sabes a qué hora empieza el concierto? –No. Lo _____ Amalia. Ella tiene el programa."
+        },
+        {
+          "texto_enunciado": "–¿Sabes cuánto valen esos ordenadores? –No _____ mucho. Están de oferta."
+        }
+      ]
+    }
+  ],
+  "unidad": 68,
+  "titulo_libro": "habré, podré... -- Futuro simple: verbos irregulares",
+  "scan": "libro-rojo-146.png"
+}

@@ -56,7 +56,7 @@
       "items": [
         {"texto_enunciado": "Estudio (2.º) _____ curso de Arquitectura.", "solucion_correcta": ["segundo"]},
         {"texto_enunciado": "Enero es el (1.º) _____ mes del año.", "solucion_correcta": ["primer"]},
-        {"texto_enunciado": "Estoy leyendo un libro con (15) _____ capítulos. Voy por el capítulo (11.º) _____.", "solucion_correcta": ["quince", "undécimo"]},
+        {"texto_enunciado": "Estoy leyendo un libro con (15) _____ capítulos. Voy por el capítulo (11.º) _____.", "solucion_correcta": ["quince", "once"]},
         {"texto_enunciado": "El Valencia es el (1.º) _____ en la Liga de fútbol.", "solucion_correcta": ["primero"]},
         {"texto_enunciado": "Javi es el (3.º) _____ de sus hermanos.", "solucion_correcta": ["tercero"]},
         {"texto_enunciado": "Ellas han sido las (1.ª) _____ en llegar.", "solucion_correcta": ["primeras"]},

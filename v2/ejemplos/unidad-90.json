@@ -1,0 +1,219 @@
+{
+  "tema": "unidad-90",
+  "titulo": "Me pidió que le ayudara",
+  "descripcion_gramatical": "Estilo indirecto (3)",
+  "fuente": "libro",
+  "unidad_libro": 90,
+  "ejercicios": [
+    {
+      "subejercicio": "90.1",
+      "tipologia": "T12",
+      "enunciado": "Ponga las órdenes y peticiones en estilo indirecto, comenzando con dice, me ha dicho o me ha pedido.",
+      "items": [
+        {
+          "texto_enunciado": "“¡Que venga Aurora!” (La directora) _____.",
+          "solucion_correcta": [
+            "La directora dice que venga Aurora"
+          ]
+        },
+        {
+          "texto_enunciado": "“¿Me puedes ayudar?” (Raquel) _____.",
+          "solucion_correcta": [
+            "Raquel me ha pedido que la ayude"
+          ]
+        },
+        {
+          "texto_enunciado": "“Escribid más claro.” (El profesor) _____.",
+          "solucion_correcta": [
+            "El profesor nos ha dicho que escribamos más claro"
+          ]
+        },
+        {
+          "texto_enunciado": "“Llámame el lunes.” (Roberto) _____.",
+          "solucion_correcta": [
+            "Roberto me ha dicho / dice que le llamemos el lunes"
+          ]
+        },
+        {
+          "texto_enunciado": "“Llévame unas bolsas a casa, por favor.” (Mi madre) _____.",
+          "solucion_correcta": [
+            "Mi madre me ha pedido que le lleve unas bolsas a casa"
+          ]
+        },
+        {
+          "texto_enunciado": "“¿Puedes explicarme esta lección?” (Ramón) _____.",
+          "solucion_correcta": [
+            "Ramón me ha pedido que le explique la lección"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "90.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las respuestas con los verbos del recuadro en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Adónde vas, Fede? –El director dice que _____ verme.",
+          "solucion_correcta": [
+            "quiere"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué es eso? –Unos libros. Mar me ha pedido que te los _____.",
+          "solucion_correcta": [
+            "traiga"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Ya no sales con Paz? –No, me dijo que no _____ a llamarla.",
+          "solucion_correcta": [
+            "volviera"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Por qué corres? –Dice Marisa que nos _____ prisa, que vamos a llegar tarde.",
+          "solucion_correcta": [
+            "demos"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Por qué se enfadó Paco? –Porque me pidió que le _____ la moto y le dije que no.",
+          "solucion_correcta": [
+            "dejara"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Vienes a la academia? –No, el profesor me dijo que _____ hoy más tarde.",
+          "solucion_correcta": [
+            "fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Por qué estás tan contenta, Pili? –Porque me han pedido que _____ a Venezuela.",
+          "solucion_correcta": [
+            "vaya"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué te dijo ayer Raúl Torres? –Que no _____ más en su plaza de garaje.",
+          "solucion_correcta": [
+            "aparcara"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "aparcar",
+        "dar",
+        "dejar",
+        "ir",
+        "ir",
+        "querer",
+        "traer",
+        "volver"
+      ]
+    },
+    {
+      "subejercicio": "90.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con las formas del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Teresa me _____ que no llegaría a tiempo.",
+          "solucion_correcta": [
+            "advirtió"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto me ha _____ que me case con él.",
+          "solucion_correcta": [
+            "pedido"
+          ]
+        },
+        {
+          "texto_enunciado": "Por favor, Lola. Te _____ que me ayudes. Necesito ayuda.",
+          "solucion_correcta": [
+            "ruego"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han _____ que estudie Económicas, pero yo prefiero Derecho.",
+          "solucion_correcta": [
+            "aconsejado"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa se indignó con Javier y le _____ que le pidiera disculpas.",
+          "solucion_correcta": [
+            "exigió"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis _____ que cenemos primero y vayamos luego al cine.",
+          "solucion_correcta": [
+            "sugiere"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "aconsejado",
+        "advirtió",
+        "exigió",
+        "pedido",
+        "ruego",
+        "sugiere"
+      ]
+    },
+    {
+      "subejercicio": "90.4",
+      "tipologia": "T8",
+      "enunciado": "Complete los diálogos con las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "–Tienes mala cara, Pedro. –Sí, lo sé. Me han aconsejado _____.",
+          "solucion_correcta": [
+            "que vaya al médico"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Por qué estás enfadado? –El jefe me ha pedido _____.",
+          "solucion_correcta": [
+            "que haga horas extras"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Por qué estabas en casa de Nico el sábado? –Me había pedido _____.",
+          "solucion_correcta": [
+            "que cuidara a los niños"
+          ]
+        },
+        {
+          "texto_enunciado": "Te ruego _____. Estoy intentando estudiar.",
+          "solucion_correcta": [
+            "que te calles"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué podemos hacer el sábado? –Luis sugiere _____.",
+          "solucion_correcta": [
+            "que hagamos una excursión"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué le pasó a Lucía el otro día? –No puedo decírtelo. Me rogó _____.",
+          "solucion_correcta": [
+            "que no dijera nada"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "callarse",
+        "cuidar a los niños",
+        "hacer una excursión",
+        "hacer horas extras",
+        "ir al médico",
+        "no decir nada"
+      ]
+    }
+  ]
+}

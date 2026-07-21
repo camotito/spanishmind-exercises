@@ -1,0 +1,244 @@
+{
+  "tema": "unidad-83",
+  "titulo": "fuera, tuviera...",
+  "descripcion_gramatical": "Pretérito imperfecto de subjuntivo: verbos irregulares",
+  "fuente": "libro",
+  "unidad_libro": 83,
+  "ejercicios": [
+    {
+      "subejercicio": "83.1",
+      "tipologia": "T12",
+      "enunciado": "¿Qué diría? Escriba frases con quien y el pretérito imperfecto de subjuntivo del verbo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "A alguien le gustaría ser más alto. _____",
+          "solucion_correcta": [
+            "¡Quién fuera/fuese más alto!"
+          ]
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría poder vivir en Guatemala, pero lo ve difícil. _____",
+          "solucion_correcta": [
+            "¡Quién pudiera/pudiese vivir en Guatemala!"
+          ]
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría saber hablar chino, pero lo ve difícil. _____",
+          "solucion_correcta": [
+            "¡Quién supiera/supiese hablar chino!"
+          ]
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría tener tanta suerte como un amigo, pero lo ve difícil. _____",
+          "solucion_correcta": [
+            "¡Quién tuviera/tuviese tanta suerte como tú!"
+          ]
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría estar ahora de vacaciones, pero no lo está. _____",
+          "solucion_correcta": [
+            "¡Quién estuviera/estuviese ahora de vacaciones!"
+          ]
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría conducir un coche de carreras, pero lo ve difícil. _____",
+          "solucion_correcta": [
+            "¡Quién condujera/condujese un coche de carreras!"
+          ]
+        },
+        {
+          "texto_enunciado": "A alguien le gustaría sonreír siempre, pero no es posible. _____",
+          "solucion_correcta": [
+            "¡Quién sonriera/sonriese siempre!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "83.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro en imperfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Era imposible que _____ las maletas. Estaban bien sujetas.",
+          "solucion_correcta": [
+            "se cayeran/cayesen"
+          ]
+        },
+        {
+          "texto_enunciado": "Sería maravilloso que _____ mucho trabajo. Podríamos ahorrar para un piso.",
+          "solucion_correcta": [
+            "tuviéramos/tuviésemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Me llamó la atención que le _____ el diccionario a Gabriel. No sois amigos.",
+          "solucion_correcta": [
+            "pidieras/pidieses"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué habéis traído pasteles? No era necesario que _____ nada.",
+          "solucion_correcta": [
+            "trajerais/trajeseis"
+          ]
+        },
+        {
+          "texto_enunciado": "El profesor no quería que _____ las frases.",
+          "solucion_correcta": [
+            "tradujéramos/tradujésemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdonen, pero preferiría que no _____ fuego aquí.",
+          "solucion_correcta": [
+            "hicieran/hiciesen"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encantaría que _____ pasar unos días conmigo. Lo paso muy bien con vosotras.",
+          "solucion_correcta": [
+            "pudierais/pudieseis"
+          ]
+        },
+        {
+          "texto_enunciado": "—Josefina sintió mucho que no te _____ el empleo. —Puede que lo _____, pero no me dijo nada.",
+          "solucion_correcta": [
+            "dieran/diesen",
+            "sintiera/sintiese"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi padre esperaba que _____ abogado como él, pero yo no quise.",
+          "solucion_correcta": [
+            "fuera/fuese"
+          ]
+        },
+        {
+          "texto_enunciado": "Sería bueno que _____ más, niños. Leer es importante.",
+          "solucion_correcta": [
+            "leyerais/leyeseis"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Por qué no vinieron cuando los llamé? —Puede que no te _____.",
+          "solucion_correcta": [
+            "oyeran/oyesen"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría que _____ menos violencia en el mundo.",
+          "solucion_correcta": [
+            "hubiera/hubiese"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "caerse",
+        "dar",
+        "haber",
+        "hacer",
+        "leer",
+        "oír",
+        "pedir",
+        "poder",
+        "sentir",
+        "ser",
+        "tener",
+        "traducir",
+        "traer"
+      ]
+    },
+    {
+      "subejercicio": "83.3",
+      "tipologia": "T10",
+      "enunciado": "Una las dos oraciones con que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No vinisteis a la fiesta. Me extrañó. _____.",
+          "solucion_correcta": [
+            "Me extrañó que no vinierais/vinieseis a la fiesta"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos hicieron una foto. No nos gustó. _____.",
+          "solucion_correcta": [
+            "No nos gustó que nos hicieran/hiciesen una foto"
+          ]
+        },
+        {
+          "texto_enunciado": "Elegiste mi clase. Me alegré de ello. _____.",
+          "solucion_correcta": [
+            "Me alegré de que eligieras/eligieses mi clase"
+          ]
+        },
+        {
+          "texto_enunciado": "Rafa tuvo que irse. Lo sentimos. _____.",
+          "solucion_correcta": [
+            "Sentimos que Rafa tuviera/tuviese que irse"
+          ]
+        },
+        {
+          "texto_enunciado": "Raúl no vino a mi fiesta. No me importó. _____.",
+          "solucion_correcta": [
+            "No me importó que Raúl no viniera/viniese a mi fiesta"
+          ]
+        },
+        {
+          "texto_enunciado": "Gisele dijo que yo había mentido. Me molestó. _____.",
+          "solucion_correcta": [
+            "Me molestó que Gisele dijera/dijese que yo había mentido"
+          ]
+        },
+        {
+          "texto_enunciado": "Te reíste de Blas. Me pareció mal. _____.",
+          "solucion_correcta": [
+            "Me pareció mal que te rieras/rieses de Blas"
+          ]
+        },
+        {
+          "texto_enunciado": "No me hiciste caso. No me gustó. _____.",
+          "solucion_correcta": [
+            "No me gustó que no me hicieras/hicieses caso"
+          ]
+        },
+        {
+          "texto_enunciado": "Jesús y Luis durmieron ocho horas. Me extrañó. _____.",
+          "solucion_correcta": [
+            "Me extrañó que Jesús y Luis durmieran/durmiesen ocho horas"
+          ]
+        },
+        {
+          "texto_enunciado": "Tus hermanas no quisieron salir con nosotras. Me pareció lógico. _____.",
+          "solucion_correcta": [
+            "Me pareció lógico que tus hermanas no quisieran/quisiesen salir con nosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "Los niños nos dieron la bienvenida. Nos encantó. _____.",
+          "solucion_correcta": [
+            "Nos encantó que los niños nos dieran/diesen la bienvenida"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto hizo la cena. Nos extrañó. _____.",
+          "solucion_correcta": [
+            "Nos extrañó que Alberto hiciera/hiciese la cena"
+          ]
+        },
+        {
+          "texto_enunciado": "Su perro se murió joven. Lo sintió. _____.",
+          "solucion_correcta": [
+            "Sintió mucho que su perro muriera/muriese tan joven"
+          ]
+        },
+        {
+          "texto_enunciado": "Construyeron un cine en su barrio. Se alegró mucho. _____.",
+          "solucion_correcta": [
+            "Se alegró mucho de que construyeran/construyesen un cine en su barrio"
+          ]
+        }
+      ]
+    }
+  ]
+}

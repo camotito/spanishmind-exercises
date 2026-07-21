@@ -1,0 +1,192 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "34.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Escriba el pronombre correspondiente.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un hombre señala a dos mujeres."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Tres mujeres juntas; una de ellas habla."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una mujer joven habla con un hombre mayor."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer se señala a sí misma."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Tres mujeres; una habla y señala a las otras dos."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Dos mujeres juntas; una se señala a sí misma y a la otra."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Un hombre habla con un chico y una chica."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Dos mujeres; una señala a la otra."
+          },
+          {
+            "numero": "9",
+            "descripcion": "Un chico señala a un hombre mayor."
+          },
+          {
+            "numero": "10",
+            "descripcion": "Una mujer aparece delante de un grupo de personas."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____"
+        },
+        {
+          "texto_enunciado": "2. _____"
+        },
+        {
+          "texto_enunciado": "3. _____"
+        },
+        {
+          "texto_enunciado": "4. _____"
+        },
+        {
+          "texto_enunciado": "5. _____"
+        },
+        {
+          "texto_enunciado": "6. _____"
+        },
+        {
+          "texto_enunciado": "7. _____"
+        },
+        {
+          "texto_enunciado": "8. _____"
+        },
+        {
+          "texto_enunciado": "9. _____"
+        },
+        {
+          "texto_enunciado": "10. _____"
+        }
+      ]
+    },
+    {
+      "subejercicio": "34.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe y escriba España, América Latina o España y América Latina.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer se dirige a varias personas y dice: «¿Cómo están ustedes?»"
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer se dirige a otras mujeres y dice: «Tengo hambre. ¿Y vosotras?»"
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un hombre invita a pasar a varias personas y dice: «Pasen ustedes, por favor.»"
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre se dirige a varias personas y pregunta: «¿Son ustedes estudiantes?»"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. ¿Cómo están ustedes? _____"
+        },
+        {
+          "texto_enunciado": "2. Tengo hambre. ¿Y vosotras? _____"
+        },
+        {
+          "texto_enunciado": "3. Pasen ustedes, por favor. _____"
+        },
+        {
+          "texto_enunciado": "4. ¿Son ustedes estudiantes? _____"
+        }
+      ]
+    },
+    {
+      "subejercicio": "34.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Lea la información y complete las frases con yo, tú... solo cuando sea necesario.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Tabla con las columnas Pep, Concha, Adriana, Gabriel y Rosita.",
+          "Nacionalidad: Pep, española; Concha, española; Adriana, argentina; Gabriel, mexicana; Rosita, mexicana.",
+          "Ciudad: Pep, Barcelona; Concha, Murcia; Adriana, Córdoba; Gabriel, Monterrey; Rosita, Mérida.",
+          "Ocupación: Pep, periodista; Concha, estudiante; Adriana, enfermera; Gabriel, periodista; Rosita, estudiante."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. PEP: Concha y _____ somos españoles. _____ es de Murcia y _____ soy de Barcelona."
+        },
+        {
+          "texto_enunciado": "2. CONCHA: Gabriel y Rosita son mexicanos. _____ es de Mérida y _____ es de Monterrey."
+        },
+        {
+          "texto_enunciado": "3. GABRIEL: ¿De dónde es Adriana? PEP: _____ es argentina."
+        },
+        {
+          "texto_enunciado": "4. ROSITA: Concha y _____ somos estudiantes. _____ es española y _____ soy mexicana."
+        },
+        {
+          "texto_enunciado": "5. ADRIANA: ¿De dónde son Pep y Concha? GABRIEL: _____ son españoles. _____ es estudiante y _____ es periodista."
+        }
+      ]
+    },
+    {
+      "subejercicio": "34.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el pronombre personal cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "1. —¿De dónde sois Adolfo y _____? —_____ somos de Uruguay."
+        },
+        {
+          "texto_enunciado": "2. —¿Dónde vives _____? —_____ vivo en Murcia. ¿Y _____? —_____ vivo en Granada."
+        },
+        {
+          "texto_enunciado": "3. —Perdone, ¿de dónde son _____? —_____ somos de Arequipa."
+        },
+        {
+          "texto_enunciado": "4. _____ estudiamos Medicina."
+        },
+        {
+          "texto_enunciado": "5. _____ quiero un café, y _____ ¿qué queréis?"
+        },
+        {
+          "texto_enunciado": "6. Mira, Lucía y Ana. _____ son amigas de Blanca."
+        },
+        {
+          "texto_enunciado": "7. _____ quiero ser abogada, pero mis padres quieren que estudie Medicina."
+        }
+      ]
+    }
+  ],
+  "unidad": 34,
+  "titulo_libro": "yo, tú, él... -- Pronombres personales de sujeto",
+  "scan": "libro-rojo-078.png"
+}

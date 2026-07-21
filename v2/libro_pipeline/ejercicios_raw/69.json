@@ -1,0 +1,157 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "69.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué van a hacer esta tarde? Observe las ilustraciones y escriba frases con las expresiones del recuadro.",
+      "banco_palabras": [
+        "bañarse",
+        "jugar al tenis",
+        "pescar",
+        "trabajar en el jardín"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Dos mujeres con raquetas de tenis."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Dos hombres en traje de baño con gafas de natación."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un hombre pescando con una caña."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre con sombrero y tijeras de podar."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ ."
+        },
+        {
+          "texto_enunciado": "_____ ."
+        },
+        {
+          "texto_enunciado": "_____ ."
+        },
+        {
+          "texto_enunciado": "_____ ."
+        }
+      ]
+    },
+    {
+      "subejercicio": "69.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué van a hacer? Complete las frases con los verbos del recuadro.",
+      "banco_palabras": [
+        "acostarse",
+        "beber",
+        "comer",
+        "encender",
+        "estudiar",
+        "lavar",
+        "ver"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "El coche está sucio. Lo _____."
+        },
+        {
+          "texto_enunciado": "Tengo hambre. _____ algo."
+        },
+        {
+          "texto_enunciado": "Estamos cansados. _____."
+        },
+        {
+          "texto_enunciado": "Tengo sed. _____ algo."
+        },
+        {
+          "texto_enunciado": "Mañana tenemos un examen. _____ un poco."
+        },
+        {
+          "texto_enunciado": "_____ la calefacción. Tengo frío."
+        },
+        {
+          "texto_enunciado": "Estoy aburrido. _____ una película."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases con la perífrasis ir a + infinitivo utilizando los verbos de un banco de palabras."
+    },
+    {
+      "subejercicio": "69.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Qué (hacer) _____ ustedes este verano? —Los niños (pasar) _____ unos días en un campamento, y Celia y yo (ir) _____ a Marbella. —¿Y dónde (alojarse) _____? —En un chalé alquilado. Lo (compartir) _____ con unos amigos."
+        },
+        {
+          "texto_enunciado": "—¿Cuándo (arreglar) _____ tu habitación, Marta? —Hoy no puedo. (Ir) _____ a la fiesta de Sandra. Es su cumpleaños. —¿Y qué le (regalar) _____? —No lo sé. Ahora le (comprar) _____ algo."
+        },
+        {
+          "texto_enunciado": "—¿Cuándo (ver) _____ a Luchi? —El domingo. (Salir) _____ con ella y con Elena. —¿Adónde (ir) _____? —(Cenar) _____ fuera."
+        }
+      ]
+    },
+    {
+      "subejercicio": "69.4",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases con los verbos del recuadro.",
+      "banco_palabras": [
+        "aterrizar",
+        "empezar",
+        "perder",
+        "tener"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una pareja; la mujer está embarazada."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un público ante el escenario de un teatro."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos personas observan un avión que se aproxima a tierra."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Dos personas corren detrás de un autobús."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ un niño."
+        },
+        {
+          "texto_enunciado": "¡Silencio! _____ la obra."
+        },
+        {
+          "texto_enunciado": "Mira. _____."
+        },
+        {
+          "texto_enunciado": "¡_____ el autobús!"
+        }
+      ]
+    }
+  ],
+  "unidad": 69,
+  "titulo_libro": "voy a salir... -- Presente de ir a + infinitivo",
+  "scan": "libro-rojo-148.png"
+}

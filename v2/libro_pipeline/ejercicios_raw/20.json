@@ -1,0 +1,164 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "20.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases con todo, algún, un, ningún... y las palabras del recuadro.",
+      "banco_palabras": [
+        "caja",
+        "caja",
+        "coche",
+        "manzana",
+        "pera",
+        "plato",
+        "vaso",
+        "vaso"
+      ],
+      "contexto_grafico": {
+        "tipo": "visual_count",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Cinco cajas abiertas y vacías."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Varias cajas, algunas abiertas y una cerrada."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Varios platos, algunos enteros y otros rotos."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Varios vasos enteros y un vaso roto."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una fila de coches parados."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Varias manzanas, una de ellas podrida."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Varias peras sin ninguna podrida."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Varios vasos relucientes."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ están vacías."
+        },
+        {
+          "texto_enunciado": "_____ están cerradas."
+        },
+        {
+          "texto_enunciado": "_____ están rotos."
+        },
+        {
+          "texto_enunciado": "_____ está roto."
+        },
+        {
+          "texto_enunciado": "_____ están parados."
+        },
+        {
+          "texto_enunciado": "_____ está podrida."
+        },
+        {
+          "texto_enunciado": "_____ está podrida."
+        },
+        {
+          "texto_enunciado": "_____ están relucientes."
+        }
+      ]
+    },
+    {
+      "subejercicio": "20.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Escriba todo, algún, un, ningún... según corresponda.",
+      "items": [
+        {
+          "texto_enunciado": "Alicia está estudiando con _____ compañeros."
+        },
+        {
+          "texto_enunciado": "En _____ países de África se habla español."
+        },
+        {
+          "texto_enunciado": "¿Has estado en _____ país de América?"
+        },
+        {
+          "texto_enunciado": "_____ mi familia habla español."
+        },
+        {
+          "texto_enunciado": "_____ mis amigas son simpáticas."
+        },
+        {
+          "texto_enunciado": "_____ aves no pueden volar."
+        },
+        {
+          "texto_enunciado": "_____ elefante come carne."
+        }
+      ]
+    },
+    {
+      "subejercicio": "20.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con uno, alguno, ninguno... + de cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer conocí a _____ tus hermanos."
+        },
+        {
+          "texto_enunciado": "¿_____ ustedes habla quechua?"
+        },
+        {
+          "texto_enunciado": "No he conocido a _____ mis abuelas."
+        },
+        {
+          "texto_enunciado": "¿Trabaja _____ tus hermanos?"
+        },
+        {
+          "texto_enunciado": "Felipe sale con _____ mis amigas."
+        },
+        {
+          "texto_enunciado": "_____ nosotros ha estado en la Isla de Pascua, pero nos gustaría ir."
+        }
+      ]
+    },
+    {
+      "subejercicio": "20.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con todo, algún, ningún...",
+      "items": [
+        {
+          "texto_enunciado": "—¿Conoces a los amigos de Pedro? —Conozco a _____, pero no a _____."
+        },
+        {
+          "texto_enunciado": "—¿Has comprado ya los libros? —Sí, los he comprado _____."
+        },
+        {
+          "texto_enunciado": "—¿Conoces algún país de Asia? —No, no conozco _____."
+        },
+        {
+          "texto_enunciado": "—¿Has visto a alguna de mis hermanas? —No, no he visto a _____."
+        },
+        {
+          "texto_enunciado": "Me encantan las mariposas. _____ tienen las alas muy bonitas."
+        }
+      ]
+    }
+  ],
+  "unidad": 20,
+  "titulo_libro": "todos, algunos, unos, ninguno... -- Indefinidos (1)",
+  "scan": "libro-rojo-050.png"
+}

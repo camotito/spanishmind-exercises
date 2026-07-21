@@ -1,0 +1,47 @@
+{
+  "T8": [
+    "Completar con Banco de Palabras Adaptadas",
+    "Se ofrece un conjunto compartido de opciones (verbos en infinitivo, adjetivos, expresiones...) -- en un recuadro visual o enumeradas en el propio enunciado -- y el alumno debe elegir la adecuada para cada hueco y adaptarla (conjugarla, concordarla en género/número) al contexto de la frase.",
+    "Entrenar la selección léxica contextual junto con la flexión morfológica correcta, sin la ambigüedad de un hueco totalmente libre ni la rigidez de un estímulo fijo por hueco."
+  ],
+  "T9": [
+    "Ordenar Palabras o Segmentos Dados",
+    "Se presentan las palabras o segmentos de una frase desordenados (a menudo separados por barras oblicuas) y el alumno debe reescribirlos en el orden correcto, a veces completando además alguna parte de la frase.",
+    "Practicar el orden sintáctico correcto de la oración en español (posición del verbo, pronombres, adjetivos...) de forma explícita."
+  ],
+  "T10": [
+    "Combinar Dos Oraciones en Una",
+    "Se presentan dos oraciones independientes y el alumno debe unirlas en una sola oración usando el conector, relativo o estructura gramatical indicada (en el enunciado o entre paréntesis), realizando los cambios sintácticos necesarios.",
+    "Practicar la subordinación y coordinación de oraciones, y el manejo de nexos (relativos, causales, concesivos, consecutivos...) en producción libre."
+  ],
+  "T11": [
+    "Reescribir una Oración Transformada",
+    "Se da una oración completa y el alumno debe reescribirla entera aplicando una transformación indicada: cambiar a forma negativa, insertar una expresión en un punto marcado, corregir un error, adaptar mayúsculas...",
+    "Practicar una transformación gramatical u ortográfica concreta sobre una oración ya construida, reforzando la reestructuración completa en vez de un hueco puntual."
+  ],
+  "T12": [
+    "Producción Libre desde una Situación",
+    "A partir de una situación, dato o pregunta (sin una oración base que transformar o combinar), el alumno redacta una frase o respuesta nueva -- una pregunta, una respuesta de diálogo, una transformación a estilo indirecto, un deseo, una queja...",
+    "Practicar la producción espontánea guiada, más abierta que T10/T11 porque no parte de una oración ya escrita que transformar, sino de un contexto o dato."
+  ],
+  "T13": [
+    "Emparejamiento en Columnas",
+    "Dos (o tres) columnas de elementos -- inicios y finales de frase, preguntas y respuestas, siglas y nombres -- que el alumno debe relacionar correctamente, a veces escribiendo después la oración completa resultante.",
+    "Practicar el reconocimiento de qué elementos combinan correctamente (léxica o gramaticalmente) antes o en vez de producir la oración desde cero."
+  ],
+  "T14": [
+    "Clasificación en Tabla",
+    "Un banco de palabras o datos debe repartirse en las categorías de una tabla (columnas con encabezado, pares correspondientes, o una escala ordenada), en vez de rellenar huecos en frases.",
+    "Practicar la categorización gramatical (género, mayor/menor frecuencia...) de forma visual y agrupada."
+  ],
+  "T15": [
+    "Enumeración Abierta desde un Gráfico",
+    "A partir de un dibujo o situación compartida, el alumno continúa una enumeración con un número de respuestas no fijado de antemano (cuenta y nombra lo que observa).",
+    "Practicar vocabulario y estructuras de cantidad/enumeración en un contexto abierto, no acotado a un número fijo de huecos."
+  ],
+  "T16": [
+    "Anotación Directa sobre la Palabra",
+    "El alumno marca o modifica directamente las palabras ya impresas (subrayar la sílaba tónica, añadir una tilde, dividir en sílabas), sin un hueco '_____' independiente.",
+    "Practicar reglas de acentuación y silabeo trabajando sobre la propia palabra, no sobre una frase con hueco."
+  ]
+}

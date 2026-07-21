@@ -1,0 +1,243 @@
+{
+  "tema": "unidad-118",
+  "titulo": "cuando, antes de que, siempre que...",
+  "descripcion_gramatical": "Oraciones temporales",
+  "fuente": "libro",
+  "unidad_libro": 118,
+  "ejercicios": [
+    {
+      "subejercicio": "118.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con las expresiones temporales del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Luis, espera aquí _____ llegue Charo.",
+          "solucion_correcta": [
+            "hasta que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ llegue a casa, me ducho.",
+          "solucion_correcta": [
+            "En cuanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Por favor, no bebas _____ conduzcas.",
+          "solucion_correcta": [
+            "cuando"
+          ]
+        },
+        {
+          "texto_enunciado": "Podemos ir a la bolera _____ cenar.",
+          "solucion_correcta": [
+            "después de"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ veo a Marta me da recuerdos para ti.",
+          "solucion_correcta": [
+            "Siempre que"
+          ]
+        },
+        {
+          "texto_enunciado": "Hans estudia español _____ tenía catorce años.",
+          "solucion_correcta": [
+            "desde que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ acostarte, apaga la tele, por favor.",
+          "solucion_correcta": [
+            "Antes de"
+          ]
+        },
+        {
+          "texto_enunciado": "Si estás cansada, siéntate un rato _____ preparo la cena.",
+          "solucion_correcta": [
+            "mientras"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "antes de",
+        "cuando",
+        "desde que",
+        "después de",
+        "en cuanto",
+        "hasta que",
+        "mientras",
+        "siempre que"
+      ]
+    },
+    {
+      "subejercicio": "118.2",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (vendo/venda) el coche, me compraré una moto.",
+          "solucion_correcta": [
+            "venda"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (serás/seas) mayor, podrás salir de noche.",
+          "solucion_correcta": [
+            "seas"
+          ]
+        },
+        {
+          "texto_enunciado": "Ramón no quiere jubilarse hasta que no (tiene/tenga) sesenta y cinco años.",
+          "solucion_correcta": [
+            "tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "Llámame en cuanto (terminas/termines) el examen.",
+          "solucion_correcta": [
+            "termines"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (vienen/vengan) tus amigos, lo pasamos muy bien.",
+          "solucion_correcta": [
+            "vienen"
+          ]
+        },
+        {
+          "texto_enunciado": "Sonia no piensa irse hasta que no le (das/des) el dinero.",
+          "solucion_correcta": [
+            "des"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (veo/vea) a Orestes, me pongo nerviosa.",
+          "solucion_correcta": [
+            "veo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "118.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Te compraré la bici cuando (tú, aprender) _____ a montar.",
+          "solucion_correcta": [
+            "aprendas"
+          ]
+        },
+        {
+          "texto_enunciado": "Antes de (tú, hablar) _____, piensa en lo que vas a decir.",
+          "solucion_correcta": [
+            "hablar"
+          ]
+        },
+        {
+          "texto_enunciado": "Suelo desayunar después de (yo, ducharse) _____.",
+          "solucion_correcta": [
+            "ducharme"
+          ]
+        },
+        {
+          "texto_enunciado": "No queremos casarnos hasta que (yo, acabar) _____ la carrera.",
+          "solucion_correcta": [
+            "acabe"
+          ]
+        },
+        {
+          "texto_enunciado": "Mándame un correo electrónico en cuanto (tú, saber) _____ algo.",
+          "solucion_correcta": [
+            "sepas"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta cantar mientras (yo, afeitarse) _____.",
+          "solucion_correcta": [
+            "me afeito"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (nosotros, ser) _____ jóvenes, hacíamos muchas excursiones.",
+          "solucion_correcta": [
+            "éramos"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre que (yo, ir) _____ a la playa, llueve.",
+          "solucion_correcta": [
+            "voy o me levanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy trabajando, desde que (yo, levantarse) _____ hasta que (yo, acostarse) _____.",
+          "solucion_correcta": [
+            "me levanto",
+            "me acuesto"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "118.4",
+      "tipologia": "T10",
+      "enunciado": "Una las dos frases con la expresión temporal dada. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Cenaremos. Iremos a dar un paseo. Después de _____.",
+          "solucion_correcta": [
+            "Después de cenar, iremos a dar un paseo"
+          ]
+        },
+        {
+          "texto_enunciado": "A veces me duele la cabeza. Me tomo una aspirina. Siempre que _____.",
+          "solucion_correcta": [
+            "Siempre que me duele la cabeza, me tomo una aspirina"
+          ]
+        },
+        {
+          "texto_enunciado": "Seré abogado. Trabajaré en esta empresa. Cuando _____.",
+          "solucion_correcta": [
+            "Cuando sea abogado, trabajaré en esta empresa"
+          ]
+        },
+        {
+          "texto_enunciado": "Adela vendrá. Le daré la noticia. En cuanto _____.",
+          "solucion_correcta": [
+            "En cuanto venga Adela, le daré la noticia"
+          ]
+        },
+        {
+          "texto_enunciado": "Empezó a llover. Nos fuimos a casa. _____ cuando _____.",
+          "solucion_correcta": [
+            "Nos fuimos a casa cuando empezó a llover"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Me quedaré aquí. La fiesta acabará. _____ hasta que _____.",
+          "solucion_correcta": [
+            "Me quedaré aquí hasta que la fiesta acabe"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Llegaréis a casa. Llamadme. _____ en cuanto _____.",
+          "solucion_correcta": [
+            "Llamadme en cuanto lleguéis a casa"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Tendrás 18 años. No podrás votar hasta entonces. Hasta que _____.",
+          "solucion_correcta": [
+            "Hasta que no tengas 18 años no podrás votar"
+          ]
+        }
+      ]
+    }
+  ]
+}

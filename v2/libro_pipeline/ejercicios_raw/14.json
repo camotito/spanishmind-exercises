@@ -1,0 +1,183 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "14.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete la lista.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Tabla con cuatro columnas: SINGULAR MASCULINO, SINGULAR FEMENINO, PLURAL MASCULINO y PLURAL FEMENINO."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. (brasileño) _____ _____ _____"
+        },
+        {
+          "texto_enunciado": "2. (costarricense) _____ _____ _____"
+        },
+        {
+          "texto_enunciado": "3. (escocés) _____ _____ _____"
+        },
+        {
+          "texto_enunciado": "4. (iraní) _____ _____ _____"
+        },
+        {
+          "texto_enunciado": "5. (japonés) _____ _____ _____"
+        },
+        {
+          "texto_enunciado": "6. (nicaragüense) _____ _____ _____"
+        },
+        {
+          "texto_enunciado": "7. (venezolano) _____ _____ _____"
+        },
+        {
+          "texto_enunciado": "8. (vietnamita) _____ _____ _____"
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los adjetivos del recuadro.",
+      "banco_palabras": [
+        "chino",
+        "egipcio",
+        "francés",
+        "indio",
+        "italiano",
+        "mexicano",
+        "peruano",
+        "ruso"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "personas": "una mujer",
+            "referencia_visual": "Machu Picchu"
+          },
+          {
+            "numero": "2",
+            "personas": "dos personas",
+            "referencia_visual": "la Gran Muralla"
+          },
+          {
+            "numero": "3",
+            "personas": "dos hombres",
+            "referencia_visual": "las pirámides de Egipto"
+          },
+          {
+            "numero": "4",
+            "personas": "una mujer",
+            "referencia_visual": "la torre Eiffel"
+          },
+          {
+            "numero": "5",
+            "personas": "dos mujeres",
+            "referencia_visual": "un establecimiento con estantes de productos"
+          },
+          {
+            "numero": "6",
+            "personas": "dos hombres con gorros, uno de ellos con un instrumento de cuerda",
+            "referencia_visual": "vestimenta tradicional"
+          },
+          {
+            "numero": "7",
+            "personas": "una mujer",
+            "referencia_visual": "arquitectura india"
+          },
+          {
+            "numero": "8",
+            "personas": "dos personas con sombreros",
+            "referencia_visual": "cactus y paisaje mexicano"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. Soy _____."
+        },
+        {
+          "texto_enunciado": "2. Somos _____."
+        },
+        {
+          "texto_enunciado": "3. Somos _____."
+        },
+        {
+          "texto_enunciado": "4. Soy _____."
+        },
+        {
+          "texto_enunciado": "5. Somos _____."
+        },
+        {
+          "texto_enunciado": "6. Somos _____."
+        },
+        {
+          "texto_enunciado": "7. Soy _____."
+        },
+        {
+          "texto_enunciado": "8. Somos _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con un nombre y un adjetivo de cada recuadro.",
+      "banco_palabras": [
+        "actriz",
+        "capital",
+        "capital",
+        "ciudad",
+        "ciudad",
+        "escritor",
+        "moneda",
+        "moneda",
+        "canadiense",
+        "colombiano",
+        "estadounidense",
+        "francés",
+        "japonés",
+        "marroquí",
+        "portugués",
+        "vietnamita"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "1. El yen es la _____."
+        },
+        {
+          "texto_enunciado": "2. El dirham es la _____."
+        },
+        {
+          "texto_enunciado": "3. Gabriel García Márquez es un _____."
+        },
+        {
+          "texto_enunciado": "4. Burdeos es una _____."
+        },
+        {
+          "texto_enunciado": "5. Julia Roberts es una _____."
+        },
+        {
+          "texto_enunciado": "6. Hanoi es la _____."
+        },
+        {
+          "texto_enunciado": "7. Montreal y Edmonton son _____."
+        },
+        {
+          "texto_enunciado": "8. Lisboa es la _____."
+        }
+      ],
+      "tipologia_libre_original": "Completar cada frase combinando un nombre del primer recuadro y un adjetivo de nacionalidad del segundo recuadro."
+    }
+  ],
+  "unidad": 14,
+  "titulo_libro": "una amiga chilena -- Adjetivos de nacionalidad",
+  "scan": "libro-rojo-038.png"
+}

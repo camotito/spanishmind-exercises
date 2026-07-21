@@ -1,0 +1,217 @@
+{
+  "tema": "unidad-42",
+  "titulo": "soy, eres, es...",
+  "descripcion_gramatical": "Presente de indicativo de ser",
+  "fuente": "libro",
+  "unidad_libro": 42,
+  "ejercicios": [
+    {
+      "subejercicio": "42.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases con soy, eres, es...",
+      "items": [
+        {
+          "texto_enunciado": "¿De dónde _____? _____ mexicanos.",
+          "solucion_correcta": [
+            "sois",
+            "Somos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién _____ Liz? _____ yo.",
+          "solucion_correcta": [
+            "es",
+            "Soy"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ hermanas.",
+          "solucion_correcta": [
+            "Somos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ ustedes médicos? No, _____ enfermeros.",
+          "solucion_correcta": [
+            "Son",
+            "somos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿De dónde _____? _____ de Barcelona.",
+          "solucion_correcta": [
+            "eres",
+            "Soy"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ 25 euros.",
+          "solucion_correcta": [
+            "Son"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer pregunta a un hombre y una mujer de dónde son."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer pregunta por Liz a un grupo de personas."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos chicas aparecen juntas y abrazadas."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer pregunta a dos hombres si son médicos."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un hombre pregunta a una mujer de dónde es."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una mujer entrega un billete de 25 euros a un hombre."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "42.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las preguntas y las respuestas con soy, eres, es...",
+      "items": [
+        {
+          "texto_enunciado": "¿De dónde _____ (tú)? _____ de Quito.",
+          "solucion_correcta": [
+            "eres",
+            "Soy"
+          ]
+        },
+        {
+          "texto_enunciado": "¿De dónde _____ tus padres? _____ de Guayaquil.",
+          "solucion_correcta": [
+            "son",
+            "Son"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuántos _____ en tu familia? _____ cuatro.",
+          "solucion_correcta": [
+            "sois",
+            "Somos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ profesor? No, _____ estudiante.",
+          "solucion_correcta": [
+            "Eres",
+            "soy"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué hora _____? _____ las tres.",
+          "solucion_correcta": [
+            "es",
+            "Son"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué día _____ hoy? _____ jueves.",
+          "solucion_correcta": [
+            "es",
+            "Es"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ Rosa y tú hermanos? No, _____ primos.",
+          "solucion_correcta": [
+            "Sois",
+            "somos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿A qué hora _____ la clase? _____ a las ocho.",
+          "solucion_correcta": [
+            "es",
+            "Es"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuántos _____ en clase? _____ doce.",
+          "solucion_correcta": [
+            "sois",
+            "Somos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿De quién _____ estos libros? _____ de la profesora.",
+          "solucion_correcta": [
+            "son",
+            "Son"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "42.3",
+      "tipologia": "T9",
+      "enunciado": "Escriba frases con soy, eres, es... en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Elsa y Tomás / chilenos _____.",
+          "solucion_correcta": [
+            "Elsa y Tomás son chilenos"
+          ]
+        },
+        {
+          "texto_enunciado": "Usted / muy amable _____.",
+          "solucion_correcta": [
+            "Usted es muy amable"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa mesa / de cristal _____.",
+          "solucion_correcta": [
+            "Esa mesa es de cristal"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi hermano y yo / no / morenos _____.",
+          "solucion_correcta": [
+            "Mi hermano y yo no somos morenos"
+          ]
+        },
+        {
+          "texto_enunciado": "Vosotros / muy alegres _____.",
+          "solucion_correcta": [
+            "Vosotros sois muy alegres"
+          ]
+        },
+        {
+          "texto_enunciado": "Esos pantalones / no / de lana _____.",
+          "solucion_correcta": [
+            "Esos pantalones no son de lana"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese libro / de Marta _____.",
+          "solucion_correcta": [
+            "Ese libro es de Marta"
+          ]
+        },
+        {
+          "texto_enunciado": "Ustedes / no / muy altos _____.",
+          "solucion_correcta": [
+            "Ustedes no son muy altos"
+          ]
+        }
+      ]
+    }
+  ]
+}

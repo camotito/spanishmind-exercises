@@ -1,0 +1,226 @@
+{
+  "tema": "unidad-121",
+  "titulo": "por eso, así que, tanto... que",
+  "descripcion_gramatical": "Oraciones consecutivas",
+  "fuente": "libro",
+  "unidad_libro": 121,
+  "ejercicios": [
+    {
+      "subejercicio": "121.1",
+      "tipologia": "T10",
+      "enunciado": "Una las dos frases con las expresiones entre paréntesis. Preste atención al orden.",
+      "items": [
+        {
+          "texto_enunciado": "No podremos quedar con Pedro. Esta noche hay partido. (así que) _____.",
+          "solucion_correcta": [
+            "Esta noche hay partido, así que no podremos quedar con Pedro"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos acostamos. Era muy tarde. (de manera que) _____.",
+          "solucion_correcta": [
+            "Era muy tarde, de manera que nos acostamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Me levanté tarde. No sonó el despertador. (por eso) _____.",
+          "solucion_correcta": [
+            "No sonó el despertador, por eso me levanté tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "Estábamos aburridos. Nos fuimos a dar una vuelta. (así que) _____.",
+          "solucion_correcta": [
+            "Estábamos aburridos, así que nos fuimos a dar una vuelta"
+          ]
+        },
+        {
+          "texto_enunciado": "No te puedo decir nada. Aún no ha llamado Teresa. (por tanto) _____.",
+          "solucion_correcta": [
+            "Aún no ha llamado Teresa; por tanto no te puedo decir nada"
+          ]
+        },
+        {
+          "texto_enunciado": "No me funcionaba el móvil. No pude llamarte. (por eso) _____.",
+          "solucion_correcta": [
+            "No me funcionaba el móvil, por eso no pude llamarte"
+          ]
+        },
+        {
+          "texto_enunciado": "Será mejor cenar fuera. No hay mucha comida en casa. (así que) _____.",
+          "solucion_correcta": [
+            "No hay mucha comida en casa, así que será mejor cenar fuera"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "121.2",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Hizo un día (tan/tanto) bueno que comimos en el jardín.",
+          "solucion_correcta": [
+            "tan"
+          ]
+        },
+        {
+          "texto_enunciado": "Estaba (tan/tanto) cansado que me acosté temprano.",
+          "solucion_correcta": [
+            "tan"
+          ]
+        },
+        {
+          "texto_enunciado": "Estudia (tanto/tan poco) que no puede aprobar.",
+          "solucion_correcta": [
+            "tan poco"
+          ]
+        },
+        {
+          "texto_enunciado": "Hablas español (tan/tanto) bien que pareces española.",
+          "solucion_correcta": [
+            "tan"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo (tanta/tanto) sed que me bebería toda la botella de agua.",
+          "solucion_correcta": [
+            "tanta"
+          ]
+        },
+        {
+          "texto_enunciado": "La sopa estaba (tan/tanto) salada que no se podía tomar.",
+          "solucion_correcta": [
+            "tan"
+          ]
+        },
+        {
+          "texto_enunciado": "Teníamos (tanto/tan poco) tiempo que no pudimos preparar las maletas.",
+          "solucion_correcta": [
+            "tan poco"
+          ]
+        },
+        {
+          "texto_enunciado": "Ruperto estudia (tan/tanto) que va a enfermar.",
+          "solucion_correcta": [
+            "tanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Había (tanta/tanto) gente que no pudimos ver nada.",
+          "solucion_correcta": [
+            "tanta"
+          ]
+        },
+        {
+          "texto_enunciado": "Somos (tantos/tan pocos) en clase que practicamos muchísimo.",
+          "solucion_correcta": [
+            "tan pocos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "121.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Había _____ tráfico que tuvimos que coger el metro.",
+          "solucion_correcta": [
+            "tanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucas habla _____ que aburre a todo el mundo.",
+          "solucion_correcta": [
+            "tanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Han llegado _____ turistas que no hay camas en los hoteles.",
+          "solucion_correcta": [
+            "tantos"
+          ]
+        },
+        {
+          "texto_enunciado": "Había _____ niebla que tuvimos que parar en la autopista.",
+          "solucion_correcta": [
+            "tanta"
+          ]
+        },
+        {
+          "texto_enunciado": "Estábamos _____ cansados que nos acostamos sin cenar.",
+          "solucion_correcta": [
+            "tan"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenían _____ clientes en mi empresa que tuvieron que cerrar.",
+          "solucion_correcta": [
+            "tan pocos"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay _____ luz en esta habitación que no deberíais leer.",
+          "solucion_correcta": [
+            "tan poca"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "tan",
+        "tan poca",
+        "tan pocos",
+        "tanta",
+        "tan poco",
+        "tanto",
+        "tantos"
+      ]
+    },
+    {
+      "subejercicio": "121.4",
+      "tipologia": "T10",
+      "enunciado": "Una las oraciones con tan, tanto, –a, –os, –as; tan poco, –a, –os, –as... que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No se oye nada. Hay mucho ruido. _____.",
+          "solucion_correcta": [
+            "Hay tanto ruido que no se oye nada"
+          ]
+        },
+        {
+          "texto_enunciado": "La obra es muy buena. No quedan entradas. _____.",
+          "solucion_correcta": [
+            "La obra es tan buena que no quedan entradas"
+          ]
+        },
+        {
+          "texto_enunciado": "No salimos. Hacía demasiado frío. _____.",
+          "solucion_correcta": [
+            "Hacía tanto frío que no salimos"
+          ]
+        },
+        {
+          "texto_enunciado": "Había pocas sillas. No me pude sentar. _____.",
+          "solucion_correcta": [
+            "Había tan pocas sillas que no me pude sentar"
+          ]
+        },
+        {
+          "texto_enunciado": "Le gustan mucho los gatos. Tiene seis. _____.",
+          "solucion_correcta": [
+            "Le gustan tanto los gatos que tiene seis"
+          ]
+        },
+        {
+          "texto_enunciado": "Parece enfadado. Habla poco. _____.",
+          "solucion_correcta": [
+            "Habla tan poco que parece enfadado"
+          ]
+        }
+      ]
+    }
+  ]
+}

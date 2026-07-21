@@ -28,6 +28,10 @@ Tokenización de items (un solo tokenizador cubre T2/T3/T4/T5):
 Cada widget consume, en orden, un elemento de solucion_correcta.
 Un "–" (raya) dentro de texto_enunciado marca el inicio de una intervención de
 minidiálogo: cada tramo se renderiza en su propia línea dentro del mismo item.
+Si un elemento de solucion_correcta contiene "/" (p. ej. "lo/le"), el hueco
+(solo huecos "_____", no elecciones T5) acepta cualquiera de las alternativas;
+al revelar la solución se rellena con la primera y se muestra una nota junto
+al hueco indicando que las demás también son válidas.
 
 Uso:
     python3 render.py                 # todos los .json de content/
@@ -65,14 +69,17 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
     margin: 0 0 14px; }
 .item { padding: 8px 0; border-top: 1px dashed var(--line); }
 .item:first-of-type { border-top: none; }
-.item-row { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 4px; }
+.item-row { padding-left: 1.8em; text-indent: -1.8em; }
 .item-row + .item-row { margin-top: 4px; }
-.item-num { color: #999; font-variant-numeric: tabular-nums; min-width: 1.6em; }
+.item-num { display: inline-block; width: 1.6em; text-indent: 0;
+    color: #999; font-variant-numeric: tabular-nums; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
 .blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
     border-radius: 6px; width: 150px; font-size: .95rem; }
 select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
 .blank.ok { border-color: var(--ok); background: #f0f6ee; }
 .blank.bad { border-color: var(--bad); background: #fbeeee; }
+.alt-hint { font-size: .78rem; color: var(--secondary); opacity: .75; margin-left: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
     display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
 button { font-family: var(--font-body); background: var(--primary); color: #fff;
@@ -91,6 +98,18 @@ button:hover { opacity: .9; }
 .plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
 .plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
 @media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
+.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
+    color: var(--ok); font-weight: 700; font-size: .72rem;
+    text-transform: uppercase; letter-spacing: .04em; }
+input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
+    background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
     margin-top: 30px; color: var(--secondary); }
 """
@@ -104,6 +123,7 @@ function fieldOk(f){
   const sol = f.getAttribute('data-sol');
   const val = f.value;
   if (sol === '\\u00f8') return val.trim() === '' || norm(val) === norm('\\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
   return norm(val) === norm(sol);
 }
 function checkGroup(btn){
@@ -135,7 +155,17 @@ function revealGroup(btn){
     const sol = f.getAttribute('data-sol');
     if (f.tagName === 'SELECT') {
       [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
-    } else { f.value = sol; }
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hint = f.nextElementSibling;
+      if (hint && hint.classList.contains('alt-hint')) {
+        hint.textContent = '(' + opciones.join(' or ') + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
     f.classList.remove('bad'); f.classList.add('ok');
   });
 }
@@ -154,6 +184,21 @@ def esc(s):
     return html.escape(str(s), quote=True)
 
 
+def esc_body(s):
+    """Como esc(), pero deja pasar <u>/</u> (el libro los usa para marcar la
+    oracion original que hay que reescribir; no es HTML libre del usuario)."""
+    return esc(s).replace("&lt;u&gt;", "<u>").replace("&lt;/u&gt;", "</u>")
+
+
+def input_width(sol):
+    """Ancho del campo de texto en 'ch' (anchura de caracter), a partir de la
+    respuesta correcta mas larga entre las alternativas aceptadas (separadas
+    por "/"), para que el hueco no de pistas de mas ni se quede corto."""
+    opciones = sol.split("/") if sol else [""]
+    n = max((len(o.strip()) for o in opciones), default=0)
+    return max(n, 2) + 2
+
+
 def render_widgets(text, solutions):
     """Convierte texto con tokens en HTML, consumiendo `solutions` en orden.
     Devuelve (html, n_widgets). Falla si el nº de tokens != nº de soluciones."""
@@ -168,7 +213,7 @@ def render_widgets(text, solutions):
     pos = 0
     widx = 0
     for start, end, kind, payload in events:
-        out.append(esc(text[pos:start]))
+        out.append(esc_body(text[pos:start]))
         sol = solutions[widx] if widx < len(solutions) else ""
         if kind == "choice":
             opciones = payload.split("/")
@@ -177,10 +222,15 @@ def render_widgets(text, solutions):
             )
             out.append(f'<select class="blank" data-sol="{esc(sol)}">{opts}</select>')
         else:
-            out.append(f'<input type="text" class="blank" data-sol="{esc(sol)}" autocomplete="off">')
+            out.append(
+                f'<input type="text" class="blank" data-sol="{esc(sol)}" '
+                f'style="width: {input_width(sol)}ch" autocomplete="off">'
+            )
+            if "/" in sol:
+                out.append('<span class="alt-hint" hidden></span>')
         widx += 1
         pos = end
-    out.append(esc(text[pos:]))
+    out.append(esc_body(text[pos:]))
     return "".join(out), widx
 
 
@@ -220,6 +270,60 @@ def render_item(n, item):
         </div>"""
 
 
+def render_ejemplo(item):
+    """El libro imprime el primer item de cada bloque de huecos ya resuelto,
+    como modelo (en cursiva) -- lo mostramos completado y no interactivo en
+    vez de como un hueco mas (ver v2/ejemplos/*: solucion_correcta ya trae la
+    respuesta del solucionario para este item tambien)."""
+    texto = item["texto_enunciado"]
+    respuestas = item["solucion_correcta"]
+    events = sorted(
+        [(m.start(), m.end()) for m in CHOICE_RE.finditer(texto)]
+        + [(m.start(), m.end()) for m in re.finditer(re.escape(BLANK), texto)]
+    )
+    out = []
+    pos = 0
+    for i, (start, end) in enumerate(events):
+        out.append(esc_body(texto[pos:start]))
+        sol = respuestas[i] if i < len(respuestas) else ""
+        primera = sol.split("/")[0].strip() if "/" in sol else sol
+        out.append(
+            f'<input type="text" class="blank blank-example" value="{esc(primera)}" '
+            f'style="width: {input_width(primera)}ch" readonly tabindex="-1">'
+        )
+        pos = end
+    out.append(esc_body(texto[pos:]))
+    body = "".join(out)
+    lines = [l for l in DIALOGO_RE.split(body) if l.strip()] or [body]
+    rows = "".join(
+        f'<div class="item-row"><span class="item-num">{"Example" if i == 0 else ""}</span> <span>{line}</span></div>'
+        for i, line in enumerate(lines)
+    )
+    return f'<div class="ejemplo">{rows}</div>'
+
+
+ENUNCIADO_OPT_RE = re.compile(r"\*([^*]+)\*")
+
+
+def render_enunciado(text):
+    """*palabra* en el enunciado marca una opcion citada del libro (impresa en
+    cursiva); por ahora la mostramos entre comillas -- si algun dia se quiere
+    cursiva u otra cosa, solo cambia esta funcion, no los datos."""
+    out = []
+    pos = 0
+    for m in ENUNCIADO_OPT_RE.finditer(text):
+        out.append(esc(text[pos:m.start()]))
+        out.append(f'"{esc(m.group(1))}"')
+        pos = m.end()
+    out.append(esc(text[pos:]))
+    return "".join(out)
+
+
+def render_wordbox(palabras):
+    chips = "".join(f'<span class="word-chip">{esc(p)}</span>' for p in palabras)
+    return f'<div class="wordbox">{chips}</div>'
+
+
 def render_ejercicio(ej):
     grafico = ""
     ctx = ej.get("contexto_grafico")
@@ -229,11 +333,21 @@ def render_ejercicio(ej):
             grafico = f'<p class="pista">[graphic "{esc(ctx["tipo"])}" not implemented yet]</p>'
         else:
             grafico = renderer(ctx["datos"])
-    items = "".join(render_item(i, it) for i, it in enumerate(ej["items"], start=1))
+    wordbox = render_wordbox(ej["banco_palabras"]) if ej.get("banco_palabras") else ""
+
+    items_data = ej["items"]
+    ejemplo = ""
+    if len(items_data) >= 2 and BLANK in items_data[0]["texto_enunciado"]:
+        ejemplo = render_ejemplo(items_data[0])
+        items_data = items_data[1:]
+    items = "".join(render_item(i, it) for i, it in enumerate(items_data, start=1))
+
     return f"""
     <section class="ejercicio">
-        <p class="enunciado">{esc(ej['enunciado'])}</p>
+        <p class="enunciado">{render_enunciado(ej['enunciado'])}</p>
         {grafico}
+        {wordbox}
+        {ejemplo}
         {items}
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>

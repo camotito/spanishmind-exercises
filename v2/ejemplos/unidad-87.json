@@ -1,0 +1,215 @@
+{
+  "tema": "unidad-87",
+  "titulo": "Creo que es... / No creo que sea...",
+  "descripcion_gramatical": "Contraste entre indicativo y subjuntivo",
+  "fuente": "libro",
+  "unidad_libro": 87,
+  "ejercicios": [
+    {
+      "subejercicio": "87.1",
+      "tipologia": "T3",
+      "enunciado": "Complete los diálogos.",
+      "items": [
+        {
+          "texto_enunciado": "—Yo creo que Federico tiene novia. —Pues yo no creo que la _____.",
+          "solucion_correcta": [
+            "tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "—Yo creo que Graciela _____ peruana. —Pues yo no creo que lo _____.",
+          "solucion_correcta": [
+            "es",
+            "sea"
+          ]
+        },
+        {
+          "texto_enunciado": "—Recuerdo que a Héctor le gustaba dibujar. —Pues yo no recuerdo que le _____.",
+          "solucion_correcta": [
+            "gustara"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Crees que Alejandra _____? —No, no creo que pueda hacer este trabajo.",
+          "solucion_correcta": [
+            "puede hacer este trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "—Creo que el Sr. Garrido _____. —Pues yo no creo que esté enfadado.",
+          "solucion_correcta": [
+            "está enfadado"
+          ]
+        },
+        {
+          "texto_enunciado": "—Pienso que Susana _____. —Pues yo no pienso que sea muy cariñosa.",
+          "solucion_correcta": [
+            "es muy cariñosa"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Ustedes no creen que aquí _____? —No, no creemos que haga mucho calor.",
+          "solucion_correcta": [
+            "hace mucho calor"
+          ]
+        },
+        {
+          "texto_enunciado": "—¡Qué suerte tiene Adela! —Pues a mí no me parece que la _____.",
+          "solucion_correcta": [
+            "tenga"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Dicen que Alfonso es agresivo, pero no es verdad que lo _____.",
+          "solucion_correcta": [
+            "sea"
+          ]
+        },
+        {
+          "texto_enunciado": "Dicen que no hace frío, pero está claro que lo _____.",
+          "solucion_correcta": [
+            "hace"
+          ]
+        },
+        {
+          "texto_enunciado": "Dices que hay mucha gente, pero es evidente que no _____ mucha.",
+          "solucion_correcta": [
+            "hay"
+          ]
+        },
+        {
+          "texto_enunciado": "Dijeron que Tomás fue el culpable, pero no estaba claro que lo _____.",
+          "solucion_correcta": [
+            "fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "Dices que Concha tiene mal genio, pero no es cierto que lo _____.",
+          "solucion_correcta": [
+            "tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Es cierto que mañana _____ Paco? —No, regresa la semana que viene.",
+          "solucion_correcta": [
+            "regresa"
+          ]
+        },
+        {
+          "texto_enunciado": "No era verdad que Julio _____ Matemáticas. Estudiaba Física.",
+          "solucion_correcta": [
+            "estudiara"
+          ]
+        },
+        {
+          "texto_enunciado": "Es falso que Emilio _____ veinticinco años. Tiene treinta.",
+          "solucion_correcta": [
+            "tenga"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.3",
+      "tipologia": "T8",
+      "enunciado": "Complete en forma afirmativa o negativa. Utilice las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "No conozco a nadie que _____.",
+          "solucion_correcta": [
+            "baile bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Estamos buscando un traductor que _____.",
+          "solucion_correcta": [
+            "sepa ruso"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han regalado un libro que _____.",
+          "solucion_correcta": [
+            "enseña a programar"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría vivir en una ciudad donde _____.",
+          "solucion_correcta": [
+            "no hubiera coches"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Conoces algún profesor de español que _____?",
+          "solucion_correcta": [
+            "enseñe bien"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "bailar bien",
+        "enseñar a programar",
+        "enseñar bien",
+        "haber coches",
+        "saber ruso"
+      ]
+    },
+    {
+      "subejercicio": "87.4",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro en indicativo o subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Quiero un libro que _____ información sobre Cuba. Quiero ir este verano.",
+          "solucion_correcta": [
+            "tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy buscando el libro que _____ fotos de la selva peruana. ¿Lo habéis visto?",
+          "solucion_correcta": [
+            "tiene"
+          ]
+        },
+        {
+          "texto_enunciado": "En mi empresa necesitan una secretaria que _____ portugués.",
+          "solucion_correcta": [
+            "hable"
+          ]
+        },
+        {
+          "texto_enunciado": "No conozco a nadie que _____ tan bueno como Lorenzo.",
+          "solucion_correcta": [
+            "sea"
+          ]
+        },
+        {
+          "texto_enunciado": "Hasta que no te conocí a ti no conocía a nadie que _____ paracaidismo.",
+          "solucion_correcta": [
+            "hiciera"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesito unos cuantos amigos que me _____ a hacer la mudanza al nuevo piso.",
+          "solucion_correcta": [
+            "ayuden"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "ayudar",
+        "hablar",
+        "hacer",
+        "ser",
+        "tener",
+        "tener"
+      ]
+    }
+  ]
+}

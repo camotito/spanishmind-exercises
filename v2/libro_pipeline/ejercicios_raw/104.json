@@ -1,0 +1,132 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "104.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Me encanta esta novela. Es extraordinaria. Es (muy/poco) buena.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No se puede oír nada. La música está (algo/bastante) alta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Roberto no es (poco/nada) alegre. Nunca quiere salir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este libro no es (bastante/nada) caro. Solo cuesta cinco euros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rubén es (demasiado/poco) sincero. A veces, es mejor no decir toda la verdad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Silvia se lleva (muy/demasiado) bien con su hermana. Se ayudan mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es (algo/poco) tarde. Deberíamos irnos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tomás es (poco/un poco) cariñoso. Nunca da un beso a nadie.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ricardo está (poco/un poco) débil. Debería hacer algo de ejercicio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer estuve con Elisa y la encontré (bastante/poco) nerviosa. No paraba de hablar.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "104.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases con bastante, demasiado, muy o un poco.",
+      "items": [
+        {
+          "texto_enunciado": "El traje le queda _____ grande.",
+          "estimulo_visual": "Dibujo de un hombre con un traje que le queda excesivamente grande."
+        },
+        {
+          "texto_enunciado": "Catalina dibuja _____ bien.",
+          "estimulo_visual": "Dibujo de Catalina realizando un dibujo detallado de un caballo."
+        },
+        {
+          "texto_enunciado": "Ernesto va _____ rápido.",
+          "estimulo_visual": "Dibujo de un velocímetro cuyo indicador marca aproximadamente 120."
+        },
+        {
+          "texto_enunciado": "Los zapatos son _____ pequeños.",
+          "estimulo_visual": "Dibujo de un pie descalzo junto a un zapato notablemente más pequeño."
+        },
+        {
+          "texto_enunciado": "El libro es _____ caro.",
+          "estimulo_visual": "Dibujo de un libro con una etiqueta de precio de 120 €."
+        }
+      ]
+    },
+    {
+      "subejercicio": "104.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con algo, bastante, demasiado, mucho, nada o poco.",
+      "items": [
+        {
+          "texto_enunciado": "Ernesto estudia _____: seis horas al día.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este coche corre _____. No pasa de los ochenta kilómetros a la hora.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Víctor sale _____. No está nunca en casa y no estudia _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rosa y yo nos vemos _____, casi todas las semanas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo que tomarme algo. Me duele _____ la cabeza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Verónica no le gusta _____ el frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nacho les ayuda _____ a sus padres, pero no _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi padre hace _____ deporte. Va todos los días al gimnasio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ahora trabajo _____. Tengo que buscar más trabajo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "María no estudia _____. Va a suspender todos los exámenes.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar una lista lineal de frases eligiendo, según el contexto, entre los cuantificadores algo, bastante, demasiado, mucho, nada o poco indicados en el enunciado; algunas frases contienen dos huecos."
+    }
+  ],
+  "unidad": 104,
+  "titulo_libro": "muy, mucho, bastante... -- Adverbios de cantidad",
+  "scan": "libro-rojo-218.png"
+}

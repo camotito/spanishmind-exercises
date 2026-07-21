@@ -1,0 +1,280 @@
+{
+  "tema": "unidad-66",
+  "titulo": "había trabajado",
+  "descripcion_gramatical": "Pretérito pluscuamperfecto",
+  "fuente": "libro",
+  "unidad_libro": 66,
+  "ejercicios": [
+    {
+      "subejercicio": "66.1",
+      "tipologia": "T10",
+      "enunciado": "Una las dos frases.",
+      "items": [
+        {
+          "texto_enunciado": "La reunión acabó. Llegué a la oficina. _____.",
+          "solucion_correcta": [
+            "Cuando llegué a la oficina, la reunión había acabado"
+          ]
+        },
+        {
+          "texto_enunciado": "El avión se fue. Llegamos al aeropuerto. _____.",
+          "solucion_correcta": [
+            "Cuando llegamos al aeropuerto, el avión se había ido"
+          ]
+        },
+        {
+          "texto_enunciado": "Cerraron las tiendas. Aurora quiso comprar comida. _____.",
+          "solucion_correcta": [
+            "Cuando Aurora quiso comprar comida, las tiendas habían cerrado"
+          ]
+        },
+        {
+          "texto_enunciado": "Cené. Sonia me llamó. _____.",
+          "solucion_correcta": [
+            "Cuando Sonia me llamó, ya había cenado"
+          ]
+        },
+        {
+          "texto_enunciado": "Hubo un accidente. Nos pararon en la carretera. _____.",
+          "solucion_correcta": [
+            "Cuando nos pararon en la carretera, había habido un accidente"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "66.2",
+      "tipologia": "T13",
+      "enunciado": "Forme frases uniendo las acciones o situaciones de la izquierda con sus consecuencias.",
+      "items": [
+        {
+          "texto_enunciado": "Me dejé la tarjeta de crédito.",
+          "solucion_correcta": [
+            "No pude comprar nada porque me había dejado la tarjeta de crédito"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Mis padres se dejaron las luces encendidas.",
+          "solucion_correcta": [
+            "Mis padres tuvieron que volver a casa porque se habían dejado las luces encendidas"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Félix y Raquel se dejaron las llaves dentro.",
+          "solucion_correcta": [
+            "Félix y Raquel no pudieron entrar en casa porque se habían dejado las llaves dentro"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "No comiste nada.",
+          "solucion_correcta": [
+            "Te desmayaste porque no habías comido nada"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Paloma se tiñó el pelo.",
+          "solucion_correcta": [
+            "No reconocimos a Paloma porque se había teñido el pelo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Mila estudió mucho.",
+          "solucion_correcta": [
+            "Mila aprobó todo porque había estudiado mucho"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Víctor tuvo un pequeño accidente.",
+          "solucion_correcta": [
+            "Víctor llegó tarde porque había tenido un pequeño accidente"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "El profesor se fue.",
+          "solucion_correcta": [
+            "No pude hablar con el profesor porque se había ido"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Ramón no compró comida.",
+          "solucion_correcta": [
+            "No pudimos comer en casa porque Ramón no había comprado comida"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "a. No pudieron entrar en casa.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "b. Aprobó todo.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "c. Tuvieron que volver a casa.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "d. No pude comprar nada.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "e. No pudimos comer en casa.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "f. Te desmayaste.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "g. No pude hablar con él.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "h. No la reconocimos.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "i. Llegó tarde.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "66.3",
+      "tipologia": "T2",
+      "enunciado": "¿Cuál era la situación cuando Javier llegó a casa de sus amigos? Utilice ya y todavía no.",
+      "items": [
+        {
+          "texto_enunciado": "Fernando _____.",
+          "solucion_correcta": [
+            "Fernando no se había levantado todavía"
+          ]
+        },
+        {
+          "texto_enunciado": "Lidia _____.",
+          "solucion_correcta": [
+            "Lidia no había recogido la habitación todavía"
+          ]
+        },
+        {
+          "texto_enunciado": "Miguel _____.",
+          "solucion_correcta": [
+            "Miguel ya había hecho la cama"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa _____.",
+          "solucion_correcta": [
+            "Rosa no se había vestido todavía"
+          ]
+        },
+        {
+          "texto_enunciado": "Ángel y Pilar _____.",
+          "solucion_correcta": [
+            "Ángel y Pilar ya habían desayunado"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "levantarse",
+        "desayunar",
+        "hacer la cama",
+        "recoger la habitación",
+        "vestirse"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "nombre": "Fernando",
+            "descripcion": "Fernando está acostado en la cama."
+          },
+          {
+            "numero": "2",
+            "nombre": "Lidia",
+            "descripcion": "Lidia está en una habitación desordenada, con ropa y objetos por el suelo."
+          },
+          {
+            "numero": "3",
+            "nombre": "Miguel",
+            "descripcion": "Miguel está junto a una cama y coloca la colcha."
+          },
+          {
+            "numero": "4",
+            "nombre": "Rosa",
+            "descripcion": "Rosa está delante de un armario con una prenda en la mano."
+          },
+          {
+            "numero": "5",
+            "nombre": "Ángel y Pilar",
+            "descripcion": "Ángel y Pilar están sentados a una mesa con tazas, platos y alimentos."
+          }
+        ]
+      }
+    }
+  ]
+}

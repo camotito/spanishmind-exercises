@@ -1,0 +1,207 @@
+{
+  "tema": "unidad-72",
+  "titulo": "habría, podría...",
+  "descripcion_gramatical": "Condicional simple: verbos irregulares",
+  "fuente": "libro",
+  "unidad_libro": 72,
+  "ejercicios": [
+    {
+      "subejercicio": "72.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en condicional simple.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Qué (hacer) _____ ustedes en mi lugar? –(Hablar) _____ con el director.",
+          "solucion_correcta": [
+            "harían",
+            "Hablaríamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo que tú (no, salir) _____ esta noche.",
+          "solucion_correcta": [
+            "no saldría"
+          ]
+        },
+        {
+          "texto_enunciado": "Viene mucha gente al museo, pero (venir) _____ más si no cerráramos los lunes.",
+          "solucion_correcta": [
+            "vendría"
+          ]
+        },
+        {
+          "texto_enunciado": "Antón te quiere mucho, pero te (querer) _____ más si fueras más cariñosa.",
+          "solucion_correcta": [
+            "querría"
+          ]
+        },
+        {
+          "texto_enunciado": "–Yo, en tu lugar, (no, decir) _____ nada. –Entonces, ¿qué (hacer) _____ tú?",
+          "solucion_correcta": [
+            "no diría",
+            "harías"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo (tener) _____ más cuidado. Puede venir el jefe en cualquier momento.",
+          "solucion_correcta": [
+            "tendría"
+          ]
+        },
+        {
+          "texto_enunciado": "Haces bien la comida, pero la (hacer) _____ mejor con un poquito más de cuidado.",
+          "solucion_correcta": [
+            "harías"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las respuestas con los verbos apropiados.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Cuántas personas había anoche en el concierto? –No estoy segura. _____ unas dos mil.",
+          "solucion_correcta": [
+            "Habría"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿A qué hora regresó Adela? –No sé. _____ sobre las cinco.",
+          "solucion_correcta": [
+            "Regresaría"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Cuántas personas vinieron a la conferencia? –_____ unas cincuenta. No había muchas sillas vacías.",
+          "solucion_correcta": [
+            "Vendrían"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quién puso la lavadora ayer? –La _____ tú, ¿no? Yo no tengo ropa sucia.",
+          "solucion_correcta": [
+            "pondrías"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quién le dijo a Isabel que Gregorio estaba en Bolivia? –No sé. Se lo _____ Joaquín.",
+          "solucion_correcta": [
+            "diría"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quién puso el CD anoche? Se oía una música preciosa. –Lo _____ Marisa. Fue la última en acostarse.",
+          "solucion_correcta": [
+            "pondría"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿A qué hora salieron Javi y Lolo? –No lo sé, pero _____ a las dos o a las tres. Era tardísimo.",
+          "solucion_correcta": [
+            "saldrían"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Quién tenía las llaves? –Las (tenía/tendría) Bárbara. Estaban en su bolso.",
+          "solucion_correcta": [
+            "tenía"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quién hizo ayer la cena? –La (hizo/haría) Sofía. Estaba buenísima.",
+          "solucion_correcta": [
+            "hizo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Cuántos años (tenías/tendrías) cuando te casaste? –Veinticinco. Y Rosario, veintiséis.",
+          "solucion_correcta": [
+            "tenías"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quién (sabía/sabría) arreglar el microondas? ¿Conoces a alguien? –No, lo siento.",
+          "solucion_correcta": [
+            "sabría"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quiénes hicieron ese castillo? –No sé, pero lo (hicieron/harían) los árabes. Estuvieron aquí muchos años.",
+          "solucion_correcta": [
+            "harían"
+          ]
+        },
+        {
+          "texto_enunciado": "Maite, ¿(podías/podrías) ayudarme a pintar mi habitación?",
+          "solucion_correcta": [
+            "podrías"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.4",
+      "tipologia": "T12",
+      "enunciado": "Haga las siguientes peticiones de una manera educada.",
+      "items": [
+        {
+          "texto_enunciado": "(a un amigo) ¿(poder) ayudarme con esta maleta? _____",
+          "solucion_correcta": [
+            "¿Podrías ayudarme con esta maleta?"
+          ]
+        },
+        {
+          "texto_enunciado": "(a unos amigos) ¿(importar) hablar más despacio? _____",
+          "solucion_correcta": [
+            "¿Os importaría hablar más despacio?"
+          ]
+        },
+        {
+          "texto_enunciado": "(al profesor) ¿(importar) repetir la explicación? _____",
+          "solucion_correcta": [
+            "¿Le importaría repetir la explicación?"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un amigo) ¿(importar) esperar un momento? _____",
+          "solucion_correcta": [
+            "¿Te importaría esperar un momento?"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un desconocido) ¿(poder) decirme dónde hay una parada de taxis? _____",
+          "solucion_correcta": [
+            "¿Podría decirme dónde hay una parada de taxis?"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un compañero de clase) ¿(importar) dejarme el diccionario? _____",
+          "solucion_correcta": [
+            "¿Te importaría dejarme el diccionario?"
+          ]
+        },
+        {
+          "texto_enunciado": "(a unos desconocidos) ¿(importar) vigilar mi equipaje? _____",
+          "solucion_correcta": [
+            "¿Les importaría vigilar mi equipaje?"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un desconocido) ¿(poder) decirme la hora? _____",
+          "solucion_correcta": [
+            "¿Podría decirme la hora?"
+          ]
+        }
+      ]
+    }
+  ]
+}

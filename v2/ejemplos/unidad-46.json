@@ -1,0 +1,306 @@
+{
+  "tema": "unidad-46",
+  "titulo": "Hay un vaso en la mesa",
+  "descripcion_gramatical": "Presente de indicativo de haber impersonal",
+  "fuente": "libro",
+  "unidad_libro": 46,
+  "ejercicios": [
+    {
+      "subejercicio": "46.1",
+      "tipologia": "T2",
+      "enunciado": "¿Qué hay en la habitación? Observe la ilustración y escriba frases con hay en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "(mesa) _____.",
+          "solucion_correcta": [
+            "Hay una mesa"
+          ]
+        },
+        {
+          "texto_enunciado": "(espejo) _____.",
+          "solucion_correcta": [
+            "No hay espejo"
+          ]
+        },
+        {
+          "texto_enunciado": "(alfombra) _____.",
+          "solucion_correcta": [
+            "Hay una alfombra"
+          ]
+        },
+        {
+          "texto_enunciado": "(sillas) _____.",
+          "solucion_correcta": [
+            "Hay tres sillas"
+          ]
+        },
+        {
+          "texto_enunciado": "(lámpara) _____.",
+          "solucion_correcta": [
+            "Hay una lámpara"
+          ]
+        },
+        {
+          "texto_enunciado": "(televisor) _____.",
+          "solucion_correcta": [
+            "No hay televisor"
+          ]
+        },
+        {
+          "texto_enunciado": "(reloj) _____.",
+          "solucion_correcta": [
+            "Hay un reloj"
+          ]
+        },
+        {
+          "texto_enunciado": "(cuadros) _____.",
+          "solucion_correcta": [
+            "Hay dos cuadros"
+          ]
+        },
+        {
+          "texto_enunciado": "(cojín) _____.",
+          "solucion_correcta": [
+            "No hay ningún cojín. / No hay cojines"
+          ]
+        },
+        {
+          "texto_enunciado": "(sillón) _____.",
+          "solucion_correcta": [
+            "Hay un sillón"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Habitación con una mesa redonda.",
+          "Alrededor de la mesa hay varias sillas.",
+          "Sobre la mesa hay una lámpara.",
+          "En la pared hay dos cuadros y un reloj.",
+          "En el suelo hay una alfombra.",
+          "En primer plano hay un sillón."
+        ]
+      }
+    },
+    {
+      "subejercicio": "46.2",
+      "tipologia": "T2",
+      "enunciado": "Lea la información sobre Ciudad Nueva y escriba frases con hay en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Hay cinco colegios"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Hay un cine"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "No hay ningún hospital. / No hay hospitales"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Hay un polideportivo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Hay dos parques"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "No hay ninguna estación de ferrocarril. / No hay estaciones de ferrocarril"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Hay una estación de autobús"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "No hay ningún hotel. / No hay hoteles"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Hay dos iglesias"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Hay una biblioteca"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Ciudad Nueva: colegios, 5.",
+          "Ciudad Nueva: cines, 1.",
+          "Ciudad Nueva: hospitales, no.",
+          "Ciudad Nueva: polideportivos, 1.",
+          "Ciudad Nueva: parques, 2.",
+          "Ciudad Nueva: estaciones de ferrocarril, no.",
+          "Ciudad Nueva: estaciones de autobús, 1.",
+          "Ciudad Nueva: hoteles, no.",
+          "Ciudad Nueva: iglesias, 2.",
+          "Ciudad Nueva: bibliotecas, 1."
+        ]
+      }
+    },
+    {
+      "subejercicio": "46.3",
+      "tipologia": "T2",
+      "enunciado": "¿Qué hay en la nevera? Observe la ilustración y escriba frases con hay en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "(leche) _____.",
+          "solucion_correcta": [
+            "Hay leche"
+          ]
+        },
+        {
+          "texto_enunciado": "(agua) _____.",
+          "solucion_correcta": [
+            "No hay agua"
+          ]
+        },
+        {
+          "texto_enunciado": "(mantequilla) _____.",
+          "solucion_correcta": [
+            "Hay mantequilla"
+          ]
+        },
+        {
+          "texto_enunciado": "(queso) _____.",
+          "solucion_correcta": [
+            "Hay queso"
+          ]
+        },
+        {
+          "texto_enunciado": "(seis huevos) _____.",
+          "solucion_correcta": [
+            "Hay seis huevos"
+          ]
+        },
+        {
+          "texto_enunciado": "(uvas) _____.",
+          "solucion_correcta": [
+            "Hay uvas"
+          ]
+        },
+        {
+          "texto_enunciado": "(naranjas) _____.",
+          "solucion_correcta": [
+            "Hay naranjas"
+          ]
+        },
+        {
+          "texto_enunciado": "(plátanos) _____.",
+          "solucion_correcta": [
+            "No hay plátanos"
+          ]
+        },
+        {
+          "texto_enunciado": "(zumo de naranja) _____.",
+          "solucion_correcta": [
+            "No hay zumo de naranja"
+          ]
+        },
+        {
+          "texto_enunciado": "(yogures) _____.",
+          "solucion_correcta": [
+            "No hay yogures"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Nevera abierta con alimentos distribuidos en los estantes y en la puerta.",
+          "En los estantes se ven mantequilla, queso, uvas y naranjas.",
+          "En la puerta se ven seis huevos y un envase de bebida."
+        ]
+      }
+    },
+    {
+      "subejercicio": "46.4",
+      "tipologia": "T3",
+      "enunciado": "Complete los diálogos con hay en forma afirmativa o negativa y las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Dónde (buzón) _____? –(uno) _____ en la esquina.",
+          "solucion_correcta": [
+            "hay un buzón",
+            "Hay uno"
+          ]
+        },
+        {
+          "texto_enunciado": "En mi barrio (no, metro) _____.",
+          "solucion_correcta": [
+            "no hay metro"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Dónde (estanco) _____? –(uno) _____ a cien metros.",
+          "solucion_correcta": [
+            "hay un estanco",
+            "Hay uno"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(muchas tiendas) _____ en tu barrio? –No, (no, muchas) _____.",
+          "solucion_correcta": [
+            "Hay muchas tiendas",
+            "no hay muchas"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Cuántos (huevos) _____ en la nevera? –_____ ninguno.",
+          "solucion_correcta": [
+            "huevos hay",
+            "No hay"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Cuánta (leche) _____? –(un litro) _____.",
+          "solucion_correcta": [
+            "leche hay",
+            "Hay un litro"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(cafetería) _____ por aquí? –Sí, (una) _____ en la Plaza Mayor.",
+          "solucion_correcta": [
+            "Hay una cafetería",
+            "hay una"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Cuántos (yogures) _____ en la nevera? –(tres) _____.",
+          "solucion_correcta": [
+            "yogures hay",
+            "Hay tres"
+          ]
+        }
+      ]
+    }
+  ]
+}

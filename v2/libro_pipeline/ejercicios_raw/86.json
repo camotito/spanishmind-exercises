@@ -1,0 +1,135 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "86.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Tomás baila tangos. Le encanta. _____"
+        },
+        {
+          "texto_enunciado": "Trabajo diez horas todos los días. Estoy harto. _____"
+        },
+        {
+          "texto_enunciado": "Rosa e Iván se van a casar. Nos alegramos. _____"
+        },
+        {
+          "texto_enunciado": "Rodri está siempre gastando bromas. Me molesta. _____"
+        },
+        {
+          "texto_enunciado": "Tus amigos te ayudan cuando lo necesitas. Te encanta. _____"
+        },
+        {
+          "texto_enunciado": "Mañana no voy al partido. Me fastidia. _____"
+        },
+        {
+          "texto_enunciado": "Rubén no tiene amigos. Me preocupa. _____"
+        },
+        {
+          "texto_enunciado": "Carlos es profesor de informática. Me sorprende. _____"
+        }
+      ],
+      "tipologia_libre_original": "Combinación de dos frases en una sola oración, realizando los cambios gramaticales necesarios."
+    },
+    {
+      "subejercicio": "86.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos.",
+      "items": [
+        {
+          "texto_enunciado": "—Teresa llamó muy tarde anoche. —Me extraña que _____. Se suele acostar temprano."
+        },
+        {
+          "texto_enunciado": "—Benito dice que quiere estudiar Económicas. —Nos encantaría que _____."
+        },
+        {
+          "texto_enunciado": "—Andrés se portó bien ayer. —Sí, me sorprendió que _____."
+        },
+        {
+          "texto_enunciado": "—¿Crees que Lola estará en casa? —Me extrañaría que _____. Se fue hace dos días."
+        },
+        {
+          "texto_enunciado": "—Elsa cantó bien anoche. —Sí, nos sorprendió que _____."
+        },
+        {
+          "texto_enunciado": "—A Enrique le encantó verte ayer. —Yo también me alegré de _____."
+        },
+        {
+          "texto_enunciado": "—¿Llegó Juan a tiempo? —Sí, tenía miedo de que no _____, pero al final vino."
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Lupe prefiere ir a México. Es lógico. _____"
+        },
+        {
+          "texto_enunciado": "Hay que ser amable con los demás. Es importante. _____"
+        },
+        {
+          "texto_enunciado": "Sofía sabe hablar cinco idiomas. Es maravilloso. _____"
+        },
+        {
+          "texto_enunciado": "No pudimos ver la exposición de Guayasamín. Fue una pena. _____"
+        },
+        {
+          "texto_enunciado": "Patricia decidió regresar a Ecuador. Es comprensible. _____"
+        },
+        {
+          "texto_enunciado": "Mucha gente pasa hambre. Me parece un escándalo. _____"
+        },
+        {
+          "texto_enunciado": "Hay que aprender idiomas. Es importante. _____"
+        },
+        {
+          "texto_enunciado": "Asunción no quiere estudiar. Es una lástima. _____"
+        },
+        {
+          "texto_enunciado": "Hay que ser educado. Es bueno. _____"
+        },
+        {
+          "texto_enunciado": "De pequeño no me gustaba madrugar. Es normal. _____"
+        }
+      ],
+      "tipologia_libre_original": "Combinación de dos frases en una sola oración, realizando los cambios gramaticales necesarios."
+    },
+    {
+      "subejercicio": "86.4",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Está comentando algunos aspectos de un país que está visitando. Escriba frases como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "No hay supermercados. Me asombra _____."
+        },
+        {
+          "texto_enunciado": "Los hombres hacen las labores del hogar. Me parece curioso _____."
+        },
+        {
+          "texto_enunciado": "Todo el transporte es público. Me parece bien _____."
+        },
+        {
+          "texto_enunciado": "Las mujeres son más altas que los hombres. Me llama la atención _____."
+        },
+        {
+          "texto_enunciado": "Los hombres solteros no pueden salir solos. Me parece mal _____."
+        },
+        {
+          "texto_enunciado": "Solo las niñas van a la escuela. Me parece una vergüenza _____."
+        }
+      ],
+      "tipologia_libre_original": "Reformulación de una afirmación como una oración subordinada que completa una valoración o reacción dada."
+    }
+  ],
+  "unidad": 86,
+  "titulo_libro": "Me gusta que venga a casa -- Expresión de emociones, sentimientos y valoraciones",
+  "scan": "libro-rojo-182.png"
+}

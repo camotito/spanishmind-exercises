@@ -1,0 +1,261 @@
+{
+  "tema": "unidad-47",
+  "titulo": "Hay un cine. Está en la calle Mayor",
+  "descripcion_gramatical": "Contraste entre haber y estar",
+  "fuente": "libro",
+  "unidad_libro": 47,
+  "ejercicios": [
+    {
+      "subejercicio": "47.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "(Hay/Está) un paquete para ti. (Hay/Está) en tu habitación.",
+          "solucion_correcta": [
+            "Hay",
+            "Está"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuántos alumnos (hay/están) en tu clase?",
+          "solucion_correcta": [
+            "hay"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(Hay/Está) pan? –Sí, (hay/está) en la despensa.",
+          "solucion_correcta": [
+            "Hay",
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(Hay/Está) algo para comer? –Sí, (hay/está) queso en la nevera.",
+          "solucion_correcta": [
+            "Hay",
+            "hay"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué (hay/está) en esa caja?",
+          "solucion_correcta": [
+            "hay"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Hay/Está) una estación de metro por aquí?",
+          "solucion_correcta": [
+            "Hay"
+          ]
+        },
+        {
+          "texto_enunciado": "La cafetería del hospital (hay/está) en el sótano.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "En este edificio (hay/están) dos oficinas. (Hay/Están) en el primer piso.",
+          "solucion_correcta": [
+            "hay",
+            "Están"
+          ]
+        },
+        {
+          "texto_enunciado": "(Hay/Está) un ratón en mi habitación. (Hay/Está) debajo de la cama.",
+          "solucion_correcta": [
+            "Hay",
+            "Está"
+          ]
+        },
+        {
+          "texto_enunciado": "(Hay/Están) muchos museos en Barcelona.",
+          "solucion_correcta": [
+            "Hay"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "47.2",
+      "tipologia": "T12",
+      "enunciado": "Seleccione las formas adecuadas y escriba frases.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¿Dónde hay una farmacia?"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¿Dónde hay una parada de autobús?"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¿Dónde está la parada de autobús más próxima?"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¿Dónde está el Hospital Central?"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¿Dónde están las ruinas de Tikal?"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¿Dónde hay un banco?"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¿Dónde está el Banco de Galicia?"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¿Dónde están los cines Luna?"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Primera columna de la tabla: «¿Dónde».",
+          "Segunda columna de la tabla: «hay», «está», «están».",
+          "Tercera columna de la tabla: «una farmacia?», «una parada de autobús?», «la parada de autobús más próxima?», «el Hospital Central?», «las ruinas de Tikal?», «un banco?», «el Banco de Galicia?», «los cines Luna?»."
+        ]
+      }
+    },
+    {
+      "subejercicio": "47.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con hay, está o están.",
+      "items": [
+        {
+          "texto_enunciado": "_____ diez alumnos en mi clase.",
+          "solucion_correcta": [
+            "Hay"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ la casa de tu abuelo?",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ un cine nuevo en mi barrio. _____ en la calle de Bravo Murillo.",
+          "solucion_correcta": [
+            "Hay",
+            "Está"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdone, ¿_____ la calle 67 por aquí?",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis compañeros _____ en la cafetería.",
+          "solucion_correcta": [
+            "están"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ la parada del 61?",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ un departamento nuevo en la empresa. _____ en el piso cuarto.",
+          "solucion_correcta": [
+            "Hay",
+            "Está"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ leche? –Sí, _____ un litro. _____ en la nevera.",
+          "solucion_correcta": [
+            "Hay",
+            "hay",
+            "Está"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ una parada de taxis?",
+          "solucion_correcta": [
+            "hay"
+          ]
+        },
+        {
+          "texto_enunciado": "En mi pueblo _____ dos piscinas. _____ en las afueras.",
+          "solucion_correcta": [
+            "hay",
+            "Están"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ la posada La Montaña?",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ una papelería por aquí?",
+          "solucion_correcta": [
+            "Hay"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ unas cartas para usted. _____ en el salón.",
+          "solucion_correcta": [
+            "Hay",
+            "Están"
+          ]
+        },
+        {
+          "texto_enunciado": "En mi calle _____ un hotel. _____ cerca de mi casa.",
+          "solucion_correcta": [
+            "hay",
+            "Está"
+          ]
+        },
+        {
+          "texto_enunciado": "En Bogotá _____ un museo del oro.",
+          "solucion_correcta": [
+            "hay"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde _____ mis llaves?",
+          "solucion_correcta": [
+            "están"
+          ]
+        },
+        {
+          "texto_enunciado": "En Lima _____ muchos edificios antiguos. _____ todos en el centro.",
+          "solucion_correcta": [
+            "hay",
+            "Están"
+          ]
+        }
+      ]
+    }
+  ]
+}

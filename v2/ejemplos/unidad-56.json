@@ -1,0 +1,248 @@
+{
+  "tema": "unidad-56",
+  "titulo": "Estoy viendo las noticias",
+  "descripcion_gramatical": "Presente de estar + gerundio",
+  "fuente": "libro",
+  "unidad_libro": 56,
+  "ejercicios": [
+    {
+      "subejercicio": "56.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete los textos.",
+      "items": [
+        {
+          "texto_enunciado": "_____ una carta.",
+          "solucion_correcta": [
+            "Estoy escribiendo una carta"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ a las cartas.",
+          "solucion_correcta": [
+            "Estamos jugando"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? No, _____.",
+          "solucion_correcta": [
+            "¿Está lloviendo?",
+            "está nevando"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ el periódico. ¿Qué _____ papá?",
+          "solucion_correcta": [
+            "está haciendo",
+            "Está leyendo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ María? No, _____ la tele.",
+          "solucion_correcta": [
+            "Está estudiando",
+            "está viendo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué _____?",
+          "solucion_correcta": [
+            "están llorando"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Con quién _____ Luisa?",
+          "solucion_correcta": [
+            "está bailando"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ un maratón.",
+          "solucion_correcta": [
+            "Estamos corriendo"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "bailar",
+        "correr",
+        "escribir",
+        "estudiar",
+        "hacer",
+        "jugar",
+        "leer",
+        "llorar",
+        "llover",
+        "nevar",
+        "ver"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer está escribiendo una carta."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Dos hombres están jugando a las cartas."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una mujer mira por una ventana mientras nieva."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un padre está leyendo el periódico mientras habla por teléfono con su hija."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un hombre pregunta por teléfono por María y María está viendo la televisión."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Un niño está llorando mientras un adulto lo señala."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Luisa está bailando con un hombre delante de otras personas."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Tres corredores participan en un maratón."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "56.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos siguientes.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Dónde están tus padres? –_____ unos días en Potosí.",
+          "solucion_correcta": [
+            "Están pasando"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Dónde están los niños? –_____ en el parque.",
+          "solucion_correcta": [
+            "Están jugando"
+          ]
+        },
+        {
+          "texto_enunciado": "José y su hermano se quieren mucho, pero _____ siempre _____.",
+          "solucion_correcta": [
+            "están",
+            "discutiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Con quién _____ Teresa? –Con una vecina.",
+          "solucion_correcta": [
+            "está hablando"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta semana _____ mucho calor.",
+          "solucion_correcta": [
+            "está haciendo"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué obsesión! Laura y tú _____ siempre _____ en salir.",
+          "solucion_correcta": [
+            "estáis",
+            "pensando"
+          ]
+        },
+        {
+          "texto_enunciado": "Ten cuidado, Arturo. Últimamente _____ muy poco.",
+          "solucion_correcta": [
+            "Estás durmiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Por qué no come Cristina hoy con nosotros? –_____ en casa de una amiga.",
+          "solucion_correcta": [
+            "Está comiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Dónde está Hans? –_____ un curso de español en Perú.",
+          "solucion_correcta": [
+            "Está haciendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta semana estamos de fiesta y _____ muy tarde.",
+          "solucion_correcta": [
+            "nos estamos acostando"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué _____? –Música cubana.",
+          "solucion_correcta": [
+            "estás escuchando"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acostarse",
+        "comer",
+        "discutir",
+        "dormir",
+        "escuchar",
+        "hablar",
+        "hacer",
+        "hacer",
+        "jugar",
+        "pasar",
+        "pensar"
+      ]
+    },
+    {
+      "subejercicio": "56.3",
+      "tipologia": "T12",
+      "enunciado": "¿Qué está pasando en este momento? Escriba frases ciertas.",
+      "items": [
+        {
+          "texto_enunciado": "(estudiar español) _____.",
+          "solucion_correcta": [
+            "Estoy estudiando español"
+          ]
+        },
+        {
+          "texto_enunciado": "(ducharse) _____.",
+          "solucion_correcta": [
+            "No me estoy duchando"
+          ]
+        },
+        {
+          "texto_enunciado": "(escuchar música) _____.",
+          "solucion_correcta": [
+            "(No) Estoy escuchando música"
+          ]
+        },
+        {
+          "texto_enunciado": "(llover) _____.",
+          "solucion_correcta": [
+            "(No) Está lloviendo"
+          ]
+        },
+        {
+          "texto_enunciado": "(beber un zumo) _____.",
+          "solucion_correcta": [
+            "(No) Estoy bebiendo un zumo"
+          ]
+        },
+        {
+          "texto_enunciado": "(escribir) _____.",
+          "solucion_correcta": [
+            "(No) Estoy escribiendo"
+          ]
+        }
+      ]
+    }
+  ]
+}

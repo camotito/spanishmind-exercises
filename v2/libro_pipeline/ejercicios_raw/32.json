@@ -1,0 +1,130 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "32.1",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Ordene las palabras para formar frases.",
+      "items": [
+        {
+          "texto_enunciado": "—¿en Santander / cuándo / hasta / vais a estar? _____"
+        },
+        {
+          "texto_enunciado": "—¿a Brasil / cómo / Javier / fue? _____"
+        },
+        {
+          "texto_enunciado": "—¿los niños / lloran / por qué? _____"
+        },
+        {
+          "texto_enunciado": "—¿trabaja / Sebastián / dónde? _____"
+        },
+        {
+          "texto_enunciado": "—¿este botón / para qué / sirve? _____"
+        },
+        {
+          "texto_enunciado": "—¿dónde / Peter / de / es? _____"
+        },
+        {
+          "texto_enunciado": "—¿la comida / para / es / cuántos? _____"
+        },
+        {
+          "texto_enunciado": "—¿están / los enfermos / cómo? _____"
+        }
+      ],
+      "tipologia_libre_original": "Ordenación de palabras y segmentos desordenados para formar preguntas completas."
+    },
+    {
+      "subejercicio": "32.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Formule preguntas sobre la información marcada en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "—El año pasado estuve en Antigua. —¿_____ estuviste en Antigua?"
+        },
+        {
+          "texto_enunciado": "—El domingo vamos a ir al campo. —¿_____ vais a ir el domingo?"
+        },
+        {
+          "texto_enunciado": "—El novio de Carla es muy agradable. —¿_____ es el novio de Carla?"
+        },
+        {
+          "texto_enunciado": "—Necesito veinte pesos. —¿_____ pesos necesitas?"
+        },
+        {
+          "texto_enunciado": "—Normalmente estudio por la tarde. —¿_____ estudias?"
+        },
+        {
+          "texto_enunciado": "—Ramón está en la playa. —¿_____ está Ramón?"
+        },
+        {
+          "texto_enunciado": "—Necesito un cuchillo para la carne. —¿_____ necesitas un cuchillo?"
+        },
+        {
+          "texto_enunciado": "—No pude venir anoche. Estaba cansado. —¿_____ no pudiste venir anoche?"
+        },
+        {
+          "texto_enunciado": "—Vivo en Quito desde 1999. —¿_____ vives en Quito?"
+        },
+        {
+          "texto_enunciado": "—Martina es de Bolivia. —¿_____ es Martina?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete la entrevista con los interrogativos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "—¿_____ vive actualmente? —En Barcelona."
+        },
+        {
+          "texto_enunciado": "—¿_____ vive allí? —Me gusta la ciudad."
+        },
+        {
+          "texto_enunciado": "—¿_____ está aprendiendo español? —Quiero trabajar en España."
+        },
+        {
+          "texto_enunciado": "—¿_____ empezó a estudiarlo? —Hace seis meses."
+        },
+        {
+          "texto_enunciado": "—¿_____ empieza el rodaje de la próxima película? —Dentro de una semana."
+        },
+        {
+          "texto_enunciado": "—¿_____ va a ser? —En Brasil y Paraguay."
+        },
+        {
+          "texto_enunciado": "—¿_____ se va a titular la película? —Ruta peligrosa."
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con cuánto, cuánta, cuántos o cuántas.",
+      "items": [
+        {
+          "texto_enunciado": "—¿_____ años tienes? —Veinticuatro."
+        },
+        {
+          "texto_enunciado": "—¿_____ tiempo necesitas para hacer la comida? —Una hora."
+        },
+        {
+          "texto_enunciado": "—En mi clase hay muy pocas chicas. —¿_____ hay?"
+        },
+        {
+          "texto_enunciado": "—¿_____ se tarda en hacer el test? —Media hora."
+        },
+        {
+          "texto_enunciado": "—¿_____ gente ha venido a la conferencia? —Unas treinta personas."
+        }
+      ]
+    }
+  ],
+  "unidad": 32,
+  "titulo_libro": "¿cuándo?, ¿dónde?... -- Interrogativos (3)",
+  "scan": "libro-rojo-074.png"
+}

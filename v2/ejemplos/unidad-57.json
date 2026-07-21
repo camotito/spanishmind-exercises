@@ -1,0 +1,224 @@
+{
+  "tema": "unidad-57",
+  "titulo": "hago / estoy haciendo",
+  "descripcion_gramatical": "Contraste entre presente de indicativo y estar + gerundio",
+  "fuente": "libro",
+  "unidad_libro": 57,
+  "ejercicios": [
+    {
+      "subejercicio": "57.1",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases con algunos de los siguientes verbos: dar, estudiar, jugar, tocar, ver",
+      "items": [
+        {
+          "texto_enunciado": "Jorge y Santi son músicos. _____ en una orquesta. Jorge _____ la batería y Santi _____ la guitarra. Ahora no _____. _____ al ajedrez.",
+          "solucion_correcta": [
+            "tocan",
+            "toca",
+            "toca",
+            "están tocando",
+            "Están jugando"
+          ]
+        },
+        {
+          "texto_enunciado": "Daniela es profesora. _____ clases de Matemáticas. Ahora no _____ clase. _____ la tele en casa.",
+          "solucion_correcta": [
+            "Da",
+            "está dando",
+            "Está viendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Cristina es estudiante. _____ Medicina. Ahora no _____. _____ al tenis con una amiga.",
+          "solucion_correcta": [
+            "Estudia",
+            "está estudiando",
+            "Está jugando"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Jorge y Santi están delante de un tablero de ajedrez. Al fondo aparecen una batería y una guitarra."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Daniela está sentada delante de un televisor. Junto a ella hay una pizarra con una figura geométrica."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Cristina juega al tenis con una amiga."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "57.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el verbo en presente de indicativo o estar + gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "En el desierto de Atacama (no llover) _____ nunca.",
+          "solucion_correcta": [
+            "no llueve"
+          ]
+        },
+        {
+          "texto_enunciado": "Este invierno (no hacer) _____ mucho frío.",
+          "solucion_correcta": [
+            "no está haciendo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Me dejas un paraguas? (Llover) _____ mucho.",
+          "solucion_correcta": [
+            "Está lloviendo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Está Rosa? –Sí, pero (dormir) _____.",
+          "solucion_correcta": [
+            "está durmiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Los vegetarianos (no comer) _____ carne.",
+          "solucion_correcta": [
+            "no comen"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(tú, tocar) _____ algún instrumento? –Sí, (tocar) _____ el violín.",
+          "solucion_correcta": [
+            "Tocas",
+            "toco"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué (cantar) _____ Carlos? –Un tango.",
+          "solucion_correcta": [
+            "está cantando"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunos bebés (llorar) _____ mucho.",
+          "solucion_correcta": [
+            "lloran"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "¿Adónde (vais/estáis yendo)?",
+          "solucion_correcta": [
+            "vais"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Oyes/Estás oyendo) algo?",
+          "solucion_correcta": [
+            "Oyes"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué (quieres/estás queriendo)?",
+          "solucion_correcta": [
+            "quieres"
+          ]
+        },
+        {
+          "texto_enunciado": "No (entiendo/estoy entendiendo). ¿Puedes repetir?",
+          "solucion_correcta": [
+            "entiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Dónde están tus padres? –(Viajan/Están viajando) por América.",
+          "solucion_correcta": [
+            "Están viajando"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta semana no (estudio/estoy estudiando) mucho.",
+          "solucion_correcta": [
+            "estoy estudiando"
+          ]
+        },
+        {
+          "texto_enunciado": "Está muy oscuro. No (veo/estoy viendo) nada.",
+          "solucion_correcta": [
+            "veo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el verbo en presente de indicativo o estar + gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Adónde (ir) _____? –(Ir) _____ a casa.",
+          "solucion_correcta": [
+            "vas",
+            "Voy"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(tú, conocer) _____ a esa chica?",
+          "solucion_correcta": [
+            "Conoces"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué (tú, tener) _____ en la mano?",
+          "solucion_correcta": [
+            "tienes"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué (tú, ver) _____? –Un concurso.",
+          "solucion_correcta": [
+            "estás viendo"
+          ]
+        },
+        {
+          "texto_enunciado": "No (oír) _____ nada. Tengo que ir al médico.",
+          "solucion_correcta": [
+            "oigo"
+          ]
+        },
+        {
+          "texto_enunciado": "–Mira. Lola (llevar) _____ un vestido de lunares. –Sí, (parecer) _____ una bailaora.",
+          "solucion_correcta": [
+            "lleva",
+            "parece"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué (querer) _____ ustedes? –(Necesitar) _____ cucharas.",
+          "solucion_correcta": [
+            "quieren",
+            "Necesitamos"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿De dónde (tú, venir) _____? (Tener) _____ mala cara. –Sí, (venir) _____ del dentista.",
+          "solucion_correcta": [
+            "venís",
+            "Tenéis",
+            "venimos"
+          ]
+        }
+      ]
+    }
+  ]
+}

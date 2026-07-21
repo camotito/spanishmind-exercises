@@ -1,0 +1,142 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "77.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro en forma afirmativa o negativa.",
+      "banco_palabras": [
+        "abrocharse",
+        "ponerse",
+        "reírse",
+        "sentarse"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una persona habla con dos hombres que llevan cascos en una zona de trabajo."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer habla con dos pasajeros sentados en un vehículo."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una mujer está junto a una niña que se ríe."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer habla con un señor mayor y señala un asiento."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ el casco."
+        },
+        {
+          "texto_enunciado": "_____ los cinturones."
+        },
+        {
+          "texto_enunciado": "_____ No tiene gracia."
+        },
+        {
+          "texto_enunciado": "_____ aquí, por favor."
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "(No, ponerse) _____ la blusa roja. Te sienta mejor esta azul."
+        },
+        {
+          "texto_enunciado": "Niños, (despedirse) _____ de los primos."
+        },
+        {
+          "texto_enunciado": "(No, irse) _____, Gonzalo. Quiero verte después."
+        },
+        {
+          "texto_enunciado": "(Quitarse) _____ el abrigo, Sr. Laureano. Aquí hace calor."
+        },
+        {
+          "texto_enunciado": "(Atarse) _____ los zapatos. Te vas a caer."
+        },
+        {
+          "texto_enunciado": "(Subirse) _____ a la moto, Javi. Vamos a dar una vuelta."
+        },
+        {
+          "texto_enunciado": "(Ducharse) _____, niños. Tenéis el pelo muy sucio."
+        },
+        {
+          "texto_enunciado": "¡Raúl, (sentarse) _____ y (estarse) _____ quieto!"
+        },
+        {
+          "texto_enunciado": "Niños, (lavarse) _____ las manos antes de comer."
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría en cada caso?",
+      "items": [
+        {
+          "texto_enunciado": "(a un niño) (Peinarse) _____. Tienes el pelo alborotado."
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Mirarse) _____ al espejo. Tienes mala cara."
+        },
+        {
+          "texto_enunciado": "(a unos amigos) (No, irse) _____ a la cama todavía. Es temprano."
+        },
+        {
+          "texto_enunciado": "(a unos desconocidos) (No, bañarse) _____ aquí. Es muy peligroso."
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Afeitarse) _____. Estás mejor sin barba."
+        },
+        {
+          "texto_enunciado": "(a un amigo) Ten cuidado. (No caerse) _____ de la escalera."
+        },
+        {
+          "texto_enunciado": "(a unos amigos) ¡(Despertarse) _____! Son las diez."
+        },
+        {
+          "texto_enunciado": "(a un niño) (Irse) _____ a la cama. Es muy tarde."
+        },
+        {
+          "texto_enunciado": "(a un desconocido) (No, sentarse) _____ en este banco. Está sucio."
+        },
+        {
+          "texto_enunciado": "(a unos alumnos) ¡(Callarse) _____, por favor! Os quiero decir algo."
+        },
+        {
+          "texto_enunciado": "(a un amigo) (No, moverse) _____. Voy a hacerte una foto."
+        },
+        {
+          "texto_enunciado": "(a un señor mayor) (No, preocuparse) _____. Yo le ayudo."
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Ponerse) _____ las gafas. El sol es muy fuerte."
+        },
+        {
+          "texto_enunciado": "(a unos desconocidos) (Callarse) _____, por favor. No oigo la película."
+        },
+        {
+          "texto_enunciado": "(a un amigo) (No, ponerse) _____ esa corbata. Esta es más bonita."
+        }
+      ]
+    }
+  ],
+  "unidad": 77,
+  "titulo_libro": "lávate -- Imperativo de verbos con se",
+  "scan": "libro-rojo-164.png"
+}

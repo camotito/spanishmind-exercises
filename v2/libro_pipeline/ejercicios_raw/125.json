@@ -1,0 +1,123 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "125.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases utilizando mayúsculas donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "mi padre nació en holanda. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "ayer fue dos de enero. fue el cumpleaños de manuel. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "hay una exposición sobre los incas en el museo de américa. la ha inaugurado el rey juan carlos. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "el martes estuve en la fundación san carlos con el señor arroyo. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "la ciudad de las columnas es un libro de alejo carpentier sobre la habana. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿quién pintó la maja desnuda? _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "muchas ong colaboran con la onu en países del tercer mundo. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡qué impresionantes son las cataratas de iguazú! _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Reescritura ortográfica de ocho frases completas. El alumno debe copiar cada frase en la línea correspondiente, utilizando mayúsculas donde sea necesario."
+    },
+    {
+      "subejercicio": "125.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Corrija los errores en el uso de mayúsculas y minúsculas.",
+      "items": [
+        {
+          "texto_enunciado": "Gerardo nació El 23 de Enero. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Queremos ir a CHina en Diciembre. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿has leído El Siglo de las Luces? _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "don Julio LLopis vivió muchos años en la Paz. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Cuándo fue la Guerra de la independencia? _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La Reina Sofía es Griega. _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Corrección y reescritura ortográfica de seis frases completas que contienen errores en el uso de mayúsculas y minúsculas."
+    },
+    {
+      "subejercicio": "125.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Copie el texto, corrigiendo los errores en el uso de mayúsculas.",
+      "items": [
+        {
+          "texto_enunciado": "querida Hermana:\nLLevo una semana en Buenos aires. Estoy\nalojado en el hotel sur, en la avenida riva-\ndavia, muy cerca del Centro.\nMe gusta mucho la Ciudad. Ayer visité la\ncasa rosada, donde vive el presidente del\nPaís. Esta noche voy a ir a escuchar Tangos\nal famoso Barrio de la boca. El Domingo\npróximo salgo para CHile.\n¿cuándo llegas Tú?\nbesos\n_____",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Copia y corrección de un texto completo. Se presenta una carta con errores en el uso de mayúsculas y un recuadro pautado en el que debe copiarse íntegramente el texto corregido."
+    },
+    {
+      "subejercicio": "125.4",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Una los nombres de las organizaciones con sus siglas.",
+      "items": [
+        {
+          "texto_enunciado": "Instituto Nacional del Libro Español _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Fondo Monetario Internacional _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Objeto volador no identificado _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Comité Olímpico Internacional _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Síndrome de Inmunodeficiencia Adquirida _____",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Ejercicio de correspondencias en dos columnas. La columna izquierda contiene cinco nombres de organizaciones o expresiones: Instituto Nacional del Libro Español; Fondo Monetario Internacional; Objeto volador no identificado; Comité Olímpico Internacional; Síndrome de Inmunodeficiencia Adquirida. La columna derecha contiene cinco siglas rotuladas: a. COI; b. INLE; c. SIDA; d. FMI; e. OVNI. El alumno debe unir cada nombre con su sigla; se esperan cinco correspondencias."
+    }
+  ],
+  "unidad": 125,
+  "titulo_libro": "Arturo Sánchez -- Uso de mayúsculas",
+  "scan": "libro-rojo-262.png"
+}

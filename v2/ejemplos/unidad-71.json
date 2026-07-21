@@ -1,0 +1,228 @@
+{
+  "tema": "unidad-71",
+  "titulo": "trabajaría, comería, viviría",
+  "descripcion_gramatical": "Condicional simple: verbos regulares",
+  "fuente": "libro",
+  "unidad_libro": 71,
+  "ejercicios": [
+    {
+      "subejercicio": "71.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con el condicional simple de los verbos correspondientes.",
+      "items": [
+        {
+          "texto_enunciado": "Esta tarta está buena, pero _____ mejor con nata.",
+          "solucion_correcta": [
+            "estaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí estamos bien, pero _____ mejor en la playa.",
+          "solucion_correcta": [
+            "estaríamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Soy feliz, pero _____ más feliz con un buen empleo.",
+          "solucion_correcta": [
+            "sería"
+          ]
+        },
+        {
+          "texto_enunciado": "Tocáis bien el piano, pero _____ mejor con un poco más de práctica.",
+          "solucion_correcta": [
+            "tocaríais"
+          ]
+        },
+        {
+          "texto_enunciado": "Ustedes viven muy bien aquí, pero creo que _____ mejor en el campo.",
+          "solucion_correcta": [
+            "vivirían"
+          ]
+        },
+        {
+          "texto_enunciado": "Susi trabaja muy bien, pero _____ mejor con más sueldo.",
+          "solucion_correcta": [
+            "trabajaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Me siento bien, pero _____ mejor con una buena comida.",
+          "solucion_correcta": [
+            "me sentiría"
+          ]
+        },
+        {
+          "texto_enunciado": "Tarik habla español bastante bien, pero _____ mejor con un buen profesor.",
+          "solucion_correcta": [
+            "hablaría"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "71.2",
+      "tipologia": "T4",
+      "enunciado": "Complete los deseos con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(a nosotras, gustar) _____ hablar muchos idiomas.",
+          "solucion_correcta": [
+            "Nos gustaría"
+          ]
+        },
+        {
+          "texto_enunciado": "A Abdou (encantar) _____ hablar bien español.",
+          "solucion_correcta": [
+            "le encantaría"
+          ]
+        },
+        {
+          "texto_enunciado": "(a mí, no, gustar) _____ vivir en una gran ciudad.",
+          "solucion_correcta": [
+            "No me gustaría"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(a ustedes, gustar) _____ hacer un viaje por Andalucía?",
+          "solucion_correcta": [
+            "Les gustaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta este hotel, pero (yo, preferir) _____ alojarme en uno más céntrico.",
+          "solucion_correcta": [
+            "preferiría"
+          ]
+        },
+        {
+          "texto_enunciado": "A mis padres (encantar) _____ visitar las ruinas mayas.",
+          "solucion_correcta": [
+            "les encantaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos encanta comer en casa, pero hoy (preferir) _____ comer fuera.",
+          "solucion_correcta": [
+            "preferiríamos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "71.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Me (gusta/gustaría) visitar Argentina, pero ahora no tengo vacaciones.",
+          "solucion_correcta": [
+            "gustaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos (encanta/encantaría) bailar. Lo pasamos fenomenal.",
+          "solucion_correcta": [
+            "encanta"
+          ]
+        },
+        {
+          "texto_enunciado": "(Prefiero/Preferiría) trabajar, pero no encuentro empleo.",
+          "solucion_correcta": [
+            "Preferiría"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué os (gusta/gustaría) hacer hoy? Podemos hacer lo que queráis.",
+          "solucion_correcta": [
+            "gustaría"
+          ]
+        },
+        {
+          "texto_enunciado": "A Paloma le (encanta/encantaría) viajar. Ha recorrido medio mundo.",
+          "solucion_correcta": [
+            "encanta"
+          ]
+        },
+        {
+          "texto_enunciado": "Los sábados me (gusta/gustaría) salir con Pepa y Pablo. Lo pasamos muy bien con ellos.",
+          "solucion_correcta": [
+            "gusta"
+          ]
+        },
+        {
+          "texto_enunciado": "(Prefiero/Preferiría) vivir con gente. Cuando vivía sola era muy aburrido.",
+          "solucion_correcta": [
+            "Prefiero"
+          ]
+        },
+        {
+          "texto_enunciado": "Me (encanta/encantaría) saber pintar bien. Es el sueño de mi vida.",
+          "solucion_correcta": [
+            "encantaría"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "71.4",
+      "tipologia": "T8",
+      "enunciado": "Complete los consejos con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____ madrugar más. Sois un poco perezosos.",
+          "solucion_correcta": [
+            "Deberíais"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ mejor que llamaras a Marta y se lo explicaras todo.",
+          "solucion_correcta": [
+            "Sería"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo que tú, _____ Bellas Artes.",
+          "solucion_correcta": [
+            "estudiaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo que ustedes _____ otro empleo. Esta empresa va a cerrar.",
+          "solucion_correcta": [
+            "buscaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdonen, pero creo que _____ pedir disculpas a Irene por llegar tan tarde.",
+          "solucion_correcta": [
+            "deberían"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo que tú _____ al médico. Tienes mala cara.",
+          "solucion_correcta": [
+            "iría"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo _____ con el director y le _____ un aumento.",
+          "solucion_correcta": [
+            "hablaría",
+            "pediría"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "buscar",
+        "deber",
+        "deber",
+        "estudiar",
+        "hablar",
+        "ir",
+        "pedir",
+        "ser"
+      ]
+    }
+  ]
+}

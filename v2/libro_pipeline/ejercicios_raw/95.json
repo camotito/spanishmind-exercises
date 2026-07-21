@@ -1,0 +1,163 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "95.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las formas adecuadas de tener que, deber, no tener que o no deber.",
+      "items": [
+        {
+          "texto_enunciado": "_____ hacerme unas gafas nuevas. Con estas no veo bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ ir a ver a Santi. Le va a gustar veros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué bien! Hoy _____ fregar los platos. Le toca a Ramón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta noche _____ hacer yo la cena. No está Pablo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ hablar con la boca llena, Carlitos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando era pequeño, _____ andar tres kilómetros para ir al colegio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿_____ trabajar mañana, Gerardo?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer no _____ ir a clase. Fue fiesta.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los espacios en blanco con la forma adecuada de haber que.",
+      "items": [
+        {
+          "texto_enunciado": "Si hay un accidente, _____ llamar a una ambulancia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En el futuro _____ hablar varios idiomas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer _____ rescatar a dos personas de un incendio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando yo iba al colegio, _____ llamar de usted a los profesores.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ ayudar a las personas mayores.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya las expresiones subrayadas con la forma adecuada de tener que o haber que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Es necesario que eche gasolina</u> al coche. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Para ir a la universidad <u>es necesario coger</u> el autobús 53. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En mi colegio <u>era obligatorio levantarse</u> cuando entraba el profesor. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No es necesario que lleves</u> corbata en la oficina. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Para viajar a algunos países <u>es obligatorio vacunarse</u> contra la fiebre amarilla. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si hay un incendio, <u>es necesario llamar</u> a los bomberos. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las formas adecuadas de poder en afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Lo siento. _____ hacer fuego aquí. Está prohibido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "David, ¿nos _____ ir a casa?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Sabes si _____ usar el móvil en la academia?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ recibir mensajes personales en los ordenadores de la empresa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Os _____ llevar mi coche esta noche si queréis.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.5",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya las expresiones subrayadas con la forma adecuada de deber de o no poder. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Supongo que es</u> muy tarde. No hay gente por la calle. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Es imposible que Lupe esté</u> enferma. Acabo de verla en el cine. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Supongo que no está</u> casado. Va siempre solo. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Supongo que Norma y Sandra están</u> fuera. No cogen el teléfono. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Es imposible que tengáis</u> hambre. Acabáis de comer. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 95,
+  "titulo_libro": "Tengo que trabajar. ¿Puedo abrir la ventana? -- Expresiones con infinitivo (2)",
+  "scan": "libro-rojo-200.png"
+}

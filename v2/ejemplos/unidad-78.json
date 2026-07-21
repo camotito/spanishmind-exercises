@@ -1,0 +1,200 @@
+{
+  "tema": "unidad-78",
+  "titulo": "dámelo, no me lo des",
+  "descripcion_gramatical": "Imperativo con pronombres de complemento",
+  "fuente": "libro",
+  "unidad_libro": 78,
+  "ejercicios": [
+    {
+      "subejercicio": "78.1",
+      "tipologia": "T3",
+      "enunciado": "Responda como en los ejemplos.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Hago la cena? —Sí, _____ ya. Tengo hambre. —No, _____ todavía. Es pronto.",
+          "solucion_correcta": [
+            "hazla",
+            "no la hagas"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Abrimos los regalos? —Sí, _____ ya. —No, _____ todavía. Esperad a mañana.",
+          "solucion_correcta": [
+            "abridlos",
+            "no los abráis"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Despierto a Andrés? —Sí, _____ ya. Es muy tarde. —No, _____ todavía. Déjale dormir.",
+          "solucion_correcta": [
+            "despiértalo",
+            "no lo despiertes"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Frío las patatas? —Sí, _____ ya. —No, _____ todavía.",
+          "solucion_correcta": [
+            "fríelas",
+            "no las frías"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Pongo el vídeo? —Sí, _____ ya. —No, _____ todavía. Voy al baño.",
+          "solucion_correcta": [
+            "ponlo",
+            "no lo pongas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "78.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las instrucciones de la receta utilizando los verbos y pronombres adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "Para hacer tortilla de patatas (pelar) _____ unas patatas, (cortar) _____ en láminas finas. (Echar) _____ sal a las patatas y (freír) _____ en aceite muy caliente. (Cortar) _____ un poco de cebolla y (freír) _____ con las patatas. Luego (batir) _____ dos huevos y (mezclar) _____ con las patatas. (Poner) _____ la masa de patata y huevo en la sartén y (freír) _____ un par de minutos. (Dar) _____ la vuelta a la tortilla y, cuando esté dorada, (poner) _____ en un plato limpio.",
+          "solucion_correcta": [
+            "pele",
+            "córtelas",
+            "Eche",
+            "fríalas",
+            "Corte",
+            "fríala",
+            "bata",
+            "mézclelos",
+            "Ponga",
+            "fríala",
+            "Dé",
+            "póngala"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "78.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis y los pronombres adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "La luz está encendida. (Apagar) _____, por favor.",
+          "solucion_correcta": [
+            "Apágala"
+          ]
+        },
+        {
+          "texto_enunciado": "La ventana está abierta. (Cerrar) _____, por favor. Hace frío.",
+          "solucion_correcta": [
+            "Ciérrala"
+          ]
+        },
+        {
+          "texto_enunciado": "Estas cartas son urgentes. (Enviar) _____ hoy mismo si tiene tiempo, por favor.",
+          "solucion_correcta": [
+            "Envíelas"
+          ]
+        },
+        {
+          "texto_enunciado": "No sabemos hacer este ejercicio. (Ayudar) _____, Jesús.",
+          "solucion_correcta": [
+            "Ayúdanos"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo sed. (Pasar) _____ el agua, por favor.",
+          "solucion_correcta": [
+            "Pásame"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Le pregunto a Jorge? —No. (no, preguntar) _____. No sabe nada.",
+          "solucion_correcta": [
+            "no le preguntes"
+          ]
+        },
+        {
+          "texto_enunciado": "Raquel, (hacer) _____ una foto a Raúl y a mí. Queremos tener un recuerdo.",
+          "solucion_correcta": [
+            "haznos"
+          ]
+        },
+        {
+          "texto_enunciado": "Mario, (hacer) _____ un favor. (Comprar) _____ unos sellos cuando salgas.",
+          "solucion_correcta": [
+            "hazme",
+            "Cómprame"
+          ]
+        },
+        {
+          "texto_enunciado": "Miguel, (no, enseñar) _____ el regalo a nadie.",
+          "solucion_correcta": [
+            "no le enseñes"
+          ]
+        },
+        {
+          "texto_enunciado": "Los niños están pisando las flores. (Decir) _____ algo, Sebastián.",
+          "solucion_correcta": [
+            "Diles"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "78.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis y los pronombres adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "Si te sobra una entrada, (no, regalar) _____ a Héctor. (Regalar) _____ a mí.",
+          "solucion_correcta": [
+            "no se la regales",
+            "Regálamela"
+          ]
+        },
+        {
+          "texto_enunciado": "Si quiere usted algo, (no, pedir) _____ a otro. (Pedir) _____ a mí.",
+          "solucion_correcta": [
+            "no se lo pida",
+            "Pídamelo"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesito saber la verdad. (Decir) _____, doctor.",
+          "solucion_correcta": [
+            "Dígamela"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese policía quiere ver tu pasaporte. (Enseñar) _____.",
+          "solucion_correcta": [
+            "Enséñaselo"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa pluma es mía. (Dar) _____.",
+          "solucion_correcta": [
+            "Dámela"
+          ]
+        },
+        {
+          "texto_enunciado": "Te he comprado una chaqueta. (Ponerse) _____.",
+          "solucion_correcta": [
+            "Póntela"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese libro es de Rosa. (No, dar) _____ a Pedro.",
+          "solucion_correcta": [
+            "No se lo des"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Quieres ver el regalo? —No, (no, enseñar) _____ todavía.",
+          "solucion_correcta": [
+            "no me lo enseñes"
+          ]
+        }
+      ]
+    }
+  ]
+}

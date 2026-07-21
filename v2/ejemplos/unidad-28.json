@@ -1,0 +1,229 @@
+{
+  "tema": "unidad-28",
+  "titulo": "que, el que, quien...",
+  "descripcion_gramatical": "Relativos (1)",
+  "fuente": "libro",
+  "unidad_libro": 28,
+  "ejercicios": [
+    {
+      "subejercicio": "28.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Ese es el señor con (que/quien) tienes que hablar.",
+          "solucion_correcta": [
+            "quien"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesito el libro (que/el que) te presté.",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo un amigo (que/quien) vive en Panamá.",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "Este es el restaurante (que/el que) me han recomendado.",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "Este es el agujero por (que/el que) entran los ratones.",
+          "solucion_correcta": [
+            "el que"
+          ]
+        },
+        {
+          "texto_enunciado": "Sebastián es el chico (que/quien) está hablando con Lola.",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Conoces a la señora (que/la que) nos ha saludado?",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese es el equipo contra (que/el que) jugamos el domingo.",
+          "solucion_correcta": [
+            "el que"
+          ]
+        },
+        {
+          "texto_enunciado": "Usa los pañuelos (que/los que) están en el baño.",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "La academia a (que/la que) voy está en el centro.",
+          "solucion_correcta": [
+            "la que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "28.2",
+      "tipologia": "T10",
+      "enunciado": "Una las dos frases en una sola con que, quien, quienes, el que, la que, los que o las que.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo un ventilador. Funciona con pilas. Tengo _____.",
+          "solucion_correcta": [
+            "un ventilador que funciona con pilas"
+          ]
+        },
+        {
+          "texto_enunciado": "La vicuña es un mamífero. Vive en los Andes. La vicuña _____.",
+          "solucion_correcta": [
+            "es un mamífero que vive en los Andes"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer comimos ostras. ¿Te gustaron? ¿Te gustaron _____?",
+          "solucion_correcta": [
+            "las ostras que comimos ayer"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy leyendo un libro. Me gusta mucho. Me gusta mucho _____.",
+          "solucion_correcta": [
+            "el libro que estoy leyendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Paco sale con una chica. La chica es piloto. La chica _____.",
+          "solucion_correcta": [
+            "que sale con Paco es piloto / con la que sale Paco es piloto"
+          ]
+        },
+        {
+          "texto_enunciado": "He comprado unos cuadros. Te había hablado de ellos. He comprado _____.",
+          "solucion_correcta": [
+            "los cuadros de los que te había hablado"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer conocí a unas chicas. Ana vivía con ellas. Ayer _____.",
+          "solucion_correcta": [
+            "a unas chicas con las que vivía Ana"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "28.3",
+      "tipologia": "T10",
+      "enunciado": "Escriba las respuestas con las palabras entre paréntesis y el relativo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "¿Quién es Roberto? (Un chico. Lo conocí en el parque.) _____.",
+          "solucion_correcta": [
+            "Un chico que conocí en el parque"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué es un “abstemio”? (Una persona. No bebe alcohol.) _____.",
+          "solucion_correcta": [
+            "Una persona que no bebe alcohol"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué le has regalado a Cristóbal? (Un cuadro. Lo he pintado yo.) _____.",
+          "solucion_correcta": [
+            "Un cuadro que he pintado yo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién hace tanto ruido? (Unos obreros. Están arreglando la calle.) _____.",
+          "solucion_correcta": [
+            "Unos obreros que están arreglando la calle"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es Óscar? (Un chico. Trabajo con él.) _____.",
+          "solucion_correcta": [
+            "Un chico con el que trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué es un “ateo”? (Una persona. No cree en Dios.) _____.",
+          "solucion_correcta": [
+            "Una persona que no cree en Dios"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué es un “canguro”? (Una persona. Cuida niños.) _____.",
+          "solucion_correcta": [
+            "Una persona que cuida niños"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué te ha enseñado? (Una pluma. Quevedo escribía con ella.) _____.",
+          "solucion_correcta": [
+            "Una pluma con la que escribía Quevedo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "28.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con que, el que, la que, los que, las que o lo que.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Quién es esa chica? –_____ trabaja con Eduardo.",
+          "solucion_correcta": [
+            "La que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ tú quieres es imposible.",
+          "solucion_correcta": [
+            "Lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué libro estás leyendo? –_____ me prestó Antonio.",
+          "solucion_correcta": [
+            "El que"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi casa es _____ está en aquella esquina.",
+          "solucion_correcta": [
+            "la que"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Recuerdas _____ dijiste ayer?",
+          "solucion_correcta": [
+            "lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quiénes son esas chicas? –_____ estuvieron en mi fiesta.",
+          "solucion_correcta": [
+            "Las que"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quiénes son Guille y Silverio? –_____ viven en el sexto.",
+          "solucion_correcta": [
+            "Los que"
+          ]
+        }
+      ]
+    }
+  ]
+}

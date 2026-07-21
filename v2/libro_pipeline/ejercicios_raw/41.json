@@ -1,0 +1,174 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "41.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases utilizando pronombres.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer entrega un regalo a otra mujer.",
+            "texto_globo": "Para ti."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un hombre entrega un regalo a una mujer acompañada por otra persona.",
+            "texto_globo": "Para _____."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una mujer habla enfadada con otra mujer.",
+            "texto_globo": "Estoy enfadada con _____."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre entrega un regalo a dos mujeres.",
+            "texto_globo": "Para _____."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una mujer recibe un regalo de otra mujer.",
+            "texto_globo": "¿Es para _____? Gracias."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una mujer habla por teléfono con don Salvador.",
+            "texto_globo": "Buenos días, don Salvador. Me gustaría hablar con _____."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mujer presenta una tarta a otra mujer.",
+            "texto_globo": "Está hecha por _____."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un hombre recibe un regalo de una mujer.",
+            "texto_globo": "¿Para _____? Gracias."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Para _____."
+        },
+        {
+          "texto_enunciado": "Para _____."
+        },
+        {
+          "texto_enunciado": "Estoy enfadada con _____."
+        },
+        {
+          "texto_enunciado": "Para _____."
+        },
+        {
+          "texto_enunciado": "¿Es para _____? Gracias."
+        },
+        {
+          "texto_enunciado": "Buenos días, don Salvador. Me gustaría hablar con _____."
+        },
+        {
+          "texto_enunciado": "Está hecha por _____."
+        },
+        {
+          "texto_enunciado": "¿Para _____? Gracias."
+        }
+      ]
+    },
+    {
+      "subejercicio": "41.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el pronombre adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "¿Has visto a Adolfo? Quiero hablar con _____."
+        },
+        {
+          "texto_enunciado": "¿Has visto a Petra? Quiero hablar con _____."
+        },
+        {
+          "texto_enunciado": "¿Has visto al señor Carmona? Tengo algo para _____."
+        },
+        {
+          "texto_enunciado": "Antonio te está buscando. Quiere hablar con _____."
+        },
+        {
+          "texto_enunciado": "¿Dónde están Pepe y Susana? Mercedes quiere hablar con _____."
+        },
+        {
+          "texto_enunciado": "Aurora nos está buscando. No puede estar un momento sin _____."
+        },
+        {
+          "texto_enunciado": "Mi jefe me necesita. No sabe hacer nada sin _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "41.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con yo, mí, –migo o tú, ti, –tigo.",
+      "items": [
+        {
+          "texto_enunciado": "Estoy triste. Luisa no quiere salir _____."
+        },
+        {
+          "texto_enunciado": "Lo siento, Jaime. Han aprobado todos menos _____."
+        },
+        {
+          "texto_enunciado": "Toma, un regalo para _____ de parte de Ana."
+        },
+        {
+          "texto_enunciado": "Oye, Luis, según _____, ¿quién va a ganar el domingo?"
+        },
+        {
+          "texto_enunciado": "¿Esto es para _____? Gracias."
+        },
+        {
+          "texto_enunciado": "Ven con _____, por favor. Necesito ayuda."
+        },
+        {
+          "texto_enunciado": "¿Está Berta con _____, María?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "41.4",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Según (ti/tú), ¿quién es el mejor cantante del mundo?"
+        },
+        {
+          "texto_enunciado": "Toma. Este disco es para (ti/tú)."
+        },
+        {
+          "texto_enunciado": "Ven. Siéntate junto a (mí/yo)."
+        },
+        {
+          "texto_enunciado": "Luisa se sienta entre Jorge y (mí/yo)."
+        },
+        {
+          "texto_enunciado": "¿Quieres venir (conmigo/con yo), Sonia?"
+        },
+        {
+          "texto_enunciado": "Sebastián se sienta delante de (mí/yo)."
+        },
+        {
+          "texto_enunciado": "A todos les gusta el pescado menos a (mí/yo)."
+        },
+        {
+          "texto_enunciado": "Han leído todos el Quijote menos (mí/yo)."
+        }
+      ]
+    }
+  ],
+  "unidad": 41,
+  "titulo_libro": "para mí, contigo... -- Pronombres personales con preposiciones",
+  "scan": "libro-rojo-092.png"
+}

@@ -1,0 +1,137 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "87.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos.",
+      "items": [
+        {
+          "texto_enunciado": "—Yo creo que Federico tiene novia. —Pues yo no creo que la _____."
+        },
+        {
+          "texto_enunciado": "—Yo creo que Graciela _____ peruana. —Pues yo no creo que lo _____."
+        },
+        {
+          "texto_enunciado": "—Recuerdo que a Héctor le gustaba dibujar. —Pues yo no recuerdo que le _____."
+        },
+        {
+          "texto_enunciado": "—¿Crees que Alejandra _____? —No, no creo que pueda hacer este trabajo."
+        },
+        {
+          "texto_enunciado": "—Creo que el Sr. Garrido _____. —Pues yo no creo que esté enfadado."
+        },
+        {
+          "texto_enunciado": "—Pienso que Susana _____. —Pues yo no pienso que sea muy cariñosa."
+        },
+        {
+          "texto_enunciado": "—¿Ustedes no creen que aquí _____? —No, no creemos que haga mucho calor."
+        },
+        {
+          "texto_enunciado": "—¡Qué suerte tiene Adela! —Pues a mí no me parece que la _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Dicen que Alfonso es agresivo, pero no es verdad que lo _____."
+        },
+        {
+          "texto_enunciado": "Dicen que no hace frío, pero está claro que lo _____."
+        },
+        {
+          "texto_enunciado": "Dices que hay mucha gente, pero es evidente que no _____ mucha."
+        },
+        {
+          "texto_enunciado": "Dijeron que Tomás fue el culpable, pero no estaba claro que lo _____."
+        },
+        {
+          "texto_enunciado": "Dices que Concha tiene mal genio, pero no es cierto que lo _____."
+        },
+        {
+          "texto_enunciado": "—¿Es cierto que mañana _____ Paco? —No, regresa la semana que viene."
+        },
+        {
+          "texto_enunciado": "No era verdad que Julio _____ Matemáticas. Estudiaba Física."
+        },
+        {
+          "texto_enunciado": "Es falso que Emilio _____ veinticinco años. Tiene treinta."
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete en forma afirmativa o negativa. Utilice las expresiones del recuadro.",
+      "banco_palabras": [
+        "bailar bien",
+        "enseñar a programar",
+        "enseñar bien",
+        "haber coches",
+        "saber ruso"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "No conozco a nadie que _____."
+        },
+        {
+          "texto_enunciado": "Estamos buscando un traductor que _____."
+        },
+        {
+          "texto_enunciado": "Me han regalado un libro que _____."
+        },
+        {
+          "texto_enunciado": "Me gustaría vivir en una ciudad donde _____."
+        },
+        {
+          "texto_enunciado": "¿Conoces algún profesor de español que _____?"
+        }
+      ],
+      "tipologia_libre_original": "Completar frases en forma afirmativa o negativa conjugando las expresiones proporcionadas en un recuadro."
+    },
+    {
+      "subejercicio": "87.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro en indicativo o subjuntivo.",
+      "banco_palabras": [
+        "ayudar",
+        "hablar",
+        "hacer",
+        "ser",
+        "tener",
+        "tener"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Quiero un libro que _____ información sobre Cuba. Quiero ir este verano."
+        },
+        {
+          "texto_enunciado": "Estoy buscando el libro que _____ fotos de la selva peruana. ¿Lo habéis visto?"
+        },
+        {
+          "texto_enunciado": "En mi empresa necesitan una secretaria que _____ portugués."
+        },
+        {
+          "texto_enunciado": "No conozco a nadie que _____ tan bueno como Lorenzo."
+        },
+        {
+          "texto_enunciado": "Hasta que no te conocí a ti no conocía a nadie que _____ paracaidismo."
+        },
+        {
+          "texto_enunciado": "Necesito unos cuantos amigos que me _____ a hacer la mudanza al nuevo piso."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases conjugando los verbos de un recuadro en indicativo o subjuntivo según el contexto."
+    }
+  ],
+  "unidad": 87,
+  "titulo_libro": "Creo que es... / No creo que sea... -- Contraste entre indicativo y subjuntivo",
+  "scan": "libro-rojo-184.png"
+}

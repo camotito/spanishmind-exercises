@@ -1,0 +1,218 @@
+{
+  "tema": "unidad-82",
+  "titulo": "trabajara, comiera, viviera",
+  "descripcion_gramatical": "Pretérito imperfecto de subjuntivo: verbos regulares",
+  "fuente": "libro",
+  "unidad_libro": 82,
+  "ejercicios": [
+    {
+      "subejercicio": "82.1",
+      "tipologia": "T12",
+      "enunciado": "¿Qué diría? Escriba frases con quién y el pretérito imperfecto de subjuntivo del verbo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Le gustaría bailar como un amigo suyo, pero lo ve difícil. _____",
+          "solucion_correcta": [
+            "¡Quién bailara/bailase como tú!"
+          ]
+        },
+        {
+          "texto_enunciado": "Le gustaría comer como un amigo suyo, pero lo ve difícil. _____",
+          "solucion_correcta": [
+            "¡Quién comiera/comiese como tú!"
+          ]
+        },
+        {
+          "texto_enunciado": "Le gustaría hablar italiano como unos amigos suyos, pero lo ve difícil. _____",
+          "solucion_correcta": [
+            "¡Quién hablara/hablase italiano como vosotros!"
+          ]
+        },
+        {
+          "texto_enunciado": "Le gustaría escribir como García Márquez, pero lo ve difícil. _____",
+          "solucion_correcta": [
+            "¡Quién escribiera/escribiese como García Márquez!"
+          ]
+        },
+        {
+          "texto_enunciado": "Le gustaría jugar al ajedrez como Karpov, pero lo ve difícil. _____",
+          "solucion_correcta": [
+            "¡Quién jugara/jugase al ajedrez como Karpov!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "82.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro en imperfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando era pequeño mis padres querían que _____ al tenis.",
+          "solucion_correcta": [
+            "jugara/jugase"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Vas a ponerte ahora a lavar el coche? Preferiría que lo _____ en otro momento.",
+          "solucion_correcta": [
+            "lavaras/lavases"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Ya estáis aquí? Esperaba que _____ más tarde.",
+          "solucion_correcta": [
+            "llegarais/llegaseis"
+          ]
+        },
+        {
+          "texto_enunciado": "Gracias por el regalo, Andrés. No era necesario que _____ nada.",
+          "solucion_correcta": [
+            "compraras/comprases"
+          ]
+        },
+        {
+          "texto_enunciado": "Era imposible que no _____ nadie. Lo dijo en voz alta.",
+          "solucion_correcta": [
+            "se enterara/enterase"
+          ]
+        },
+        {
+          "texto_enunciado": "Rodrigo quería que le _____, pero no teníamos tiempo.",
+          "solucion_correcta": [
+            "ayudáramos/ayudásemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encantaría que ustedes _____ en esta casa.",
+          "solucion_correcta": [
+            "vivieran/viviesen"
+          ]
+        },
+        {
+          "texto_enunciado": "Antonia nos despertó a las siete. Tenía miedo de que _____ el avión.",
+          "solucion_correcta": [
+            "perdiéramos/perdiésemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Todo el mundo esperaba que _____ en la fiesta, pero tenía mal la voz.",
+          "solucion_correcta": [
+            "cantara/cantase"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Por qué no vinieron a la cena? —Puede que no _____ la invitación.",
+          "solucion_correcta": [
+            "recibieran/recibiesen"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encantó que me _____. Tenía muchas ganas de veros.",
+          "solucion_correcta": [
+            "llamarais/llamaseis"
+          ]
+        },
+        {
+          "texto_enunciado": "El año pasado el director nos prohibió que _____ en clase.",
+          "solucion_correcta": [
+            "comiéramos/comiésemos"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "ayudar",
+        "cantar",
+        "comer",
+        "comprar",
+        "enterarse",
+        "jugar",
+        "lavar",
+        "llamar",
+        "llegar",
+        "perder",
+        "recibir",
+        "vivir"
+      ]
+    },
+    {
+      "subejercicio": "82.3",
+      "tipologia": "T10",
+      "enunciado": "Una las dos oraciones con que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Mauro no aprobó el carné de conducir. Lo sentimos. _____",
+          "solucion_correcta": [
+            "Sentimos que Mauro no aprobara/ aprobase el carné de conducir"
+          ]
+        },
+        {
+          "texto_enunciado": "Balbina encontró trabajo. Me alegré. _____",
+          "solucion_correcta": [
+            "Me alegré de que Balbina encontrara/encontrase trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "No me llamaste el domingo. Me extrañó. _____",
+          "solucion_correcta": [
+            "Me extrañó que no me llamarais/llamaseis el domingo"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan y Alicia se acordaron de nosotros. Nos gustó. _____",
+          "solucion_correcta": [
+            "Nos gustó que Juan y Alicia se acordaran/acordasen de nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi hermana se llevó el coche. No me importó. _____",
+          "solucion_correcta": [
+            "No me importó que mi hermana se llevara/llevase el coche"
+          ]
+        },
+        {
+          "texto_enunciado": "No aprobaste. Lo sentí. _____",
+          "solucion_correcta": [
+            "Sentí que no aprobaras/aprobases"
+          ]
+        },
+        {
+          "texto_enunciado": "No hablaste con Blas. Me pareció mal. _____",
+          "solucion_correcta": [
+            "Me pareció mal que no hablaras/hablases con Blas"
+          ]
+        },
+        {
+          "texto_enunciado": "No invitasteis a Sonia. No me gustó. _____",
+          "solucion_correcta": [
+            "No me gustó que no invitarais/invitaseis a Sonia"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis hermanos no salieron anoche. Me extrañó. _____",
+          "solucion_correcta": [
+            "Me extrañó que mis hermanos no salieran/saliesen anoche"
+          ]
+        },
+        {
+          "texto_enunciado": "Armando quiere trabajar con nosotros. Nos gustaría. _____",
+          "solucion_correcta": [
+            "Nos gustaría que Armando trabajara/trabajase con nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis padres nos regalaron una alfombra. Nos encantó. _____",
+          "solucion_correcta": [
+            "Nos encantó que mis padres nos regalaran/regalasen una alfombra"
+          ]
+        },
+        {
+          "texto_enunciado": "La empresa pagó la comida. Nos extrañó. _____",
+          "solucion_correcta": [
+            "Nos extrañó que la empresa pagara/pagase la comida"
+          ]
+        }
+      ]
+    }
+  ]
+}

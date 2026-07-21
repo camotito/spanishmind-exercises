@@ -1,0 +1,281 @@
+{
+  "tema": "unidad-34",
+  "titulo": "yo, tú, él...",
+  "descripcion_gramatical": "Pronombres personales de sujeto",
+  "fuente": "libro",
+  "unidad_libro": 34,
+  "ejercicios": [
+    {
+      "subejercicio": "34.1",
+      "tipologia": "T2",
+      "enunciado": "Escriba el pronombre correspondiente.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Ellas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Usted"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Yo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Vosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Nosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Tú"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Ustedes"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Él"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Ellos"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un hombre señala a dos mujeres."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Tres mujeres juntas; una de ellas habla."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una mujer joven habla con un hombre mayor."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer se señala a sí misma."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Tres mujeres; una habla y señala a las otras dos."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Dos mujeres juntas; una se señala a sí misma y a la otra."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Un hombre habla con un chico y una chica."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Dos mujeres; una señala a la otra."
+          },
+          {
+            "numero": "9",
+            "descripcion": "Un chico señala a un hombre mayor."
+          },
+          {
+            "numero": "10",
+            "descripcion": "Una mujer aparece delante de un grupo de personas."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "34.2",
+      "tipologia": "T2",
+      "enunciado": "Observe y escriba España, América Latina o España y América Latina.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cómo están ustedes? _____",
+          "solucion_correcta": [
+            "América Latina"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo hambre. ¿Y vosotras? _____",
+          "solucion_correcta": [
+            "España"
+          ]
+        },
+        {
+          "texto_enunciado": "Pasen ustedes, por favor. _____",
+          "solucion_correcta": [
+            "América Latina y España"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Son ustedes estudiantes? _____",
+          "solucion_correcta": [
+            "América Latina"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer se dirige a varias personas y dice: «¿Cómo están ustedes?»"
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer se dirige a otras mujeres y dice: «Tengo hambre. ¿Y vosotras?»"
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un hombre invita a pasar a varias personas y dice: «Pasen ustedes, por favor.»"
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre se dirige a varias personas y pregunta: «¿Son ustedes estudiantes?»"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "34.3",
+      "tipologia": "T2",
+      "enunciado": "Lea la información y complete las frases con yo, tú... solo cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "PEP: Concha y _____ somos españoles. _____ es de Murcia y _____ soy de Barcelona.",
+          "solucion_correcta": [
+            "yo",
+            "Ella",
+            "yo"
+          ]
+        },
+        {
+          "texto_enunciado": "CONCHA: Gabriel y Rosita son mexicanos. _____ es de Mérida y _____ es de Monterrey.",
+          "solucion_correcta": [
+            "Ella",
+            "él"
+          ]
+        },
+        {
+          "texto_enunciado": "GABRIEL: ¿De dónde es Adriana? PEP: _____ es argentina.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "ROSITA: Concha y _____ somos estudiantes. _____ es española y _____ soy mexicana.",
+          "solucion_correcta": [
+            "yo",
+            "Ella",
+            "yo"
+          ]
+        },
+        {
+          "texto_enunciado": "ADRIANA: ¿De dónde son Pep y Concha? GABRIEL: _____ son españoles. _____ es estudiante y _____ es periodista.",
+          "solucion_correcta": [
+            "ø",
+            "Él",
+            "ella"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Tabla con las columnas Pep, Concha, Adriana, Gabriel y Rosita.",
+          "Nacionalidad: Pep, española; Concha, española; Adriana, argentina; Gabriel, mexicana; Rosita, mexicana.",
+          "Ciudad: Pep, Barcelona; Concha, Murcia; Adriana, Córdoba; Gabriel, Monterrey; Rosita, Mérida.",
+          "Ocupación: Pep, periodista; Concha, estudiante; Adriana, enfermera; Gabriel, periodista; Rosita, estudiante."
+        ]
+      }
+    },
+    {
+      "subejercicio": "34.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con el pronombre personal cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "—¿De dónde sois Adolfo y _____? —_____ somos de Uruguay.",
+          "solucion_correcta": [
+            "tú",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Dónde vives _____? —_____ vivo en Murcia. ¿Y _____? —_____ vivo en Granada.",
+          "solucion_correcta": [
+            "ø",
+            "ø",
+            "tú",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "—Perdone, ¿de dónde son _____? —_____ somos de Arequipa.",
+          "solucion_correcta": [
+            "ustedes",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ estudiamos Medicina.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ quiero un café, y _____ ¿qué queréis?",
+          "solucion_correcta": [
+            "(yo)",
+            "vosotros/vosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira, Lucía y Ana. _____ son amigas de Blanca.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ quiero ser abogada, pero mis padres quieren que estudie Medicina.",
+          "solucion_correcta": [
+            "(yo)"
+          ]
+        }
+      ]
+    }
+  ]
+}

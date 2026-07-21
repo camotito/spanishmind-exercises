@@ -1,0 +1,517 @@
+{
+  "tema": "unidad-123",
+  "titulo": "médico, árbol, inglés",
+  "descripcion_gramatical": "Reglas de acentuación (1)",
+  "fuente": "libro",
+  "unidad_libro": 123,
+  "ejercicios": [
+    {
+      "subejercicio": "123.1",
+      "tipologia": "T16",
+      "enunciado": "Subraye la sílaba fuerte.",
+      "items": [
+        {
+          "texto_enunciado": "balón",
+          "solucion_correcta": [
+            "balón"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cabeza",
+          "solucion_correcta": [
+            "cabeza"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Sánchez",
+          "solucion_correcta": [
+            "Sánchez"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Madrid",
+          "solucion_correcta": [
+            "Madrid"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Ecuador",
+          "solucion_correcta": [
+            "Ecuador"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Perú",
+          "solucion_correcta": [
+            "Perú"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Guatemala",
+          "solucion_correcta": [
+            "Guatemala"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "enero",
+          "solucion_correcta": [
+            "enero"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cama",
+          "solucion_correcta": [
+            "cama"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "mexicano",
+          "solucion_correcta": [
+            "mexicano"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "octubre",
+          "solucion_correcta": [
+            "octubre"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "lloro",
+          "solucion_correcta": [
+            "lloro"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "lloró",
+          "solucion_correcta": [
+            "lloró"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "cárcel",
+          "solucion_correcta": [
+            "cárcel"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "azul",
+          "solucion_correcta": [
+            "azul"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "querer",
+          "solucion_correcta": [
+            "querer"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "capitán",
+          "solucion_correcta": [
+            "capitán"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "balones",
+          "solucion_correcta": [
+            "balones"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Chile",
+          "solucion_correcta": [
+            "Chile"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "comes",
+          "solucion_correcta": [
+            "comes"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "hospital",
+          "solucion_correcta": [
+            "hospital"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "España",
+          "solucion_correcta": [
+            "España"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "argentino",
+          "solucion_correcta": [
+            "argentino"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "portugués",
+          "solucion_correcta": [
+            "portugués"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "viven",
+          "solucion_correcta": [
+            "viven"
+          ],
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "123.2",
+      "tipologia": "T16",
+      "enunciado": "Escriba la tilde en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "melón",
+          "solucion_correcta": [
+            "melón"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "frances",
+          "solucion_correcta": [
+            "francés"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "alemana",
+          "solucion_correcta": [
+            "alemana"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "marroqui",
+          "solucion_correcta": [
+            "marroquí"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "amarillo",
+          "solucion_correcta": [
+            "amarillo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "casa",
+          "solucion_correcta": [
+            "casa"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Pepe",
+          "solucion_correcta": [
+            "Pepe"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Gonzalez",
+          "solucion_correcta": [
+            "González"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Panama",
+          "solucion_correcta": [
+            "Panamá"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Africa",
+          "solucion_correcta": [
+            "África"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "aleman",
+          "solucion_correcta": [
+            "alemán"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "melones",
+          "solucion_correcta": [
+            "melones"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "lapiz",
+          "solucion_correcta": [
+            "lápiz"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "lapices",
+          "solucion_correcta": [
+            "lápices"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "actriz",
+          "solucion_correcta": [
+            "actriz"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "util",
+          "solucion_correcta": [
+            "útil"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "arboles",
+          "solucion_correcta": [
+            "árboles"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Bogota",
+          "solucion_correcta": [
+            "Bogotá"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "pajaro",
+          "solucion_correcta": [
+            "pájaro"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Brasil",
+          "solucion_correcta": [
+            "Brasil"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "vivis",
+          "solucion_correcta": [
+            "vivís"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "comi",
+          "solucion_correcta": [
+            "comí"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "vivo",
+          "solucion_correcta": [
+            "vivo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "America",
+          "solucion_correcta": [
+            "América"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "estas",
+          "solucion_correcta": [
+            "estás"
+          ],
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "123.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "No (se/sé) nadar.",
+          "solucion_correcta": [
+            "sé"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta carta es para (mi/mí).",
+          "solucion_correcta": [
+            "mí"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Tu/Tú) vienes?",
+          "solucion_correcta": [
+            "Tú"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Que/Qué) quieres?",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "(Si/Sí), tienes razón.",
+          "solucion_correcta": [
+            "Sí"
+          ]
+        },
+        {
+          "texto_enunciado": "Es el sombrero (de/dé) Ana.",
+          "solucion_correcta": [
+            "de"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento, no (te/té) quiero.",
+          "solucion_correcta": [
+            "te"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Es ese Pepe? Sí, es (el/él).",
+          "solucion_correcta": [
+            "él"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es (tu/tú) profesora?",
+          "solucion_correcta": [
+            "tu"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto (se/sé) acuesta siempre muy tarde.",
+          "solucion_correcta": [
+            "se"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "123.4",
+      "tipologia": "T16",
+      "enunciado": "Añada la tilde donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "¿Se acuerda de mí?",
+          "solucion_correcta": [
+            "¿Se acuerda de mí?"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Felipe se ducha por las mañanas.",
+          "solucion_correcta": [
+            "Felipe se ducha por las mañanas"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "¿A que hora te levantas?",
+          "solucion_correcta": [
+            "¿A qué hora te levantas?"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "A mi no me gusta el te.",
+          "solucion_correcta": [
+            "A mí no me gusta el té"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Es el coche de mi padre.",
+          "solucion_correcta": [
+            "Es el coche de mi padre"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "¿Te gusta el zumo de piña?",
+          "solucion_correcta": [
+            "¿Te gusta el zumo de piña?"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Prefiero que me de comida.",
+          "solucion_correcta": [
+            "Prefiero que me dé comida"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Si te gusta mi reloj, te lo regalo.",
+          "solucion_correcta": [
+            "Si te gusta mi reloj, te lo regalo"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "No se tocar el piano.",
+          "solucion_correcta": [
+            "No sé tocar el piano"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Es la chica que vive con Marisa.",
+          "solucion_correcta": [
+            "Es la chica que vive con Marisa"
+          ],
+          "revisar": true
+        }
+      ]
+    }
+  ]
+}

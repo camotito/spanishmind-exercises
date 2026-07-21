@@ -1,0 +1,170 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "97.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en infinitivo o en presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Espero que Enrique me (devolver) _____ la cámara pronto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No quiero (gastar) _____ demasiado dinero en el coche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Prefiero que (hacer) _____ calor en verano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi médico siempre me aconseja que (comer) _____ más.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Necesitas que te (echar) _____ una mano?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elsa prefiere (tener) _____ los sábados libres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre intentáis que (conducir) _____ yo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Qué queréis que (llevar) _____ yo a la fiesta?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No necesitan que nadie las (ayudar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Me dejas (usar) _____ tu móvil?",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "97.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué le gustaría que el Ayuntamiento hiciera en su ciudad? Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Me gustaría que (plantar árboles) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría que (hacer parques) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría que (poner autobuses) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría que (limpiar las calles) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría que (bajar los impuestos) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "97.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro en infinitivo, presente o pretérito imperfecto de subjuntivo.",
+      "banco_palabras": [
+        "acompañar",
+        "ayudar",
+        "hablar",
+        "hacer",
+        "ir",
+        "jugar",
+        "nadar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Ángeles no quiso que yo la _____ al médico.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no os importa, preferiría que _____ en otra parte.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿A quién le gustaría _____ un viaje por la Baja California?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mónica me ha pedido que la _____ a pintar su piso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes me avergonzaba de _____ mal español.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mis amigos insistieron en que (yo) _____ a un concurso de televisión.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi padre me enseñó a _____ cuando tenía ocho años.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar frases seleccionando un verbo de un recuadro y escribiéndolo en infinitivo, presente o pretérito imperfecto de subjuntivo, según el contexto."
+    },
+    {
+      "subejercicio": "97.4",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Escriba frases con las palabras dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Me gustaría / Antonio / ser / amable. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luisa no quiso / salir / el domingo. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mario se ha acostumbrado / a / Lupe / hacer la comida. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Recordad / mis padres / llegar / esta noche. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La profesora no deja / usar / el diccionario / en clase. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer me olvidé / de / llamar / a Carolina. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El director prohibió / llamar a móviles / desde la oficina. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te olvides / de / nosotros / ir al teatro / mañana. _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Producción de una oración completa a partir de palabras o segmentos dados y separados por barras oblicuas; cada ítem incluye una línea para escribir la frase resultante."
+    }
+  ],
+  "unidad": 97,
+  "titulo_libro": "Quiero ir / Quiero que vayas -- Verbos seguidos de infinitivo o de subjuntivo",
+  "scan": "libro-rojo-204.png"
+}

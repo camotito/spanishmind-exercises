@@ -1,0 +1,134 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "57.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con algunos de los siguientes verbos: dar, estudiar, jugar, tocar, ver",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Jorge y Santi están delante de un tablero de ajedrez. Al fondo aparecen una batería y una guitarra."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Daniela está sentada delante de un televisor. Junto a ella hay una pizarra con una figura geométrica."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Cristina juega al tenis con una amiga."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Jorge y Santi son músicos. _____ en una orquesta. Jorge _____ la batería y Santi _____ la guitarra. Ahora no _____. _____ al ajedrez."
+        },
+        {
+          "texto_enunciado": "Daniela es profesora. _____ clases de Matemáticas. Ahora no _____ clase. _____ la tele en casa."
+        },
+        {
+          "texto_enunciado": "Cristina es estudiante. _____ Medicina. Ahora no _____. _____ al tenis con una amiga."
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el verbo en presente de indicativo o estar + gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "1. En el desierto de Atacama (no llover) _____ nunca."
+        },
+        {
+          "texto_enunciado": "2. Este invierno (no hacer) _____ mucho frío."
+        },
+        {
+          "texto_enunciado": "3. ¿Me dejas un paraguas? (Llover) _____ mucho."
+        },
+        {
+          "texto_enunciado": "4. –¿Está Rosa? –Sí, pero (dormir) _____."
+        },
+        {
+          "texto_enunciado": "5. Los vegetarianos (no comer) _____ carne."
+        },
+        {
+          "texto_enunciado": "6. –¿(tú, tocar) _____ algún instrumento? –Sí, (tocar) _____ el violín."
+        },
+        {
+          "texto_enunciado": "7. –¿Qué (cantar) _____ Carlos? –Un tango."
+        },
+        {
+          "texto_enunciado": "8. Algunos bebés (llorar) _____ mucho."
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "1. ¿Adónde (vais/estáis yendo)?"
+        },
+        {
+          "texto_enunciado": "2. ¿(Oyes/Estás oyendo) algo?"
+        },
+        {
+          "texto_enunciado": "3. ¿Qué (quieres/estás queriendo)?"
+        },
+        {
+          "texto_enunciado": "4. No (entiendo/estoy entendiendo). ¿Puedes repetir?"
+        },
+        {
+          "texto_enunciado": "5. –¿Dónde están tus padres? –(Viajan/Están viajando) por América."
+        },
+        {
+          "texto_enunciado": "6. Esta semana no (estudio/estoy estudiando) mucho."
+        },
+        {
+          "texto_enunciado": "7. Está muy oscuro. No (veo/estoy viendo) nada."
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el verbo en presente de indicativo o estar + gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿Adónde (ir) _____? –(Ir) _____ a casa."
+        },
+        {
+          "texto_enunciado": "2. ¿(tú, conocer) _____ a esa chica?"
+        },
+        {
+          "texto_enunciado": "3. ¿Qué (tú, tener) _____ en la mano?"
+        },
+        {
+          "texto_enunciado": "4. –¿Qué (tú, ver) _____? –Un concurso."
+        },
+        {
+          "texto_enunciado": "5. No (oír) _____ nada. Tengo que ir al médico."
+        },
+        {
+          "texto_enunciado": "6. –Mira. Lola (llevar) _____ un vestido de lunares. –Sí, (parecer) _____ una bailaora."
+        },
+        {
+          "texto_enunciado": "7. –¿Qué (querer) _____ ustedes? –(Necesitar) _____ cucharas."
+        },
+        {
+          "texto_enunciado": "8. –¿De dónde (tú, venir) _____? (Tener) _____ mala cara. –Sí, (venir) _____ del dentista."
+        }
+      ]
+    }
+  ],
+  "unidad": 57,
+  "titulo_libro": "hago / estoy haciendo -- Contraste entre presente de indicativo y estar + gerundio",
+  "scan": "libro-rojo-124.png"
+}

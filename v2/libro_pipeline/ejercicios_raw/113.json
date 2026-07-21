@@ -1,0 +1,172 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "113.1",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Inserte a donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "<u>No he oído los niños todavía.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Todavía no he oído esa canción.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>¿A qué hora has llamado Enrique?</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Begoña está regalando sus gatitos.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>¿Has visto alguien de nuestro grupo?</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Tengo que saludar Bárbara.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>¿Hay alguien en el aula?</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>En mi oficina necesitan una secretaria.</u> _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "113.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete los nombres con las palabras del recuadro y la preposición adecuada.",
+      "banco_palabras": [
+        "baño",
+        "fútbol",
+        "oro",
+        "sol"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "gafas _____",
+          "estimulo_visual": "dibujo de unas gafas de sol"
+        },
+        {
+          "texto_enunciado": "reloj _____",
+          "estimulo_visual": "dibujo de un reloj de pulsera"
+        },
+        {
+          "texto_enunciado": "cuarto _____",
+          "estimulo_visual": "dibujo de un cuarto de baño con lavabo, inodoro y bañera"
+        },
+        {
+          "texto_enunciado": "campo _____",
+          "estimulo_visual": "dibujo de un campo de fútbol"
+        }
+      ]
+    },
+    {
+      "subejercicio": "113.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las preposiciones a, de, en o sobre.",
+      "items": [
+        {
+          "texto_enunciado": "¿Sabes escribir _____ máquina?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estrella va a clases _____ alemán.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Arístides es _____ Santo Domingo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi abuelo siempre se hacía los trajes _____ medida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me encanta la tortilla _____ patatas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunas ciudades tienen muchos problemas _____ tráfico.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me siento _____ gusto con estos zapatos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy leyendo un libro _____ los pueblos caribes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que Antonio y Marta se han casado _____ secreto.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "113.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las preposiciones a, de, en o sobre y las palabras del recuadro.",
+      "banco_palabras": [
+        "caballo",
+        "español",
+        "lápiz",
+        "las diez",
+        "metro",
+        "pelo largo",
+        "portugués",
+        "trabajo"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Mañana tengo una entrevista _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me encanta pasear _____ por el campo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Copiad los ejercicios _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lorena siempre viene a la universidad _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "John, ¿cuándo has empezado las clases _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién es la chica _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dijeron que vendrían _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He recibido una revista escrita _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Lista lineal de frases con un hueco. En cada frase se debe combinar una de las palabras o expresiones del recuadro con una preposición elegida entre a, de, en o sobre."
+    }
+  ],
+  "unidad": 113,
+  "titulo_libro": "a Pedro, de Elvira, en autobús... -- Preposiciones (4)",
+  "scan": "libro-rojo-236.png"
+}

@@ -1,0 +1,183 @@
+{
+  "tema": "unidad-63",
+  "titulo": "trabajaba, comía, vivía",
+  "descripcion_gramatical": "Pretérito imperfecto",
+  "fuente": "libro",
+  "unidad_libro": 63,
+  "ejercicios": [
+    {
+      "subejercicio": "63.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el pretérito imperfecto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (yo, ser) _____ pequeño, siempre (rezar) _____ antes de acostarme.",
+          "solucion_correcta": [
+            "era",
+            "rezaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando Martín y Pablo (ser) _____ jóvenes, (llevar) _____ camisas de flores y (escuchar) _____ música pop.",
+          "solucion_correcta": [
+            "eran",
+            "llevaban",
+            "escuchaban"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando nos casamos, (vivir) _____ en un piso alquilado y Nuria (trabajar) _____ en una empresa de informática.",
+          "solucion_correcta": [
+            "vivíamos",
+            "trabajaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Loli (ser) _____ muy independiente de pequeña. (Ducharse) _____ sola, (hacerse) _____ la cama, (prepararse) _____ el desayuno e (ir) _____ sola al colegio.",
+          "solucion_correcta": [
+            "era",
+            "Se duchaba",
+            "se hacía",
+            "se preparaba",
+            "iba"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿A qué (tú, dedicarse) _____ antes de conocernos? —(Estudiar) _____ Derecho.",
+          "solucion_correcta": [
+            "te dedicabas",
+            "Estudiaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (nosotros, vivir) _____ en Ciudad de México, (ir) _____ a Acapulco todos los veranos.",
+          "solucion_correcta": [
+            "vivíamos",
+            "Íbamos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué (querer) _____ ser de pequeña, María? —(Querer) _____ ser astronauta.",
+          "solucion_correcta": [
+            "querías",
+            "Quería"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "63.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases sobre las antiguas civilizaciones de América.",
+      "items": [
+        {
+          "texto_enunciado": "Los aztecas _____ pirámides escalonadas.",
+          "solucion_correcta": [
+            "construían"
+          ]
+        },
+        {
+          "texto_enunciado": "Los mayas _____ un calendario de dieciocho meses.",
+          "solucion_correcta": [
+            "tenían"
+          ]
+        },
+        {
+          "texto_enunciado": "Los aztecas _____ en el centro y sur de México.",
+          "solucion_correcta": [
+            "vivían"
+          ]
+        },
+        {
+          "texto_enunciado": "Los incas _____ al sol.",
+          "solucion_correcta": [
+            "adoraban"
+          ]
+        },
+        {
+          "texto_enunciado": "Los aztecas _____ chocolate.",
+          "solucion_correcta": [
+            "bebían"
+          ]
+        },
+        {
+          "texto_enunciado": "Los incas _____ llamas.",
+          "solucion_correcta": [
+            "criaban"
+          ]
+        },
+        {
+          "texto_enunciado": "Los caribes _____ cazadores y recolectores.",
+          "solucion_correcta": [
+            "eran"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "adorar",
+        "beber",
+        "construir",
+        "criar",
+        "ser",
+        "tener",
+        "vivir"
+      ]
+    },
+    {
+      "subejercicio": "63.3",
+      "tipologia": "T8",
+      "enunciado": "Complete el texto utilizando los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando era pequeño pasaba los veranos en el pueblo de mis abuelos. _____ un pueblo muy pequeño y muy pobre. Las casas _____ de adobe y _____ unas ventanas muy pequeñas. La casa de mis abuelos _____ en las afueras del pueblo, cerca del río. _____ dos pisos y en la parte de atrás _____ un pequeño huerto con algunos frutales. Mi abuelo no _____ casi pelo; _____ siempre una boina negra. Mi abuela _____ el pelo y los ojos grises. Los dos me _____ mucho. Mi abuelo _____ en el campo; _____ trigo y uvas para hacer vino. Mi abuela le _____ y _____ de la casa. Los veranos en el pueblo _____ muy divertidos. _____ muchos amigos y _____ todas las tardes. Unas veces _____ al fútbol, otras _____ en el río. Cuando más me _____ era en las fiestas. Durante tres o cuatro días _____ baile todas las noches. Los chicos no _____ mucho, pero nos _____ la música y _____ tardísimo. _____ unos veranos maravillosos.",
+          "solucion_correcta": [
+            "Era",
+            "eran",
+            "tenían",
+            "estaba",
+            "Tenía",
+            "había",
+            "tenía",
+            "llevaba",
+            "tenía",
+            "querían",
+            "trabajaba",
+            "cultivaba",
+            "ayudaba",
+            "Se ocupaba",
+            "eran",
+            "Tenía",
+            "nos reuníamos",
+            "jugábamos",
+            "nos bañábamos",
+            "nos divertíamos",
+            "había",
+            "bailábamos",
+            "gustaba",
+            "nos acostábamos",
+            "Eran"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acostarse",
+        "ayudar",
+        "bailar",
+        "bañarse",
+        "cultivar",
+        "divertirse",
+        "estar",
+        "gustar",
+        "haber",
+        "jugar",
+        "llevar",
+        "ocuparse",
+        "querer",
+        "reunirse",
+        "ser",
+        "tener",
+        "trabajar"
+      ]
+    }
+  ]
+}

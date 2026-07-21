@@ -1,0 +1,217 @@
+{
+  "tema": "numero-plural",
+  "titulo": "libro, libros",
+  "descripcion_gramatical": "Singular, plural",
+  "fuente": "libro",
+  "unidad_libro": 3,
+  "ejercicios": [
+    {
+      "subejercicio": "3.1",
+      "tipologia": "T4",
+      "enunciado": "Escriba el plural de los siguientes nombres.",
+      "items": [
+        {
+          "texto_enunciado": "(mujer) _____",
+          "solucion_correcta": [
+            "mujeres"
+          ]
+        },
+        {
+          "texto_enunciado": "(pez) _____",
+          "solucion_correcta": [
+            "peces"
+          ]
+        },
+        {
+          "texto_enunciado": "(autobús) _____",
+          "solucion_correcta": [
+            "autobuses"
+          ]
+        },
+        {
+          "texto_enunciado": "(actriz) _____",
+          "solucion_correcta": [
+            "actrices"
+          ]
+        },
+        {
+          "texto_enunciado": "(habitación) _____",
+          "solucion_correcta": [
+            "habitaciones"
+          ]
+        },
+        {
+          "texto_enunciado": "(mamá) _____",
+          "solucion_correcta": [
+            "mamás"
+          ]
+        },
+        {
+          "texto_enunciado": "(pantalones) _____",
+          "solucion_correcta": [
+            "pantalones"
+          ]
+        },
+        {
+          "texto_enunciado": "(hotel) _____",
+          "solucion_correcta": [
+            "hoteles"
+          ]
+        },
+        {
+          "texto_enunciado": "(universidad) _____",
+          "solucion_correcta": [
+            "universidades"
+          ]
+        },
+        {
+          "texto_enunciado": "(televisión) _____",
+          "solucion_correcta": [
+            "televisiones"
+          ]
+        },
+        {
+          "texto_enunciado": "(niño) _____",
+          "solucion_correcta": [
+            "niños"
+          ]
+        },
+        {
+          "texto_enunciado": "(hermana) _____",
+          "solucion_correcta": [
+            "hermanas"
+          ]
+        },
+        {
+          "texto_enunciado": "(león) _____",
+          "solucion_correcta": [
+            "leones"
+          ]
+        },
+        {
+          "texto_enunciado": "(día) _____",
+          "solucion_correcta": [
+            "días"
+          ]
+        },
+        {
+          "texto_enunciado": "(clase) _____",
+          "solucion_correcta": [
+            "clases"
+          ]
+        },
+        {
+          "texto_enunciado": "(foto) _____",
+          "solucion_correcta": [
+            "fotos"
+          ]
+        },
+        {
+          "texto_enunciado": "(banana) _____",
+          "solucion_correcta": [
+            "bananas"
+          ]
+        },
+        {
+          "texto_enunciado": "(jueves) _____",
+          "solucion_correcta": [
+            "jueves"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "3.2",
+      "tipologia": "T15",
+      "enunciado": "Continúe la descripción indicando los objetos que aparecen en el dibujo.",
+      "items": [],
+      "banco_palabras": [
+        "botella",
+        "gafas",
+        "lámpara",
+        "lápiz",
+        "libro",
+        "mesa",
+        "postal",
+        "silla",
+        "tijeras",
+        "vaso"
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Dibujo de una mesa rodeada de sillas.",
+          "Sobre la mesa aparecen libros, vasos, botellas, una lámpara, lápices, una postal, gafas y tijeras.",
+          "Fórmula de inicio de la descripción: «En el dibujo hay...»."
+        ]
+      }
+    },
+    {
+      "subejercicio": "3.3",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las palabras subrayadas como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "Amalia tiene <u>un hijo y dos hijas</u>. Amalia tiene tres _____.",
+          "solucion_correcta": [
+            "tres hijos"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>El abuelo y la abuela</u> de Marta viven en Caracas. Los _____ de Marta viven en Caracas.",
+          "solucion_correcta": [
+            "abuelos"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Un amigo y una amiga</u> míos están en Chile. Dos _____ míos están en Chile.",
+          "solucion_correcta": [
+            "amigos"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Mi hermano y mi hermana</u> son médicos. Mis _____ son médicos.",
+          "solucion_correcta": [
+            "hermanos"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Mi padre y mi madre</u> son muy altos. Mis _____ son muy altos.",
+          "solucion_correcta": [
+            "padres"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>El rey y la reina</u> de España viven en Madrid. Los _____ de España viven en Madrid.",
+          "solucion_correcta": [
+            "reyes"
+          ]
+        },
+        {
+          "texto_enunciado": "En mi clase hay <u>tres alumnos y cinco alumnas</u>. En mi clase hay ocho _____.",
+          "solucion_correcta": [
+            "alumnos"
+          ]
+        },
+        {
+          "texto_enunciado": "En mi escuela hay <u>un profesor y dos profesoras</u>. En mi escuela hay tres _____.",
+          "solucion_correcta": [
+            "profesores"
+          ]
+        },
+        {
+          "texto_enunciado": "He mandado un correo electrónico <u>a mi tío y a mi tía</u>. He mandado un correo electrónico a mis _____.",
+          "solucion_correcta": [
+            "tíos"
+          ]
+        },
+        {
+          "texto_enunciado": "Es una compañía de ballet con <u>un bailarín y dos bailarinas</u>. Es una compañía de ballet con tres _____.",
+          "solucion_correcta": [
+            "bailarines"
+          ]
+        }
+      ]
+    }
+  ]
+}

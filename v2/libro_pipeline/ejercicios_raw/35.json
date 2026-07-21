@@ -1,0 +1,135 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "35.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Utilice lo, la, los, las para completar las siguientes frases.",
+      "items": [
+        {
+          "texto_enunciado": "1. ¿Dónde está Andrés? No _____ veo."
+        },
+        {
+          "texto_enunciado": "2. ¿Dónde están las cucharas? No _____ veo."
+        },
+        {
+          "texto_enunciado": "3. ¿Dónde están tus amigos? No _____ veo."
+        },
+        {
+          "texto_enunciado": "4. ¿Dónde está el teléfono? No _____ veo."
+        },
+        {
+          "texto_enunciado": "5. ¿Dónde está Julia? No _____ veo."
+        },
+        {
+          "texto_enunciado": "6. ¿Dónde están tus padres? No _____ veo."
+        },
+        {
+          "texto_enunciado": "7. ¿Dónde está la entrada? No _____ veo."
+        },
+        {
+          "texto_enunciado": "8. ¿Dónde están las naranjas? No _____ veo."
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con me, te, lo...",
+      "items": [
+        {
+          "texto_enunciado": "1. Yo _____ conozco. Tú eres amigo de Ana."
+        },
+        {
+          "texto_enunciado": "2. Yo _____ conozco. Ustedes son los padres de Jesús."
+        },
+        {
+          "texto_enunciado": "3. Yo _____ conozco. Vosotros sois compañeros de Ramón."
+        },
+        {
+          "texto_enunciado": "4. Yo _____ conozco. Usted es la madre de Rosario."
+        },
+        {
+          "texto_enunciado": "5. Yo _____ conozco. Ustedes son las tías de Pepe."
+        },
+        {
+          "texto_enunciado": "6. Yo _____ conozco. Vosotras sois amigas de Raquel."
+        },
+        {
+          "texto_enunciado": "7. Yo _____ conozco. Usted es el padre de Pedro."
+        },
+        {
+          "texto_enunciado": "8. Yo _____ conozco. Tú vives en la calle Arenal."
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Utilice me, te, lo... y las formas verbales correspondientes para completar las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿Amas a Luis? –Sí, _____."
+        },
+        {
+          "texto_enunciado": "2. –¿Quieres esta foto? –No, _____."
+        },
+        {
+          "texto_enunciado": "3. –¿Has comprado el periódico? –No, _____."
+        },
+        {
+          "texto_enunciado": "4. –¿Nos quieres, mamá? –Sí, _____ mucho."
+        },
+        {
+          "texto_enunciado": "5. –¿Has visto mis zapatillas? –No, _____."
+        },
+        {
+          "texto_enunciado": "6. –¿Me recuerdas? –Sí, _____. Tú eres Julián."
+        },
+        {
+          "texto_enunciado": "7. –¿Ves mucho a Pepe y a Luisa? –Sí, _____ mucho."
+        },
+        {
+          "texto_enunciado": "8. –¿Te quiere Elena? –No, _____."
+        },
+        {
+          "texto_enunciado": "9. –¿Conoces a los Sres. Pardo? –No, _____."
+        },
+        {
+          "texto_enunciado": "10. –¿Te conocen en esta tienda? –Sí, _____ mucho."
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con me, te, lo... y a mí, a ti, a él...",
+      "items": [
+        {
+          "texto_enunciado": "1. Yo conozco a esa chica, pero ella no _____ conoce _____."
+        },
+        {
+          "texto_enunciado": "2. Desde aquí vemos a Roberto, pero él no _____ ve _____."
+        },
+        {
+          "texto_enunciado": "3. Teresa quiere a Alfredo, pero él no _____ quiere _____."
+        },
+        {
+          "texto_enunciado": "4. Esas señoras me conocen, pero yo no _____ conozco _____."
+        },
+        {
+          "texto_enunciado": "5. Ustedes me conocen, pero yo no _____ conozco _____."
+        },
+        {
+          "texto_enunciado": "6. Esos chicos conocen a Miguel, pero Miguel no _____ conoce _____."
+        }
+      ]
+    }
+  ],
+  "unidad": 35,
+  "titulo_libro": "Te amo -- Pronombres personales de complemento directo",
+  "scan": "libro-rojo-080.png"
+}

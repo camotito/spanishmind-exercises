@@ -1,0 +1,270 @@
+{
+  "tema": "unidad-50",
+  "titulo": "voy, hago, conozco...",
+  "descripcion_gramatical": "Presente de indicativo: verbos irregulares (2)",
+  "fuente": "libro",
+  "unidad_libro": 50,
+  "ejercicios": [
+    {
+      "subejercicio": "50.1",
+      "tipologia": "T8",
+      "enunciado": "Utilice los verbos del recuadro para completar las siguientes frases.",
+      "items": [
+        {
+          "texto_enunciado": "Guillermo no _____ nadar.",
+          "solucion_correcta": [
+            "sabe"
+          ]
+        },
+        {
+          "texto_enunciado": "Soy profesor. _____ clases de Filosofía.",
+          "solucion_correcta": [
+            "Doy"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi familia _____ a Punta del Este todos los veranos.",
+          "solucion_correcta": [
+            "va"
+          ]
+        },
+        {
+          "texto_enunciado": "Julia es profesora. _____ clases de Biología.",
+          "solucion_correcta": [
+            "Da"
+          ]
+        },
+        {
+          "texto_enunciado": "Las cigüeñas _____ sus nidos en lugares altos.",
+          "solucion_correcta": [
+            "ponen"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo) _____ la radio cuando me despierto.",
+          "solucion_correcta": [
+            "Pongo"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis padres _____ un viaje todos los años.",
+          "solucion_correcta": [
+            "hacen"
+          ]
+        },
+        {
+          "texto_enunciado": "Marta no _____ esquiar.",
+          "solucion_correcta": [
+            "sabe"
+          ]
+        },
+        {
+          "texto_enunciado": "La mayoría de animales _____ cuando hay peligro.",
+          "solucion_correcta": [
+            "huyen"
+          ]
+        },
+        {
+          "texto_enunciado": "Soy traductor. _____ libros del francés al español.",
+          "solucion_correcta": [
+            "Traduzco"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "dar",
+        "dar",
+        "hacer",
+        "huir",
+        "ir",
+        "poner",
+        "poner",
+        "saber",
+        "saber",
+        "traducir"
+      ]
+    },
+    {
+      "subejercicio": "50.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las preguntas y las respuestas con los siguientes verbos: conducir, conocer, dar, hacer, ir, saber o salir.",
+      "items": [
+        {
+          "texto_enunciado": "—¿_____ conducir? —Sí, pero no _____ muy bien.",
+          "solucion_correcta": [
+            "Sabes",
+            "conduzco"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Cómo _____ a la oficina? —Normalmente _____ en metro.",
+          "solucion_correcta": [
+            "vas",
+            "Voy"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué _____ los fines de semana? —_____ con mis amigos.",
+          "solucion_correcta": [
+            "haces",
+            "Salgo"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ usted hacer empanadas? —Sí, pero no las _____ muy bien.",
+          "solucion_correcta": [
+            "Sabe",
+            "hago"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ usted hablar inglés? —No, solo _____ hablar español.",
+          "solucion_correcta": [
+            "Sabe",
+            "sé"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ usted La Habana? —No, no la _____.",
+          "solucion_correcta": [
+            "Conoce",
+            "conozco"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Adónde _____ usted en verano? —Normalmente _____ a la playa.",
+          "solucion_correcta": [
+            "va",
+            "voy"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Qué _____ (vosotros) los domingos? —_____ una vuelta o _____ a bailar.",
+          "solucion_correcta": [
+            "hacéis",
+            "Damos",
+            "vamos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ (vosotros) mucho al cine? —_____ dos o tres veces al mes.",
+          "solucion_correcta": [
+            "Vais",
+            "Vamos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ ustedes España? —Sí, la _____ muy bien. _____ allí con frecuencia.",
+          "solucion_correcta": [
+            "Conocen",
+            "conocemos",
+            "Vamos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "50.3",
+      "tipologia": "T2",
+      "enunciado": "Complete los bocadillos con los verbos del recuadro en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "¿Adónde _____?",
+          "solucion_correcta": [
+            "vais"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué _____?",
+          "solucion_correcta": [
+            "huye"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Socorro! _____ nadar.",
+          "solucion_correcta": [
+            "No sé"
+          ]
+        },
+        {
+          "texto_enunciado": "Habla más alto. _____ bien.",
+          "solucion_correcta": [
+            "No oigo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ una bruja.",
+          "solucion_correcta": [
+            "Parezco"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdone, ¿adónde _____ este autobús?",
+          "solucion_correcta": [
+            "va"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ pasteles!",
+          "solucion_correcta": [
+            "Traigo"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdona, _____ te _____. ¿Cómo te llamas?",
+          "solucion_correcta": [
+            "no",
+            "conozco"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "conocer",
+        "huir",
+        "ir",
+        "ir",
+        "oír",
+        "parecer",
+        "saber",
+        "traer"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una mujer pregunta a dos jóvenes que llevan mochilas."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un hombre corre mientras un automóvil se aproxima y dos personas lo observan."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una persona pide socorro mientras se está ahogando."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre habla con un anciano que se lleva una mano a la oreja."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una mujer con el pelo alborotado y aspecto de bruja."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una persona pregunta a un conductor junto a un autobús."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Un hombre muestra una bandeja cubierta a varias personas."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un hombre y una mujer conversan mientras sostienen unas tazas."
+          }
+        ]
+      }
+    }
+  ]
+}

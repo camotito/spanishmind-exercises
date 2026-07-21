@@ -1,0 +1,245 @@
+{
+  "tema": "unidad-60",
+  "titulo": "he trabajado",
+  "descripcion_gramatical": "Pretérito perfecto de indicativo (1)",
+  "fuente": "libro",
+  "unidad_libro": 60,
+  "ejercicios": [
+    {
+      "subejercicio": "60.1",
+      "tipologia": "T2",
+      "enunciado": "¿Qué ha hecho Betty hoy? Utilice los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____ a las diez.",
+          "solucion_correcta": [
+            "Se ha levantado"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ footing.",
+          "solucion_correcta": [
+            "Ha hecho"
+          ]
+        },
+        {
+          "texto_enunciado": "_____.",
+          "solucion_correcta": [
+            "Se ha duchado"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ unos correos electrónicos.",
+          "solucion_correcta": [
+            "Ha enviado"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ al cine con una amiga.",
+          "solucion_correcta": [
+            "Ha ido"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ a los bolos.",
+          "solucion_correcta": [
+            "Ha jugado"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ con unos amigos.",
+          "solucion_correcta": [
+            "Ha cenado"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ a las doce.",
+          "solucion_correcta": [
+            "Se ha acostado"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acostarse",
+        "cenar",
+        "ducharse",
+        "enviar",
+        "hacer",
+        "ir",
+        "jugar",
+        "levantarse"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Betty se levanta de la cama a las diez."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Betty corre al aire libre."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Betty se ducha."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Betty usa un ordenador para enviar correos electrónicos."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Betty va al cine con una amiga."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Betty juega a los bolos."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Betty cena con unos amigos."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Betty se acuesta a las doce."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "60.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el pretérito perfecto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Este verano (nosotros, estar) _____ en Perú.",
+          "solucion_correcta": [
+            "hemos estado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(tú, ver) _____ a Cristina? –Sí, la (yo, ver) _____ hace un momento.",
+          "solucion_correcta": [
+            "Has visto",
+            "he visto"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy (nosotros, trabajar) _____ cerca de diez horas.",
+          "solucion_correcta": [
+            "hemos trabajado"
+          ]
+        },
+        {
+          "texto_enunciado": "Este año (llover) _____ mucho.",
+          "solucion_correcta": [
+            "ha llovido"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Sabes usar este programa? –Regular. (yo, empezar) _____ a usarlo hace poco.",
+          "solucion_correcta": [
+            "He empezado"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis padres (estar) _____ en la costa este invierno.",
+          "solucion_correcta": [
+            "han estado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué (vosotros, hacer) _____ este verano?",
+          "solucion_correcta": [
+            "habéis hecho"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(tú, leer) _____ algo interesante últimamente?",
+          "solucion_correcta": [
+            "Has leído"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy (nosotras, comer) _____ ceviche de marisco.",
+          "solucion_correcta": [
+            "hemos comido"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Qué (hacer) _____ Martín este verano? –(Quedarse) _____ en Madrid. No tenía dinero.",
+          "solucion_correcta": [
+            "ha hecho",
+            "Se ha quedado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "60.3",
+      "tipologia": "T8",
+      "enunciado": "Escriba las noticias correspondientes a los titulares dados. Utilice los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Fuga de 50 presos. _____.",
+          "solucion_correcta": [
+            "Se han escapado cincuenta presos"
+          ]
+        },
+        {
+          "texto_enunciado": "Fallece el Presidente. _____.",
+          "solucion_correcta": [
+            "Ha muerto el Presidente"
+          ]
+        },
+        {
+          "texto_enunciado": "Dimite la ministra de Hacienda. _____.",
+          "solucion_correcta": [
+            "Ha dimitido la Ministra de Hacienda"
+          ]
+        },
+        {
+          "texto_enunciado": "Fin de la huelga del transporte. _____.",
+          "solucion_correcta": [
+            "Ha acabado la huelga del transporte"
+          ]
+        },
+        {
+          "texto_enunciado": "Choque de dos trenes. _____.",
+          "solucion_correcta": [
+            "Han chocado dos trenes"
+          ]
+        },
+        {
+          "texto_enunciado": "Sube la gasolina. _____.",
+          "solucion_correcta": [
+            "Ha subido la gasolina"
+          ]
+        },
+        {
+          "texto_enunciado": "Bajan los impuestos. _____.",
+          "solucion_correcta": [
+            "Han bajado los impuestos"
+          ]
+        },
+        {
+          "texto_enunciado": "Colo-Colo, campeón de Liga. _____.",
+          "solucion_correcta": [
+            "El Colo-Colo ha ganado la Liga"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acabar",
+        "bajar",
+        "chocar",
+        "dimitir",
+        "escaparse",
+        "ganar",
+        "morir",
+        "subir"
+      ]
+    }
+  ]
+}

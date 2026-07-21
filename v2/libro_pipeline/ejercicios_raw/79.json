@@ -1,0 +1,113 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "79.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "¿Tienes un momento, Carlos? Quiero que me (tú, ayudar) _____."
+        },
+        {
+          "texto_enunciado": "Ha llamado el Sr. Cabrera. Quiere que (nosotros, trabajar) _____ el sábado."
+        },
+        {
+          "texto_enunciado": "Rosa quiere que le (yo, prestar) _____ el coche el domingo."
+        },
+        {
+          "texto_enunciado": "No me gusta que (tú, estar) _____ triste, Pedro."
+        },
+        {
+          "texto_enunciado": "Espero que me (ustedes, escribir) _____ cuando lleguen a Santo Domingo."
+        },
+        {
+          "texto_enunciado": "Ha llamado Lolita. Quiere que (nosotros, comer) _____ fuera el domingo."
+        },
+        {
+          "texto_enunciado": "Me gusta que la gente (leer) _____."
+        },
+        {
+          "texto_enunciado": "A Marisa no le gusta que Gregorio la (llamar) _____ todos los días."
+        },
+        {
+          "texto_enunciado": "¡Ojalá (vosotros, ser) _____ felices!"
+        },
+        {
+          "texto_enunciado": "Espero que (llegar) _____ pronto tus amigos. Estoy cansada de esperar."
+        }
+      ]
+    },
+    {
+      "subejercicio": "79.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas con los verbos correspondientes en presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Dónde está Belén? —No sé. Puede que _____ en su despacho."
+        },
+        {
+          "texto_enunciado": "—¿Has visto a Juan? —No, pero quizás lo _____ mañana."
+        },
+        {
+          "texto_enunciado": "—¿Han llamado tus padres? —No. Puede que no _____ hoy."
+        },
+        {
+          "texto_enunciado": "—¿Qué vas a estudiar, Graciela? —No sé todavía. Es probable que _____ Derecho."
+        },
+        {
+          "texto_enunciado": "—¿Abren hoy los bancos? —No. Puede que no _____ hoy. Es sábado."
+        },
+        {
+          "texto_enunciado": "—¿Dónde están tus hermanas? —No sé. Puede que _____ en el jardín."
+        },
+        {
+          "texto_enunciado": "—¿Cuándo os casáis? —No estamos seguros. Puede que _____ el año que viene."
+        },
+        {
+          "texto_enunciado": "—¿Te van a dar el trabajo que te prometieron? —No sé. Es probable que no me lo _____."
+        },
+        {
+          "texto_enunciado": "—¿Cuándo se marchan ustedes? —No sé. Puede que _____ mañana."
+        },
+        {
+          "texto_enunciado": "—¿Vais a ganar el torneo? —No sé. Es probable que no lo _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "79.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con que como en el ejemplo. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Agustín bebe demasiada cola. A Sonia no le gusta. _____"
+        },
+        {
+          "texto_enunciado": "Jaime y Yolanda son amables. A Pilar le gusta. _____"
+        },
+        {
+          "texto_enunciado": "Ernestina vive en el extranjero. A Lorenzo no le gusta. _____"
+        },
+        {
+          "texto_enunciado": "Jacinta es cariñosa. A Mario le encanta. _____"
+        },
+        {
+          "texto_enunciado": "Lolo da muchas fiestas. A Tomás no le gusta. _____"
+        },
+        {
+          "texto_enunciado": "Ves muchas películas de terror. A tu padre no le gusta. _____"
+        },
+        {
+          "texto_enunciado": "Trabajáis mucho. A vuestro profesor le encanta. _____"
+        }
+      ],
+      "tipologia_libre_original": "Se presentan dos frases independientes que el alumno debe unir con «que», realizando los cambios verbales necesarios y escribiendo la oración resultante."
+    }
+  ],
+  "unidad": 79,
+  "titulo_libro": "trabaje, coma, viva -- Presente de subjuntivo: verbos regulares",
+  "scan": "libro-rojo-168.png"
+}

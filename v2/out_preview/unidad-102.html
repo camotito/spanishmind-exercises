@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ya, todavía, aún</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+    --bg: #FBF7F0; --card: #ffffff; --primary: #C1440E; --secondary: #2E4053;
+    --accent: #E9B44C; --ok: #4F7942; --bad: #B33A3A; --text: #2B2B2B;
+    --line: #e5ddd0;
+    --font-heading: 'Playfair Display', serif; --font-body: 'DM Sans', sans-serif;
+}
+* { box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text);
+    max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
+h1 { font-family: var(--font-heading); color: var(--secondary); }
+.ejercicio { background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
+.ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
+    margin: 0 0 14px; }
+.item { padding: 8px 0; border-top: 1px dashed var(--line); }
+.item:first-of-type { border-top: none; }
+.item-row { padding-left: 1.8em; text-indent: -1.8em; }
+.item-row + .item-row { margin-top: 4px; }
+.item-num { display: inline-block; width: 1.6em; text-indent: 0;
+    color: #999; font-variant-numeric: tabular-nums; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
+.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
+    border-radius: 6px; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
+.blank.ok { border-color: var(--ok); background: #f0f6ee; }
+.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.alt-hint { font-size: .78rem; color: var(--secondary); opacity: .75; margin-left: 2px; }
+.group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+button { font-family: var(--font-body); background: var(--primary); color: #fff;
+    border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: .85rem; }
+button.ghost { background: transparent; color: var(--secondary); text-decoration: underline; padding: 8px 4px; }
+button:hover { opacity: .9; }
+.group-feedback { font-weight: 600; font-size: .9rem; display: none; margin-left: auto; }
+.group-feedback.correct { color: var(--ok); }
+.group-feedback.wrong { color: var(--bad); }
+/* soporte gráfico */
+.directory { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.plate { text-align: center; padding: 10px 6px; border: 1px solid var(--line);
+    border-radius: 6px; background: #fff; }
+.plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
+.plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
+@media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
+.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
+    color: var(--ok); font-weight: 700; font-size: .72rem;
+    text-transform: uppercase; letter-spacing: .04em; }
+input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
+    background: #fff; cursor: default; }
+#resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
+    margin-top: 30px; color: var(--secondary); }
+</style>
+</head>
+<body>
+<h1>ya, todavía, aún</h1>
+
+    <section class="ejercicio">
+        <p class="enunciado">Complete the sentences with "todavía", "aún", or "ya no".</p>
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>No puedes irte. <input type="text" class="blank blank-example" value="Todavía" style="width: 9ch" readonly tabindex="-1"> te necesito.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">1.</span> <span>—¿Está Berta? —No, <input type="text" class="blank" data-sol="ya no" style="width: 7ch" autocomplete="off"> vive aquí.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">2.</span> <span>—¿Sigues jugando al tenis? —Sí, <input type="text" class="blank" data-sol="todavía/aún" style="width: 9ch" autocomplete="off"><span class="alt-hint" hidden></span> juego de vez en cuando.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">3.</span> <span>—¿Vas a la oficina? —No, <input type="text" class="blank" data-sol="todavía/aún" style="width: 9ch" autocomplete="off"><span class="alt-hint" hidden></span> estoy de vacaciones.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">4.</span> <span>Puedes irte. <input type="text" class="blank" data-sol="Ya no" style="width: 7ch" autocomplete="off"> te necesito.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">5.</span> <span>—¿Me dejas la bici, Manuel? —Lo siento, <input type="text" class="blank" data-sol="ya no" style="width: 7ch" autocomplete="off"> tengo bici. Se me rompió.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">6.</span> <span>—¿Sigue estudiando griego? —Sí, <input type="text" class="blank" data-sol="todavía/aún" style="width: 9ch" autocomplete="off"><span class="alt-hint" hidden></span> lo estudio. Me encanta.</span></div>
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Read the answers and write the questions.</p>
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>—¿<input type="text" class="blank blank-example" value="¿Se conocen ya ustedes?" style="width: 25ch" readonly tabindex="-1">? —Sí, ya nos conocemos.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">1.</span> <span>—¿<input type="text" class="blank" data-sol="¿Lo sabes ya?/¿Ya lo sabes?" style="width: 15ch" autocomplete="off"><span class="alt-hint" hidden></span>? —Sí, ya lo sé.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">2.</span> <span>—¿<input type="text" class="blank" data-sol="¿Ha llegado ya Paloma?" style="width: 24ch" autocomplete="off">? —No, aún no ha llegado Paloma.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">3.</span> <span>—¿<input type="text" class="blank" data-sol="¿Han empezado ya las clases?" style="width: 30ch" autocomplete="off">? —No, todavía no hemos empezado las clases.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">4.</span> <span>—¿<input type="text" class="blank" data-sol="¿Está lista ya la comida?/¿Está ya lista la comida?" style="width: 27ch" autocomplete="off"><span class="alt-hint" hidden></span>? —No, la comida no está lista todavía.</span></div>
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Complete the sentences with "ya", "todavía no" / "aún no".</p>
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Estoy esperando a Lidia desde las seis, pero <input type="text" class="blank blank-example" value="todavía no" style="width: 12ch" readonly tabindex="-1"> ha llegado.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">1.</span> <span>Venid. <input type="text" class="blank" data-sol="Ya" style="width: 4ch" autocomplete="off"> han abierto las puertas.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">2.</span> <span>—¿Qué quieres estudiar? —<input type="text" class="blank" data-sol="Todavía no/Aún no" style="width: 12ch" autocomplete="off"><span class="alt-hint" hidden></span> lo sé.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">3.</span> <span>—¿Sabes que Lorenzo se marcha a Chile? —Sí, <input type="text" class="blank" data-sol="ya" style="width: 4ch" autocomplete="off"> lo sé.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">4.</span> <span>—¿Has leído <input type="text" class="blank" data-sol="Ya" style="width: 4ch" autocomplete="off"> el fichero que te mandé? —No, <input type="text" class="blank" data-sol="todavía no/aún no" style="width: 12ch" autocomplete="off"><span class="alt-hint" hidden></span> lo he abierto.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">5.</span> <span>¿<input type="text" class="blank" data-sol="Todavía no/Aún no" style="width: 12ch" autocomplete="off"><span class="alt-hint" hidden></span> has pagado el alquiler? Se va a enfadar el casero.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">6.</span> <span>—¿Ha vuelto <input type="text" class="blank" data-sol="ya" style="width: 4ch" autocomplete="off"> Pilar de México? —No, <input type="text" class="blank" data-sol="todavía no/aún no" style="width: 12ch" autocomplete="off"><span class="alt-hint" hidden></span> ha vuelto.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">7.</span> <span><input type="text" class="blank" data-sol="Ya" style="width: 4ch" autocomplete="off"> sé dónde está Viña. Me lo ha dicho Tomás.</span></div>
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Rewrite the sentences with "ya". Make the necessary changes.</p>
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Puedes llamar <u>a partir de ahora</u>. <input type="text" class="blank blank-example" value="Puedes llamar ya" style="width: 18ch" readonly tabindex="-1">.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">1.</span> <span><u>Dentro de unos días</u> te llamaremos. <input type="text" class="blank" data-sol="Ya te llamaremos" style="width: 18ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">2.</span> <span>No creo que venga <u>ahora</u>. <input type="text" class="blank" data-sol="Ya no creo que venga/No creo que venga ya" style="width: 22ch" autocomplete="off"><span class="alt-hint" hidden></span>.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">3.</span> <span>Te diré algo <u>más adelante</u>. <input type="text" class="blank" data-sol="Ya te diré algo" style="width: 17ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">4.</span> <span>¡<u>Ahora</u> lo entiendo! <input type="text" class="blank" data-sol="¡Ya lo entiendo!" style="width: 18ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">5.</span> <span>Hablaremos <u>otro día</u>. <input type="text" class="blank" data-sol="Ya hablaremos" style="width: 15ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">6.</span> <span><u>A partir de ahora</u> podemos comprar las entradas. <input type="text" class="blank" data-sol="Ya podemos comprar las entradas" style="width: 33ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">7.</span> <span>Os contestaré <u>más adelante</u>. <input type="text" class="blank" data-sol="Ya os contestaré" style="width: 18ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">8.</span> <span><u>Ahora</u> hay que irse. <input type="text" class="blank" data-sol="Hay que irse ya/Ya hay que irse" style="width: 17ch" autocomplete="off"><span class="alt-hint" hidden></span>.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">9.</span> <span>Hará buen tiempo <u>más adelante</u>. <input type="text" class="blank" data-sol="Ya hará buen tiempo" style="width: 21ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">10.</span> <span>Encontrarán trabajo <u>en el futuro</u>. <input type="text" class="blank" data-sol="Ya encontrarán trabajo" style="width: 24ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+<p id="resumen"></p>
+<script>
+function norm(s){
+  return (s||'').trim().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fieldOk(f){
+  const sol = f.getAttribute('data-sol');
+  const val = f.value;
+  if (sol === '\u00f8') return val.trim() === '' || norm(val) === norm('\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
+  return norm(val) === norm(sol);
+}
+function checkGroup(btn){
+  const section = btn.closest('.ejercicio');
+  let total = 0, correct = 0;
+  section.querySelectorAll('.item').forEach(item => {
+    const fields = item.querySelectorAll('[data-sol]');
+    let itemOk = true;
+    fields.forEach(f => {
+      const ok = fieldOk(f);
+      f.classList.toggle('ok', ok);
+      f.classList.toggle('bad', !ok);
+      total++;
+      if (ok) { correct++; } else { itemOk = false; }
+    });
+    item.dataset.solved = itemOk ? '1' : '0';
+  });
+  const allok = correct === total;
+  const fb = section.querySelector('.group-feedback');
+  fb.textContent = allok ? ('\u2714 All correct! (' + correct + '/' + total + ')')
+                          : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
+  fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
+  fb.style.display = 'inline';
+  updateResumen();
+}
+function revealGroup(btn){
+  const section = btn.closest('.ejercicio');
+  section.querySelectorAll('[data-sol]').forEach(f => {
+    const sol = f.getAttribute('data-sol');
+    if (f.tagName === 'SELECT') {
+      [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hint = f.nextElementSibling;
+      if (hint && hint.classList.contains('alt-hint')) {
+        hint.textContent = '(' + opciones.join(' or ') + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
+    f.classList.remove('bad'); f.classList.add('ok');
+  });
+}
+function updateResumen(){
+  const total = document.querySelectorAll('.item').length;
+  const solved = document.querySelectorAll('.item[data-solved="1"]').length;
+  const r = document.getElementById('resumen');
+  r.textContent = solved >= total ? ('Done! ' + solved + '/' + total)
+                                   : ('Progress: ' + solved + '/' + total);
+}
+document.addEventListener('DOMContentLoaded', updateResumen);
+</script>
+</body>
+</html>

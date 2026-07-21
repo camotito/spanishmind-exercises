@@ -1,0 +1,115 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "73.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Escriba los consejos del médico. Utilice los verbos del recuadro.",
+      "banco_palabras": [
+        "andar",
+        "beber",
+        "comer",
+        "descansar",
+        "practicar"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "descripcion": "Un médico escribe mientras habla con un paciente sentado."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ algún deporte."
+        },
+        {
+          "texto_enunciado": "_____ después de las comidas."
+        },
+        {
+          "texto_enunciado": "_____ mucha fruta."
+        },
+        {
+          "texto_enunciado": "_____ mucha agua."
+        },
+        {
+          "texto_enunciado": "_____ dos kilómetros al día."
+        }
+      ],
+      "tipologia_libre_original": "Completar consejos médicos conjugando en imperativo los verbos de un recuadro; aparece una ilustración de un médico con un paciente."
+    },
+    {
+      "subejercicio": "73.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría en cada caso?",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "descripcion": "Una mujer habla dentro de un gran bocadillo que contiene las situaciones del ejercicio."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "(a un amigo) Están llamando. (Abrir) _____ la puerta, por favor."
+        },
+        {
+          "texto_enunciado": "(a unos niños) (Cruzar) _____ por el paso de cebra."
+        },
+        {
+          "texto_enunciado": "(a unos amigos) La paella está riquísima. (Comer) _____ más."
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Hablar) _____ más bajo. No soy sorda."
+        },
+        {
+          "texto_enunciado": "(a alguien de su familia) (Bajar) _____ la televisión. Está muy alta."
+        },
+        {
+          "texto_enunciado": "(a un amigo) –¿Puedo llamar por teléfono? –Sí, por supuesto. (Llamar) _____."
+        },
+        {
+          "texto_enunciado": "(a un niño) –¿Puedo comer otro pastel? –Sí, claro. (Comer) _____ todos los que quieras."
+        },
+        {
+          "texto_enunciado": "(a unos señores mayores) –¿Podemos pasar? –Sí, (pasar) _____ ustedes, por favor."
+        },
+        {
+          "texto_enunciado": "(a unos desconocidos) (Cruzar) _____ por aquí; es más seguro."
+        },
+        {
+          "texto_enunciado": "(a unos clientes) (Pagar) _____ en la caja, por favor."
+        }
+      ]
+    },
+    {
+      "subejercicio": "73.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete los siguientes anuncios. Utilice los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "«Mes del ahorro en Supermás. (Comprar) _____ dos y (pagar) _____ uno.»"
+        },
+        {
+          "texto_enunciado": "«(Visitar) _____ Andalucía. (Recorrer) _____ sus ciudades y sus pueblos. (Descansar) _____ en sus playas. (Vivir) _____ unos días mágicos.»"
+        },
+        {
+          "texto_enunciado": "«Restaurante Nuevo Mundo. Algo nuevo para usted. (Comer) _____ en un ambiente especial y (disfrutar) _____ de un espectáculo inolvidable. (Ver) _____ las mejores actuaciones de América Latina.»"
+        },
+        {
+          "texto_enunciado": "«¿Te gustaría hablar español? (Estudiar) _____ con el revolucionario método Naturalia y (aprender) _____ español en diez meses.»"
+        },
+        {
+          "texto_enunciado": "«¿No conoce usted América Latina? (Enviar) _____ una etiqueta de leche CAM a Radio Central. (Participar) _____ en nuestro concurso y (ganar) _____ un viaje a Perú para dos personas.»"
+        }
+      ]
+    }
+  ],
+  "unidad": 73,
+  "titulo_libro": "Abre la ventana -- Imperativo afirmativo: verbos regulares",
+  "scan": "libro-rojo-156.png"
+}

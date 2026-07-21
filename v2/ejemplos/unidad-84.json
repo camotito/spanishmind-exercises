@@ -1,0 +1,220 @@
+{
+  "tema": "unidad-84",
+  "titulo": "Quiero que me ayudes",
+  "descripcion_gramatical": "Expresión de deseos",
+  "fuente": "libro",
+  "unidad_libro": 84,
+  "ejercicios": [
+    {
+      "subejercicio": "84.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en infinitivo o presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Espero (yo, encontrar) _____ trabajo pronto.",
+          "solucion_correcta": [
+            "encontrar"
+          ]
+        },
+        {
+          "texto_enunciado": "Espero que me (tú, llamar) _____ cuando vengas a Lima.",
+          "solucion_correcta": [
+            "llames"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quieres (tú, comer) _____ algo?",
+          "solucion_correcta": [
+            "comer"
+          ]
+        },
+        {
+          "texto_enunciado": "–Tengo hambre. –¿Quieres que te (yo, preparar) _____ algo de comer?",
+          "solucion_correcta": [
+            "prepare"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría (yo, conocer) _____ a tus padres.",
+          "solucion_correcta": [
+            "conocer"
+          ]
+        },
+        {
+          "texto_enunciado": "Aléjate un poco. Prefiero que no nos (ellos, ver) _____ juntos. ¡Es una sorpresa!",
+          "solucion_correcta": [
+            "vean"
+          ]
+        },
+        {
+          "texto_enunciado": "Te ruego que no me (tú, esperar) _____. Prefiero (quedarse) _____ en casa.",
+          "solucion_correcta": [
+            "esperes",
+            "quedarme"
+          ]
+        },
+        {
+          "texto_enunciado": "De pequeño, soñaba con (yo, poder) _____ viajar por el espacio.",
+          "solucion_correcta": [
+            "poder"
+          ]
+        },
+        {
+          "texto_enunciado": "Voy a sentarme un poco. Tengo ganas de (yo, descansar) _____.",
+          "solucion_correcta": [
+            "descansar"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Le esperamos? –No, prefiero que (ustedes, irse) _____. Voy a acabar tarde.",
+          "solucion_correcta": [
+            "se vayan"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "84.2",
+      "tipologia": "T10",
+      "enunciado": "Escriba frases como en el ejemplo utilizando el presente o el imperfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Alberto quería (yo, trabajar con él) _____.",
+          "solucion_correcta": [
+            "Alberto quería que trabajara con él"
+          ]
+        },
+        {
+          "texto_enunciado": "Espero (no llover mañana) _____.",
+          "solucion_correcta": [
+            "Espero que no llueva mañana"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Os importaría (yo, invitar a Laura a la fiesta) _____?",
+          "solucion_correcta": [
+            "¿Os importaría que invitara a Laura a la fiesta?"
+          ]
+        },
+        {
+          "texto_enunciado": "Felipe nos rogó (nosotros, no dejarle solo) _____.",
+          "solucion_correcta": [
+            "Felipe nos rogó que no le dejáramos solo"
+          ]
+        },
+        {
+          "texto_enunciado": "Sebastián prefiere (ustedes, esperar en su casa) _____.",
+          "solucion_correcta": [
+            "Sebastián prefiere que le esperen en su casa"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría (el mundo, ser más justo) _____.",
+          "solucion_correcta": [
+            "Me gustaría que el mundo fuera más justo"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo ganas de (vosotros, venir) _____.",
+          "solucion_correcta": [
+            "Tengo ganas de que vengáis"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "84.3",
+      "tipologia": "T12",
+      "enunciado": "¿Qué diría en estas situaciones? Complete las frases con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "A un amigo que se va de vacaciones: ¡Que lo _____ bien!",
+          "solucion_correcta": [
+            "pases"
+          ]
+        },
+        {
+          "texto_enunciado": "A un desconocido que ha perdido la maleta: ¡Que la _____ pronto!",
+          "solucion_correcta": [
+            "encuentre"
+          ]
+        },
+        {
+          "texto_enunciado": "A unos amigos que se van de viaje: ¡Que _____ buen viaje!",
+          "solucion_correcta": [
+            "tengáis"
+          ]
+        },
+        {
+          "texto_enunciado": "A un amigo que va a hacer un examen importante: ¡Qué _____ suerte!",
+          "solucion_correcta": [
+            "tengas"
+          ]
+        },
+        {
+          "texto_enunciado": "A unos recién casados: ¡Que _____ felices!",
+          "solucion_correcta": [
+            "seáis"
+          ]
+        },
+        {
+          "texto_enunciado": "A un amigo que se va a una fiesta: ¡Que _____!",
+          "solucion_correcta": [
+            "te diviertas"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "divertirse",
+        "encontrar",
+        "pasar",
+        "ser",
+        "tener",
+        "tener"
+      ]
+    },
+    {
+      "subejercicio": "84.4",
+      "tipologia": "T12",
+      "enunciado": "¿Qué diría? Escriba frases con ¡ojalá!",
+      "items": [
+        {
+          "texto_enunciado": "Estás jugando un partido de fútbol, quieres ganar y lo consideras posible. Dices: ¡_____!",
+          "solucion_correcta": [
+            "¡Ojalá ganemos!"
+          ]
+        },
+        {
+          "texto_enunciado": "Te gustaría que María te quisiera, pero es difícil. Dices: ¡_____!",
+          "solucion_correcta": [
+            "¡Ojalá me quisiera María!"
+          ]
+        },
+        {
+          "texto_enunciado": "Te gustaría que tus amigos y tú aprobarais y es posible. Les dices: ¡_____!",
+          "solucion_correcta": [
+            "¡Ojalá aprobemos!"
+          ]
+        },
+        {
+          "texto_enunciado": "Te gustaría que no lloviera mañana y parece que es posible. Dices: ¡_____!",
+          "solucion_correcta": [
+            "¡Ojalá no llueva mañana!"
+          ]
+        },
+        {
+          "texto_enunciado": "Te gustaría ser más alta. Dices: ¡_____!",
+          "solucion_correcta": [
+            "¡Ojalá fuera más alta!"
+          ]
+        },
+        {
+          "texto_enunciado": "Te gustaría que Julián supiera tocar el piano, pero no sabe. Le dices: ¡_____!",
+          "solucion_correcta": [
+            "¡Ojalá supieras tocar el piano!"
+          ]
+        }
+      ]
+    }
+  ]
+}

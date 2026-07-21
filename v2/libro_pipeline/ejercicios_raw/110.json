@@ -1,0 +1,180 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "110.1",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Una las columnas con las preposiciones adecuadas.",
+      "banco_palabras": [
+        "a",
+        "de",
+        "en",
+        "por"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Despiértame",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los domingos solo trabajo",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi cumpleaños es el 31",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Natalia nació",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Podemos quedar",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo siento. No puedo salir",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ana no puede estudiar",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A veces vamos a esquiar",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llegaron a las dos",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Ejercicio de emparejamiento en tres columnas: hay que unir cada uno de los nueve inicios de frase de la columna izquierda con una preposición del recuadro central y con una de las nueve terminaciones de la columna derecha. El recuadro central contiene «a», «de», «en» y «por». Las terminaciones de la derecha son: «octubre.», «la noche. Se duerme.», «la mañana.», «invierno.», «este momento.», «la tarde, cuando estábamos comiendo.», «las siete.», «el año 1987.» y «mediodía para tomar algo.»."
+    },
+    {
+      "subejercicio": "110.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con a, hasta, de, desde o dentro de.",
+      "items": [
+        {
+          "texto_enunciado": "Manuel vivió en Venezuela _____ 1993 _____ 1998.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Trabajé en una empresa mexicana _____ el año pasado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Patricia vive en Madrid _____ 2001.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los bancos abren _____ ocho _____ dos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiero ir a Bolivia _____ dos meses.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anoche no me pude dormir _____ las tres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo mucho trabajo. No estoy libre _____ el jueves.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Olga lleva enferma _____ el lunes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Cuándo regresa Sebastián? –_____ unos días.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "110.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con de, desde, a, hasta, dentro de, durante y las expresiones entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Darío estuvo con nosotros (el principio, el fin del verano) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Emilia vivió en Honduras (1999–2002) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eva y Mario se casan (tres meses) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Trabajo en esta oficina (el mes pasado) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Voy a un gimnasio (siete, nueve) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me voy. Ya no nos vemos (la semana que viene) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Gracias por todo. He estado muy a gusto (estos días) _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Ejercicio de producción escrita pautada: cada ítem presenta una frase y, entre paréntesis, una o dos expresiones temporales que deben incorporarse al completar o reformular la frase mediante «de», «desde», «a», «hasta», «dentro de» o «durante». Cada ítem dispone de una línea larga para escribir la respuesta."
+    },
+    {
+      "subejercicio": "110.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con antes de, durante o después de y las expresiones del recuadro.",
+      "banco_palabras": [
+        "caminata por la sierra",
+        "el viernes",
+        "la entrevista",
+        "la ducha",
+        "los conciertos",
+        "toda la clase"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Gabriel estuvo hablando _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estábamos agotados _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mónica estaba muy nerviosa _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me quedé muy relajada _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que tener los móviles apagados _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo que acabar este trabajo _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Ejercicio de completar frases combinando una de las expresiones «antes de», «durante» o «después de» con una expresión temporal elegida del recuadro. El recuadro contiene seis expresiones y hay seis frases con un hueco final."
+    }
+  ],
+  "unidad": 110,
+  "titulo_libro": "a las cinco, por la mañana... -- Preposiciones (1)",
+  "scan": "libro-rojo-230.png"
+}

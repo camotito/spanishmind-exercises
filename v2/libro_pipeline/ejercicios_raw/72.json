@@ -1,0 +1,124 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "72.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en condicional simple.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿Qué (hacer) _____ ustedes en mi lugar? –(Hablar) _____ con el director."
+        },
+        {
+          "texto_enunciado": "2. Yo que tú (no, salir) _____ esta noche."
+        },
+        {
+          "texto_enunciado": "3. Viene mucha gente al museo, pero (venir) _____ más si no cerráramos los lunes."
+        },
+        {
+          "texto_enunciado": "4. Antón te quiere mucho, pero te (querer) _____ más si fueras más cariñosa."
+        },
+        {
+          "texto_enunciado": "5. –Yo, en tu lugar, (no, decir) _____ nada. –Entonces, ¿qué (hacer) _____ tú?"
+        },
+        {
+          "texto_enunciado": "6. Yo (tener) _____ más cuidado. Puede venir el jefe en cualquier momento."
+        },
+        {
+          "texto_enunciado": "7. Haces bien la comida, pero la (hacer) _____ mejor con un poquito más de cuidado."
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas con los verbos apropiados.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿Cuántas personas había anoche en el concierto? –No estoy segura. _____ unas dos mil."
+        },
+        {
+          "texto_enunciado": "2. –¿A qué hora regresó Adela? –No sé. _____ sobre las cinco."
+        },
+        {
+          "texto_enunciado": "3. –¿Cuántas personas vinieron a la conferencia? –_____ unas cincuenta. No había muchas sillas vacías."
+        },
+        {
+          "texto_enunciado": "4. –¿Quién puso la lavadora ayer? –La _____ tú, ¿no? Yo no tengo ropa sucia."
+        },
+        {
+          "texto_enunciado": "5. –¿Quién le dijo a Isabel que Gregorio estaba en Bolivia? –No sé. Se lo _____ Joaquín."
+        },
+        {
+          "texto_enunciado": "6. –¿Quién puso el CD anoche? Se oía una música preciosa. –Lo _____ Marisa. Fue la última en acostarse."
+        },
+        {
+          "texto_enunciado": "7. –¿A qué hora salieron Javi y Lolo? –No lo sé, pero _____ a las dos o a las tres. Era tardísimo."
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "1. –¿Quién tenía las llaves? –Las (tenía/tendría) Bárbara. Estaban en su bolso."
+        },
+        {
+          "texto_enunciado": "2. –¿Quién hizo ayer la cena? –La (hizo/haría) Sofía. Estaba buenísima."
+        },
+        {
+          "texto_enunciado": "3. –¿Cuántos años (tenías/tendrías) cuando te casaste? –Veinticinco. Y Rosario, veintiséis."
+        },
+        {
+          "texto_enunciado": "4. –¿Quién (sabía/sabría) arreglar el microondas? ¿Conoces a alguien? –No, lo siento."
+        },
+        {
+          "texto_enunciado": "5. –¿Quiénes hicieron ese castillo? –No sé, pero lo (hicieron/harían) los árabes. Estuvieron aquí muchos años."
+        },
+        {
+          "texto_enunciado": "6. Maite, ¿(podías/podrías) ayudarme a pintar mi habitación?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.4",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Haga las siguientes peticiones de una manera educada.",
+      "items": [
+        {
+          "texto_enunciado": "1. (a un amigo) ¿(poder) ayudarme con esta maleta? _____"
+        },
+        {
+          "texto_enunciado": "2. (a unos amigos) ¿(importar) hablar más despacio? _____"
+        },
+        {
+          "texto_enunciado": "3. (al profesor) ¿(importar) repetir la explicación? _____"
+        },
+        {
+          "texto_enunciado": "4. (a un amigo) ¿(importar) esperar un momento? _____"
+        },
+        {
+          "texto_enunciado": "5. (a un desconocido) ¿(poder) decirme dónde hay una parada de taxis? _____"
+        },
+        {
+          "texto_enunciado": "6. (a un compañero de clase) ¿(importar) dejarme el diccionario? _____"
+        },
+        {
+          "texto_enunciado": "7. (a unos desconocidos) ¿(importar) vigilar mi equipaje? _____"
+        },
+        {
+          "texto_enunciado": "8. (a un desconocido) ¿(poder) decirme la hora? _____"
+        }
+      ],
+      "tipologia_libre_original": "Formulación de peticiones completas de manera educada a partir de un destinatario indicado y de una pregunta con el verbo en infinitivo entre paréntesis."
+    }
+  ],
+  "unidad": 72,
+  "titulo_libro": "habría, podría... -- Condicional simple: verbos irregulares",
+  "scan": "libro-rojo-154.png"
+}

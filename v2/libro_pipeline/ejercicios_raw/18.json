@@ -1,0 +1,165 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "18.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe los árboles genealógicos y complete las frases con mi, tu, su...",
+      "contexto_grafico": {
+        "tipo": "family_tree",
+        "datos": [
+          {
+            "familia": "Familia Suárez",
+            "personas": [
+              "Lucas",
+              "María"
+            ],
+            "hijos": [
+              "Rosa",
+              "Begoña"
+            ]
+          },
+          {
+            "familia": "Familia Suárez",
+            "personas": [
+              "Begoña",
+              "Alfonso"
+            ],
+            "hijos": [
+              "Arturo",
+              "Carlota"
+            ]
+          },
+          {
+            "familia": "Familia Salina",
+            "personas": [
+              "Julio",
+              "Rosario"
+            ],
+            "hijos": [
+              "Carmelo",
+              "Lupe"
+            ]
+          },
+          {
+            "familia": "Familia Salina",
+            "personas": [
+              "Carmelo",
+              "Justa"
+            ],
+            "hijos": [
+              "Blanca",
+              "Lucía",
+              "Emilio"
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "ARTURO: ¿Cómo se llaman _____ padres, Blanca?"
+        },
+        {
+          "texto_enunciado": "EMILIO: _____ hermanas se llaman Blanca y Lucía."
+        },
+        {
+          "texto_enunciado": "CARLOTA: ¿Cómo se llama _____ mujer, don Carmelo?"
+        },
+        {
+          "texto_enunciado": "BLANCA Y LUCÍA: _____ abuela se llama Rosario."
+        },
+        {
+          "texto_enunciado": "EMILIO: Arturo, Carlota, ¿cómo se llaman _____ abuelos?"
+        },
+        {
+          "texto_enunciado": "ALFONSO: _____ madre se llama María."
+        },
+        {
+          "texto_enunciado": "BLANCA: ¿Cómo se llama _____ tía, Arturo?"
+        },
+        {
+          "texto_enunciado": "CARLOTA: ¿Cómo se llaman _____ hijos, don Julio?"
+        },
+        {
+          "texto_enunciado": "CARMELO Y LUPE: _____ padres se llaman Julio y Rosario."
+        },
+        {
+          "texto_enunciado": "ARTURO: Blanca, Lucía, ¿cómo se llama _____ madre?"
+        }
+      ]
+    },
+    {
+      "subejercicio": "18.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con mi, tu, su...",
+      "items": [
+        {
+          "texto_enunciado": "—¿Cuál es _____ color preferido, Berta? —El azul."
+        },
+        {
+          "texto_enunciado": "Mi hermano y yo jugamos mucho al tenis. Es _____ deporte preferido."
+        },
+        {
+          "texto_enunciado": "La señora Valverde y _____ hijas son muy agradables."
+        },
+        {
+          "texto_enunciado": "—¿Dónde están Sol y Rocío? —En _____ casa."
+        },
+        {
+          "texto_enunciado": "Anoche fui al cine con _____ padre y _____ hermanos."
+        },
+        {
+          "texto_enunciado": "Jorge, Juan, ¿dónde están _____ libros?"
+        },
+        {
+          "texto_enunciado": "—¿Cuál es _____ comida preferida, Enrique? —La paella."
+        },
+        {
+          "texto_enunciado": "Ayer conocí a _____ padres, Verónica. Son muy simpáticos."
+        }
+      ]
+    },
+    {
+      "subejercicio": "18.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Me estoy lavando (mi/el) pelo."
+        },
+        {
+          "texto_enunciado": "Átate (tus/los) zapatos."
+        },
+        {
+          "texto_enunciado": "Rodrigo trabaja con (su/el) padre."
+        },
+        {
+          "texto_enunciado": "Tenéis (vuestros/los) ojos rojos."
+        },
+        {
+          "texto_enunciado": "(Mis/Los) tíos viven en Puerto Rico."
+        },
+        {
+          "texto_enunciado": "Le di (mi/la) mano."
+        },
+        {
+          "texto_enunciado": "(Su/La) abuela tiene 85 años."
+        },
+        {
+          "texto_enunciado": "Tienes una mancha en (tu/la) nariz."
+        },
+        {
+          "texto_enunciado": "Quitaos (vuestras/las) chaquetas."
+        },
+        {
+          "texto_enunciado": "Al señor Alfonsín se le ha estropeado (su/el) coche."
+        }
+      ]
+    }
+  ],
+  "unidad": 18,
+  "titulo_libro": "mi, tu, su... -- Posesivos (1)",
+  "scan": "libro-rojo-046.png"
+}

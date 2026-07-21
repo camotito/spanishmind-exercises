@@ -1,0 +1,268 @@
+{
+  "tema": "numeros-ordinales",
+  "titulo": "Los numerales ordinales",
+  "descripcion_gramatical": "Números ordinales",
+  "fuente": "libro",
+  "unidad_libro": 27,
+  "ejercicios": [
+    {
+      "subejercicio": "27.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Antonio Oliva vive en el _____ piso.",
+          "solucion_correcta": [
+            "segundo"
+          ]
+        },
+        {
+          "texto_enunciado": "Las oficinas de Servicios de Gas están en el piso _____.",
+          "solucion_correcta": [
+            "once"
+          ]
+        },
+        {
+          "texto_enunciado": "La sastrería Moderna está en la _____ planta.",
+          "solucion_correcta": [
+            "décima"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay un despacho de abogados en el _____ piso.",
+          "solucion_correcta": [
+            "tercer"
+          ]
+        },
+        {
+          "texto_enunciado": "La familia Molina Cardoso vive en el piso _____.",
+          "solucion_correcta": [
+            "doce"
+          ]
+        },
+        {
+          "texto_enunciado": "La gestoría Salvado está en el _____ piso.",
+          "solucion_correcta": [
+            "primer"
+          ]
+        },
+        {
+          "texto_enunciado": "Las oficinas de Hispanosa están en el piso _____.",
+          "solucion_correcta": [
+            "catorce"
+          ]
+        },
+        {
+          "texto_enunciado": "La academia Cervantes está en la _____ planta.",
+          "solucion_correcta": [
+            "cuarta"
+          ]
+        },
+        {
+          "texto_enunciado": "Julia Salinas vive en el piso _____.",
+          "solucion_correcta": [
+            "séptimo"
+          ]
+        },
+        {
+          "texto_enunciado": "La editorial Mundisa está en el _____ piso.",
+          "solucion_correcta": [
+            "noveno"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "directory",
+        "datos": [
+          {
+            "nombre": "Antonio Oliva",
+            "piso": "2.º C"
+          },
+          {
+            "nombre": "Servicios de Gas",
+            "piso": "11.º A"
+          },
+          {
+            "nombre": "Sastrería Moderna",
+            "piso": "10.º D"
+          },
+          {
+            "nombre": "Morano-Arribas Abogados",
+            "piso": "3.º D"
+          },
+          {
+            "nombre": "Molina Cardoso",
+            "piso": "12.º A"
+          },
+          {
+            "nombre": "Gestoría Salvado",
+            "piso": "1.º A"
+          },
+          {
+            "nombre": "Hispanosa",
+            "piso": "14.º D"
+          },
+          {
+            "nombre": "Academia Cervantes",
+            "piso": "4.º B"
+          },
+          {
+            "nombre": "Julia Salinas",
+            "piso": "7.º C"
+          },
+          {
+            "nombre": "Editorial Mundisa",
+            "piso": "9.º D"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "27.2",
+      "tipologia": "T4",
+      "enunciado": "Escriba los nombres de los personajes con palabras.",
+      "items": [
+        {
+          "texto_enunciado": "Juan Carlos (I) _____.",
+          "solucion_correcta": [
+            "Juan Carlos primero"
+          ]
+        },
+        {
+          "texto_enunciado": "Isabel (I) _____.",
+          "solucion_correcta": [
+            "Isabel primera"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan (XXIII) _____.",
+          "solucion_correcta": [
+            "Juan veintitrés"
+          ]
+        },
+        {
+          "texto_enunciado": "Alfonso (XII) _____.",
+          "solucion_correcta": [
+            "Alfonso doce"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis (XV) _____.",
+          "solucion_correcta": [
+            "Luis quince"
+          ]
+        },
+        {
+          "texto_enunciado": "Iván (IV) _____.",
+          "solucion_correcta": [
+            "Iván cuarto"
+          ]
+        },
+        {
+          "texto_enunciado": "Margarita (II) _____.",
+          "solucion_correcta": [
+            "Margarita segunda"
+          ]
+        },
+        {
+          "texto_enunciado": "Pío (XI) _____.",
+          "solucion_correcta": [
+            "Pío once"
+          ]
+        },
+        {
+          "texto_enunciado": "Juana (III) _____.",
+          "solucion_correcta": [
+            "Juana tercera"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan Pablo (II) _____.",
+          "solucion_correcta": [
+            "Juan Pablo segundo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.3",
+      "tipologia": "T4",
+      "enunciado": "Escriba los números que aparecen entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Estudio (2.º) _____ curso de Arquitectura.",
+          "solucion_correcta": [
+            "Segundo"
+          ]
+        },
+        {
+          "texto_enunciado": "Enero es el (1.º) _____ mes del año.",
+          "solucion_correcta": [
+            "primer"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy leyendo un libro con (15) _____ capítulos. Voy por el capítulo (11.º) _____.",
+          "solucion_correcta": [
+            "quince",
+            "once"
+          ]
+        },
+        {
+          "texto_enunciado": "El Valencia es el (1.º) _____ en la Liga de fútbol.",
+          "solucion_correcta": [
+            "primero"
+          ]
+        },
+        {
+          "texto_enunciado": "Javi es el (3.º) _____ de sus hermanos.",
+          "solucion_correcta": [
+            "tercero"
+          ]
+        },
+        {
+          "texto_enunciado": "Ellas han sido las (1.ª) _____ en llegar.",
+          "solucion_correcta": [
+            "primeras"
+          ]
+        },
+        {
+          "texto_enunciado": "La ñ es la letra (15.ª) _____ del alfabeto.",
+          "solucion_correcta": [
+            "quince"
+          ]
+        },
+        {
+          "texto_enunciado": "El despacho de José está en el (8.º) _____ piso.",
+          "solucion_correcta": [
+            "octavo"
+          ]
+        },
+        {
+          "texto_enunciado": "Tuerza por la (2.ª) _____ calle a la izquierda.",
+          "solucion_correcta": [
+            "segunda"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos vamos de vacaciones la (3.ª) _____ semana de agosto.",
+          "solucion_correcta": [
+            "tercera"
+          ]
+        },
+        {
+          "texto_enunciado": "El siglo (XVIII) _____ fue el Siglo de las Luces.",
+          "solucion_correcta": [
+            "dieciocho"
+          ]
+        },
+        {
+          "texto_enunciado": "Tina y Carla acabaron (4.as) _____ en el campeonato de tenis.",
+          "solucion_correcta": [
+            "cuartas"
+          ]
+        }
+      ]
+    }
+  ]
+}

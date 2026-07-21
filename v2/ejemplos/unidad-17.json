@@ -1,0 +1,220 @@
+{
+  "tema": "unidad-17",
+  "titulo": "la más alta, el menos trabajador",
+  "descripcion_gramatical": "Superlativo",
+  "fuente": "libro",
+  "unidad_libro": 17,
+  "ejercicios": [
+    {
+      "subejercicio": "17.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con un superlativo.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cuál es (ciudad, + bonito) _____ de Cuba?",
+          "solucion_correcta": [
+            "la ciudad más bonita"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuál es (país, − poblado) _____ de América Latina?",
+          "solucion_correcta": [
+            "el país menos poblado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuál es (ciudad, − contaminado) _____ de España?",
+          "solucion_correcta": [
+            "la ciudad menos contaminada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuál es (río, + largo) _____ de México?",
+          "solucion_correcta": [
+            "el río más largo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuál es (capital, + alto) _____ de América del Sur?",
+          "solucion_correcta": [
+            "la capital más alta"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuál es (país, + grande) _____ de América Latina?",
+          "solucion_correcta": [
+            "el país más grande"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuál es (isla, + pequeño) _____ del Caribe?",
+          "solucion_correcta": [
+            "la isla más pequeña"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuál es (catedral, + antiguo) _____ de México?",
+          "solucion_correcta": [
+            "la catedral más antigua"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.2",
+      "tipologia": "T6",
+      "enunciado": "Escriba frases sobre un grupo de amigos.",
+      "items": [
+        {
+          "texto_enunciado": "(simpático: Lucas ++, Marina −, Leo +) Lucas es _____ de sus amigos.",
+          "solucion_correcta": [
+            "el más simpático"
+          ]
+        },
+        {
+          "texto_enunciado": "(simpático: Lucas ++, Marina −, Leo +) Marina es _____.",
+          "solucion_correcta": [
+            "la menos simpática"
+          ]
+        },
+        {
+          "texto_enunciado": "(trabajador: Lucas +, Marina ++, Leo ++) Marina y Leo son _____.",
+          "solucion_correcta": [
+            "los más trabajadores"
+          ]
+        },
+        {
+          "texto_enunciado": "(trabajador: Lucas +, Marina ++, Leo ++) Lucas es _____.",
+          "solucion_correcta": [
+            "el menos trabajador"
+          ]
+        },
+        {
+          "texto_enunciado": "(elegante: Lucas −, Marina ++, Leo +) Marina es _____.",
+          "solucion_correcta": [
+            "la más elegante"
+          ]
+        },
+        {
+          "texto_enunciado": "(elegante: Lucas −, Marina ++, Leo +) Lucas es _____.",
+          "solucion_correcta": [
+            "el menos elegante"
+          ]
+        },
+        {
+          "texto_enunciado": "(atractivo: Lucas +, Marina +, Leo −) Lucas y Marina son _____.",
+          "solucion_correcta": [
+            "los más atractivos"
+          ]
+        },
+        {
+          "texto_enunciado": "(atractivo: Lucas +, Marina +, Leo −) Leo es _____.",
+          "solucion_correcta": [
+            "el menos atractivo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.3",
+      "tipologia": "T4",
+      "enunciado": "Complete estos eslóganes publicitarios.",
+      "items": [
+        {
+          "texto_enunciado": "Agua de Monteviejo, (bebida, + sano) _____ y (+ refrescante) _____.",
+          "solucion_correcta": [
+            "la bebida más sana",
+            "la más refrescante"
+          ]
+        },
+        {
+          "texto_enunciado": "Regina, (reloj, + caro) _____ del mundo.",
+          "solucion_correcta": [
+            "el reloj más caro"
+          ]
+        },
+        {
+          "texto_enunciado": "Ordenadores portátiles Misima, (+ pequeño) _____ y (+ potente) _____.",
+          "solucion_correcta": [
+            "los más pequeños",
+            "los más potentes"
+          ]
+        },
+        {
+          "texto_enunciado": "Ropa deportiva Libre, (+ cómodo) _____ y (+ elegante) _____.",
+          "solucion_correcta": [
+            "la más cómoda",
+            "la más elegante"
+          ]
+        },
+        {
+          "texto_enunciado": "Galletas Artaneda, (+ bueno) _____ para el desayuno.",
+          "solucion_correcta": [
+            "las mejores"
+          ]
+        },
+        {
+          "texto_enunciado": "Supermercados García, (+ económico) _____.",
+          "solucion_correcta": [
+            "los más económicos"
+          ]
+        },
+        {
+          "texto_enunciado": "Zumos Frutasol, (+ sano) _____.",
+          "solucion_correcta": [
+            "los más sanos"
+          ]
+        },
+        {
+          "texto_enunciado": "Leche fresca Norte, (+ bueno) _____ para su familia.",
+          "solucion_correcta": [
+            "la mejor"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con un superlativo y de o que.",
+      "items": [
+        {
+          "texto_enunciado": "Julia es (chica, + alegre) _____ conozco.",
+          "solucion_correcta": [
+            "la chica más alegre que"
+          ]
+        },
+        {
+          "texto_enunciado": "Para mí, el café de Colombia es (+ bueno) _____ el mundo.",
+          "solucion_correcta": [
+            "el mejor del"
+          ]
+        },
+        {
+          "texto_enunciado": "Las ruinas de Machu Picchu son (+ impresionante) _____ he visto.",
+          "solucion_correcta": [
+            "las más impresionantes que"
+          ]
+        },
+        {
+          "texto_enunciado": "El día de mi boda fue (+ feliz) _____ mi vida.",
+          "solucion_correcta": [
+            "el más feliz de"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuál es (país, + interesante) _____ has visitado?",
+          "solucion_correcta": [
+            "el país más interesante que"
+          ]
+        },
+        {
+          "texto_enunciado": "Esther es (+ viejo) _____ mis hermanas.",
+          "solucion_correcta": [
+            "la mayor de"
+          ]
+        }
+      ]
+    }
+  ]
+}

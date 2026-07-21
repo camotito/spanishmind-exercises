@@ -1,0 +1,255 @@
+{
+  "tema": "unidad-15",
+  "titulo": "más caro, menos trabajador",
+  "descripcion_gramatical": "Forma comparativa de los adjetivos (1)",
+  "fuente": "libro",
+  "unidad_libro": 15,
+  "ejercicios": [
+    {
+      "subejercicio": "15.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con la forma comparativa adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "¿Quién es (+ guapo) _____, Juan o su hermano?",
+          "solucion_correcta": [
+            "más guapo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es (− caprichoso) _____, Alberto o Luisa?",
+          "solucion_correcta": [
+            "menos caprichoso"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué ciudad es (+ antiguo) _____, Lima o Santiago?",
+          "solucion_correcta": [
+            "más antigua"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es (+ bueno) _____, Ronaldo o Rivaldo?",
+          "solucion_correcta": [
+            "mejor"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué país está (− poblado) _____, Venezuela o Colombia?",
+          "solucion_correcta": [
+            "menos poblado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué deporte es (− peligroso) _____, el esquí o el alpinismo?",
+          "solucion_correcta": [
+            "menos peligroso"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué es (+ malo) _____, estar enfermo o no tener dinero?",
+          "solucion_correcta": [
+            "peor"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es (+ viejo) _____, Sofía o su esposo?",
+          "solucion_correcta": [
+            "mayor"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.2",
+      "tipologia": "T6",
+      "enunciado": "Escriba comparaciones como en el ejemplo utilizando las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "(Luis 1,90 cm; su hermano 1,82 cm) Luis es _____.",
+          "solucion_correcta": [
+            "más alto que su hermano"
+          ]
+        },
+        {
+          "texto_enunciado": "(Uruguay 176 220 km²; Argentina, 2 766 890 km²) Uruguay es _____.",
+          "solucion_correcta": [
+            "más pequeño que Argentina"
+          ]
+        },
+        {
+          "texto_enunciado": "(Paraguay, 5,5 millones de habitantes; Ecuador, 13 millones) Paraguay está _____.",
+          "solucion_correcta": [
+            "menos poblado que Ecuador"
+          ]
+        },
+        {
+          "texto_enunciado": "(Luisa 19 años; Clara, 25 años) Luisa es _____.",
+          "solucion_correcta": [
+            "menor que Clara"
+          ]
+        },
+        {
+          "texto_enunciado": "(fresas 3,50 euros/kilo; plátanos, 1,75 euros/kilo) Las fresas son _____.",
+          "solucion_correcta": [
+            "más caras que los plátanos"
+          ],
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "(Amazonas 6 788 km; Paraná, 3 780 km) El Amazonas es _____.",
+          "solucion_correcta": [
+            "más largo que el Paraná"
+          ]
+        },
+        {
+          "texto_enunciado": "(televisión 345 euros; radio, 60 euros) Esta televisión es _____.",
+          "solucion_correcta": [
+            "más cara que esta radio"
+          ]
+        },
+        {
+          "texto_enunciado": "(Sulko, disco duro 20 GB; Misima, disco duro 80 GB) Los ordenadores Sulko son _____.",
+          "solucion_correcta": [
+            "menos potentes que los Misima"
+          ]
+        },
+        {
+          "texto_enunciado": "(león 80 km/h; canguro, 50 km/h) El canguro es _____.",
+          "solucion_correcta": [
+            "menos rápido que el león"
+          ],
+          "revisar": true
+        }
+      ],
+      "banco_palabras": [
+        "alto",
+        "caro",
+        "caro",
+        "largo",
+        "potente",
+        "pequeño",
+        "poblado",
+        "rápido",
+        "viejo"
+      ]
+    },
+    {
+      "subejercicio": "15.3",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases con la forma comparativa de los adjetivos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Soy _____.",
+          "solucion_correcta": [
+            "Soy más fuerte que tú"
+          ]
+        },
+        {
+          "texto_enunciado": "Soy _____.",
+          "solucion_correcta": [
+            "más alto que vosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "Sois _____.",
+          "solucion_correcta": [
+            "mayores que nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Eres _____.",
+          "solucion_correcta": [
+            "menos rápido que yo"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "alto",
+        "fuerte",
+        "rápido",
+        "viejo"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "escena": "Dos hombres; uno de ellos, más corpulento, compara su fuerza con la del otro.",
+            "bocadillo": "Soy más fuerte que tú."
+          },
+          {
+            "numero": "2",
+            "escena": "Tres personas de distinta altura se comparan.",
+            "bocadillo": "Soy _____."
+          },
+          {
+            "numero": "3",
+            "escena": "Dos grupos de personas se comparan.",
+            "bocadillo": "Sois _____."
+          },
+          {
+            "numero": "4",
+            "escena": "Dos hombres de distinta edad se comparan.",
+            "bocadillo": "Eres _____."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "15.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con la forma comparativa adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Este piso es muy antiguo. Prefiero uno (antiguo) _____.",
+          "solucion_correcta": [
+            "menos antiguo"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta casa es muy cara. Prefiero una (barato) _____.",
+          "solucion_correcta": [
+            "más barata"
+          ]
+        },
+        {
+          "texto_enunciado": "Estos pantalones son muy grandes. Necesito unos (pequeño) _____.",
+          "solucion_correcta": [
+            "más pequeños"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta cama es incómoda. Prefiero una (cómodo) _____.",
+          "solucion_correcta": [
+            "más cómoda"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi trabajo es muy malo. Quiero uno (bueno) _____.",
+          "solucion_correcta": [
+            "mejor"
+          ]
+        },
+        {
+          "texto_enunciado": "Este postre está muy dulce. Prefiero los postres (dulce) _____.",
+          "solucion_correcta": [
+            "menos dulces"
+          ]
+        },
+        {
+          "texto_enunciado": "Este libro es un poco aburrido. Prefiero uno (entretenido) _____.",
+          "solucion_correcta": [
+            "más entretenido"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta falda es muy corta. Quiero una (largo) _____.",
+          "solucion_correcta": [
+            "más larga"
+          ]
+        }
+      ]
+    }
+  ]
+}

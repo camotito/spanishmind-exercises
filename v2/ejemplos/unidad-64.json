@@ -1,0 +1,145 @@
+{
+  "tema": "unidad-64",
+  "titulo": "trabajé/trabajaba",
+  "descripcion_gramatical": "Contraste entre pretérito indefinido y pretérito imperfecto",
+  "fuente": "libro",
+  "unidad_libro": 64,
+  "ejercicios": [
+    {
+      "subejercicio": "64.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer no (fui/iba) a trabajar. (Estuve/Estaba) enfermo.",
+          "solucion_correcta": [
+            "fui",
+            "Estaba"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Fuiste/Ibas) mucho a la playa cuando (viviste/vivías) en Las Palmas?",
+          "solucion_correcta": [
+            "Ibas",
+            "vivías"
+          ]
+        },
+        {
+          "texto_enunciado": "El domingo pasado (estuvimos/estábamos) en la sierra. No (pudimos/podíamos) esquiar porque no (hubo/había) nieve.",
+          "solucion_correcta": [
+            "estuvimos",
+            "pudimos",
+            "había"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (fui/era) joven, (fui/iba) mucho al cine.",
+          "solucion_correcta": [
+            "era",
+            "iba"
+          ]
+        },
+        {
+          "texto_enunciado": "Carolina (estuvo/estaba) en medio del campo cuando (empezó/empezaba) a llover.",
+          "solucion_correcta": [
+            "estaba",
+            "empezó"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué (hicisteis/hacías) el sábado pasado?",
+          "solucion_correcta": [
+            "hicisteis"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde (estuviste/estabas) cuando (empezó/empezaba) el partido?",
+          "solucion_correcta": [
+            "estabas",
+            "empezó"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche (vi/veía) a Marisa. (Llevó/Llevaba) un vestido precioso.",
+          "solucion_correcta": [
+            "vi",
+            "Llevaba"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué (hiciste/hacías) en la calle cuando te (vio/veía) Lucas?",
+          "solucion_correcta": [
+            "hacías",
+            "vio"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "64.2",
+      "tipologia": "T4",
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cuándo (conocer) _____ a Maruja? La (conocer) _____ cuando (vivir) _____ en Bogotá.",
+          "solucion_correcta": [
+            "conociste",
+            "conocí",
+            "vivía"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde (ustedes, estar) _____ cuando (yo, llamar) _____ anoche? (Estar) _____ dormidos y (no, oír) _____ el teléfono.",
+          "solucion_correcta": [
+            "estaban ustedes",
+            "llamé",
+            "Estábamos",
+            "no oímos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué (tú, hacer) _____ cuando (vivir) _____ en Ecuador? ¿Por qué (venirse) _____ a España? (Ser) _____ maestra. (No, tener) _____ trabajo allí.",
+          "solucion_correcta": [
+            "hacías",
+            "vivías",
+            "te viniste",
+            "Era",
+            "No tenía"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "64.3",
+      "tipologia": "T4",
+      "enunciado": "Complete la historia con los verbos entre paréntesis en pretérito indefinido o pretérito imperfecto.",
+      "items": [
+        {
+          "texto_enunciado": "Una noche, cuando (tener) _____ once o doce años, mis padres (salir) _____ y me (dejar) _____ solo. (Estar) _____ feliz porque (sentirse) _____ adulto. Me (preparar) _____ algo para cenar, (ver) _____ la tele y sobre las doce (irse) _____ a mi habitación. De repente, (oír) _____ un ruido en el piso de abajo. (Cerrar) _____ con llave la puerta de mi habitación y (escuchar) _____. Al cabo de un rato (abrir) _____ la puerta y (bajar) _____ las escaleras con mucho miedo. (Haber) _____ algo que (moverse) _____ cerca de una ventana. De repente, una sombra negra (saltar) _____ sobre mí. (Ser) _____ un gato. (Desmayarse) _____ y cuando (regresar) _____ mis padres, me (encontrar) _____ tirado en el suelo.",
+          "solucion_correcta": [
+            "tenía",
+            "salieron",
+            "dejaron",
+            "Estaba",
+            "me sentía",
+            "preparé",
+            "vi",
+            "me fui",
+            "oí",
+            "Cerré",
+            "escuché",
+            "abrí",
+            "bajé",
+            "Había",
+            "se movía",
+            "saltó",
+            "Era",
+            "Me desmayé",
+            "regresaron",
+            "encontraron"
+          ]
+        }
+      ]
+    }
+  ]
+}

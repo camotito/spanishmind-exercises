@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aquí se trabaja mucho</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+    --bg: #FBF7F0; --card: #ffffff; --primary: #C1440E; --secondary: #2E4053;
+    --accent: #E9B44C; --ok: #4F7942; --bad: #B33A3A; --text: #2B2B2B;
+    --line: #e5ddd0;
+    --font-heading: 'Playfair Display', serif; --font-body: 'DM Sans', sans-serif;
+}
+* { box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text);
+    max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
+h1 { font-family: var(--font-heading); color: var(--secondary); }
+.ejercicio { background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
+.ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
+    margin: 0 0 14px; }
+.item { padding: 8px 0; border-top: 1px dashed var(--line); }
+.item:first-of-type { border-top: none; }
+.item-row { padding-left: 1.8em; text-indent: -1.8em; }
+.item-row + .item-row { margin-top: 4px; }
+.item-num { display: inline-block; width: 1.6em; text-indent: 0;
+    color: #999; font-variant-numeric: tabular-nums; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
+.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
+    border-radius: 6px; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
+.blank.ok { border-color: var(--ok); background: #f0f6ee; }
+.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.alt-hint { font-size: .78rem; color: var(--secondary); opacity: .75; margin-left: 2px; }
+.group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+button { font-family: var(--font-body); background: var(--primary); color: #fff;
+    border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: .85rem; }
+button.ghost { background: transparent; color: var(--secondary); text-decoration: underline; padding: 8px 4px; }
+button:hover { opacity: .9; }
+.group-feedback { font-weight: 600; font-size: .9rem; display: none; margin-left: auto; }
+.group-feedback.correct { color: var(--ok); }
+.group-feedback.wrong { color: var(--bad); }
+/* soporte gráfico */
+.directory { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.plate { text-align: center; padding: 10px 6px; border: 1px solid var(--line);
+    border-radius: 6px; background: #fff; }
+.plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
+.plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
+@media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
+.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
+    color: var(--ok); font-weight: 700; font-size: .72rem;
+    text-transform: uppercase; letter-spacing: .04em; }
+input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
+    background: #fff; cursor: default; }
+#resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
+    margin-top: 30px; color: var(--secondary); }
+</style>
+</head>
+<body>
+<h1>Aquí se trabaja mucho</h1>
+
+    <section class="ejercicio">
+        <p class="enunciado">Complete the sentences with the verbs from the box and "se" or "uno".</p>
+        
+        <div class="wordbox"><span class="word-chip">necesitar</span><span class="word-chip">relacionarse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span><span class="word-chip">divertirse</span><span class="word-chip">sentirse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span></div>
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>En un pueblo pequeño <input type="text" class="blank blank-example" value="se vive" style="width: 9ch" readonly tabindex="-1"> mejor. <input type="text" class="blank blank-example" value="Se vive" style="width: 9ch" readonly tabindex="-1"> más tranquilo, <input type="text" class="blank blank-example" value="se tiene" style="width: 10ch" readonly tabindex="-1"> más tiempo libre, <input type="text" class="blank blank-example" value="uno se relaciona" style="width: 18ch" readonly tabindex="-1"> más con la gente y <input type="text" class="blank blank-example" value="se necesita" style="width: 13ch" readonly tabindex="-1"> menos dinero.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">1.</span> <span>En una gran ciudad <input type="text" class="blank" data-sol="se tiene" style="width: 10ch" autocomplete="off"> más libertad y <input type="text" class="blank" data-sol="se divierte uno" style="width: 17ch" autocomplete="off"> más, aunque a veces <input type="text" class="blank" data-sol="se siente uno" style="width: 15ch" autocomplete="off"> solo. Antes <input type="text" class="blank" data-sol="se vivía" style="width: 10ch" autocomplete="off"> mejor en las ciudades, pero ahora <input type="text" class="blank" data-sol="se vive" style="width: 9ch" autocomplete="off"> bien en todas partes.</span></div>
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Rewrite the sentences starting with one of the expressions from the box.</p>
+        
+        <div class="wordbox"><span class="word-chip">se dice</span><span class="word-chip">se espera</span><span class="word-chip">se necesita</span><span class="word-chip">se puede</span><span class="word-chip">se sospechaba</span><span class="word-chip">se suele</span><span class="word-chip">se supone</span><span class="word-chip">se veía</span></div>
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Estaba claro que Olga estaba contenta. <input type="text" class="blank blank-example" value="Se veía que Olga estaba contenta" style="width: 34ch" readonly tabindex="-1">.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">1.</span> <span>En Chile es costumbre bailar la cueca en las fiestas populares. <input type="text" class="blank" data-sol="En Chile se suele bailar la cueca en las fiestas populares" style="width: 60ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">2.</span> <span>Alguien dice que Norma no se encuentra bien. <input type="text" class="blank" data-sol="Se dice que Norma no se encuentra bien" style="width: 40ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">3.</span> <span>Es posible hablar por teléfono desde aquí. <input type="text" class="blank" data-sol="Se puede hablar por teléfono desde aquí" style="width: 41ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">4.</span> <span>Alguien sospechaba que Andrés había causado la discusión. <input type="text" class="blank" data-sol="Se sospechaba que Andrés había causado la discusión" style="width: 53ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">5.</span> <span>La gente supone que Nacho es muy inteligente. <input type="text" class="blank" data-sol="Se supone que Nacho es muy inteligente" style="width: 40ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">6.</span> <span>Para jugar bien al baloncesto no es necesario ser alto. <input type="text" class="blank" data-sol="No se necesita ser alto para jugar bien al baloncesto" style="width: 55ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">7.</span> <span>Algunas personas esperan que el Presidente hable mañana. <input type="text" class="blank" data-sol="Se espera que el Presidente hable mañana" style="width: 42ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Join the two sentences as in the example. Make the necessary changes.</p>
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>La gente se equivoca. Es fácil. <input type="text" class="blank blank-example" value="Es fácil equivocarse" style="width: 22ch" readonly tabindex="-1">.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">1.</span> <span>No hay que equivocarse. Es importante. <input type="text" class="blank" data-sol="Es importante no equivocarse" style="width: 30ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">2.</span> <span>Hay que ser abiertos. Es mejor. <input type="text" class="blank" data-sol="Es mejor ser abiertos" style="width: 23ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">3.</span> <span>Hay que saber cocinar. Es útil. <input type="text" class="blank" data-sol="Es útil saber cocinar" style="width: 23ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">4.</span> <span>Hay que hacer ejercicio. Es bueno. <input type="text" class="blank" data-sol="Es bueno hacer ejercicio" style="width: 26ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">5.</span> <span>No hay que ser egoísta. Es malo. <input type="text" class="blank" data-sol="Es malo ser egoísta" style="width: 21ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">6.</span> <span>No se puede estudiar con tanto ruido. Es difícil. <input type="text" class="blank" data-sol="Es difícil estudiar con tanto ruido" style="width: 37ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">7.</span> <span>No se puede salir con este tiempo. Es imposible. <input type="text" class="blank" data-sol="Es imposible salir con este tiempo" style="width: 36ch" autocomplete="off">.</span></div>
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Complete the sentences with the following verbs in the appropriate form: "amanecer", "anochecer", "haber", "hacer", "nevar", "ser".</p>
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span><input type="text" class="blank blank-example" value="Hizo" style="width: 6ch" readonly tabindex="-1"> bastante frío durante la noche.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">1.</span> <span><input type="text" class="blank" data-sol="Hay" style="width: 5ch" autocomplete="off"> que acostarse temprano. Mañana salimos a las siete.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">2.</span> <span>Ya <input type="text" class="blank" data-sol="hace" style="width: 6ch" autocomplete="off"> dos meses que no voy a la piscina.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">3.</span> <span>—¿A qué hora <input type="text" class="blank" data-sol="anochece" style="width: 10ch" autocomplete="off"> en esta parte de México? —Pronto. A las cinco de la tarde.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">4.</span> <span>Abre la ventana. <input type="text" class="blank" data-sol="Hace" style="width: 6ch" autocomplete="off"> calor.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">5.</span> <span>¿Cuánto tiempo <input type="text" class="blank" data-sol="hace/hacía" style="width: 7ch" autocomplete="off"><span class="alt-hint" hidden></span> que no nos veíamos?</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">6.</span> <span>Hoy <input type="text" class="blank" data-sol="ha nevado" style="width: 11ch" autocomplete="off"> en la sierra. Las cumbres están blancas.</span></div>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span class="item-num">7.</span> <span><input type="text" class="blank" data-sol="Es" style="width: 4ch" autocomplete="off"> temprano. Aún no <input type="text" class="blank" data-sol="hay" style="width: 5ch" autocomplete="off"> luz. En invierno <input type="text" class="blank" data-sol="amanece" style="width: 9ch" autocomplete="off"> muy tarde.</span></div>
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+<p id="resumen"></p>
+<script>
+function norm(s){
+  return (s||'').trim().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fieldOk(f){
+  const sol = f.getAttribute('data-sol');
+  const val = f.value;
+  if (sol === '\u00f8') return val.trim() === '' || norm(val) === norm('\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
+  return norm(val) === norm(sol);
+}
+function checkGroup(btn){
+  const section = btn.closest('.ejercicio');
+  let total = 0, correct = 0;
+  section.querySelectorAll('.item').forEach(item => {
+    const fields = item.querySelectorAll('[data-sol]');
+    let itemOk = true;
+    fields.forEach(f => {
+      const ok = fieldOk(f);
+      f.classList.toggle('ok', ok);
+      f.classList.toggle('bad', !ok);
+      total++;
+      if (ok) { correct++; } else { itemOk = false; }
+    });
+    item.dataset.solved = itemOk ? '1' : '0';
+  });
+  const allok = correct === total;
+  const fb = section.querySelector('.group-feedback');
+  fb.textContent = allok ? ('\u2714 All correct! (' + correct + '/' + total + ')')
+                          : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
+  fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
+  fb.style.display = 'inline';
+  updateResumen();
+}
+function revealGroup(btn){
+  const section = btn.closest('.ejercicio');
+  section.querySelectorAll('[data-sol]').forEach(f => {
+    const sol = f.getAttribute('data-sol');
+    if (f.tagName === 'SELECT') {
+      [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hint = f.nextElementSibling;
+      if (hint && hint.classList.contains('alt-hint')) {
+        hint.textContent = '(' + opciones.join(' or ') + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
+    f.classList.remove('bad'); f.classList.add('ok');
+  });
+}
+function updateResumen(){
+  const total = document.querySelectorAll('.item').length;
+  const solved = document.querySelectorAll('.item[data-solved="1"]').length;
+  const r = document.getElementById('resumen');
+  r.textContent = solved >= total ? ('Done! ' + solved + '/' + total)
+                                   : ('Progress: ' + solved + '/' + total);
+}
+document.addEventListener('DOMContentLoaded', updateResumen);
+</script>
+</body>
+</html>

@@ -1,0 +1,274 @@
+{
+  "tema": "unidad-26",
+  "titulo": "cien, mil, un millón...",
+  "descripcion_gramatical": "Números cardinales (2)",
+  "fuente": "libro",
+  "unidad_libro": 26,
+  "ejercicios": [
+    {
+      "subejercicio": "26.1",
+      "tipologia": "T4",
+      "enunciado": "Transcriba los siguientes números.",
+      "items": [
+        {
+          "texto_enunciado": "(183) _____",
+          "solucion_correcta": [
+            "ciento ochenta y tres"
+          ]
+        },
+        {
+          "texto_enunciado": "(1 070) _____",
+          "solucion_correcta": [
+            "mil setenta"
+          ]
+        },
+        {
+          "texto_enunciado": "(3 561) _____",
+          "solucion_correcta": [
+            "tres mil quinientos sesenta y uno"
+          ]
+        },
+        {
+          "texto_enunciado": "(115,10) _____",
+          "solucion_correcta": [
+            "ciento quince coma diez / ciento quince con diez"
+          ]
+        },
+        {
+          "texto_enunciado": "(1 231 758) _____",
+          "solucion_correcta": [
+            "un millón doscientos treinta y un mil setecientos cincuenta y ocho"
+          ]
+        },
+        {
+          "texto_enunciado": "(3 050 947) _____",
+          "solucion_correcta": [
+            "tres millones cincuenta mil novecientos cuarenta y siete"
+          ]
+        },
+        {
+          "texto_enunciado": "(415,25) _____",
+          "solucion_correcta": [
+            "cuatrocientos quince coma veinticinco / cuatrocientos quince con veinticinco"
+          ]
+        },
+        {
+          "texto_enunciado": "(22 891 604) _____",
+          "solucion_correcta": [
+            "veintidós millones ochocientos noventa y un mil seiscientos cuatro"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "26.2",
+      "tipologia": "T4",
+      "enunciado": "Escriba con letras los siguientes precios.",
+      "items": [
+        {
+          "texto_enunciado": "($ 205) _____",
+          "solucion_correcta": [
+            "Doscientos cinco dólares"
+          ]
+        },
+        {
+          "texto_enunciado": "(€ 301) _____",
+          "solucion_correcta": [
+            "Trescientos un euros"
+          ]
+        },
+        {
+          "texto_enunciado": "(¥ 2 612) _____",
+          "solucion_correcta": [
+            "Dos mil seiscientos doce yenes"
+          ]
+        },
+        {
+          "texto_enunciado": "(€ 83 195) _____",
+          "solucion_correcta": [
+            "Ochenta y tres mil ciento noventa y cinco euros"
+          ]
+        },
+        {
+          "texto_enunciado": "(BRL 568) _____",
+          "solucion_correcta": [
+            "Quinientos sesenta y ocho reales"
+          ]
+        },
+        {
+          "texto_enunciado": "(DKK 1 421) _____",
+          "solucion_correcta": [
+            "Mil cuatrocientas veintiuna coronas danesas"
+          ]
+        },
+        {
+          "texto_enunciado": "(TRL 833) _____",
+          "solucion_correcta": [
+            "Ochocientas treinta y tres liras turcas"
+          ]
+        },
+        {
+          "texto_enunciado": "(MXN 471 950) _____",
+          "solucion_correcta": [
+            "Cuatrocientos setenta y un mil novecientos cincuenta pesos mexicanos"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "vocabulary_box",
+        "datos": [
+          {
+            "simbolo": "$",
+            "equivalencia": "1 $ = un dólar"
+          },
+          {
+            "simbolo": "€",
+            "equivalencia": "1 € = un euro"
+          },
+          {
+            "simbolo": "¥",
+            "equivalencia": "1 ¥ = un yen"
+          },
+          {
+            "simbolo": "BRL",
+            "equivalencia": "1 BRL = un real"
+          },
+          {
+            "simbolo": "DKK",
+            "equivalencia": "1 DKK = una corona danesa"
+          },
+          {
+            "simbolo": "TRL",
+            "equivalencia": "1 TRL = una lira turca"
+          },
+          {
+            "simbolo": "MXN",
+            "equivalencia": "1 MXN = un peso mexicano"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "26.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases escribiendo los números entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "La Habana tiene (2 000 000) _____ de habitantes.",
+          "solucion_correcta": [
+            "dos millones"
+          ]
+        },
+        {
+          "texto_enunciado": "María gana (2 085) _____ euros al mes.",
+          "solucion_correcta": [
+            "dos mil ochenta y cinco"
+          ]
+        },
+        {
+          "texto_enunciado": "Rafael tiene una colección de más de (300) _____ mariposas.",
+          "solucion_correcta": [
+            "trescientas"
+          ]
+        },
+        {
+          "texto_enunciado": "La mujer más vieja del mundo tiene (118) _____ años.",
+          "solucion_correcta": [
+            "ciento dieciocho"
+          ]
+        },
+        {
+          "texto_enunciado": "De Cartagena a Bogotá hay (1 274) _____ kilómetros.",
+          "solucion_correcta": [
+            "mil doscientos setenta y cuatro"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto pesa (108) _____ kilos.",
+          "solucion_correcta": [
+            "ciento ocho"
+          ]
+        },
+        {
+          "texto_enunciado": "Machu Picchu tiene más de (500) _____ años.",
+          "solucion_correcta": [
+            "quinientos"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta televisión cuesta (310) _____ bolívares.",
+          "solucion_correcta": [
+            "trescientos diez"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "26.4",
+      "tipologia": "T2",
+      "enunciado": "Escriba las fechas con palabras.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Veintiuno de enero de mil ochocientos doce"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Dos de mayo de dos mil uno"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Veinticinco de octubre de mil novecientos cincuenta y cuatro"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Treinta y uno de diciembre de dos mil ocho"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "Diez de julio de mil seiscientos trece"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "mes": "enero",
+            "dia": "21",
+            "año": "1812"
+          },
+          {
+            "mes": "mayo",
+            "dia": "2",
+            "año": "2001"
+          },
+          {
+            "mes": "octubre",
+            "dia": "25",
+            "año": "1954"
+          },
+          {
+            "mes": "diciembre",
+            "dia": "31",
+            "año": "2008"
+          },
+          {
+            "mes": "julio",
+            "dia": "10",
+            "año": "1613"
+          }
+        ]
+      }
+    }
+  ]
+}

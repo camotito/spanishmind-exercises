@@ -1,0 +1,218 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "10.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases utilizando las palabras del recuadro y el, la, los, las, al.",
+      "banco_palabras": [
+        "ajedrez",
+        "cartas",
+        "fútbol",
+        "guitarra",
+        "piano",
+        "tenis",
+        "trompeta",
+        "violín"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Santi toca la guitarra."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Elsa toca el violín."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Rosa juega al ajedrez."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Elena toca el piano."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Inés juega al fútbol."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Pepe juega al tenis."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Juan toca la trompeta."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Miguel juega a las cartas."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Santi toca _____."
+        },
+        {
+          "texto_enunciado": "Elsa toca _____."
+        },
+        {
+          "texto_enunciado": "Rosa juega a _____."
+        },
+        {
+          "texto_enunciado": "Elena toca _____."
+        },
+        {
+          "texto_enunciado": "Inés juega a _____."
+        },
+        {
+          "texto_enunciado": "Pepe juega a _____."
+        },
+        {
+          "texto_enunciado": "Juan toca _____."
+        },
+        {
+          "texto_enunciado": "Miguel juega a _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "10.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el, la, los, las, al, del o un, una, unos, unas cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "¡Fuego! Llamad a _____ bomberos."
+        },
+        {
+          "texto_enunciado": "¿Hablas _____ español?"
+        },
+        {
+          "texto_enunciado": "_____ griego no es difícil."
+        },
+        {
+          "texto_enunciado": "Este fin de semana vamos a _____ playa."
+        },
+        {
+          "texto_enunciado": "¿Has escuchado _____ noticias?"
+        },
+        {
+          "texto_enunciado": "Susana estudia _____ Arquitectura."
+        },
+        {
+          "texto_enunciado": "Merche hace _____ gimnasia en el colegio."
+        },
+        {
+          "texto_enunciado": "El padre de Pepe es general de _____ ejército."
+        },
+        {
+          "texto_enunciado": "_____ Historia es una asignatura apasionante."
+        },
+        {
+          "texto_enunciado": "Los Martín tienen una casa en _____ campo."
+        },
+        {
+          "texto_enunciado": "Antonio tiene _____ guitarra eléctrica."
+        },
+        {
+          "texto_enunciado": "He comprado _____ televisión."
+        },
+        {
+          "texto_enunciado": "Escucho _____ radio por las mañanas."
+        },
+        {
+          "texto_enunciado": "¡Un ladrón! Llama a _____ policía."
+        },
+        {
+          "texto_enunciado": "Siempre leo _____ periódico después de desayunar."
+        }
+      ]
+    },
+    {
+      "subejercicio": "10.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras del recuadro y con el, la, al o del si es necesario.",
+      "banco_palabras": [
+        "cárcel",
+        "casa",
+        "colegio",
+        "cine",
+        "correos",
+        "hospital",
+        "médico",
+        "universidad"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una joven entra en la universidad llevando libros."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Dos policías escoltan a un hombre."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Un hombre es transportado en una camilla."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer está sentada en el sofá de su casa."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un hombre lleva varios paquetes y cartas."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Un niño con una mochila sale de un edificio escolar."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Varias personas están ante la entrada de un cine."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Una mujer es examinada por un médico en una consulta."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Va a _____."
+        },
+        {
+          "texto_enunciado": "Va a _____."
+        },
+        {
+          "texto_enunciado": "Lo llevan a _____."
+        },
+        {
+          "texto_enunciado": "Está en _____."
+        },
+        {
+          "texto_enunciado": "Va a _____."
+        },
+        {
+          "texto_enunciado": "Viene de _____."
+        },
+        {
+          "texto_enunciado": "Van a _____."
+        },
+        {
+          "texto_enunciado": "Están en _____."
+        }
+      ]
+    }
+  ],
+  "unidad": 10,
+  "titulo_libro": "tocar la guitarra -- Otros usos del artículo determinado",
+  "scan": "libro-rojo-030.png"
+}

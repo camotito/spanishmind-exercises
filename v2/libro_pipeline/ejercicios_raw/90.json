@@ -1,0 +1,147 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "90.1",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Ponga las órdenes y peticiones en estilo indirecto, comenzando con dice, me ha dicho o me ha pedido.",
+      "items": [
+        {
+          "texto_enunciado": "“¡Que venga Aurora!” (La directora) _____."
+        },
+        {
+          "texto_enunciado": "“¿Me puedes ayudar?” (Raquel) _____."
+        },
+        {
+          "texto_enunciado": "“Escribid más claro.” (El profesor) _____."
+        },
+        {
+          "texto_enunciado": "“Llámame el lunes.” (Roberto) _____."
+        },
+        {
+          "texto_enunciado": "“Llévame unas bolsas a casa, por favor.” (Mi madre) _____."
+        },
+        {
+          "texto_enunciado": "“¿Puedes explicarme esta lección?” (Ramón) _____."
+        }
+      ],
+      "tipologia_libre_original": "Transformación de órdenes y peticiones de estilo directo a estilo indirecto a partir de una persona indicada entre paréntesis."
+    },
+    {
+      "subejercicio": "90.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las respuestas con los verbos del recuadro en el tiempo adecuado.",
+      "banco_palabras": [
+        "aparcar",
+        "dar",
+        "dejar",
+        "ir",
+        "ir",
+        "querer",
+        "traer",
+        "volver"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "–¿Adónde vas, Fede? –El director dice que _____ verme."
+        },
+        {
+          "texto_enunciado": "–¿Qué es eso? –Unos libros. Mar me ha pedido que te los _____."
+        },
+        {
+          "texto_enunciado": "–¿Ya no sales con Paz? –No, me dijo que no _____ a llamarla."
+        },
+        {
+          "texto_enunciado": "–¿Por qué corres? –Dice Marisa que nos _____ prisa, que vamos a llegar tarde."
+        },
+        {
+          "texto_enunciado": "–¿Por qué se enfadó Paco? –Porque me pidió que le _____ la moto y le dije que no."
+        },
+        {
+          "texto_enunciado": "–¿Vienes a la academia? –No, el profesor me dijo que _____ hoy más tarde."
+        },
+        {
+          "texto_enunciado": "–¿Por qué estás tan contenta, Pili? –Porque me han pedido que _____ a Venezuela."
+        },
+        {
+          "texto_enunciado": "–¿Qué te dijo ayer Raúl Torres? –Que no _____ más en su plaza de garaje."
+        }
+      ],
+      "tipologia_libre_original": "Completar diálogos conjugando en el tiempo adecuado los verbos ofrecidos en un recuadro."
+    },
+    {
+      "subejercicio": "90.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las formas del recuadro.",
+      "banco_palabras": [
+        "aconsejado",
+        "advirtió",
+        "exigió",
+        "pedido",
+        "ruego",
+        "sugiere"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Teresa me _____ que no llegaría a tiempo."
+        },
+        {
+          "texto_enunciado": "Alberto me ha _____ que me case con él."
+        },
+        {
+          "texto_enunciado": "Por favor, Lola. Te _____ que me ayudes. Necesito ayuda."
+        },
+        {
+          "texto_enunciado": "Me han _____ que estudie Económicas, pero yo prefiero Derecho."
+        },
+        {
+          "texto_enunciado": "Rosa se indignó con Javier y le _____ que le pidiera disculpas."
+        },
+        {
+          "texto_enunciado": "Luis _____ que cenemos primero y vayamos luego al cine."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases seleccionando las formas verbales ofrecidas en un recuadro."
+    },
+    {
+      "subejercicio": "90.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con las expresiones del recuadro.",
+      "banco_palabras": [
+        "callarse",
+        "cuidar a los niños",
+        "hacer una excursión",
+        "hacer horas extras",
+        "ir al médico",
+        "no decir nada"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "–Tienes mala cara, Pedro. –Sí, lo sé. Me han aconsejado _____."
+        },
+        {
+          "texto_enunciado": "–¿Por qué estás enfadado? –El jefe me ha pedido _____."
+        },
+        {
+          "texto_enunciado": "–¿Por qué estabas en casa de Nico el sábado? –Me había pedido _____."
+        },
+        {
+          "texto_enunciado": "Te ruego _____. Estoy intentando estudiar."
+        },
+        {
+          "texto_enunciado": "–¿Qué podemos hacer el sábado? –Luis sugiere _____."
+        },
+        {
+          "texto_enunciado": "–¿Qué le pasó a Lucía el otro día? –No puedo decírtelo. Me rogó _____."
+        }
+      ],
+      "tipologia_libre_original": "Completar diálogos transformando y usando las expresiones ofrecidas en un recuadro."
+    }
+  ],
+  "unidad": 90,
+  "titulo_libro": "Me pidió que le ayudara -- Estilo indirecto (3)",
+  "scan": "libro-rojo-190.png"
+}

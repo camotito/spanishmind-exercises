@@ -1,0 +1,184 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "11.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el, la, los, las o uno, una, unos, unas y los adjetivos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué zapatos prefieres, (negro, blanco) _____ o _____?"
+        },
+        {
+          "texto_enunciado": "—¿Qué tipo de cuaderno quiere? —(pequeño) _____."
+        },
+        {
+          "texto_enunciado": "—¿Te gustan estos sombreros? —(negro, marrón) Me gusta _____, pero no _____."
+        },
+        {
+          "texto_enunciado": "—¿Qué pantalones prefieres? —(rojo) _____. (blanco) _____ son muy caros."
+        },
+        {
+          "texto_enunciado": "¿Ves a esas dos chicas? (alto) _____ es Marta."
+        },
+        {
+          "texto_enunciado": "—¿Qué tipo de libro quieres leer? —(entretenido) _____."
+        },
+        {
+          "texto_enunciado": "¿Qué manzanas prefiere, (verde) _____ o (rojo) _____?"
+        },
+        {
+          "texto_enunciado": "Esta taza está sucia. Dame (limpio) _____, por favor."
+        },
+        {
+          "texto_enunciado": "—¿Qué clase de cámara quiere? —Quiero (bueno) _____, aunque sea cara."
+        },
+        {
+          "texto_enunciado": "—¿Tienes ordenador? —Sí, tengo (portátil) _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "11.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases con el, la, los o las, con de y con las palabras dadas.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Dos personas observan unas gafas situadas a la derecha y a la izquierda de un escaparate.",
+            "palabras_dadas": [
+              "derecha",
+              "izquierda"
+            ]
+          },
+          {
+            "numero": "2",
+            "descripcion": "Varias personas están reunidas y una flecha señala a Alberto, que se distingue por la longitud de su pelo.",
+            "palabras_dadas": [
+              "pelo corto",
+              "pelo largo"
+            ]
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos personas observan dos esculturas situadas a la derecha y a la izquierda en una exposición de escultura.",
+            "palabras_dadas": [
+              "derecha",
+              "izquierda"
+            ]
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una persona elige entre galletas de chocolate y galletas de coco.",
+            "palabras_dadas": [
+              "chocolate",
+              "coco"
+            ]
+          },
+          {
+            "numero": "5",
+            "descripcion": "Se ven dos mujeres, una con falda corta y otra con falda larga, mientras preguntan quién es Rosi.",
+            "palabras_dadas": [
+              "falda corta",
+              "falda larga"
+            ]
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una persona elige entre zapatos colocados abajo y zapatos colocados arriba en un expositor.",
+            "palabras_dadas": [
+              "abajo",
+              "arriba"
+            ]
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mujer muestra dos libros, uno de José Crespo y otro de Sandra Arenas.",
+            "palabras_dadas": [
+              "José Crespo",
+              "Sandra Arenas"
+            ]
+          },
+          {
+            "numero": "8",
+            "descripcion": "Se ven dos hombres, uno con barba y otro con bigote, mientras una persona pregunta cuál es el padre de otra.",
+            "palabras_dadas": [
+              "barba",
+              "bigote"
+            ]
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "—¿Qué gafas le gustan? —_____."
+        },
+        {
+          "texto_enunciado": "—¿Quién es Alberto? —_____."
+        },
+        {
+          "texto_enunciado": "Me gusta más _____."
+        },
+        {
+          "texto_enunciado": "—¿Qué galletas te gustan más? —_____."
+        },
+        {
+          "texto_enunciado": "—¿Quién es Rosi? —_____."
+        },
+        {
+          "texto_enunciado": "—¿Qué zapatos le gustan más? —_____."
+        },
+        {
+          "texto_enunciado": "Quiero _____."
+        },
+        {
+          "texto_enunciado": "—¿Cuál es tu padre? —_____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "11.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el, la, los, las o lo y los adjetivos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué es (mejor) _____ de Cuba?"
+        },
+        {
+          "texto_enunciado": "¿Qué naranjas prefiere, (caro, barato) _____ o _____?"
+        },
+        {
+          "texto_enunciado": "No me gusta (amargo) _____."
+        },
+        {
+          "texto_enunciado": "(barato) _____ es siempre caro."
+        },
+        {
+          "texto_enunciado": "¿Veis a aquel grupo de chicas? Mis hermanas son (moreno) _____."
+        },
+        {
+          "texto_enunciado": "(importante) _____ es ser feliz."
+        },
+        {
+          "texto_enunciado": "(malo) _____ del invierno es el frío."
+        },
+        {
+          "texto_enunciado": "¿Qué pendientes te gustan más, (largo, corto) _____ o _____?"
+        },
+        {
+          "texto_enunciado": "—¿Qué coche es el tuyo? —(pequeño) _____."
+        },
+        {
+          "texto_enunciado": "(pequeño) _____ es hermoso."
+        }
+      ]
+    }
+  ],
+  "unidad": 11,
+  "titulo_libro": "el rojo, uno rojo -- Omisión del nombre",
+  "scan": "libro-rojo-032.png"
+}

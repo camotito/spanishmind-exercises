@@ -1,0 +1,233 @@
+{
+  "tema": "unidad-19",
+  "titulo": "mío, tuyo, suyo...",
+  "descripcion_gramatical": "Posesivos (2)",
+  "fuente": "libro",
+  "unidad_libro": 19,
+  "ejercicios": [
+    {
+      "subejercicio": "19.1",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "¿De quién son estas llaves? Son _____.",
+          "solucion_correcta": [
+            "mías"
+          ]
+        },
+        {
+          "texto_enunciado": "¿De quién es este libro? Es _____.",
+          "solucion_correcta": [
+            "mío"
+          ]
+        },
+        {
+          "texto_enunciado": "¿De quién es este paraguas? Es _____.",
+          "solucion_correcta": [
+            "suyo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿De quién son estos CD? Son _____.",
+          "solucion_correcta": [
+            "nuestros"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Son _____ estos libros?",
+          "solucion_correcta": [
+            "vuestros"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Son _____ estas maletas?",
+          "solucion_correcta": [
+            "suyas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Es _____ este reloj?",
+          "solucion_correcta": [
+            "tuyo/suyo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Es _____ esta bufanda?",
+          "solucion_correcta": [
+            "suya"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "objeto": "llaves",
+            "escena": "Una persona sostiene unas llaves y otra persona se señala a sí misma."
+          },
+          {
+            "numero": "2",
+            "objeto": "libro",
+            "escena": "Una persona muestra un libro y una mujer se señala a sí misma."
+          },
+          {
+            "numero": "3",
+            "objeto": "paraguas",
+            "escena": "Una persona sostiene un paraguas y señala a una mujer."
+          },
+          {
+            "numero": "4",
+            "objeto": "CD",
+            "escena": "Una persona sostiene un CD delante de varias personas."
+          },
+          {
+            "numero": "5",
+            "objeto": "libros",
+            "escena": "Un hombre sostiene unos libros y habla con otros dos hombres."
+          },
+          {
+            "numero": "6",
+            "objeto": "maletas",
+            "escena": "Varias personas conversan junto a unas maletas."
+          },
+          {
+            "numero": "7",
+            "objeto": "reloj",
+            "escena": "Una mujer muestra un reloj a un hombre."
+          },
+          {
+            "numero": "8",
+            "objeto": "bufanda",
+            "escena": "Un hombre sostiene una bufanda delante de otras dos personas."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "19.2",
+      "tipologia": "T3",
+      "enunciado": "Escriba el mío, la tuya, los suyos... según corresponda en las siguientes frases.",
+      "items": [
+        {
+          "texto_enunciado": "Estas llaves no son mías. _____ son más pequeñas.",
+          "solucion_correcta": [
+            "Las mías"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Es ese vuestro coche? –No, _____ es más grande.",
+          "solucion_correcta": [
+            "el nuestro"
+          ]
+        },
+        {
+          "texto_enunciado": "Este abrigo no es de Pedro. _____ es azul.",
+          "solucion_correcta": [
+            "El suyo"
+          ]
+        },
+        {
+          "texto_enunciado": "–Perdona, ¿es éste mi asiento? –No, _____ está más atrás.",
+          "solucion_correcta": [
+            "el tuyo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Es ese nuestro profesor? –No, _____ es mayor.",
+          "solucion_correcta": [
+            "el nuestro / el vuestro"
+          ]
+        },
+        {
+          "texto_enunciado": "–Mi deporte preferido es el fútbol. ¿Y _____? –_____ es el esquí.",
+          "solucion_correcta": [
+            "el tuyo",
+            "El mío"
+          ]
+        },
+        {
+          "texto_enunciado": "–Mis hijos practican muchos deportes. ¿Y _____, Manuel? –_____ juegan al tenis.",
+          "solucion_correcta": [
+            "los tuyos",
+            "Los míos"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Son esos los padres de Arturo? –No, _____ son más jóvenes.",
+          "solucion_correcta": [
+            "los suyos"
+          ]
+        },
+        {
+          "texto_enunciado": "–Mi profesora es peruana. –_____ es argentina.",
+          "solucion_correcta": [
+            "La mía"
+          ]
+        },
+        {
+          "texto_enunciado": "–Nuestros hijos son muy trabajadores. –_____ son un poco vagos.",
+          "solucion_correcta": [
+            "Los nuestros / Los míos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "19.3",
+      "tipologia": "T4",
+      "enunciado": "Complete con mío, tuyo, suyo... y un, una, unos o unas si es necesario.",
+      "items": [
+        {
+          "texto_enunciado": "(amigo, yo) _____ es pintor.",
+          "solucion_correcta": [
+            "Un amigo mío"
+          ]
+        },
+        {
+          "texto_enunciado": "(amiga, yo) _____ ha ganado un premio.",
+          "solucion_correcta": [
+            "Una amiga mía"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer estuve con (primo, vosotros) _____.",
+          "solucion_correcta": [
+            "un primo vuestro"
+          ]
+        },
+        {
+          "texto_enunciado": "El director del banco es (amigo, ellos) _____.",
+          "solucion_correcta": [
+            "amigo suyo"
+          ]
+        },
+        {
+          "texto_enunciado": "Raquel es (prima, nosotros) _____.",
+          "solucion_correcta": [
+            "prima nuestra"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Es Alicia (tía, tú) _____?",
+          "solucion_correcta": [
+            "tía tuya"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Conocéis a Mariano? –Sí, es (amigo, nosotros) _____.",
+          "solucion_correcta": [
+            "amigo nuestro"
+          ]
+        },
+        {
+          "texto_enunciado": "El domingo conocimos a (familiares, ustedes) _____.",
+          "solucion_correcta": [
+            "unos familiares suyos"
+          ]
+        }
+      ]
+    }
+  ]
+}

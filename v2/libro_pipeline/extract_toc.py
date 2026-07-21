@@ -14,8 +14,9 @@ porque la pagina de ejercicios es la siguiente a la de teoria que lista el
 indice, y pagina_impresa = scan_index - 1).
 
 Uso:
-    export GEMINI_API_KEY="tu-key"
+    export OPENAI_API_KEY="tu-key"
     python3 extract_toc.py [--start 4] [--end 13]
+    python3 extract_toc.py --provider gemini  # comparar con Gemini
 
 Salida: v2/libro_pipeline/mapa_unidades.json
 """
@@ -25,11 +26,11 @@ import json
 import os
 import re
 
-from gemini_client import GeminiVisionClient
+from openai_client import InsufficientQuotaError
+from providers import DEFAULT_PROVIDER, build_client
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 LIBRO_DIR = os.path.join(HERE, "..", "..", "libro")
-CHECKPOINT_PATH = os.path.join(HERE, ".estado_toc.json")
 OUT_PATH = os.path.join(HERE, "mapa_unidades.json")
 
 SCAN_NAME_RE = re.compile(r"^libro-rojo-(\d{3})\.png$")
@@ -80,10 +81,13 @@ def main():
     parser = argparse.ArgumentParser(description="Extrae el indice del libro via Gemini vision")
     parser.add_argument("--start", type=int, default=4, help="primer scan candidato a indice (default 4)")
     parser.add_argument("--end", type=int, default=13, help="ultimo scan candidato a indice, inclusive (default 13)")
+    parser.add_argument("--provider", choices=["gemini", "openai"], default=DEFAULT_PROVIDER)
+    parser.add_argument("--model", default=None, help="override del modelo (default: el de cada proveedor)")
     args = parser.parse_args()
 
     disponibles = set(available_scan_indices())
-    client = GeminiVisionClient(checkpoint_path=CHECKPOINT_PATH)
+    checkpoint_path = os.path.join(HERE, f".estado_toc_{args.provider}.json")
+    client = build_client(args.provider, checkpoint_path, model=args.model)
 
     unidades = {}
     secciones = {}
@@ -109,7 +113,10 @@ def main():
         print(f"→ libro-rojo-{scan_index:03d}.png")
         try:
             raw = client.call(path, TOC_PROMPT)
-            data = json.loads(raw)
+            data = json.loads(raw, strict=False)  # el modelo a veces mete saltos de linea literales en strings
+        except InsufficientQuotaError as e:
+            print(f"\n🛑 {e}\nParando aqui (se guarda el progreso acumulado) -- relanza el mismo comando cuando haya saldo.")
+            break
         except Exception as e:
             print(f"  ⚠️  fallo procesando {scan_index:03d}: {e}")
             client.mark_failed(key, e)

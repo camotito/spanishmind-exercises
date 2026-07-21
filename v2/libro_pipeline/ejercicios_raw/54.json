@@ -1,0 +1,168 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "54.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases con los verbos del recuadro.",
+      "banco_palabras": [
+        "bañar",
+        "bañarse",
+        "despertar",
+        "despertarse",
+        "lavar",
+        "lavarse",
+        "manchar",
+        "mancharse"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Raúl lava coches."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un hombre come espaguetis y se mancha la camisa."
+          },
+          {
+            "numero": "3",
+            "descripcion": "María despierta a los niños en la cama."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre baña a los niños."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una persona se lava los dientes."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Lucas mancha los cuadernos."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Unas personas se bañan en el mar."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Una mujer se despierta tarde."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Raúl _____ coches."
+        },
+        {
+          "texto_enunciado": "Siempre _____ la camisa."
+        },
+        {
+          "texto_enunciado": "María _____ a los niños a las ocho."
+        },
+        {
+          "texto_enunciado": "_____ a los niños todas las noches."
+        },
+        {
+          "texto_enunciado": "_____ los dientes antes de acostarme."
+        },
+        {
+          "texto_enunciado": "Lucas _____ mucho los cuadernos."
+        },
+        {
+          "texto_enunciado": "En verano _____ en el mar."
+        },
+        {
+          "texto_enunciado": "Los domingos _____ tarde."
+        }
+      ]
+    },
+    {
+      "subejercicio": "54.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro.",
+      "banco_palabras": [
+        "aburrirse",
+        "acostar",
+        "acostarse",
+        "divertir",
+        "lavar",
+        "lavarse",
+        "mirarse",
+        "vestir",
+        "vestirse"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Felipe _____ viendo la tele."
+        },
+        {
+          "texto_enunciado": "(yo) _____ las manos antes de las comidas."
+        },
+        {
+          "texto_enunciado": "Clara _____ a los niños después de desayunar y después _____ ella."
+        },
+        {
+          "texto_enunciado": "(yo) _____ muy tarde los sábados por la noche."
+        },
+        {
+          "texto_enunciado": "Alicia _____ las blusas a mano."
+        },
+        {
+          "texto_enunciado": "Juan _____ a sus hijos a las diez de la noche."
+        },
+        {
+          "texto_enunciado": "Miguel _____ mucho en el espejo."
+        },
+        {
+          "texto_enunciado": "Los payasos _____ a los niños."
+        }
+      ],
+      "tipologia_libre_original": "Completar frases conjugando los verbos de un recuadro y eligiendo entre sus formas reflexivas y no reflexivas."
+    },
+    {
+      "subejercicio": "54.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "(Llamo/Me llamo) Andrés."
+        },
+        {
+          "texto_enunciado": "Tania siempre (despide/se despide) con un beso."
+        },
+        {
+          "texto_enunciado": "¿A quién (pareces/te pareces), a tu padre o a tu madre?"
+        },
+        {
+          "texto_enunciado": "(Vamos/Nos vamos) al cine dos veces al mes."
+        },
+        {
+          "texto_enunciado": "Rita (parece/se parece) muy amable."
+        },
+        {
+          "texto_enunciado": "¡Hasta luego! (Vamos/Nos vamos) al cine."
+        },
+        {
+          "texto_enunciado": "Anoche (encontré/me encontré) con Marina en la discoteca."
+        },
+        {
+          "texto_enunciado": "No (encuentro/me encuentro) mis gafas."
+        },
+        {
+          "texto_enunciado": "¿Cuántas horas (duermes/te duermes) al día?"
+        },
+        {
+          "texto_enunciado": "Siempre (dejo/me dejo) las llaves en casa."
+        }
+      ]
+    }
+  ],
+  "unidad": 54,
+  "titulo_libro": "me lavo / lavo -- Contraste entre verbos con y sin me, te, se...",
+  "scan": "libro-rojo-118.png"
+}

@@ -1,0 +1,176 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "5.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases con las palabras del recuadro.",
+      "banco_palabras": [
+        "abogada",
+        "actriz",
+        "camarera",
+        "cocinero",
+        "estudiante",
+        "fotógrafo",
+        "médico",
+        "profesora"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "nombre": "Eva",
+            "descripcion": "Mujer vista de perfil."
+          },
+          {
+            "numero": "2",
+            "nombre": "José Luis",
+            "descripcion": "Hombre utilizando una cámara fotográfica."
+          },
+          {
+            "numero": "3",
+            "nombre": "Mar",
+            "descripcion": "Mujer con sombrero y gafas de sol que saluda."
+          },
+          {
+            "numero": "4",
+            "nombre": "Félix",
+            "descripcion": "Hombre joven con una mochila y material de estudio."
+          },
+          {
+            "numero": "5",
+            "nombre": "Roberto",
+            "descripcion": "Hombre con gafas y un estetoscopio."
+          },
+          {
+            "numero": "6",
+            "nombre": "Adrián",
+            "descripcion": "Hombre con gorro de cocina."
+          },
+          {
+            "numero": "7",
+            "nombre": "Eloísa",
+            "descripcion": "Mujer que lleva una bandeja con bebidas."
+          },
+          {
+            "numero": "8",
+            "nombre": "Leonor",
+            "descripcion": "Mujer con gafas junto a una pizarra."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Eva es _____."
+        },
+        {
+          "texto_enunciado": "José Luis es _____."
+        },
+        {
+          "texto_enunciado": "Mar es _____."
+        },
+        {
+          "texto_enunciado": "Félix es _____."
+        },
+        {
+          "texto_enunciado": "Roberto es _____."
+        },
+        {
+          "texto_enunciado": "Adrián es _____."
+        },
+        {
+          "texto_enunciado": "Eloísa es _____."
+        },
+        {
+          "texto_enunciado": "Leonor es _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "5.2",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Quién es Luis Miguel? —Es (cantante/un cantante); es (mexicano/un mexicano)."
+        },
+        {
+          "texto_enunciado": "La doctora Ramírez es (médica/una médica) buenísima; es (argentina/una argentina)."
+        },
+        {
+          "texto_enunciado": "El marido de Luisa es (abogado/un abogado). Es (abogado/un abogado) muy caro."
+        },
+        {
+          "texto_enunciado": "Tomás se ha hecho (musulmán/un musulmán)."
+        },
+        {
+          "texto_enunciado": "Los tíos de Andrea son (protestantes/unos protestantes)."
+        },
+        {
+          "texto_enunciado": "El hermano de Patricio es (actor/un actor) famoso."
+        },
+        {
+          "texto_enunciado": "—¿Quién es Vargas Llosa? —Es (escritor/un escritor); es (peruano/un peruano)."
+        },
+        {
+          "texto_enunciado": "Alberto y Lola son (estudiantes/unos estudiantes). Son (socialistas/unos socialistas)."
+        },
+        {
+          "texto_enunciado": "Sarita quiere ser (bailarina/una bailarina)."
+        },
+        {
+          "texto_enunciado": "García Márquez es (escritor/un escritor) de éxito."
+        }
+      ]
+    },
+    {
+      "subejercicio": "5.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con un, una, unos, unas cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Comes _____ carne? —No, soy _____ vegetariano."
+        },
+        {
+          "texto_enunciado": "Colecciono _____ monedas. Ayer me compré _____ monedas chinas."
+        },
+        {
+          "texto_enunciado": "Alberto tiene _____ apartamento en Benidorm."
+        },
+        {
+          "texto_enunciado": "—¿Tomas _____ café? —Solo _____ taza al día."
+        },
+        {
+          "texto_enunciado": "—¿Azúcar? —Gracias, no tomo _____ azúcar."
+        },
+        {
+          "texto_enunciado": "¿Tenéis _____ hijos?"
+        },
+        {
+          "texto_enunciado": "Chelo canta _____ ópera."
+        },
+        {
+          "texto_enunciado": "Ernesto es _____ músico. Escribe _____ canciones."
+        },
+        {
+          "texto_enunciado": "¿Necesitas _____ dinero?"
+        },
+        {
+          "texto_enunciado": "—¿Quieres _____ queso? —No, gracias; es _____ queso muy fuerte."
+        },
+        {
+          "texto_enunciado": "Carolina es _____ vendedora. Vende _____ enciclopedias."
+        },
+        {
+          "texto_enunciado": "¿Tienes _____ hermanos?"
+        }
+      ]
+    }
+  ],
+  "unidad": 5,
+  "titulo_libro": "un coche / coche -- Ausencia de artículo",
+  "scan": "libro-rojo-020.png"
+}

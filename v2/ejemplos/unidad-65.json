@@ -1,0 +1,207 @@
+{
+  "tema": "unidad-65",
+  "titulo": "estaba trabajando / trabajé",
+  "descripcion_gramatical": "estaba + gerundio y contraste con el pretérito indefinido",
+  "fuente": "libro",
+  "unidad_libro": 65,
+  "ejercicios": [
+    {
+      "subejercicio": "65.1",
+      "tipologia": "T2",
+      "enunciado": "Ayer a las 6 de la tarde hubo un accidente en un cruce de calles. La policía preguntó a varios testigos. Observe las ilustraciones y escriba sus respuestas. Utilice las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "RICARDO: No vi nada. En ese momento _____.",
+          "solucion_correcta": [
+            "Estaba comprando el periódico"
+          ]
+        },
+        {
+          "texto_enunciado": "MAR: Mi novio y yo lo vimos todo. _____.",
+          "solucion_correcta": [
+            "Estábamos esperando el autobús"
+          ]
+        },
+        {
+          "texto_enunciado": "SAMUEL: Mi novia y yo no vimos nada. Ella _____ y yo _____.",
+          "solucion_correcta": [
+            "estaba hablando por teléfono",
+            "estaba leyendo el periódico"
+          ]
+        },
+        {
+          "texto_enunciado": "SR. MÁRQUEZ: Mi mujer y yo no vimos nada. _____.",
+          "solucion_correcta": [
+            "Estábamos mirando un escaparate"
+          ]
+        },
+        {
+          "texto_enunciado": "TOMÁS: Lo vi todo. En ese momento _____.",
+          "solucion_correcta": [
+            "estaba cruzando la calle"
+          ]
+        },
+        {
+          "texto_enunciado": "MAITE: No vimos nada. Mis padres _____ y yo _____.",
+          "solucion_correcta": [
+            "estaban aparcando",
+            "estaba echando una carta"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "aparcar",
+        "comprar el periódico",
+        "cruzar la calle",
+        "echar una carta",
+        "esperar el autobús",
+        "hablar por teléfono",
+        "leer el periódico",
+        "mirar un escaparate"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "nombre": "Ricardo",
+            "hora": "12.10",
+            "descripcion": "Ricardo está ante un quiosco con un periódico."
+          },
+          {
+            "numero": "2",
+            "nombre": "Mar",
+            "hora": "12.10",
+            "descripcion": "Mar y su novio están en una parada de autobús."
+          },
+          {
+            "numero": "3",
+            "nombre": "Samuel",
+            "hora": "12.10",
+            "descripcion": "Samuel está leyendo un periódico y su novia mira un escaparate."
+          },
+          {
+            "numero": "4",
+            "nombre": "Sr. Márquez",
+            "hora": "12.10",
+            "descripcion": "El Sr. Márquez y su mujer están junto a un buzón."
+          },
+          {
+            "numero": "5",
+            "nombre": "Tomás",
+            "hora": "12.10",
+            "descripcion": "Tomás está cruzando la calle."
+          },
+          {
+            "numero": "6",
+            "nombre": "Maite",
+            "hora": "12.10",
+            "descripcion": "Maite habla por teléfono mientras sus padres están en un coche."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "65.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con estaba + gerundio o el pretérito indefinido.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando me (ver) _____ Sofía, (hablar) _____ con unas amigas.",
+          "solucion_correcta": [
+            "vio",
+            "estaba hablando"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué (tú, hacer) _____ cuando (apagarse) _____ la luz.",
+          "solucion_correcta": [
+            "Estabas haciendo",
+            "se apagó"
+          ]
+        },
+        {
+          "texto_enunciado": "La clase (empezar) _____ cuando (nosotros, llegar) _____.",
+          "solucion_correcta": [
+            "empezó",
+            "llegamos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Nevar) _____ cuando (usted, salir) _____?",
+          "solucion_correcta": [
+            "Estaba nevando",
+            "(usted) salió"
+          ]
+        },
+        {
+          "texto_enunciado": "Pedrito (caerse) _____ y (romperse) _____ una pierna cuando (jugar) _____ al fútbol.",
+          "solucion_correcta": [
+            "se cayó",
+            "se rompió",
+            "estaba jugando"
+          ]
+        },
+        {
+          "texto_enunciado": "(Yo, ducharse) _____ cuando (sonar) _____ el teléfono.",
+          "solucion_correcta": [
+            "Estaba duchándome",
+            "sonó"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (llegar) _____ el jefe, (irse) _____ Fina y Celia.",
+          "solucion_correcta": [
+            "llegó",
+            "se fueron"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "65.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta en cada caso.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Qué te (pasaba/estaba pasando) anoche? —(Tenía/Estaba teniendo) mucho sueño.",
+          "solucion_correcta": [
+            "pasaba",
+            "Tenía"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Adónde (ibas/estabas yendo) ayer cuando te vio Tere?",
+          "solucion_correcta": [
+            "ibas"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Dónde estaban tus hermanas la semana pasada? —(Viajaban/Estaban viajando) por Argentina.",
+          "solucion_correcta": [
+            "Estaban viajando"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando nos encontramos con Nacho, (llevaba/estaba llevando) un poncho chileno muy bonito. (Parecía/Estaba pareciendo) un mapuche.",
+          "solucion_correcta": [
+            "llevaba",
+            "Parecía"
+          ]
+        },
+        {
+          "texto_enunciado": "¿De dónde (venían/estaban viniendo) cuando tuvieron el accidente?",
+          "solucion_correcta": [
+            "venían"
+          ]
+        },
+        {
+          "texto_enunciado": "Fui a ver a Anita porque (necesitaba/estaba necesitando) su ayuda.",
+          "solucion_correcta": [
+            "necesitaba"
+          ]
+        }
+      ]
+    }
+  ]
+}

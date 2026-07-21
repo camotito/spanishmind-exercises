@@ -1,0 +1,211 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "112.1",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Ordene las palabras para formar frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "un bar / hay / el cine / frente a _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "el suelo / los cables / debajo de / van _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "una estación de metro / mi casa / hay / cerca de _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "se sienta / junto a / Alfonso / mí _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "el televisor / no pongas / encima de / nada _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "te espero / el hotel / frente a _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Ordenación de grupos de palabras separados por barras para formar una frase completa, realizando los cambios gramaticales necesarios. Cada ítem presenta los segmentos desordenados y una línea para escribir la oración resultante."
+    },
+    {
+      "subejercicio": "112.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe las ilustraciones y complete las frases. Haga los cambios necesarios.",
+      "banco_palabras": [
+        "alrededor de",
+        "debajo de",
+        "delante de",
+        "dentro de",
+        "detrás de",
+        "encima de",
+        "fuera de",
+        "frente a",
+        "junto a",
+        "lejos de"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un banco situado al lado de un cine."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un museo rodeado de muchos árboles."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Unas zapatillas situadas debajo de una cama."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un parque con columpios situado delante de un colegio."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una estación situada frente a un hospital."
+          },
+          {
+            "numero": "6",
+            "descripcion": "La Tierra y Saturno aparecen muy separados."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una mosca dentro de una botella."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un cartón de leche situado fuera de una nevera abierta."
+          },
+          {
+            "numero": "9",
+            "descripcion": "Un coche situado delante de una tienda."
+          },
+          {
+            "numero": "10",
+            "descripcion": "Una fotografía colocada encima de una mesa."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Hay un banco (cine) _____.",
+          "estimulo_visual": "dibujo de un banco situado al lado de un cine"
+        },
+        {
+          "texto_enunciado": "Hay muchos árboles (museo) _____.",
+          "estimulo_visual": "dibujo de un museo rodeado de muchos árboles"
+        },
+        {
+          "texto_enunciado": "Las zapatillas están (cama) _____.",
+          "estimulo_visual": "dibujo de unas zapatillas situadas debajo de una cama"
+        },
+        {
+          "texto_enunciado": "Hay un parque (colegio) _____.",
+          "estimulo_visual": "dibujo de un parque con columpios situado delante de un colegio"
+        },
+        {
+          "texto_enunciado": "La estación está (hospital) _____.",
+          "estimulo_visual": "dibujo de una estación situada frente a un hospital"
+        },
+        {
+          "texto_enunciado": "Saturno está (Tierra) _____.",
+          "estimulo_visual": "dibujo de la Tierra y Saturno muy separados"
+        },
+        {
+          "texto_enunciado": "Hay una mosca (botella) _____.",
+          "estimulo_visual": "dibujo de una mosca dentro de una botella"
+        },
+        {
+          "texto_enunciado": "Se han dejado la leche (nevera) _____.",
+          "estimulo_visual": "dibujo de un cartón de leche situado fuera de una nevera abierta"
+        },
+        {
+          "texto_enunciado": "He dejado el coche (tienda) _____.",
+          "estimulo_visual": "dibujo de un coche situado delante de una tienda"
+        },
+        {
+          "texto_enunciado": "Tengo una foto (mesa) _____.",
+          "estimulo_visual": "dibujo de una fotografía colocada encima de una mesa"
+        }
+      ]
+    },
+    {
+      "subejercicio": "112.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las preposiciones del recuadro.",
+      "banco_palabras": [
+        "alrededor de",
+        "cerca de",
+        "debajo de",
+        "delante de",
+        "dentro de",
+        "detrás de",
+        "encima de",
+        "enfrente de",
+        "fuera de",
+        "junto a",
+        "lejos de"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "No podemos ir andando a la playa. Está _____ aquí.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La cola es muy larga. Hay casi cien personas _____ nosotros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eduardo no se sienta nunca _____ Cristina.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No hace falta ir en coche. El cine está _____ mi casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las tijeras están _____ uno de esos cajones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Trae mala suerte pasar por _____ una escalera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por favor, no pongáis los pies _____ la mesa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay una parada de autobús justo _____ mi casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ponte _____ mí. Yo he llegado primero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En las fiestas colocan puestos _____ la plaza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Deja el paraguas _____ la casa.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar frases seleccionando para cada hueco una preposición o locución prepositiva de un recuadro compartido. El banco contiene once expresiones y cada frase tiene un único hueco."
+    }
+  ],
+  "unidad": 112,
+  "titulo_libro": "encima de la mesa, dentro de la caja... -- Preposiciones (3)",
+  "scan": "libro-rojo-234.png"
+}

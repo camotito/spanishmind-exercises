@@ -1,0 +1,187 @@
+{
+  "tema": "unidad-89",
+  "titulo": "Me preguntó dónde vivía",
+  "descripcion_gramatical": "Estilo indirecto (2)",
+  "fuente": "libro",
+  "unidad_libro": 89,
+  "ejercicios": [
+    {
+      "subejercicio": "89.1",
+      "tipologia": "T12",
+      "enunciado": "Complete los mensajes del contestador automático. Use quiero saber.",
+      "items": [
+        {
+          "texto_enunciado": "(Raquel a Patricia: ¿Dónde ha comprado el libro sobre Cuba?) _____.",
+          "solucion_correcta": [
+            "Patricia, soy Raquel. Quiero saber dónde has comprado el libro sobre Cuba"
+          ]
+        },
+        {
+          "texto_enunciado": "(Su padre a Fermín: ¿Cuándo le va a devolver el coche?) _____.",
+          "solucion_correcta": [
+            "Fermín, soy papá. Quiero saber cuándo me vas a devolver el coche"
+          ]
+        },
+        {
+          "texto_enunciado": "(Ernesto a Susana: ¿Va a venir al concierto esta noche?) _____.",
+          "solucion_correcta": [
+            "Susana, soy Ernesto. Quiero saber si vas a venir al concierto esta noche"
+          ]
+        },
+        {
+          "texto_enunciado": "(Fede a Toni: ¿Dónde vive Laura?) _____.",
+          "solucion_correcta": [
+            "Toni, soy Fede. Quiero saber dónde vive Laura"
+          ]
+        },
+        {
+          "texto_enunciado": "(Ismael a su madre: ¿Puede cuidar a los niños esta noche?) _____.",
+          "solucion_correcta": [
+            "Mamá, soy Ismael. Quiero saber si puedes cuidar a los niños esta noche"
+          ]
+        },
+        {
+          "texto_enunciado": "(Lolo a Ana: ¿Está ocupada el sábado?) _____.",
+          "solucion_correcta": [
+            "Ana, soy Lolo. Quiero saber si estás ocupada el sábado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "89.2",
+      "tipologia": "T12",
+      "enunciado": "Complete las frases con el verbo entre paréntesis en el tiempo más adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "El domingo vi a Carlos y le pregunté (“¿Tienes novia?”) _____.",
+          "solucion_correcta": [
+            "si tenía novia"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer me llamó Jesús. Quería saber (“¿Cuándo lo vas a llamar?”) _____.",
+          "solucion_correcta": [
+            "cuándo lo ibas a llamar"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace unos días me llamó Ana. Quería saber (“¿Qué hace Ramón?”) _____.",
+          "solucion_correcta": [
+            "qué hacía Ramón"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer vi a Lola. Me preguntó (“¿Qué vais a hacer este verano?”) _____.",
+          "solucion_correcta": [
+            "qué íbamos a hacer este verano"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta mañana llamó Alberto. Quería saber (“¿Os gustaría salir el sábado?”) _____.",
+          "solucion_correcta": [
+            "si nos gustaría salir el sábado"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer tuve carta de Ángela. Quería saber (“¿Por qué has dejado el trabajo?”) _____.",
+          "solucion_correcta": [
+            "por qué había dejado el trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "El lunes llamé al administrador para preguntarle (“¿Quién pagará el arreglo de la cocina?”) _____.",
+          "solucion_correcta": [
+            "quién pagaría/pagará el arreglo de la cocina"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer tuvimos una llamada de la policía. Querían saber (“¿Han visto a alguien sospechoso por el barrio?”) _____.",
+          "solucion_correcta": [
+            "si habíamos visto a alguien sospechoso por el barrio"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta mañana me preguntó Luisa (“¿Te llamó Ángel anoche?”) _____.",
+          "solucion_correcta": [
+            "si Ángel me había llamado anoche"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer le pregunté a Adolfo (“¿Dónde conociste a Silvia?”) _____.",
+          "solucion_correcta": [
+            "dónde había conocido a Silvia"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "89.3",
+      "tipologia": "T2",
+      "enunciado": "La semana pasada Sabina tuvo una entrevista para un trabajo en una agencia de viajes. Lea las preguntas que le hicieron. Hoy Sabina le está contando la entrevista a un amigo. Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "—Bien. Primero me preguntaron (1) _____",
+          "solucion_correcta": [
+            "cuántos años tenía"
+          ]
+        },
+        {
+          "texto_enunciado": "y (2) _____.",
+          "solucion_correcta": [
+            "dónde había estudiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Por supuesto, querían saber (3) _____",
+          "solucion_correcta": [
+            "si sabía usar un ordenador"
+          ]
+        },
+        {
+          "texto_enunciado": "y (4) _____.",
+          "solucion_correcta": [
+            "si hablaba algún idioma extranjero"
+          ]
+        },
+        {
+          "texto_enunciado": "También me preguntaron (5) _____.",
+          "solucion_correcta": [
+            "por qué quería dejar mi empleo actual"
+          ]
+        },
+        {
+          "texto_enunciado": "Como están muy relacionados con América Latina me preguntaron (6) _____.",
+          "solucion_correcta": [
+            "si había estado en América Latina / allí"
+          ]
+        },
+        {
+          "texto_enunciado": "Finalmente me preguntaron (7) _____",
+          "solucion_correcta": [
+            "si estaría dispuesta a viajar"
+          ]
+        },
+        {
+          "texto_enunciado": "y (8) _____. Salí muy contenta. Espero que me llamen.",
+          "solucion_correcta": [
+            "cuánto esperaba ganar"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "imagen": "La entrevistadora y Sabina durante la entrevista",
+            "texto": "1. ¿Cuántos años tiene? 2. ¿Dónde ha estudiado? 3. ¿Sabe usar un ordenador? 4. ¿Habla algún idioma extranjero? 5. ¿Por qué quiere dejar su empleo actual? 6. ¿Ha estado en América Latina? 7. ¿Estaría dispuesta a viajar? 8. ¿Cuánto espera ganar?"
+          },
+          {
+            "imagen": "Sabina hablando con un amigo",
+            "texto": "¿Cómo fue la entrevista?"
+          }
+        ]
+      }
+    }
+  ]
+}

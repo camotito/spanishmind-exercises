@@ -1,0 +1,180 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "93.1",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya los nombres subrayados por infinitivos. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Las mentiras</u> pueden ser dañinas. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>La vida</u> es una lucha. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Los viajes</u> en avión son cansados. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>La confianza</u> en los amigos da tranquilidad. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gusta <u>el baile</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A veces son necesarios <u>los cambios</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos encantan <u>los juegos</u>. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases como en el ejemplo. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "He hablado con Raquel. Lo he conseguido. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Regresasteis tarde. Os oímos. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No digo nada. Lo prefiero. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No salgo por la noche. Mis padres no me dejan. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No como carne de cerdo. No puedo. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Bebo mucha agua. Lo necesito. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No molesto. Espero. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Apagaste la luz. Te vi. _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Reescritura mediante la unión de dos frases: se presentan dos oraciones independientes y el alumno debe combinarlas en una sola oración usando un infinitivo y haciendo los cambios necesarios."
+    },
+    {
+      "subejercicio": "93.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro y a, de, en, con en caso necesario.",
+      "banco_palabras": [
+        "cenar",
+        "estar",
+        "estudiar",
+        "hablar",
+        "nadar",
+        "pagar",
+        "pescar",
+        "reservar",
+        "ser",
+        "tomar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "¿Cuándo empiezas _____ informática?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quieren _____ algo?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Juli y Arturo vienen _____ esta noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién se encarga _____ las entradas?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los padres de Arturo le hacen _____ en casa a las diez.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pepe insiste _____ él la comida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando era pequeño, Tomás soñaba _____ bombero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué no me enseñas _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Saben _____ español?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Fidel va _____ en un lago casi todos los domingos.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar frases seleccionando un verbo en infinitivo de un recuadro y añadiendo, cuando sea necesario, una de las preposiciones a, de, en o con."
+    },
+    {
+      "subejercicio": "93.4",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos del recuadro en forma afirmativa o negativa.",
+      "banco_palabras": [
+        "apagar",
+        "entrar",
+        "hablar",
+        "tirar",
+        "empujar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una mano empujando, acompañado por una flecha"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una mano tirando de una cuerda, acompañado por una flecha"
+        },
+        {
+          "texto_enunciado": "_____ con el conductor",
+          "estimulo_visual": "dibujo de dos personas hablando dentro de un vehículo, con una X que prohíbe hablar con el conductor"
+        },
+        {
+          "texto_enunciado": "_____",
+          "estimulo_visual": "dibujo de una puerta dentro de una señal de prohibición"
+        },
+        {
+          "texto_enunciado": "_____ el móvil",
+          "estimulo_visual": "dibujo de un teléfono móvil dentro de una señal de prohibición"
+        }
+      ]
+    }
+  ],
+  "unidad": 93,
+  "titulo_libro": "Viajar es estupendo -- Infinitivo",
+  "scan": "libro-rojo-196.png"
+}

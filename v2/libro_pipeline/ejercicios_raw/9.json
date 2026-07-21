@@ -1,0 +1,213 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "9.1",
+      "tipologia": "T6",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las horas utilizando las palabras del recuadro y la o las.",
+      "banco_palabras": [
+        "cuatro menos diez",
+        "doce y cinco",
+        "dos",
+        "ocho y media",
+        "once y cuarto",
+        "tres y veinte",
+        "una menos cuarto",
+        "una y veinticinco"
+      ],
+      "contexto_grafico": {
+        "tipo": "clocks",
+        "datos": [
+          {
+            "numero": "1",
+            "manecilla_corta": "3",
+            "manecilla_larga": "4"
+          },
+          {
+            "numero": "2",
+            "manecilla_corta": "1",
+            "manecilla_larga": "5"
+          },
+          {
+            "numero": "3",
+            "manecilla_corta": "4",
+            "manecilla_larga": "10"
+          },
+          {
+            "numero": "4",
+            "manecilla_corta": "2",
+            "manecilla_larga": "12"
+          },
+          {
+            "numero": "5",
+            "manecilla_corta": "8",
+            "manecilla_larga": "6"
+          },
+          {
+            "numero": "6",
+            "manecilla_corta": "12",
+            "manecilla_larga": "1"
+          },
+          {
+            "numero": "7",
+            "manecilla_corta": "1",
+            "manecilla_larga": "9"
+          },
+          {
+            "numero": "8",
+            "manecilla_corta": "11",
+            "manecilla_larga": "3"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____"
+        },
+        {
+          "texto_enunciado": "2. _____"
+        },
+        {
+          "texto_enunciado": "3. _____"
+        },
+        {
+          "texto_enunciado": "4. _____"
+        },
+        {
+          "texto_enunciado": "5. _____"
+        },
+        {
+          "texto_enunciado": "6. _____"
+        },
+        {
+          "texto_enunciado": "7. _____"
+        },
+        {
+          "texto_enunciado": "8. _____"
+        }
+      ]
+    },
+    {
+      "subejercicio": "9.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el, la, los, las cuando sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "1. Mi cumpleaños es _____ doce de febrero."
+        },
+        {
+          "texto_enunciado": "2. _____ martes tenemos clase de español."
+        },
+        {
+          "texto_enunciado": "3. Normalmente estudiamos por _____ noche."
+        },
+        {
+          "texto_enunciado": "4. Felipe se casa _____ martes, _____ trece de julio."
+        },
+        {
+          "texto_enunciado": "5. La fiesta es _____ domingo a _____ siete."
+        },
+        {
+          "texto_enunciado": "6. Hoy es _____ jueves, _____ cuatro de _____ octubre."
+        },
+        {
+          "texto_enunciado": "7. El partido es a _____ diez."
+        },
+        {
+          "texto_enunciado": "8. Trabajo por _____ tarde y estudio por _____ mañana."
+        },
+        {
+          "texto_enunciado": "9. Nací _____ dos de _____ diciembre."
+        },
+        {
+          "texto_enunciado": "10. Diana sale siempre _____ sábados."
+        },
+        {
+          "texto_enunciado": "11. Tengo vacaciones en _____ agosto."
+        },
+        {
+          "texto_enunciado": "12. Tenemos un examen _____ lunes."
+        }
+      ]
+    },
+    {
+      "subejercicio": "9.3",
+      "tipologia": "T6",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "1. (8 horas, día) Duermo _____."
+        },
+        {
+          "texto_enunciado": "2. (2 días, semana) Voy al gimnasio _____."
+        },
+        {
+          "texto_enunciado": "3. (1 vez, año) Vamos de vacaciones _____."
+        },
+        {
+          "texto_enunciado": "4. (2 veces, mes) Voy al cine _____."
+        },
+        {
+          "texto_enunciado": "5. (1 noche, semana) Salimos _____."
+        },
+        {
+          "texto_enunciado": "6. (1 hora, día) Corro _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "9.4",
+      "tipologia": "T6",
+      "tipologia_libre": null,
+      "enunciado": "Escriba los precios como en el ejemplo.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "producto": "kiwis",
+            "precio": "2 euros",
+            "unidad": "kilo"
+          },
+          {
+            "numero": "2",
+            "producto": "leche",
+            "precio": "4 pesos",
+            "unidad": "litro"
+          },
+          {
+            "numero": "3",
+            "producto": "huevos",
+            "precio": "2 euros",
+            "unidad": "docena"
+          },
+          {
+            "numero": "4",
+            "producto": "queso",
+            "precio": "1 peso",
+            "unidad": "100 gramos"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____ de kiwis."
+        },
+        {
+          "texto_enunciado": "2. _____ de leche."
+        },
+        {
+          "texto_enunciado": "3. _____ de huevos."
+        },
+        {
+          "texto_enunciado": "4. _____ de queso."
+        }
+      ]
+    }
+  ],
+  "unidad": 9,
+  "titulo_libro": "el seis de enero -- El artículo determinado con expresiones de tiempo y de cantidad",
+  "scan": "libro-rojo-028.png"
+}

@@ -1,0 +1,171 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "22.1",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya las cantidades subrayadas por mucho, mucha... o poco, pocos...",
+      "items": [
+        {
+          "texto_enunciado": "Sonia tiene <u>unos doscientos</u> libros. _____."
+        },
+        {
+          "texto_enunciado": "Alberto tiene <u>dos amigos</u>. _____."
+        },
+        {
+          "texto_enunciado": "Ayer dormimos <u>diez</u> horas. _____."
+        },
+        {
+          "texto_enunciado": "Bebo <u>tres litros de</u> agua al día. _____."
+        },
+        {
+          "texto_enunciado": "Hemos comprado <u>diez litros de</u> aceite. _____."
+        },
+        {
+          "texto_enunciado": "Quedan <u>dos patatas</u>. _____."
+        },
+        {
+          "texto_enunciado": "Luisa toma <u>media cucharada de</u> azúcar en el café. _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Indique si estas cantidades le parecen demasiado o suficiente.",
+      "items": [
+        {
+          "texto_enunciado": "Javier trabaja doce horas todos los días. _____."
+        },
+        {
+          "texto_enunciado": "Enrique duerme cuatro horas todos los días. _____."
+        },
+        {
+          "texto_enunciado": "Jacinta bebe un vaso de agua al día. _____."
+        },
+        {
+          "texto_enunciado": "Como cinco plátanos al día. _____."
+        },
+        {
+          "texto_enunciado": "Inés bebe litro y medio de agua al día. _____."
+        },
+        {
+          "texto_enunciado": "Gabriel come medio kilo de carne todos los días. _____."
+        },
+        {
+          "texto_enunciado": "Tenemos una patata para hacer una tortilla. _____."
+        }
+      ],
+      "tipologia_libre_original": "Valoración de cantidades: se presenta una situación y el alumno debe escribir una oración indicando si la cantidad le parece excesiva o suficiente."
+    },
+    {
+      "subejercicio": "22.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Describa lo que hay en cada ilustración utilizando mucho, poco, bastante... y alguna de las palabras del recuadro.",
+      "banco_palabras": [
+        "agua",
+        "árboles",
+        "árboles",
+        "coches",
+        "comida",
+        "gente",
+        "gente",
+        "gente"
+      ],
+      "contexto_grafico": {
+        "tipo": "visual_count",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una carretera con muchos coches."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Un arroyo con poca agua que pasa bajo un puente."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Dos platos llenos de comida."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una playa con varias personas."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Una playa con pocas personas."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Un paisaje con muchos árboles y algunas casas."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Una playa llena de gente."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Un paisaje rural con una casa, un camino y pocos árboles."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        },
+        {
+          "texto_enunciado": "_____"
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con mucho, poco, demasiado, suficiente, bastante...",
+      "items": [
+        {
+          "texto_enunciado": "—¿Tienes hambre? —No tengo _____. Puedo esperar."
+        },
+        {
+          "texto_enunciado": "—¿Cuántas manzanas tienes? —Tres. Son _____ para una tarta."
+        },
+        {
+          "texto_enunciado": "—¿Cuánto dinero tienes? —Veinticinco euros. Es _____. Las entradas cuestan veinte."
+        },
+        {
+          "texto_enunciado": "—¿Cuánta gente hay? —No hay _____. Unas diez personas."
+        },
+        {
+          "texto_enunciado": "—¿Cuántas horas duermes al día? —_____. Cinco o seis. Tengo que estudiar."
+        },
+        {
+          "texto_enunciado": "—¿Crees que veinte bocadillos serán suficientes? —Son _____. Solo somos tres."
+        }
+      ]
+    }
+  ],
+  "unidad": 22,
+  "titulo_libro": "mucho, poco, demasiado, suficiente... -- Indefinidos (3)",
+  "scan": "libro-rojo-054.png"
+}

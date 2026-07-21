@@ -1,0 +1,162 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "74.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las instrucciones del profesor de la autoescuela. Utilice los verbos del recuadro.",
+      "banco_palabras": [
+        "adelantar",
+        "aparcar",
+        "girar",
+        "girar",
+        "parar"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Señal que prohíbe girar a la izquierda."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Señal que prohíbe girar a la derecha."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Señal que prohíbe adelantar."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Señal que prohíbe aparcar."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Señal que prohíbe parar."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. _____ a la izquierda."
+        },
+        {
+          "texto_enunciado": "2. _____ a la derecha."
+        },
+        {
+          "texto_enunciado": "3. _____ aquí."
+        },
+        {
+          "texto_enunciado": "4. _____ aquí."
+        },
+        {
+          "texto_enunciado": "5. _____ aquí."
+        }
+      ]
+    },
+    {
+      "subejercicio": "74.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría este padre a sus hijos en esas situaciones?",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "escena": "Padre con sus hijos",
+            "descripcion": "Un padre habla con un hijo y una hija y les da instrucciones."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. (Sus hijos están viendo mucha televisión.) «_____ tanta televisión.»"
+        },
+        {
+          "texto_enunciado": "2. (Su hijo deja sus cosas en el salón.) «_____ tus cosas en el salón.»"
+        },
+        {
+          "texto_enunciado": "3. (Su hija está bebiendo demasiado granizado.) «_____ más granizado.»"
+        },
+        {
+          "texto_enunciado": "4. (Su hijo está tocando la guitarra a las dos de la mañana.) «_____ la guitarra a estas horas.»"
+        },
+        {
+          "texto_enunciado": "5. (Su hijo quiere regresar tarde.) «_____ muy tarde.»"
+        },
+        {
+          "texto_enunciado": "6. (Sus hijos están discutiendo.) «_____.»"
+        },
+        {
+          "texto_enunciado": "7. (Su hija está comiendo en el salón.) «_____ en el salón.»"
+        }
+      ]
+    },
+    {
+      "subejercicio": "74.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría en cada caso?",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "escena": "Mujer hablando",
+            "descripcion": "Dibujo de una mujer junto a un bocadillo que contiene los enunciados."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "1. (a un amigo) (No, tirar) _____ cosas al suelo."
+        },
+        {
+          "texto_enunciado": "2. (a unos alumnos) (No, escribir) _____ en las mesas."
+        },
+        {
+          "texto_enunciado": "3. (a un niño) (No, coger) _____ nada del suelo. Está muy sucio."
+        },
+        {
+          "texto_enunciado": "4. (a unos desconocidos) (No, comer) _____ aquí, por favor. Está prohibido."
+        },
+        {
+          "texto_enunciado": "5. (a unos amigos) La cena es a las nueve. (No, llegar) _____ tarde."
+        },
+        {
+          "texto_enunciado": "6. (a unos amigos) (No, cortar) _____ flores. Está prohibido."
+        },
+        {
+          "texto_enunciado": "7. (a unos desconocidos) (No, cruzar) _____ por aquí. Es peligroso."
+        },
+        {
+          "texto_enunciado": "8. (a un amigo) (No, tocar) _____ eso. Está caliente."
+        },
+        {
+          "texto_enunciado": "9. (a un niño) –¿Puedo llamar a Rafa? –No, (No, llamar) _____ ahora. Es tarde."
+        },
+        {
+          "texto_enunciado": "10. (a un desconocido) (No, pisar) _____ el césped, por favor."
+        },
+        {
+          "texto_enunciado": "11. (a un amigo) (No, ver) _____ esa película. Es muy aburrida."
+        },
+        {
+          "texto_enunciado": "12. (a un amigo) (No, hablar) _____ tan alto. Te oigo perfectamente."
+        },
+        {
+          "texto_enunciado": "13. (a unos desconocidos) (No, gastar) _____ mucha agua. Hay sequía."
+        },
+        {
+          "texto_enunciado": "14. (a un alumno) (No, usar) _____ el móvil en clase."
+        },
+        {
+          "texto_enunciado": "15. (a un desconocido) (No, dejar) _____ las maletas solas."
+        }
+      ]
+    }
+  ],
+  "unidad": 74,
+  "titulo_libro": "No abras la ventana -- Imperativo negativo: verbos regulares",
+  "scan": "libro-rojo-158.png"
+}

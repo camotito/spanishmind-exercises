@@ -1,0 +1,137 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "84.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en infinitivo o presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Espero (yo, encontrar) _____ trabajo pronto."
+        },
+        {
+          "texto_enunciado": "Espero que me (tú, llamar) _____ cuando vengas a Lima."
+        },
+        {
+          "texto_enunciado": "¿Quieres (tú, comer) _____ algo?"
+        },
+        {
+          "texto_enunciado": "–Tengo hambre. –¿Quieres que te (yo, preparar) _____ algo de comer?"
+        },
+        {
+          "texto_enunciado": "Me gustaría (yo, conocer) _____ a tus padres."
+        },
+        {
+          "texto_enunciado": "Aléjate un poco. Prefiero que no nos (ellos, ver) _____ juntos. ¡Es una sorpresa!"
+        },
+        {
+          "texto_enunciado": "Te ruego que no me (tú, esperar) _____. Prefiero (quedarse) _____ en casa."
+        },
+        {
+          "texto_enunciado": "De pequeño, soñaba con (yo, poder) _____ viajar por el espacio."
+        },
+        {
+          "texto_enunciado": "Voy a sentarme un poco. Tengo ganas de (yo, descansar) _____."
+        },
+        {
+          "texto_enunciado": "–¿Le esperamos? –No, prefiero que (ustedes, irse) _____. Voy a acabar tarde."
+        }
+      ]
+    },
+    {
+      "subejercicio": "84.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Escriba frases como en el ejemplo utilizando el presente o el imperfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Alberto quería (yo, trabajar con él) _____."
+        },
+        {
+          "texto_enunciado": "Espero (no llover mañana) _____."
+        },
+        {
+          "texto_enunciado": "¿Os importaría (yo, invitar a Laura a la fiesta) _____?"
+        },
+        {
+          "texto_enunciado": "Felipe nos rogó (nosotros, no dejarle solo) _____."
+        },
+        {
+          "texto_enunciado": "Sebastián prefiere (ustedes, esperar en su casa) _____."
+        },
+        {
+          "texto_enunciado": "Me gustaría (el mundo, ser más justo) _____."
+        },
+        {
+          "texto_enunciado": "Tengo ganas de (vosotros, venir) _____."
+        }
+      ],
+      "tipologia_libre_original": "Producción de una oración subordinada a partir de un sujeto y una acción presentados entre paréntesis, utilizando el presente o el imperfecto de subjuntivo."
+    },
+    {
+      "subejercicio": "84.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría en estas situaciones? Complete las frases con los verbos del recuadro.",
+      "banco_palabras": [
+        "divertirse",
+        "encontrar",
+        "pasar",
+        "ser",
+        "tener",
+        "tener"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "A un amigo que se va de vacaciones: ¡Que lo _____ bien!"
+        },
+        {
+          "texto_enunciado": "A un desconocido que ha perdido la maleta: ¡Que la _____ pronto!"
+        },
+        {
+          "texto_enunciado": "A unos amigos que se van de viaje: ¡Que _____ buen viaje!"
+        },
+        {
+          "texto_enunciado": "A un amigo que va a hacer un examen importante: ¡Qué _____ suerte!"
+        },
+        {
+          "texto_enunciado": "A unos recién casados: ¡Que _____ felices!"
+        },
+        {
+          "texto_enunciado": "A un amigo que se va a una fiesta: ¡Que _____!"
+        }
+      ],
+      "tipologia_libre_original": "Completar fórmulas de buenos deseos conjugando y seleccionando verbos de un recuadro."
+    },
+    {
+      "subejercicio": "84.4",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría? Escriba frases con ¡ojalá!",
+      "items": [
+        {
+          "texto_enunciado": "Estás jugando un partido de fútbol, quieres ganar y lo consideras posible. Dices: ¡_____!"
+        },
+        {
+          "texto_enunciado": "Te gustaría que María te quisiera, pero es difícil. Dices: ¡_____!"
+        },
+        {
+          "texto_enunciado": "Te gustaría que tus amigos y tú aprobarais y es posible. Les dices: ¡_____!"
+        },
+        {
+          "texto_enunciado": "Te gustaría que no lloviera mañana y parece que es posible. Dices: ¡_____!"
+        },
+        {
+          "texto_enunciado": "Te gustaría ser más alta. Dices: ¡_____!"
+        },
+        {
+          "texto_enunciado": "Te gustaría que Julián supiera tocar el piano, pero no sabe. Le dices: ¡_____!"
+        }
+      ],
+      "tipologia_libre_original": "Producción de deseos con «¡ojalá!» a partir de situaciones descritas mediante texto."
+    }
+  ],
+  "unidad": 84,
+  "titulo_libro": "Quiero que me ayudes -- Expresión de deseos",
+  "scan": "libro-rojo-178.png"
+}

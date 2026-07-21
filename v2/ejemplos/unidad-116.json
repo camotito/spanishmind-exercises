@@ -1,0 +1,224 @@
+{
+  "tema": "unidad-116",
+  "titulo": "y, o, pero...",
+  "descripcion_gramatical": "Conjunciones",
+  "fuente": "libro",
+  "unidad_libro": 116,
+  "ejercicios": [
+    {
+      "subejercicio": "116.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con o/u o y/e.",
+      "items": [
+        {
+          "texto_enunciado": "¿Es usted peruano _____ boliviano?",
+          "solucion_correcta": [
+            "o"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Tienes lápiz _____ papel?",
+          "solucion_correcta": [
+            "y"
+          ]
+        },
+        {
+          "texto_enunciado": "No recuerdo si dijo septiembre _____ octubre.",
+          "solucion_correcta": [
+            "u"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis meses preferidos son julio _____ agosto.",
+          "solucion_correcta": [
+            "y"
+          ]
+        },
+        {
+          "texto_enunciado": "No recuerdo si me dieron diez _____ once.",
+          "solucion_correcta": [
+            "u"
+          ]
+        },
+        {
+          "texto_enunciado": "Solo conozco dos países europeos, Francia _____ Italia.",
+          "solucion_correcta": [
+            "e"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Son tuyos _____ de Carlos? —Son míos _____ de Carlos.",
+          "solucion_correcta": [
+            "o",
+            "y"
+          ]
+        },
+        {
+          "texto_enunciado": "Gabriel _____ Ignacio trabajan en la misma empresa.",
+          "solucion_correcta": [
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "116.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con y/e, ni o ni... ni. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Keiko habla inglés. Keiko habla español. _____.",
+          "solucion_correcta": [
+            "Keiko habla inglés y español"
+          ]
+        },
+        {
+          "texto_enunciado": "No hablo inglés. No hablo alemán. _____.",
+          "solucion_correcta": [
+            "No hablo inglés ni alemán"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gusta la fruta. No me gustan las verduras. _____.",
+          "solucion_correcta": [
+            "No me gustan la fruta ni las verduras"
+          ]
+        },
+        {
+          "texto_enunciado": "A Juan le gusta bailar. A Diana le gusta bailar. _____.",
+          "solucion_correcta": [
+            "A Juan y a Diana les gusta bailar"
+          ]
+        },
+        {
+          "texto_enunciado": "A Juan no le gusta el fútbol. A Diana no le gusta el fútbol. _____.",
+          "solucion_correcta": [
+            "Ni a Juan ni a Diana les gusta el fútbol"
+          ]
+        },
+        {
+          "texto_enunciado": "Héctor estudia idiomas. Héctor estudia informática. _____.",
+          "solucion_correcta": [
+            "Héctor estudia idiomas e informática"
+          ]
+        },
+        {
+          "texto_enunciado": "Luisa trabaja en la universidad. Luisa trabaja en una academia. _____.",
+          "solucion_correcta": [
+            "Luisa trabaja en la universidad y en una academia"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis no tiene coche. Luis no sabe conducir. _____.",
+          "solucion_correcta": [
+            "Luis no tiene coche ni sabe conducir"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi hermano no quiere salir. Mi hermana no quiere salir. _____.",
+          "solucion_correcta": [
+            "Ni mi hermano ni mi hermana quieren salir"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "116.3",
+      "tipologia": "T10",
+      "enunciado": "Una las frases sobre un grupo de amigos con y/e, ni, ni... ni o pero.",
+      "items": [
+        {
+          "texto_enunciado": "Raquel es española. Irene es española. _____.",
+          "solucion_correcta": [
+            "Raquel e Irene son españolas"
+          ]
+        },
+        {
+          "texto_enunciado": "Raquel juega al baloncesto. No es muy alta. _____.",
+          "solucion_correcta": [
+            "Raquel juega al baloncesto, pero no es muy alta"
+          ]
+        },
+        {
+          "texto_enunciado": "Pedro no es muy guapo. Pedro es muy simpático. _____.",
+          "solucion_correcta": [
+            "Pedro no es muy guapo, pero es muy simpático"
+          ]
+        },
+        {
+          "texto_enunciado": "A Pedro le gusta Raquel. A Raquel no le gusta Pedro. _____.",
+          "solucion_correcta": [
+            "A Pedro le gusta Raquel, pero a Raquel no le gusta Pedro"
+          ]
+        },
+        {
+          "texto_enunciado": "Raquel no trabaja. Pedro no trabaja. Irene no trabaja. _____.",
+          "solucion_correcta": [
+            "Ni Raquel, ni Pedro ni Irene trabajan"
+          ]
+        },
+        {
+          "texto_enunciado": "A Raquel le gusta la música clásica. A Irene le gusta la música clásica. A Pedro le gusta la música clásica. _____.",
+          "solucion_correcta": [
+            "A Raquel, a Irene y a Pedro les gusta la música clásica"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "116.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con pero, sino o sino que.",
+      "items": [
+        {
+          "texto_enunciado": "Hugo no vive en La Paz, _____ en Cochabamba.",
+          "solucion_correcta": [
+            "sino"
+          ]
+        },
+        {
+          "texto_enunciado": "Es casado, _____ no conozco a su mujer.",
+          "solucion_correcta": [
+            "pero"
+          ]
+        },
+        {
+          "texto_enunciado": "Trabaja en un taller, _____ no gana mucho.",
+          "solucion_correcta": [
+            "pero"
+          ]
+        },
+        {
+          "texto_enunciado": "No solo no trabaja, _____ tampoco estudia.",
+          "solucion_correcta": [
+            "sino que"
+          ]
+        },
+        {
+          "texto_enunciado": "Juana no es mexicana, _____ guatemalteca.",
+          "solucion_correcta": [
+            "sino"
+          ]
+        },
+        {
+          "texto_enunciado": "Nació en Quezaltenango, _____ vive en San Cristóbal de las Casas.",
+          "solucion_correcta": [
+            "pero"
+          ]
+        },
+        {
+          "texto_enunciado": "No solo trabaja, _____ además va a clases por la noche.",
+          "solucion_correcta": [
+            "Sino que"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiere poner un negocio, _____ no tiene dinero.",
+          "solucion_correcta": [
+            "pero"
+          ]
+        }
+      ]
+    }
+  ]
+}

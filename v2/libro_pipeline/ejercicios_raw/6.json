@@ -1,0 +1,248 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "6.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el, la, los, las.",
+      "items": [
+        {
+          "texto_enunciado": "_____ casa"
+        },
+        {
+          "texto_enunciado": "_____ médico"
+        },
+        {
+          "texto_enunciado": "_____ naranjas"
+        },
+        {
+          "texto_enunciado": "_____ coche"
+        },
+        {
+          "texto_enunciado": "_____ habitación"
+        },
+        {
+          "texto_enunciado": "_____ águila"
+        },
+        {
+          "texto_enunciado": "_____ pantalones"
+        },
+        {
+          "texto_enunciado": "_____ aula"
+        },
+        {
+          "texto_enunciado": "_____ sillas"
+        },
+        {
+          "texto_enunciado": "_____ lápices"
+        },
+        {
+          "texto_enunciado": "_____ tijeras"
+        },
+        {
+          "texto_enunciado": "_____ profesor"
+        },
+        {
+          "texto_enunciado": "_____ perro"
+        },
+        {
+          "texto_enunciado": "_____ hermana"
+        },
+        {
+          "texto_enunciado": "_____ alumnos"
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.2",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Observe la ilustración y complete las frases con el, la, los, las y las palabras del recuadro.",
+      "banco_palabras": [
+        "hermana",
+        "hermanos",
+        "hijas",
+        "madre",
+        "marido",
+        "padre",
+        "tía",
+        "tío"
+      ],
+      "contexto_grafico": {
+        "tipo": "family_tree",
+        "datos": [
+          {
+            "nombre": "Felipe",
+            "relacion_con_marta": "padre"
+          },
+          {
+            "nombre": "Claudia",
+            "relacion_con_marta": "madre"
+          },
+          {
+            "nombre": "Javier",
+            "relacion_con_marta": "marido"
+          },
+          {
+            "nombre": "Lucía",
+            "relacion_con_marta": "hermana"
+          },
+          {
+            "nombre": "Enrique",
+            "relacion_con_marta": "hermano"
+          },
+          {
+            "nombre": "Fernando",
+            "relacion_con_marta": "hermano"
+          },
+          {
+            "nombre": "Isabel",
+            "relacion_con_marta": "tía"
+          },
+          {
+            "nombre": "Juan",
+            "relacion_con_marta": "tío"
+          },
+          {
+            "nombre": "Irene",
+            "relacion_con_marta": "hija"
+          },
+          {
+            "nombre": "Juana",
+            "relacion_con_marta": "hija"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ de Marta se llama Felipe."
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llama Claudia."
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llama Javier."
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llama Lucía."
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llaman Enrique y Fernando."
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llama Isabel."
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llama Juan."
+        },
+        {
+          "texto_enunciado": "_____ de Marta se llaman Irene y Juana."
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.3",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras del recuadro y el, la, los, las.",
+      "banco_palabras": [
+        "agua",
+        "diccionario",
+        "jardín",
+        "luz",
+        "tijeras",
+        "ventana"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Susana está con otra persona en un jardín."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una persona pide a otra que cierre una ventana."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Tres personas están sentadas a la mesa junto a una jarra de agua."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una persona pide a otra un diccionario que está sobre la mesa."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Varias personas están en una sala oscura y una de ellas pide que enciendan la luz."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Tres personas trabajan con papel y una de ellas tiene unas tijeras."
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Susana está en _____."
+        },
+        {
+          "texto_enunciado": "Cierra _____."
+        },
+        {
+          "texto_enunciado": "Pásame _____, por favor."
+        },
+        {
+          "texto_enunciado": "Déjame _____."
+        },
+        {
+          "texto_enunciado": "Enciende _____."
+        },
+        {
+          "texto_enunciado": "Pásame _____."
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las siguientes frases con el, la, los, las (utilice al y del cuando sea necesario).",
+      "items": [
+        {
+          "texto_enunciado": "_____ águilas son aves."
+        },
+        {
+          "texto_enunciado": "Montevideo es _____ capital de Uruguay."
+        },
+        {
+          "texto_enunciado": "Queremos ver a _____ jefe de estudios."
+        },
+        {
+          "texto_enunciado": "Cierra _____ puerta de _____ jardín, por favor."
+        },
+        {
+          "texto_enunciado": "Tenéis que ir a _____ aula 15."
+        },
+        {
+          "texto_enunciado": "_____ agua es mi bebida preferida."
+        },
+        {
+          "texto_enunciado": "_____ padres de Sofía viven en Lima."
+        },
+        {
+          "texto_enunciado": "Me gustan _____ naranjas."
+        },
+        {
+          "texto_enunciado": "Vivimos cerca de _____ centro."
+        },
+        {
+          "texto_enunciado": "Ese coche es de _____ padre de Mónica."
+        }
+      ]
+    }
+  ],
+  "unidad": 6,
+  "titulo_libro": "el, la, los, las -- El artículo determinado",
+  "scan": "libro-rojo-022.png"
+}

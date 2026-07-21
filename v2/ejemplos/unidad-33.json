@@ -1,0 +1,230 @@
+{
+  "tema": "unidad-33",
+  "titulo": "¡qué!, ¡cuánto!, ¡cómo!...",
+  "descripcion_gramatical": "Exclamativos",
+  "fuente": "libro",
+  "unidad_libro": 33,
+  "ejercicios": [
+    {
+      "subejercicio": "33.1",
+      "tipologia": "T8",
+      "enunciado": "Observe las ilustraciones y escriba las exclamaciones oportunas con qué y los nombres y adjetivos dados.",
+      "items": [
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¡Qué coche más/tan largo!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¡Qué camisa más/tan cara!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¡Qué pendientes más/tan bonitos!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¡Qué chico más/tan alto!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____",
+          "solucion_correcta": [
+            "¡Qué relojes más/tan baratos!"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "camisa",
+        "chico",
+        "coche",
+        "pendientes",
+        "relojes",
+        "alto",
+        "barato",
+        "bonito",
+        "caro",
+        "largo"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un coche muy largo."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una camisa con una etiqueta de precio de 200."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Unos pendientes expuestos en una caja."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un chico mirándose en un espejo."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Varios relojes con un cartel de 5 €."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "33.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con qué, cómo o cuánto, cuánta...",
+      "items": [
+        {
+          "texto_enunciado": "¡_____ duerme José!",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ noche tan fría!",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ estrellas!",
+          "solucion_correcta": [
+            "Cuántas"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ corren tus hijos!",
+          "solucion_correcta": [
+            "Cómo/Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ barbaridad! ¡_____ cuesta ese cuadro!",
+          "solucion_correcta": [
+            "Qué",
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ llueve! Parece el diluvio.",
+          "solucion_correcta": [
+            "Cómo/Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ libros tiene Marisa!",
+          "solucion_correcta": [
+            "Cuántos"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ lloran! ¡Pobrecillos!",
+          "solucion_correcta": [
+            "Cómo"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ vago es Lolo! No le gusta nada trabajar.",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ tarde es! Tengo que irme.",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "33.3",
+      "tipologia": "T12",
+      "enunciado": "Exprese sus sentimientos ante las siguientes afirmaciones utilizando qué, cómo o cuánto, cuánta...",
+      "items": [
+        {
+          "texto_enunciado": "Jorge tiene muy mala suerte. _____",
+          "solucion_correcta": [
+            "¡Qué mala suerte tiene Jorge!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy hace mucho calor. _____",
+          "solucion_correcta": [
+            "¡Qué calor hace hoy! / ¡Cuánto calor hace hoy!"
+          ]
+        },
+        {
+          "texto_enunciado": "Lotta habla español muy bien. _____",
+          "solucion_correcta": [
+            "¡Qué bien habla Lotta español!"
+          ]
+        },
+        {
+          "texto_enunciado": "Estamos muy cansadas. _____",
+          "solucion_correcta": [
+            "¡Qué cansadas estamos!"
+          ]
+        },
+        {
+          "texto_enunciado": "Alfonso conduce muy mal. _____",
+          "solucion_correcta": [
+            "¡Qué mal conduce Alfonso!"
+          ]
+        },
+        {
+          "texto_enunciado": "Sara y Eva son muy listas. _____",
+          "solucion_correcta": [
+            "¡Qué listas son Sara y Eva!"
+          ]
+        },
+        {
+          "texto_enunciado": "Rodri come muy deprisa. _____",
+          "solucion_correcta": [
+            "¡Qué deprisa come Rodri!"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucio es muy guapo. _____",
+          "solucion_correcta": [
+            "¡Qué guapo es Lucio!"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosario duerme mucho. _____",
+          "solucion_correcta": [
+            "¡Cuánto duerme Rosario!"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto gasta mucho dinero. _____",
+          "solucion_correcta": [
+            "¡Cuánto gasta Alberto!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucha gente en la playa. _____",
+          "solucion_correcta": [
+            "¡Cuánta gente hay en la playa!"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo mucha suerte. _____",
+          "solucion_correcta": [
+            "¡Qué suerte tengo!"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "tema": "unidad-113",
+  "titulo": "a Pedro, de Elvira, en autobús...",
+  "descripcion_gramatical": "Preposiciones (4)",
+  "fuente": "libro",
+  "unidad_libro": 113,
+  "ejercicios": [
+    {
+      "subejercicio": "113.1",
+      "tipologia": "T7",
+      "enunciado": "Inserte a donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "<u>No he oído los niños todavía.</u> _____",
+          "solucion_correcta": [
+            "No he oído a los niños todavía"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Todavía no he oído esa canción.</u> _____",
+          "solucion_correcta": [
+            "Todavía no he oído esa canción"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>¿A qué hora has llamado Enrique?</u> _____",
+          "solucion_correcta": [
+            "¿A qué hora has llamado a Enrique?"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Begoña está regalando sus gatitos.</u> _____",
+          "solucion_correcta": [
+            "Begoña está regalando sus gatitos"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>¿Has visto alguien de nuestro grupo?</u> _____",
+          "solucion_correcta": [
+            "¿Has visto a alguien de nuestro grupo?"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Tengo que saludar Bárbara.</u> _____",
+          "solucion_correcta": [
+            "Tengo que saludar a Bárbara"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>¿Hay alguien en el aula?</u> _____",
+          "solucion_correcta": [
+            "¿Hay alguien en el aula?"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>En mi oficina necesitan una secretaria.</u> _____",
+          "solucion_correcta": [
+            "En mi oficina necesitan una secretaria"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "113.2",
+      "tipologia": "T2",
+      "enunciado": "Observe las ilustraciones y complete los nombres con las palabras del recuadro y la preposición adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "gafas _____",
+          "estimulo_visual": "dibujo de unas gafas de sol",
+          "solucion_correcta": [
+            "de sol"
+          ]
+        },
+        {
+          "texto_enunciado": "reloj _____",
+          "estimulo_visual": "dibujo de un reloj de pulsera",
+          "solucion_correcta": [
+            "de oro"
+          ]
+        },
+        {
+          "texto_enunciado": "cuarto _____",
+          "estimulo_visual": "dibujo de un cuarto de baño con lavabo, inodoro y bañera",
+          "solucion_correcta": [
+            "de baño"
+          ]
+        },
+        {
+          "texto_enunciado": "campo _____",
+          "estimulo_visual": "dibujo de un campo de fútbol",
+          "solucion_correcta": [
+            "de fútbol"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "baño",
+        "fútbol",
+        "oro",
+        "sol"
+      ]
+    },
+    {
+      "subejercicio": "113.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con las preposiciones a, de, en o sobre.",
+      "items": [
+        {
+          "texto_enunciado": "¿Sabes escribir _____ máquina?",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "Estrella va a clases _____ alemán.",
+          "solucion_correcta": [
+            "de"
+          ]
+        },
+        {
+          "texto_enunciado": "Arístides es _____ Santo Domingo.",
+          "solucion_correcta": [
+            "de"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi abuelo siempre se hacía los trajes _____ medida.",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encanta la tortilla _____ patatas.",
+          "solucion_correcta": [
+            "de"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunas ciudades tienen muchos problemas _____ tráfico.",
+          "solucion_correcta": [
+            "de"
+          ]
+        },
+        {
+          "texto_enunciado": "No me siento _____ gusto con estos zapatos.",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy leyendo un libro _____ los pueblos caribes.",
+          "solucion_correcta": [
+            "sobre"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que Antonio y Marta se han casado _____ secreto.",
+          "solucion_correcta": [
+            "en"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "113.4",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con las preposiciones a, de, en o sobre y las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Mañana tengo una entrevista _____.",
+          "solucion_correcta": [
+            "de trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encanta pasear _____ por el campo.",
+          "solucion_correcta": [
+            "a caballo"
+          ]
+        },
+        {
+          "texto_enunciado": "Copiad los ejercicios _____.",
+          "solucion_correcta": [
+            "a lápiz"
+          ]
+        },
+        {
+          "texto_enunciado": "Lorena siempre viene a la universidad _____.",
+          "solucion_correcta": [
+            "en metro"
+          ]
+        },
+        {
+          "texto_enunciado": "John, ¿cuándo has empezado las clases _____?",
+          "solucion_correcta": [
+            "de español"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es la chica _____?",
+          "solucion_correcta": [
+            "del pelo largo"
+          ]
+        },
+        {
+          "texto_enunciado": "Dijeron que vendrían _____.",
+          "solucion_correcta": [
+            "sobre las diez"
+          ]
+        },
+        {
+          "texto_enunciado": "He recibido una revista escrita _____.",
+          "solucion_correcta": [
+            "en portugués"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "caballo",
+        "español",
+        "lápiz",
+        "las diez",
+        "metro",
+        "pelo largo",
+        "portugués",
+        "trabajo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "tema": "unidad-80",
+  "titulo": "quiera, juegue...",
+  "descripcion_gramatical": "Presente de subjuntivo: verbos irregulares (1)",
+  "fuente": "libro",
+  "unidad_libro": 80,
+  "ejercicios": [
+    {
+      "subejercicio": "80.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Espero que no (tú, volver) _____ a perder las llaves.",
+          "solucion_correcta": [
+            "vuelvas"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gusta que me (tú, mentir) _____, Nadia.",
+          "solucion_correcta": [
+            "mientas"
+          ]
+        },
+        {
+          "texto_enunciado": "Espero que Arturo no (perder) _____ esta partida.",
+          "solucion_correcta": [
+            "pierda"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Ojalá (ellos, divertirse) _____ en las vacaciones! Lo necesitan.",
+          "solucion_correcta": [
+            "se diviertan"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Has hablado con la Sra. Pinto? Es probable que (poder) _____ ayudarte.",
+          "solucion_correcta": [
+            "pueda"
+          ]
+        },
+        {
+          "texto_enunciado": "Espero que (usted, entender) _____ las instrucciones. Es muy fácil.",
+          "solucion_correcta": [
+            "entienda"
+          ]
+        },
+        {
+          "texto_enunciado": "Tome este libro. Puede que le (servir) _____ para su viaje a Chile.",
+          "solucion_correcta": [
+            "sirva"
+          ]
+        },
+        {
+          "texto_enunciado": "Me ha llamado el entrenador. Quizás (yo, jugar) _____ el domingo.",
+          "solucion_correcta": [
+            "juegue"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero que Sonia me (conseguir) _____ entradas para el próximo concierto.",
+          "solucion_correcta": [
+            "consiga"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta que (llover) _____ en verano.",
+          "solucion_correcta": [
+            "llueva"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encanta que mi casa (oler) _____ a flores.",
+          "solucion_correcta": [
+            "huela"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "80.2",
+      "tipologia": "T10",
+      "enunciado": "Una las dos frases con que. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "César quiere estudiar Bellas Artes. Me parece bien. _____",
+          "solucion_correcta": [
+            "Me parece bien"
+          ]
+        },
+        {
+          "texto_enunciado": "La película de esta noche empieza tarde. Me parece mal. _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Hoy cierran las tiendas; es fiesta. Es lógico. _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Sócrates no puede venir mañana. Me da pena. _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "No quieres madrugar el domingo. Es natural. _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Tania friega siempre los platos. Me parece mal. _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Mis primos no me recuerdan; me han visto poco. Es lógico. _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Félix consigue siempre lo que quiere. No es normal. _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Rafa y Esther prefieren este restaurante; es buenísimo. Es lógico. _____",
+          "solucion_correcta": null,
+          "revisar": true
+        },
+        {
+          "texto_enunciado": "Ustedes piensan mucho en sus amigos. Me parece bien. _____",
+          "solucion_correcta": null,
+          "revisar": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "80.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las respuestas con los verbos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "—¿Cuándo vuelven ustedes? —Es probable que _____ el lunes.",
+          "solucion_correcta": [
+            "volvamos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Por qué queréis salir todos los días? —Es lógico que _____ salir todos los días. Estamos de vacaciones.",
+          "solucion_correcta": [
+            "queramos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿De qué se ríen tus amigos? —No sé. Puede que _____ de ese cartel.",
+          "solucion_correcta": [
+            "se rían"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Por qué no le pedimos el ordenador a Fran? —No me gusta que le _____ el ordenador.",
+          "solucion_correcta": [
+            "pidáis"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Por qué encuentran todo extraño en este país? —Es lógico que _____ todo extraño. Es muy diferente a su país.",
+          "solucion_correcta": [
+            "encuentren"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿Por qué no les dejas dormir? —No me gusta que _____ tantas horas en la siesta. Luego no duermen por la noche.",
+          "solucion_correcta": [
+            "duerman"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "107.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la forma comparativa de superioridad o igualdad de los adverbios del recuadro.",
+      "banco_palabras": [
+        "bajo",
+        "bien",
+        "despacio",
+        "fuerte",
+        "mucho",
+        "poco",
+        "rápido",
+        "temprano",
+        "tranquilamente"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "No hables tan alto, por favor. Habla _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vas muy rápido. No vayas _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No vayas tan rápido. Ve _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No trabajen tanto. Trabajen _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Gritáis mucho. No gritéis _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Os levantáis demasiado temprano. No os levantéis _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "—No puedo abrir la puerta. —Empuja _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este ejercicio está muy mal. Tienes que hacerlo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No seas alocada. Tienes que hacer las cosas _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Completar frases construyendo comparativos de superioridad o igualdad a partir de un banco de adverbios."
+    },
+    {
+      "subejercicio": "107.2",
+      "tipologia": "T6",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las comparaciones según lo indicado entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Sofía vive cerca del cine. (+ nosotros) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy hemos llegado tarde. (− de costumbre) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Susana corre mucho. (= Eloísa) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Julián cocina bien. (+ Vicente) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Arnaldo gasta mucho. (+ Jesús) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jorge se levanta temprano. (= yo) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sara y Eva conducen bien. (= ustedes) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hablo poco. (+ mi padre) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "107.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir la frase con el comparativo de igualdad.",
+      "items": [
+        {
+          "texto_enunciado": "Héctor corre menos rápido que tú. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucas habla menos que yo. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sonia se acuesta menos tarde que nosotros. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Silvia explica menos claro que Laura. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Camino menos lentamente que David. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ernesto juega menos inteligentemente que Carlos. _____.",
+          "estimulo_visual": null
+        }
+      ],
+      "tipologia_libre_original": "Reescritura completa de oraciones comparativas de inferioridad para expresarlas mediante el comparativo de igualdad; cada oración base va seguida de una línea para escribir la nueva frase."
+    },
+    {
+      "subejercicio": "107.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete la frase con los verbos y el superlativo de los adverbios entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Quién es (estudia, + poco) _____ de la clase?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién es (habla, + mucho) _____ de tus amigas?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién es (vive, + lejos) _____ de tus amigos?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Cuál de tus hermanos es (levanta, + temprano) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Beti y Victoria son (bailan, + mal) _____ del grupo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Serafín y Adrián son (corren, + mucho) _____ del equipo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién es (trabaja, + poco) _____ en tu oficina?",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 107,
+  "titulo_libro": "más rápido, mejor, peor... -- Comparación de adverbios",
+  "scan": "libro-rojo-224.png"
+}
