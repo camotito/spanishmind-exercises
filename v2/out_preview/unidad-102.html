@@ -22,17 +22,15 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
     margin: 0 0 14px; }
 .item { padding: 8px 0; border-top: 1px dashed var(--line); }
 .item:first-of-type { border-top: none; }
-.item-row { padding-left: 1.8em; text-indent: -1.8em; }
 .item-row + .item-row { margin-top: 4px; }
-.item-num { display: inline-block; width: 1.6em; text-indent: 0;
-    color: #999; font-variant-numeric: tabular-nums; }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
 .blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
     border-radius: 6px; width: 150px; font-size: .95rem; }
 select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
 .blank.ok { border-color: var(--ok); background: #f0f6ee; }
 .blank.bad { border-color: var(--bad); background: #fbeeee; }
-.alt-hint { font-size: .78rem; color: var(--secondary); opacity: .75; margin-left: 2px; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
     display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
 button { font-family: var(--font-body); background: var(--primary); color: #fff;
@@ -74,25 +72,32 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <p class="enunciado">Complete the sentences with "todavía", "aún", or "ya no".</p>
         
         
+        
         <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>No puedes irte. <input type="text" class="blank blank-example" value="Todavía" style="width: 9ch" readonly tabindex="-1"> te necesito.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span>—¿Está Berta? —No, <input type="text" class="blank" data-sol="ya no" style="width: 7ch" autocomplete="off"> vive aquí.</span></div>
+            <div class="item-row"><span>—¿Está Berta? —No, <input type="text" class="blank" data-sol="ya no" data-hint="" style="width: 7ch" autocomplete="off"> vive aquí.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span>—¿Sigues jugando al tenis? —Sí, <input type="text" class="blank" data-sol="todavía/aún" style="width: 9ch" autocomplete="off"><span class="alt-hint" hidden></span> juego de vez en cuando.</span></div>
+            <div class="item-row"><span>—¿Sigues jugando al tenis? —Sí, <input type="text" class="blank" data-sol="todavía/aún" data-hint="hint-1" style="width: 9ch" autocomplete="off"> juego de vez en cuando.</span></div>
+            <span class="alt-hint" id="hint-1" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>—¿Vas a la oficina? —No, <input type="text" class="blank" data-sol="todavía/aún" style="width: 9ch" autocomplete="off"><span class="alt-hint" hidden></span> estoy de vacaciones.</span></div>
+            <div class="item-row"><span>—¿Vas a la oficina? —No, <input type="text" class="blank" data-sol="todavía/aún" data-hint="hint-2" style="width: 9ch" autocomplete="off"> estoy de vacaciones.</span></div>
+            <span class="alt-hint" id="hint-2" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>Puedes irte. <input type="text" class="blank" data-sol="Ya no" style="width: 7ch" autocomplete="off"> te necesito.</span></div>
+            <div class="item-row"><span>Puedes irte. <input type="text" class="blank" data-sol="Ya no" data-hint="" style="width: 7ch" autocomplete="off"> te necesito.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span>—¿Me dejas la bici, Manuel? —Lo siento, <input type="text" class="blank" data-sol="ya no" style="width: 7ch" autocomplete="off"> tengo bici. Se me rompió.</span></div>
+            <div class="item-row"><span>—¿Me dejas la bici, Manuel? —Lo siento, <input type="text" class="blank" data-sol="ya no" data-hint="" style="width: 7ch" autocomplete="off"> tengo bici. Se me rompió.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span>—¿Sigue estudiando griego? —Sí, <input type="text" class="blank" data-sol="todavía/aún" style="width: 9ch" autocomplete="off"><span class="alt-hint" hidden></span> lo estudio. Me encanta.</span></div>
+            <div class="item-row"><span>—¿Sigue estudiando griego? —Sí, <input type="text" class="blank" data-sol="todavía/aún" data-hint="hint-3" style="width: 9ch" autocomplete="off"> lo estudio. Me encanta.</span></div>
+            <span class="alt-hint" id="hint-3" hidden></span>
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -104,19 +109,24 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <p class="enunciado">Read the answers and write the questions.</p>
         
         
+        
         <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>—¿<input type="text" class="blank blank-example" value="¿Se conocen ya ustedes?" style="width: 25ch" readonly tabindex="-1">? —Sí, ya nos conocemos.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span>—¿<input type="text" class="blank" data-sol="¿Lo sabes ya?/¿Ya lo sabes?" style="width: 15ch" autocomplete="off"><span class="alt-hint" hidden></span>? —Sí, ya lo sé.</span></div>
+            <div class="item-row"><span>—¿<input type="text" class="blank" data-sol="¿Lo sabes ya?/¿Ya lo sabes?" data-hint="hint-4" style="width: 15ch" autocomplete="off">? —Sí, ya lo sé.</span></div>
+            <span class="alt-hint" id="hint-4" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span>—¿<input type="text" class="blank" data-sol="¿Ha llegado ya Paloma?" style="width: 24ch" autocomplete="off">? —No, aún no ha llegado Paloma.</span></div>
+            <div class="item-row"><span>—¿<input type="text" class="blank" data-sol="¿Ha llegado ya Paloma?" data-hint="" style="width: 24ch" autocomplete="off">? —No, aún no ha llegado Paloma.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>—¿<input type="text" class="blank" data-sol="¿Han empezado ya las clases?" style="width: 30ch" autocomplete="off">? —No, todavía no hemos empezado las clases.</span></div>
+            <div class="item-row"><span>—¿<input type="text" class="blank" data-sol="¿Han empezado ya las clases?" data-hint="" style="width: 30ch" autocomplete="off">? —No, todavía no hemos empezado las clases.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>—¿<input type="text" class="blank" data-sol="¿Está lista ya la comida?/¿Está ya lista la comida?" style="width: 27ch" autocomplete="off"><span class="alt-hint" hidden></span>? —No, la comida no está lista todavía.</span></div>
+            <div class="item-row"><span>—¿<input type="text" class="blank" data-sol="¿Está lista ya la comida?/¿Está ya lista la comida?" data-hint="hint-5" style="width: 27ch" autocomplete="off">? —No, la comida no está lista todavía.</span></div>
+            <span class="alt-hint" id="hint-5" hidden></span>
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -128,28 +138,36 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <p class="enunciado">Complete the sentences with "ya", "todavía no" / "aún no".</p>
         
         
+        
         <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Estoy esperando a Lidia desde las seis, pero <input type="text" class="blank blank-example" value="todavía no" style="width: 12ch" readonly tabindex="-1"> ha llegado.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span>Venid. <input type="text" class="blank" data-sol="Ya" style="width: 4ch" autocomplete="off"> han abierto las puertas.</span></div>
+            <div class="item-row"><span>Venid. <input type="text" class="blank" data-sol="Ya" data-hint="" style="width: 4ch" autocomplete="off"> han abierto las puertas.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span>—¿Qué quieres estudiar? —<input type="text" class="blank" data-sol="Todavía no/Aún no" style="width: 12ch" autocomplete="off"><span class="alt-hint" hidden></span> lo sé.</span></div>
+            <div class="item-row"><span>—¿Qué quieres estudiar? —<input type="text" class="blank" data-sol="Todavía no/Aún no" data-hint="hint-6" style="width: 12ch" autocomplete="off"> lo sé.</span></div>
+            <span class="alt-hint" id="hint-6" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>—¿Sabes que Lorenzo se marcha a Chile? —Sí, <input type="text" class="blank" data-sol="ya" style="width: 4ch" autocomplete="off"> lo sé.</span></div>
+            <div class="item-row"><span>—¿Sabes que Lorenzo se marcha a Chile? —Sí, <input type="text" class="blank" data-sol="ya" data-hint="" style="width: 4ch" autocomplete="off"> lo sé.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>—¿Has leído <input type="text" class="blank" data-sol="Ya" style="width: 4ch" autocomplete="off"> el fichero que te mandé? —No, <input type="text" class="blank" data-sol="todavía no/aún no" style="width: 12ch" autocomplete="off"><span class="alt-hint" hidden></span> lo he abierto.</span></div>
+            <div class="item-row"><span>—¿Has leído <input type="text" class="blank" data-sol="Ya" data-hint="" style="width: 4ch" autocomplete="off"> el fichero que te mandé? —No, <input type="text" class="blank" data-sol="todavía no/aún no" data-hint="hint-7" style="width: 12ch" autocomplete="off"> lo he abierto.</span></div>
+            <span class="alt-hint" id="hint-7" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span>¿<input type="text" class="blank" data-sol="Todavía no/Aún no" style="width: 12ch" autocomplete="off"><span class="alt-hint" hidden></span> has pagado el alquiler? Se va a enfadar el casero.</span></div>
+            <div class="item-row"><span>¿<input type="text" class="blank" data-sol="Todavía no/Aún no" data-hint="hint-8" style="width: 12ch" autocomplete="off"> has pagado el alquiler? Se va a enfadar el casero.</span></div>
+            <span class="alt-hint" id="hint-8" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span>—¿Ha vuelto <input type="text" class="blank" data-sol="ya" style="width: 4ch" autocomplete="off"> Pilar de México? —No, <input type="text" class="blank" data-sol="todavía no/aún no" style="width: 12ch" autocomplete="off"><span class="alt-hint" hidden></span> ha vuelto.</span></div>
+            <div class="item-row"><span>—¿Ha vuelto <input type="text" class="blank" data-sol="ya" data-hint="" style="width: 4ch" autocomplete="off"> Pilar de México? —No, <input type="text" class="blank" data-sol="todavía no/aún no" data-hint="hint-9" style="width: 12ch" autocomplete="off"> ha vuelto.</span></div>
+            <span class="alt-hint" id="hint-9" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">7.</span> <span><input type="text" class="blank" data-sol="Ya" style="width: 4ch" autocomplete="off"> sé dónde está Viña. Me lo ha dicho Tomás.</span></div>
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Ya" data-hint="" style="width: 4ch" autocomplete="off"> sé dónde está Viña. Me lo ha dicho Tomás.</span></div>
+            
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -161,37 +179,48 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <p class="enunciado">Rewrite the sentences with "ya". Make the necessary changes.</p>
         
         
+        
         <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Puedes llamar <u>a partir de ahora</u>. <input type="text" class="blank blank-example" value="Puedes llamar ya" style="width: 18ch" readonly tabindex="-1">.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span><u>Dentro de unos días</u> te llamaremos. <input type="text" class="blank" data-sol="Ya te llamaremos" style="width: 18ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span><u>Dentro de unos días</u> te llamaremos. <input type="text" class="blank" data-sol="Ya te llamaremos" data-hint="" style="width: 18ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span>No creo que venga <u>ahora</u>. <input type="text" class="blank" data-sol="Ya no creo que venga/No creo que venga ya" style="width: 22ch" autocomplete="off"><span class="alt-hint" hidden></span>.</span></div>
+            <div class="item-row"><span>No creo que venga <u>ahora</u>. <input type="text" class="blank" data-sol="Ya no creo que venga/No creo que venga ya" data-hint="hint-10" style="width: 22ch" autocomplete="off">.</span></div>
+            <span class="alt-hint" id="hint-10" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>Te diré algo <u>más adelante</u>. <input type="text" class="blank" data-sol="Ya te diré algo" style="width: 17ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Te diré algo <u>más adelante</u>. <input type="text" class="blank" data-sol="Ya te diré algo" data-hint="" style="width: 17ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>¡<u>Ahora</u> lo entiendo! <input type="text" class="blank" data-sol="¡Ya lo entiendo!" style="width: 18ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>¡<u>Ahora</u> lo entiendo! <input type="text" class="blank" data-sol="¡Ya lo entiendo!" data-hint="" style="width: 18ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span>Hablaremos <u>otro día</u>. <input type="text" class="blank" data-sol="Ya hablaremos" style="width: 15ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Hablaremos <u>otro día</u>. <input type="text" class="blank" data-sol="Ya hablaremos" data-hint="" style="width: 15ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span><u>A partir de ahora</u> podemos comprar las entradas. <input type="text" class="blank" data-sol="Ya podemos comprar las entradas" style="width: 33ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span><u>A partir de ahora</u> podemos comprar las entradas. <input type="text" class="blank" data-sol="Ya podemos comprar las entradas" data-hint="" style="width: 33ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">7.</span> <span>Os contestaré <u>más adelante</u>. <input type="text" class="blank" data-sol="Ya os contestaré" style="width: 18ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Os contestaré <u>más adelante</u>. <input type="text" class="blank" data-sol="Ya os contestaré" data-hint="" style="width: 18ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">8.</span> <span><u>Ahora</u> hay que irse. <input type="text" class="blank" data-sol="Hay que irse ya/Ya hay que irse" style="width: 17ch" autocomplete="off"><span class="alt-hint" hidden></span>.</span></div>
+            <div class="item-row"><span><u>Ahora</u> hay que irse. <input type="text" class="blank" data-sol="Hay que irse ya/Ya hay que irse" data-hint="hint-11" style="width: 17ch" autocomplete="off">.</span></div>
+            <span class="alt-hint" id="hint-11" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">9.</span> <span>Hará buen tiempo <u>más adelante</u>. <input type="text" class="blank" data-sol="Ya hará buen tiempo" style="width: 21ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Hará buen tiempo <u>más adelante</u>. <input type="text" class="blank" data-sol="Ya hará buen tiempo" data-hint="" style="width: 21ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">10.</span> <span>Encontrarán trabajo <u>en el futuro</u>. <input type="text" class="blank" data-sol="Ya encontrarán trabajo" style="width: 24ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Encontrarán trabajo <u>en el futuro</u>. <input type="text" class="blank" data-sol="Ya encontrarán trabajo" data-hint="" style="width: 24ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -244,9 +273,11 @@ function revealGroup(btn){
     } else if (sol.includes('/')) {
       const opciones = sol.split('/');
       f.value = opciones[0];
-      const hint = f.nextElementSibling;
-      if (hint && hint.classList.contains('alt-hint')) {
-        hint.textContent = '(' + opciones.join(' or ') + ' both accepted)';
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
         hint.hidden = false;
       }
     } else {

@@ -104,53 +104,53 @@
     },
     {
       "subejercicio": "40.2",
-      "tipologia": "T7",
+      "tipologia": "T10",
       "enunciado": "Vuelva a escribir las frases con *nos*, *os* o *se*. Atención con el verbo.",
       "items": [
         {
-          "texto_enunciado": "<u>Felipe saludó a David y David saludó a Felipe.</u> _____.",
+          "texto_enunciado": "Felipe saludó a David y David saludó a Felipe. _____.",
           "solucion_correcta": [
             "Felipe y David se saludaron"
           ]
         },
         {
-          "texto_enunciado": "<u>Roque no habla a Julio y Julio no habla a Roque.</u> _____.",
+          "texto_enunciado": "Roque no habla a Julio y Julio no habla a Roque. _____.",
           "solucion_correcta": [
             "Roque y Julio no se hablan"
           ]
         },
         {
-          "texto_enunciado": "<u>Roque te quiere a ti y tú quieres a Roque.</u> _____.",
+          "texto_enunciado": "Roque te quiere a ti y tú quieres a Roque. _____.",
           "solucion_correcta": [
             "Roque y tú os queréis"
           ]
         },
         {
-          "texto_enunciado": "<u>Sofía escribe a Lina y Lina escribe a Sofía.</u> _____.",
+          "texto_enunciado": "Sofía escribe a Lina y Lina escribe a Sofía. _____.",
           "solucion_correcta": [
             "Sofía y Lina se escriben"
           ]
         },
         {
-          "texto_enunciado": "<u>Andrés me conoce muy bien a mí y yo conozco muy bien a Andrés.</u> _____.",
+          "texto_enunciado": "Andrés me conoce muy bien a mí y yo conozco muy bien a Andrés. _____.",
           "solucion_correcta": [
             "Andrés y yo nos conocemos muy bien"
           ]
         },
         {
-          "texto_enunciado": "<u>Rodrigo ayuda a su hermana y su hermana ayuda a Rodrigo.</u> _____.",
+          "texto_enunciado": "Rodrigo ayuda a su hermana y su hermana ayuda a Rodrigo. _____.",
           "solucion_correcta": [
             "Rodrigo y su hermana se ayudan"
           ]
         },
         {
-          "texto_enunciado": "<u>En Navidad, mi mujer me hace un regalo y yo le hago un regalo a ella.</u> _____.",
+          "texto_enunciado": "En Navidad, mi mujer me hace un regalo y yo le hago un regalo a ella. _____.",
           "solucion_correcta": [
             "En Navidad, mi mujer y yo nos hacemos un regalo"
           ]
         },
         {
-          "texto_enunciado": "<u>Tus amigos te ven a ti y tú los ves a ellos los domingos.</u> _____.",
+          "texto_enunciado": "Tus amigos te ven a ti y tú los ves a ellos los domingos. _____.",
           "solucion_correcta": [
             "Tus amigos y tú os veis los domingos"
           ]

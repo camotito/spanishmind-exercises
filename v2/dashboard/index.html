@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard de contenido</title>
+<style>
+  :root {
+    --bg: #f7f5f0; --card: #ffffff; --text: #24262b; --muted: #6b7280;
+    --line: #e2ddd2; --accent: #8a3b12; --ok: #2f7d3c; --bad: #b3261e;
+    --hidden-bg: #f4f0e8;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: var(--bg); color: var(--text); display: flex; min-height: 100vh;
+  }
+  #sidebar {
+    width: 260px; flex: none; background: var(--card); border-right: 1px solid var(--line);
+    padding: 1rem; overflow-y: auto;
+  }
+  #sidebar h1 { font-size: 1.05rem; margin: 0 0 1rem; }
+  .tabs { display: flex; gap: 0.4rem; margin-bottom: 1rem; }
+  .tab-btn {
+    flex: 1; padding: 0.4rem; border: 1px solid var(--line); background: var(--bg);
+    border-radius: 6px; cursor: pointer; font-size: 0.82rem;
+  }
+  .tab-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .tema-btn {
+    display: block; width: 100%; text-align: left; padding: 0.55rem 0.6rem;
+    margin-bottom: 0.3rem; border: 1px solid transparent; background: none;
+    border-radius: 6px; cursor: pointer; font-size: 0.88rem; color: var(--text);
+  }
+  .tema-btn:hover { background: var(--bg); }
+  .tema-btn.active { background: #eee2d3; border-color: var(--accent); font-weight: 600; }
+  .tema-btn .meta { display: block; font-size: 0.72rem; color: var(--muted); font-weight: 400; }
+  #main { flex: 1; padding: 1.5rem 2rem; overflow-y: auto; }
+  #panel-content, #panel-libro { display: none; }
+  #panel-content.active, #panel-libro.active { display: block; }
+  #libro-frame { width: 100%; height: calc(100vh - 3rem); border: 1px solid var(--line); border-radius: 8px; }
+  .toolbar { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.25rem; flex-wrap: wrap; }
+  .toolbar h2 { margin: 0; font-size: 1.3rem; flex: 1 1 auto; min-width: 200px; }
+  button.primary {
+    background: var(--accent); color: #fff; border: none; padding: 0.5rem 1rem;
+    border-radius: 6px; cursor: pointer; font-size: 0.88rem;
+  }
+  button.ghost {
+    background: none; border: 1px solid var(--line); padding: 0.5rem 0.9rem;
+    border-radius: 6px; cursor: pointer; font-size: 0.85rem; color: var(--text);
+  }
+  a.linklike { color: var(--accent); text-decoration: none; font-size: 0.85rem; }
+  #status { font-size: 0.85rem; padding: 0.4rem 0; }
+  #status.ok { color: var(--ok); } #status.bad { color: var(--bad); }
+  .ejercicio-card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 1rem 1.2rem; margin-bottom: 1rem;
+  }
+  .ejercicio-card.oculto { background: var(--hidden-bg); opacity: 0.72; }
+  .ejercicio-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
+  .ejercicio-enunciado { font-weight: 600; margin: 0 0 0.7rem; flex: 1; }
+  .visible-toggle { display: flex; align-items: center; gap: 0.4rem; font-size: 0.82rem; color: var(--muted); white-space: nowrap; }
+  .item-row { display: flex; align-items: flex-start; gap: 0.6rem; padding: 0.35rem 0; border-top: 1px dashed var(--line); }
+  .item-row:first-of-type { border-top: none; }
+  .item-row textarea {
+    flex: 1; font-family: inherit; font-size: 0.88rem; padding: 0.4rem 0.55rem;
+    border: 1px solid var(--line); border-radius: 6px; resize: vertical; min-height: 2.2em;
+  }
+  .item-sol { flex: none; width: 200px; font-size: 0.78rem; color: var(--muted); padding-top: 0.5rem; }
+  .empty-state { color: var(--muted); font-size: 0.9rem; }
+  #sync-log { white-space: pre-wrap; font-family: monospace; font-size: 0.78rem;
+    background: var(--card); border: 1px solid var(--line); border-radius: 6px;
+    padding: 0.6rem; margin-top: 0.5rem; display: none; }
+</style>
+</head>
+<body>
+
+<div id="sidebar">
+  <h1>Dashboard de contenido</h1>
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="content">Contenido</button>
+    <button class="tab-btn" data-tab="libro">Índice del libro</button>
+  </div>
+  <div id="tema-list"></div>
+  <hr style="border:none;border-top:1px solid var(--line);margin:1rem 0">
+  <button class="ghost" id="btn-sync" style="width:100%">Sincronizar ejercicios_permitidos</button>
+  <div id="sync-log"></div>
+</div>
+
+<div id="main">
+  <div id="panel-content" class="active">
+    <div id="editor"><p class="empty-state">Elige un tema de la izquierda.</p></div>
+  </div>
+  <div id="panel-libro">
+    <iframe id="libro-frame" src="/libro_pipeline/indice_unidades.html"></iframe>
+  </div>
+</div>
+
+<script>
+let temaActual = null;
+let dataActual = null;
+
+async function cargarTemas() {
+  const res = await fetch('/api/temas');
+  const temas = await res.json();
+  const list = document.getElementById('tema-list');
+  list.innerHTML = '';
+  for (const t of temas) {
+    const btn = document.createElement('button');
+    btn.className = 'tema-btn';
+    btn.dataset.tema = t.tema;
+    const ocultoTxt = t.n_ocultos ? ` · ${t.n_ocultos} oculto(s)` : '';
+    btn.innerHTML = `${t.titulo}<span class="meta">${t.tema} · ${t.n_ejercicios} ejercicio(s)${ocultoTxt}</span>`;
+    btn.addEventListener('click', () => seleccionarTema(t.tema));
+    list.appendChild(btn);
+  }
+}
+
+async function seleccionarTema(tema) {
+  temaActual = tema;
+  document.querySelectorAll('.tema-btn').forEach(b => b.classList.toggle('active', b.dataset.tema === tema));
+  const res = await fetch('/api/content/' + encodeURIComponent(tema));
+  dataActual = await res.json();
+  renderEditor();
+}
+
+function renderEditor() {
+  const editor = document.getElementById('editor');
+  editor.innerHTML = '';
+
+  const toolbar = document.createElement('div');
+  toolbar.className = 'toolbar';
+  toolbar.innerHTML = `
+    <h2>${dataActual.titulo || dataActual.tema}</h2>
+    <a class="linklike" href="/out/${encodeURIComponent(dataActual.tema)}.html" target="_blank">Ver preview →</a>
+    <button class="primary" id="btn-guardar">Guardar cambios</button>
+  `;
+  editor.appendChild(toolbar);
+
+  const status = document.createElement('div');
+  status.id = 'status';
+  editor.appendChild(status);
+
+  dataActual.ejercicios.forEach((ej, ei) => {
+    const card = document.createElement('div');
+    card.className = 'ejercicio-card' + (ej.oculto ? ' oculto' : '');
+    card.dataset.idx = ei;
+
+    const head = document.createElement('div');
+    head.className = 'ejercicio-head';
+    head.innerHTML = `
+      <p class="ejercicio-enunciado">${escapeHtml(ej.enunciado || '')}</p>
+      <label class="visible-toggle">
+        <input type="checkbox" class="toggle-oculto" ${ej.oculto ? '' : 'checked'}>
+        Visible
+      </label>
+    `;
+    card.appendChild(head);
+
+    head.querySelector('.toggle-oculto').addEventListener('change', (e) => {
+      dataActual.ejercicios[ei].oculto = !e.target.checked;
+      card.classList.toggle('oculto', !e.target.checked);
+    });
+
+    (ej.items || []).forEach((it, ii) => {
+      const row = document.createElement('div');
+      row.className = 'item-row';
+      const sol = Array.isArray(it.solucion_correcta) ? it.solucion_correcta.join(' / ') : '';
+      row.innerHTML = `
+        <textarea rows="1">${escapeHtml(it.texto_enunciado || '')}</textarea>
+        <div class="item-sol">→ ${escapeHtml(sol)}</div>
+      `;
+      const ta = row.querySelector('textarea');
+      autoResize(ta);
+      ta.addEventListener('input', () => {
+        dataActual.ejercicios[ei].items[ii].texto_enunciado = ta.value;
+        autoResize(ta);
+      });
+      card.appendChild(row);
+    });
+
+    editor.appendChild(card);
+  });
+
+  document.getElementById('btn-guardar').addEventListener('click', guardar);
+}
+
+function autoResize(ta) {
+  ta.style.height = 'auto';
+  ta.style.height = (ta.scrollHeight) + 'px';
+}
+
+function escapeHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+async function guardar() {
+  const status = document.getElementById('status');
+  status.textContent = 'Guardando…';
+  status.className = '';
+  try {
+    const res = await fetch('/api/content/' + encodeURIComponent(temaActual), {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(dataActual),
+    });
+    const out = await res.json();
+    if (out.ok) {
+      status.textContent = out.warning ? ('Guardado (aviso: ' + out.warning + ')') : 'Guardado y re-renderizado ✔';
+      status.className = 'ok';
+      cargarTemas();
+    } else {
+      status.textContent = 'Error: ' + out.error;
+      status.className = 'bad';
+    }
+  } catch (e) {
+    status.textContent = 'Error de red: ' + e;
+    status.className = 'bad';
+  }
+}
+
+document.getElementById('btn-sync').addEventListener('click', async () => {
+  const log = document.getElementById('sync-log');
+  log.style.display = 'block';
+  log.textContent = 'Ejecutando…';
+  try {
+    const res = await fetch('/api/sync-permitidos', { method: 'POST' });
+    const out = await res.json();
+    log.textContent = out.log || out.error || '(sin salida)';
+  } catch (e) {
+    log.textContent = 'Error: ' + e;
+  }
+});
+
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('panel-content').classList.toggle('active', btn.dataset.tab === 'content');
+    document.getElementById('panel-libro').classList.toggle('active', btn.dataset.tab === 'libro');
+  });
+});
+
+cargarTemas();
+</script>
+</body>
+</html>

@@ -38,10 +38,13 @@ Uso:
     python3 render.py numeros-ordinales
 """
 import html
+import itertools
 import json
 import os
 import re
 import sys
+
+_hint_ids = itertools.count(1)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONTENT_DIR = os.path.join(HERE, "content")
@@ -69,17 +72,15 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
     margin: 0 0 14px; }
 .item { padding: 8px 0; border-top: 1px dashed var(--line); }
 .item:first-of-type { border-top: none; }
-.item-row { padding-left: 1.8em; text-indent: -1.8em; }
 .item-row + .item-row { margin-top: 4px; }
-.item-num { display: inline-block; width: 1.6em; text-indent: 0;
-    color: #999; font-variant-numeric: tabular-nums; }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
 .blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
     border-radius: 6px; width: 150px; font-size: .95rem; }
 select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
 .blank.ok { border-color: var(--ok); background: #f0f6ee; }
 .blank.bad { border-color: var(--bad); background: #fbeeee; }
-.alt-hint { font-size: .78rem; color: var(--secondary); opacity: .75; margin-left: 2px; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
     display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
 button { font-family: var(--font-body); background: var(--primary); color: #fff;
@@ -158,9 +159,11 @@ function revealGroup(btn){
     } else if (sol.includes('/')) {
       const opciones = sol.split('/');
       f.value = opciones[0];
-      const hint = f.nextElementSibling;
-      if (hint && hint.classList.contains('alt-hint')) {
-        hint.textContent = '(' + opciones.join(' or ') + ' both accepted)';
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
         hint.hidden = false;
       }
     } else {
@@ -201,7 +204,9 @@ def input_width(sol):
 
 def render_widgets(text, solutions):
     """Convierte texto con tokens en HTML, consumiendo `solutions` en orden.
-    Devuelve (html, n_widgets). Falla si el nº de tokens != nº de soluciones."""
+    Devuelve (html, n_widgets, hint_ids). hint_ids son los ids (uno por hueco
+    con alternativas "a/b") de los <span class="alt-hint"> que hay que colocar
+    al FINAL del item (no aqui mismo, en medio de la frase)."""
     events = []
     for m in CHOICE_RE.finditer(text):
         events.append((m.start(), m.end(), "choice", m.group(1)))
@@ -210,6 +215,7 @@ def render_widgets(text, solutions):
     events.sort()
 
     out = []
+    hint_ids = []
     pos = 0
     widx = 0
     for start, end, kind, payload in events:
@@ -222,16 +228,17 @@ def render_widgets(text, solutions):
             )
             out.append(f'<select class="blank" data-sol="{esc(sol)}">{opts}</select>')
         else:
+            hint_id = f"hint-{next(_hint_ids)}" if "/" in sol else ""
             out.append(
                 f'<input type="text" class="blank" data-sol="{esc(sol)}" '
-                f'style="width: {input_width(sol)}ch" autocomplete="off">'
+                f'data-hint="{hint_id}" style="width: {input_width(sol)}ch" autocomplete="off">'
             )
-            if "/" in sol:
-                out.append('<span class="alt-hint" hidden></span>')
+            if hint_id:
+                hint_ids.append(hint_id)
         widx += 1
         pos = end
     out.append(esc_body(text[pos:]))
-    return "".join(out), widx
+    return "".join(out), widx, hint_ids
 
 
 def render_directory(datos):
@@ -253,20 +260,21 @@ DIALOGO_RE = re.compile(r"(?=–)")
 
 
 def render_item(n, item):
-    body, nw = render_widgets(item["texto_enunciado"], item["solucion_correcta"])
+    body, nw, hint_ids = render_widgets(item["texto_enunciado"], item["solucion_correcta"])
     ns = len(item["solucion_correcta"])
     if nw != ns:
         raise ValueError(
             f"Item {n}: {nw} hueco(s) pero {ns} solución(es) -> revisa el JSON:\n  {item['texto_enunciado']!r}"
         )
     lines = [l for l in DIALOGO_RE.split(body) if l.strip()] or [body]
-    rows = "".join(
-        f'<div class="item-row"><span class="item-num">{f"{n}." if i == 0 else ""}</span> <span>{line}</span></div>'
-        for i, line in enumerate(lines)
-    )
+    rows = "".join(f'<div class="item-row"><span>{line}</span></div>' for line in lines)
+    # las notas "(x or y both accepted)" van DESPUES de toda la frase del item,
+    # no pegadas al hueco -- por eso se generan aparte y no dentro de `rows`.
+    hints = "".join(f'<span class="alt-hint" id="{hid}" hidden></span>' for hid in hint_ids)
     return f"""
         <div class="item" data-solved="0">
             {rows}
+            {hints}
         </div>"""
 
 
@@ -333,20 +341,36 @@ def render_ejercicio(ej):
             grafico = f'<p class="pista">[graphic "{esc(ctx["tipo"])}" not implemented yet]</p>'
         else:
             grafico = renderer(ctx["datos"])
-    wordbox = render_wordbox(ej["banco_palabras"]) if ej.get("banco_palabras") else ""
+    banco = ej.get("banco_palabras")
+    # lista de listas = un recuadro DISTINTO por item (poco comun, ej. 122.1);
+    # lista plana = un recuadro compartido por todo el ejercicio (lo normal).
+    banco_por_item = bool(banco) and isinstance(banco[0], list)
+    wordbox = render_wordbox(banco) if (banco and not banco_por_item) else ""
 
     items_data = ej["items"]
     ejemplo = ""
+    ejemplo_wordbox = ""
     if len(items_data) >= 2 and BLANK in items_data[0]["texto_enunciado"]:
+        if banco_por_item:
+            ejemplo_wordbox = render_wordbox(banco[0])
+            banco = banco[1:]
         ejemplo = render_ejemplo(items_data[0])
         items_data = items_data[1:]
-    items = "".join(render_item(i, it) for i, it in enumerate(items_data, start=1))
+
+    if banco_por_item:
+        items = "".join(
+            render_wordbox(banco[i]) + render_item(i + 1, it)
+            for i, it in enumerate(items_data)
+        )
+    else:
+        items = "".join(render_item(i, it) for i, it in enumerate(items_data, start=1))
 
     return f"""
     <section class="ejercicio">
         <p class="enunciado">{render_enunciado(ej['enunciado'])}</p>
         {grafico}
         {wordbox}
+        {ejemplo_wordbox}
         {ejemplo}
         {items}
         <div class="group-controls">
@@ -359,7 +383,9 @@ def render_ejercicio(ej):
 
 def build_html(data):
     titulo = data.get("titulo", data["tema"])
-    body = "".join(render_ejercicio(ej) for ej in data["ejercicios"])
+    # "oculto": true permite desactivar un bloque de ejercicios sin borrarlo
+    # del JSON (p.ej. desde el dashboard) -- simplemente no se renderiza.
+    body = "".join(render_ejercicio(ej) for ej in data["ejercicios"] if not ej.get("oculto"))
     return f"""<!DOCTYPE html>
 <html lang="es">
 <head>

@@ -32,16 +32,20 @@
         }
       ],
       "banco_palabras": [
-        "necesitar",
-        "relacionarse",
-        "tener",
-        "vivir",
-        "vivir",
-        "divertirse",
-        "sentirse",
-        "tener",
-        "vivir",
-        "vivir"
+        [
+          "necesitar",
+          "relacionarse",
+          "tener",
+          "vivir",
+          "vivir"
+        ],
+        [
+          "divertirse",
+          "sentirse",
+          "tener",
+          "vivir",
+          "vivir"
+        ]
       ]
     },
     {

@@ -22,17 +22,15 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
     margin: 0 0 14px; }
 .item { padding: 8px 0; border-top: 1px dashed var(--line); }
 .item:first-of-type { border-top: none; }
-.item-row { padding-left: 1.8em; text-indent: -1.8em; }
 .item-row + .item-row { margin-top: 4px; }
-.item-num { display: inline-block; width: 1.6em; text-indent: 0;
-    color: #999; font-variant-numeric: tabular-nums; }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
 .blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
     border-radius: 6px; width: 150px; font-size: .95rem; }
 select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
 .blank.ok { border-color: var(--ok); background: #f0f6ee; }
 .blank.bad { border-color: var(--bad); background: #fbeeee; }
-.alt-hint { font-size: .78rem; color: var(--secondary); opacity: .75; margin-left: 2px; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
     display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
 button { font-family: var(--font-body); background: var(--primary); color: #fff;
@@ -73,11 +71,13 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
     <section class="ejercicio">
         <p class="enunciado">Complete the sentences with the verbs from the box and "se" or "uno".</p>
         
-        <div class="wordbox"><span class="word-chip">necesitar</span><span class="word-chip">relacionarse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span><span class="word-chip">divertirse</span><span class="word-chip">sentirse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span></div>
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>En un pueblo pequeño <input type="text" class="blank blank-example" value="se vive" style="width: 9ch" readonly tabindex="-1"> mejor. <input type="text" class="blank blank-example" value="Se vive" style="width: 9ch" readonly tabindex="-1"> más tranquilo, <input type="text" class="blank blank-example" value="se tiene" style="width: 10ch" readonly tabindex="-1"> más tiempo libre, <input type="text" class="blank blank-example" value="uno se relaciona" style="width: 18ch" readonly tabindex="-1"> más con la gente y <input type="text" class="blank blank-example" value="se necesita" style="width: 13ch" readonly tabindex="-1"> menos dinero.</span></div></div>
         
+        <div class="wordbox"><span class="word-chip">necesitar</span><span class="word-chip">relacionarse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span></div>
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>En un pueblo pequeño <input type="text" class="blank blank-example" value="se vive" style="width: 9ch" readonly tabindex="-1"> mejor. <input type="text" class="blank blank-example" value="Se vive" style="width: 9ch" readonly tabindex="-1"> más tranquilo, <input type="text" class="blank blank-example" value="se tiene" style="width: 10ch" readonly tabindex="-1"> más tiempo libre, <input type="text" class="blank blank-example" value="uno se relaciona" style="width: 18ch" readonly tabindex="-1"> más con la gente y <input type="text" class="blank blank-example" value="se necesita" style="width: 13ch" readonly tabindex="-1"> menos dinero.</span></div></div>
+        <div class="wordbox"><span class="word-chip">divertirse</span><span class="word-chip">sentirse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span></div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span>En una gran ciudad <input type="text" class="blank" data-sol="se tiene" style="width: 10ch" autocomplete="off"> más libertad y <input type="text" class="blank" data-sol="se divierte uno" style="width: 17ch" autocomplete="off"> más, aunque a veces <input type="text" class="blank" data-sol="se siente uno" style="width: 15ch" autocomplete="off"> solo. Antes <input type="text" class="blank" data-sol="se vivía" style="width: 10ch" autocomplete="off"> mejor en las ciudades, pero ahora <input type="text" class="blank" data-sol="se vive" style="width: 9ch" autocomplete="off"> bien en todas partes.</span></div>
+            <div class="item-row"><span>En una gran ciudad <input type="text" class="blank" data-sol="se tiene" data-hint="" style="width: 10ch" autocomplete="off"> más libertad y <input type="text" class="blank" data-sol="se divierte uno" data-hint="" style="width: 17ch" autocomplete="off"> más, aunque a veces <input type="text" class="blank" data-sol="se siente uno" data-hint="" style="width: 15ch" autocomplete="off"> solo. Antes <input type="text" class="blank" data-sol="se vivía" data-hint="" style="width: 10ch" autocomplete="off"> mejor en las ciudades, pero ahora <input type="text" class="blank" data-sol="se vive" data-hint="" style="width: 9ch" autocomplete="off"> bien en todas partes.</span></div>
+            
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -89,28 +89,36 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <p class="enunciado">Rewrite the sentences starting with one of the expressions from the box.</p>
         
         <div class="wordbox"><span class="word-chip">se dice</span><span class="word-chip">se espera</span><span class="word-chip">se necesita</span><span class="word-chip">se puede</span><span class="word-chip">se sospechaba</span><span class="word-chip">se suele</span><span class="word-chip">se supone</span><span class="word-chip">se veía</span></div>
+        
         <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Estaba claro que Olga estaba contenta. <input type="text" class="blank blank-example" value="Se veía que Olga estaba contenta" style="width: 34ch" readonly tabindex="-1">.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span>En Chile es costumbre bailar la cueca en las fiestas populares. <input type="text" class="blank" data-sol="En Chile se suele bailar la cueca en las fiestas populares" style="width: 60ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>En Chile es costumbre bailar la cueca en las fiestas populares. <input type="text" class="blank" data-sol="En Chile se suele bailar la cueca en las fiestas populares" data-hint="" style="width: 60ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span>Alguien dice que Norma no se encuentra bien. <input type="text" class="blank" data-sol="Se dice que Norma no se encuentra bien" style="width: 40ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Alguien dice que Norma no se encuentra bien. <input type="text" class="blank" data-sol="Se dice que Norma no se encuentra bien" data-hint="" style="width: 40ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>Es posible hablar por teléfono desde aquí. <input type="text" class="blank" data-sol="Se puede hablar por teléfono desde aquí" style="width: 41ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Es posible hablar por teléfono desde aquí. <input type="text" class="blank" data-sol="Se puede hablar por teléfono desde aquí" data-hint="" style="width: 41ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>Alguien sospechaba que Andrés había causado la discusión. <input type="text" class="blank" data-sol="Se sospechaba que Andrés había causado la discusión" style="width: 53ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Alguien sospechaba que Andrés había causado la discusión. <input type="text" class="blank" data-sol="Se sospechaba que Andrés había causado la discusión" data-hint="" style="width: 53ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span>La gente supone que Nacho es muy inteligente. <input type="text" class="blank" data-sol="Se supone que Nacho es muy inteligente" style="width: 40ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>La gente supone que Nacho es muy inteligente. <input type="text" class="blank" data-sol="Se supone que Nacho es muy inteligente" data-hint="" style="width: 40ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span>Para jugar bien al baloncesto no es necesario ser alto. <input type="text" class="blank" data-sol="No se necesita ser alto para jugar bien al baloncesto" style="width: 55ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Para jugar bien al baloncesto no es necesario ser alto. <input type="text" class="blank" data-sol="No se necesita ser alto para jugar bien al baloncesto" data-hint="" style="width: 55ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">7.</span> <span>Algunas personas esperan que el Presidente hable mañana. <input type="text" class="blank" data-sol="Se espera que el Presidente hable mañana" style="width: 42ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Algunas personas esperan que el Presidente hable mañana. <input type="text" class="blank" data-sol="Se espera que el Presidente hable mañana" data-hint="" style="width: 42ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -122,28 +130,36 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <p class="enunciado">Join the two sentences as in the example. Make the necessary changes.</p>
         
         
+        
         <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>La gente se equivoca. Es fácil. <input type="text" class="blank blank-example" value="Es fácil equivocarse" style="width: 22ch" readonly tabindex="-1">.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span>No hay que equivocarse. Es importante. <input type="text" class="blank" data-sol="Es importante no equivocarse" style="width: 30ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>No hay que equivocarse. Es importante. <input type="text" class="blank" data-sol="Es importante no equivocarse" data-hint="" style="width: 30ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span>Hay que ser abiertos. Es mejor. <input type="text" class="blank" data-sol="Es mejor ser abiertos" style="width: 23ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Hay que ser abiertos. Es mejor. <input type="text" class="blank" data-sol="Es mejor ser abiertos" data-hint="" style="width: 23ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>Hay que saber cocinar. Es útil. <input type="text" class="blank" data-sol="Es útil saber cocinar" style="width: 23ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Hay que saber cocinar. Es útil. <input type="text" class="blank" data-sol="Es útil saber cocinar" data-hint="" style="width: 23ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>Hay que hacer ejercicio. Es bueno. <input type="text" class="blank" data-sol="Es bueno hacer ejercicio" style="width: 26ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Hay que hacer ejercicio. Es bueno. <input type="text" class="blank" data-sol="Es bueno hacer ejercicio" data-hint="" style="width: 26ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span>No hay que ser egoísta. Es malo. <input type="text" class="blank" data-sol="Es malo ser egoísta" style="width: 21ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>No hay que ser egoísta. Es malo. <input type="text" class="blank" data-sol="Es malo ser egoísta" data-hint="" style="width: 21ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span>No se puede estudiar con tanto ruido. Es difícil. <input type="text" class="blank" data-sol="Es difícil estudiar con tanto ruido" style="width: 37ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>No se puede estudiar con tanto ruido. Es difícil. <input type="text" class="blank" data-sol="Es difícil estudiar con tanto ruido" data-hint="" style="width: 37ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">7.</span> <span>No se puede salir con este tiempo. Es imposible. <input type="text" class="blank" data-sol="Es imposible salir con este tiempo" style="width: 36ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>No se puede salir con este tiempo. Es imposible. <input type="text" class="blank" data-sol="Es imposible salir con este tiempo" data-hint="" style="width: 36ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -155,28 +171,36 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <p class="enunciado">Complete the sentences with the following verbs in the appropriate form: "amanecer", "anochecer", "haber", "hacer", "nevar", "ser".</p>
         
         
+        
         <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span><input type="text" class="blank blank-example" value="Hizo" style="width: 6ch" readonly tabindex="-1"> bastante frío durante la noche.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span><input type="text" class="blank" data-sol="Hay" style="width: 5ch" autocomplete="off"> que acostarse temprano. Mañana salimos a las siete.</span></div>
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Hay" data-hint="" style="width: 5ch" autocomplete="off"> que acostarse temprano. Mañana salimos a las siete.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span>Ya <input type="text" class="blank" data-sol="hace" style="width: 6ch" autocomplete="off"> dos meses que no voy a la piscina.</span></div>
+            <div class="item-row"><span>Ya <input type="text" class="blank" data-sol="hace" data-hint="" style="width: 6ch" autocomplete="off"> dos meses que no voy a la piscina.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>—¿A qué hora <input type="text" class="blank" data-sol="anochece" style="width: 10ch" autocomplete="off"> en esta parte de México? —Pronto. A las cinco de la tarde.</span></div>
+            <div class="item-row"><span>—¿A qué hora <input type="text" class="blank" data-sol="anochece" data-hint="" style="width: 10ch" autocomplete="off"> en esta parte de México? —Pronto. A las cinco de la tarde.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>Abre la ventana. <input type="text" class="blank" data-sol="Hace" style="width: 6ch" autocomplete="off"> calor.</span></div>
+            <div class="item-row"><span>Abre la ventana. <input type="text" class="blank" data-sol="Hace" data-hint="" style="width: 6ch" autocomplete="off"> calor.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span>¿Cuánto tiempo <input type="text" class="blank" data-sol="hace/hacía" style="width: 7ch" autocomplete="off"><span class="alt-hint" hidden></span> que no nos veíamos?</span></div>
+            <div class="item-row"><span>¿Cuánto tiempo <input type="text" class="blank" data-sol="hace/hacía" data-hint="hint-12" style="width: 7ch" autocomplete="off"> que no nos veíamos?</span></div>
+            <span class="alt-hint" id="hint-12" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span>Hoy <input type="text" class="blank" data-sol="ha nevado" style="width: 11ch" autocomplete="off"> en la sierra. Las cumbres están blancas.</span></div>
+            <div class="item-row"><span>Hoy <input type="text" class="blank" data-sol="ha nevado" data-hint="" style="width: 11ch" autocomplete="off"> en la sierra. Las cumbres están blancas.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">7.</span> <span><input type="text" class="blank" data-sol="Es" style="width: 4ch" autocomplete="off"> temprano. Aún no <input type="text" class="blank" data-sol="hay" style="width: 5ch" autocomplete="off"> luz. En invierno <input type="text" class="blank" data-sol="amanece" style="width: 9ch" autocomplete="off"> muy tarde.</span></div>
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Es" data-hint="" style="width: 4ch" autocomplete="off"> temprano. Aún no <input type="text" class="blank" data-sol="hay" data-hint="" style="width: 5ch" autocomplete="off"> luz. En invierno <input type="text" class="blank" data-sol="amanece" data-hint="" style="width: 9ch" autocomplete="off"> muy tarde.</span></div>
+            
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -229,9 +253,11 @@ function revealGroup(btn){
     } else if (sol.includes('/')) {
       const opciones = sol.split('/');
       f.value = opciones[0];
-      const hint = f.nextElementSibling;
-      if (hint && hint.classList.contains('alt-hint')) {
-        hint.textContent = '(' + opciones.join(' or ') + ' both accepted)';
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
         hint.hidden = false;
       }
     } else {

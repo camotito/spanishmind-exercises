@@ -22,17 +22,15 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
     margin: 0 0 14px; }
 .item { padding: 8px 0; border-top: 1px dashed var(--line); }
 .item:first-of-type { border-top: none; }
-.item-row { padding-left: 1.8em; text-indent: -1.8em; }
 .item-row + .item-row { margin-top: 4px; }
-.item-num { display: inline-block; width: 1.6em; text-indent: 0;
-    color: #999; font-variant-numeric: tabular-nums; }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
 .blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
     border-radius: 6px; width: 150px; font-size: .95rem; }
 select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
 .blank.ok { border-color: var(--ok); background: #f0f6ee; }
 .blank.bad { border-color: var(--bad); background: #fbeeee; }
-.alt-hint { font-size: .78rem; color: var(--secondary); opacity: .75; margin-left: 2px; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
     display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
 button { font-family: var(--font-body); background: var(--primary); color: #fff;
@@ -74,49 +72,64 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <p class="enunciado">Complete the sentences with "me", "te", "se"... only when necessary.</p>
         
         
+        
         <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Rosa <input type="text" class="blank blank-example" value="se" style="width: 4ch" readonly tabindex="-1"> cortó con un cuchillo ayer.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span>Sandra <input type="text" class="blank" data-sol="Se" style="width: 4ch" autocomplete="off"> mira mucho al espejo.</span></div>
+            <div class="item-row"><span>Sandra <input type="text" class="blank" data-sol="Se" data-hint="" style="width: 4ch" autocomplete="off"> mira mucho al espejo.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span>Juan <input type="text" class="blank" data-sol="ø" style="width: 4ch" autocomplete="off"> cortó el pan con su navaja.</span></div>
+            <div class="item-row"><span>Juan <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> cortó el pan con su navaja.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>No <input type="text" class="blank" data-sol="te" style="width: 4ch" autocomplete="off"> mires tanto al espejo, Saúl.</span></div>
+            <div class="item-row"><span>No <input type="text" class="blank" data-sol="te" data-hint="" style="width: 4ch" autocomplete="off"> mires tanto al espejo, Saúl.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>¿Cuándo <input type="text" class="blank" data-sol="Se" style="width: 4ch" autocomplete="off"> duchan los niños?</span></div>
+            <div class="item-row"><span>¿Cuándo <input type="text" class="blank" data-sol="Se" data-hint="" style="width: 4ch" autocomplete="off"> duchan los niños?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span>Mi hermana y yo <input type="text" class="blank" data-sol="nos" style="width: 5ch" autocomplete="off"> quemamos cocinando.</span></div>
+            <div class="item-row"><span>Mi hermana y yo <input type="text" class="blank" data-sol="nos" data-hint="" style="width: 5ch" autocomplete="off"> quemamos cocinando.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span>Roberto <input type="text" class="blank" data-sol="ø" style="width: 4ch" autocomplete="off"> ha quemado las cartas de Aurora.</span></div>
+            <div class="item-row"><span>Roberto <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> ha quemado las cartas de Aurora.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">7.</span> <span>Julio y Pedro <input type="text" class="blank" data-sol="se" style="width: 4ch" autocomplete="off"> saludaron en la fiesta.</span></div>
+            <div class="item-row"><span>Julio y Pedro <input type="text" class="blank" data-sol="se" data-hint="" style="width: 4ch" autocomplete="off"> saludaron en la fiesta.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">8.</span> <span>¿Quién <input type="text" class="blank" data-sol="ø" style="width: 4ch" autocomplete="off"> ha tirado mis gafas a la basura?</span></div>
+            <div class="item-row"><span>¿Quién <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> ha tirado mis gafas a la basura?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">9.</span> <span>¿Por qué <input type="text" class="blank" data-sol="se" style="width: 4ch" autocomplete="off"> pone usted el sombrero?</span></div>
+            <div class="item-row"><span>¿Por qué <input type="text" class="blank" data-sol="se" data-hint="" style="width: 4ch" autocomplete="off"> pone usted el sombrero?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">10.</span> <span>Mira. (Yo) <input type="text" class="blank" data-sol="Me" style="width: 4ch" autocomplete="off"> veo en el agua.</span></div>
+            <div class="item-row"><span>Mira. (Yo) <input type="text" class="blank" data-sol="Me" data-hint="" style="width: 4ch" autocomplete="off"> veo en el agua.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">11.</span> <span>¿Qué <input type="text" class="blank" data-sol="ø" style="width: 4ch" autocomplete="off"> ves en el agua?</span></div>
+            <div class="item-row"><span>¿Qué <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> ves en el agua?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">12.</span> <span>¿Cuándo <input type="text" class="blank" data-sol="te" style="width: 4ch" autocomplete="off"> lavas el pelo, Sonia?</span></div>
+            <div class="item-row"><span>¿Cuándo <input type="text" class="blank" data-sol="te" data-hint="" style="width: 4ch" autocomplete="off"> lavas el pelo, Sonia?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">13.</span> <span>¿Vosotros <input type="text" class="blank" data-sol="os" style="width: 4ch" autocomplete="off"> afeitáis todos los días?</span></div>
+            <div class="item-row"><span>¿Vosotros <input type="text" class="blank" data-sol="os" data-hint="" style="width: 4ch" autocomplete="off"> afeitáis todos los días?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">14.</span> <span>Alicia <input type="text" class="blank" data-sol="se" style="width: 4ch" autocomplete="off"> rompió una pierna esquiando.</span></div>
+            <div class="item-row"><span>Alicia <input type="text" class="blank" data-sol="se" data-hint="" style="width: 4ch" autocomplete="off"> rompió una pierna esquiando.</span></div>
+            
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -128,28 +141,36 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <p class="enunciado">Rewrite the sentences with "nos", "os", or "se". Pay attention to the verb.</p>
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span><u>Felipe saludó a David y David saludó a Felipe.</u> <input type="text" class="blank blank-example" value="Felipe y David se saludaron" style="width: 29ch" readonly tabindex="-1">.</span></div></div>
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Felipe saludó a David y David saludó a Felipe. <input type="text" class="blank blank-example" value="Felipe y David se saludaron" style="width: 29ch" readonly tabindex="-1">.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span><u>Roque no habla a Julio y Julio no habla a Roque.</u> <input type="text" class="blank" data-sol="Roque y Julio no se hablan" style="width: 28ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Roque no habla a Julio y Julio no habla a Roque. <input type="text" class="blank" data-sol="Roque y Julio no se hablan" data-hint="" style="width: 28ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span><u>Roque te quiere a ti y tú quieres a Roque.</u> <input type="text" class="blank" data-sol="Roque y tú os queréis" style="width: 23ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Roque te quiere a ti y tú quieres a Roque. <input type="text" class="blank" data-sol="Roque y tú os queréis" data-hint="" style="width: 23ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span><u>Sofía escribe a Lina y Lina escribe a Sofía.</u> <input type="text" class="blank" data-sol="Sofía y Lina se escriben" style="width: 26ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Sofía escribe a Lina y Lina escribe a Sofía. <input type="text" class="blank" data-sol="Sofía y Lina se escriben" data-hint="" style="width: 26ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span><u>Andrés me conoce muy bien a mí y yo conozco muy bien a Andrés.</u> <input type="text" class="blank" data-sol="Andrés y yo nos conocemos muy bien" style="width: 36ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Andrés me conoce muy bien a mí y yo conozco muy bien a Andrés. <input type="text" class="blank" data-sol="Andrés y yo nos conocemos muy bien" data-hint="" style="width: 36ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span><u>Rodrigo ayuda a su hermana y su hermana ayuda a Rodrigo.</u> <input type="text" class="blank" data-sol="Rodrigo y su hermana se ayudan" style="width: 32ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Rodrigo ayuda a su hermana y su hermana ayuda a Rodrigo. <input type="text" class="blank" data-sol="Rodrigo y su hermana se ayudan" data-hint="" style="width: 32ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span><u>En Navidad, mi mujer me hace un regalo y yo le hago un regalo a ella.</u> <input type="text" class="blank" data-sol="En Navidad, mi mujer y yo nos hacemos un regalo" style="width: 49ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>En Navidad, mi mujer me hace un regalo y yo le hago un regalo a ella. <input type="text" class="blank" data-sol="En Navidad, mi mujer y yo nos hacemos un regalo" data-hint="" style="width: 49ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">7.</span> <span><u>Tus amigos te ven a ti y tú los ves a ellos los domingos.</u> <input type="text" class="blank" data-sol="Tus amigos y tú os veis los domingos" style="width: 38ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Tus amigos te ven a ti y tú los ves a ellos los domingos. <input type="text" class="blank" data-sol="Tus amigos y tú os veis los domingos" data-hint="" style="width: 38ch" autocomplete="off">.</span></div>
+            
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -161,40 +182,52 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <p class="enunciado">Complete the following sentences with "me", "te", "se"... when necessary.</p>
         
         
+        
         <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>(Yo) <input type="text" class="blank blank-example" value="Me" style="width: 4ch" readonly tabindex="-1"> conozco muy bien.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">1.</span> <span>Teresa y Antonio <input type="text" class="blank" data-sol="se" style="width: 4ch" autocomplete="off"> conocen muy bien.</span></div>
+            <div class="item-row"><span>Teresa y Antonio <input type="text" class="blank" data-sol="se" data-hint="" style="width: 4ch" autocomplete="off"> conocen muy bien.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">2.</span> <span><input type="text" class="blank" data-sol="ø" style="width: 4ch" autocomplete="off"> conozco muy bien a mis hijos.</span></div>
+            <div class="item-row"><span><input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> conozco muy bien a mis hijos.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">3.</span> <span>¿Por qué no <input type="text" class="blank" data-sol="Se" style="width: 4ch" autocomplete="off"> quieren Isabel y Leo?</span></div>
+            <div class="item-row"><span>¿Por qué no <input type="text" class="blank" data-sol="Se" data-hint="" style="width: 4ch" autocomplete="off"> quieren Isabel y Leo?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">4.</span> <span>¿Por qué no <input type="text" class="blank" data-sol="ø" style="width: 4ch" autocomplete="off"> quieres a tu hermano?</span></div>
+            <div class="item-row"><span>¿Por qué no <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> quieres a tu hermano?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">5.</span> <span>¿Por qué <input type="text" class="blank" data-sol="os" style="width: 4ch" autocomplete="off"> peleáis tú y Juan?</span></div>
+            <div class="item-row"><span>¿Por qué <input type="text" class="blank" data-sol="os" data-hint="" style="width: 4ch" autocomplete="off"> peleáis tú y Juan?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">6.</span> <span>¿<input type="text" class="blank" data-sol="Os" style="width: 4ch" autocomplete="off"> veis mucho Alfonso y tú?</span></div>
+            <div class="item-row"><span>¿<input type="text" class="blank" data-sol="Os" data-hint="" style="width: 4ch" autocomplete="off"> veis mucho Alfonso y tú?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">7.</span> <span>Raúl y Teresa no <input type="text" class="blank" data-sol="se" style="width: 4ch" autocomplete="off"> hablan.</span></div>
+            <div class="item-row"><span>Raúl y Teresa no <input type="text" class="blank" data-sol="se" data-hint="" style="width: 4ch" autocomplete="off"> hablan.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">8.</span> <span>¿<input type="text" class="blank" data-sol="Se" style="width: 4ch" autocomplete="off"> ve usted en el espejo?</span></div>
+            <div class="item-row"><span>¿<input type="text" class="blank" data-sol="Se" data-hint="" style="width: 4ch" autocomplete="off"> ve usted en el espejo?</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">9.</span> <span>María y Alfredo <input type="text" class="blank" data-sol="se" style="width: 4ch" autocomplete="off"> ven todos los días.</span></div>
+            <div class="item-row"><span>María y Alfredo <input type="text" class="blank" data-sol="se" data-hint="" style="width: 4ch" autocomplete="off"> ven todos los días.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">10.</span> <span>¿Por qué no <input type="text" class="blank" data-sol="te" style="width: 4ch" autocomplete="off"> vistes, Rosa? Es tarde.</span></div>
+            <div class="item-row"><span>¿Por qué no <input type="text" class="blank" data-sol="te" data-hint="" style="width: 4ch" autocomplete="off"> vistes, Rosa? Es tarde.</span></div>
+            
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span class="item-num">11.</span> <span>¿<input type="text" class="blank" data-sol="ø" style="width: 4ch" autocomplete="off"> has vestido ya a los niños, Jaime?</span></div>
+            <div class="item-row"><span>¿<input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> has vestido ya a los niños, Jaime?</span></div>
+            
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
@@ -247,9 +280,11 @@ function revealGroup(btn){
     } else if (sol.includes('/')) {
       const opciones = sol.split('/');
       f.value = opciones[0];
-      const hint = f.nextElementSibling;
-      if (hint && hint.classList.contains('alt-hint')) {
-        hint.textContent = '(' + opciones.join(' or ') + ' both accepted)';
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
         hint.hidden = false;
       }
     } else {

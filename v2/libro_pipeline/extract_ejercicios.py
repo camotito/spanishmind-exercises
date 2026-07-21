@@ -94,6 +94,11 @@ forma de items encaje a la fuerza.
 
 Reglas adicionales:
 - "banco_palabras" solo si hay una caja/recuadro de palabras para elegir; si no, omite el campo.
+  Si el bloque tiene UN SOLO recuadro compartido por todos los items (lo mas comun), es una \
+lista plana: ["palabra1", "palabra2", ...]. Si en cambio el libro imprime un recuadro \
+DISTINTO para cada item/parrafo (varias cajas separadas, cada una con sus propias palabras), \
+usa una lista de listas, una sublista por item EN EL MISMO ORDEN que "items": \
+[["palabra1", "palabra2"], ["palabra3", "palabra4"]]. No mezcles ambas formas.
 - "contexto_grafico" solo si hay un apoyo visual (dibujo, tabla, arbol, reloj...); si no, omite el campo.
   Tipos conocidos y su forma de "datos" (SIEMPRE objetos con estas claves exactas, nunca strings planas):
   - "directory": [{{"nombre": "...", "piso": "..."}}, ...]

@@ -7,7 +7,9 @@
 #   titulo:                nombre legible y amigable (con ejemplos, sin jerga gramatical) — se muestra en la página
 #   descripcion_gramatical: nombre técnico del tema gramatical — NO se muestra, solo para buscar/ubicar por terminología
 #   depende_de:            lista de slugs que conviene dominar antes (aristas del DAG)
-#   ejercicios_permitidos: tipologías que TÚ autorizas para este tema (no las elige la LLM)
+#   ejercicios_permitidos: tipologías que TÚ autorizas para este tema (no las elige la LLM) —
+#                          para temas con unidad_libro, se derivan de las tipologías que
+#                          realmente aparecen en v2/ejemplos/<tema>.json (no es un guess)
 #   tiempos_permitidos:    tiempos verbales que la LLM PUEDE usar (control de dificultad;
 #                          no debe usar ningún otro, ni en frases correctas ni incorrectas)
 #   grafico:               tipo de soporte gráfico o 'none'
@@ -28,7 +30,7 @@
   descripcion_gramatical: "Clasificación formal de género por terminaciones"
   unidad_libro: 2
   depende_de: [sustantivos-genero-profesiones]
-  ejercicios_permitidos: [T1, T2]
+  ejercicios_permitidos: [T14, T2]
   tiempos_permitidos: ["presente de indicativo"]
   grafico: vocabulary_box
 
@@ -37,7 +39,7 @@
   descripcion_gramatical: "Morfología de número: formación del plural"
   unidad_libro: 3
   depende_de: [sustantivos-genero-profesiones]
-  ejercicios_permitidos: [T4, T2, T7]
+  ejercicios_permitidos: [T4, T15, T7]
   tiempos_permitidos: ["presente de indicativo"]
   grafico: visual_count
 
@@ -73,7 +75,7 @@
   descripcion_gramatical: "Contraste entre artículo determinado e indeterminado"
   unidad_libro: 7
   depende_de: [articulo-determinado, articulo-indeterminado]
-  ejercicios_permitidos: [T2, T5, T3]
+  ejercicios_permitidos: [T3, T5]
   tiempos_permitidos: ["presente de indicativo"]
   grafico: none
 
@@ -82,7 +84,7 @@
   descripcion_gramatical: "Artículo determinado con nombres propios y geografía"
   unidad_libro: 8
   depende_de: [articulo-determinado]
-  ejercicios_permitidos: [T3, T6, T5]
+  ejercicios_permitidos: [T3, T2, T5]
   tiempos_permitidos: ["presente de indicativo"]
   grafico: map
 
@@ -91,7 +93,7 @@
   descripcion_gramatical: "Artículo determinado con expresiones temporales y precio"
   unidad_libro: 9
   depende_de: [articulo-determinado]
-  ejercicios_permitidos: [T2, T3, T6]
+  ejercicios_permitidos: [T6, T3]
   tiempos_permitidos: ["presente de indicativo"]
   grafico: clocks
 
@@ -118,6 +120,6 @@
   descripcion_gramatical: "Pronombres de objeto directo e indirecto"
   unidad_libro: 38
   depende_de: [sustantivos-genero-profesiones]
-  ejercicios_permitidos: [T3, T5]
+  ejercicios_permitidos: [T5, T3]
   tiempos_permitidos: ["presente de indicativo", "pretérito perfecto"]
   grafico: none

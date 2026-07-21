@@ -6,16 +6,20 @@
       "tipologia_libre": null,
       "enunciado": "Complete las frases con los verbos del recuadro y *se* o *uno*.",
       "banco_palabras": [
-        "necesitar",
-        "relacionarse",
-        "tener",
-        "vivir",
-        "vivir",
-        "divertirse",
-        "sentirse",
-        "tener",
-        "vivir",
-        "vivir"
+        [
+          "necesitar",
+          "relacionarse",
+          "tener",
+          "vivir",
+          "vivir"
+        ],
+        [
+          "divertirse",
+          "sentirse",
+          "tener",
+          "vivir",
+          "vivir"
+        ]
       ],
       "items": [
         {
