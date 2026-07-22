@@ -34,7 +34,7 @@ Este catálogo define el comportamiento pedagógico, el propósito y la estructu
 
 ---
 
-> **Nota (2026-07-20):** las tipologías T8-T17 se añadieron tras digitalizar el libro completo (126 unidades) -- el catálogo original (T1-T7) se había definido usando solo 12 de las 126 unidades y no cubría patrones reales frecuentes (completar con banco de palabras adaptadas, ordenar segmentos, combinar/reescribir oraciones, emparejamiento en columnas, clasificación en tabla, enumeración abierta, acentuación directa sobre la palabra). Ver `v2/libro_pipeline/clasificar_otros.py` para el criterio de asignación.
+> **Nota (2026-07-20):** las tipologías T8-T17 se añadieron tras digitalizar el libro completo (126 unidades) -- el catálogo original (T1-T7) se había definido usando solo 12 de las 126 unidades y no cubría patrones reales frecuentes (completar con banco de palabras adaptadas, ordenar segmentos, combinar/reescribir oraciones, emparejamiento en columnas, clasificación en tabla, enumeración abierta, acentuación directa sobre la palabra). Ver `libro_pipeline/clasificar_otros.py` para el criterio de asignación.
 
 ## `[T8]` Completar con Banco de Palabras Adaptadas
 * **Descripción:** Se ofrece un conjunto compartido de opciones (verbos en infinitivo, adjetivos, expresiones...) -- en un recuadro visual o enumeradas en el propio enunciado -- y el alumno debe elegir la adecuada para cada hueco y adaptarla (conjugarla, concordarla en género/número) al contexto de la frase.

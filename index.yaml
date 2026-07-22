@@ -1,0 +1,232 @@
+# Índice v2 — sin numeración: identidad por slug estable + grafo de dependencias.
+# El orden de estudio NO se escribe a mano: se deriva por orden topológico de `depende_de`.
+# Puedes añadir, borrar o partir temas tocando solo las aristas del tema afectado.
+#
+# Campos:
+#   tema:                  slug estable (identificador único)
+#   titulo:                nombre legible y amigable (con ejemplos, sin jerga gramatical) — se muestra en la página
+#   descripcion_gramatical: nombre técnico del tema gramatical — NO se muestra, solo para buscar/ubicar por terminología
+#   depende_de:            lista de slugs que conviene dominar antes (aristas del DAG)
+#   ejercicios_permitidos: tipologías que TÚ autorizas para este tema (no las elige la LLM) —
+#                          para temas con unidad_libro, se derivan de las tipologías que
+#                          realmente aparecen en ejemplos/<tema>.json (no es un guess) —
+#                          ver libro_pipeline/sync_ejercicios_permitidos.py
+#   forma_verbal:          tiempo/forma verbal NUEVA que introduce este tema (null si no
+#                          introduce ninguna) — de aquí sale tiempos_permitidos: se acumula
+#                          recorriendo el grafo de depende_de (ver
+#                          libro_pipeline/compute_tiempos_permitidos.py), no se escribe a mano
+#   tiempos_permitidos:    CALCULADO, no editar a mano (correr compute_tiempos_permitidos.py) —
+#                          unión de forma_verbal de este tema + todos sus ancestros en el grafo
+#   grafico:               tipo de soporte gráfico o 'none'
+#   unidad_libro:          número de unidad en "Gramática de uso del español" (Aragonés/Palencia),
+#                          si este tema viene de ahí — permite cruzar con ejemplos/<tema>.json
+
+- tema: sustantivos-genero-profesiones
+  titulo: "El profesor, la profesora"
+  descripcion_gramatical: "Sustantivos: género y profesiones"
+  unidad_libro: 1
+  forma_verbal: null
+  depende_de: []
+  ejercicios_permitidos: [T2, T4]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: family_tree
+
+- tema: clasificacion-genero-terminaciones
+  titulo: "¿Masculino o femenino? (-o, -a, -e...)"
+  descripcion_gramatical: "Clasificación formal de género por terminaciones"
+  unidad_libro: 2
+  forma_verbal: null
+  depende_de: [sustantivos-genero-profesiones]
+  ejercicios_permitidos: [T14, T2]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: vocabulary_box
+
+- tema: numero-plural
+  titulo: "Gato → gatos"
+  descripcion_gramatical: "Morfología de número: formación del plural"
+  unidad_libro: 3
+  forma_verbal: null
+  depende_de: [sustantivos-genero-profesiones]
+  ejercicios_permitidos: [T4, T15, T7]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: visual_count
+
+- tema: articulo-indeterminado
+  titulo: "Un, una, unos, unas"
+  descripcion_gramatical: "El artículo indeterminado"
+  unidad_libro: 4
+  forma_verbal: null
+  depende_de: [sustantivos-genero-profesiones, numero-plural]
+  ejercicios_permitidos: [T3, T2]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: functional_images
+
+- tema: ausencia-articulo
+  titulo: "Soy médico (sin artículo)"
+  descripcion_gramatical: "Ausencia de artículo (artículo cero / contraste)"
+  unidad_libro: 5
+  forma_verbal: null
+  depende_de: [articulo-indeterminado]
+  ejercicios_permitidos: [T2, T5, T3]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none
+
+- tema: articulo-determinado
+  titulo: "El, la, los, las"
+  descripcion_gramatical: "El artículo determinado"
+  unidad_libro: 6
+  forma_verbal: null
+  depende_de: [articulo-indeterminado]
+  ejercicios_permitidos: [T3, T2]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: family_tree
+
+- tema: contraste-articulos
+  titulo: "El/la vs. un/una"
+  descripcion_gramatical: "Contraste entre artículo determinado e indeterminado"
+  unidad_libro: 7
+  forma_verbal: null
+  depende_de: [articulo-determinado, articulo-indeterminado]
+  ejercicios_permitidos: [T3, T5]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none
+
+- tema: articulo-nombres-propios
+  titulo: "La India, El Cairo"
+  descripcion_gramatical: "Artículo determinado con nombres propios y geografía"
+  unidad_libro: 8
+  forma_verbal: null
+  depende_de: [articulo-determinado]
+  ejercicios_permitidos: [T3, T2, T5]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: map
+
+- tema: articulo-tiempo-cantidad
+  titulo: "A las tres, tres euros el kilo"
+  descripcion_gramatical: "Artículo determinado con expresiones temporales y precio"
+  unidad_libro: 9
+  forma_verbal: null
+  depende_de: [articulo-determinado]
+  ejercicios_permitidos: [T6, T3]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: clocks
+
+- tema: otros-usos-articulo
+  titulo: "Con la mano, en el hospital"
+  descripcion_gramatical: "Otros usos del artículo determinado (instrumentos/lugares)"
+  unidad_libro: 10
+  forma_verbal: null
+  depende_de: [articulo-determinado]
+  ejercicios_permitidos: [T2, T3]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: instruments_visual
+
+- tema: numeros-ordinales
+  titulo: "Primero, segundo, tercero..."
+  descripcion_gramatical: "Los numerales ordinales"
+  unidad_libro: 27
+  forma_verbal: null
+  depende_de: [numero-plural]
+  ejercicios_permitidos: [T2, T4]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: directory
+
+- tema: pronombres-lo-la-le
+  titulo: "Le, la, lo"
+  descripcion_gramatical: "Pronombres de objeto directo e indirecto"
+  unidad_libro: 38
+  forma_verbal: null
+  depende_de: [sustantivos-genero-profesiones]
+  ejercicios_permitidos: [T5, T3]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none
+
+- tema: pronombres-reflexivos-y-con-valor-reciproco
+  titulo: "Me ducho, nos queremos"
+  descripcion_gramatical: "Pronombres reflexivos y con valor recíproco"
+  unidad_libro: 40
+  forma_verbal: "verbos reflexivos"
+  depende_de: [pronombres-lo-la-le]
+  ejercicios_permitidos: [T3, T10]
+  tiempos_permitidos: ["verbos reflexivos"]
+  grafico: none
+
+- tema: imperativo-afirmativo-verbos-regulares
+  titulo: "Abre la ventana"
+  descripcion_gramatical: "Imperativo afirmativo: verbos regulares"
+  unidad_libro: 73
+  forma_verbal: null
+  depende_de: [pronombres-reflexivos-y-con-valor-reciproco]
+  ejercicios_permitidos: [T8, T4]
+  tiempos_permitidos: ["verbos reflexivos"]
+  grafico: functional_images
+
+- tema: imperativo-negativo-verbos-regulares
+  titulo: "No abras la ventana"
+  descripcion_gramatical: "Imperativo negativo: verbos regulares"
+  unidad_libro: 74
+  forma_verbal: "imperativo (regular)"
+  depende_de: [imperativo-afirmativo-verbos-regulares]
+  ejercicios_permitidos: [T2, T3, T4]
+  tiempos_permitidos: ["verbos reflexivos", "imperativo (regular)"]
+  grafico: functional_images
+
+- tema: imperativo-verbos-irregulares-1
+  titulo: "Cierra la ventana"
+  descripcion_gramatical: "Imperativo: verbos irregulares (1)"
+  unidad_libro: 75
+  forma_verbal: "imperativo (irregular)"
+  depende_de: [imperativo-negativo-verbos-regulares]
+  ejercicios_permitidos: [T8, T2, T4]
+  tiempos_permitidos: ["verbos reflexivos", "imperativo (regular)", "imperativo (irregular)"]
+  grafico: functional_images
+
+- tema: imperativo-verbos-irregulares-2
+  titulo: "Pon la mesa"
+  descripcion_gramatical: "Imperativo: verbos irregulares (2)"
+  unidad_libro: 76
+  forma_verbal: null
+  depende_de: [imperativo-verbos-irregulares-1]
+  ejercicios_permitidos: [T2, T8, T4]
+  tiempos_permitidos: ["verbos reflexivos", "imperativo (regular)", "imperativo (irregular)"]
+  grafico: functional_images
+
+- tema: imperativo-de-verbos-con-se
+  titulo: "Lávate"
+  descripcion_gramatical: "Imperativo de verbos con se"
+  unidad_libro: 77
+  forma_verbal: null
+  depende_de: [imperativo-verbos-irregulares-2]
+  ejercicios_permitidos: [T2, T4]
+  tiempos_permitidos: ["verbos reflexivos", "imperativo (regular)", "imperativo (irregular)"]
+  grafico: functional_images
+
+- tema: imperativo-con-pronombres-de-complemento
+  titulo: "Dámelo, no me lo des"
+  descripcion_gramatical: "Imperativo con pronombres de complemento"
+  unidad_libro: 78
+  forma_verbal: null
+  depende_de: [imperativo-de-verbos-con-se]
+  ejercicios_permitidos: [T3, T4]
+  tiempos_permitidos: ["verbos reflexivos", "imperativo (regular)", "imperativo (irregular)"]
+  grafico: none
+
+- tema: adverbios-de-tiempo-2
+  titulo: "Ya, todavía, aún"
+  descripcion_gramatical: "Adverbios de tiempo (2)"
+  unidad_libro: 102
+  forma_verbal: null
+  depende_de: [imperativo-con-pronombres-de-complemento]
+  ejercicios_permitidos: [T3, T12, T7]
+  tiempos_permitidos: ["verbos reflexivos", "imperativo (regular)", "imperativo (irregular)"]
+  grafico: none
+
+- tema: oraciones-impersonales
+  titulo: "Aquí se trabaja mucho"
+  descripcion_gramatical: "Oraciones impersonales"
+  unidad_libro: 122
+  forma_verbal: null
+  depende_de: [adverbios-de-tiempo-2]
+  ejercicios_permitidos: [T8, T11, T10]
+  tiempos_permitidos: ["verbos reflexivos", "imperativo (regular)", "imperativo (irregular)"]
+  grafico: none

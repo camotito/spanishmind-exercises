@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dámelo, no me lo des</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+    --bg: #FBF7F0; --card: #ffffff; --primary: #C1440E; --secondary: #2E4053;
+    --accent: #E9B44C; --ok: #4F7942; --bad: #B33A3A; --text: #2B2B2B;
+    --line: #e5ddd0;
+    --font-heading: 'Playfair Display', serif; --font-body: 'DM Sans', sans-serif;
+}
+* { box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text);
+    max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
+h1 { font-family: var(--font-heading); color: var(--secondary); }
+.ejercicio { background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
+.ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
+    margin: 0 0 14px; }
+.item { padding: 8px 0; border-top: 1px dashed var(--line); }
+.item:first-of-type { border-top: none; }
+.item-row + .item-row { margin-top: 4px; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
+.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
+    border-radius: 6px; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
+.blank.ok { border-color: var(--ok); background: #f0f6ee; }
+.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
+.group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+button { font-family: var(--font-body); background: var(--primary); color: #fff;
+    border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: .85rem; }
+button.ghost { background: transparent; color: var(--secondary); text-decoration: underline; padding: 8px 4px; }
+button:hover { opacity: .9; }
+.group-feedback { font-weight: 600; font-size: .9rem; display: none; margin-left: auto; }
+.group-feedback.correct { color: var(--ok); }
+.group-feedback.wrong { color: var(--bad); }
+/* soporte gráfico */
+.directory { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.plate { text-align: center; padding: 10px 6px; border: 1px solid var(--line);
+    border-radius: 6px; background: #fff; }
+.plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
+.plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
+@media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.scene-list { list-style: none; margin: 0 0 18px; padding: 10px 14px;
+    border: 2px solid var(--secondary); border-radius: 8px; background: #fffdf8; }
+.scene-list li { padding: 4px 0; border-top: 1px dashed var(--line); }
+.scene-list li:first-child { border-top: none; }
+.scene-num { color: var(--secondary); font-weight: 700; }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
+.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
+    color: var(--ok); font-weight: 700; font-size: .72rem;
+    text-transform: uppercase; letter-spacing: .04em; }
+input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
+    background: #fff; cursor: default; }
+#resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
+    margin-top: 30px; color: var(--secondary); }
+</style>
+</head>
+<body>
+<h1>Dámelo, no me lo des</h1>
+
+    <section class="ejercicio">
+        <p class="enunciado">Answer as in the examples.</p>
+        
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>—¿Hago la cena? —Sí, <input type="text" class="blank blank-example" value="hazla" style="width: 7ch" readonly tabindex="-1"> ya. Tengo hambre. —No, <input type="text" class="blank blank-example" value="no la hagas" style="width: 13ch" readonly tabindex="-1"> todavía. Es pronto.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>—¿Abrimos los regalos? —Sí, <input type="text" class="blank" data-sol="abridlos" data-hint="" style="width: 10ch" autocomplete="off"> ya. —No, <input type="text" class="blank" data-sol="no los abráis" data-hint="" style="width: 15ch" autocomplete="off"> todavía. Esperad a mañana.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>—¿Despierto a Andrés? —Sí, <input type="text" class="blank" data-sol="despiértalo" data-hint="" style="width: 13ch" autocomplete="off"> ya. Es muy tarde. —No, <input type="text" class="blank" data-sol="no lo despiertes" data-hint="" style="width: 18ch" autocomplete="off"> todavía. Déjale dormir.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>—¿Frío las patatas? —Sí, <input type="text" class="blank" data-sol="fríelas" data-hint="" style="width: 9ch" autocomplete="off"> ya. —No, <input type="text" class="blank" data-sol="no las frías" data-hint="" style="width: 14ch" autocomplete="off"> todavía.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>—¿Pongo el vídeo? —Sí, <input type="text" class="blank" data-sol="ponlo" data-hint="" style="width: 7ch" autocomplete="off"> ya. —No, <input type="text" class="blank" data-sol="no lo pongas" data-hint="" style="width: 14ch" autocomplete="off"> todavía. Voy al baño.</span></div>
+            
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Complete the recipe instructions using the appropriate verbs and pronouns.</p>
+        
+        
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Para hacer tortilla de patatas (pelar) <input type="text" class="blank" data-sol="pele" data-hint="" style="width: 6ch" autocomplete="off"> unas patatas, (cortar) <input type="text" class="blank" data-sol="córtelas" data-hint="" style="width: 10ch" autocomplete="off"> en láminas finas. (Echar) <input type="text" class="blank" data-sol="Eche" data-hint="" style="width: 6ch" autocomplete="off"> sal a las patatas y (freír) <input type="text" class="blank" data-sol="fríalas" data-hint="" style="width: 9ch" autocomplete="off"> en aceite muy caliente. (Cortar) <input type="text" class="blank" data-sol="Corte" data-hint="" style="width: 7ch" autocomplete="off"> un poco de cebolla y (freír) <input type="text" class="blank" data-sol="fríala" data-hint="" style="width: 8ch" autocomplete="off"> con las patatas. Luego (batir) <input type="text" class="blank" data-sol="bata" data-hint="" style="width: 6ch" autocomplete="off"> dos huevos y (mezclar) <input type="text" class="blank" data-sol="mézclelos" data-hint="" style="width: 11ch" autocomplete="off"> con las patatas. (Poner) <input type="text" class="blank" data-sol="Ponga" data-hint="" style="width: 7ch" autocomplete="off"> la masa de patata y huevo en la sartén y (freír) <input type="text" class="blank" data-sol="fríala" data-hint="" style="width: 8ch" autocomplete="off"> un par de minutos. (Dar) <input type="text" class="blank" data-sol="Dé" data-hint="" style="width: 4ch" autocomplete="off"> la vuelta a la tortilla y, cuando esté dorada, (poner) <input type="text" class="blank" data-sol="póngala" data-hint="" style="width: 9ch" autocomplete="off"> en un plato limpio.</span></div>
+            
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Complete the sentences with the verbs in parentheses and the appropriate pronouns.</p>
+        
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>La luz está encendida. (Apagar) <input type="text" class="blank blank-example" value="Apágala" style="width: 9ch" readonly tabindex="-1">, por favor.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La ventana está abierta. (Cerrar) <input type="text" class="blank" data-sol="Ciérrala" data-hint="" style="width: 10ch" autocomplete="off">, por favor. Hace frío.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Estas cartas son urgentes. (Enviar) <input type="text" class="blank" data-sol="Envíelas" data-hint="" style="width: 10ch" autocomplete="off"> hoy mismo si tiene tiempo, por favor.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>No sabemos hacer este ejercicio. (Ayudar) <input type="text" class="blank" data-sol="Ayúdanos" data-hint="" style="width: 10ch" autocomplete="off">, Jesús.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Tengo sed. (Pasar) <input type="text" class="blank" data-sol="Pásame" data-hint="" style="width: 8ch" autocomplete="off"> el agua, por favor.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>—¿Le pregunto a Jorge? —No. (no, preguntar) <input type="text" class="blank" data-sol="no le preguntes" data-hint="" style="width: 17ch" autocomplete="off">. No sabe nada.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Raquel, (hacer) <input type="text" class="blank" data-sol="haznos" data-hint="" style="width: 8ch" autocomplete="off"> una foto a Raúl y a mí. Queremos tener un recuerdo.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Mario, (hacer) <input type="text" class="blank" data-sol="hazme" data-hint="" style="width: 7ch" autocomplete="off"> un favor. (Comprar) <input type="text" class="blank" data-sol="Cómprame" data-hint="" style="width: 10ch" autocomplete="off"> unos sellos cuando salgas.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Miguel, (no, enseñar) <input type="text" class="blank" data-sol="no le enseñes" data-hint="" style="width: 15ch" autocomplete="off"> el regalo a nadie.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Los niños están pisando las flores. (Decir) <input type="text" class="blank" data-sol="Diles" data-hint="" style="width: 7ch" autocomplete="off"> algo, Sebastián.</span></div>
+            
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Complete the sentences with the verbs in parentheses and the appropriate pronouns.</p>
+        
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Si te sobra una entrada, (no, regalar) <input type="text" class="blank blank-example" value="no se la regales" style="width: 18ch" readonly tabindex="-1"> a Héctor. (Regalar) <input type="text" class="blank blank-example" value="Regálamela" style="width: 12ch" readonly tabindex="-1"> a mí.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Si quiere usted algo, (no, pedir) <input type="text" class="blank" data-sol="no se lo pida" data-hint="" style="width: 15ch" autocomplete="off"> a otro. (Pedir) <input type="text" class="blank" data-sol="Pídamelo" data-hint="" style="width: 10ch" autocomplete="off"> a mí.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Necesito saber la verdad. (Decir) <input type="text" class="blank" data-sol="Dígamela" data-hint="" style="width: 10ch" autocomplete="off">, doctor.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Ese policía quiere ver tu pasaporte. (Enseñar) <input type="text" class="blank" data-sol="Enséñaselo" data-hint="" style="width: 12ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Esa pluma es mía. (Dar) <input type="text" class="blank" data-sol="Dámela" data-hint="" style="width: 8ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Te he comprado una chaqueta. (Ponerse) <input type="text" class="blank" data-sol="Póntela" data-hint="" style="width: 9ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Ese libro es de Rosa. (No, dar) <input type="text" class="blank" data-sol="No se lo des" data-hint="" style="width: 14ch" autocomplete="off"> a Pedro.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>—¿Quieres ver el regalo? —No, (no, enseñar) <input type="text" class="blank" data-sol="no me lo enseñes" data-hint="" style="width: 18ch" autocomplete="off"> todavía.</span></div>
+            
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+<p id="resumen"></p>
+<script>
+function norm(s){
+  return (s||'').trim().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fieldOk(f){
+  const sol = f.getAttribute('data-sol');
+  const val = f.value;
+  if (sol === '\u00f8') return val.trim() === '' || norm(val) === norm('\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
+  return norm(val) === norm(sol);
+}
+function checkGroup(btn){
+  const section = btn.closest('.ejercicio');
+  let total = 0, correct = 0;
+  section.querySelectorAll('.item').forEach(item => {
+    const fields = item.querySelectorAll('[data-sol]');
+    let itemOk = true;
+    fields.forEach(f => {
+      const ok = fieldOk(f);
+      f.classList.toggle('ok', ok);
+      f.classList.toggle('bad', !ok);
+      total++;
+      if (ok) { correct++; } else { itemOk = false; }
+    });
+    item.dataset.solved = itemOk ? '1' : '0';
+  });
+  const allok = correct === total;
+  const fb = section.querySelector('.group-feedback');
+  fb.textContent = allok ? ('\u2714 All correct! (' + correct + '/' + total + ')')
+                          : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
+  fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
+  fb.style.display = 'inline';
+  updateResumen();
+}
+function revealGroup(btn){
+  const section = btn.closest('.ejercicio');
+  section.querySelectorAll('[data-sol]').forEach(f => {
+    const sol = f.getAttribute('data-sol');
+    if (f.tagName === 'SELECT') {
+      [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
+    f.classList.remove('bad'); f.classList.add('ok');
+  });
+}
+function updateResumen(){
+  const total = document.querySelectorAll('.item').length;
+  const solved = document.querySelectorAll('.item[data-solved="1"]').length;
+  const r = document.getElementById('resumen');
+  r.textContent = solved >= total ? ('Done! ' + solved + '/' + total)
+                                   : ('Progress: ' + solved + '/' + total);
+}
+document.addEventListener('DOMContentLoaded', updateResumen);
+</script>
+</body>
+</html>

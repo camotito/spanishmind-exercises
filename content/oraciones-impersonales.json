@@ -1,0 +1,223 @@
+{
+  "tema": "oraciones-impersonales",
+  "titulo": "Aquí se trabaja mucho",
+  "descripcion_gramatical": "Oraciones impersonales",
+  "ejercicios": [
+    {
+      "tipologia": "T8",
+      "enunciado": "Complete the sentences with the verbs from the box and *se* or *uno*.",
+      "items": [
+        {
+          "texto_enunciado": "En un pueblo pequeño _____ mejor. _____ más tranquilo, _____ más tiempo libre, _____ más con la gente y _____ menos dinero.",
+          "solucion_correcta": [
+            "se vive",
+            "Se vive",
+            "se tiene",
+            "uno se relaciona / se relaciona uno",
+            "se necesita"
+          ]
+        },
+        {
+          "texto_enunciado": "En una gran ciudad _____ más libertad y _____ más, aunque a veces _____ solo. Antes _____ mejor en las ciudades, pero ahora _____ bien en todas partes.",
+          "solucion_correcta": [
+            "se tiene",
+            "se divierte uno",
+            "se siente uno",
+            "se vivía",
+            "se vive"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        [
+          "necesitar",
+          "relacionarse",
+          "tener",
+          "vivir",
+          "vivir"
+        ],
+        [
+          "divertirse",
+          "sentirse",
+          "tener",
+          "vivir",
+          "vivir"
+        ]
+      ]
+    },
+    {
+      "tipologia": "T11",
+      "enunciado": "Rewrite the sentences starting with one of the expressions from the box.",
+      "items": [
+        {
+          "texto_enunciado": "Estaba claro que Olga estaba contenta. _____.",
+          "solucion_correcta": [
+            "Se veía que Olga estaba contenta"
+          ]
+        },
+        {
+          "texto_enunciado": "En Chile es costumbre bailar la cueca en las fiestas populares. _____.",
+          "solucion_correcta": [
+            "En Chile se suele bailar la cueca en las fiestas populares"
+          ]
+        },
+        {
+          "texto_enunciado": "Alguien dice que Norma no se encuentra bien. _____.",
+          "solucion_correcta": [
+            "Se dice que Norma no se encuentra bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Es posible hablar por teléfono desde aquí. _____.",
+          "solucion_correcta": [
+            "Se puede hablar por teléfono desde aquí"
+          ]
+        },
+        {
+          "texto_enunciado": "Alguien sospechaba que Andrés había causado la discusión. _____.",
+          "solucion_correcta": [
+            "Se sospechaba que Andrés había causado la discusión"
+          ]
+        },
+        {
+          "texto_enunciado": "La gente supone que Nacho es muy inteligente. _____.",
+          "solucion_correcta": [
+            "Se supone que Nacho es muy inteligente"
+          ]
+        },
+        {
+          "texto_enunciado": "Para jugar bien al baloncesto no es necesario ser alto. _____.",
+          "solucion_correcta": [
+            "No se necesita ser alto para jugar bien al baloncesto"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunas personas esperan que el Presidente hable mañana. _____.",
+          "solucion_correcta": [
+            "Se espera que el Presidente hable mañana"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "se dice",
+        "se espera",
+        "se necesita",
+        "se puede",
+        "se sospechaba",
+        "se suele",
+        "se supone",
+        "se veía"
+      ]
+    },
+    {
+      "tipologia": "T10",
+      "enunciado": "Join the two sentences as in the example. Make the necessary changes.",
+      "items": [
+        {
+          "texto_enunciado": "La gente se equivoca. Es fácil. _____.",
+          "solucion_correcta": [
+            "Es fácil equivocarse"
+          ]
+        },
+        {
+          "texto_enunciado": "No hay que equivocarse. Es importante. _____.",
+          "solucion_correcta": [
+            "Es importante no equivocarse"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que ser abiertos. Es mejor. _____.",
+          "solucion_correcta": [
+            "Es mejor ser abiertos"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que saber cocinar. Es útil. _____.",
+          "solucion_correcta": [
+            "Es útil saber cocinar"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que hacer ejercicio. Es bueno. _____.",
+          "solucion_correcta": [
+            "Es bueno hacer ejercicio"
+          ]
+        },
+        {
+          "texto_enunciado": "No hay que ser egoísta. Es malo. _____.",
+          "solucion_correcta": [
+            "Es malo ser egoísta"
+          ]
+        },
+        {
+          "texto_enunciado": "No se puede estudiar con tanto ruido. Es difícil. _____.",
+          "solucion_correcta": [
+            "Es difícil estudiar con tanto ruido"
+          ]
+        },
+        {
+          "texto_enunciado": "No se puede salir con este tiempo. Es imposible. _____.",
+          "solucion_correcta": [
+            "Es imposible salir con este tiempo"
+          ]
+        }
+      ]
+    },
+    {
+      "tipologia": "T8",
+      "enunciado": "Complete the sentences with the following verbs in the appropriate form: *amanecer*, *anochecer*, *haber*, *hacer*, *nevar*, *ser*.",
+      "items": [
+        {
+          "texto_enunciado": "_____ bastante frío durante la noche.",
+          "solucion_correcta": [
+            "Hizo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ que acostarse temprano. Mañana salimos a las siete.",
+          "solucion_correcta": [
+            "Hay"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya _____ dos meses que no voy a la piscina.",
+          "solucion_correcta": [
+            "hace"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿A qué hora _____ en esta parte de México? —Pronto. A las cinco de la tarde.",
+          "solucion_correcta": [
+            "anochece"
+          ]
+        },
+        {
+          "texto_enunciado": "Abre la ventana. _____ calor.",
+          "solucion_correcta": [
+            "Hace"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuánto tiempo _____ que no nos veíamos?",
+          "solucion_correcta": [
+            "hace/hacía"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy _____ en la sierra. Las cumbres están blancas.",
+          "solucion_correcta": [
+            "ha nevado"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ temprano. Aún no _____ luz. En invierno _____ muy tarde.",
+          "solucion_correcta": [
+            "Es",
+            "hay",
+            "amanece"
+          ]
+        }
+      ]
+    }
+  ]
+}

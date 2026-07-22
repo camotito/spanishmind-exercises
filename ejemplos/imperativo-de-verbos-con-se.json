@@ -1,0 +1,226 @@
+{
+  "tema": "imperativo-de-verbos-con-se",
+  "titulo": "lávate",
+  "descripcion_gramatical": "Imperativo de verbos con se",
+  "fuente": "libro",
+  "unidad_libro": 77,
+  "ejercicios": [
+    {
+      "subejercicio": "77.1",
+      "tipologia": "T2",
+      "enunciado": "Complete las frases con los verbos del recuadro en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "_____ el casco.",
+          "solucion_correcta": [
+            "Pónganse"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ los cinturones.",
+          "solucion_correcta": [
+            "Abróchense"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ No tiene gracia.",
+          "solucion_correcta": [
+            "No te rías"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ aquí, por favor.",
+          "solucion_correcta": [
+            "Siéntese"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "abrocharse",
+        "ponerse",
+        "reírse",
+        "sentarse"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Una persona habla con dos hombres que llevan cascos en una zona de trabajo."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer habla con dos pasajeros sentados en un vehículo."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Una mujer está junto a una niña que se ríe."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Una mujer habla con un señor mayor y señala un asiento."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "77.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "(No, ponerse) _____ la blusa roja. Te sienta mejor esta azul.",
+          "solucion_correcta": [
+            "No te pongas"
+          ]
+        },
+        {
+          "texto_enunciado": "Niños, (despedirse) _____ de los primos.",
+          "solucion_correcta": [
+            "despedíos"
+          ]
+        },
+        {
+          "texto_enunciado": "(No, irse) _____, Gonzalo. Quiero verte después.",
+          "solucion_correcta": [
+            "No te vayas"
+          ]
+        },
+        {
+          "texto_enunciado": "(Quitarse) _____ el abrigo, Sr. Laureano. Aquí hace calor.",
+          "solucion_correcta": [
+            "Quítese"
+          ]
+        },
+        {
+          "texto_enunciado": "(Atarse) _____ los zapatos. Te vas a caer.",
+          "solucion_correcta": [
+            "Átate"
+          ]
+        },
+        {
+          "texto_enunciado": "(Subirse) _____ a la moto, Javi. Vamos a dar una vuelta.",
+          "solucion_correcta": [
+            "Súbete"
+          ]
+        },
+        {
+          "texto_enunciado": "(Ducharse) _____, niños. Tenéis el pelo muy sucio.",
+          "solucion_correcta": [
+            "Duchaos"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Raúl, (sentarse) _____ y (estarse) _____ quieto!",
+          "solucion_correcta": [
+            "siéntate",
+            "estate"
+          ]
+        },
+        {
+          "texto_enunciado": "Niños, (lavarse) _____ las manos antes de comer.",
+          "solucion_correcta": [
+            "lavaos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.3",
+      "tipologia": "T4",
+      "enunciado": "¿Qué diría en cada caso?",
+      "items": [
+        {
+          "texto_enunciado": "(a un niño) (Peinarse) _____. Tienes el pelo alborotado.",
+          "solucion_correcta": [
+            "Péinate"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Mirarse) _____ al espejo. Tienes mala cara.",
+          "solucion_correcta": [
+            "Mírate"
+          ]
+        },
+        {
+          "texto_enunciado": "(a unos amigos) (No, irse) _____ a la cama todavía. Es temprano.",
+          "solucion_correcta": [
+            "No os vayáis"
+          ]
+        },
+        {
+          "texto_enunciado": "(a unos desconocidos) (No, bañarse) _____ aquí. Es muy peligroso.",
+          "solucion_correcta": [
+            "No se bañen"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Afeitarse) _____. Estás mejor sin barba.",
+          "solucion_correcta": [
+            "Aféitate"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un amigo) Ten cuidado. (No caerse) _____ de la escalera.",
+          "solucion_correcta": [
+            "No te caigas"
+          ]
+        },
+        {
+          "texto_enunciado": "(a unos amigos) ¡(Despertarse) _____! Son las diez.",
+          "solucion_correcta": [
+            "Despertaos"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un niño) (Irse) _____ a la cama. Es muy tarde.",
+          "solucion_correcta": [
+            "Vete"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un desconocido) (No, sentarse) _____ en este banco. Está sucio.",
+          "solucion_correcta": [
+            "No se siente"
+          ]
+        },
+        {
+          "texto_enunciado": "(a unos alumnos) ¡(Callarse) _____, por favor! Os quiero decir algo.",
+          "solucion_correcta": [
+            "Callaos/Cállense"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un amigo) (No, moverse) _____. Voy a hacerte una foto.",
+          "solucion_correcta": [
+            "No te muevas"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un señor mayor) (No, preocuparse) _____. Yo le ayudo.",
+          "solucion_correcta": [
+            "No se preocupe"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Ponerse) _____ las gafas. El sol es muy fuerte.",
+          "solucion_correcta": [
+            "Ponte"
+          ]
+        },
+        {
+          "texto_enunciado": "(a unos desconocidos) (Callarse) _____, por favor. No oigo la película.",
+          "solucion_correcta": [
+            "Cállense"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un amigo) (No, ponerse) _____ esa corbata. Esta es más bonita.",
+          "solucion_correcta": [
+            "No te pongas"
+          ]
+        }
+      ]
+    }
+  ]
+}

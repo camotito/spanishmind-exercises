@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Primero, segundo, tercero...</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+    --bg: #FBF7F0; --card: #ffffff; --primary: #C1440E; --secondary: #2E4053;
+    --accent: #E9B44C; --ok: #4F7942; --bad: #B33A3A; --text: #2B2B2B;
+    --line: #e5ddd0;
+    --font-heading: 'Playfair Display', serif; --font-body: 'DM Sans', sans-serif;
+}
+* { box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text);
+    max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
+h1 { font-family: var(--font-heading); color: var(--secondary); }
+.ejercicio { background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
+.ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
+    margin: 0 0 14px; }
+.item { padding: 8px 0; border-top: 1px dashed var(--line); }
+.item:first-of-type { border-top: none; }
+.item-row + .item-row { margin-top: 4px; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
+.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
+    border-radius: 6px; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
+.blank.ok { border-color: var(--ok); background: #f0f6ee; }
+.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
+.group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+button { font-family: var(--font-body); background: var(--primary); color: #fff;
+    border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: .85rem; }
+button.ghost { background: transparent; color: var(--secondary); text-decoration: underline; padding: 8px 4px; }
+button:hover { opacity: .9; }
+.group-feedback { font-weight: 600; font-size: .9rem; display: none; margin-left: auto; }
+.group-feedback.correct { color: var(--ok); }
+.group-feedback.wrong { color: var(--bad); }
+/* soporte gráfico */
+.directory { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.plate { text-align: center; padding: 10px 6px; border: 1px solid var(--line);
+    border-radius: 6px; background: #fff; }
+.plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
+.plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
+@media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.scene-list { list-style: none; margin: 0 0 18px; padding: 10px 14px;
+    border: 2px solid var(--secondary); border-radius: 8px; background: #fffdf8; }
+.scene-list li { padding: 4px 0; border-top: 1px dashed var(--line); }
+.scene-list li:first-child { border-top: none; }
+.scene-num { color: var(--secondary); font-weight: 700; }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
+.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
+    color: var(--ok); font-weight: 700; font-size: .72rem;
+    text-transform: uppercase; letter-spacing: .04em; }
+input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
+    background: #fff; cursor: default; }
+#resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
+    margin-top: 30px; color: var(--secondary); }
+</style>
+</head>
+<body>
+<h1>Primero, segundo, tercero...</h1>
+
+    <section class="ejercicio">
+        <p class="enunciado">Look at the building directory and complete the sentences.</p>
+        <div class="directory"><div class="plate"><span class="plate-name">Antonio Oliva</span><span class="plate-floor">2.º C</span></div><div class="plate"><span class="plate-name">Servicios de Gas</span><span class="plate-floor">11.º A</span></div><div class="plate"><span class="plate-name">Sastrería Moderna</span><span class="plate-floor">10.º D</span></div><div class="plate"><span class="plate-name">Moreno-Arribas abogados</span><span class="plate-floor">3.º D</span></div><div class="plate"><span class="plate-name">Molina Cardoso</span><span class="plate-floor">12.º A</span></div><div class="plate"><span class="plate-name">Gestoría Salvado</span><span class="plate-floor">1.º A</span></div><div class="plate"><span class="plate-name">Hispanosa</span><span class="plate-floor">14.º D</span></div><div class="plate"><span class="plate-name">Academia Cervantes</span><span class="plate-floor">4.º B</span></div><div class="plate"><span class="plate-name">Julia Salinas</span><span class="plate-floor">7.º C</span></div><div class="plate"><span class="plate-name">Editorial Mundisa</span><span class="plate-floor">9.º D</span></div></div>
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Antonio Oliva vive en el <input type="text" class="blank blank-example" value="segundo" style="width: 9ch" readonly tabindex="-1"> piso.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Las oficinas de Servicios de Gas están en el piso <input type="text" class="blank" data-sol="undécimo" data-hint="" style="width: 10ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La sastrería Moderna está en la <input type="text" class="blank" data-sol="décima" data-hint="" style="width: 8ch" autocomplete="off"> planta.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Hay un despacho de abogados en el <input type="text" class="blank" data-sol="tercer" data-hint="" style="width: 8ch" autocomplete="off"> piso.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La familia Molina Cardoso vive en el piso <input type="text" class="blank" data-sol="duodécimo" data-hint="" style="width: 11ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La gestoría Salvado está en el <input type="text" class="blank" data-sol="primer" data-hint="" style="width: 8ch" autocomplete="off"> piso.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Las oficinas de Hispanosa están en el piso <input type="text" class="blank" data-sol="decimocuarto" data-hint="" style="width: 14ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La academia Cervantes está en la <input type="text" class="blank" data-sol="cuarta" data-hint="" style="width: 8ch" autocomplete="off"> planta.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Julia Salinas vive en el piso <input type="text" class="blank" data-sol="séptimo" data-hint="" style="width: 9ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La editorial Mundisa está en el <input type="text" class="blank" data-sol="noveno" data-hint="" style="width: 8ch" autocomplete="off"> piso.</span></div>
+            
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Write out the ordinal number for each name.</p>
+        
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Juan Carlos I → Juan Carlos <input type="text" class="blank blank-example" value="primero" style="width: 9ch" readonly tabindex="-1"></span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Isabel I → Isabel <input type="text" class="blank" data-sol="primera" data-hint="" style="width: 9ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Juan XXIII → Juan <input type="text" class="blank" data-sol="veintitrés" data-hint="" style="width: 12ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Alfonso XII → Alfonso <input type="text" class="blank" data-sol="doce" data-hint="" style="width: 6ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Luis XV → Luis <input type="text" class="blank" data-sol="quince" data-hint="" style="width: 8ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Iván IV → Iván <input type="text" class="blank" data-sol="cuarto" data-hint="" style="width: 8ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Margarita II → Margarita <input type="text" class="blank" data-sol="segunda" data-hint="" style="width: 9ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Pío XI → Pío <input type="text" class="blank" data-sol="once" data-hint="" style="width: 6ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Juana III → Juana <input type="text" class="blank" data-sol="tercera" data-hint="" style="width: 9ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Juan Pablo II → Juan Pablo <input type="text" class="blank" data-sol="segundo" data-hint="" style="width: 9ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Write out the numbers in parentheses using words.</p>
+        
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Estudio (2.º) <input type="text" class="blank blank-example" value="segundo" style="width: 9ch" readonly tabindex="-1"> curso de Arquitectura.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Enero es el (1.º) <input type="text" class="blank" data-sol="primer" data-hint="" style="width: 8ch" autocomplete="off"> mes del año.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Estoy leyendo un libro con (15) <input type="text" class="blank" data-sol="quince" data-hint="" style="width: 8ch" autocomplete="off"> capítulos. Voy por el capítulo (11.º) <input type="text" class="blank" data-sol="once" data-hint="" style="width: 6ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>El Valencia es el (1.º) <input type="text" class="blank" data-sol="primero" data-hint="" style="width: 9ch" autocomplete="off"> en la Liga de fútbol.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Javi es el (3.º) <input type="text" class="blank" data-sol="tercero" data-hint="" style="width: 9ch" autocomplete="off"> de sus hermanos.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Ellas han sido las (1.ª) <input type="text" class="blank" data-sol="primeras" data-hint="" style="width: 10ch" autocomplete="off"> en llegar.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La ñ es la letra (15.ª) <input type="text" class="blank" data-sol="decimoquinta" data-hint="" style="width: 14ch" autocomplete="off"> del alfabeto.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>El despacho de José está en el (8.º) <input type="text" class="blank" data-sol="octavo" data-hint="" style="width: 8ch" autocomplete="off"> piso.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Tuerza por la (2.ª) <input type="text" class="blank" data-sol="segunda" data-hint="" style="width: 9ch" autocomplete="off"> calle a la izquierda.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Nos vamos de vacaciones la (3.ª) <input type="text" class="blank" data-sol="tercera" data-hint="" style="width: 9ch" autocomplete="off"> semana de agosto.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>El siglo (18) <input type="text" class="blank" data-sol="dieciocho" data-hint="" style="width: 11ch" autocomplete="off"> fue el Siglo de las Luces.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Tina y Carla acabaron (4.ªs) <input type="text" class="blank" data-sol="cuartas" data-hint="" style="width: 9ch" autocomplete="off"> en el campeonato de tenis.</span></div>
+            
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+<p id="resumen"></p>
+<script>
+function norm(s){
+  return (s||'').trim().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fieldOk(f){
+  const sol = f.getAttribute('data-sol');
+  const val = f.value;
+  if (sol === '\u00f8') return val.trim() === '' || norm(val) === norm('\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
+  return norm(val) === norm(sol);
+}
+function checkGroup(btn){
+  const section = btn.closest('.ejercicio');
+  let total = 0, correct = 0;
+  section.querySelectorAll('.item').forEach(item => {
+    const fields = item.querySelectorAll('[data-sol]');
+    let itemOk = true;
+    fields.forEach(f => {
+      const ok = fieldOk(f);
+      f.classList.toggle('ok', ok);
+      f.classList.toggle('bad', !ok);
+      total++;
+      if (ok) { correct++; } else { itemOk = false; }
+    });
+    item.dataset.solved = itemOk ? '1' : '0';
+  });
+  const allok = correct === total;
+  const fb = section.querySelector('.group-feedback');
+  fb.textContent = allok ? ('\u2714 All correct! (' + correct + '/' + total + ')')
+                          : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
+  fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
+  fb.style.display = 'inline';
+  updateResumen();
+}
+function revealGroup(btn){
+  const section = btn.closest('.ejercicio');
+  section.querySelectorAll('[data-sol]').forEach(f => {
+    const sol = f.getAttribute('data-sol');
+    if (f.tagName === 'SELECT') {
+      [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
+    f.classList.remove('bad'); f.classList.add('ok');
+  });
+}
+function updateResumen(){
+  const total = document.querySelectorAll('.item').length;
+  const solved = document.querySelectorAll('.item[data-solved="1"]').length;
+  const r = document.getElementById('resumen');
+  r.textContent = solved >= total ? ('Done! ' + solved + '/' + total)
+                                   : ('Progress: ' + solved + '/' + total);
+}
+document.addEventListener('DOMContentLoaded', updateResumen);
+</script>
+</body>
+</html>

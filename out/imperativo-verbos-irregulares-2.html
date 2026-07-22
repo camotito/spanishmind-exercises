@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pon la mesa</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+    --bg: #FBF7F0; --card: #ffffff; --primary: #C1440E; --secondary: #2E4053;
+    --accent: #E9B44C; --ok: #4F7942; --bad: #B33A3A; --text: #2B2B2B;
+    --line: #e5ddd0;
+    --font-heading: 'Playfair Display', serif; --font-body: 'DM Sans', sans-serif;
+}
+* { box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text);
+    max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
+h1 { font-family: var(--font-heading); color: var(--secondary); }
+.ejercicio { background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
+.ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
+    margin: 0 0 14px; }
+.item { padding: 8px 0; border-top: 1px dashed var(--line); }
+.item:first-of-type { border-top: none; }
+.item-row + .item-row { margin-top: 4px; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
+.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
+    border-radius: 6px; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
+.blank.ok { border-color: var(--ok); background: #f0f6ee; }
+.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
+.group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+button { font-family: var(--font-body); background: var(--primary); color: #fff;
+    border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: .85rem; }
+button.ghost { background: transparent; color: var(--secondary); text-decoration: underline; padding: 8px 4px; }
+button:hover { opacity: .9; }
+.group-feedback { font-weight: 600; font-size: .9rem; display: none; margin-left: auto; }
+.group-feedback.correct { color: var(--ok); }
+.group-feedback.wrong { color: var(--bad); }
+/* soporte gráfico */
+.directory { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.plate { text-align: center; padding: 10px 6px; border: 1px solid var(--line);
+    border-radius: 6px; background: #fff; }
+.plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
+.plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
+@media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.scene-list { list-style: none; margin: 0 0 18px; padding: 10px 14px;
+    border: 2px solid var(--secondary); border-radius: 8px; background: #fffdf8; }
+.scene-list li { padding: 4px 0; border-top: 1px dashed var(--line); }
+.scene-list li:first-child { border-top: none; }
+.scene-num { color: var(--secondary); font-weight: 700; }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
+.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
+    color: var(--ok); font-weight: 700; font-size: .72rem;
+    text-transform: uppercase; letter-spacing: .04em; }
+input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
+    background: #fff; cursor: default; }
+#resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
+    margin-top: 30px; color: var(--secondary); }
+</style>
+</head>
+<body>
+<h1>Pon la mesa</h1>
+
+    <section class="ejercicio">
+        <p class="enunciado">Complete the dialogues.</p>
+        <ul class="scene-list"><li><span class="scene-num">1.</span> Un hombre pide a otras personas que no hagan fotos.</li><li><span class="scene-num">2.</span> Una mujer habla con el conductor de un coche.</li><li><span class="scene-num">3.</span> Varias personas hacen ruido en un hospital.</li><li><span class="scene-num">4.</span> Un hombre pide pan a José.</li><li><span class="scene-num">5.</span> Un hombre habla por teléfono y pide al señor Ruiz que vaya a su oficina.</li><li><span class="scene-num">6.</span> Una mujer pide atención a varias personas.</li><li><span class="scene-num">7.</span> Un hombre ordena a varias personas que salgan a la calle.</li><li><span class="scene-num">8.</span> Dos personas están en una atracción de feria.</li></ul>
+        <div class="wordbox"><span class="word-chip">conducir</span><span class="word-chip">hacer</span><span class="word-chip">hacer</span><span class="word-chip">poner</span><span class="word-chip">salir</span><span class="word-chip">tener</span><span class="word-chip">traer</span><span class="word-chip">venir</span></div>
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span><input type="text" class="blank blank-example" value="No hagan" style="width: 10ch" readonly tabindex="-1"> fotos.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Conduce" data-hint="" style="width: 9ch" autocomplete="off"> con cuidado.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="No hagan" data-hint="" style="width: 10ch" autocomplete="off"> ruido, por favor.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Trae" data-hint="" style="width: 6ch" autocomplete="off"> pan, José, por favor.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Venga" data-hint="" style="width: 7ch" autocomplete="off"> a mi oficina, Sr. Ruiz, por favor.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Poned" data-hint="" style="width: 7ch" autocomplete="off"> atención. Tengo algo que deciros.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Salgan" data-hint="" style="width: 8ch" autocomplete="off"> todos a la calle.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="No tengas" data-hint="" style="width: 11ch" autocomplete="off"> miedo. No es peligroso.</span></div>
+            
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Complete the instructions with the verbs from the box, in the affirmative or negative form.</p>
+        
+        <div class="wordbox"><span class="word-chip">conducir</span><span class="word-chip">conducir</span><span class="word-chip">mantener</span><span class="word-chip">poner</span><span class="word-chip">tener</span><span class="word-chip">utilizar</span></div>
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span><input type="text" class="blank blank-example" value="Utilice" style="width: 9ch" readonly tabindex="-1"> el transporte público.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Conduzca" data-hint="" style="width: 10ch" autocomplete="off"> despacio en ciudad.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>En carretera <input type="text" class="blank" data-sol="No conduzca" data-hint="" style="width: 13ch" autocomplete="off"> a más de 90 km por hora.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Tenga" data-hint="" style="width: 7ch" autocomplete="off"> el coche a punto.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="No ponga" data-hint="" style="width: 10ch" autocomplete="off"> la calefacción en días soleados.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="Mantenga" data-hint="" style="width: 10ch" autocomplete="off"> la temperatura constante a 20°.</span></div>
+            
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+    <section class="ejercicio">
+        <p class="enunciado">Complete the sentences with the verbs in parentheses.</p>
+        
+        
+        
+        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>(Tener) <input type="text" class="blank blank-example" value="Tenga" style="width: 7ch" readonly tabindex="-1"> cuidado, don Antonio. Este cruce es peligroso.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(No, salir) <input type="text" class="blank" data-sol="No salgáis" data-hint="" style="width: 12ch" autocomplete="off"> ahora, niños. Está lloviendo.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(Decir) <input type="text" class="blank" data-sol="Di" data-hint="" style="width: 4ch" autocomplete="off"> ‘Gracias’ al abuelo, Pepín.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>–¿Puedo decir algo, Arturo? </span></div><div class="item-row"><span>–No, (no, decir) <input type="text" class="blank" data-sol="no digas" data-hint="" style="width: 10ch" autocomplete="off"> nada, Ismael.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(Ser) <input type="text" class="blank" data-sol="Sé" data-hint="" style="width: 4ch" autocomplete="off"> bueno, Julián, y (obedecer) <input type="text" class="blank" data-sol="obedece" data-hint="" style="width: 9ch" autocomplete="off"> a tus papás.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(Tener) <input type="text" class="blank" data-sol="Tened" data-hint="" style="width: 7ch" autocomplete="off"> cuidado, niños. El mar está revuelto.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(Hacer) <input type="text" class="blank" data-sol="Haga" data-hint="" style="width: 6ch" autocomplete="off"> una copia de esta carta, Sr. Vázquez.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(No, ser) <input type="text" class="blank" data-sol="No seas" data-hint="" style="width: 9ch" autocomplete="off"> impaciente, Jaime. Comemos dentro de diez minutos.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(No, poner) <input type="text" class="blank" data-sol="No pongas" data-hint="" style="width: 11ch" autocomplete="off"> la radio, por favor. Me duele la cabeza.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(Venir) <input type="text" class="blank" data-sol="Ven" data-hint="" style="width: 5ch" autocomplete="off"> a mi fiesta, Sara. Lo vamos a pasar muy bien.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(Ser) <input type="text" class="blank" data-sol="Sed" data-hint="" style="width: 5ch" autocomplete="off"> amables con Elvira, niños. Os quiere mucho.</span></div>
+            
+        </div>
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section>
+<p id="resumen"></p>
+<script>
+function norm(s){
+  return (s||'').trim().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fieldOk(f){
+  const sol = f.getAttribute('data-sol');
+  const val = f.value;
+  if (sol === '\u00f8') return val.trim() === '' || norm(val) === norm('\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
+  return norm(val) === norm(sol);
+}
+function checkGroup(btn){
+  const section = btn.closest('.ejercicio');
+  let total = 0, correct = 0;
+  section.querySelectorAll('.item').forEach(item => {
+    const fields = item.querySelectorAll('[data-sol]');
+    let itemOk = true;
+    fields.forEach(f => {
+      const ok = fieldOk(f);
+      f.classList.toggle('ok', ok);
+      f.classList.toggle('bad', !ok);
+      total++;
+      if (ok) { correct++; } else { itemOk = false; }
+    });
+    item.dataset.solved = itemOk ? '1' : '0';
+  });
+  const allok = correct === total;
+  const fb = section.querySelector('.group-feedback');
+  fb.textContent = allok ? ('\u2714 All correct! (' + correct + '/' + total + ')')
+                          : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
+  fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
+  fb.style.display = 'inline';
+  updateResumen();
+}
+function revealGroup(btn){
+  const section = btn.closest('.ejercicio');
+  section.querySelectorAll('[data-sol]').forEach(f => {
+    const sol = f.getAttribute('data-sol');
+    if (f.tagName === 'SELECT') {
+      [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
+    f.classList.remove('bad'); f.classList.add('ok');
+  });
+}
+function updateResumen(){
+  const total = document.querySelectorAll('.item').length;
+  const solved = document.querySelectorAll('.item[data-solved="1"]').length;
+  const r = document.getElementById('resumen');
+  r.textContent = solved >= total ? ('Done! ' + solved + '/' + total)
+                                   : ('Progress: ' + solved + '/' + total);
+}
+document.addEventListener('DOMContentLoaded', updateResumen);
+</script>
+</body>
+</html>

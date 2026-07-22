@@ -1,0 +1,243 @@
+{
+  "tema": "imperativo-verbos-irregulares-1",
+  "titulo": "Cierra la ventana",
+  "descripcion_gramatical": "Imperativo: verbos irregulares (1)",
+  "fuente": "libro",
+  "unidad_libro": 75,
+  "ejercicios": [
+    {
+      "subejercicio": "75.1",
+      "tipologia": "T8",
+      "enunciado": "Complete la nota con instrucciones a un amigo. Utilice los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____ todas las ventanas cuando salgas.",
+          "solucion_correcta": [
+            "Cierra"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ las plantas todos los días; una vez a la semana es suficiente.",
+          "solucion_correcta": [
+            "No riegues"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ la llave del gas cuando acabes de cocinar.",
+          "solucion_correcta": [
+            "Cierra"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ los platos en el lavavajillas.",
+          "solucion_correcta": [
+            "Lava/No laves"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ la alarma cuando salgas.",
+          "solucion_correcta": [
+            "Conecta"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ el calentador una hora antes de ducharte.",
+          "solucion_correcta": [
+            "Enciende"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "cerrar",
+        "cerrar",
+        "conectar",
+        "encender",
+        "lavar",
+        "regar"
+      ]
+    },
+    {
+      "subejercicio": "75.2",
+      "tipologia": "T2",
+      "enunciado": "Complete los diálogos con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "—¿La calle Toledo, por favor? —_____ todo recto.",
+          "solucion_correcta": [
+            "Siga"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo algo para ti. _____ los ojos.",
+          "solucion_correcta": [
+            "Cierra"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Niños! _____ en el salón.",
+          "solucion_correcta": [
+            "No juguéis"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ un zumo por favor, Tomás!",
+          "solucion_correcta": [
+            "Pídeme"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, por favor.",
+          "solucion_correcta": [
+            "Sonrían"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ sopa. No está muy buena.",
+          "solucion_correcta": [
+            "No pidáis"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Inés, _____! Son las ocho.",
+          "solucion_correcta": [
+            "despierta"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, por favor.",
+          "solucion_correcta": [
+            "No cierre"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "cerrar",
+        "cerrar",
+        "despertar",
+        "jugar",
+        "pedir",
+        "pedir",
+        "seguir",
+        "sonreír"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "escena": "Una mujer pregunta a un hombre cómo llegar a la calle Toledo."
+          },
+          {
+            "numero": "2",
+            "escena": "Una persona tapa los ojos de otra mientras lleva un regalo."
+          },
+          {
+            "numero": "3",
+            "escena": "Una mujer habla con dos niños que están jugando dentro de una habitación."
+          },
+          {
+            "numero": "4",
+            "escena": "Un grupo de jóvenes está reunido y una chica habla con Tomás."
+          },
+          {
+            "numero": "5",
+            "escena": "Un fotógrafo hace una foto a una pareja."
+          },
+          {
+            "numero": "6",
+            "escena": "Tres personas están sentadas a la mesa en un restaurante."
+          },
+          {
+            "numero": "7",
+            "escena": "Una mujer despierta a Inés, que está acostada."
+          },
+          {
+            "numero": "8",
+            "escena": "Una mujer pide a un hombre que cierre una puerta."
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "75.3",
+      "tipologia": "T4",
+      "enunciado": "¿Qué diría en cada caso?",
+      "items": [
+        {
+          "texto_enunciado": "(a su familia) (Empezar) _____ a comer. Yo llegaré un poco tarde.",
+          "solucion_correcta": [
+            "Empezad"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Elegir) _____ un libro. Te lo regalo.",
+          "solucion_correcta": [
+            "Elige"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un alumno) (Contar) _____ hasta veinte en español.",
+          "solucion_correcta": [
+            "Cuente/Cuenta"
+          ]
+        },
+        {
+          "texto_enunciado": "(a alguien de su familia) (Encender) _____ la luz. Está muy oscuro.",
+          "solucion_correcta": [
+            "Enciende"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un camarero) (No, calentar) _____ la leche. La quiero fría.",
+          "solucion_correcta": [
+            "No caliente"
+          ]
+        },
+        {
+          "texto_enunciado": "(a unos amigos) (Sonreír) _____. Os voy a hacer una foto.",
+          "solucion_correcta": [
+            "Sonreíd"
+          ]
+        },
+        {
+          "texto_enunciado": "(a unos niños) (No, mentir) _____. Decir mentiras no está bien.",
+          "solucion_correcta": [
+            "No mintáis"
+          ]
+        },
+        {
+          "texto_enunciado": "(a unos alumnos) (Corregir) _____ el ejercicio.",
+          "solucion_correcta": [
+            "Corrijan/Corregid"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un alumno) (Comprobar) _____ las respuestas.",
+          "solucion_correcta": [
+            "Compruebe/Comprueba"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un alumno) (Cerrar) _____ el libro y (escuchar) _____.",
+          "solucion_correcta": [
+            "Cierre/Cierra",
+            "escuche/escucha"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un amigo) (Freír) _____ más carne, por favor. Tengo mucha hambre.",
+          "solucion_correcta": [
+            "Fríe"
+          ]
+        },
+        {
+          "texto_enunciado": "(a un desconocido) (Cruzar) _____ esta calle y (seguir) _____ todo recto.",
+          "solucion_correcta": [
+            "Cruce",
+            "siga"
+          ]
+        }
+      ]
+    }
+  ]
+}

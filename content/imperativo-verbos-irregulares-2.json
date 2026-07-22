@@ -1,0 +1,231 @@
+{
+  "tema": "imperativo-verbos-irregulares-2",
+  "titulo": "Pon la mesa",
+  "descripcion_gramatical": "Imperativo: verbos irregulares (2)",
+  "ejercicios": [
+    {
+      "tipologia": "T2",
+      "enunciado": "Complete the dialogues.",
+      "items": [
+        {
+          "texto_enunciado": "_____ fotos.",
+          "solucion_correcta": [
+            "No hagan"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ con cuidado.",
+          "solucion_correcta": [
+            "Conduce"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ruido, por favor.",
+          "solucion_correcta": [
+            "No hagan"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ pan, José, por favor.",
+          "solucion_correcta": [
+            "Trae"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ a mi oficina, Sr. Ruiz, por favor.",
+          "solucion_correcta": [
+            "Venga"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ atención. Tengo algo que deciros.",
+          "solucion_correcta": [
+            "Poned"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ todos a la calle.",
+          "solucion_correcta": [
+            "Salgan"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ miedo. No es peligroso.",
+          "solucion_correcta": [
+            "No tengas"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "conducir",
+        "hacer",
+        "hacer",
+        "poner",
+        "salir",
+        "tener",
+        "traer",
+        "venir"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Un hombre pide a otras personas que no hagan fotos."
+          },
+          {
+            "numero": "2",
+            "descripcion": "Una mujer habla con el conductor de un coche."
+          },
+          {
+            "numero": "3",
+            "descripcion": "Varias personas hacen ruido en un hospital."
+          },
+          {
+            "numero": "4",
+            "descripcion": "Un hombre pide pan a José."
+          },
+          {
+            "numero": "5",
+            "descripcion": "Un hombre habla por teléfono y pide al señor Ruiz que vaya a su oficina."
+          },
+          {
+            "numero": "6",
+            "descripcion": "Una mujer pide atención a varias personas."
+          },
+          {
+            "numero": "7",
+            "descripcion": "Un hombre ordena a varias personas que salgan a la calle."
+          },
+          {
+            "numero": "8",
+            "descripcion": "Dos personas están en una atracción de feria."
+          }
+        ]
+      }
+    },
+    {
+      "tipologia": "T8",
+      "enunciado": "Complete the instructions with the verbs from the box, in the affirmative or negative form.",
+      "items": [
+        {
+          "texto_enunciado": "_____ el transporte público.",
+          "solucion_correcta": [
+            "Utilice"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ despacio en ciudad.",
+          "solucion_correcta": [
+            "Conduzca"
+          ]
+        },
+        {
+          "texto_enunciado": "En carretera _____ a más de 90 km por hora.",
+          "solucion_correcta": [
+            "No conduzca"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ el coche a punto.",
+          "solucion_correcta": [
+            "Tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ la calefacción en días soleados.",
+          "solucion_correcta": [
+            "No ponga"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ la temperatura constante a 20°.",
+          "solucion_correcta": [
+            "Mantenga"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "conducir",
+        "conducir",
+        "mantener",
+        "poner",
+        "tener",
+        "utilizar"
+      ]
+    },
+    {
+      "tipologia": "T4",
+      "enunciado": "Complete the sentences with the verbs in parentheses.",
+      "items": [
+        {
+          "texto_enunciado": "(Tener) _____ cuidado, don Antonio. Este cruce es peligroso.",
+          "solucion_correcta": [
+            "Tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "(No, salir) _____ ahora, niños. Está lloviendo.",
+          "solucion_correcta": [
+            "No salgáis"
+          ]
+        },
+        {
+          "texto_enunciado": "(Decir) _____ ‘Gracias’ al abuelo, Pepín.",
+          "solucion_correcta": [
+            "Di"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Puedo decir algo, Arturo? –No, (no, decir) _____ nada, Ismael.",
+          "solucion_correcta": [
+            "no digas"
+          ]
+        },
+        {
+          "texto_enunciado": "(Ser) _____ bueno, Julián, y (obedecer) _____ a tus papás.",
+          "solucion_correcta": [
+            "Sé",
+            "obedece"
+          ]
+        },
+        {
+          "texto_enunciado": "(Tener) _____ cuidado, niños. El mar está revuelto.",
+          "solucion_correcta": [
+            "Tened"
+          ]
+        },
+        {
+          "texto_enunciado": "(Hacer) _____ una copia de esta carta, Sr. Vázquez.",
+          "solucion_correcta": [
+            "Haga"
+          ]
+        },
+        {
+          "texto_enunciado": "(No, ser) _____ impaciente, Jaime. Comemos dentro de diez minutos.",
+          "solucion_correcta": [
+            "No seas"
+          ]
+        },
+        {
+          "texto_enunciado": "(No, poner) _____ la radio, por favor. Me duele la cabeza.",
+          "solucion_correcta": [
+            "No pongas"
+          ]
+        },
+        {
+          "texto_enunciado": "(Venir) _____ a mi fiesta, Sara. Lo vamos a pasar muy bien.",
+          "solucion_correcta": [
+            "Ven"
+          ]
+        },
+        {
+          "texto_enunciado": "(Ser) _____ amables con Elvira, niños. Os quiere mucho.",
+          "solucion_correcta": [
+            "Sed"
+          ]
+        }
+      ]
+    }
+  ]
+}
