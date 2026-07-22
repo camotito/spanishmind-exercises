@@ -371,7 +371,14 @@ def render_ejercicio(ej):
     items_data = ej["items"]
     ejemplo = ""
     ejemplo_wordbox = ""
-    if len(items_data) >= 2 and BLANK in items_data[0]["texto_enunciado"]:
+    # normalmente solo los ejercicios de hueco libre ("_____") traen un
+    # primer item ya resuelto como modelo en el libro; los de eleccion entre
+    # parentesis (T5/T6) no, salvo excepcion confirmada a mano contra el
+    # libro fisico -- "forzar_ejemplo": true en el ejercicio para esos casos.
+    hay_ejemplo = len(items_data) >= 2 and (
+        BLANK in items_data[0]["texto_enunciado"] or ej.get("forzar_ejemplo")
+    )
+    if hay_ejemplo:
         if banco_por_item:
             ejemplo_wordbox = render_wordbox(banco[0])
             banco = banco[1:]

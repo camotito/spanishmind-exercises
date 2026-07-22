@@ -5,6 +5,7 @@
   "ejercicios": [
     {
       "tipologia": "T5",
+      "forzar_ejemplo": true,
       "enunciado": "Choose the correct option in each case.",
       "items": [
         {
