@@ -60,10 +60,8 @@ button:hover { opacity: .9; }
     padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
 .ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
     padding: 8px 12px; margin-bottom: 10px; }
-.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
-.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
-    color: var(--ok); font-weight: 700; font-size: .72rem;
-    text-transform: uppercase; letter-spacing: .04em; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
     background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
@@ -78,7 +76,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>–¿Quieres este libro? </span></div><div class="item-row"><span class="item-num"></span> <span>–No, no <input type="text" class="blank blank-example" value="lo" style="width: 4ch" readonly tabindex="-1"> quiero. Gracias.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>–¿Quieres este libro? </span></div><div class="item-row"><span>–No, no <input type="text" class="blank blank-example" value="lo" style="width: 4ch" readonly tabindex="-1"> quiero. Gracias.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>–¿Me dejas el lápiz? </span></div><div class="item-row"><span>–No puedo. <select class="blank" data-sol="Lo"><option value="">—</option><option>Le</option><option>Lo</option></select> necesito.</span></div>
@@ -143,19 +141,19 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         </div>
     </section>
     <section class="ejercicio">
-        <p class="enunciado">Complete the sentences with lo, la, los, las, le, les, or se.</p>
+        <p class="enunciado">Complete the sentences with "lo", "la", "los", "las", "le", "les", or "se".</p>
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>–¿Has visto a Juana? </span></div><div class="item-row"><span class="item-num"></span> <span>–Sí, <input type="text" class="blank blank-example" value="la" style="width: 4ch" readonly tabindex="-1"> he visto.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>–¿Has visto a Juana? </span></div><div class="item-row"><span>–Sí, <input type="text" class="blank blank-example" value="la" style="width: 4ch" readonly tabindex="-1"> he visto.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span><input type="text" class="blank" data-sol="Le" data-hint="" style="width: 4ch" autocomplete="off"> he regalado unos bombones a Sarita.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>–¿Has llamado a tu padre, Héctor? </span></div><div class="item-row"><span>–Sí, <input type="text" class="blank" data-sol="lo/le" data-hint="hint-1" style="width: 4ch" autocomplete="off"> he llamado.</span></div>
-            <span class="alt-hint" id="hint-1" hidden></span>
+            <div class="item-row"><span>–¿Has llamado a tu padre, Héctor? </span></div><div class="item-row"><span>–Sí, <input type="text" class="blank" data-sol="lo/le" data-hint="hint-22" style="width: 4ch" autocomplete="off"> he llamado.</span></div>
+            <span class="alt-hint" id="hint-22" hidden></span>
         </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>¿Qué <input type="text" class="blank" data-sol="le" data-hint="" style="width: 4ch" autocomplete="off"> has dicho a la profesora?</span></div>
@@ -188,7 +186,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>–¿<input type="text" class="blank blank-example" value="Le" style="width: 4ch" readonly tabindex="-1"> has dicho a Juan que necesito el coche? </span></div><div class="item-row"><span class="item-num"></span> <span>–Sí, <input type="text" class="blank blank-example" value="se" style="width: 4ch" readonly tabindex="-1"> <input type="text" class="blank blank-example" value="lo" style="width: 4ch" readonly tabindex="-1"> he dicho, pero dice que él también <input type="text" class="blank blank-example" value="lo" style="width: 4ch" readonly tabindex="-1"> necesita.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>–¿<input type="text" class="blank blank-example" value="Le" style="width: 4ch" readonly tabindex="-1"> has dicho a Juan que necesito el coche? </span></div><div class="item-row"><span>–Sí, <input type="text" class="blank blank-example" value="se" style="width: 4ch" readonly tabindex="-1"> <input type="text" class="blank blank-example" value="lo" style="width: 4ch" readonly tabindex="-1"> he dicho, pero dice que él también <input type="text" class="blank blank-example" value="lo" style="width: 4ch" readonly tabindex="-1"> necesita.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>–¿Sabes que me voy a Colombia? </span></div><div class="item-row"><span>–No, no <input type="text" class="blank" data-sol="lo" data-hint="" style="width: 4ch" autocomplete="off"> sabía.</span></div>
@@ -215,8 +213,8 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>–Se ha muerto Momo. </span></div><div class="item-row"><span>–¡Cuánto <input type="text" class="blank" data-sol="lo" data-hint="" style="width: 4ch" autocomplete="off"> siento! Yo <input type="text" class="blank" data-sol="lo/le" data-hint="hint-2" style="width: 4ch" autocomplete="off"> quería mucho.</span></div>
-            <span class="alt-hint" id="hint-2" hidden></span>
+            <div class="item-row"><span>–Se ha muerto Momo. </span></div><div class="item-row"><span>–¡Cuánto <input type="text" class="blank" data-sol="lo" data-hint="" style="width: 4ch" autocomplete="off"> siento! Yo <input type="text" class="blank" data-sol="lo/le" data-hint="hint-23" style="width: 4ch" autocomplete="off"> quería mucho.</span></div>
+            <span class="alt-hint" id="hint-23" hidden></span>
         </div>
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>

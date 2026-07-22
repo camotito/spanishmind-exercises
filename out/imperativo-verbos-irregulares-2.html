@@ -60,10 +60,8 @@ button:hover { opacity: .9; }
     padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
 .ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
     padding: 8px 12px; margin-bottom: 10px; }
-.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
-.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
-    color: var(--ok); font-weight: 700; font-size: .72rem;
-    text-transform: uppercase; letter-spacing: .04em; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
     background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
@@ -78,7 +76,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <ul class="scene-list"><li><span class="scene-num">1.</span> Un hombre pide a otras personas que no hagan fotos.</li><li><span class="scene-num">2.</span> Una mujer habla con el conductor de un coche.</li><li><span class="scene-num">3.</span> Varias personas hacen ruido en un hospital.</li><li><span class="scene-num">4.</span> Un hombre pide pan a José.</li><li><span class="scene-num">5.</span> Un hombre habla por teléfono y pide al señor Ruiz que vaya a su oficina.</li><li><span class="scene-num">6.</span> Una mujer pide atención a varias personas.</li><li><span class="scene-num">7.</span> Un hombre ordena a varias personas que salgan a la calle.</li><li><span class="scene-num">8.</span> Dos personas están en una atracción de feria.</li></ul>
         <div class="wordbox"><span class="word-chip">conducir</span><span class="word-chip">hacer</span><span class="word-chip">hacer</span><span class="word-chip">poner</span><span class="word-chip">salir</span><span class="word-chip">tener</span><span class="word-chip">traer</span><span class="word-chip">venir</span></div>
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span><input type="text" class="blank blank-example" value="No hagan" style="width: 10ch" readonly tabindex="-1"> fotos.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span><input type="text" class="blank blank-example" value="No hagan" style="width: 10ch" readonly tabindex="-1"> fotos.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span><input type="text" class="blank" data-sol="Conduce" data-hint="" style="width: 9ch" autocomplete="off"> con cuidado.</span></div>
@@ -119,7 +117,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         <div class="wordbox"><span class="word-chip">conducir</span><span class="word-chip">conducir</span><span class="word-chip">mantener</span><span class="word-chip">poner</span><span class="word-chip">tener</span><span class="word-chip">utilizar</span></div>
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span><input type="text" class="blank blank-example" value="Utilice" style="width: 9ch" readonly tabindex="-1"> el transporte público.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span><input type="text" class="blank blank-example" value="Utilice" style="width: 9ch" readonly tabindex="-1"> el transporte público.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span><input type="text" class="blank" data-sol="Conduzca" data-hint="" style="width: 10ch" autocomplete="off"> despacio en ciudad.</span></div>
@@ -152,7 +150,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>(Tener) <input type="text" class="blank blank-example" value="Tenga" style="width: 7ch" readonly tabindex="-1"> cuidado, don Antonio. Este cruce es peligroso.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>(Tener) <input type="text" class="blank blank-example" value="Tenga" style="width: 7ch" readonly tabindex="-1"> cuidado, don Antonio. Este cruce es peligroso.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>(No, salir) <input type="text" class="blank" data-sol="No salgáis" data-hint="" style="width: 12ch" autocomplete="off"> ahora, niños. Está lloviendo.</span></div>

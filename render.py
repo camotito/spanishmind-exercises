@@ -110,10 +110,8 @@ button:hover { opacity: .9; }
     padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
 .ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
     padding: 8px 12px; margin-bottom: 10px; }
-.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
-.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
-    color: var(--ok); font-weight: 700; font-size: .72rem;
-    text-transform: uppercase; letter-spacing: .04em; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
     background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
@@ -325,10 +323,10 @@ def render_ejemplo(item):
     body = "".join(out)
     lines = [l for l in DIALOGO_RE.split(body) if l.strip()] or [body]
     rows = "".join(
-        f'<div class="item-row"><span class="item-num">{"Example" if i == 0 else ""}</span> <span>{line}</span></div>'
-        for i, line in enumerate(lines)
+        f'<div class="item-row"><span>{line}</span></div>'
+        for line in lines
     )
-    return f'<div class="ejemplo">{rows}</div>'
+    return f'<div class="ejemplo"><span class="ejemplo-tag">Example</span>{rows}</div>'
 
 
 ENUNCIADO_OPT_RE = re.compile(r"\*([^*]+)\*")

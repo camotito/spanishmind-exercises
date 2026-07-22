@@ -60,10 +60,8 @@ button:hover { opacity: .9; }
     padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
 .ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
     padding: 8px 12px; margin-bottom: 10px; }
-.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
-.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
-    color: var(--ok); font-weight: 700; font-size: .72rem;
-    text-transform: uppercase; letter-spacing: .04em; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
     background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
@@ -78,7 +76,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <ul class="scene-list"><li><span class="scene-num">1.</span> Señal que prohíbe girar a la izquierda.</li><li><span class="scene-num">2.</span> Señal que prohíbe girar a la derecha.</li><li><span class="scene-num">3.</span> Señal que prohíbe adelantar.</li><li><span class="scene-num">4.</span> Señal que prohíbe aparcar.</li><li><span class="scene-num">5.</span> Señal que prohíbe parar.</li></ul>
         <div class="wordbox"><span class="word-chip">adelantar</span><span class="word-chip">aparcar</span><span class="word-chip">girar</span><span class="word-chip">girar</span><span class="word-chip">parar</span></div>
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span><input type="text" class="blank blank-example" value="No gire" style="width: 9ch" readonly tabindex="-1"> a la izquierda.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span><input type="text" class="blank blank-example" value="No gire" style="width: 9ch" readonly tabindex="-1"> a la izquierda.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span><input type="text" class="blank" data-sol="No gire" data-hint="" style="width: 9ch" autocomplete="off"> a la derecha.</span></div>
@@ -107,7 +105,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <ul class="scene-list"><li><span class="scene-num">1.</span> Un padre habla con un hijo y una hija y les da instrucciones.</li></ul>
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>(Sus hijos están viendo mucha televisión.) «<input type="text" class="blank blank-example" value="No veáis" style="width: 10ch" readonly tabindex="-1"> tanta televisión.»</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>(Sus hijos están viendo mucha televisión.) «<input type="text" class="blank blank-example" value="No veáis" style="width: 10ch" readonly tabindex="-1"> tanta televisión.»</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>(Su hijo deja sus cosas en el salón.) «<input type="text" class="blank" data-sol="No dejes" data-hint="" style="width: 10ch" autocomplete="off"> tus cosas en el salón.»</span></div>
@@ -144,7 +142,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <ul class="scene-list"><li><span class="scene-num">1.</span> Dibujo de una mujer junto a un bocadillo que contiene los enunciados.</li></ul>
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>(a un amigo) (No, tirar) <input type="text" class="blank blank-example" value="No tires" style="width: 10ch" readonly tabindex="-1"> cosas al suelo.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>(a un amigo) (No, tirar) <input type="text" class="blank blank-example" value="No tires" style="width: 10ch" readonly tabindex="-1"> cosas al suelo.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>(a unos alumnos) (No, escribir) <input type="text" class="blank" data-sol="No escribáis/No escriban" data-hint="hint-13" style="width: 14ch" autocomplete="off"> en las mesas.</span></div>

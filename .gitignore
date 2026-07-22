@@ -10,3 +10,6 @@ libro_pipeline/.estado_*.json
 # no van al repo. Se referencian por ruta desde libro_pipeline/.
 libro/
 Gemini/*.png
+
+# Local Netlify folder
+.netlify

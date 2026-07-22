@@ -60,10 +60,8 @@ button:hover { opacity: .9; }
     padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
 .ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
     padding: 8px 12px; margin-bottom: 10px; }
-.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
-.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
-    color: var(--ok); font-weight: 700; font-size: .72rem;
-    text-transform: uppercase; letter-spacing: .04em; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
     background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
@@ -78,7 +76,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         <div class="wordbox"><span class="word-chip">necesitar</span><span class="word-chip">relacionarse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span></div>
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>En un pueblo pequeño <input type="text" class="blank blank-example" value="se vive" style="width: 9ch" readonly tabindex="-1"> mejor. <input type="text" class="blank blank-example" value="Se vive" style="width: 9ch" readonly tabindex="-1"> más tranquilo, <input type="text" class="blank blank-example" value="se tiene" style="width: 10ch" readonly tabindex="-1"> más tiempo libre, <input type="text" class="blank blank-example" value="uno se relaciona" style="width: 18ch" readonly tabindex="-1"> más con la gente y <input type="text" class="blank blank-example" value="se necesita" style="width: 13ch" readonly tabindex="-1"> menos dinero.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>En un pueblo pequeño <input type="text" class="blank blank-example" value="se vive" style="width: 9ch" readonly tabindex="-1"> mejor. <input type="text" class="blank blank-example" value="Se vive" style="width: 9ch" readonly tabindex="-1"> más tranquilo, <input type="text" class="blank blank-example" value="se tiene" style="width: 10ch" readonly tabindex="-1"> más tiempo libre, <input type="text" class="blank blank-example" value="uno se relaciona" style="width: 18ch" readonly tabindex="-1"> más con la gente y <input type="text" class="blank blank-example" value="se necesita" style="width: 13ch" readonly tabindex="-1"> menos dinero.</span></div></div>
         <div class="wordbox"><span class="word-chip">divertirse</span><span class="word-chip">sentirse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span></div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>En una gran ciudad <input type="text" class="blank" data-sol="se tiene" data-hint="" style="width: 10ch" autocomplete="off"> más libertad y <input type="text" class="blank" data-sol="se divierte uno" data-hint="" style="width: 17ch" autocomplete="off"> más, aunque a veces <input type="text" class="blank" data-sol="se siente uno" data-hint="" style="width: 15ch" autocomplete="off"> solo. Antes <input type="text" class="blank" data-sol="se vivía" data-hint="" style="width: 10ch" autocomplete="off"> mejor en las ciudades, pero ahora <input type="text" class="blank" data-sol="se vive" data-hint="" style="width: 9ch" autocomplete="off"> bien en todas partes.</span></div>
@@ -95,7 +93,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         <div class="wordbox"><span class="word-chip">se dice</span><span class="word-chip">se espera</span><span class="word-chip">se necesita</span><span class="word-chip">se puede</span><span class="word-chip">se sospechaba</span><span class="word-chip">se suele</span><span class="word-chip">se supone</span><span class="word-chip">se veía</span></div>
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Estaba claro que Olga estaba contenta. <input type="text" class="blank blank-example" value="Se veía que Olga estaba contenta" style="width: 34ch" readonly tabindex="-1">.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>Estaba claro que Olga estaba contenta. <input type="text" class="blank blank-example" value="Se veía que Olga estaba contenta" style="width: 34ch" readonly tabindex="-1">.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>En Chile es costumbre bailar la cueca en las fiestas populares. <input type="text" class="blank" data-sol="En Chile se suele bailar la cueca en las fiestas populares" data-hint="" style="width: 60ch" autocomplete="off">.</span></div>
@@ -136,7 +134,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>La gente se equivoca. Es fácil. <input type="text" class="blank blank-example" value="Es fácil equivocarse" style="width: 22ch" readonly tabindex="-1">.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>La gente se equivoca. Es fácil. <input type="text" class="blank blank-example" value="Es fácil equivocarse" style="width: 22ch" readonly tabindex="-1">.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>No hay que equivocarse. Es importante. <input type="text" class="blank" data-sol="Es importante no equivocarse" data-hint="" style="width: 30ch" autocomplete="off">.</span></div>
@@ -177,7 +175,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span><input type="text" class="blank blank-example" value="Hizo" style="width: 6ch" readonly tabindex="-1"> bastante frío durante la noche.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span><input type="text" class="blank blank-example" value="Hizo" style="width: 6ch" readonly tabindex="-1"> bastante frío durante la noche.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span><input type="text" class="blank" data-sol="Hay" data-hint="" style="width: 5ch" autocomplete="off"> que acostarse temprano. Mañana salimos a las siete.</span></div>

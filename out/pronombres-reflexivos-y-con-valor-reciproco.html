@@ -60,10 +60,8 @@ button:hover { opacity: .9; }
     padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
 .ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
     padding: 8px 12px; margin-bottom: 10px; }
-.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
-.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
-    color: var(--ok); font-weight: 700; font-size: .72rem;
-    text-transform: uppercase; letter-spacing: .04em; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
     background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
@@ -78,7 +76,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Rosa <input type="text" class="blank blank-example" value="se" style="width: 4ch" readonly tabindex="-1"> cortó con un cuchillo ayer.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>Rosa <input type="text" class="blank blank-example" value="se" style="width: 4ch" readonly tabindex="-1"> cortó con un cuchillo ayer.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>Sandra <input type="text" class="blank" data-sol="Se" data-hint="" style="width: 4ch" autocomplete="off"> mira mucho al espejo.</span></div>
@@ -147,7 +145,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Felipe saludó a David y David saludó a Felipe. <input type="text" class="blank blank-example" value="Felipe y David se saludaron" style="width: 29ch" readonly tabindex="-1">.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>Felipe saludó a David y David saludó a Felipe. <input type="text" class="blank blank-example" value="Felipe y David se saludaron" style="width: 29ch" readonly tabindex="-1">.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>Roque no habla a Julio y Julio no habla a Roque. <input type="text" class="blank" data-sol="Roque y Julio no se hablan" data-hint="" style="width: 28ch" autocomplete="off">.</span></div>
@@ -188,7 +186,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>(Yo) <input type="text" class="blank blank-example" value="Me" style="width: 4ch" readonly tabindex="-1"> conozco muy bien.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>(Yo) <input type="text" class="blank blank-example" value="Me" style="width: 4ch" readonly tabindex="-1"> conozco muy bien.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>Teresa y Antonio <input type="text" class="blank" data-sol="se" data-hint="" style="width: 4ch" autocomplete="off"> conocen muy bien.</span></div>

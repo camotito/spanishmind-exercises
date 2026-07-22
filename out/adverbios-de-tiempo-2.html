@@ -60,10 +60,8 @@ button:hover { opacity: .9; }
     padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
 .ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
     padding: 8px 12px; margin-bottom: 10px; }
-.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
-.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
-    color: var(--ok); font-weight: 700; font-size: .72rem;
-    text-transform: uppercase; letter-spacing: .04em; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
     background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
@@ -78,7 +76,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>No puedes irte. <input type="text" class="blank blank-example" value="Todavía" style="width: 9ch" readonly tabindex="-1"> te necesito.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>No puedes irte. <input type="text" class="blank blank-example" value="Todavía" style="width: 9ch" readonly tabindex="-1"> te necesito.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>—¿Está Berta? —No, <input type="text" class="blank" data-sol="ya no" data-hint="" style="width: 7ch" autocomplete="off"> vive aquí.</span></div>
@@ -115,7 +113,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>—¿<input type="text" class="blank blank-example" value="¿Se conocen ya ustedes?" style="width: 25ch" readonly tabindex="-1">? —Sí, ya nos conocemos.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>—¿<input type="text" class="blank blank-example" value="¿Se conocen ya ustedes?" style="width: 25ch" readonly tabindex="-1">? —Sí, ya nos conocemos.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>—¿<input type="text" class="blank" data-sol="¿Lo sabes ya?/¿Ya lo sabes?" data-hint="hint-4" style="width: 15ch" autocomplete="off">? —Sí, ya lo sé.</span></div>
@@ -144,7 +142,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Estoy esperando a Lidia desde las seis, pero <input type="text" class="blank blank-example" value="todavía no" style="width: 12ch" readonly tabindex="-1"> ha llegado.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>Estoy esperando a Lidia desde las seis, pero <input type="text" class="blank blank-example" value="todavía no" style="width: 12ch" readonly tabindex="-1"> ha llegado.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>Venid. <input type="text" class="blank" data-sol="Ya" data-hint="" style="width: 4ch" autocomplete="off"> han abierto las puertas.</span></div>
@@ -185,7 +183,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Puedes llamar <u>a partir de ahora</u>. <input type="text" class="blank blank-example" value="Puedes llamar ya" style="width: 18ch" readonly tabindex="-1">.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>Puedes llamar <u>a partir de ahora</u>. <input type="text" class="blank blank-example" value="Puedes llamar ya" style="width: 18ch" readonly tabindex="-1">.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span><u>Dentro de unos días</u> te llamaremos. <input type="text" class="blank" data-sol="Ya te llamaremos" data-hint="" style="width: 18ch" autocomplete="off">.</span></div>

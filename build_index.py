@@ -18,6 +18,26 @@ INDEX_YAML = os.path.join(HERE, "index.yaml")
 CONTENT_DIR = os.path.join(HERE, "content")
 OUT_DIR = os.path.join(HERE, "out")
 
+# La pagina de inicio es UI/scaffolding (como los enunciados de ejercicios):
+# en ingles. Los titulos de cada unidad (el link) son contenido -- se quedan
+# en espanol, igual que el resto del sitio. descripcion_gramatical se
+# almacena en espanol en index.yaml (para buscar por terminologia, ver
+# cabecera de ese fichero) asi que aqui se traduce solo para mostrarla, sin
+# tocar el dato fuente.
+DESCRIPCION_EN = {
+    "numeros-ordinales": "Ordinal numbers",
+    "pronombres-lo-la-le": "Direct and indirect object pronouns",
+    "pronombres-reflexivos-y-con-valor-reciproco": "Reflexive and reciprocal pronouns",
+    "imperativo-afirmativo-verbos-regulares": "Affirmative imperative: regular verbs",
+    "imperativo-negativo-verbos-regulares": "Negative imperative: regular verbs",
+    "imperativo-verbos-irregulares-1": "Imperative: irregular verbs (1)",
+    "imperativo-verbos-irregulares-2": "Imperative: irregular verbs (2)",
+    "imperativo-de-verbos-con-se": "Imperative of reflexive verbs (with se)",
+    "imperativo-con-pronombres-de-complemento": "Imperative with object pronouns",
+    "adverbios-de-tiempo-2": "Time adverbs (2)",
+    "oraciones-impersonales": "Impersonal sentences",
+}
+
 
 def esc(s):
     return html.escape(str(s), quote=True)
@@ -58,16 +78,16 @@ def main():
 
     items = "".join(
         f'<li><a href="{esc(tema)}.html">{esc(por_tema[tema].get("titulo", tema))}</a>'
-        f'<span class="tecnico">{esc(por_tema[tema].get("descripcion_gramatical", ""))}</span></li>'
+        f'<span class="tecnico">{esc(DESCRIPCION_EN.get(tema, por_tema[tema].get("descripcion_gramatical", "")))}</span></li>'
         for tema in orden
     )
 
     out = f"""<!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SpanishMind — Ejercicios de gramática</title>
+<title>SpanishMind — Spanish grammar exercises</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
 <style>
 :root {{
@@ -91,7 +111,7 @@ a:hover {{ text-decoration: underline; }}
 </head>
 <body>
 <h1>SpanishMind</h1>
-<p class="subtitle">Ejercicios interactivos de gramática española — {len(orden)} unidad(es) publicada(s).</p>
+<p class="subtitle">Interactive Spanish grammar exercises — {len(orden)} unit(s) published.</p>
 <ol>{items}</ol>
 </body>
 </html>

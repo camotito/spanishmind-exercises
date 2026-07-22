@@ -60,10 +60,8 @@ button:hover { opacity: .9; }
     padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
 .ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
     padding: 8px 12px; margin-bottom: 10px; }
-.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
-.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
-    color: var(--ok); font-weight: 700; font-size: .72rem;
-    text-transform: uppercase; letter-spacing: .04em; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
     background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
@@ -78,7 +76,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <div class="directory"><div class="plate"><span class="plate-name">Antonio Oliva</span><span class="plate-floor">2.º C</span></div><div class="plate"><span class="plate-name">Servicios de Gas</span><span class="plate-floor">11.º A</span></div><div class="plate"><span class="plate-name">Sastrería Moderna</span><span class="plate-floor">10.º D</span></div><div class="plate"><span class="plate-name">Moreno-Arribas abogados</span><span class="plate-floor">3.º D</span></div><div class="plate"><span class="plate-name">Molina Cardoso</span><span class="plate-floor">12.º A</span></div><div class="plate"><span class="plate-name">Gestoría Salvado</span><span class="plate-floor">1.º A</span></div><div class="plate"><span class="plate-name">Hispanosa</span><span class="plate-floor">14.º D</span></div><div class="plate"><span class="plate-name">Academia Cervantes</span><span class="plate-floor">4.º B</span></div><div class="plate"><span class="plate-name">Julia Salinas</span><span class="plate-floor">7.º C</span></div><div class="plate"><span class="plate-name">Editorial Mundisa</span><span class="plate-floor">9.º D</span></div></div>
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Antonio Oliva vive en el <input type="text" class="blank blank-example" value="segundo" style="width: 9ch" readonly tabindex="-1"> piso.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>Antonio Oliva vive en el <input type="text" class="blank blank-example" value="segundo" style="width: 9ch" readonly tabindex="-1"> piso.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>Las oficinas de Servicios de Gas están en el piso <input type="text" class="blank" data-sol="once" data-hint="" style="width: 6ch" autocomplete="off">.</span></div>
@@ -127,7 +125,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Juan Carlos I → Juan Carlos <input type="text" class="blank blank-example" value="primero" style="width: 9ch" readonly tabindex="-1"></span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>Juan Carlos I → Juan Carlos <input type="text" class="blank blank-example" value="primero" style="width: 9ch" readonly tabindex="-1"></span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>Isabel I → Isabel <input type="text" class="blank" data-sol="primera" data-hint="" style="width: 9ch" autocomplete="off"></span></div>
@@ -176,7 +174,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Estudio (2.º) <input type="text" class="blank blank-example" value="segundo" style="width: 9ch" readonly tabindex="-1"> curso de Arquitectura.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>Estudio (2.º) <input type="text" class="blank blank-example" value="segundo" style="width: 9ch" readonly tabindex="-1"> curso de Arquitectura.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>Enero es el (1.º) <input type="text" class="blank" data-sol="primer" data-hint="" style="width: 8ch" autocomplete="off"> mes del año.</span></div>

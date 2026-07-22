@@ -60,10 +60,8 @@ button:hover { opacity: .9; }
     padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
 .ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
     padding: 8px 12px; margin-bottom: 10px; }
-.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
-.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
-    color: var(--ok); font-weight: 700; font-size: .72rem;
-    text-transform: uppercase; letter-spacing: .04em; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
     background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
@@ -78,7 +76,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         <ul class="scene-list"><li><span class="scene-num">1.</span> Una persona habla con dos hombres que llevan cascos en una zona de trabajo.</li><li><span class="scene-num">2.</span> Una mujer habla con dos pasajeros sentados en un vehículo.</li><li><span class="scene-num">3.</span> Una mujer está junto a una niña que se ríe.</li><li><span class="scene-num">4.</span> Una mujer habla con un señor mayor y señala un asiento.</li></ul>
         <div class="wordbox"><span class="word-chip">abrocharse</span><span class="word-chip">ponerse</span><span class="word-chip">reírse</span><span class="word-chip">sentarse</span></div>
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span><input type="text" class="blank blank-example" value="Pónganse" style="width: 10ch" readonly tabindex="-1"> el casco.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span><input type="text" class="blank blank-example" value="Pónganse" style="width: 10ch" readonly tabindex="-1"> el casco.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span><input type="text" class="blank" data-sol="Abróchense" data-hint="" style="width: 12ch" autocomplete="off"> los cinturones.</span></div>
@@ -103,7 +101,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>(No, ponerse) <input type="text" class="blank blank-example" value="No te pongas" style="width: 14ch" readonly tabindex="-1"> la blusa roja. Te sienta mejor esta azul.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>(No, ponerse) <input type="text" class="blank blank-example" value="No te pongas" style="width: 14ch" readonly tabindex="-1"> la blusa roja. Te sienta mejor esta azul.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>Niños, (despedirse) <input type="text" class="blank" data-sol="despedíos" data-hint="" style="width: 11ch" autocomplete="off"> de los primos.</span></div>
@@ -148,7 +146,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>(a un niño) (Peinarse) <input type="text" class="blank blank-example" value="Péinate" style="width: 9ch" readonly tabindex="-1">. Tienes el pelo alborotado.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>(a un niño) (Peinarse) <input type="text" class="blank blank-example" value="Péinate" style="width: 9ch" readonly tabindex="-1">. Tienes el pelo alborotado.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>(a un amigo) (Mirarse) <input type="text" class="blank" data-sol="Mírate" data-hint="" style="width: 8ch" autocomplete="off"> al espejo. Tienes mala cara.</span></div>

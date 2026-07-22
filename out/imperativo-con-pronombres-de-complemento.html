@@ -60,10 +60,8 @@ button:hover { opacity: .9; }
     padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
 .ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
     padding: 8px 12px; margin-bottom: 10px; }
-.ejemplo .item-row { padding-left: 4.4em; text-indent: -4.4em; }
-.ejemplo .item-num { display: inline-block; width: auto; text-indent: 0;
-    color: var(--ok); font-weight: 700; font-size: .72rem;
-    text-transform: uppercase; letter-spacing: .04em; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
     background: #fff; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
@@ -78,7 +76,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>—¿Hago la cena? —Sí, <input type="text" class="blank blank-example" value="hazla" style="width: 7ch" readonly tabindex="-1"> ya. Tengo hambre. —No, <input type="text" class="blank blank-example" value="no la hagas" style="width: 13ch" readonly tabindex="-1"> todavía. Es pronto.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>—¿Hago la cena? —Sí, <input type="text" class="blank blank-example" value="hazla" style="width: 7ch" readonly tabindex="-1"> ya. Tengo hambre. —No, <input type="text" class="blank blank-example" value="no la hagas" style="width: 13ch" readonly tabindex="-1"> todavía. Es pronto.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>—¿Abrimos los regalos? —Sí, <input type="text" class="blank" data-sol="abridlos" data-hint="" style="width: 10ch" autocomplete="off"> ya. —No, <input type="text" class="blank" data-sol="no los abráis" data-hint="" style="width: 15ch" autocomplete="off"> todavía. Esperad a mañana.</span></div>
@@ -124,7 +122,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>La luz está encendida. (Apagar) <input type="text" class="blank blank-example" value="Apágala" style="width: 9ch" readonly tabindex="-1">, por favor.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>La luz está encendida. (Apagar) <input type="text" class="blank blank-example" value="Apágala" style="width: 9ch" readonly tabindex="-1">, por favor.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>La ventana está abierta. (Cerrar) <input type="text" class="blank" data-sol="Ciérrala" data-hint="" style="width: 10ch" autocomplete="off">, por favor. Hace frío.</span></div>
@@ -173,7 +171,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><div class="item-row"><span class="item-num">Example</span> <span>Si te sobra una entrada, (no, regalar) <input type="text" class="blank blank-example" value="no se la regales" style="width: 18ch" readonly tabindex="-1"> a Héctor. (Regalar) <input type="text" class="blank blank-example" value="Regálamela" style="width: 12ch" readonly tabindex="-1"> a mí.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>Si te sobra una entrada, (no, regalar) <input type="text" class="blank blank-example" value="no se la regales" style="width: 18ch" readonly tabindex="-1"> a Héctor. (Regalar) <input type="text" class="blank blank-example" value="Regálamela" style="width: 12ch" readonly tabindex="-1"> a mí.</span></div></div>
         
         <div class="item" data-solved="0">
             <div class="item-row"><span>Si quiere usted algo, (no, pedir) <input type="text" class="blank" data-sol="no se lo pida" data-hint="" style="width: 15ch" autocomplete="off"> a otro. (Pedir) <input type="text" class="blank" data-sol="Pídamelo" data-hint="" style="width: 10ch" autocomplete="off"> a mí.</span></div>
