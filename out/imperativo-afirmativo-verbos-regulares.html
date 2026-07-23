@@ -24,11 +24,13 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
 .item:first-of-type { border-top: none; }
 .item-row + .item-row { margin-top: 4px; }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
-.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
-    border-radius: 6px; width: 150px; font-size: .95rem; }
-select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
-.blank.ok { border-color: var(--ok); background: #f0f6ee; }
-.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.blank { font-family: var(--font-body); padding: 2px 2px; border: none;
+    border-bottom: 2px solid var(--secondary); border-radius: 0;
+    background: transparent; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank.ok { border-bottom-color: var(--ok); background: transparent; }
+.blank.bad { border-bottom-color: var(--bad); background: transparent; }
+.hint-paren { font-style: italic; }
 .alt-hint { display: block; font-size: .78rem;
     color: var(--secondary); opacity: .85; margin-top: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
@@ -65,8 +67,8 @@ button:hover { opacity: .9; }
     padding: 8px 12px; margin-bottom: 10px; }
 .ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
     font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
-input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
-    background: #fff; cursor: default; }
+input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
+    background: transparent; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
     margin-top: 30px; color: var(--secondary); }
 </style>
@@ -115,43 +117,43 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un amigo) Están llamando. (Abrir) <input type="text" class="blank" data-sol="Abre" data-hint="" style="width: 6ch" autocomplete="off"> la puerta, por favor.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un amigo)</em> Están llamando. <em class="hint-paren">(Abrir)</em> <input type="text" class="blank" data-sol="Abre" data-hint="" style="width: 6ch" autocomplete="off"> la puerta, por favor.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a unos niños) (Cruzar) <input type="text" class="blank" data-sol="Cruzad" data-hint="" style="width: 8ch" autocomplete="off"> por el paso de cebra.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a unos niños)</em> <em class="hint-paren">(Cruzar)</em> <input type="text" class="blank" data-sol="Cruzad" data-hint="" style="width: 8ch" autocomplete="off"> por el paso de cebra.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a unos amigos) La paella está riquísima. (Comer) <input type="text" class="blank" data-sol="Comed" data-hint="" style="width: 7ch" autocomplete="off"> más.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a unos amigos)</em> La paella está riquísima. <em class="hint-paren">(Comer)</em> <input type="text" class="blank" data-sol="Comed" data-hint="" style="width: 7ch" autocomplete="off"> más.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un amigo) (Hablar) <input type="text" class="blank" data-sol="Habla" data-hint="" style="width: 7ch" autocomplete="off"> más bajo. No soy sorda.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un amigo)</em> <em class="hint-paren">(Hablar)</em> <input type="text" class="blank" data-sol="Habla" data-hint="" style="width: 7ch" autocomplete="off"> más bajo. No soy sorda.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a alguien de su familia) (Bajar) <input type="text" class="blank" data-sol="Baja" data-hint="" style="width: 6ch" autocomplete="off"> la televisión. Está muy alta.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a alguien de su familia)</em> <em class="hint-paren">(Bajar)</em> <input type="text" class="blank" data-sol="Baja" data-hint="" style="width: 6ch" autocomplete="off"> la televisión. Está muy alta.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un amigo) </span></div><div class="item-row"><span>–¿Puedo llamar por teléfono? </span></div><div class="item-row"><span>–Sí, por supuesto. (Llamar) <input type="text" class="blank" data-sol="Llama" data-hint="" style="width: 7ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un amigo)</em> </span></div><div class="item-row"><span>–¿Puedo llamar por teléfono? </span></div><div class="item-row"><span>–Sí, por supuesto. <em class="hint-paren">(Llamar)</em> <input type="text" class="blank" data-sol="Llama" data-hint="" style="width: 7ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un niño) </span></div><div class="item-row"><span>–¿Puedo comer otro pastel? </span></div><div class="item-row"><span>–Sí, claro. (Comer) <input type="text" class="blank" data-sol="Come" data-hint="" style="width: 6ch" autocomplete="off"> todos los que quieras.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un niño)</em> </span></div><div class="item-row"><span>–¿Puedo comer otro pastel? </span></div><div class="item-row"><span>–Sí, claro. <em class="hint-paren">(Comer)</em> <input type="text" class="blank" data-sol="Come" data-hint="" style="width: 6ch" autocomplete="off"> todos los que quieras.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a unos señores mayores) </span></div><div class="item-row"><span>–¿Podemos pasar? </span></div><div class="item-row"><span>–Sí, (pasar) <input type="text" class="blank" data-sol="pasen" data-hint="" style="width: 7ch" autocomplete="off"> ustedes, por favor.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a unos señores mayores)</em> </span></div><div class="item-row"><span>–¿Podemos pasar? </span></div><div class="item-row"><span>–Sí, <em class="hint-paren">(pasar)</em> <input type="text" class="blank" data-sol="pasen" data-hint="" style="width: 7ch" autocomplete="off"> ustedes, por favor.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a unos desconocidos) (Cruzar) <input type="text" class="blank" data-sol="Crucen" data-hint="" style="width: 8ch" autocomplete="off"> por aquí; es más seguro.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a unos desconocidos)</em> <em class="hint-paren">(Cruzar)</em> <input type="text" class="blank" data-sol="Crucen" data-hint="" style="width: 8ch" autocomplete="off"> por aquí; es más seguro.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a unos clientes) (Pagar) <input type="text" class="blank" data-sol="Paguen" data-hint="" style="width: 8ch" autocomplete="off"> en la caja, por favor.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a unos clientes)</em> <em class="hint-paren">(Pagar)</em> <input type="text" class="blank" data-sol="Paguen" data-hint="" style="width: 8ch" autocomplete="off"> en la caja, por favor.</span></div>
             
         </div>
         <div class="group-controls">
@@ -168,23 +170,23 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>«Mes del ahorro en Supermás. (Comprar) <input type="text" class="blank" data-sol="Compre" data-hint="" style="width: 8ch" autocomplete="off"> dos y (pagar) <input type="text" class="blank" data-sol="pague" data-hint="" style="width: 7ch" autocomplete="off"> uno.»</span></div>
+            <div class="item-row"><span>«Mes del ahorro en Supermás. <em class="hint-paren">(Comprar)</em> <input type="text" class="blank" data-sol="Compre" data-hint="" style="width: 8ch" autocomplete="off"> dos y <em class="hint-paren">(pagar)</em> <input type="text" class="blank" data-sol="pague" data-hint="" style="width: 7ch" autocomplete="off"> uno.»</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>«(Visitar) <input type="text" class="blank" data-sol="Visite" data-hint="" style="width: 8ch" autocomplete="off"> Andalucía. (Recorrer) <input type="text" class="blank" data-sol="Recorra" data-hint="" style="width: 9ch" autocomplete="off"> sus ciudades y sus pueblos. (Descansar) <input type="text" class="blank" data-sol="Descanse" data-hint="" style="width: 10ch" autocomplete="off"> en sus playas. (Vivir) <input type="text" class="blank" data-sol="Viva" data-hint="" style="width: 6ch" autocomplete="off"> unos días mágicos.»</span></div>
+            <div class="item-row"><span>«<em class="hint-paren">(Visitar)</em> <input type="text" class="blank" data-sol="Visite" data-hint="" style="width: 8ch" autocomplete="off"> Andalucía. <em class="hint-paren">(Recorrer)</em> <input type="text" class="blank" data-sol="Recorra" data-hint="" style="width: 9ch" autocomplete="off"> sus ciudades y sus pueblos. <em class="hint-paren">(Descansar)</em> <input type="text" class="blank" data-sol="Descanse" data-hint="" style="width: 10ch" autocomplete="off"> en sus playas. <em class="hint-paren">(Vivir)</em> <input type="text" class="blank" data-sol="Viva" data-hint="" style="width: 6ch" autocomplete="off"> unos días mágicos.»</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>«Restaurante Nuevo Mundo. Algo nuevo para usted. (Comer) <input type="text" class="blank" data-sol="Coma" data-hint="" style="width: 6ch" autocomplete="off"> en un ambiente especial y (disfrutar) <input type="text" class="blank" data-sol="disfrute" data-hint="" style="width: 10ch" autocomplete="off"> de un espectáculo inolvidable. (Ver) <input type="text" class="blank" data-sol="Vea" data-hint="" style="width: 5ch" autocomplete="off"> las mejores actuaciones de América Latina.»</span></div>
+            <div class="item-row"><span>«Restaurante Nuevo Mundo. Algo nuevo para usted. <em class="hint-paren">(Comer)</em> <input type="text" class="blank" data-sol="Coma" data-hint="" style="width: 6ch" autocomplete="off"> en un ambiente especial y <em class="hint-paren">(disfrutar)</em> <input type="text" class="blank" data-sol="disfrute" data-hint="" style="width: 10ch" autocomplete="off"> de un espectáculo inolvidable. <em class="hint-paren">(Ver)</em> <input type="text" class="blank" data-sol="Vea" data-hint="" style="width: 5ch" autocomplete="off"> las mejores actuaciones de América Latina.»</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>«¿Te gustaría hablar español? (Estudiar) <input type="text" class="blank" data-sol="Estudia" data-hint="" style="width: 9ch" autocomplete="off"> con el revolucionario método Naturalia y (aprender) <input type="text" class="blank" data-sol="aprende" data-hint="" style="width: 9ch" autocomplete="off"> español en diez meses.»</span></div>
+            <div class="item-row"><span>«¿Te gustaría hablar español? <em class="hint-paren">(Estudiar)</em> <input type="text" class="blank" data-sol="Estudia" data-hint="" style="width: 9ch" autocomplete="off"> con el revolucionario método Naturalia y <em class="hint-paren">(aprender)</em> <input type="text" class="blank" data-sol="aprende" data-hint="" style="width: 9ch" autocomplete="off"> español en diez meses.»</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>«¿No conoce usted América Latina? (Enviar) <input type="text" class="blank" data-sol="Envíe" data-hint="" style="width: 7ch" autocomplete="off"> una etiqueta de leche CAM a Radio Central. (Participar) <input type="text" class="blank" data-sol="Participe" data-hint="" style="width: 11ch" autocomplete="off"> en nuestro concurso y (ganar) <input type="text" class="blank" data-sol="gane" data-hint="" style="width: 6ch" autocomplete="off"> un viaje a Perú para dos personas.»</span></div>
+            <div class="item-row"><span>«¿No conoce usted América Latina? <em class="hint-paren">(Enviar)</em> <input type="text" class="blank" data-sol="Envíe" data-hint="" style="width: 7ch" autocomplete="off"> una etiqueta de leche CAM a Radio Central. <em class="hint-paren">(Participar)</em> <input type="text" class="blank" data-sol="Participe" data-hint="" style="width: 11ch" autocomplete="off"> en nuestro concurso y <em class="hint-paren">(ganar)</em> <input type="text" class="blank" data-sol="gane" data-hint="" style="width: 6ch" autocomplete="off"> un viaje a Perú para dos personas.»</span></div>
             
         </div>
         <div class="group-controls">

@@ -33,7 +33,7 @@ Al promover una unidad de ejemplos/ a content/, copiar este valor a mano.
 Tokenización de items (un solo tokenizador cubre T2/T3/T4/T5):
   - "(a/b/c)"  (paréntesis CON barra)  -> <select>   (elección inline, T5)
   - "_____"                            -> <input>    (hueco libre, T2/T3/T4)
-  - "(2.º)"    (paréntesis SIN barra)  -> texto literal (estímulo visual)
+  - "(2.º)"    (paréntesis SIN barra)  -> texto en cursiva (estímulo, no widget)
 Cada widget consume, en orden, un elemento de solucion_correcta.
 Un "–" (raya) dentro de texto_enunciado marca el inicio de una intervención de
 minidiálogo: cada tramo se renderiza en su propia línea dentro del mismo item.
@@ -70,9 +70,29 @@ def cargar_config():
         return json.load(f)
 
 # Paréntesis que contienen al menos una barra -> elección inline (T5).
-# Uno sin barra, p. ej. "(2.º)", NO casa y se queda como texto literal.
 CHOICE_RE = re.compile(r"\(([^()]*?/[^()]*?)\)")
+# Paréntesis SIN barra, p. ej. "(Tener)", "(a un amigo)" -- estimulo/pista que
+# el alumno debe usar para completar el hueco; se muestra en cursiva, no es
+# un widget interactivo.
+HINT_RE = re.compile(r"\(([^()/]+)\)")
 BLANK = "_____"
+
+
+def tokenize_events(text):
+    """Escanea `text` y devuelve los eventos (start, end, kind, payload)
+    ordenados -- "choice" y "blank" son widgets (consumen una solucion cada
+    uno), "estimulo" es texto entre parentesis sin barra que solo se resalta en
+    cursiva. Compartido por render_widgets() (huecos interactivos) y
+    render_ejemplo() (el mismo item ya resuelto, de solo lectura)."""
+    events = []
+    for m in CHOICE_RE.finditer(text):
+        events.append((m.start(), m.end(), "choice", m.group(1)))
+    for m in re.finditer(re.escape(BLANK), text):
+        events.append((m.start(), m.end(), "blank", None))
+    for m in HINT_RE.finditer(text):
+        events.append((m.start(), m.end(), "estimulo", m.group(0)))
+    events.sort()
+    return events
 
 CSS = """
 :root {
@@ -93,11 +113,13 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
 .item:first-of-type { border-top: none; }
 .item-row + .item-row { margin-top: 4px; }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
-.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
-    border-radius: 6px; width: 150px; font-size: .95rem; }
-select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
-.blank.ok { border-color: var(--ok); background: #f0f6ee; }
-.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.blank { font-family: var(--font-body); padding: 2px 2px; border: none;
+    border-bottom: 2px solid var(--secondary); border-radius: 0;
+    background: transparent; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank.ok { border-bottom-color: var(--ok); background: transparent; }
+.blank.bad { border-bottom-color: var(--bad); background: transparent; }
+.hint-paren { font-style: italic; }
 .alt-hint { display: block; font-size: .78rem;
     color: var(--secondary); opacity: .85; margin-top: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
@@ -134,8 +156,8 @@ button:hover { opacity: .9; }
     padding: 8px 12px; margin-bottom: 10px; }
 .ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
     font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
-input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
-    background: #fff; cursor: default; }
+input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
+    background: transparent; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
     margin-top: 30px; color: var(--secondary); }
 """
@@ -232,12 +254,7 @@ def render_widgets(text, solutions):
     Devuelve (html, n_widgets, hint_ids). hint_ids son los ids (uno por hueco
     con alternativas "a/b") de los <span class="alt-hint"> que hay que colocar
     al FINAL del item (no aqui mismo, en medio de la frase)."""
-    events = []
-    for m in CHOICE_RE.finditer(text):
-        events.append((m.start(), m.end(), "choice", m.group(1)))
-    for m in re.finditer(re.escape(BLANK), text):
-        events.append((m.start(), m.end(), "blank", None))
-    events.sort()
+    events = tokenize_events(text)
 
     out = []
     hint_ids = []
@@ -245,6 +262,10 @@ def render_widgets(text, solutions):
     widx = 0
     for start, end, kind, payload in events:
         out.append(esc_body(text[pos:start]))
+        if kind == "estimulo":
+            out.append(f'<em class="hint-paren">{esc_body(payload)}</em>')
+            pos = end
+            continue
         sol = solutions[widx] if widx < len(solutions) else ""
         if kind == "choice":
             opciones = payload.split("/")
@@ -334,20 +355,23 @@ def render_ejemplo(item):
     respuesta del solucionario para este item tambien)."""
     texto = item["texto_enunciado"]
     respuestas = item["solucion_correcta"]
-    events = sorted(
-        [(m.start(), m.end()) for m in CHOICE_RE.finditer(texto)]
-        + [(m.start(), m.end()) for m in re.finditer(re.escape(BLANK), texto)]
-    )
+    events = tokenize_events(texto)
     out = []
     pos = 0
-    for i, (start, end) in enumerate(events):
+    widx = 0
+    for start, end, kind, payload in events:
         out.append(esc_body(texto[pos:start]))
-        sol = respuestas[i] if i < len(respuestas) else ""
+        if kind == "estimulo":
+            out.append(f'<em class="hint-paren">{esc_body(payload)}</em>')
+            pos = end
+            continue
+        sol = respuestas[widx] if widx < len(respuestas) else ""
         primera = sol.split("/")[0].strip() if "/" in sol else sol
         out.append(
             f'<input type="text" class="blank blank-example" value="{esc(primera)}" '
             f'style="width: {input_width(primera)}ch" readonly tabindex="-1">'
         )
+        widx += 1
         pos = end
     out.append(esc_body(texto[pos:]))
     body = "".join(out)

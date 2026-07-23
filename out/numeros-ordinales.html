@@ -24,11 +24,13 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
 .item:first-of-type { border-top: none; }
 .item-row + .item-row { margin-top: 4px; }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
-.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
-    border-radius: 6px; width: 150px; font-size: .95rem; }
-select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
-.blank.ok { border-color: var(--ok); background: #f0f6ee; }
-.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.blank { font-family: var(--font-body); padding: 2px 2px; border: none;
+    border-bottom: 2px solid var(--secondary); border-radius: 0;
+    background: transparent; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank.ok { border-bottom-color: var(--ok); background: transparent; }
+.blank.bad { border-bottom-color: var(--bad); background: transparent; }
+.hint-paren { font-style: italic; }
 .alt-hint { display: block; font-size: .78rem;
     color: var(--secondary); opacity: .85; margin-top: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
@@ -65,8 +67,8 @@ button:hover { opacity: .9; }
     padding: 8px 12px; margin-bottom: 10px; }
 .ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
     font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
-input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
-    background: #fff; cursor: default; }
+input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
+    background: transparent; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
     margin-top: 30px; color: var(--secondary); }
 </style>
@@ -135,51 +137,51 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Estudio (2.º) <input type="text" class="blank" data-sol="segundo" data-hint="" style="width: 9ch" autocomplete="off"> curso de Arquitectura.</span></div>
+            <div class="item-row"><span>Estudio <em class="hint-paren">(2.º)</em> <input type="text" class="blank" data-sol="segundo" data-hint="" style="width: 9ch" autocomplete="off"> curso de Arquitectura.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Enero es el (1.º) <input type="text" class="blank" data-sol="primer" data-hint="" style="width: 8ch" autocomplete="off"> mes del año.</span></div>
+            <div class="item-row"><span>Enero es el <em class="hint-paren">(1.º)</em> <input type="text" class="blank" data-sol="primer" data-hint="" style="width: 8ch" autocomplete="off"> mes del año.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Estoy leyendo un libro con (15) <input type="text" class="blank" data-sol="quince" data-hint="" style="width: 8ch" autocomplete="off"> capítulos. Voy por el capítulo (11.º) <input type="text" class="blank" data-sol="once" data-hint="" style="width: 6ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Estoy leyendo un libro con <em class="hint-paren">(15)</em> <input type="text" class="blank" data-sol="quince" data-hint="" style="width: 8ch" autocomplete="off"> capítulos. Voy por el capítulo <em class="hint-paren">(11.º)</em> <input type="text" class="blank" data-sol="once" data-hint="" style="width: 6ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>El Valencia es el (1.º) <input type="text" class="blank" data-sol="primero" data-hint="" style="width: 9ch" autocomplete="off"> en la Liga de fútbol.</span></div>
+            <div class="item-row"><span>El Valencia es el <em class="hint-paren">(1.º)</em> <input type="text" class="blank" data-sol="primero" data-hint="" style="width: 9ch" autocomplete="off"> en la Liga de fútbol.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Javi es el (3.º) <input type="text" class="blank" data-sol="tercero" data-hint="" style="width: 9ch" autocomplete="off"> de sus hermanos.</span></div>
+            <div class="item-row"><span>Javi es el <em class="hint-paren">(3.º)</em> <input type="text" class="blank" data-sol="tercero" data-hint="" style="width: 9ch" autocomplete="off"> de sus hermanos.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Ellas han sido las (1.ª) <input type="text" class="blank" data-sol="primeras" data-hint="" style="width: 10ch" autocomplete="off"> en llegar.</span></div>
+            <div class="item-row"><span>Ellas han sido las <em class="hint-paren">(1.ª)</em> <input type="text" class="blank" data-sol="primeras" data-hint="" style="width: 10ch" autocomplete="off"> en llegar.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>La ñ es la letra (15.ª) <input type="text" class="blank" data-sol="quince" data-hint="" style="width: 8ch" autocomplete="off"> del alfabeto.</span></div>
+            <div class="item-row"><span>La ñ es la letra <em class="hint-paren">(15.ª)</em> <input type="text" class="blank" data-sol="quince" data-hint="" style="width: 8ch" autocomplete="off"> del alfabeto.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>El despacho de José está en el (8.º) <input type="text" class="blank" data-sol="octavo" data-hint="" style="width: 8ch" autocomplete="off"> piso.</span></div>
+            <div class="item-row"><span>El despacho de José está en el <em class="hint-paren">(8.º)</em> <input type="text" class="blank" data-sol="octavo" data-hint="" style="width: 8ch" autocomplete="off"> piso.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Tuerza por la (2.ª) <input type="text" class="blank" data-sol="segunda" data-hint="" style="width: 9ch" autocomplete="off"> calle a la izquierda.</span></div>
+            <div class="item-row"><span>Tuerza por la <em class="hint-paren">(2.ª)</em> <input type="text" class="blank" data-sol="segunda" data-hint="" style="width: 9ch" autocomplete="off"> calle a la izquierda.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Nos vamos de vacaciones la (3.ª) <input type="text" class="blank" data-sol="tercera" data-hint="" style="width: 9ch" autocomplete="off"> semana de agosto.</span></div>
+            <div class="item-row"><span>Nos vamos de vacaciones la <em class="hint-paren">(3.ª)</em> <input type="text" class="blank" data-sol="tercera" data-hint="" style="width: 9ch" autocomplete="off"> semana de agosto.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>El siglo (18) <input type="text" class="blank" data-sol="dieciocho" data-hint="" style="width: 11ch" autocomplete="off"> fue el Siglo de las Luces.</span></div>
+            <div class="item-row"><span>El siglo <em class="hint-paren">(18)</em> <input type="text" class="blank" data-sol="dieciocho" data-hint="" style="width: 11ch" autocomplete="off"> fue el Siglo de las Luces.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Tina y Carla acabaron (4.ªs) <input type="text" class="blank" data-sol="cuartas" data-hint="" style="width: 9ch" autocomplete="off"> en el campeonato de tenis.</span></div>
+            <div class="item-row"><span>Tina y Carla acabaron <em class="hint-paren">(4.ªs)</em> <input type="text" class="blank" data-sol="cuartas" data-hint="" style="width: 9ch" autocomplete="off"> en el campeonato de tenis.</span></div>
             
         </div>
         <div class="group-controls">

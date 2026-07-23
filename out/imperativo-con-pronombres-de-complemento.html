@@ -24,11 +24,13 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
 .item:first-of-type { border-top: none; }
 .item-row + .item-row { margin-top: 4px; }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
-.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
-    border-radius: 6px; width: 150px; font-size: .95rem; }
-select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
-.blank.ok { border-color: var(--ok); background: #f0f6ee; }
-.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.blank { font-family: var(--font-body); padding: 2px 2px; border: none;
+    border-bottom: 2px solid var(--secondary); border-radius: 0;
+    background: transparent; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank.ok { border-bottom-color: var(--ok); background: transparent; }
+.blank.bad { border-bottom-color: var(--bad); background: transparent; }
+.hint-paren { font-style: italic; }
 .alt-hint { display: block; font-size: .78rem;
     color: var(--secondary); opacity: .85; margin-top: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
@@ -65,8 +67,8 @@ button:hover { opacity: .9; }
     padding: 8px 12px; margin-bottom: 10px; }
 .ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
     font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
-input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
-    background: #fff; cursor: default; }
+input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
+    background: transparent; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
     margin-top: 30px; color: var(--secondary); }
 </style>
@@ -111,7 +113,7 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Para hacer tortilla de patatas (pelar) <input type="text" class="blank" data-sol="pele" data-hint="" style="width: 6ch" autocomplete="off"> unas patatas, (cortar) <input type="text" class="blank" data-sol="córtelas" data-hint="" style="width: 10ch" autocomplete="off"> en láminas finas. (Echar) <input type="text" class="blank" data-sol="Eche" data-hint="" style="width: 6ch" autocomplete="off"> sal a las patatas y (freír) <input type="text" class="blank" data-sol="fríalas" data-hint="" style="width: 9ch" autocomplete="off"> en aceite muy caliente. (Cortar) <input type="text" class="blank" data-sol="Corte" data-hint="" style="width: 7ch" autocomplete="off"> un poco de cebolla y (freír) <input type="text" class="blank" data-sol="fríala" data-hint="" style="width: 8ch" autocomplete="off"> con las patatas. Luego (batir) <input type="text" class="blank" data-sol="bata" data-hint="" style="width: 6ch" autocomplete="off"> dos huevos y (mezclar) <input type="text" class="blank" data-sol="mézclelos" data-hint="" style="width: 11ch" autocomplete="off"> con las patatas. (Poner) <input type="text" class="blank" data-sol="Ponga" data-hint="" style="width: 7ch" autocomplete="off"> la masa de patata y huevo en la sartén y (freír) <input type="text" class="blank" data-sol="fríala" data-hint="" style="width: 8ch" autocomplete="off"> un par de minutos. (Dar) <input type="text" class="blank" data-sol="Dé" data-hint="" style="width: 4ch" autocomplete="off"> la vuelta a la tortilla y, cuando esté dorada, (poner) <input type="text" class="blank" data-sol="póngala" data-hint="" style="width: 9ch" autocomplete="off"> en un plato limpio.</span></div>
+            <div class="item-row"><span>Para hacer tortilla de patatas <em class="hint-paren">(pelar)</em> <input type="text" class="blank" data-sol="pele" data-hint="" style="width: 6ch" autocomplete="off"> unas patatas, <em class="hint-paren">(cortar)</em> <input type="text" class="blank" data-sol="córtelas" data-hint="" style="width: 10ch" autocomplete="off"> en láminas finas. <em class="hint-paren">(Echar)</em> <input type="text" class="blank" data-sol="Eche" data-hint="" style="width: 6ch" autocomplete="off"> sal a las patatas y <em class="hint-paren">(freír)</em> <input type="text" class="blank" data-sol="fríalas" data-hint="" style="width: 9ch" autocomplete="off"> en aceite muy caliente. <em class="hint-paren">(Cortar)</em> <input type="text" class="blank" data-sol="Corte" data-hint="" style="width: 7ch" autocomplete="off"> un poco de cebolla y <em class="hint-paren">(freír)</em> <input type="text" class="blank" data-sol="fríala" data-hint="" style="width: 8ch" autocomplete="off"> con las patatas. Luego <em class="hint-paren">(batir)</em> <input type="text" class="blank" data-sol="bata" data-hint="" style="width: 6ch" autocomplete="off"> dos huevos y <em class="hint-paren">(mezclar)</em> <input type="text" class="blank" data-sol="mézclelos" data-hint="" style="width: 11ch" autocomplete="off"> con las patatas. <em class="hint-paren">(Poner)</em> <input type="text" class="blank" data-sol="Ponga" data-hint="" style="width: 7ch" autocomplete="off"> la masa de patata y huevo en la sartén y <em class="hint-paren">(freír)</em> <input type="text" class="blank" data-sol="fríala" data-hint="" style="width: 8ch" autocomplete="off"> un par de minutos. <em class="hint-paren">(Dar)</em> <input type="text" class="blank" data-sol="Dé" data-hint="" style="width: 4ch" autocomplete="off"> la vuelta a la tortilla y, cuando esté dorada, <em class="hint-paren">(poner)</em> <input type="text" class="blank" data-sol="póngala" data-hint="" style="width: 9ch" autocomplete="off"> en un plato limpio.</span></div>
             
         </div>
         <div class="group-controls">
@@ -128,43 +130,43 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>La luz está encendida. (Apagar) <input type="text" class="blank" data-sol="Apágala" data-hint="" style="width: 9ch" autocomplete="off">, por favor.</span></div>
+            <div class="item-row"><span>La luz está encendida. <em class="hint-paren">(Apagar)</em> <input type="text" class="blank" data-sol="Apágala" data-hint="" style="width: 9ch" autocomplete="off">, por favor.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>La ventana está abierta. (Cerrar) <input type="text" class="blank" data-sol="Ciérrala" data-hint="" style="width: 10ch" autocomplete="off">, por favor. Hace frío.</span></div>
+            <div class="item-row"><span>La ventana está abierta. <em class="hint-paren">(Cerrar)</em> <input type="text" class="blank" data-sol="Ciérrala" data-hint="" style="width: 10ch" autocomplete="off">, por favor. Hace frío.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Estas cartas son urgentes. (Enviar) <input type="text" class="blank" data-sol="Envíelas" data-hint="" style="width: 10ch" autocomplete="off"> hoy mismo si tiene tiempo, por favor.</span></div>
+            <div class="item-row"><span>Estas cartas son urgentes. <em class="hint-paren">(Enviar)</em> <input type="text" class="blank" data-sol="Envíelas" data-hint="" style="width: 10ch" autocomplete="off"> hoy mismo si tiene tiempo, por favor.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>No sabemos hacer este ejercicio. (Ayudar) <input type="text" class="blank" data-sol="Ayúdanos" data-hint="" style="width: 10ch" autocomplete="off">, Jesús.</span></div>
+            <div class="item-row"><span>No sabemos hacer este ejercicio. <em class="hint-paren">(Ayudar)</em> <input type="text" class="blank" data-sol="Ayúdanos" data-hint="" style="width: 10ch" autocomplete="off">, Jesús.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Tengo sed. (Pasar) <input type="text" class="blank" data-sol="Pásame" data-hint="" style="width: 8ch" autocomplete="off"> el agua, por favor.</span></div>
+            <div class="item-row"><span>Tengo sed. <em class="hint-paren">(Pasar)</em> <input type="text" class="blank" data-sol="Pásame" data-hint="" style="width: 8ch" autocomplete="off"> el agua, por favor.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>—¿Le pregunto a Jorge? —No. (no, preguntar) <input type="text" class="blank" data-sol="no le preguntes" data-hint="" style="width: 17ch" autocomplete="off">. No sabe nada.</span></div>
+            <div class="item-row"><span>—¿Le pregunto a Jorge? —No. <em class="hint-paren">(no, preguntar)</em> <input type="text" class="blank" data-sol="no le preguntes" data-hint="" style="width: 17ch" autocomplete="off">. No sabe nada.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Raquel, (hacer) <input type="text" class="blank" data-sol="haznos" data-hint="" style="width: 8ch" autocomplete="off"> una foto a Raúl y a mí. Queremos tener un recuerdo.</span></div>
+            <div class="item-row"><span>Raquel, <em class="hint-paren">(hacer)</em> <input type="text" class="blank" data-sol="haznos" data-hint="" style="width: 8ch" autocomplete="off"> una foto a Raúl y a mí. Queremos tener un recuerdo.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Mario, (hacer) <input type="text" class="blank" data-sol="hazme" data-hint="" style="width: 7ch" autocomplete="off"> un favor. (Comprar) <input type="text" class="blank" data-sol="Cómprame" data-hint="" style="width: 10ch" autocomplete="off"> unos sellos cuando salgas.</span></div>
+            <div class="item-row"><span>Mario, <em class="hint-paren">(hacer)</em> <input type="text" class="blank" data-sol="hazme" data-hint="" style="width: 7ch" autocomplete="off"> un favor. <em class="hint-paren">(Comprar)</em> <input type="text" class="blank" data-sol="Cómprame" data-hint="" style="width: 10ch" autocomplete="off"> unos sellos cuando salgas.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Miguel, (no, enseñar) <input type="text" class="blank" data-sol="no le enseñes" data-hint="" style="width: 15ch" autocomplete="off"> el regalo a nadie.</span></div>
+            <div class="item-row"><span>Miguel, <em class="hint-paren">(no, enseñar)</em> <input type="text" class="blank" data-sol="no le enseñes" data-hint="" style="width: 15ch" autocomplete="off"> el regalo a nadie.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Los niños están pisando las flores. (Decir) <input type="text" class="blank" data-sol="Diles" data-hint="" style="width: 7ch" autocomplete="off"> algo, Sebastián.</span></div>
+            <div class="item-row"><span>Los niños están pisando las flores. <em class="hint-paren">(Decir)</em> <input type="text" class="blank" data-sol="Diles" data-hint="" style="width: 7ch" autocomplete="off"> algo, Sebastián.</span></div>
             
         </div>
         <div class="group-controls">
@@ -181,35 +183,35 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Si te sobra una entrada, (no, regalar) <input type="text" class="blank" data-sol="no se la regales" data-hint="" style="width: 18ch" autocomplete="off"> a Héctor. (Regalar) <input type="text" class="blank" data-sol="Regálamela" data-hint="" style="width: 12ch" autocomplete="off"> a mí.</span></div>
+            <div class="item-row"><span>Si te sobra una entrada, <em class="hint-paren">(no, regalar)</em> <input type="text" class="blank" data-sol="no se la regales" data-hint="" style="width: 18ch" autocomplete="off"> a Héctor. <em class="hint-paren">(Regalar)</em> <input type="text" class="blank" data-sol="Regálamela" data-hint="" style="width: 12ch" autocomplete="off"> a mí.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Si quiere usted algo, (no, pedir) <input type="text" class="blank" data-sol="no se lo pida" data-hint="" style="width: 15ch" autocomplete="off"> a otro. (Pedir) <input type="text" class="blank" data-sol="Pídamelo" data-hint="" style="width: 10ch" autocomplete="off"> a mí.</span></div>
+            <div class="item-row"><span>Si quiere usted algo, <em class="hint-paren">(no, pedir)</em> <input type="text" class="blank" data-sol="no se lo pida" data-hint="" style="width: 15ch" autocomplete="off"> a otro. <em class="hint-paren">(Pedir)</em> <input type="text" class="blank" data-sol="Pídamelo" data-hint="" style="width: 10ch" autocomplete="off"> a mí.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Necesito saber la verdad. (Decir) <input type="text" class="blank" data-sol="Dígamela" data-hint="" style="width: 10ch" autocomplete="off">, doctor.</span></div>
+            <div class="item-row"><span>Necesito saber la verdad. <em class="hint-paren">(Decir)</em> <input type="text" class="blank" data-sol="Dígamela" data-hint="" style="width: 10ch" autocomplete="off">, doctor.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Ese policía quiere ver tu pasaporte. (Enseñar) <input type="text" class="blank" data-sol="Enséñaselo" data-hint="" style="width: 12ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Ese policía quiere ver tu pasaporte. <em class="hint-paren">(Enseñar)</em> <input type="text" class="blank" data-sol="Enséñaselo" data-hint="" style="width: 12ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Esa pluma es mía. (Dar) <input type="text" class="blank" data-sol="Dámela" data-hint="" style="width: 8ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Esa pluma es mía. <em class="hint-paren">(Dar)</em> <input type="text" class="blank" data-sol="Dámela" data-hint="" style="width: 8ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Te he comprado una chaqueta. (Ponerse) <input type="text" class="blank" data-sol="Póntela" data-hint="" style="width: 9ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Te he comprado una chaqueta. <em class="hint-paren">(Ponerse)</em> <input type="text" class="blank" data-sol="Póntela" data-hint="" style="width: 9ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Ese libro es de Rosa. (No, dar) <input type="text" class="blank" data-sol="No se lo des" data-hint="" style="width: 14ch" autocomplete="off"> a Pedro.</span></div>
+            <div class="item-row"><span>Ese libro es de Rosa. <em class="hint-paren">(No, dar)</em> <input type="text" class="blank" data-sol="No se lo des" data-hint="" style="width: 14ch" autocomplete="off"> a Pedro.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>—¿Quieres ver el regalo? —No, (no, enseñar) <input type="text" class="blank" data-sol="no me lo enseñes" data-hint="" style="width: 18ch" autocomplete="off"> todavía.</span></div>
+            <div class="item-row"><span>—¿Quieres ver el regalo? —No, <em class="hint-paren">(no, enseñar)</em> <input type="text" class="blank" data-sol="no me lo enseñes" data-hint="" style="width: 18ch" autocomplete="off"> todavía.</span></div>
             
         </div>
         <div class="group-controls">

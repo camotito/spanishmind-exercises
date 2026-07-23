@@ -24,11 +24,13 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
 .item:first-of-type { border-top: none; }
 .item-row + .item-row { margin-top: 4px; }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
-.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
-    border-radius: 6px; width: 150px; font-size: .95rem; }
-select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
-.blank.ok { border-color: var(--ok); background: #f0f6ee; }
-.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.blank { font-family: var(--font-body); padding: 2px 2px; border: none;
+    border-bottom: 2px solid var(--secondary); border-radius: 0;
+    background: transparent; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank.ok { border-bottom-color: var(--ok); background: transparent; }
+.blank.bad { border-bottom-color: var(--bad); background: transparent; }
+.hint-paren { font-style: italic; }
 .alt-hint { display: block; font-size: .78rem;
     color: var(--secondary); opacity: .85; margin-top: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
@@ -65,8 +67,8 @@ button:hover { opacity: .9; }
     padding: 8px 12px; margin-bottom: 10px; }
 .ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
     font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
-input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
-    background: #fff; cursor: default; }
+input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
+    background: transparent; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
     margin-top: 30px; color: var(--secondary); }
 </style>
@@ -119,51 +121,51 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a su familia) (Empezar) <input type="text" class="blank" data-sol="Empezad" data-hint="" style="width: 9ch" autocomplete="off"> a comer. Yo llegaré un poco tarde.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a su familia)</em> <em class="hint-paren">(Empezar)</em> <input type="text" class="blank" data-sol="Empezad" data-hint="" style="width: 9ch" autocomplete="off"> a comer. Yo llegaré un poco tarde.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un amigo) (Elegir) <input type="text" class="blank" data-sol="Elige" data-hint="" style="width: 7ch" autocomplete="off"> un libro. Te lo regalo.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un amigo)</em> <em class="hint-paren">(Elegir)</em> <input type="text" class="blank" data-sol="Elige" data-hint="" style="width: 7ch" autocomplete="off"> un libro. Te lo regalo.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un alumno) (Contar) <input type="text" class="blank" data-sol="Cuente/Cuenta" data-hint="hint-18" style="width: 8ch" autocomplete="off"> hasta veinte en español.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un alumno)</em> <em class="hint-paren">(Contar)</em> <input type="text" class="blank" data-sol="Cuente/Cuenta" data-hint="hint-18" style="width: 8ch" autocomplete="off"> hasta veinte en español.</span></div>
             <span class="alt-hint" id="hint-18" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a alguien de su familia) (Encender) <input type="text" class="blank" data-sol="Enciende" data-hint="" style="width: 10ch" autocomplete="off"> la luz. Está muy oscuro.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a alguien de su familia)</em> <em class="hint-paren">(Encender)</em> <input type="text" class="blank" data-sol="Enciende" data-hint="" style="width: 10ch" autocomplete="off"> la luz. Está muy oscuro.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un camarero) (No, calentar) <input type="text" class="blank" data-sol="No caliente" data-hint="" style="width: 13ch" autocomplete="off"> la leche. La quiero fría.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un camarero)</em> <em class="hint-paren">(No, calentar)</em> <input type="text" class="blank" data-sol="No caliente" data-hint="" style="width: 13ch" autocomplete="off"> la leche. La quiero fría.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a unos amigos) (Sonreír) <input type="text" class="blank" data-sol="Sonreíd" data-hint="" style="width: 9ch" autocomplete="off">. Os voy a hacer una foto.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a unos amigos)</em> <em class="hint-paren">(Sonreír)</em> <input type="text" class="blank" data-sol="Sonreíd" data-hint="" style="width: 9ch" autocomplete="off">. Os voy a hacer una foto.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a unos niños) (No, mentir) <input type="text" class="blank" data-sol="No mintáis" data-hint="" style="width: 12ch" autocomplete="off">. Decir mentiras no está bien.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a unos niños)</em> <em class="hint-paren">(No, mentir)</em> <input type="text" class="blank" data-sol="No mintáis" data-hint="" style="width: 12ch" autocomplete="off">. Decir mentiras no está bien.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a unos alumnos) (Corregir) <input type="text" class="blank" data-sol="Corrijan/Corregid" data-hint="hint-19" style="width: 10ch" autocomplete="off"> el ejercicio.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a unos alumnos)</em> <em class="hint-paren">(Corregir)</em> <input type="text" class="blank" data-sol="Corrijan/Corregid" data-hint="hint-19" style="width: 10ch" autocomplete="off"> el ejercicio.</span></div>
             <span class="alt-hint" id="hint-19" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un alumno) (Comprobar) <input type="text" class="blank" data-sol="Compruebe/Comprueba" data-hint="hint-20" style="width: 11ch" autocomplete="off"> las respuestas.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un alumno)</em> <em class="hint-paren">(Comprobar)</em> <input type="text" class="blank" data-sol="Compruebe/Comprueba" data-hint="hint-20" style="width: 11ch" autocomplete="off"> las respuestas.</span></div>
             <span class="alt-hint" id="hint-20" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un alumno) (Cerrar) <input type="text" class="blank" data-sol="Cierre/Cierra" data-hint="hint-21" style="width: 8ch" autocomplete="off"> el libro y (escuchar) <input type="text" class="blank" data-sol="escuche/escucha" data-hint="hint-22" style="width: 9ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un alumno)</em> <em class="hint-paren">(Cerrar)</em> <input type="text" class="blank" data-sol="Cierre/Cierra" data-hint="hint-21" style="width: 8ch" autocomplete="off"> el libro y <em class="hint-paren">(escuchar)</em> <input type="text" class="blank" data-sol="escuche/escucha" data-hint="hint-22" style="width: 9ch" autocomplete="off">.</span></div>
             <span class="alt-hint" id="hint-21" hidden></span><span class="alt-hint" id="hint-22" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un amigo) (Freír) <input type="text" class="blank" data-sol="Fríe" data-hint="" style="width: 6ch" autocomplete="off"> más carne, por favor. Tengo mucha hambre.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un amigo)</em> <em class="hint-paren">(Freír)</em> <input type="text" class="blank" data-sol="Fríe" data-hint="" style="width: 6ch" autocomplete="off"> más carne, por favor. Tengo mucha hambre.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un desconocido) (Cruzar) <input type="text" class="blank" data-sol="Cruce" data-hint="" style="width: 7ch" autocomplete="off"> esta calle y (seguir) <input type="text" class="blank" data-sol="siga" data-hint="" style="width: 6ch" autocomplete="off"> todo recto.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(a un desconocido)</em> <em class="hint-paren">(Cruzar)</em> <input type="text" class="blank" data-sol="Cruce" data-hint="" style="width: 7ch" autocomplete="off"> esta calle y <em class="hint-paren">(seguir)</em> <input type="text" class="blank" data-sol="siga" data-hint="" style="width: 6ch" autocomplete="off"> todo recto.</span></div>
             
         </div>
         <div class="group-controls">

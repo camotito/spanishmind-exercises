@@ -24,11 +24,13 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
 .item:first-of-type { border-top: none; }
 .item-row + .item-row { margin-top: 4px; }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
-.blank { font-family: var(--font-body); padding: 4px 8px; border: 1px solid #ccc;
-    border-radius: 6px; width: 150px; font-size: .95rem; }
-select.blank { width: auto; min-width: 90px; background: #fff; cursor: pointer; }
-.blank.ok { border-color: var(--ok); background: #f0f6ee; }
-.blank.bad { border-color: var(--bad); background: #fbeeee; }
+.blank { font-family: var(--font-body); padding: 2px 2px; border: none;
+    border-bottom: 2px solid var(--secondary); border-radius: 0;
+    background: transparent; width: 150px; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank.ok { border-bottom-color: var(--ok); background: transparent; }
+.blank.bad { border-bottom-color: var(--bad); background: transparent; }
+.hint-paren { font-style: italic; }
 .alt-hint { display: block; font-size: .78rem;
     color: var(--secondary); opacity: .85; margin-top: 2px; }
 .group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
@@ -65,8 +67,8 @@ button:hover { opacity: .9; }
     padding: 8px 12px; margin-bottom: 10px; }
 .ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
     font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
-input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok);
-    background: #fff; cursor: default; }
+input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
+    background: transparent; cursor: default; }
 #resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
     margin-top: 30px; color: var(--secondary); }
 </style>
@@ -119,47 +121,47 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(Tener) <input type="text" class="blank" data-sol="Tenga" data-hint="" style="width: 7ch" autocomplete="off"> cuidado, don Antonio. Este cruce es peligroso.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(Tener)</em> <input type="text" class="blank" data-sol="Tenga" data-hint="" style="width: 7ch" autocomplete="off"> cuidado, don Antonio. Este cruce es peligroso.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(No, salir) <input type="text" class="blank" data-sol="No salgáis" data-hint="" style="width: 12ch" autocomplete="off"> ahora, niños. Está lloviendo.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(No, salir)</em> <input type="text" class="blank" data-sol="No salgáis" data-hint="" style="width: 12ch" autocomplete="off"> ahora, niños. Está lloviendo.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(Decir) <input type="text" class="blank" data-sol="Di" data-hint="" style="width: 4ch" autocomplete="off"> ‘Gracias’ al abuelo, Pepín.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(Decir)</em> <input type="text" class="blank" data-sol="Di" data-hint="" style="width: 4ch" autocomplete="off"> ‘Gracias’ al abuelo, Pepín.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>–¿Puedo decir algo, Arturo? </span></div><div class="item-row"><span>–No, (no, decir) <input type="text" class="blank" data-sol="no digas" data-hint="" style="width: 10ch" autocomplete="off"> nada, Ismael.</span></div>
+            <div class="item-row"><span>–¿Puedo decir algo, Arturo? </span></div><div class="item-row"><span>–No, <em class="hint-paren">(no, decir)</em> <input type="text" class="blank" data-sol="no digas" data-hint="" style="width: 10ch" autocomplete="off"> nada, Ismael.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(Ser) <input type="text" class="blank" data-sol="Sé" data-hint="" style="width: 4ch" autocomplete="off"> bueno, Julián, y (obedecer) <input type="text" class="blank" data-sol="obedece" data-hint="" style="width: 9ch" autocomplete="off"> a tus papás.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(Ser)</em> <input type="text" class="blank" data-sol="Sé" data-hint="" style="width: 4ch" autocomplete="off"> bueno, Julián, y <em class="hint-paren">(obedecer)</em> <input type="text" class="blank" data-sol="obedece" data-hint="" style="width: 9ch" autocomplete="off"> a tus papás.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(Tener) <input type="text" class="blank" data-sol="Tened" data-hint="" style="width: 7ch" autocomplete="off"> cuidado, niños. El mar está revuelto.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(Tener)</em> <input type="text" class="blank" data-sol="Tened" data-hint="" style="width: 7ch" autocomplete="off"> cuidado, niños. El mar está revuelto.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(Hacer) <input type="text" class="blank" data-sol="Haga" data-hint="" style="width: 6ch" autocomplete="off"> una copia de esta carta, Sr. Vázquez.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(Hacer)</em> <input type="text" class="blank" data-sol="Haga" data-hint="" style="width: 6ch" autocomplete="off"> una copia de esta carta, Sr. Vázquez.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(No, ser) <input type="text" class="blank" data-sol="No seas" data-hint="" style="width: 9ch" autocomplete="off"> impaciente, Jaime. Comemos dentro de diez minutos.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(No, ser)</em> <input type="text" class="blank" data-sol="No seas" data-hint="" style="width: 9ch" autocomplete="off"> impaciente, Jaime. Comemos dentro de diez minutos.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(No, poner) <input type="text" class="blank" data-sol="No pongas" data-hint="" style="width: 11ch" autocomplete="off"> la radio, por favor. Me duele la cabeza.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(No, poner)</em> <input type="text" class="blank" data-sol="No pongas" data-hint="" style="width: 11ch" autocomplete="off"> la radio, por favor. Me duele la cabeza.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(Venir) <input type="text" class="blank" data-sol="Ven" data-hint="" style="width: 5ch" autocomplete="off"> a mi fiesta, Sara. Lo vamos a pasar muy bien.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(Venir)</em> <input type="text" class="blank" data-sol="Ven" data-hint="" style="width: 5ch" autocomplete="off"> a mi fiesta, Sara. Lo vamos a pasar muy bien.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(Ser) <input type="text" class="blank" data-sol="Sed" data-hint="" style="width: 5ch" autocomplete="off"> amables con Elvira, niños. Os quiere mucho.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(Ser)</em> <input type="text" class="blank" data-sol="Sed" data-hint="" style="width: 5ch" autocomplete="off"> amables con Elvira, niños. Os quiere mucho.</span></div>
             
         </div>
         <div class="group-controls">
