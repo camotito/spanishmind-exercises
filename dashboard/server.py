@@ -57,11 +57,13 @@ def listar_temas():
             data = json.load(f)
         n_ejercicios = len(data.get("ejercicios", []))
         n_ocultos = sum(1 for ej in data.get("ejercicios", []) if ej.get("oculto"))
+        tipologias = sorted({ej.get("tipologia") for ej in data.get("ejercicios", []) if ej.get("tipologia")})
         temas.append({
             "tema": tema,
             "titulo": titulos.get(tema, data.get("titulo", tema)),
             "n_ejercicios": n_ejercicios,
             "n_ocultos": n_ocultos,
+            "tipologias": tipologias,
         })
     return temas
 

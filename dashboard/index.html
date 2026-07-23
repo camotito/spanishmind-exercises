@@ -58,6 +58,11 @@
   .ejercicio-card.oculto { background: var(--hidden-bg); opacity: 0.72; }
   .ejercicio-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
   .ejercicio-enunciado { font-weight: 600; margin: 0 0 0.7rem; flex: 1; }
+  .tipologia-badge {
+    display: inline-block; font-size: 0.72rem; font-weight: 600; color: var(--accent);
+    background: #f3e4d3; border: 1px solid var(--accent); border-radius: 4px;
+    padding: 0.05rem 0.4rem; margin-right: 0.5rem; vertical-align: middle;
+  }
   .visible-toggle { display: flex; align-items: center; gap: 0.4rem; font-size: 0.82rem; color: var(--muted); white-space: nowrap; }
   .item-row { display: flex; align-items: flex-start; gap: 0.6rem; padding: 0.35rem 0; border-top: 1px dashed var(--line); }
   .item-row:first-of-type { border-top: none; }
@@ -109,7 +114,8 @@ async function cargarTemas() {
     btn.className = 'tema-btn';
     btn.dataset.tema = t.tema;
     const ocultoTxt = t.n_ocultos ? ` · ${t.n_ocultos} oculto(s)` : '';
-    btn.innerHTML = `${t.titulo}<span class="meta">${t.tema} · ${t.n_ejercicios} ejercicio(s)${ocultoTxt}</span>`;
+    const tiposTxt = (t.tipologias && t.tipologias.length) ? ` · ${t.tipologias.join(', ')}` : '';
+    btn.innerHTML = `${t.titulo}<span class="meta">${t.tema} · ${t.n_ejercicios} ejercicio(s)${ocultoTxt}${tiposTxt}</span>`;
     btn.addEventListener('click', () => seleccionarTema(t.tema));
     list.appendChild(btn);
   }
@@ -148,7 +154,7 @@ function renderEditor() {
     const head = document.createElement('div');
     head.className = 'ejercicio-head';
     head.innerHTML = `
-      <p class="ejercicio-enunciado">${escapeHtml(ej.enunciado || '')}</p>
+      <p class="ejercicio-enunciado"><span class="tipologia-badge">${escapeHtml(ej.tipologia || '?')}</span>${escapeHtml(ej.enunciado || '')}</p>
       <label class="visible-toggle">
         <input type="checkbox" class="toggle-oculto" ${ej.oculto ? '' : 'checked'}>
         Visible
