@@ -144,49 +144,49 @@
       "enunciado": "Vuelva a escribir las frases con expresiones con estar, seguir o llevar en el tiempo adecuado y el participio de los verbos correspondientes.",
       "items": [
         {
-          "texto_enunciado": "<u>Se ha estropeado el ordenador.</u> _____.",
+          "texto_enunciado": "Se ha estropeado el ordenador. _____.",
           "solucion_correcta": [
             "El ordenador está estropeado"
           ]
         },
         {
-          "texto_enunciado": "<u>La biblioteca cerró hace tiempo y aún estaba cerrada cuando fui ayer.</u> _____.",
+          "texto_enunciado": "La biblioteca cerró hace tiempo y aún estaba cerrada cuando fui ayer. _____.",
           "solucion_correcta": [
             "La biblioteca sigue cerrada"
           ]
         },
         {
-          "texto_enunciado": "<u>Esta academia abrió en 2002 y aún está abierta.</u> _____.",
+          "texto_enunciado": "Esta academia abrió en 2002 y aún está abierta. _____.",
           "solucion_correcta": [
             "Esta academia lleva abierta desde el 2002"
           ]
         },
         {
-          "texto_enunciado": "<u>El tren paró hace un rato y aún está parado.</u> _____.",
+          "texto_enunciado": "El tren paró hace un rato y aún está parado. _____.",
           "solucion_correcta": [
             "El tren sigue parado"
           ]
         },
         {
-          "texto_enunciado": "<u>Se había roto el móvil.</u> _____.",
+          "texto_enunciado": "Se había roto el móvil. _____.",
           "solucion_correcta": [
             "El móvil estaba roto"
           ]
         },
         {
-          "texto_enunciado": "<u>La impresora se había averiado hacía una semana.</u> _____.",
+          "texto_enunciado": "La impresora se había averiado hacía una semana. _____.",
           "solucion_correcta": [
             "La impresora llevaba una semana averiada"
           ]
         },
         {
-          "texto_enunciado": "<u>Esta comida se hizo hace dos días.</u> _____.",
+          "texto_enunciado": "Esta comida se hizo hace dos días. _____.",
           "solucion_correcta": [
             "Esta comida lleva dos días hecha"
           ]
         },
         {
-          "texto_enunciado": "<u>Hace poco detuvieron al sospechoso y aún está detenido.</u> _____.",
+          "texto_enunciado": "Hace poco detuvieron al sospechoso y aún está detenido. _____.",
           "solucion_correcta": [
             "El sospechoso sigue detenido"
           ]

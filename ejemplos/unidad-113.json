@@ -11,49 +11,49 @@
       "enunciado": "Inserte a donde sea necesario.",
       "items": [
         {
-          "texto_enunciado": "<u>No he oído los niños todavía.</u> _____",
+          "texto_enunciado": "No he oído los niños todavía. _____",
           "solucion_correcta": [
             "No he oído a los niños todavía"
           ]
         },
         {
-          "texto_enunciado": "<u>Todavía no he oído esa canción.</u> _____",
+          "texto_enunciado": "Todavía no he oído esa canción. _____",
           "solucion_correcta": [
             "Todavía no he oído esa canción"
           ]
         },
         {
-          "texto_enunciado": "<u>¿A qué hora has llamado Enrique?</u> _____",
+          "texto_enunciado": "¿A qué hora has llamado Enrique? _____",
           "solucion_correcta": [
             "¿A qué hora has llamado a Enrique?"
           ]
         },
         {
-          "texto_enunciado": "<u>Begoña está regalando sus gatitos.</u> _____",
+          "texto_enunciado": "Begoña está regalando sus gatitos. _____",
           "solucion_correcta": [
             "Begoña está regalando sus gatitos"
           ]
         },
         {
-          "texto_enunciado": "<u>¿Has visto alguien de nuestro grupo?</u> _____",
+          "texto_enunciado": "¿Has visto alguien de nuestro grupo? _____",
           "solucion_correcta": [
             "¿Has visto a alguien de nuestro grupo?"
           ]
         },
         {
-          "texto_enunciado": "<u>Tengo que saludar Bárbara.</u> _____",
+          "texto_enunciado": "Tengo que saludar Bárbara. _____",
           "solucion_correcta": [
             "Tengo que saludar a Bárbara"
           ]
         },
         {
-          "texto_enunciado": "<u>¿Hay alguien en el aula?</u> _____",
+          "texto_enunciado": "¿Hay alguien en el aula? _____",
           "solucion_correcta": [
             "¿Hay alguien en el aula?"
           ]
         },
         {
-          "texto_enunciado": "<u>En mi oficina necesitan una secretaria.</u> _____",
+          "texto_enunciado": "En mi oficina necesitan una secretaria. _____",
           "solucion_correcta": [
             "En mi oficina necesitan una secretaria"
           ]

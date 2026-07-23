@@ -123,6 +123,9 @@ button:hover { opacity: .9; }
 .scene-list li { padding: 4px 0; border-top: 1px dashed var(--line); }
 .scene-list li:first-child { border-top: none; }
 .scene-num { color: var(--secondary); font-weight: 700; }
+.tabla-titulo { font-weight: 700; color: var(--secondary); background: #fffdf8;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 8px 14px;
+    margin-bottom: 18px; }
 .wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
     border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
 .word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
@@ -287,9 +290,17 @@ def render_functional_images(datos):
     return f'<ul class="scene-list">{"".join(filas)}</ul>'
 
 
+def render_titulo_tabla(datos):
+    """Algunas unidades traen una tabla con titulo propio en el libro (p.ej.
+    "Consejos para el ahorro de energia") que no aporta datos en si misma,
+    solo contexto -- se pinta como encabezado antes de los items."""
+    return f'<p class="tabla-titulo">{esc(datos["titulo"])}</p>'
+
+
 GRAFICO_RENDERERS = {
     "directory": render_directory,
     "functional_images": render_functional_images,
+    "titulo_tabla": render_titulo_tabla,
     # pendientes: family_tree, clocks, visual_count, map, vocabulary_box, ...
 }
 

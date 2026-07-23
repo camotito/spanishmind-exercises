@@ -136,37 +136,37 @@
       "enunciado": "Vuelva a escribir las frases con el comparativo de igualdad. Cambie el adjetivo si es necesario.",
       "items": [
         {
-          "texto_enunciado": "<u>Jorge es más feo que yo.</u> Jorge _____.",
+          "texto_enunciado": "Jorge es más feo que yo. Jorge _____.",
           "solucion_correcta": [
             "no es tan guapo como yo"
           ]
         },
         {
-          "texto_enunciado": "<u>Elio es más bajo que su padre.</u> Elio _____.",
+          "texto_enunciado": "Elio es más bajo que su padre. Elio _____.",
           "solucion_correcta": [
             "no es tan alto como su padre"
           ]
         },
         {
-          "texto_enunciado": "<u>La silla es más incómoda que el sillón.</u> La silla _____.",
+          "texto_enunciado": "La silla es más incómoda que el sillón. La silla _____.",
           "solucion_correcta": [
             "no es tan cómoda como el sillón"
           ]
         },
         {
-          "texto_enunciado": "<u>Vosotras sois más simpáticas que Hugo.</u> Hugo _____.",
+          "texto_enunciado": "Vosotras sois más simpáticas que Hugo. Hugo _____.",
           "solucion_correcta": [
             "no es tan simpático como vosotras"
           ]
         },
         {
-          "texto_enunciado": "<u>Eres más fuerte que yo.</u> (Yo) _____.",
+          "texto_enunciado": "Eres más fuerte que yo. (Yo) _____.",
           "solucion_correcta": [
             "No soy tan fuerte como tú"
           ]
         },
         {
-          "texto_enunciado": "<u>Él es peor que Rinaldo.</u> Él _____.",
+          "texto_enunciado": "Él es peor que Rinaldo. Él _____.",
           "solucion_correcta": [
             "no es tan bueno como Rinaldo"
           ]

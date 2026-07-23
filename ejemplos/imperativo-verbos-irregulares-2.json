@@ -157,7 +157,13 @@
         "poner",
         "tener",
         "utilizar"
-      ]
+      ],
+      "contexto_grafico": {
+        "tipo": "titulo_tabla",
+        "datos": {
+          "titulo": "Consejos para el ahorro de energía"
+        }
+      }
     },
     {
       "subejercicio": "76.3",
