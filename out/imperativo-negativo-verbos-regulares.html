@@ -79,8 +79,12 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>(Sus hijos están viendo mucha televisión.) «<input type="text" class="blank blank-example" value="No veáis" style="width: 10ch" readonly tabindex="-1"> tanta televisión.»</span></div></div>
         
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(Sus hijos están viendo mucha televisión.) «<input type="text" class="blank" data-sol="No veáis" data-hint="" style="width: 10ch" autocomplete="off"> tanta televisión.»</span></div>
+            
+        </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>(Su hijo deja sus cosas en el salón.) «<input type="text" class="blank" data-sol="No dejes" data-hint="" style="width: 10ch" autocomplete="off"> tus cosas en el salón.»</span></div>
             
@@ -116,11 +120,15 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
         
         
         
-        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>(a un amigo) (No, tirar) <input type="text" class="blank blank-example" value="No tires" style="width: 10ch" readonly tabindex="-1"> cosas al suelo.</span></div></div>
+        
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a unos alumnos) (No, escribir) <input type="text" class="blank" data-sol="No escribáis/No escriban" data-hint="hint-13" style="width: 14ch" autocomplete="off"> en las mesas.</span></div>
-            <span class="alt-hint" id="hint-13" hidden></span>
+            <div class="item-row"><span>(a un amigo) (No, tirar) <input type="text" class="blank" data-sol="No tires" data-hint="" style="width: 10ch" autocomplete="off"> cosas al suelo.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>(a unos alumnos) (No, escribir) <input type="text" class="blank" data-sol="No escribáis/No escriban" data-hint="hint-15" style="width: 14ch" autocomplete="off"> en las mesas.</span></div>
+            <span class="alt-hint" id="hint-15" hidden></span>
         </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>(a un niño) (No, coger) <input type="text" class="blank" data-sol="No cojas" data-hint="" style="width: 10ch" autocomplete="off"> nada del suelo. Está muy sucio.</span></div>
@@ -167,8 +175,8 @@ input.blank-example { color: var(--ok); font-weight: 600; border-color: var(--ok
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>(a un alumno) (No, usar) <input type="text" class="blank" data-sol="No uses/No use" data-hint="hint-14" style="width: 9ch" autocomplete="off"> el móvil en clase.</span></div>
-            <span class="alt-hint" id="hint-14" hidden></span>
+            <div class="item-row"><span>(a un alumno) (No, usar) <input type="text" class="blank" data-sol="No uses/No use" data-hint="hint-16" style="width: 9ch" autocomplete="off"> el móvil en clase.</span></div>
+            <span class="alt-hint" id="hint-16" hidden></span>
         </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>(a un desconocido) (No, dejar) <input type="text" class="blank" data-sol="No deje" data-hint="" style="width: 9ch" autocomplete="off"> las maletas solas.</span></div>

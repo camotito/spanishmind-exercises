@@ -64,6 +64,7 @@
     padding: 0.05rem 0.4rem; margin-right: 0.5rem; vertical-align: middle;
   }
   .visible-toggle { display: flex; align-items: center; gap: 0.4rem; font-size: 0.82rem; color: var(--muted); white-space: nowrap; }
+  .head-toggles { display: flex; flex-direction: column; gap: 0.4rem; flex: none; }
   .item-row { display: flex; align-items: flex-start; gap: 0.6rem; padding: 0.35rem 0; border-top: 1px dashed var(--line); }
   .item-row:first-of-type { border-top: none; }
   .item-row textarea {
@@ -169,16 +170,26 @@ function renderEditor() {
         <span class="tipologia-badge">${escapeHtml(ej.tipologia || '?')}</span>
         <textarea class="enunciado-edit" rows="1">${escapeHtml(ej.enunciado || '')}</textarea>
       </div>
-      <label class="visible-toggle">
-        <input type="checkbox" class="toggle-oculto" ${ej.oculto ? '' : 'checked'}>
-        Visible
-      </label>
+      <div class="head-toggles">
+        <label class="visible-toggle">
+          <input type="checkbox" class="toggle-oculto" ${ej.oculto ? '' : 'checked'}>
+          Visible
+        </label>
+        <label class="visible-toggle">
+          <input type="checkbox" class="toggle-ejemplo" ${ej.forzar_ejemplo ? 'checked' : ''}>
+          Mostrar ejemplo
+        </label>
+      </div>
     `;
     card.appendChild(head);
 
     head.querySelector('.toggle-oculto').addEventListener('change', (e) => {
       dataActual.ejercicios[ei].oculto = !e.target.checked;
       card.classList.toggle('oculto', !e.target.checked);
+    });
+
+    head.querySelector('.toggle-ejemplo').addEventListener('change', (e) => {
+      dataActual.ejercicios[ei].forzar_ejemplo = e.target.checked;
     });
 
     const enunciadoTa = head.querySelector('.enunciado-edit');

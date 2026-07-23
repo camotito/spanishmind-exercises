@@ -403,12 +403,12 @@ def render_ejercicio(ej):
     items_data = ej["items"]
     ejemplo = ""
     ejemplo_wordbox = ""
-    # normalmente solo los ejercicios de hueco libre ("_____") traen un
-    # primer item ya resuelto como modelo en el libro; los de eleccion entre
-    # parentesis (T5/T6) no, salvo excepcion confirmada a mano contra el
-    # libro fisico -- "forzar_ejemplo": true en el ejercicio para esos casos.
+    # el ejemplo resuelto solo se muestra si el enunciado lo referencia
+    # explicitamente ("como en el ejemplo" / "as in the example(s)", fiel a
+    # la traduccion del libro) o si se fuerza a mano con "forzar_ejemplo"
+    # (p.ej. desde el dashboard) para casos que lo necesitan igual.
     hay_ejemplo = len(items_data) >= 2 and (
-        BLANK in items_data[0]["texto_enunciado"] or ej.get("forzar_ejemplo")
+        ej.get("forzar_ejemplo") or re.search(r"example", ej["enunciado"], re.I)
     )
     if hay_ejemplo:
         if banco_por_item:
