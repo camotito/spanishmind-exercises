@@ -56,7 +56,8 @@
           "Jorge: edad 31; hermanos —; 3 hijos con Pepa; color de ojos negros.",
           "Margarita: edad 23; dos hermanos; hijos —; color de ojos marrones."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "45.2",

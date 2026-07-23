@@ -105,7 +105,8 @@
             "descripcion": "Miguel juega a las cartas."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "10.2",
@@ -297,7 +298,8 @@
             "descripcion": "Una mujer es examinada por un médico en una consulta."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     }
   ]
 }

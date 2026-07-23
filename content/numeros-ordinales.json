@@ -112,7 +112,8 @@
             "noveno"
           ]
         }
-      ]
+      ],
+      "grafico_necesario": true
     },
     {
       "tipologia": "T4",

@@ -77,7 +77,8 @@
             "descripcion": "Varios relojes con un cartel de 5 €."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "33.2",

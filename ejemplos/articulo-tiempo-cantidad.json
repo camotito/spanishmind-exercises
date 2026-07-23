@@ -113,7 +113,8 @@
             "manecilla_larga": "3"
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "9.2",
@@ -301,7 +302,8 @@
             "unidad": "100 gramos"
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     }
   ]
 }

@@ -284,7 +284,8 @@
             "descripcion": "Dos personas están sentadas ante el televisor y parecen aburridas."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     }
   ]
 }

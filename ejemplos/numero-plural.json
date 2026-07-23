@@ -144,7 +144,8 @@
           "Sobre la mesa aparecen libros, vasos, botellas, una lámpara, lápices, una postal, gafas y tijeras.",
           "Fórmula de inicio de la descripción: «En el dibujo hay...»."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "3.3",

@@ -99,7 +99,8 @@
             "descripcion": "Maite habla por teléfono mientras sus padres están en un coche."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "65.2",

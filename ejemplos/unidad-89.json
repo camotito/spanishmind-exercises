@@ -181,7 +181,8 @@
             "texto": "¿Cómo fue la entrevista?"
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     }
   ]
 }

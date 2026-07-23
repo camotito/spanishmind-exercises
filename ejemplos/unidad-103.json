@@ -168,7 +168,8 @@
           "Escala vertical de mayor a menor frecuencia, con un signo positivo en la parte superior y un signo negativo en la parte inferior.",
           "Seis niveles numerados; el tercer nivel admite dos expresiones de igual frecuencia separadas por una barra."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "103.4",

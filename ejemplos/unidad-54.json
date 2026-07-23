@@ -105,7 +105,8 @@
             "descripcion": "Una mujer se despierta tarde."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "54.2",

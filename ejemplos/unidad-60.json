@@ -105,7 +105,8 @@
             "descripcion": "Betty se acuesta a las doce."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "60.2",

@@ -274,7 +274,8 @@
             "descripcion": "Ángel y Pilar están sentados a una mesa con tazas, platos y alimentos."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     }
   ]
 }

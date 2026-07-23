@@ -146,7 +146,8 @@
             "equivalencia": "1 MXN = un peso mexicano"
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "26.3",
@@ -268,7 +269,8 @@
             "año": "1613"
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     }
   ]
 }

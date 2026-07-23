@@ -194,7 +194,8 @@
             "bocadillo": "Eres _____."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "15.4",

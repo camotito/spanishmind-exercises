@@ -53,7 +53,8 @@
             "descripcion": "Cristina juega al tenis con una amiga."
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "subejercicio": "57.2",

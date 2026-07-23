@@ -264,7 +264,8 @@
             "descripcion": "Un hombre y una mujer conversan mientras sostienen unas tazas."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     }
   ]
 }

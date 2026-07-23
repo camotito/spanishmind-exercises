@@ -113,7 +113,8 @@
             "descripcion": "Mujer con gafas junto a una pizarra."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "5.2",

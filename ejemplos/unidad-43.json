@@ -47,7 +47,8 @@
             "descripcion": "Un hombre habla por teléfono con una mujer que está en París, junto a la torre Eiffel."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "43.2",
@@ -149,7 +150,8 @@
             "descripcion": "Dos jugadores celebran un resultado de 2-0 mientras una mujer sonríe."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "43.3",
@@ -229,7 +231,8 @@
             "descripcion": "Dos platos limpios."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "43.4",

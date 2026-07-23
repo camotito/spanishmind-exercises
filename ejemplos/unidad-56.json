@@ -111,7 +111,8 @@
             "descripcion": "Tres corredores participan en un maratón."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "56.2",

@@ -82,7 +82,8 @@
             "hora": "23:30"
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "subejercicio": "53.2",

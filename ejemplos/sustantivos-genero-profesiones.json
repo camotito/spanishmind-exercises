@@ -137,7 +137,8 @@
             "descripcion": "Una mujer en una cama atendida por otra persona."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "1.2",
@@ -373,7 +374,8 @@
             "miembro_2": "6-10"
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     }
   ]
 }

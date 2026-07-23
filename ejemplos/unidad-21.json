@@ -95,7 +95,8 @@
             "escena": "Una persona sostiene el corazón de una manzana que acaba de comer."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "21.2",

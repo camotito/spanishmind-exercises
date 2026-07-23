@@ -113,7 +113,8 @@
             "referente": "llaves"
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "12.2",
@@ -213,7 +214,8 @@
             "referente": "autobús"
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "12.3",
@@ -325,7 +327,8 @@
             "referente": "objeto alejado de quien pregunta"
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     }
   ]
 }

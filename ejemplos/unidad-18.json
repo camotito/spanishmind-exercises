@@ -120,7 +120,8 @@
             ]
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "18.2",

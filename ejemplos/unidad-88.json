@@ -167,7 +167,8 @@
             "texto": "Te llamaré la semana que viene sin falta."
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     }
   ]
 }

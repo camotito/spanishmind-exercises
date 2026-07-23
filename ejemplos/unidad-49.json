@@ -251,7 +251,8 @@
             "descripcion": "Un hombre sostiene un despertador junto a su oído."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     }
   ]
 }

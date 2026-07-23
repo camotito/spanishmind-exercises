@@ -105,7 +105,8 @@
             "descripcion": "Varios vasos relucientes."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "20.2",

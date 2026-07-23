@@ -77,7 +77,8 @@
             "descripcion": "Un hombre escribe en un ordenador y parece preocupado."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "106.2",

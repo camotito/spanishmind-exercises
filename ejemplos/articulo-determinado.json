@@ -210,7 +210,8 @@
             "relacion_con_marta": "hija"
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "6.3",
@@ -290,7 +291,8 @@
             "descripcion": "Tres personas trabajan con papel y una de ellas tiene unas tijeras."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "6.4",

@@ -115,7 +115,8 @@
             "piso": "9.º D"
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "27.2",

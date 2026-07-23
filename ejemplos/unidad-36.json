@@ -86,7 +86,8 @@
             "descripcion": "Una mujer habla con otra mujer que sostiene un paraguas."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "36.2",

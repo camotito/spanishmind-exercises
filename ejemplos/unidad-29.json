@@ -142,7 +142,8 @@
             "informacion": "Su gata nos visita todas las tardes."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "29.3",

@@ -325,7 +325,8 @@
             "ilustracion": "un caballo"
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "4.4",

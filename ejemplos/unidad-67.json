@@ -178,7 +178,8 @@
             "imagen": "glifo zodiacal de Escorpio"
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     }
   ]
 }

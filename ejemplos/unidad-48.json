@@ -51,7 +51,8 @@
           "María y Ana: lugar de residencia, Cali; María trabaja en un hospital y Ana es estudiante de Historia.",
           "Pedro: lugar de residencia, Buenos Aires; estudiante de Economía."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "48.2",
@@ -218,7 +219,8 @@
             "descripcion": "Varias personas llevan diferentes prendas y adornos en la cabeza."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     }
   ]
 }

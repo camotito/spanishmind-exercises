@@ -95,7 +95,8 @@
             "descripcion": "Un objeto entre las ramas de un árbol."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "23.2",

@@ -138,7 +138,8 @@
           "Segunda columna de la tabla: «hay», «está», «están».",
           "Tercera columna de la tabla: «una farmacia?», «una parada de autobús?», «la parada de autobús más próxima?», «el Hospital Central?», «las ruinas de Tikal?», «un banco?», «el Banco de Galicia?», «los cines Luna?»."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "47.3",

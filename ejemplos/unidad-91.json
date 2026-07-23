@@ -187,7 +187,8 @@
           "Condición: Comerse esa fruta (ustedes). Consecuencia: ponerse malos (ustedes).",
           "Condición: Enfadarse (tú). Consecuencia: irse (yo)."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "91.4",

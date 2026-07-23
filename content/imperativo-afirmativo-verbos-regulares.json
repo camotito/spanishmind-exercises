@@ -52,7 +52,8 @@
             "descripcion": "Un médico escribe mientras habla con un paciente sentado."
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "tipologia": "T4",
@@ -126,7 +127,8 @@
             "descripcion": "Una mujer habla dentro de un gran bocadillo que contiene las situaciones del ejercicio."
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "tipologia": "T4",

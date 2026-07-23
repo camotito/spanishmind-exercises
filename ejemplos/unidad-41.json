@@ -103,7 +103,8 @@
             "texto_globo": "¿Para _____? Gracias."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "41.2",

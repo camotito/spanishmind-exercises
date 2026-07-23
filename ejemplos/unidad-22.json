@@ -203,7 +203,8 @@
             "descripcion": "Un paisaje rural con una casa, un camino y pocos árboles."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "22.4",

@@ -94,7 +94,8 @@
             "plan": "Salir con Laura"
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "subejercicio": "51.2",

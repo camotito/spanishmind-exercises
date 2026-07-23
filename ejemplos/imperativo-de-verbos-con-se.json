@@ -61,7 +61,8 @@
             "descripcion": "Una mujer habla con un señor mayor y señala un asiento."
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "subejercicio": "77.2",

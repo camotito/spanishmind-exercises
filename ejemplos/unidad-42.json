@@ -79,7 +79,8 @@
             "descripcion": "Una mujer entrega un billete de 25 euros a un hombre."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "42.2",

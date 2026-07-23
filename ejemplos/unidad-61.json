@@ -89,7 +89,8 @@
             "descripcion": "Ana Roldán acompañada por cinco hijos."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "61.2",
@@ -164,7 +165,8 @@
           "Columna «consecuencias»: 1. No puedo entrar en casa; 2. Juana no ve bien; 3. No puedo pagar; 4. Están agotadas.",
           "Columna «causas»: a. trabajar mucho todo el día; b. perder las llaves; c. olvidarse la cartera; d. romperse las gafas."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "61.4",

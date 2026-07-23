@@ -170,7 +170,8 @@
           "Julia aparece en una competición levantando una pesa.",
           "Un grupo de hombres celebra con una copa de campeón."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "13.3",

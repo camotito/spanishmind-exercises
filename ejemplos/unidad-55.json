@@ -86,7 +86,8 @@
           "don Jesús: tortilla, una cara sonriente; queso, una cara sonriente; paella, X; fabada, dos caras sonrientes; calamares, una cara sonriente; gambas, X.",
           "Leyenda: una cara sonriente = gustar; dos caras sonrientes = encantar; X = no gustar."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "55.2",
@@ -154,7 +155,8 @@
             "significado": "no gustar"
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "subejercicio": "55.3",

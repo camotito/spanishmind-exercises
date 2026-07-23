@@ -198,7 +198,8 @@
             ]
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "11.3",

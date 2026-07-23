@@ -236,7 +236,8 @@
             "descripcion": "Un aula casi vacía con dos alumnos."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     }
   ]
 }

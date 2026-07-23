@@ -180,7 +180,8 @@
             "descripcion": "Una fotografía colocada encima de una mesa."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "112.3",

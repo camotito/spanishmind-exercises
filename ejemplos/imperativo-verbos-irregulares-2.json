@@ -105,7 +105,8 @@
             "descripcion": "Dos personas están en una atracción de feria."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "76.2",

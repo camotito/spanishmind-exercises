@@ -138,7 +138,8 @@
             "ubicacion": "al sur del paseo del Parque"
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "8.3",

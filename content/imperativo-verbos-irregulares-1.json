@@ -152,7 +152,8 @@
             "escena": "Una mujer pide a un hombre que cierre una puerta."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "tipologia": "T4",

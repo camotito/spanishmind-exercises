@@ -80,7 +80,8 @@
         "datos": [
           "Tabla con cuatro columnas: SINGULAR MASCULINO, SINGULAR FEMENINO, PLURAL MASCULINO y PLURAL FEMENINO."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "14.2",
@@ -190,7 +191,8 @@
             "referencia_visual": "cactus y paisaje mexicano"
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "subejercicio": "14.3",

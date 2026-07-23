@@ -81,7 +81,8 @@
           "En el suelo hay una alfombra.",
           "En primer plano hay un sillón."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "46.2",
@@ -163,7 +164,8 @@
           "Ciudad Nueva: iglesias, 2.",
           "Ciudad Nueva: bibliotecas, 1."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "46.3",
@@ -238,7 +240,8 @@
           "En los estantes se ven mantequilla, queso, uvas y naranjas.",
           "En la puerta se ven seis huevos y un envase de bebida."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "46.4",

@@ -61,7 +61,8 @@
             "descripcion": "Un hombre con sombrero y tijeras de podar."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "69.2",
@@ -212,7 +213,8 @@
             "descripcion": "Dos personas corren detrás de un autobús."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     }
   ]
 }

@@ -115,7 +115,8 @@
             "descripcion": "Una mujer aparece delante de un grupo de personas."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "34.2",
@@ -167,7 +168,8 @@
             "descripcion": "Un hombre se dirige a varias personas y pregunta: «¿Son ustedes estudiantes?»"
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "subejercicio": "34.3",
@@ -220,7 +222,8 @@
           "Ciudad: Pep, Barcelona; Concha, Murcia; Adriana, Córdoba; Gabriel, Monterrey; Rosita, Mérida.",
           "Ocupación: Pep, periodista; Concha, estudiante; Adriana, enfermera; Gabriel, periodista; Rosita, estudiante."
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "34.4",

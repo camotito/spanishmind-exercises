@@ -13,6 +13,7 @@ Schema v2 (nivel unidad):
       "tipologia": "T2",
       "enunciado": "Observa el directorio y completa las frases.",
       "contexto_grafico": {"tipo": "directory", "datos": [...]},   # opcional
+      "grafico_necesario": true,   # solo si hay contexto_grafico -- ver mas abajo
       "items": [
         {"texto_enunciado": "Antonio Oliva vive en el _____ piso.",
          "solucion_correcta": ["segundo"]}
@@ -20,6 +21,14 @@ Schema v2 (nivel unidad):
     }
   ]
 }
+
+"grafico_necesario" (bool, solo si hay "contexto_grafico"): calculado a mano
+para las 126 unidades del libro (ver ejemplos/*.json, fuente de verdad). true
+= el grafico aporta informacion que NO esta en el texto de los items (p.ej.
+una senal de trafico concreta) y se muestra el sustituto en texto. false = el
+grafico es decorativo (el texto de los items ya trae todo lo necesario) y no
+se renderiza nada. Si falta el campo, se asume true (mostrar) por seguridad.
+Al promover una unidad de ejemplos/ a content/, copiar este valor a mano.
 
 Tokenización de items (un solo tokenizador cubre T2/T3/T4/T5):
   - "(a/b/c)"  (paréntesis CON barra)  -> <select>   (elección inline, T5)
@@ -364,7 +373,11 @@ def render_wordbox(palabras):
 def render_ejercicio(ej):
     grafico = ""
     ctx = ej.get("contexto_grafico")
-    if ctx:
+    # grafico_necesario: false = el grafico es puramente decorativo (el texto
+    # de los items ya trae todo lo necesario para resolver) -- calculado a
+    # mano para las 126 unidades del libro, ver ejemplos/*.json. Si falta el
+    # campo (ejercicio sin revisar todavia) se muestra por defecto, seguro.
+    if ctx and ej.get("grafico_necesario", True):
         renderer = GRAFICO_RENDERERS.get(ctx["tipo"])
         if renderer is None:
             grafico = f'<p class="pista">[graphic "{esc(ctx["tipo"])}" not implemented yet]</p>'

@@ -69,7 +69,8 @@
             "descripcion": "Señal que prohíbe parar."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "tipologia": "T3",
@@ -126,7 +127,8 @@
             "descripcion": "Un padre habla con un hijo y una hija y les da instrucciones."
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "tipologia": "T4",
@@ -231,7 +233,8 @@
             "descripcion": "Dibujo de una mujer junto a un bocadillo que contiene los enunciados."
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     }
   ]
 }

@@ -72,7 +72,8 @@
             "descripcion": "Señal que prohíbe parar."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "74.2",
@@ -130,7 +131,8 @@
             "descripcion": "Un padre habla con un hijo y una hija y les da instrucciones."
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     },
     {
       "subejercicio": "74.3",
@@ -236,7 +238,8 @@
             "descripcion": "Dibujo de una mujer junto a un bocadillo que contiene los enunciados."
           }
         ]
-      }
+      },
+      "grafico_necesario": false
     }
   ]
 }

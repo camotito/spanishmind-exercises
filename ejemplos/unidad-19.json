@@ -103,7 +103,8 @@
             "escena": "Un hombre sostiene una bufanda delante de otras dos personas."
           }
         ]
-      }
+      },
+      "grafico_necesario": true
     },
     {
       "subejercicio": "19.2",
