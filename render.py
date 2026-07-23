@@ -49,6 +49,16 @@ _hint_ids = itertools.count(1)
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONTENT_DIR = os.path.join(HERE, "content")
 OUT_DIR = os.path.join(HERE, "out")
+RENDER_CONFIG_PATH = os.path.join(HERE, "render_config.json")
+
+
+def cargar_config():
+    """render_config.json: ajustes editables desde el dashboard (p.ej. que
+    tipologias no se renderizan por defecto). Si no existe, todo activo."""
+    if not os.path.exists(RENDER_CONFIG_PATH):
+        return {"tipologias_desactivadas": []}
+    with open(RENDER_CONFIG_PATH, encoding="utf-8") as f:
+        return json.load(f)
 
 # Paréntesis que contienen al menos una barra -> elección inline (T5).
 # Uno sin barra, p. ej. "(2.º)", NO casa y se queda como texto literal.
@@ -411,7 +421,13 @@ def build_html(data):
     titulo = data.get("titulo", data["tema"])
     # "oculto": true permite desactivar un bloque de ejercicios sin borrarlo
     # del JSON (p.ej. desde el dashboard) -- simplemente no se renderiza.
-    body = "".join(render_ejercicio(ej) for ej in data["ejercicios"] if not ej.get("oculto"))
+    # tipologias_desactivadas (render_config.json) hace lo mismo pero a nivel
+    # de tipologia entera (p.ej. T2, sin imagenes reales todavia).
+    tipologias_desactivadas = set(cargar_config().get("tipologias_desactivadas", []))
+    body = "".join(
+        render_ejercicio(ej) for ej in data["ejercicios"]
+        if not ej.get("oculto") and ej.get("tipologia") not in tipologias_desactivadas
+    )
     return f"""<!DOCTYPE html>
 <html lang="es">
 <head>
