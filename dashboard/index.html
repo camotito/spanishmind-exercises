@@ -70,7 +70,18 @@
     flex: 1; font-family: inherit; font-size: 0.88rem; padding: 0.4rem 0.55rem;
     border: 1px solid var(--line); border-radius: 6px; resize: vertical; min-height: 2.2em;
   }
-  .item-sol { flex: none; width: 200px; font-size: 0.78rem; color: var(--muted); padding-top: 0.5rem; }
+  .item-sol { flex: none; width: 200px; font-size: 0.78rem; color: var(--muted); padding-top: 0.3rem;
+    display: flex; flex-direction: column; gap: 0.25rem; }
+  .enunciado-edit {
+    width: 100%; font-family: inherit; font-weight: 600; font-size: 1rem;
+    padding: 0.3rem 0.5rem; border: 1px solid transparent; border-radius: 6px;
+    resize: vertical; min-height: 1.6em; background: transparent;
+  }
+  .enunciado-edit:hover, .enunciado-edit:focus { border-color: var(--line); background: var(--bg); }
+  .sol-edit {
+    font-family: inherit; font-size: 0.78rem; color: var(--text); padding: 0.15rem 0.4rem;
+    border: 1px solid var(--line); border-radius: 4px; width: 100%; box-sizing: border-box;
+  }
   .empty-state { color: var(--muted); font-size: 0.9rem; }
   #sync-log { white-space: pre-wrap; font-family: monospace; font-size: 0.78rem;
     background: var(--card); border: 1px solid var(--line); border-radius: 6px;
@@ -154,7 +165,10 @@ function renderEditor() {
     const head = document.createElement('div');
     head.className = 'ejercicio-head';
     head.innerHTML = `
-      <p class="ejercicio-enunciado"><span class="tipologia-badge">${escapeHtml(ej.tipologia || '?')}</span>${escapeHtml(ej.enunciado || '')}</p>
+      <div class="ejercicio-enunciado">
+        <span class="tipologia-badge">${escapeHtml(ej.tipologia || '?')}</span>
+        <textarea class="enunciado-edit" rows="1">${escapeHtml(ej.enunciado || '')}</textarea>
+      </div>
       <label class="visible-toggle">
         <input type="checkbox" class="toggle-oculto" ${ej.oculto ? '' : 'checked'}>
         Visible
@@ -167,19 +181,34 @@ function renderEditor() {
       card.classList.toggle('oculto', !e.target.checked);
     });
 
+    const enunciadoTa = head.querySelector('.enunciado-edit');
+    autoResize(enunciadoTa);
+    enunciadoTa.addEventListener('input', () => {
+      dataActual.ejercicios[ei].enunciado = enunciadoTa.value;
+      autoResize(enunciadoTa);
+    });
+
     (ej.items || []).forEach((it, ii) => {
       const row = document.createElement('div');
       row.className = 'item-row';
-      const sol = Array.isArray(it.solucion_correcta) ? it.solucion_correcta.join(' / ') : '';
+      const solArr = Array.isArray(it.solucion_correcta) ? it.solucion_correcta : [];
+      const solInputs = solArr.map((s, si) =>
+        `<input type="text" class="sol-edit" data-si="${si}" value="${escapeHtml(s)}">`
+      ).join('');
       row.innerHTML = `
         <textarea rows="1">${escapeHtml(it.texto_enunciado || '')}</textarea>
-        <div class="item-sol">→ ${escapeHtml(sol)}</div>
+        <div class="item-sol">→ ${solInputs}</div>
       `;
       const ta = row.querySelector('textarea');
       autoResize(ta);
       ta.addEventListener('input', () => {
         dataActual.ejercicios[ei].items[ii].texto_enunciado = ta.value;
         autoResize(ta);
+      });
+      row.querySelectorAll('.sol-edit').forEach((inp) => {
+        inp.addEventListener('input', () => {
+          dataActual.ejercicios[ei].items[ii].solucion_correcta[inp.dataset.si] = inp.value;
+        });
       });
       card.appendChild(row);
     });
