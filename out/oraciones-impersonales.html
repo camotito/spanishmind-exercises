@@ -69,17 +69,16 @@ button:hover { opacity: .9; }
     font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
     background: transparent; cursor: default; }
-#resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
-    margin-top: 30px; color: var(--secondary); }
+.page-nav { display: flex; justify-content: space-between; align-items: center;
+    margin: 24px 0; gap: 12px; }
+#page-indicator { font-family: var(--font-heading); color: var(--secondary); font-size: 1rem; }
+button:disabled { opacity: .4; cursor: default; }
 </style>
 </head>
 <body>
 <h1>Aquí se trabaja mucho</h1>
-
-    <section class="ejercicio">
+<div class="page" data-page="0" hidden><section class="ejercicio">
         <p class="enunciado">Complete the sentences with the verbs from the box and "se" or "uno".</p>
-        
-        
         
         
         <div class="wordbox"><span class="word-chip">necesitar</span><span class="word-chip">relacionarse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span></div>
@@ -91,16 +90,14 @@ input.blank-example { color: var(--text); font-weight: 600; border-bottom-color:
             <div class="item-row"><span>En una gran ciudad <input type="text" class="blank" data-sol="se tiene" data-hint="" style="width: 10ch" autocomplete="off"> más libertad y <input type="text" class="blank" data-sol="se divierte uno" data-hint="" style="width: 17ch" autocomplete="off"> más, aunque a veces <input type="text" class="blank" data-sol="se siente uno" data-hint="" style="width: 15ch" autocomplete="off"> solo. Antes <input type="text" class="blank" data-sol="se vivía" data-hint="" style="width: 10ch" autocomplete="off"> mejor en las ciudades, pero ahora <input type="text" class="blank" data-sol="se vive" data-hint="" style="width: 9ch" autocomplete="off"> bien en todas partes.</span></div>
             
         </div>
+        
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section>
-    <section class="ejercicio">
-        <p class="enunciado">Rewrite the sentences starting with one of the expressions from the box.</p>
-        
-        <div class="wordbox"><span class="word-chip">se dice</span><span class="word-chip">se espera</span><span class="word-chip">se necesita</span><span class="word-chip">se puede</span><span class="word-chip">se sospechaba</span><span class="word-chip">se suele</span><span class="word-chip">se supone</span><span class="word-chip">se veía</span></div>
+    </section></div><div class="page" data-page="1" hidden><section class="ejercicio">
+        <p class="enunciado">Rewrite the sentences starting with one of the expressions from the box.</p><div class="wordbox"><span class="word-chip">se dice</span><span class="word-chip">se espera</span><span class="word-chip">se necesita</span><span class="word-chip">se puede</span><span class="word-chip">se sospechaba</span><span class="word-chip">se suele</span><span class="word-chip">se supone</span><span class="word-chip">se veía</span></div>
         
         
         
@@ -136,16 +133,14 @@ input.blank-example { color: var(--text); font-weight: 600; border-bottom-color:
             <div class="item-row"><span>Algunas personas esperan que el Presidente hable mañana. <input type="text" class="blank" data-sol="Se espera que el Presidente hable mañana" data-hint="" style="width: 42ch" autocomplete="off">.</span></div>
             
         </div>
+        
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section>
-    <section class="ejercicio">
+    </section></div><div class="page" data-page="2" hidden><section class="ejercicio">
         <p class="enunciado">Join the two sentences as in the example. Make the necessary changes.</p>
-        
-        
         
         <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>La gente se equivoca. Es fácil. <input type="text" class="blank blank-example" value="Es fácil equivocarse" style="width: 22ch" readonly tabindex="-1">.</span></div></div>
         
@@ -177,16 +172,14 @@ input.blank-example { color: var(--text); font-weight: 600; border-bottom-color:
             <div class="item-row"><span>No se puede salir con este tiempo. Es imposible. <input type="text" class="blank" data-sol="Es imposible salir con este tiempo" data-hint="" style="width: 36ch" autocomplete="off">.</span></div>
             
         </div>
+        
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section>
-    <section class="ejercicio">
+    </section></div><div class="page" data-page="3" hidden><section class="ejercicio">
         <p class="enunciado">Complete the sentences with the following verbs in the appropriate form: "amanecer", "anochecer", "haber", "hacer", "nevar", "ser".</p>
-        
-        
         
         
         
@@ -222,13 +215,19 @@ input.blank-example { color: var(--text); font-weight: 600; border-bottom-color:
             <div class="item-row"><span><input type="text" class="blank" data-sol="Es" data-hint="" style="width: 4ch" autocomplete="off"> temprano. Aún no <input type="text" class="blank" data-sol="hay" data-hint="" style="width: 5ch" autocomplete="off"> luz. En invierno <input type="text" class="blank" data-sol="amanece" data-hint="" style="width: 9ch" autocomplete="off"> muy tarde.</span></div>
             
         </div>
+        
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section>
-<p id="resumen"></p>
+    </section></div>
+
+    <div class="page-nav">
+        <button class="ghost" id="btn-prev" onclick="showPage(currentPage - 1)">&larr; Anterior</button>
+        <span id="page-indicator"></span>
+        <button id="btn-next" onclick="showPage(currentPage + 1)">Siguiente &rarr;</button>
+    </div>
 <script>
 function norm(s){
   return (s||'').trim().toLowerCase()
@@ -262,7 +261,6 @@ function checkGroup(btn){
                           : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
   fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
   fb.style.display = 'inline';
-  updateResumen();
 }
 function revealGroup(btn){
   const section = btn.closest('.ejercicio');
@@ -286,14 +284,21 @@ function revealGroup(btn){
     f.classList.remove('bad'); f.classList.add('ok');
   });
 }
-function updateResumen(){
-  const total = document.querySelectorAll('.item').length;
-  const solved = document.querySelectorAll('.item[data-solved="1"]').length;
-  const r = document.getElementById('resumen');
-  r.textContent = solved >= total ? ('Done! ' + solved + '/' + total)
-                                   : ('Progress: ' + solved + '/' + total);
+let currentPage = 0;
+function showPage(i){
+  const pages = document.querySelectorAll('.page');
+  if (!pages.length) return;
+  currentPage = Math.max(0, Math.min(i, pages.length - 1));
+  pages.forEach((p, idx) => { p.hidden = idx !== currentPage; });
+  const indicator = document.getElementById('page-indicator');
+  if (indicator) indicator.textContent = (currentPage + 1) + ' / ' + pages.length;
+  const prev = document.getElementById('btn-prev');
+  const next = document.getElementById('btn-next');
+  if (prev) prev.disabled = currentPage === 0;
+  if (next) next.disabled = currentPage === pages.length - 1;
+  window.scrollTo(0, 0);
 }
-document.addEventListener('DOMContentLoaded', updateResumen);
+document.addEventListener('DOMContentLoaded', () => showPage(0));
 </script>
 </body>
 </html>

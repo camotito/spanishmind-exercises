@@ -69,17 +69,16 @@ button:hover { opacity: .9; }
     font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
     background: transparent; cursor: default; }
-#resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
-    margin-top: 30px; color: var(--secondary); }
+.page-nav { display: flex; justify-content: space-between; align-items: center;
+    margin: 24px 0; gap: 12px; }
+#page-indicator { font-family: var(--font-heading); color: var(--secondary); font-size: 1rem; }
+button:disabled { opacity: .4; cursor: default; }
 </style>
 </head>
 <body>
 <h1>Cierra la ventana</h1>
-
-    <section class="ejercicio">
-        <p class="enunciado">Complete the note with instructions for a friend. Use the verbs from the box.</p>
-        
-        <div class="wordbox"><span class="word-chip">cerrar</span><span class="word-chip">cerrar</span><span class="word-chip">conectar</span><span class="word-chip">encender</span><span class="word-chip">lavar</span><span class="word-chip">regar</span></div>
+<div class="page" data-page="0" hidden><section class="ejercicio">
+        <p class="enunciado">Complete the note with instructions for a friend. Use the verbs from the box.</p><div class="wordbox"><span class="word-chip">cerrar</span><span class="word-chip">cerrar</span><span class="word-chip">conectar</span><span class="word-chip">encender</span><span class="word-chip">lavar</span><span class="word-chip">regar</span></div>
         
         
         
@@ -107,16 +106,14 @@ input.blank-example { color: var(--text); font-weight: 600; border-bottom-color:
             <div class="item-row"><span><input type="text" class="blank" data-sol="Enciende" data-hint="" style="width: 10ch" autocomplete="off"> el calentador una hora antes de ducharte.</span></div>
             
         </div>
+        
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section>
-    <section class="ejercicio">
+    </section></div><div class="page" data-page="1" hidden><section class="ejercicio">
         <p class="enunciado">What would you say in each case?</p>
-        
-        
         
         
         
@@ -168,13 +165,19 @@ input.blank-example { color: var(--text); font-weight: 600; border-bottom-color:
             <div class="item-row"><span><em class="hint-paren">(a un desconocido)</em> <em class="hint-paren">(Cruzar)</em> <input type="text" class="blank" data-sol="Cruce" data-hint="" style="width: 7ch" autocomplete="off"> esta calle y <em class="hint-paren">(seguir)</em> <input type="text" class="blank" data-sol="siga" data-hint="" style="width: 6ch" autocomplete="off"> todo recto.</span></div>
             
         </div>
+        
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section>
-<p id="resumen"></p>
+    </section></div>
+
+    <div class="page-nav">
+        <button class="ghost" id="btn-prev" onclick="showPage(currentPage - 1)">&larr; Anterior</button>
+        <span id="page-indicator"></span>
+        <button id="btn-next" onclick="showPage(currentPage + 1)">Siguiente &rarr;</button>
+    </div>
 <script>
 function norm(s){
   return (s||'').trim().toLowerCase()
@@ -208,7 +211,6 @@ function checkGroup(btn){
                           : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
   fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
   fb.style.display = 'inline';
-  updateResumen();
 }
 function revealGroup(btn){
   const section = btn.closest('.ejercicio');
@@ -232,14 +234,21 @@ function revealGroup(btn){
     f.classList.remove('bad'); f.classList.add('ok');
   });
 }
-function updateResumen(){
-  const total = document.querySelectorAll('.item').length;
-  const solved = document.querySelectorAll('.item[data-solved="1"]').length;
-  const r = document.getElementById('resumen');
-  r.textContent = solved >= total ? ('Done! ' + solved + '/' + total)
-                                   : ('Progress: ' + solved + '/' + total);
+let currentPage = 0;
+function showPage(i){
+  const pages = document.querySelectorAll('.page');
+  if (!pages.length) return;
+  currentPage = Math.max(0, Math.min(i, pages.length - 1));
+  pages.forEach((p, idx) => { p.hidden = idx !== currentPage; });
+  const indicator = document.getElementById('page-indicator');
+  if (indicator) indicator.textContent = (currentPage + 1) + ' / ' + pages.length;
+  const prev = document.getElementById('btn-prev');
+  const next = document.getElementById('btn-next');
+  if (prev) prev.disabled = currentPage === 0;
+  if (next) next.disabled = currentPage === pages.length - 1;
+  window.scrollTo(0, 0);
 }
-document.addEventListener('DOMContentLoaded', updateResumen);
+document.addEventListener('DOMContentLoaded', () => showPage(0));
 </script>
 </body>
 </html>

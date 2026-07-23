@@ -42,9 +42,16 @@ Si un elemento de solucion_correcta contiene "/" (p. ej. "lo/le"), el hueco
 al revelar la solución se rellena con la primera y se muestra una nota junto
 al hueco indicando que las demás también son válidas.
 
+Cada ejercicio se pagina: una pagina por ejercicio (grupo de items), con
+navegacion Anterior/Siguiente client-side dentro del mismo HTML estatico
+(sin routing de servidor). --paginar=item genera en su lugar una variante
+experimental de una pagina por item, en out_preview/ (no se usa en el sitio
+ni en el dashboard, solo para comparar sensaciones).
+
 Uso:
     python3 render.py                 # todos los .json de content/
     python3 render.py numeros-ordinales
+    python3 render.py --paginar=item numeros-ordinales   # variante experimental
 """
 import html
 import itertools
@@ -158,8 +165,10 @@ button:hover { opacity: .9; }
     font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
     background: transparent; cursor: default; }
-#resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
-    margin-top: 30px; color: var(--secondary); }
+.page-nav { display: flex; justify-content: space-between; align-items: center;
+    margin: 24px 0; gap: 12px; }
+#page-indicator { font-family: var(--font-heading); color: var(--secondary); font-size: 1rem; }
+button:disabled { opacity: .4; cursor: default; }
 """
 
 JS = """
@@ -195,7 +204,6 @@ function checkGroup(btn){
                           : ('\\u2718 ' + correct + '/' + total + ' correct \\u2014 review the marked ones');
   fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
   fb.style.display = 'inline';
-  updateResumen();
 }
 function revealGroup(btn){
   const section = btn.closest('.ejercicio');
@@ -219,14 +227,21 @@ function revealGroup(btn){
     f.classList.remove('bad'); f.classList.add('ok');
   });
 }
-function updateResumen(){
-  const total = document.querySelectorAll('.item').length;
-  const solved = document.querySelectorAll('.item[data-solved="1"]').length;
-  const r = document.getElementById('resumen');
-  r.textContent = solved >= total ? ('Done! ' + solved + '/' + total)
-                                   : ('Progress: ' + solved + '/' + total);
+let currentPage = 0;
+function showPage(i){
+  const pages = document.querySelectorAll('.page');
+  if (!pages.length) return;
+  currentPage = Math.max(0, Math.min(i, pages.length - 1));
+  pages.forEach((p, idx) => { p.hidden = idx !== currentPage; });
+  const indicator = document.getElementById('page-indicator');
+  if (indicator) indicator.textContent = (currentPage + 1) + ' / ' + pages.length;
+  const prev = document.getElementById('btn-prev');
+  const next = document.getElementById('btn-next');
+  if (prev) prev.disabled = currentPage === 0;
+  if (next) next.disabled = currentPage === pages.length - 1;
+  window.scrollTo(0, 0);
 }
-document.addEventListener('DOMContentLoaded', updateResumen);
+document.addEventListener('DOMContentLoaded', () => showPage(0));
 """
 
 
@@ -405,7 +420,22 @@ def render_wordbox(palabras):
     return f'<div class="wordbox">{chips}</div>'
 
 
-def render_ejercicio(ej):
+GROUP_CONTROLS = """
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>"""
+
+
+def render_ejercicio_paginas(ej, granularidad="ejercicio"):
+    """Devuelve una lista de fragmentos <section class="ejercicio">...</section>,
+    una por pagina. granularidad="ejercicio" (por defecto, la que usa el sitio
+    y el dashboard): una pagina con todos los items del ejercicio, como antes.
+    granularidad="item" (variante experimental, ver --paginar=item): una
+    pagina por item, repitiendo enunciado/grafico/recuadro en cada una -- la
+    correccion (Check/Show solutions) siempre ocurre una vez por pagina, sea
+    cual sea el contenido de esta."""
     grafico = ""
     ctx = ej.get("contexto_grafico")
     # grafico_necesario: false = el grafico es puramente decorativo (el texto
@@ -441,6 +471,21 @@ def render_ejercicio(ej):
         ejemplo = render_ejemplo(items_data[0])
         items_data = items_data[1:]
 
+    header = f'<p class="enunciado">{render_enunciado(ej["enunciado"])}</p>{grafico}{wordbox}'
+
+    if granularidad == "item":
+        paginas = []
+        for i, it in enumerate(items_data):
+            piezas = [header]
+            if i == 0 and ejemplo:
+                piezas += [ejemplo_wordbox, ejemplo]
+            if banco_por_item:
+                piezas.append(render_wordbox(banco[i]))
+            piezas.append(render_item(i + 1, it))
+            piezas.append(GROUP_CONTROLS)
+            paginas.append(f'<section class="ejercicio">{"".join(piezas)}</section>')
+        return paginas or [f'<section class="ejercicio">{header}{GROUP_CONTROLS}</section>']
+
     if banco_por_item:
         items = "".join(
             render_wordbox(banco[i]) + render_item(i + 1, it)
@@ -448,34 +493,44 @@ def render_ejercicio(ej):
         )
     else:
         items = "".join(render_item(i, it) for i, it in enumerate(items_data, start=1))
-
-    return f"""
-    <section class="ejercicio">
-        <p class="enunciado">{render_enunciado(ej['enunciado'])}</p>
-        {grafico}
-        {wordbox}
+    pagina = f"""<section class="ejercicio">
+        {header}
         {ejemplo_wordbox}
         {ejemplo}
         {items}
-        <div class="group-controls">
-            <button onclick="checkGroup(this)">Check answers</button>
-            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
-            <span class="group-feedback"></span>
-        </div>
+        {GROUP_CONTROLS}
     </section>"""
+    return [pagina]
 
 
-def build_html(data):
+def build_html(data, granularidad="ejercicio"):
     titulo = data.get("titulo", data["tema"])
     # "oculto": true permite desactivar un bloque de ejercicios sin borrarlo
     # del JSON (p.ej. desde el dashboard) -- simplemente no se renderiza.
     # tipologias_desactivadas (render_config.json) hace lo mismo pero a nivel
     # de tipologia entera (p.ej. T2, sin imagenes reales todavia).
     tipologias_desactivadas = set(cargar_config().get("tipologias_desactivadas", []))
-    body = "".join(
-        render_ejercicio(ej) for ej in data["ejercicios"]
+    ejercicios_visibles = [
+        ej for ej in data["ejercicios"]
         if not ej.get("oculto") and ej.get("tipologia") not in tipologias_desactivadas
+    ]
+    paginas = []
+    for ej in ejercicios_visibles:
+        paginas.extend(render_ejercicio_paginas(ej, granularidad))
+    # cada "pagina" es un <section class="ejercicio"> completo (con su propio
+    # Check/Show solutions); el JS solo muestra una a la vez y navega con
+    # Anterior/Siguiente -- sin routing de servidor, todo client-side, sigue
+    # siendo un unico HTML estatico por tema.
+    pages_html = "".join(
+        f'<div class="page" data-page="{i}" hidden>{p}</div>'
+        for i, p in enumerate(paginas)
     )
+    nav = """
+    <div class="page-nav">
+        <button class="ghost" id="btn-prev" onclick="showPage(currentPage - 1)">&larr; Anterior</button>
+        <span id="page-indicator"></span>
+        <button id="btn-next" onclick="showPage(currentPage + 1)">Siguiente &rarr;</button>
+    </div>""" if paginas else ""
     return f"""<!DOCTYPE html>
 <html lang="es">
 <head>
@@ -487,32 +542,44 @@ def build_html(data):
 </head>
 <body>
 <h1>{esc(titulo)}</h1>
-{body}
-<p id="resumen"></p>
+{pages_html}
+{nav}
 <script>{JS}</script>
 </body>
 </html>"""
 
 
-def generate(tema):
+def generate(tema, granularidad="ejercicio"):
     with open(os.path.join(CONTENT_DIR, f"{tema}.json"), encoding="utf-8") as f:
         data = json.load(f)
-    os.makedirs(OUT_DIR, exist_ok=True)
-    out_path = os.path.join(OUT_DIR, f"{tema}.html")
+    html = build_html(data, granularidad)
+    if granularidad == "item":
+        # variante experimental para comparar "un item por pagina" -- aparte
+        # de out/, no se integra al build de Netlify ni al dashboard todavia.
+        out_dir = os.path.join(HERE, "out_preview")
+        os.makedirs(out_dir, exist_ok=True)
+        out_path = os.path.join(out_dir, f"{tema}--item.html")
+    else:
+        os.makedirs(OUT_DIR, exist_ok=True)
+        out_path = os.path.join(OUT_DIR, f"{tema}.html")
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write(build_html(data))
+        f.write(html)
     print(f"✅ {out_path}")
 
 
 def main():
-    if len(sys.argv) >= 2:
-        temas = sys.argv[1:]
-    else:
-        temas = sorted(
-            fn[:-5] for fn in os.listdir(CONTENT_DIR) if fn.endswith(".json")
-        )
+    granularidad = "ejercicio"
+    temas_arg = []
+    for arg in sys.argv[1:]:
+        if arg.startswith("--paginar="):
+            granularidad = arg.split("=", 1)[1]
+        else:
+            temas_arg.append(arg)
+    temas = temas_arg or sorted(
+        fn[:-5] for fn in os.listdir(CONTENT_DIR) if fn.endswith(".json")
+    )
     for tema in temas:
-        generate(tema)
+        generate(tema, granularidad)
 
 
 if __name__ == "__main__":

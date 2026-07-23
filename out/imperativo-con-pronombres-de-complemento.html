@@ -69,17 +69,16 @@ button:hover { opacity: .9; }
     font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
 input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
     background: transparent; cursor: default; }
-#resumen { text-align: center; font-family: var(--font-heading); font-size: 1.3rem;
-    margin-top: 30px; color: var(--secondary); }
+.page-nav { display: flex; justify-content: space-between; align-items: center;
+    margin: 24px 0; gap: 12px; }
+#page-indicator { font-family: var(--font-heading); color: var(--secondary); font-size: 1rem; }
+button:disabled { opacity: .4; cursor: default; }
 </style>
 </head>
 <body>
 <h1>Dámelo, no me lo des</h1>
-
-    <section class="ejercicio">
+<div class="page" data-page="0" hidden><section class="ejercicio">
         <p class="enunciado">Answer as in the examples.</p>
-        
-        
         
         <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>—¿Hago la cena? —Sí, <input type="text" class="blank blank-example" value="hazla" style="width: 7ch" readonly tabindex="-1"> ya. Tengo hambre. —No, <input type="text" class="blank blank-example" value="no la hagas" style="width: 13ch" readonly tabindex="-1"> todavía. Es pronto.</span></div></div>
         
@@ -99,16 +98,14 @@ input.blank-example { color: var(--text); font-weight: 600; border-bottom-color:
             <div class="item-row"><span>—¿Pongo el vídeo? —Sí, <input type="text" class="blank" data-sol="ponlo" data-hint="" style="width: 7ch" autocomplete="off"> ya. —No, <input type="text" class="blank" data-sol="no lo pongas" data-hint="" style="width: 14ch" autocomplete="off"> todavía. Voy al baño.</span></div>
             
         </div>
+        
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section>
-    <section class="ejercicio">
+    </section></div><div class="page" data-page="1" hidden><section class="ejercicio">
         <p class="enunciado">Complete the recipe instructions using the appropriate verbs and pronouns.</p>
-        
-        
         
         
         
@@ -116,16 +113,14 @@ input.blank-example { color: var(--text); font-weight: 600; border-bottom-color:
             <div class="item-row"><span>Para hacer tortilla de patatas <em class="hint-paren">(pelar)</em> <input type="text" class="blank" data-sol="pele" data-hint="" style="width: 6ch" autocomplete="off"> unas patatas, <em class="hint-paren">(cortar)</em> <input type="text" class="blank" data-sol="córtelas" data-hint="" style="width: 10ch" autocomplete="off"> en láminas finas. <em class="hint-paren">(Echar)</em> <input type="text" class="blank" data-sol="Eche" data-hint="" style="width: 6ch" autocomplete="off"> sal a las patatas y <em class="hint-paren">(freír)</em> <input type="text" class="blank" data-sol="fríalas" data-hint="" style="width: 9ch" autocomplete="off"> en aceite muy caliente. <em class="hint-paren">(Cortar)</em> <input type="text" class="blank" data-sol="Corte" data-hint="" style="width: 7ch" autocomplete="off"> un poco de cebolla y <em class="hint-paren">(freír)</em> <input type="text" class="blank" data-sol="fríala" data-hint="" style="width: 8ch" autocomplete="off"> con las patatas. Luego <em class="hint-paren">(batir)</em> <input type="text" class="blank" data-sol="bata" data-hint="" style="width: 6ch" autocomplete="off"> dos huevos y <em class="hint-paren">(mezclar)</em> <input type="text" class="blank" data-sol="mézclelos" data-hint="" style="width: 11ch" autocomplete="off"> con las patatas. <em class="hint-paren">(Poner)</em> <input type="text" class="blank" data-sol="Ponga" data-hint="" style="width: 7ch" autocomplete="off"> la masa de patata y huevo en la sartén y <em class="hint-paren">(freír)</em> <input type="text" class="blank" data-sol="fríala" data-hint="" style="width: 8ch" autocomplete="off"> un par de minutos. <em class="hint-paren">(Dar)</em> <input type="text" class="blank" data-sol="Dé" data-hint="" style="width: 4ch" autocomplete="off"> la vuelta a la tortilla y, cuando esté dorada, <em class="hint-paren">(poner)</em> <input type="text" class="blank" data-sol="póngala" data-hint="" style="width: 9ch" autocomplete="off"> en un plato limpio.</span></div>
             
         </div>
+        
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section>
-    <section class="ejercicio">
+    </section></div><div class="page" data-page="2" hidden><section class="ejercicio">
         <p class="enunciado">Complete the sentences with the verbs in parentheses and the appropriate pronouns.</p>
-        
-        
         
         
         
@@ -169,16 +164,14 @@ input.blank-example { color: var(--text); font-weight: 600; border-bottom-color:
             <div class="item-row"><span>Los niños están pisando las flores. <em class="hint-paren">(Decir)</em> <input type="text" class="blank" data-sol="Diles" data-hint="" style="width: 7ch" autocomplete="off"> algo, Sebastián.</span></div>
             
         </div>
+        
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section>
-    <section class="ejercicio">
+    </section></div><div class="page" data-page="3" hidden><section class="ejercicio">
         <p class="enunciado">Complete the sentences with the verbs in parentheses and the appropriate pronouns.</p>
-        
-        
         
         
         
@@ -214,13 +207,19 @@ input.blank-example { color: var(--text); font-weight: 600; border-bottom-color:
             <div class="item-row"><span>—¿Quieres ver el regalo? —No, <em class="hint-paren">(no, enseñar)</em> <input type="text" class="blank" data-sol="no me lo enseñes" data-hint="" style="width: 18ch" autocomplete="off"> todavía.</span></div>
             
         </div>
+        
         <div class="group-controls">
             <button onclick="checkGroup(this)">Check answers</button>
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section>
-<p id="resumen"></p>
+    </section></div>
+
+    <div class="page-nav">
+        <button class="ghost" id="btn-prev" onclick="showPage(currentPage - 1)">&larr; Anterior</button>
+        <span id="page-indicator"></span>
+        <button id="btn-next" onclick="showPage(currentPage + 1)">Siguiente &rarr;</button>
+    </div>
 <script>
 function norm(s){
   return (s||'').trim().toLowerCase()
@@ -254,7 +253,6 @@ function checkGroup(btn){
                           : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
   fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
   fb.style.display = 'inline';
-  updateResumen();
 }
 function revealGroup(btn){
   const section = btn.closest('.ejercicio');
@@ -278,14 +276,21 @@ function revealGroup(btn){
     f.classList.remove('bad'); f.classList.add('ok');
   });
 }
-function updateResumen(){
-  const total = document.querySelectorAll('.item').length;
-  const solved = document.querySelectorAll('.item[data-solved="1"]').length;
-  const r = document.getElementById('resumen');
-  r.textContent = solved >= total ? ('Done! ' + solved + '/' + total)
-                                   : ('Progress: ' + solved + '/' + total);
+let currentPage = 0;
+function showPage(i){
+  const pages = document.querySelectorAll('.page');
+  if (!pages.length) return;
+  currentPage = Math.max(0, Math.min(i, pages.length - 1));
+  pages.forEach((p, idx) => { p.hidden = idx !== currentPage; });
+  const indicator = document.getElementById('page-indicator');
+  if (indicator) indicator.textContent = (currentPage + 1) + ' / ' + pages.length;
+  const prev = document.getElementById('btn-prev');
+  const next = document.getElementById('btn-next');
+  if (prev) prev.disabled = currentPage === 0;
+  if (next) next.disabled = currentPage === pages.length - 1;
+  window.scrollTo(0, 0);
 }
-document.addEventListener('DOMContentLoaded', updateResumen);
+document.addEventListener('DOMContentLoaded', () => showPage(0));
 </script>
 </body>
 </html>
