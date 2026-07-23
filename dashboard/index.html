@@ -99,6 +99,8 @@
   </div>
   <div id="tema-list"></div>
   <hr style="border:none;border-top:1px solid var(--line);margin:1rem 0">
+  <a class="linklike" href="/dashboard/tipologias.html" target="_blank">Tipos de ejercicio →</a>
+  <hr style="border:none;border-top:1px solid var(--line);margin:1rem 0">
   <button class="ghost" id="btn-sync" style="width:100%">Sincronizar ejercicios_permitidos</button>
   <div id="sync-log"></div>
 </div>
@@ -125,9 +127,10 @@ async function cargarTemas() {
     const btn = document.createElement('button');
     btn.className = 'tema-btn';
     btn.dataset.tema = t.tema;
+    const unidadTxt = t.unidad_libro ? ` · Unidad ${t.unidad_libro}` : '';
     const ocultoTxt = t.n_ocultos ? ` · ${t.n_ocultos} oculto(s)` : '';
     const tiposTxt = (t.tipologias && t.tipologias.length) ? ` · ${t.tipologias.join(', ')}` : '';
-    btn.innerHTML = `${t.titulo}<span class="meta">${t.tema} · ${t.n_ejercicios} ejercicio(s)${ocultoTxt}${tiposTxt}</span>`;
+    btn.innerHTML = `${t.titulo}<span class="meta">${t.tema}${unidadTxt}${ocultoTxt}${tiposTxt}</span>`;
     btn.addEventListener('click', () => seleccionarTema(t.tema));
     list.appendChild(btn);
   }

@@ -18,6 +18,7 @@ import argparse
 import json
 import mimetypes
 import os
+import re
 import sys
 import traceback
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -28,6 +29,8 @@ ROOT_DIR = os.path.dirname(HERE)
 CONTENT_DIR = os.path.join(ROOT_DIR, "content")
 OUT_DIR = os.path.join(ROOT_DIR, "out")
 INDEX_YAML = os.path.join(ROOT_DIR, "index.yaml")
+TYPOLOGY_MD = os.path.join(ROOT_DIR, "Gemini", "Exercises_typology.md")
+RENDER_CONFIG_PATH = os.path.join(ROOT_DIR, "render_config.json")
 
 sys.path.insert(0, ROOT_DIR)
 import render  # noqa: E402  (necesita el sys.path.insert de arriba)
@@ -43,11 +46,14 @@ def cargar_titulos():
         return {}
     with open(INDEX_YAML, encoding="utf-8") as f:
         indice = yaml.safe_load(f) or []
-    return {t["tema"]: t.get("titulo", t["tema"]) for t in indice}
+    return {
+        t["tema"]: {"titulo": t.get("titulo", t["tema"]), "unidad_libro": t.get("unidad_libro")}
+        for t in indice
+    }
 
 
 def listar_temas():
-    titulos = cargar_titulos()
+    info_yaml = cargar_titulos()
     temas = []
     for fn in sorted(os.listdir(CONTENT_DIR)):
         if not fn.endswith(".json"):
@@ -58,14 +64,57 @@ def listar_temas():
         n_ejercicios = len(data.get("ejercicios", []))
         n_ocultos = sum(1 for ej in data.get("ejercicios", []) if ej.get("oculto"))
         tipologias = sorted({ej.get("tipologia") for ej in data.get("ejercicios", []) if ej.get("tipologia")})
+        info = info_yaml.get(tema, {})
         temas.append({
             "tema": tema,
-            "titulo": titulos.get(tema, data.get("titulo", tema)),
+            "titulo": info.get("titulo", data.get("titulo", tema)),
+            "unidad_libro": info.get("unidad_libro"),
             "n_ejercicios": n_ejercicios,
             "n_ocultos": n_ocultos,
             "tipologias": tipologias,
         })
     return temas
+
+
+TIPOLOGIA_RE = re.compile(
+    r"## `\[(T\d+)\]` (.+?)\n"
+    r"\* \*\*Descripción:\*\* (.+?)\n"
+    r"\* \*\*Propósito:\*\* (.+?)(?=\n\n|\n##|\Z)",
+    re.S,
+)
+
+
+def listar_tipologias():
+    """Parsea Gemini/Exercises_typology.md (fuente unica de verdad, sin
+    duplicar el contenido en un JSON aparte) a una lista de dicts."""
+    if not os.path.exists(TYPOLOGY_MD):
+        return []
+    with open(TYPOLOGY_MD, encoding="utf-8") as f:
+        texto = f.read()
+    tipologias = []
+    for m in TIPOLOGIA_RE.finditer(texto):
+        codigo, nombre, descripcion, proposito = m.groups()
+        tipologias.append({
+            "codigo": codigo,
+            "nombre": nombre.strip(),
+            "descripcion": " ".join(descripcion.split()),
+            "proposito": " ".join(proposito.split()),
+        })
+    tipologias.sort(key=lambda t: int(t["codigo"][1:]))
+    return tipologias
+
+
+def cargar_render_config():
+    if not os.path.exists(RENDER_CONFIG_PATH):
+        return {"tipologias_desactivadas": []}
+    with open(RENDER_CONFIG_PATH, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def guardar_render_config(config):
+    with open(RENDER_CONFIG_PATH, "w", encoding="utf-8") as f:
+        json.dump(config, f, ensure_ascii=False, indent=2)
+        f.write("\n")
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -102,6 +151,11 @@ class Handler(BaseHTTPRequestHandler):
             self._static("dashboard/index.html")
         elif path == "/api/temas":
             self._json(listar_temas())
+        elif path == "/api/tipologias":
+            self._json({
+                "tipologias": listar_tipologias(),
+                "desactivadas": cargar_render_config().get("tipologias_desactivadas", []),
+            })
         elif path.startswith("/api/content/"):
             tema = path[len("/api/content/"):]
             fpath = os.path.join(CONTENT_DIR, f"{tema}.json")
@@ -147,6 +201,26 @@ class Handler(BaseHTTPRequestHandler):
                 self._json({"ok": True, "warning": f"guardado, pero fallo al re-renderizar: {e}"})
                 return
             self._json({"ok": True})
+
+        elif path == "/api/tipologias-config":
+            try:
+                body = json.loads(raw)
+                desactivadas = sorted(set(body["tipologias_desactivadas"]))
+            except (json.JSONDecodeError, KeyError, TypeError) as e:
+                self._json({"ok": False, "error": f"body invalido: {e}"}, status=400)
+                return
+            guardar_render_config({"tipologias_desactivadas": desactivadas})
+            temas = sorted(fn[:-5] for fn in os.listdir(CONTENT_DIR) if fn.endswith(".json"))
+            errores = []
+            for tema in temas:
+                try:
+                    render.generate(tema)
+                except Exception as e:
+                    errores.append(f"{tema}: {e}")
+            if errores:
+                self._json({"ok": True, "warning": "; ".join(errores)})
+            else:
+                self._json({"ok": True})
 
         elif path == "/api/sync-permitidos":
             import io

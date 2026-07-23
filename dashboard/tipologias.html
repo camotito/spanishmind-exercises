@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tipos de ejercicio</title>
+<style>
+  :root {
+    --bg: #f7f5f0; --card: #ffffff; --text: #24262b; --muted: #6b7280;
+    --line: #e2ddd2; --accent: #8a3b12;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: var(--bg); color: var(--text); padding: 1.5rem 2rem; max-width: 900px; margin: 0 auto;
+  }
+  h1 { font-size: 1.3rem; }
+  p.intro { color: var(--muted); font-size: 0.9rem; }
+  .tipo-card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 1rem 1.2rem; margin-bottom: 1rem; display: flex; gap: 1rem; align-items: flex-start;
+  }
+  .tipo-card.desactivada { opacity: 0.6; }
+  .tipo-code {
+    flex: none; width: 3.2rem; text-align: center; font-weight: 700; font-size: 1.05rem;
+    color: var(--accent); border: 1px solid var(--accent); border-radius: 6px; padding: 0.3rem 0;
+  }
+  .tipo-body { flex: 1; }
+  .tipo-nombre { font-weight: 600; margin: 0 0 0.4rem; }
+  .tipo-descripcion { margin: 0 0 0.4rem; font-size: 0.9rem; }
+  .tipo-proposito { margin: 0; font-size: 0.85rem; color: var(--muted); }
+  .tipo-toggle { flex: none; display: flex; align-items: center; gap: 0.4rem; font-size: 0.8rem; color: var(--muted); white-space: nowrap; }
+  #status { font-size: 0.85rem; padding: 0.4rem 0; min-height: 1.2em; }
+  #status.ok { color: #2f7d3c; } #status.bad { color: #b3261e; }
+</style>
+</head>
+<body>
+
+<h1>Tipos de ejercicio</h1>
+<p class="intro">Catálogo de tipologías (T1–T16), tomado de <code>Gemini/Exercises_typology.md</code>. Desmarcar "Activa" excluye esa tipología del renderizado del sitio hasta que se reactive (equivalente a <code>render_config.json</code>).</p>
+<div id="status"></div>
+<div id="lista"></div>
+
+<script>
+async function cargar() {
+  const res = await fetch('/api/tipologias');
+  const { tipologias, desactivadas } = await res.json();
+  const lista = document.getElementById('lista');
+  lista.innerHTML = '';
+  for (const t of tipologias) {
+    const activa = !desactivadas.includes(t.codigo);
+    const card = document.createElement('div');
+    card.className = 'tipo-card' + (activa ? '' : ' desactivada');
+    card.innerHTML = `
+      <div class="tipo-code">${t.codigo}</div>
+      <div class="tipo-body">
+        <p class="tipo-nombre">${t.nombre}</p>
+        <p class="tipo-descripcion">${t.descripcion}</p>
+        <p class="tipo-proposito">${t.proposito}</p>
+      </div>
+      <label class="tipo-toggle">
+        <input type="checkbox" data-codigo="${t.codigo}" ${activa ? 'checked' : ''}>
+        Activa
+      </label>
+    `;
+    card.querySelector('input').addEventListener('change', onToggle);
+    lista.appendChild(card);
+  }
+}
+
+async function onToggle(e) {
+  const checkboxes = document.querySelectorAll('.tipo-toggle input');
+  const desactivadas = [...checkboxes].filter(c => !c.checked).map(c => c.dataset.codigo);
+  const status = document.getElementById('status');
+  status.textContent = 'Guardando y re-renderizando…';
+  status.className = '';
+  try {
+    const res = await fetch('/api/tipologias-config', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ tipologias_desactivadas: desactivadas }),
+    });
+    const out = await res.json();
+    if (out.ok) {
+      status.textContent = out.warning ? ('Guardado (aviso: ' + out.warning + ')') : 'Guardado y sitio re-renderizado ✔';
+      status.className = 'ok';
+      cargar();
+    } else {
+      status.textContent = 'Error: ' + out.error;
+      status.className = 'bad';
+    }
+  } catch (err) {
+    status.textContent = 'Error de red: ' + err;
+    status.className = 'bad';
+  }
+}
+
+cargar();
+</script>
+</body>
+</html>
