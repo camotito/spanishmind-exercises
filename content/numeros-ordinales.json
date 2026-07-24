@@ -61,7 +61,7 @@
         {
           "texto_enunciado": "Las oficinas de Servicios de Gas están en el piso _____.",
           "solucion_correcta": [
-            "once"
+            "once/undécimo"
           ]
         },
         {
@@ -79,7 +79,7 @@
         {
           "texto_enunciado": "La familia Molina Cardoso vive en el piso _____.",
           "solucion_correcta": [
-            "doce"
+            "doce/duodécimo"
           ]
         },
         {
@@ -91,7 +91,7 @@
         {
           "texto_enunciado": "Las oficinas de Hispanosa están en el piso _____.",
           "solucion_correcta": [
-            "catorce"
+            "catorce/decimocuarto"
           ]
         },
         {
@@ -113,7 +113,8 @@
           ]
         }
       ],
-      "grafico_necesario": true
+      "grafico_necesario": true,
+      "forzar_mostrar": true
     },
     {
       "tipologia": "T4",
@@ -134,19 +135,19 @@
         {
           "texto_enunciado": "Juan XXIII → Juan _____",
           "solucion_correcta": [
-            "veintitrés"
+            "veintitrés/vigesimotercero"
           ]
         },
         {
           "texto_enunciado": "Alfonso XII → Alfonso _____",
           "solucion_correcta": [
-            "doce"
+            "doce/duodécimo"
           ]
         },
         {
           "texto_enunciado": "Luis XV → Luis _____",
           "solucion_correcta": [
-            "quince"
+            "quince/decimoquinto"
           ]
         },
         {
@@ -164,7 +165,7 @@
         {
           "texto_enunciado": "Pío XI → Pío _____",
           "solucion_correcta": [
-            "once"
+            "once/undécimo"
           ]
         },
         {
@@ -201,7 +202,7 @@
           "texto_enunciado": "Estoy leyendo un libro con (15) _____ capítulos. Voy por el capítulo (11.º) _____.",
           "solucion_correcta": [
             "quince",
-            "once"
+            "once/undécimo"
           ]
         },
         {
@@ -225,7 +226,7 @@
         {
           "texto_enunciado": "La ñ es la letra (15.ª) _____ del alfabeto.",
           "solucion_correcta": [
-            "quince"
+            "quince/decimoquinta"
           ]
         },
         {
@@ -249,7 +250,7 @@
         {
           "texto_enunciado": "El siglo (18) _____ fue el Siglo de las Luces.",
           "solucion_correcta": [
-            "dieciocho"
+            "dieciocho/decimoctavo"
           ]
         },
         {

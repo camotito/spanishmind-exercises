@@ -79,6 +79,57 @@ button:disabled { opacity: .4; cursor: default; }
 <body>
 <h1>Primero, segundo, tercero...</h1>
 <div class="page" data-page="0" hidden><section class="ejercicio">
+        <p class="enunciado">Look at the building directory and complete the sentences.</p><div class="directory"><div class="plate"><span class="plate-name">Antonio Oliva</span><span class="plate-floor">2.º C</span></div><div class="plate"><span class="plate-name">Servicios de Gas</span><span class="plate-floor">11.º A</span></div><div class="plate"><span class="plate-name">Sastrería Moderna</span><span class="plate-floor">10.º D</span></div><div class="plate"><span class="plate-name">Moreno-Arribas abogados</span><span class="plate-floor">3.º D</span></div><div class="plate"><span class="plate-name">Molina Cardoso</span><span class="plate-floor">12.º A</span></div><div class="plate"><span class="plate-name">Gestoría Salvado</span><span class="plate-floor">1.º A</span></div><div class="plate"><span class="plate-name">Hispanosa</span><span class="plate-floor">14.º D</span></div><div class="plate"><span class="plate-name">Academia Cervantes</span><span class="plate-floor">4.º B</span></div><div class="plate"><span class="plate-name">Julia Salinas</span><span class="plate-floor">7.º C</span></div><div class="plate"><span class="plate-name">Editorial Mundisa</span><span class="plate-floor">9.º D</span></div></div>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Antonio Oliva vive en el <input type="text" class="blank" data-sol="segundo" data-hint="" style="width: 9ch" autocomplete="off"> piso.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Las oficinas de Servicios de Gas están en el piso <input type="text" class="blank" data-sol="once/undécimo" data-hint="hint-23" style="width: 10ch" autocomplete="off">.</span></div>
+            <span class="alt-hint" id="hint-23" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La sastrería Moderna está en la <input type="text" class="blank" data-sol="décima" data-hint="" style="width: 8ch" autocomplete="off"> planta.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Hay un despacho de abogados en el <input type="text" class="blank" data-sol="tercer" data-hint="" style="width: 8ch" autocomplete="off"> piso.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La familia Molina Cardoso vive en el piso <input type="text" class="blank" data-sol="doce/duodécimo" data-hint="hint-24" style="width: 11ch" autocomplete="off">.</span></div>
+            <span class="alt-hint" id="hint-24" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La gestoría Salvado está en el <input type="text" class="blank" data-sol="primer" data-hint="" style="width: 8ch" autocomplete="off"> piso.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Las oficinas de Hispanosa están en el piso <input type="text" class="blank" data-sol="catorce/decimocuarto" data-hint="hint-25" style="width: 14ch" autocomplete="off">.</span></div>
+            <span class="alt-hint" id="hint-25" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La academia Cervantes está en la <input type="text" class="blank" data-sol="cuarta" data-hint="" style="width: 8ch" autocomplete="off"> planta.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Julia Salinas vive en el piso <input type="text" class="blank" data-sol="séptimo" data-hint="" style="width: 9ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La editorial Mundisa está en el <input type="text" class="blank" data-sol="noveno" data-hint="" style="width: 8ch" autocomplete="off"> piso.</span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div><div class="page" data-page="1" hidden><section class="ejercicio">
         <p class="enunciado">Write out the ordinal number for each name.</p>
         
         
@@ -92,16 +143,16 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Juan XXIII → Juan <input type="text" class="blank" data-sol="veintitrés" data-hint="" style="width: 12ch" autocomplete="off"></span></div>
-            
+            <div class="item-row"><span>Juan XXIII → Juan <input type="text" class="blank" data-sol="veintitrés/vigesimotercero" data-hint="hint-26" style="width: 17ch" autocomplete="off"></span></div>
+            <span class="alt-hint" id="hint-26" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Alfonso XII → Alfonso <input type="text" class="blank" data-sol="doce" data-hint="" style="width: 6ch" autocomplete="off"></span></div>
-            
+            <div class="item-row"><span>Alfonso XII → Alfonso <input type="text" class="blank" data-sol="doce/duodécimo" data-hint="hint-27" style="width: 11ch" autocomplete="off"></span></div>
+            <span class="alt-hint" id="hint-27" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Luis XV → Luis <input type="text" class="blank" data-sol="quince" data-hint="" style="width: 8ch" autocomplete="off"></span></div>
-            
+            <div class="item-row"><span>Luis XV → Luis <input type="text" class="blank" data-sol="quince/decimoquinto" data-hint="hint-28" style="width: 14ch" autocomplete="off"></span></div>
+            <span class="alt-hint" id="hint-28" hidden></span>
         </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>Iván IV → Iván <input type="text" class="blank" data-sol="cuarto" data-hint="" style="width: 8ch" autocomplete="off"></span></div>
@@ -112,8 +163,8 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Pío XI → Pío <input type="text" class="blank" data-sol="once" data-hint="" style="width: 6ch" autocomplete="off"></span></div>
-            
+            <div class="item-row"><span>Pío XI → Pío <input type="text" class="blank" data-sol="once/undécimo" data-hint="hint-29" style="width: 10ch" autocomplete="off"></span></div>
+            <span class="alt-hint" id="hint-29" hidden></span>
         </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>Juana III → Juana <input type="text" class="blank" data-sol="tercera" data-hint="" style="width: 9ch" autocomplete="off"></span></div>
@@ -129,7 +180,7 @@ button:disabled { opacity: .4; cursor: default; }
             <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
             <span class="group-feedback"></span>
         </div>
-    </section></div><div class="page" data-page="1" hidden><section class="ejercicio">
+    </section></div><div class="page" data-page="2" hidden><section class="ejercicio">
         <p class="enunciado">Write out the numbers in parentheses using words.</p>
         
         
@@ -143,8 +194,8 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Estoy leyendo un libro con <em class="hint-paren">(15)</em> <input type="text" class="blank" data-sol="quince" data-hint="" style="width: 8ch" autocomplete="off"> capítulos. Voy por el capítulo <em class="hint-paren">(11.º)</em> <input type="text" class="blank" data-sol="once" data-hint="" style="width: 6ch" autocomplete="off">.</span></div>
-            
+            <div class="item-row"><span>Estoy leyendo un libro con <em class="hint-paren">(15)</em> <input type="text" class="blank" data-sol="quince" data-hint="" style="width: 8ch" autocomplete="off"> capítulos. Voy por el capítulo <em class="hint-paren">(11.º)</em> <input type="text" class="blank" data-sol="once/undécimo" data-hint="hint-30" style="width: 10ch" autocomplete="off">.</span></div>
+            <span class="alt-hint" id="hint-30" hidden></span>
         </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>El Valencia es el <em class="hint-paren">(1.º)</em> <input type="text" class="blank" data-sol="primero" data-hint="" style="width: 9ch" autocomplete="off"> en la Liga de fútbol.</span></div>
@@ -159,8 +210,8 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>La ñ es la letra <em class="hint-paren">(15.ª)</em> <input type="text" class="blank" data-sol="quince" data-hint="" style="width: 8ch" autocomplete="off"> del alfabeto.</span></div>
-            
+            <div class="item-row"><span>La ñ es la letra <em class="hint-paren">(15.ª)</em> <input type="text" class="blank" data-sol="quince/decimoquinta" data-hint="hint-31" style="width: 14ch" autocomplete="off"> del alfabeto.</span></div>
+            <span class="alt-hint" id="hint-31" hidden></span>
         </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>El despacho de José está en el <em class="hint-paren">(8.º)</em> <input type="text" class="blank" data-sol="octavo" data-hint="" style="width: 8ch" autocomplete="off"> piso.</span></div>
@@ -175,8 +226,8 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>El siglo <em class="hint-paren">(18)</em> <input type="text" class="blank" data-sol="dieciocho" data-hint="" style="width: 11ch" autocomplete="off"> fue el Siglo de las Luces.</span></div>
-            
+            <div class="item-row"><span>El siglo <em class="hint-paren">(18)</em> <input type="text" class="blank" data-sol="dieciocho/decimoctavo" data-hint="hint-32" style="width: 13ch" autocomplete="off"> fue el Siglo de las Luces.</span></div>
+            <span class="alt-hint" id="hint-32" hidden></span>
         </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>Tina y Carla acabaron <em class="hint-paren">(4.ªs)</em> <input type="text" class="blank" data-sol="cuartas" data-hint="" style="width: 9ch" autocomplete="off"> en el campeonato de tenis.</span></div>

@@ -524,11 +524,17 @@ def build_html(data, granularidad="ejercicio"):
     # "oculto": true permite desactivar un bloque de ejercicios sin borrarlo
     # del JSON (p.ej. desde el dashboard) -- simplemente no se renderiza.
     # tipologias_desactivadas (render_config.json) hace lo mismo pero a nivel
-    # de tipologia entera (p.ej. T2, sin imagenes reales todavia).
+    # de tipologia entera (p.ej. T2, sin imagenes reales todavia). Un
+    # ejercicio concreto de una tipologia desactivada puede igual mostrarse
+    # con "forzar_mostrar": true -- caso confirmado a mano de que ESE
+    # ejercicio no tiene el problema que motivo desactivar la tipologia
+    # (p.ej. numeros-ordinales usa "directory", una tabla real, no el
+    # sustituto de texto de "functional_images").
     tipologias_desactivadas = set(cargar_config().get("tipologias_desactivadas", []))
     ejercicios_visibles = [
         ej for ej in data["ejercicios"]
-        if not ej.get("oculto") and ej.get("tipologia") not in tipologias_desactivadas
+        if not ej.get("oculto")
+        and (ej.get("tipologia") not in tipologias_desactivadas or ej.get("forzar_mostrar"))
     ]
     paginas = []
     for ej in ejercicios_visibles:
