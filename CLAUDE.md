@@ -1,7 +1,6 @@
 # CLAUDE.md
 
-Referencia operativa del repo, para no tener que redescubrir la estructura en
-cada sesión. Ver `README.md` para el resumen corto.
+Ver `README.md` para el resumen corto.
 
 ## Estructura de carpetas
 
@@ -27,4 +26,3 @@ cada sesión. Ver `README.md` para el resumen corto.
 
 - **Commit + push por paso**, no acumulado: cada cambio de implementación o corrección de error significativo se commitea y se pushea antes de seguir con el siguiente, sin pausar a pedir confirmación (modo auto para este repo).
 - **Curaduría de datos contra el libro real cuando haga falta** (imágenes necesarias, subrayados, tablas faltantes): si hay escaneo disponible en `libro/`, verificar ahí antes de asumir un patrón por el enunciado o la tipología — el enunciado por sí solo no siempre predice si algo está subrayado o no en el libro impreso.
-- **Cambios de registro/contenido lingüístico** (tú/usted, vosotros/ustedes...) se deciden caso por caso: el libro a veces mezcla registros a propósito según el destinatario indicado en el propio ítem, no es un error a corregir en bloque.
