@@ -26,8 +26,9 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
 .blank { font-family: var(--font-body); padding: 2px 2px; border: none;
     border-bottom: 2px solid var(--secondary); border-radius: 0;
-    background: transparent; width: 150px; font-size: .95rem; }
+    background: transparent; width: 150px; max-width: 100%; font-size: .95rem; }
 select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank-wide { display: block; width: 100%; margin-top: 4px; }
 .blank.ok { border-bottom-color: var(--ok); background: transparent; }
 .blank.bad { border-bottom-color: var(--bad); background: transparent; }
 .hint-paren { font-style: italic; }
@@ -102,35 +103,35 @@ button:disabled { opacity: .4; cursor: default; }
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Estaba claro que Olga estaba contenta. <input type="text" class="blank" data-sol="Se veía que Olga estaba contenta" data-hint="" style="width: 34ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Estaba claro que Olga estaba contenta. <input type="text" class="blank blank-wide" data-sol="Se veía que Olga estaba contenta" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>En Chile es costumbre bailar la cueca en las fiestas populares. <input type="text" class="blank" data-sol="En Chile se suele bailar la cueca en las fiestas populares" data-hint="" style="width: 60ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>En Chile es costumbre bailar la cueca en las fiestas populares. <input type="text" class="blank blank-wide" data-sol="En Chile se suele bailar la cueca en las fiestas populares" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Alguien dice que Norma no se encuentra bien. <input type="text" class="blank" data-sol="Se dice que Norma no se encuentra bien" data-hint="" style="width: 40ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Alguien dice que Norma no se encuentra bien. <input type="text" class="blank blank-wide" data-sol="Se dice que Norma no se encuentra bien" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Es posible hablar por teléfono desde aquí. <input type="text" class="blank" data-sol="Se puede hablar por teléfono desde aquí" data-hint="" style="width: 41ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Es posible hablar por teléfono desde aquí. <input type="text" class="blank blank-wide" data-sol="Se puede hablar por teléfono desde aquí" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Alguien sospechaba que Andrés había causado la discusión. <input type="text" class="blank" data-sol="Se sospechaba que Andrés había causado la discusión" data-hint="" style="width: 53ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Alguien sospechaba que Andrés había causado la discusión. <input type="text" class="blank blank-wide" data-sol="Se sospechaba que Andrés había causado la discusión" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>La gente supone que Nacho es muy inteligente. <input type="text" class="blank" data-sol="Se supone que Nacho es muy inteligente" data-hint="" style="width: 40ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>La gente supone que Nacho es muy inteligente. <input type="text" class="blank blank-wide" data-sol="Se supone que Nacho es muy inteligente" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Para jugar bien al baloncesto no es necesario ser alto. <input type="text" class="blank" data-sol="No se necesita ser alto para jugar bien al baloncesto" data-hint="" style="width: 55ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Para jugar bien al baloncesto no es necesario ser alto. <input type="text" class="blank blank-wide" data-sol="No se necesita ser alto para jugar bien al baloncesto" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Algunas personas esperan que el Presidente hable mañana. <input type="text" class="blank" data-sol="Se espera que el Presidente hable mañana" data-hint="" style="width: 42ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Algunas personas esperan que el Presidente hable mañana. <input type="text" class="blank blank-wide" data-sol="Se espera que el Presidente hable mañana" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         
@@ -142,34 +143,34 @@ button:disabled { opacity: .4; cursor: default; }
     </section></div><div class="page" data-page="2" hidden><section class="ejercicio">
         <p class="enunciado">Join the two sentences as in the example. Make the necessary changes.</p>
         
-        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>La gente se equivoca. Es fácil. <input type="text" class="blank blank-example" value="Es fácil equivocarse" style="width: 22ch" readonly tabindex="-1">.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span>La gente se equivoca. Es fácil. <input type="text" class="blank blank-example blank-wide" value="Es fácil equivocarse" readonly tabindex="-1">.</span></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>No hay que equivocarse. Es importante. <input type="text" class="blank" data-sol="Es importante no equivocarse" data-hint="" style="width: 30ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>No hay que equivocarse. Es importante. <input type="text" class="blank blank-wide" data-sol="Es importante no equivocarse" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Hay que ser abiertos. Es mejor. <input type="text" class="blank" data-sol="Es mejor ser abiertos" data-hint="" style="width: 23ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Hay que ser abiertos. Es mejor. <input type="text" class="blank blank-wide" data-sol="Es mejor ser abiertos" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Hay que saber cocinar. Es útil. <input type="text" class="blank" data-sol="Es útil saber cocinar" data-hint="" style="width: 23ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Hay que saber cocinar. Es útil. <input type="text" class="blank blank-wide" data-sol="Es útil saber cocinar" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Hay que hacer ejercicio. Es bueno. <input type="text" class="blank" data-sol="Es bueno hacer ejercicio" data-hint="" style="width: 26ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Hay que hacer ejercicio. Es bueno. <input type="text" class="blank blank-wide" data-sol="Es bueno hacer ejercicio" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>No hay que ser egoísta. Es malo. <input type="text" class="blank" data-sol="Es malo ser egoísta" data-hint="" style="width: 21ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>No hay que ser egoísta. Es malo. <input type="text" class="blank blank-wide" data-sol="Es malo ser egoísta" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>No se puede estudiar con tanto ruido. Es difícil. <input type="text" class="blank" data-sol="Es difícil estudiar con tanto ruido" data-hint="" style="width: 37ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>No se puede estudiar con tanto ruido. Es difícil. <input type="text" class="blank blank-wide" data-sol="Es difícil estudiar con tanto ruido" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>No se puede salir con este tiempo. Es imposible. <input type="text" class="blank" data-sol="Es imposible salir con este tiempo" data-hint="" style="width: 36ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>No se puede salir con este tiempo. Es imposible. <input type="text" class="blank blank-wide" data-sol="Es imposible salir con este tiempo" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         

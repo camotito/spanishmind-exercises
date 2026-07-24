@@ -122,8 +122,9 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
 .blank { font-family: var(--font-body); padding: 2px 2px; border: none;
     border-bottom: 2px solid var(--secondary); border-radius: 0;
-    background: transparent; width: 150px; font-size: .95rem; }
+    background: transparent; width: 150px; max-width: 100%; font-size: .95rem; }
 select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank-wide { display: block; width: 100%; margin-top: 4px; }
 .blank.ok { border-bottom-color: var(--ok); background: transparent; }
 .blank.bad { border-bottom-color: var(--bad); background: transparent; }
 .hint-paren { font-style: italic; }
@@ -264,6 +265,12 @@ def input_width(sol):
     return max(n, 2) + 2
 
 
+# a partir de este ancho (p.ej. reescritura de oracion completa en T10/T11/T12)
+# el hueco inline ya no cabe junto al resto de la frase sin desbordar la
+# tarjeta -- pasa a ocupar su propia linea a ancho completo (.blank-wide).
+ANCHO_INLINE_MAX = 20
+
+
 def render_widgets(text, solutions):
     """Convierte texto con tokens en HTML, consumiendo `solutions` en orden.
     Devuelve (html, n_widgets, hint_ids). hint_ids son los ids (uno por hueco
@@ -290,10 +297,17 @@ def render_widgets(text, solutions):
             out.append(f'<select class="blank" data-sol="{esc(sol)}">{opts}</select>')
         else:
             hint_id = f"hint-{next(_hint_ids)}" if "/" in sol else ""
-            out.append(
-                f'<input type="text" class="blank" data-sol="{esc(sol)}" '
-                f'data-hint="{hint_id}" style="width: {input_width(sol)}ch" autocomplete="off">'
-            )
+            ancho = input_width(sol)
+            if ancho > ANCHO_INLINE_MAX:
+                out.append(
+                    f'<input type="text" class="blank blank-wide" data-sol="{esc(sol)}" '
+                    f'data-hint="{hint_id}" autocomplete="off">'
+                )
+            else:
+                out.append(
+                    f'<input type="text" class="blank" data-sol="{esc(sol)}" '
+                    f'data-hint="{hint_id}" style="width: {ancho}ch" autocomplete="off">'
+                )
             if hint_id:
                 hint_ids.append(hint_id)
         widx += 1
@@ -382,9 +396,11 @@ def render_ejemplo(item):
             continue
         sol = respuestas[widx] if widx < len(respuestas) else ""
         primera = sol.split("/")[0].strip() if "/" in sol else sol
+        ancho = input_width(primera)
+        clase = "blank blank-example blank-wide" if ancho > ANCHO_INLINE_MAX else "blank blank-example"
+        estilo = "" if ancho > ANCHO_INLINE_MAX else f' style="width: {ancho}ch"'
         out.append(
-            f'<input type="text" class="blank blank-example" value="{esc(primera)}" '
-            f'style="width: {input_width(primera)}ch" readonly tabindex="-1">'
+            f'<input type="text" class="{clase}" value="{esc(primera)}"{estilo} readonly tabindex="-1">'
         )
         widx += 1
         pos = end

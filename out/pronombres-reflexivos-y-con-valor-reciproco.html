@@ -26,8 +26,9 @@ h1 { font-family: var(--font-heading); color: var(--secondary); }
 .item-row .blank, .item-row select.blank { vertical-align: middle; }
 .blank { font-family: var(--font-body); padding: 2px 2px; border: none;
     border-bottom: 2px solid var(--secondary); border-radius: 0;
-    background: transparent; width: 150px; font-size: .95rem; }
+    background: transparent; width: 150px; max-width: 100%; font-size: .95rem; }
 select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank-wide { display: block; width: 100%; margin-top: 4px; }
 .blank.ok { border-bottom-color: var(--ok); background: transparent; }
 .blank.bad { border-bottom-color: var(--bad); background: transparent; }
 .hint-paren { font-style: italic; }
@@ -154,35 +155,35 @@ button:disabled { opacity: .4; cursor: default; }
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Felipe saludó a David y David saludó a Felipe. <input type="text" class="blank" data-sol="Felipe y David se saludaron" data-hint="" style="width: 29ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Felipe saludó a David y David saludó a Felipe. <input type="text" class="blank blank-wide" data-sol="Felipe y David se saludaron" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Roque no habla a Julio y Julio no habla a Roque. <input type="text" class="blank" data-sol="Roque y Julio no se hablan" data-hint="" style="width: 28ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Roque no habla a Julio y Julio no habla a Roque. <input type="text" class="blank blank-wide" data-sol="Roque y Julio no se hablan" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Roque te quiere a ti y tú quieres a Roque. <input type="text" class="blank" data-sol="Roque y tú os queréis" data-hint="" style="width: 23ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Roque te quiere a ti y tú quieres a Roque. <input type="text" class="blank blank-wide" data-sol="Roque y tú os queréis" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Sofía escribe a Lina y Lina escribe a Sofía. <input type="text" class="blank" data-sol="Sofía y Lina se escriben" data-hint="" style="width: 26ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Sofía escribe a Lina y Lina escribe a Sofía. <input type="text" class="blank blank-wide" data-sol="Sofía y Lina se escriben" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Andrés me conoce muy bien a mí y yo conozco muy bien a Andrés. <input type="text" class="blank" data-sol="Andrés y yo nos conocemos muy bien" data-hint="" style="width: 36ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Andrés me conoce muy bien a mí y yo conozco muy bien a Andrés. <input type="text" class="blank blank-wide" data-sol="Andrés y yo nos conocemos muy bien" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Rodrigo ayuda a su hermana y su hermana ayuda a Rodrigo. <input type="text" class="blank" data-sol="Rodrigo y su hermana se ayudan" data-hint="" style="width: 32ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Rodrigo ayuda a su hermana y su hermana ayuda a Rodrigo. <input type="text" class="blank blank-wide" data-sol="Rodrigo y su hermana se ayudan" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>En Navidad, mi mujer me hace un regalo y yo le hago un regalo a ella. <input type="text" class="blank" data-sol="En Navidad, mi mujer y yo nos hacemos un regalo" data-hint="" style="width: 49ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>En Navidad, mi mujer me hace un regalo y yo le hago un regalo a ella. <input type="text" class="blank blank-wide" data-sol="En Navidad, mi mujer y yo nos hacemos un regalo" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Tus amigos te ven a ti y tú los ves a ellos los domingos. <input type="text" class="blank" data-sol="Tus amigos y tú os veis los domingos" data-hint="" style="width: 38ch" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Tus amigos te ven a ti y tú los ves a ellos los domingos. <input type="text" class="blank blank-wide" data-sol="Tus amigos y tú os veis los domingos" data-hint="" autocomplete="off">.</span></div>
             
         </div>
         
