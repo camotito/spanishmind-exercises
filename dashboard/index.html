@@ -129,8 +129,7 @@ async function cargarTemas() {
     btn.dataset.tema = t.tema;
     const unidadTxt = t.unidad_libro ? ` · Unidad ${t.unidad_libro}` : '';
     const ocultoTxt = t.n_ocultos ? ` · ${t.n_ocultos} oculto(s)` : '';
-    const tiposTxt = (t.tipologias && t.tipologias.length) ? ` · ${t.tipologias.join(', ')}` : '';
-    btn.innerHTML = `${t.titulo}<span class="meta">${t.tema}${unidadTxt}${ocultoTxt}${tiposTxt}</span>`;
+    btn.innerHTML = `${t.titulo}<span class="meta">${t.tema}${unidadTxt}${ocultoTxt}</span>`;
     btn.addEventListener('click', () => seleccionarTema(t.tema));
     list.appendChild(btn);
   }
