@@ -5,7 +5,7 @@
   "ejercicios": [
     {
       "tipologia": "T3",
-      "enunciado": "Complete the sentences with *me*, *te*, *se*... only when necessary.",
+      "enunciado": "Complete the sentences with *me*, *te*, *se*... only when necessary. Leave the blank empty if no pronoun is needed.",
       "items": [
         {
           "texto_enunciado": "Rosa _____ cortó con un cuchillo ayer.",
@@ -155,7 +155,7 @@
     },
     {
       "tipologia": "T3",
-      "enunciado": "Complete the following sentences with *me*, *te*, *se*... when necessary.",
+      "enunciado": "Complete the following sentences with *me*, *te*, *se*... when necessary. Leave the blank empty if no pronoun is needed.",
       "items": [
         {
           "texto_enunciado": "(Yo) _____ conozco muy bien.",
