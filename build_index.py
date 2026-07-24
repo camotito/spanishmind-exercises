@@ -99,7 +99,6 @@ def main():
 body {{ font-family: var(--font-body); background: var(--bg); color: var(--text);
     max-width: 640px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }}
 h1 {{ font-family: var(--font-heading); color: var(--secondary); }}
-p.subtitle {{ color: #666; margin-top: -8px; }}
 ol {{ list-style: none; counter-reset: unidad; padding: 0; }}
 li {{ counter-increment: unidad; background: var(--card); border: 1px solid var(--line);
     border-radius: 10px; padding: 14px 18px; margin: 10px 0; }}
@@ -111,7 +110,6 @@ a:hover {{ text-decoration: underline; }}
 </head>
 <body>
 <h1>SpanishMind</h1>
-<p class="subtitle">Interactive Spanish grammar exercises — {len(orden)} unit(s) published.</p>
 <ol>{items}</ol>
 </body>
 </html>

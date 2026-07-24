@@ -15,7 +15,9 @@
 * { box-sizing: border-box; }
 body { font-family: var(--font-body); background: var(--bg); color: var(--text);
     max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
-h1 { font-family: var(--font-heading); color: var(--secondary); }
+h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
+.volver-indice { display: block; text-align: center; margin: 30px 0 10px;
+    color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
     border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
 .ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
@@ -84,8 +86,8 @@ button:disabled { opacity: .4; cursor: default; }
         
         <div class="wordbox"><span class="word-chip">necesitar</span><span class="word-chip">relacionarse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span></div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>En un pueblo pequeño <input type="text" class="blank" data-sol="se vive" data-hint="" style="width: 9ch" autocomplete="off"> mejor. <input type="text" class="blank" data-sol="Se vive" data-hint="" style="width: 9ch" autocomplete="off"> más tranquilo, <input type="text" class="blank" data-sol="se tiene" data-hint="" style="width: 10ch" autocomplete="off"> más tiempo libre, <input type="text" class="blank" data-sol="uno se relaciona / se relaciona uno" data-hint="hint-23" style="width: 18ch" autocomplete="off"> más con la gente y <input type="text" class="blank" data-sol="se necesita" data-hint="" style="width: 13ch" autocomplete="off"> menos dinero.</span></div>
-            <span class="alt-hint" id="hint-23" hidden></span>
+            <div class="item-row"><span>En un pueblo pequeño <input type="text" class="blank" data-sol="se vive" data-hint="" style="width: 9ch" autocomplete="off"> mejor. <input type="text" class="blank" data-sol="Se vive" data-hint="" style="width: 9ch" autocomplete="off"> más tranquilo, <input type="text" class="blank" data-sol="se tiene" data-hint="" style="width: 10ch" autocomplete="off"> más tiempo libre, <input type="text" class="blank" data-sol="uno se relaciona / se relaciona uno" data-hint="hint-33" style="width: 18ch" autocomplete="off"> más con la gente y <input type="text" class="blank" data-sol="se necesita" data-hint="" style="width: 13ch" autocomplete="off"> menos dinero.</span></div>
+            <span class="alt-hint" id="hint-33" hidden></span>
         </div><div class="wordbox"><span class="word-chip">divertirse</span><span class="word-chip">sentirse</span><span class="word-chip">tener</span><span class="word-chip">vivir</span><span class="word-chip">vivir</span></div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>En una gran ciudad <input type="text" class="blank" data-sol="se tiene" data-hint="" style="width: 10ch" autocomplete="off"> más libertad y <input type="text" class="blank" data-sol="se divierte uno" data-hint="" style="width: 17ch" autocomplete="off"> más, aunque a veces <input type="text" class="blank" data-sol="se siente uno" data-hint="" style="width: 15ch" autocomplete="off"> solo. Antes <input type="text" class="blank" data-sol="se vivía" data-hint="" style="width: 10ch" autocomplete="off"> mejor en las ciudades, pero ahora <input type="text" class="blank" data-sol="se vive" data-hint="" style="width: 9ch" autocomplete="off"> bien en todas partes.</span></div>
@@ -205,8 +207,8 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>¿Cuánto tiempo <input type="text" class="blank" data-sol="hace/hacía" data-hint="hint-24" style="width: 7ch" autocomplete="off"> que no nos veíamos?</span></div>
-            <span class="alt-hint" id="hint-24" hidden></span>
+            <div class="item-row"><span>¿Cuánto tiempo <input type="text" class="blank" data-sol="hace/hacía" data-hint="hint-34" style="width: 7ch" autocomplete="off"> que no nos veíamos?</span></div>
+            <span class="alt-hint" id="hint-34" hidden></span>
         </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>Hoy <input type="text" class="blank" data-sol="ha nevado" data-hint="" style="width: 11ch" autocomplete="off"> en la sierra. Las cumbres están blancas.</span></div>
@@ -229,6 +231,7 @@ button:disabled { opacity: .4; cursor: default; }
         <span id="page-indicator"></span>
         <button id="btn-next" onclick="showPage(currentPage + 1)">Siguiente &rarr;</button>
     </div>
+<a class="volver-indice" href="/">&larr; Volver al índice</a>
 <script>
 function norm(s){
   return (s||'').trim().toLowerCase()

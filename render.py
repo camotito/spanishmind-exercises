@@ -111,7 +111,9 @@ CSS = """
 * { box-sizing: border-box; }
 body { font-family: var(--font-body); background: var(--bg); color: var(--text);
     max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
-h1 { font-family: var(--font-heading); color: var(--secondary); }
+h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
+.volver-indice { display: block; text-align: center; margin: 30px 0 10px;
+    color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
     border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
 .ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
@@ -566,6 +568,7 @@ def build_html(data, granularidad="ejercicio"):
 <h1>{esc(titulo)}</h1>
 {pages_html}
 {nav}
+<a class="volver-indice" href="/">&larr; Volver al índice</a>
 <script>{JS}</script>
 </body>
 </html>"""
