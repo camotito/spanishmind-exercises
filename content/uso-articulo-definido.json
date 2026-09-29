@@ -144,6 +144,66 @@
      "solucion_correcta": [
       "la guerra"
      ]
+    },
+    {
+     "texto_enunciado": "Me lavo _____ (my hands) antes de comer.",
+     "solucion_correcta": [
+      "las manos"
+     ]
+    },
+    {
+     "texto_enunciado": "No me gusta _____ (math).",
+     "solucion_correcta": [
+      "las matemáticas"
+     ]
+    },
+    {
+     "texto_enunciado": "Pedro estuvo conversando con _____ (Doctor) Martínez.",
+     "solucion_correcta": [
+      "el doctor/la doctora"
+     ]
+    },
+    {
+     "texto_enunciado": "_____ (50%) de la población votó ayer.",
+     "solucion_correcta": [
+      "el 50%/el 50 %/el cincuenta por ciento"
+     ]
+    },
+    {
+     "texto_enunciado": "Ellos estudian _____ (English) todas las tardes.",
+     "solucion_correcta": [
+      "inglés"
+     ]
+    },
+    {
+     "texto_enunciado": "Te recomiendo ponerte _____ (your coat).",
+     "solucion_correcta": [
+      "el abrigo"
+     ]
+    },
+    {
+     "texto_enunciado": "_____ (Doña) Carmen nos invitó a cenar.",
+     "solucion_correcta": [
+      "doña"
+     ]
+    },
+    {
+     "texto_enunciado": "_____ (Peace) es necesaria para todos.",
+     "solucion_correcta": [
+      "la paz"
+     ]
+    },
+    {
+     "texto_enunciado": "Las naranjas están a tres euros _____ (a kilo).",
+     "solucion_correcta": [
+      "el kilo"
+     ]
+    },
+    {
+     "texto_enunciado": "¿Usted habla _____ (Italian)?",
+     "solucion_correcta": [
+      "italiano"
+     ]
     }
    ]
   }
