@@ -1,0 +1,139 @@
+{
+  "tema": "articulo-el-ante-a-tonica",
+  "titulo": "El agua, las aguas",
+  "descripcion_gramatical": "Artículo el ante sustantivos femeninos que empiezan por a- o ha- tónica",
+  "ejercicios": [
+    {
+      "tipologia": "T3",
+      "enunciado": "Complete the sentences with the definite article (*el, la, los, las*). Leave the blank empty if no article is needed.",
+      "items": [
+        {
+          "texto_enunciado": "_____ agua de este pozo está helada.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo mucho calor y _____ hambre me está matando.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ pequeñas alas del colibrí se mueven muy rápido.",
+          "solucion_correcta": [
+            "Las"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Sabes si _____ árbitra pita el partido de mañana?",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ almohada de mi cama es muy cómoda.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ águilas reales vuelan a gran altura.",
+          "solucion_correcta": [
+            "Las"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gusta _____ álgebra, prefiero la geometría.",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "Se rompió _____ ancla del barco durante la tormenta.",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "Varios soldados levantaron _____ hachas para atacar.",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ abeja se posó sobre la flor.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ hampa controla los negocios ilegales del puerto.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre me ha costado escribir _____ \"a\" minúscula en caligrafía.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "En esta época del año no hay _____ agua suficiente en la presa.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos atendió _____ amable ama de llaves del palacio.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ amapolas rojas crecen salvajes en el campo.",
+          "solucion_correcta": [
+            "Las"
+          ]
+        }
+      ]
+    },
+    {
+      "tipologia": "T5",
+      "enunciado": "With demonstratives the feminine form is kept before a stressed *a-*. Choose the correct option in each case.",
+      "items": [
+        {
+          "texto_enunciado": "No me gusta nada (esta / este) agua del grifo, sabe a cloro.",
+          "solucion_correcta": [
+            "esta"
+          ]
+        },
+        {
+          "texto_enunciado": "Coge (aquella / aquel) hacha que está apoyada en el árbol.",
+          "solucion_correcta": [
+            "aquella"
+          ]
+        },
+        {
+          "texto_enunciado": "(Esa / Ese) área del parque está reservada para los niños.",
+          "solucion_correcta": [
+            "Esa"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira (aquellas / aquellos) alas tan coloridas que tiene esa mariposa.",
+          "solucion_correcta": [
+            "aquellas"
+          ]
+        },
+        {
+          "texto_enunciado": "(Esta / Este) alma bondadosa siempre ayuda a los más necesitados.",
+          "solucion_correcta": [
+            "Esta"
+          ]
+        }
+      ]
+    }
+  ]
+}

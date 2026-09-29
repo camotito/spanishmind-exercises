@@ -240,3 +240,13 @@
   ejercicios_permitidos: [T8, T11, T10]
   tiempos_permitidos: ["verbos reflexivos", "imperativo (regular)", "imperativo (irregular)"]
   grafico: none
+
+- tema: articulo-el-ante-a-tonica
+  titulo: "El agua, las aguas"
+  descripcion_gramatical: "Artículo el ante sustantivos femeninos que empiezan por a- o ha- tónica"
+  unidad_libro: null
+  forma_verbal: null
+  depende_de: [uso-articulo-definido]
+  ejercicios_permitidos: [T3, T5]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none
