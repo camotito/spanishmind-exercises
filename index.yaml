@@ -121,6 +121,16 @@
   tiempos_permitidos: ["presente de indicativo"]
   grafico: instruments_visual
 
+- tema: uso-articulo-definido
+  titulo: "Con artículo o sin artículo"
+  descripcion_gramatical: "Uso y omisión del artículo definido (repaso)"
+  unidad_libro: null
+  forma_verbal: null
+  depende_de: [articulo-determinado, ausencia-articulo, articulo-tiempo-cantidad, otros-usos-articulo]
+  ejercicios_permitidos: [T4]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none
+
 - tema: numeros-ordinales
   titulo: "Primero, segundo, tercero..."
   descripcion_gramatical: "Los numerales ordinales"

@@ -1,0 +1,151 @@
+{
+ "tema": "uso-articulo-definido",
+ "titulo": "Con artículo o sin artículo",
+ "descripcion_gramatical": "Uso y omisión del artículo definido (repaso)",
+ "ejercicios": [
+  {
+   "tipologia": "T4",
+   "enunciado": "Translate the word in brackets into Spanish. Use the definite article (*el, la, los, las*) only where Spanish requires it: some items need no article.",
+   "items": [
+    {
+     "texto_enunciado": "_____ (Patience) es una virtud.",
+     "solucion_correcta": [
+      "la paciencia"
+     ]
+    },
+    {
+     "texto_enunciado": "Miguel no habla _____ (English) en el trabajo.",
+     "solucion_correcta": [
+      "inglés"
+     ]
+    },
+    {
+     "texto_enunciado": "_____ (Cats) prefieren dormir durante el día.",
+     "solucion_correcta": [
+      "los gatos"
+     ]
+    },
+    {
+     "texto_enunciado": "Algunas personas dicen que _____ (meat) no es buena para la salud.",
+     "solucion_correcta": [
+      "la carne"
+     ]
+    },
+    {
+     "texto_enunciado": "Todo el mundo está de acuerdo con que _____ (vegetables) son buenos para la salud.",
+     "solucion_correcta": [
+      "las verduras"
+     ]
+    },
+    {
+     "texto_enunciado": "María se lavó _____ (her face).",
+     "solucion_correcta": [
+      "la cara"
+     ]
+    },
+    {
+     "texto_enunciado": "Voy a ir a ver a _____ (Professor) Gómez.",
+     "solucion_correcta": [
+      "el profesor/la profesora"
+     ]
+    },
+    {
+     "texto_enunciado": "Buenos días, _____ (Professor) Gómez, ¿puedo pasar?",
+     "solucion_correcta": [
+      "profesor/profesora"
+     ]
+    },
+    {
+     "texto_enunciado": "Tienes que quitarte _____ (your shoes) antes de entrar.",
+     "solucion_correcta": [
+      "los zapatos"
+     ]
+    },
+    {
+     "texto_enunciado": "_____ (Doctor) López atiende por las mañanas.",
+     "solucion_correcta": [
+      "el doctor/la doctora"
+     ]
+    },
+    {
+     "texto_enunciado": "Ella estudia _____ (history) en la universidad.",
+     "solucion_correcta": [
+      "historia"
+     ]
+    },
+    {
+     "texto_enunciado": "¿Cómo está usted, _____ (Don) Manuel?",
+     "solucion_correcta": [
+      "don"
+     ]
+    },
+    {
+     "texto_enunciado": "_____ (Spanish) es un idioma hermoso.",
+     "solucion_correcta": [
+      "el español"
+     ]
+    },
+    {
+     "texto_enunciado": "No entiendo _____ (politics).",
+     "solucion_correcta": [
+      "la política"
+     ]
+    },
+    {
+     "texto_enunciado": "¿Hablas _____ (French)?",
+     "solucion_correcta": [
+      "francés"
+     ]
+    },
+    {
+     "texto_enunciado": "_____ (10%) de los clientes pidió un reembolso.",
+     "solucion_correcta": [
+      "el 10%/el 10 %/el diez por ciento"
+     ]
+    },
+    {
+     "texto_enunciado": "Las manzanas cuestan dos euros _____ (a kilo).",
+     "solucion_correcta": [
+      "el kilo"
+     ]
+    },
+    {
+     "texto_enunciado": "Me duele _____ (my head).",
+     "solucion_correcta": [
+      "la cabeza"
+     ]
+    },
+    {
+     "texto_enunciado": "Queremos aprender _____ (German) este verano.",
+     "solucion_correcta": [
+      "alemán"
+     ]
+    },
+    {
+     "texto_enunciado": "_____ (Technology) cambia nuestras vidas rápidamente.",
+     "solucion_correcta": [
+      "la tecnología"
+     ]
+    },
+    {
+     "texto_enunciado": "El aparcamiento cuesta dos euros _____ (per hour).",
+     "solucion_correcta": [
+      "la hora"
+     ]
+    },
+    {
+     "texto_enunciado": "_____ (Dogs) son animales muy fieles.",
+     "solucion_correcta": [
+      "los perros"
+     ]
+    },
+    {
+     "texto_enunciado": "En la reunión hablamos de _____ (war).",
+     "solucion_correcta": [
+      "la guerra"
+     ]
+    }
+   ]
+  }
+ ]
+}
