@@ -112,6 +112,15 @@ CSS = """
 body { font-family: var(--font-body); background: var(--bg); color: var(--text);
     max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
 h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
+.btn-teoria { position: fixed; top: 14px; right: 14px; z-index: 5; }
+dialog.teoria { max-width: 720px; width: calc(100% - 32px); max-height: 88vh; overflow-y: auto;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--card);
+    color: var(--text); padding: 8px 24px 24px; line-height: 1.6; }
+dialog.teoria::backdrop { background: rgba(0,0,0,.4); }
+dialog.teoria h2 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.25rem; }
+dialog.teoria h3 { color: var(--primary); font-size: 1rem; margin: 1.4em 0 .3em; }
+dialog.teoria ul { margin: .3em 0; padding-left: 1.2em; }
+.teoria-cerrar { position: sticky; bottom: 0; display: block; margin: 20px auto 0; }
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
     color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
@@ -521,7 +530,22 @@ def render_ejercicio_paginas(ej, granularidad="ejercicio"):
     return [pagina]
 
 
+def cargar_teoria(tema):
+    """Hoja de teoria opcional: content/<tema>.teoria.html (HTML de confianza)."""
+    ruta = os.path.join(CONTENT_DIR, f"{tema}.teoria.html")
+    if os.path.exists(ruta):
+        with open(ruta, encoding="utf-8") as f:
+            return f.read()
+    return None
+
+
 def build_html(data, granularidad="ejercicio"):
+    teoria = cargar_teoria(data["tema"])
+    teoria_html = f"""
+<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()">&#128214; Theory</button>
+<dialog id="teoria" class="teoria">{teoria}
+<button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
+</dialog>""" if teoria else ""
     titulo = data.get("titulo", data["tema"])
     # "oculto": true permite desactivar un bloque de ejercicios sin borrarlo
     # del JSON (p.ej. desde el dashboard) -- simplemente no se renderiza.
@@ -565,6 +589,7 @@ def build_html(data, granularidad="ejercicio"):
 <style>{CSS}</style>
 </head>
 <body>
+{teoria_html}
 <h1>{esc(titulo)}</h1>
 {pages_html}
 {nav}

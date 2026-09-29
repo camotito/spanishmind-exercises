@@ -16,6 +16,15 @@
 body { font-family: var(--font-body); background: var(--bg); color: var(--text);
     max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
 h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
+.btn-teoria { position: fixed; top: 14px; right: 14px; z-index: 5; }
+dialog.teoria { max-width: 720px; width: calc(100% - 32px); max-height: 88vh; overflow-y: auto;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--card);
+    color: var(--text); padding: 8px 24px 24px; line-height: 1.6; }
+dialog.teoria::backdrop { background: rgba(0,0,0,.4); }
+dialog.teoria h2 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.25rem; }
+dialog.teoria h3 { color: var(--primary); font-size: 1rem; margin: 1.4em 0 .3em; }
+dialog.teoria ul { margin: .3em 0; padding-left: 1.2em; }
+.teoria-cerrar { position: sticky; bottom: 0; display: block; margin: 20px auto 0; }
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
     color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
@@ -79,6 +88,7 @@ button:disabled { opacity: .4; cursor: default; }
 </style>
 </head>
 <body>
+
 <h1>Me ducho, nos queremos</h1>
 <div class="page" data-page="0" hidden><section class="ejercicio">
         <p class="enunciado">Complete the sentences with "me", "te", "se"... only when necessary. Leave the blank empty if no pronoun is needed.</p>

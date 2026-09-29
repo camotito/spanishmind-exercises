@@ -16,6 +16,15 @@
 body { font-family: var(--font-body); background: var(--bg); color: var(--text);
     max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
 h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
+.btn-teoria { position: fixed; top: 14px; right: 14px; z-index: 5; }
+dialog.teoria { max-width: 720px; width: calc(100% - 32px); max-height: 88vh; overflow-y: auto;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--card);
+    color: var(--text); padding: 8px 24px 24px; line-height: 1.6; }
+dialog.teoria::backdrop { background: rgba(0,0,0,.4); }
+dialog.teoria h2 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.25rem; }
+dialog.teoria h3 { color: var(--primary); font-size: 1rem; margin: 1.4em 0 .3em; }
+dialog.teoria ul { margin: .3em 0; padding-left: 1.2em; }
+.teoria-cerrar { position: sticky; bottom: 0; display: block; margin: 20px auto 0; }
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
     color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
@@ -79,6 +88,7 @@ button:disabled { opacity: .4; cursor: default; }
 </style>
 </head>
 <body>
+
 <h1>Primero, segundo, tercero...</h1>
 <div class="page" data-page="0" hidden><section class="ejercicio">
         <p class="enunciado">Look at the building directory and complete the sentences.</p><div class="directory"><div class="plate"><span class="plate-name">Antonio Oliva</span><span class="plate-floor">2.º C</span></div><div class="plate"><span class="plate-name">Servicios de Gas</span><span class="plate-floor">11.º A</span></div><div class="plate"><span class="plate-name">Sastrería Moderna</span><span class="plate-floor">10.º D</span></div><div class="plate"><span class="plate-name">Moreno-Arribas abogados</span><span class="plate-floor">3.º D</span></div><div class="plate"><span class="plate-name">Molina Cardoso</span><span class="plate-floor">12.º A</span></div><div class="plate"><span class="plate-name">Gestoría Salvado</span><span class="plate-floor">1.º A</span></div><div class="plate"><span class="plate-name">Hispanosa</span><span class="plate-floor">14.º D</span></div><div class="plate"><span class="plate-name">Academia Cervantes</span><span class="plate-floor">4.º B</span></div><div class="plate"><span class="plate-name">Julia Salinas</span><span class="plate-floor">7.º C</span></div><div class="plate"><span class="plate-name">Editorial Mundisa</span><span class="plate-floor">9.º D</span></div></div>

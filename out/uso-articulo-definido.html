@@ -16,6 +16,15 @@
 body { font-family: var(--font-body); background: var(--bg); color: var(--text);
     max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
 h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
+.btn-teoria { position: fixed; top: 14px; right: 14px; z-index: 5; }
+dialog.teoria { max-width: 720px; width: calc(100% - 32px); max-height: 88vh; overflow-y: auto;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--card);
+    color: var(--text); padding: 8px 24px 24px; line-height: 1.6; }
+dialog.teoria::backdrop { background: rgba(0,0,0,.4); }
+dialog.teoria h2 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.25rem; }
+dialog.teoria h3 { color: var(--primary); font-size: 1rem; margin: 1.4em 0 .3em; }
+dialog.teoria ul { margin: .3em 0; padding-left: 1.2em; }
+.teoria-cerrar { position: sticky; bottom: 0; display: block; margin: 20px auto 0; }
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
     color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
@@ -79,6 +88,65 @@ button:disabled { opacity: .4; cursor: default; }
 </style>
 </head>
 <body>
+
+<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()">&#128214; Theory</button>
+<dialog id="teoria" class="teoria"><h2>Definite article: when to use it</h2>
+
+<h3>Abstract nouns and general concepts</h3>
+<p>When speaking about a general concept, an entire category, or an abstract idea.</p>
+<ul>
+<li><b>El</b> amor es ciego. / <i>Love is blind.</i></li>
+<li><b>La</b> tecnología cambia vidas. / <i>Technology changes lives.</i></li>
+<li><b>Los</b> perros son fieles. / <i>Dogs are loyal.</i> (The entire species, not specific dogs.)</li>
+<li>Hablamos de <b>la</b> guerra. / <i>We talk about war.</i></li>
+</ul>
+
+<h3>Days of the week and time</h3>
+<p>Days of the week are masculine and require an article. They do not take a preposition, whereas English requires one (<i>on</i>). Telling the time always requires a feminine article.</p>
+<ul>
+<li>Te veo <b>el</b> lunes. / <i>I'll see you on Monday.</i></li>
+<li><b>Los</b> sábados no trabajo. / <i>I don't work on Saturdays.</i></li>
+<li>Son <b>las</b> tres. / <i>It's three o'clock.</i></li>
+</ul>
+
+<h3>Body parts and personal belongings</h3>
+<p>If the possessor of the body part or object is already clear from the context, the definite article is used. English requires a possessive adjective (<i>my, your, his</i>, etc.).</p>
+<ul>
+<li>Él se lava <b>las</b> manos. / <i>He washes his hands.</i></li>
+<li>Ponte <b>el</b> abrigo. / <i>Put on your coat.</i></li>
+<li>Me duele <b>la</b> cabeza. / <i>My head hurts.</i></li>
+</ul>
+
+<h3>Titles</h3>
+<p>Use the article when you are speaking <i>about</i> someone using their title, but not when speaking directly <i>to</i> that person.</p>
+<ul>
+<li><b>El</b> doctor García no está. / <i>Doctor García is not here.</i></li>
+<li><b>La</b> profesora Smith llegó tarde. / <i>Professor Smith arrived late.</i></li>
+<li>Buenos días, doctor García. / <i>Good morning, Doctor García.</i> (speaking to the person: no article)</li>
+</ul>
+<p><i>Exception: the titles <b>don</b> and <b>doña</b> never take an article: don Juan.</i></p>
+
+<h3>Languages, subjects and disciplines</h3>
+<p>Languages and academic disciplines require an article when they function as the subject.</p>
+<ul>
+<li><b>El</b> español es un idioma hermoso. / <i>Spanish is a beautiful language.</i></li>
+<li>Me gusta <b>la</b> historia. / <i>I like history.</i></li>
+</ul>
+<p>However, they do not take an article after verbs like <i>hablar, estudiar, aprender</i>:</p>
+<ul>
+<li>Hablo español.</li>
+<li>Estudio historia.</li>
+</ul>
+
+<h3>Percentages, prices and measurements</h3>
+<ul>
+<li><b>El</b> 20% de los estudiantes aprobó. / <i>20% of the students passed.</i></li>
+<li>Cuesta cinco euros <b>el</b> kilo. / <i>It costs five euros a kilo.</i></li>
+<li>El parking cuesta un euro <b>la</b> hora. / <i>Parking costs one euro per hour.</i></li>
+</ul>
+
+<button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
+</dialog>
 <h1>Con artículo o sin artículo</h1>
 <div class="page" data-page="0" hidden><section class="ejercicio">
         <p class="enunciado">Translate the word in brackets into Spanish. Use the definite article ("el, la, los, las") only where Spanish requires it: some items need no article.</p>
