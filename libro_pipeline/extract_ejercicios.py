@@ -139,6 +139,7 @@ def main():
     parser.add_argument("unidades", nargs="*", help="numeros de unidad a procesar (default: todas las del mapa)")
     parser.add_argument("--provider", choices=["gemini", "openai"], default=DEFAULT_PROVIDER)
     parser.add_argument("--model", default=None, help="override del modelo (default: el de cada proveedor)")
+    parser.add_argument("--tag", default=None, help="sufijo del checkpoint (default: el provider); permite correr varios procesos en paralelo")
     add_libro_arg(parser)
     args = parser.parse_args()
 
@@ -157,7 +158,7 @@ def main():
     seleccion = args.unidades or sorted(unidades.keys(), key=int)
 
     os.makedirs(RAW_DIR, exist_ok=True)
-    checkpoint_path = libro.estado(f"ejercicios_{args.provider}")
+    checkpoint_path = libro.estado(f"ejercicios_{args.tag or args.provider}")
     client = build_client(args.provider, checkpoint_path, model=args.model)
 
     for num in seleccion:

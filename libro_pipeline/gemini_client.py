@@ -25,6 +25,8 @@ import time
 
 import requests
 
+from openai_client import InsufficientQuotaError
+
 DEFAULT_MODEL = "gemini-3.5-flash"
 API_URL_TMPL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
@@ -94,20 +96,22 @@ class GeminiVisionClient:
         with open(image_path, "rb") as f:
             image_b64 = base64.b64encode(f.read()).decode("ascii")
 
+        mime = "image/jpeg" if image_path.lower().endswith((".jpg", ".jpeg")) else "image/png"
         payload = {
             "contents": [
                 {
                     "parts": [
                         {"text": prompt_text},
-                        {"inline_data": {"mime_type": "image/png", "data": image_b64}},
+                        {"inline_data": {"mime_type": mime, "data": image_b64}},
                     ]
                 }
-            ]
+            ],
+            "generationConfig": {"responseMimeType": "application/json"},
         }
 
         for attempt in range(self.max_retries):
             self._throttle()
-            resp = requests.post(f"{self.api_url}?key={self.key}", json=payload, timeout=120)
+            resp = requests.post(f"{self.api_url}?key={self.key}", json=payload, timeout=280)
 
             if resp.status_code == 429 and attempt < self.max_retries - 1:
                 retry_after = resp.headers.get("Retry-After")
@@ -125,8 +129,18 @@ class GeminiVisionClient:
                 time.sleep(wait)
                 continue
 
-            resp.raise_for_status()
+            if resp.status_code == 402:
+                raise InsufficientQuotaError(
+                    "Gemini 402: creditos prepago agotados en la cuenta de facturacion. "
+                    "Compra creditos en AI Studio (Billing) y relanza: retoma solo."
+                )
+            if not resp.ok:
+                # sin resp.raise_for_status(): su mensaje incluye la URL con la clave (?key=...)
+                raise RuntimeError(f"Gemini HTTP {resp.status_code}: {resp.text[:300]}")
             data = resp.json()
-            return strip_code_fence(data["candidates"][0]["content"]["parts"][0]["text"])
+            # los modelos con razonamiento pueden devolver partes "thought": se ignoran
+            parts = data["candidates"][0]["content"]["parts"]
+            texto = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+            return strip_code_fence(texto)
 
         raise RuntimeError(f"Agotados los reintentos para {image_path} (último status: {resp.status_code})")

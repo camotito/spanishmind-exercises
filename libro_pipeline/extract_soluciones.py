@@ -104,11 +104,13 @@ def main():
     parser.add_argument("--model", default=None, help="override del modelo (default: el de cada proveedor)")
     parser.add_argument("--start", type=int, help="scan inicial (default: el de mapa_unidades.json)")
     parser.add_argument("--end", type=int, help="scan final, inclusive (default: el de mapa_unidades.json)")
+    parser.add_argument("--tag", default=None, help="sufijo de salida (default: el provider); permite guardar varias pasadas, ej. gemini-pro")
     add_libro_arg(parser)
     args = parser.parse_args()
 
     libro = Libro(args.libro)
-    out_path = libro.soluciones_path(args.provider)
+    tag = args.tag or args.provider
+    out_path = libro.soluciones_path(tag)
 
     if args.start is not None and args.end is not None:
         scan_inicio, scan_fin = args.start, args.end
@@ -129,7 +131,7 @@ def main():
         with open(out_path, encoding="utf-8") as f:
             soluciones = json.load(f)
 
-    checkpoint_path = libro.estado(f"soluciones_{args.provider}")
+    checkpoint_path = libro.estado(f"soluciones_{tag}")
     client = build_client(args.provider, checkpoint_path, model=args.model)
 
     for scan_index in range(scan_inicio, scan_fin + 1):

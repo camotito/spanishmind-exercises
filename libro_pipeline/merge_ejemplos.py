@@ -43,8 +43,51 @@ BLANK = "_____"
 NUMBERING_RE = re.compile(r"^\s*\d{1,3}[.\)]\s+")
 
 
-def n_huecos(texto):
+# subejercicios donde "(a/b)" es un estimulo (palabras dadas), no una lista de opciones
+SUBS_PARENTESIS_ESTIMULO = {"7.2", "22.5", "40.3", "102.4", "103.4", "105.3"}
+
+
+def n_huecos(texto, sub=None):
+    if sub in SUBS_PARENTESIS_ESTIMULO:
+        return texto.count(BLANK)
     return len(CHOICE_RE.findall(texto)) + texto.count(BLANK)
+
+
+TOKEN_RE = re.compile(r"\(([^()]*?/[^()]*?)\)|_____")
+
+
+def dividir_opcion_hueco(texto, respuestas):
+    """Caso "(el/la) _____" -> el libro da una sola respuesta "la jarra" pero el
+    ejercicio tiene un desplegable y un hueco seguidos (2 slots). Parte la
+    respuesta en ["la", "jarra"] cuando empieza por una de las opciones.
+    Devuelve la lista nueva, o None si no se puede dividir con seguridad."""
+    tokens = list(TOKEN_RE.finditer(texto))
+    out, r = [], list(respuestas)
+    i = 0
+    while i < len(tokens):
+        t = tokens[i]
+        es_opcion = t.group(1) is not None
+        sigue_hueco = (
+            es_opcion and i + 1 < len(tokens) and tokens[i + 1].group(1) is None
+            and texto[t.end():tokens[i + 1].start()].strip() == ""
+        )
+        if not r:
+            return None
+        if sigue_hueco and len(r) < len(tokens) - i:
+            ops = [o.strip() for o in t.group(1).split("/")]
+            ans = r[0]
+            for o in ops:
+                if ans.lower().startswith(o.lower() + " ") and len(ans) > len(o) + 1:
+                    out += [ans[:len(o)], ans[len(o) + 1:].strip()]
+                    break
+            else:
+                return None
+            r.pop(0)
+            i += 2
+        else:
+            out.append(r.pop(0))
+            i += 1
+    return out if not r and len(out) == len(tokens) else None
 
 
 def tema_por_unidad():
@@ -85,7 +128,7 @@ def merge_unidad(num, tema_map, soluciones, avisos):
         items_out = []
         for i, item in enumerate(ej.get("items", [])):
             texto = NUMBERING_RE.sub("", item["texto_enunciado"])
-            esperados = n_huecos(texto)
+            esperados = n_huecos(texto, sub)
             respuestas = items_sol[i] if i < len(items_sol) else None
 
             item_out = {"texto_enunciado": texto}
@@ -95,6 +138,15 @@ def merge_unidad(num, tema_map, soluciones, avisos):
                 item_out["solucion_correcta"] = None
                 item_out["revisar"] = True
                 avisos.append(f"unidad {num} / {sub} / item {i + 1}: sin solucion disponible")
+            elif len(respuestas) != esperados and len(respuestas) < esperados and (
+                dividir_opcion_hueco(texto, respuestas) is not None
+            ):
+                item_out["solucion_correcta"] = dividir_opcion_hueco(texto, respuestas)
+            elif len(respuestas) == 1 and esperados >= 2 and len(respuestas[0].split()) >= 2 * esperados:
+                # el libro da la frase entera (ordenar/reescribir/construir): no es un
+                # fallo de extraccion, la respuesta no se reparte por hueco
+                item_out["solucion_correcta"] = respuestas
+                item_out["respuesta_frase_completa"] = True
             elif len(respuestas) != esperados:
                 item_out["solucion_correcta"] = respuestas
                 item_out["revisar"] = True
