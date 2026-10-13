@@ -63,6 +63,11 @@ def main():
     if os.path.exists(p):
         teoria = json.load(open(p))
 
+    niveles = {}
+    p = os.path.join(D, "niveles.json")
+    if os.path.exists(p):
+        niveles = json.load(open(p))
+
     unidades = {}
     for f in glob.glob(os.path.join(D, "ejemplos", "unidad-*.json")):
         u = json.load(open(f))
@@ -85,7 +90,10 @@ def main():
     out.append(f"- Motivos: tipo sin soporte o de producción libre, faltan soluciones, respuesta de frase completa ({PALABRAS_FRASE} o más palabras) o alternativas dentro de una frase.")
     out.append("- `alternativas en frase: ítems N`: esos ítems tienen variantes dentro de la frase (con `/` o paréntesis); la web no las acepta todas.")
     out.append(f"- Resultado: {n_auto} de {n_ej} ejercicios con `auto: sí`.\n")
-    out.append(f"Disputas de solución: `disputa: ítems N` marca los ítems donde Gemini Flash y Gemini Pro dieron soluciones distintas ({n_disp} en total, detalle en `disputas_soluciones.json`). La solución del JSON es la de Pro; revisar contra el libro antes de usarla.\n")
+    if n_disp:
+        out.append(f"Disputas de solución: `disputa: ítems N` marca los ítems donde Gemini Flash y Gemini Pro dieron soluciones distintas ({n_disp} en total, detalle en `disputas_soluciones.json`). La solución del JSON es la de Pro; revisar contra el libro antes de usarla.\n")
+    if niveles:
+        out.append("Nivel y dificultad (1 a 5 dentro del libro): estimación de gemini-pro-latest a partir del contenido de cada unidad (`niveles.json`), no viene del libro.\n")
     out.append("Teoría: cada unidad tiene teoría en el libro (página indicada en `libro p. N`). El resumen de la regla solo está escrito para las unidades 57 a 70 y 106 (`teoria.json`).\n")
     out.append("Tipos: T1 clasificar en tablas; T2 completar con apoyo gráfico; T3 completar huecos (gramática libre); T4 transformación morfológica; T5 elección múltiple en la frase; T6 producción escrita pautada; T7 sustitución/reescritura; T8 completar con banco de palabras; T9 ordenar palabras; T10 combinar dos oraciones; T11 reescribir oración; T12 producción libre; T13 emparejar columnas; T14 clasificar en tabla; T15 enumeración desde gráfico; T16 anotación sobre la palabra; T17 otro\n")
 
@@ -95,6 +103,9 @@ def main():
         titulo, _, tema = m["titulo"].partition(" -- ")
         out.append(f"## {n}. {titulo}")
         out.append(f"Tema: {tema} · libro p. {m['pagina']} · {len(u['ejercicios'])} ejercicios")
+        if str(n) in niveles:
+            v = niveles[str(n)]
+            out.append(f"Nivel: {v['nivel']} · dificultad {v['dificultad']}/5 · {v['motivo']}")
         if str(n) in teoria:
             out.append("Teoría del libro:")
             out += [f"- {l}" for l in teoria[str(n)]]
