@@ -1,0 +1,145 @@
+{
+  "tema": "subjuntivo-tiempo-segun-verbo-principal",
+  "titulo": "Quiero que vengas, quería que vinieras",
+  "descripcion_gramatical": "Subjuntivo: presente o imperfecto según el verbo principal (deseo, petición y necesidad)",
+  "ejercicios": [
+    {
+      "tipologia": "T5",
+      "enunciado": "Elige la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Quiero que (vengas/vinieras) a mi casa.",
+          "solucion_correcta": [
+            "vengas"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi madre quería que yo (sea/fuera) médica.",
+          "solucion_correcta": [
+            "fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "Te pido que (pongas/pusieras) la mesa.",
+          "solucion_correcta": [
+            "pongas"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesitaba que alguien me (oiga/oyera).",
+          "solucion_correcta": [
+            "oyera"
+          ]
+        },
+        {
+          "texto_enunciado": "Prefiero que los niños (duerman/durmieran) temprano.",
+          "solucion_correcta": [
+            "duerman"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando era niña, mi padre quería que (esté/estuviera) siempre en casa a las ocho.",
+          "solucion_correcta": [
+            "estuviera"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana te pediré que (sigas/siguieras) mis instrucciones.",
+          "solucion_correcta": [
+            "sigas"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi jefe quería que (haga/hiciera) el informe antes de las cinco.",
+          "solucion_correcta": [
+            "hiciera"
+          ]
+        }
+      ]
+    },
+    {
+      "tipologia": "T4",
+      "enunciado": "Pasa el verbo principal a pasado y completa el hueco.",
+      "items": [
+        {
+          "texto_enunciado": "Necesito que conduzcas tú. → Necesitaba que _____ (conducir, tú).",
+          "solucion_correcta": [
+            "condujeras/condujeses"
+          ]
+        },
+        {
+          "texto_enunciado": "Espero que puedas venir. → Esperaba que _____ (poder, tú) venir.",
+          "solucion_correcta": [
+            "pudieras/pudieses"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero que veas esa película. → Quería que _____ (ver, tú) esa película.",
+          "solucion_correcta": [
+            "vieras/vieses"
+          ]
+        },
+        {
+          "texto_enunciado": "Te pido que no te muevas. → Te pedí que no te _____ (mover).",
+          "solucion_correcta": [
+            "movieras/movieses"
+          ]
+        },
+        {
+          "texto_enunciado": "Prefiero que salgamos pronto. → Prefería que _____ (salir, nosotros) pronto.",
+          "solucion_correcta": [
+            "saliéramos/saliésemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero que lo pidas hoy. → Quería que lo _____ (pedir) ese día.",
+          "solucion_correcta": [
+            "pidieras/pidieses"
+          ]
+        }
+      ]
+    },
+    {
+      "tipologia": "T4",
+      "enunciado": "Escribes a una amiga cómo va la semana de clase. Completa cada hueco con el verbo entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Esta semana mi profesor quiere que _____ (tener, yo) lista la tarea antes del jueves.",
+          "solucion_correcta": [
+            "tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "La semana pasada me pidió que _____ (traer, yo) el libro a clase, y lo traje.",
+          "solucion_correcta": [
+            "trajera/trajese"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer quería que _____ (saber, nosotros) cuál era el tema antes de empezar la clase.",
+          "solucion_correcta": [
+            "supiéramos/supiésemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Ahora prefiere que le _____ (decir, nosotros) lo que no entendemos.",
+          "solucion_correcta": [
+            "digamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana voy a pedirle que me _____ (dar) más tiempo para la tarea.",
+          "solucion_correcta": [
+            "dé"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi amiga quería que _____ (ir, nosotras) al cine, pero tenía que estudiar.",
+          "solucion_correcta": [
+            "fuéramos/fuésemos"
+          ]
+        }
+      ]
+    }
+  ]
+}

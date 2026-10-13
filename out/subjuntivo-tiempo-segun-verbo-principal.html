@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiero que vengas, quería que vinieras</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+    --bg: #FBF7F0; --card: #ffffff; --primary: #C1440E; --secondary: #2E4053;
+    --accent: #E9B44C; --ok: #4F7942; --bad: #B33A3A; --text: #2B2B2B;
+    --line: #e5ddd0;
+    --font-heading: 'Playfair Display', serif; --font-body: 'DM Sans', sans-serif;
+}
+* { box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text);
+    max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
+h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
+.btn-teoria { position: fixed; top: 14px; right: 14px; z-index: 5; }
+dialog.teoria { max-width: 720px; width: calc(100% - 32px); max-height: 88vh; overflow-y: auto;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--card);
+    color: var(--text); padding: 8px 24px 24px; line-height: 1.6; }
+dialog.teoria::backdrop { background: rgba(0,0,0,.4); }
+dialog.teoria h2 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.25rem; }
+dialog.teoria h3 { color: var(--primary); font-size: 1rem; margin: 1.4em 0 .3em; }
+dialog.teoria ul { margin: .3em 0; padding-left: 1.2em; }
+.teoria-cerrar { position: sticky; bottom: 0; display: block; margin: 20px auto 0; }
+.volver-indice { display: block; text-align: center; margin: 30px 0 10px;
+    color: var(--secondary); font-size: .9rem; }
+.ejercicio { background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
+.ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
+    margin: 0 0 14px; }
+.item { padding: 8px 0; border-top: 1px dashed var(--line); }
+.item:first-of-type { border-top: none; }
+.item-row + .item-row { margin-top: 4px; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
+.blank { font-family: var(--font-body); padding: 2px 2px; border: none;
+    border-bottom: 2px solid var(--secondary); border-radius: 0;
+    background: transparent; width: 150px; max-width: 100%; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank-wide { display: block; width: 100%; margin-top: 4px; }
+.blank.ok { border-bottom-color: var(--ok); background: transparent; }
+.blank.bad { border-bottom-color: var(--bad); background: transparent; }
+.hint-paren { font-style: italic; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
+.group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+button { font-family: var(--font-body); background: var(--primary); color: #fff;
+    border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: .85rem; }
+button.ghost { background: transparent; color: var(--secondary); text-decoration: underline; padding: 8px 4px; }
+button:hover { opacity: .9; }
+.group-feedback { font-weight: 600; font-size: .9rem; display: none; margin-left: auto; }
+.group-feedback.correct { color: var(--ok); }
+.group-feedback.wrong { color: var(--bad); }
+/* soporte gráfico */
+.directory { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.plate { text-align: center; padding: 10px 6px; border: 1px solid var(--line);
+    border-radius: 6px; background: #fff; }
+.plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
+.plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
+@media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.scene-list { list-style: none; margin: 0 0 18px; padding: 10px 14px;
+    border: 2px solid var(--secondary); border-radius: 8px; background: #fffdf8; }
+.scene-list li { padding: 4px 0; border-top: 1px dashed var(--line); }
+.scene-list li:first-child { border-top: none; }
+.scene-num { color: var(--secondary); font-weight: 700; }
+.tabla-titulo { font-weight: 700; color: var(--secondary); background: #fffdf8;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 8px 14px;
+    margin-bottom: 18px; }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
+input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
+    background: transparent; cursor: default; }
+.page-nav { display: flex; justify-content: space-between; align-items: center;
+    margin: 24px 0; gap: 12px; }
+#page-indicator { font-family: var(--font-heading); color: var(--secondary); font-size: 1rem; }
+button:disabled { opacity: .4; cursor: default; }
+</style>
+</head>
+<body>
+
+<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()">&#128214; Theory</button>
+<dialog id="teoria" class="teoria"><h2>Subjuntivo: ¿vengas o vinieras?</h2>
+
+<p>Con verbos de deseo, petición o necesidad (<i>querer, pedir, necesitar, preferir, gustar</i>), el verbo principal marca el tiempo del subjuntivo.</p>
+
+<h3>Verbo principal en presente o futuro: presente de subjuntivo</h3>
+<ul>
+<li><b>Quiero que vengas.</b> / <i>I want you to come.</i></li>
+<li><b>Necesito que me ayudes.</b> / <i>I need you to help me.</i></li>
+<li><b>Te pediré que hables con ella.</b> / <i>I will ask you to talk to her.</i></li>
+</ul>
+
+<h3>Verbo principal en pasado o condicional: imperfecto de subjuntivo</h3>
+<ul>
+<li><b>Quería que vinieras.</b> / <i>I wanted you to come.</i></li>
+<li><b>Me gustaría que vinieras.</b> / <i>I would like you to come.</i></li>
+</ul>
+
+<h3>Ojo</h3>
+<p>El imperfecto de subjuntivo no siempre habla del pasado. Puede referirse al futuro.</p>
+<ul>
+<li><b>Me gustaría que vinieras mañana.</b> / <i>I would like you to come tomorrow.</i></li>
+</ul>
+
+<button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
+</dialog>
+<h1>Quiero que vengas, quería que vinieras</h1>
+<div class="page" data-page="0" hidden><section class="ejercicio">
+        <p class="enunciado">Elige la forma correcta.</p>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Quiero que <select class="blank" data-sol="vengas"><option value="">—</option><option>vengas</option><option>vinieras</option></select> a mi casa.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Mi madre quería que yo <select class="blank" data-sol="fuera"><option value="">—</option><option>sea</option><option>fuera</option></select> médica.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Te pido que <select class="blank" data-sol="pongas"><option value="">—</option><option>pongas</option><option>pusieras</option></select> la mesa.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Necesitaba que alguien me <select class="blank" data-sol="oyera"><option value="">—</option><option>oiga</option><option>oyera</option></select>.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Prefiero que los niños <select class="blank" data-sol="duerman"><option value="">—</option><option>duerman</option><option>durmieran</option></select> temprano.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Cuando era niña, mi padre quería que <select class="blank" data-sol="estuviera"><option value="">—</option><option>esté</option><option>estuviera</option></select> siempre en casa a las ocho.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Mañana te pediré que <select class="blank" data-sol="sigas"><option value="">—</option><option>sigas</option><option>siguieras</option></select> mis instrucciones.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Mi jefe quería que <select class="blank" data-sol="hiciera"><option value="">—</option><option>haga</option><option>hiciera</option></select> el informe antes de las cinco.</span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div><div class="page" data-page="1" hidden><section class="ejercicio">
+        <p class="enunciado">Pasa el verbo principal a pasado y completa el hueco.</p>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Necesito que conduzcas tú. → Necesitaba que <input type="text" class="blank" data-sol="condujeras/condujeses" data-hint="hint-37" style="width: 12ch" autocomplete="off"> <em class="hint-paren">(conducir, tú)</em>.</span></div>
+            <span class="alt-hint" id="hint-37" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Espero que puedas venir. → Esperaba que <input type="text" class="blank" data-sol="pudieras/pudieses" data-hint="hint-38" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(poder, tú)</em> venir.</span></div>
+            <span class="alt-hint" id="hint-38" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Quiero que veas esa película. → Quería que <input type="text" class="blank" data-sol="vieras/vieses" data-hint="hint-39" style="width: 8ch" autocomplete="off"> <em class="hint-paren">(ver, tú)</em> esa película.</span></div>
+            <span class="alt-hint" id="hint-39" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Te pido que no te muevas. → Te pedí que no te <input type="text" class="blank" data-sol="movieras/movieses" data-hint="hint-40" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(mover)</em>.</span></div>
+            <span class="alt-hint" id="hint-40" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Prefiero que salgamos pronto. → Prefería que <input type="text" class="blank" data-sol="saliéramos/saliésemos" data-hint="hint-41" style="width: 12ch" autocomplete="off"> <em class="hint-paren">(salir, nosotros)</em> pronto.</span></div>
+            <span class="alt-hint" id="hint-41" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Quiero que lo pidas hoy. → Quería que lo <input type="text" class="blank" data-sol="pidieras/pidieses" data-hint="hint-42" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(pedir)</em> ese día.</span></div>
+            <span class="alt-hint" id="hint-42" hidden></span>
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div><div class="page" data-page="2" hidden><section class="ejercicio">
+        <p class="enunciado">Escribes a una amiga cómo va la semana de clase. Completa cada hueco con el verbo entre paréntesis.</p>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Esta semana mi profesor quiere que <input type="text" class="blank" data-sol="tenga" data-hint="" style="width: 7ch" autocomplete="off"> <em class="hint-paren">(tener, yo)</em> lista la tarea antes del jueves.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La semana pasada me pidió que <input type="text" class="blank" data-sol="trajera/trajese" data-hint="hint-43" style="width: 9ch" autocomplete="off"> <em class="hint-paren">(traer, yo)</em> el libro a clase, y lo traje.</span></div>
+            <span class="alt-hint" id="hint-43" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Ayer quería que <input type="text" class="blank" data-sol="supiéramos/supiésemos" data-hint="hint-44" style="width: 12ch" autocomplete="off"> <em class="hint-paren">(saber, nosotros)</em> cuál era el tema antes de empezar la clase.</span></div>
+            <span class="alt-hint" id="hint-44" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Ahora prefiere que le <input type="text" class="blank" data-sol="digamos" data-hint="" style="width: 9ch" autocomplete="off"> <em class="hint-paren">(decir, nosotros)</em> lo que no entendemos.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Mañana voy a pedirle que me <input type="text" class="blank" data-sol="dé" data-hint="" style="width: 4ch" autocomplete="off"> <em class="hint-paren">(dar)</em> más tiempo para la tarea.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Mi amiga quería que <input type="text" class="blank" data-sol="fuéramos/fuésemos" data-hint="hint-45" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(ir, nosotras)</em> al cine, pero tenía que estudiar.</span></div>
+            <span class="alt-hint" id="hint-45" hidden></span>
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div>
+
+    <div class="page-nav">
+        <button class="ghost" id="btn-prev" onclick="showPage(currentPage - 1)">&larr; Anterior</button>
+        <span id="page-indicator"></span>
+        <button id="btn-next" onclick="showPage(currentPage + 1)">Siguiente &rarr;</button>
+    </div>
+<a class="volver-indice" href="/">&larr; Volver al índice</a>
+<script>
+function norm(s){
+  return (s||'').trim().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fieldOk(f){
+  const sol = f.getAttribute('data-sol');
+  const val = f.value;
+  if (sol === '\u00f8') return val.trim() === '' || norm(val) === norm('\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
+  return norm(val) === norm(sol);
+}
+function checkGroup(btn){
+  const section = btn.closest('.ejercicio');
+  let total = 0, correct = 0;
+  section.querySelectorAll('.item').forEach(item => {
+    const fields = item.querySelectorAll('[data-sol]');
+    let itemOk = true;
+    fields.forEach(f => {
+      const ok = fieldOk(f);
+      f.classList.toggle('ok', ok);
+      f.classList.toggle('bad', !ok);
+      total++;
+      if (ok) { correct++; } else { itemOk = false; }
+    });
+    item.dataset.solved = itemOk ? '1' : '0';
+  });
+  const allok = correct === total;
+  const fb = section.querySelector('.group-feedback');
+  fb.textContent = allok ? ('\u2714 All correct! (' + correct + '/' + total + ')')
+                          : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
+  fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
+  fb.style.display = 'inline';
+}
+function revealGroup(btn){
+  const section = btn.closest('.ejercicio');
+  section.querySelectorAll('[data-sol]').forEach(f => {
+    const sol = f.getAttribute('data-sol');
+    if (f.tagName === 'SELECT') {
+      [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
+    f.classList.remove('bad'); f.classList.add('ok');
+  });
+}
+let currentPage = 0;
+function showPage(i){
+  const pages = document.querySelectorAll('.page');
+  if (!pages.length) return;
+  currentPage = Math.max(0, Math.min(i, pages.length - 1));
+  pages.forEach((p, idx) => { p.hidden = idx !== currentPage; });
+  const indicator = document.getElementById('page-indicator');
+  if (indicator) indicator.textContent = (currentPage + 1) + ' / ' + pages.length;
+  const prev = document.getElementById('btn-prev');
+  const next = document.getElementById('btn-next');
+  if (prev) prev.disabled = currentPage === 0;
+  if (next) next.disabled = currentPage === pages.length - 1;
+  window.scrollTo(0, 0);
+}
+document.addEventListener('DOMContentLoaded', () => showPage(0));
+</script>
+</body>
+</html>

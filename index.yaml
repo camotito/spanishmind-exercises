@@ -250,3 +250,13 @@
   ejercicios_permitidos: [T3, T5]
   tiempos_permitidos: ["presente de indicativo"]
   grafico: none
+
+- tema: subjuntivo-tiempo-segun-verbo-principal
+  titulo: "Quiero que vengas, quería que vinieras"
+  descripcion_gramatical: "Subjuntivo: presente o imperfecto según el verbo principal (deseo, petición y necesidad)"
+  unidad_libro: null
+  forma_verbal: "presente e imperfecto de subjuntivo"
+  depende_de: [imperativo-negativo-verbos-regulares]
+  ejercicios_permitidos: [T4, T5]
+  tiempos_permitidos: ["verbos reflexivos", "imperativo (regular)", "presente e imperfecto de subjuntivo"]
+  grafico: none
