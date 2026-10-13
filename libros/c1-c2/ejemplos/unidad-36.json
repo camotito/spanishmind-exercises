@@ -1,0 +1,248 @@
+{
+  "tema": "unidad-36",
+  "titulo": "Hace mucho que no como tacos.",
+  "descripcion_gramatical": "Presente de indicativo: duración",
+  "fuente": "libro",
+  "unidad_libro": 36,
+  "ejercicios": [
+    {
+      "subejercicio": "36.1",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *hace* y el presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "La última vez que fui a la ópera fue hace mucho. _____",
+          "solucion_correcta": [
+            "Hace mucho que no voy a la ópera"
+          ]
+        },
+        {
+          "texto_enunciado": "Se fue a vivir a Roma el año pasado. _____",
+          "solucion_correcta": [
+            "Hace un año que vive en Roma"
+          ]
+        },
+        {
+          "texto_enunciado": "Empecé a trabajar en esta agencia hace dos meses. _____",
+          "solucion_correcta": [
+            "Hace dos meses que trabajo en esta agencia"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que vi a Luis fue hace dos semanas. _____",
+          "solucion_correcta": [
+            "Hace dos semanas que no veo a Luis"
+          ]
+        },
+        {
+          "texto_enunciado": "Empecé a usar lentillas hace años. _____",
+          "solucion_correcta": [
+            "Hace años que uso lentillas"
+          ]
+        },
+        {
+          "texto_enunciado": "Gregorio empezó a estudiar grafología el año pasado. _____",
+          "solucion_correcta": [
+            "Hace un año que Gregorio estudia grafología"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que Iliana vino aquí fue hace tiempo. _____",
+          "solucion_correcta": [
+            "Hace tiempo que Iliana no viene aquí"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que vi a Nerea fue el mes pasado. _____",
+          "solucion_correcta": [
+            "Hace un mes que no veo a Nerea"
+          ]
+        },
+        {
+          "texto_enunciado": "El agua empezó a hervir hace cinco minutos. _____",
+          "solucion_correcta": [
+            "Hace cinco minutos que hierve el agua"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "36.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *desde* o *desde hace* y el presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "La última vez que hablé con Teresa fue hace seis meses. _____",
+          "solucion_correcta": [
+            "No hablo con Teresa desde hace seis meses"
+          ]
+        },
+        {
+          "texto_enunciado": "Empecé a dirigir la empresa el verano pasado. _____",
+          "solucion_correcta": [
+            "Dirijo la empresa desde el verano pasado"
+          ]
+        },
+        {
+          "texto_enunciado": "Empecé a padecer insomnio hace tres años. _____",
+          "solucion_correcta": [
+            "Padezco insomnio desde hace tres años"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que vi a Juan fue en su boda. _____",
+          "solucion_correcta": [
+            "No veo a Juan desde su boda"
+          ]
+        },
+        {
+          "texto_enunciado": "Emilio comenzó a salir con Laura en Navidad. _____",
+          "solucion_correcta": [
+            "Emilio sale con Laura desde Navidad"
+          ]
+        },
+        {
+          "texto_enunciado": "Amelia empezó a tocar el violín hace mucho tiempo. _____",
+          "solucion_correcta": [
+            "Amelia toca el violín desde hace mucho tiempo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "36.3",
+      "tipologia": "T10",
+      "enunciado": "Vuelva a escribir las frases con *desde que*.",
+      "items": [
+        {
+          "texto_enunciado": "Empezó a trabajar en un banco cuando acabó la carrera; sigue trabajando allí. _____",
+          "solucion_correcta": [
+            "Trabaja en un banco desde que acabó la carrera"
+          ]
+        },
+        {
+          "texto_enunciado": "Empecé a dormir mal cuando nació mi hijo; sigo durmiendo mal. _____",
+          "solucion_correcta": [
+            "Duermo mal desde que nació mi hijo"
+          ]
+        },
+        {
+          "texto_enunciado": "Marisa empezó a soñar con ser bailarina cuando era niña. Sigue soñando. _____",
+          "solucion_correcta": [
+            "Marisa sueña con ser bailarina desde que era niña"
+          ]
+        },
+        {
+          "texto_enunciado": "María empezó a escribir novelas cuando tenía 19 años; sigue escribiendo novelas. _____",
+          "solucion_correcta": [
+            "María escribe novelas desde que tenía 19 años"
+          ]
+        },
+        {
+          "texto_enunciado": "A Paco le empezó a doler la espalda cuando llegó a Ávila y sigue doliéndole. _____",
+          "solucion_correcta": [
+            "A Paco le duele la espalda desde que llegó a Ávila"
+          ]
+        },
+        {
+          "texto_enunciado": "Mario se hizo abogado cuando tenía 24 años y aún lo es. _____",
+          "solucion_correcta": [
+            "Mario es abogado desde que tenía 24 años"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "36.4",
+      "tipologia": "T12",
+      "enunciado": "Escriba preguntas para las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____? Hace cinco años que soy traductor.",
+          "solucion_correcta": [
+            "¿Cuánto tiempo hace que eres traductor?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? Conduzco desde que tenía 18 años.",
+          "solucion_correcta": [
+            "¿Desde cuándo conduces?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? Llevo gafas desde que era niña.",
+          "solucion_correcta": [
+            "¿Desde cuándo llevas gafas?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? Trabajo en Iberia desde que me casé.",
+          "solucion_correcta": [
+            "¿Desde cuándo trabajas en Iberia?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? Hace un mes que tengo perro.",
+          "solucion_correcta": [
+            "¿Cuánto tiempo hace que tienes perro?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____? Hace ya diez años que Juan es director.",
+          "solucion_correcta": [
+            "¿Cuánto tiempo hace que Juan es director?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "36.5",
+      "tipologia": "T12",
+      "enunciado": "Escriba las frases con las palabras dadas como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "El domingo / una semana en Taiwán / estar, nosotros _____",
+          "solucion_correcta": [
+            "El domingo hace una semana que estamos en Taiwán"
+          ]
+        },
+        {
+          "texto_enunciado": "En enero/ un año /trabajar en esta empresa, yo _____",
+          "solucion_correcta": [
+            "En enero hace un año que trabajo en esta empresa"
+          ]
+        },
+        {
+          "texto_enunciado": "El día 3 / 10 años / estar casados, nosotros _____",
+          "solucion_correcta": [
+            "El día 3 hace 10 años que estamos casados"
+          ]
+        },
+        {
+          "texto_enunciado": "El 5 de enero/ 2 años/ vivir juntos, Óscar y Ana _____",
+          "solucion_correcta": [
+            "El día 5 de enero hace dos años que Óscar y Ana viven juntos"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana / un mes / salir con Olga, yo _____",
+          "solucion_correcta": [
+            "Mañana hace un mes que salgo con Olga"
+          ]
+        },
+        {
+          "texto_enunciado": "El sábado/tres meses/estar en el hospital, mi abuelo _____",
+          "solucion_correcta": [
+            "El sábado hace tres meses que mi abuelo está en el hospital"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana / dos meses / no fumar, yo _____",
+          "solucion_correcta": [
+            "Mañana hace dos meses que no fumo"
+          ]
+        }
+      ]
+    }
+  ]
+}

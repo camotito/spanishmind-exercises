@@ -1,0 +1,230 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "1.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *el*, *la*, *los*, *las*. > APÉNDICE 1",
+      "items": [
+        {
+          "texto_enunciado": "_____ víctima se llamaba Pedro Martín.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dice que por la noche se le aparece _____ fantasma de su madre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ personaje principal es una mujer viuda.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ atleta que ha ganado es de Senegal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ modisto de la reina es francés.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ infantas son las hermanas de _____ príncipe.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ alcaldesa de mi pueblo es muy joven.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ ángeles son seres puros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raúl es _____ persona que más quiero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Isabel Coixet es _____ cineasta española más conocida.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "1.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con palabras del recuadro y *el*, *la*, *los*, *las* o *un*, *una*, *unos*, *unas* en los casos necesarios.",
+      "banco_palabras": [
+        "anilla",
+        "barca",
+        "química",
+        "rama",
+        "barco",
+        "cuchilla",
+        "huerta",
+        "huerto",
+        "jarro",
+        "partido",
+        "partida",
+        "químico",
+        "anillo",
+        "ramo",
+        "cuchillo",
+        "jarra"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Pásame (el/la) _____ de agua.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ese árbol tiene (unos/unas) _____ rotas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Qué estudia María? – _____ . Quiere trabajar en un laboratorio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo (un/una) _____ en mi chalé. He plantado tomates y judías verdes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han regalado (un/una) _____ de flores.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Necesito (un/una) _____ para afeitarme.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este verano vamos a hacer un crucero en (un/una) _____ griego.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quieres jugar (un/una) _____ de ajedrez?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace un buen día. Podemos alquilar (un/una) _____ y remar un poco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¡Es (un/una) _____ de diamantes! –Sí, me lo ha regalado Alberto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Qué hace el padre de Alfonso? –Es _____ . Trabaja en un laboratorio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Dónde está (el/la) _____ del pan? Este no corta.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "1.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Aquí hace falta (un/una) coma.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién es (el/la) batería del grupo?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién toca (el/la) batería?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos costó trabajo subir (la/el) pendiente en bici.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(La/El) disco de nuestra calle hace demasiado ruido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes de morir el enfermo tuvo (un/una) coma muy breve.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Al general le llegó (el/la) orden demasiado tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He viajado por (los/las) capitales europeas más importantes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me gustan (los/las) editoriales de ese periódico.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jesús quiere ingresar en (el/la) policía.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "1.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con las palabras del recuadro y *el* o *la*.",
+      "banco_palabras": [
+        "batería (2)",
+        "capital (2)",
+        "coma",
+        "cura",
+        "editorial",
+        "guía",
+        "orden"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Santiago es _____ de Chile.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alberto toca _____ en un grupo pop.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Juan es _____ del grupo Ojos Negros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ va a sacar una nueva colección de novela.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ es hermano de Ana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pobre chico. Aún no ha salido de _____ .",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta lista está mal. _____ es incorrecto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ de esta empresa es insuficiente. Hace falta más dinero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Déjame _____ de Praga.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 1,
+  "titulo_libro": "el capital / la capital -- Masculino / femenino",
+  "scan": "p-010.jpg"
+}

@@ -1,0 +1,215 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "86.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Se puso bien en cuanto la (operaron/operaran).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ven a verme cuando (quieres/quieras).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre que (fumo/fume), toso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En el momento en que la (vi/vea), supe que era ella.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Son unos maleducados. Apenas nos (ven/vean), se van por otro sitio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando (ves/veas) a Marta, dile que quiero hablar con ella.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre que (salgan/salen) juntos, van cogidos de la mano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En cuanto (sé/sepa) lo de Carlos, te llamo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (yo, ver) _____ la película, te diré si me ha gustado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eres un gafe. Siempre que (tú, cantar) _____, llueve.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Apenas (yo, llegar) _____ a casa, te llamo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En cuanto (vosotros, oír) _____ la alarma, dejáis todo y salís del edificio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando (tú, querer) _____ que te ayude, me lo dices.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este perro siempre ladra cuando (oír) _____ el timbre de la puerta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Debes cambiar los grifos tan pronto como (tú, poder) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Saldremos para Granada apenas (amanecer) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con *cuando* + nombre.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Cuando operaron a su padre</u>. _____, estuvo muy nerviosa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Cuando murió su gata</u>. _____, Mercedes lloró mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Cuando inauguraron el teatro</u>. _____, ya había goteras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Cuando Martín tuvo el accidente</u>. _____ Adela adelgazó mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Cuando se incendiaron los bosques de Australia</u>. _____ estábamos en Sidney.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.4",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos frases con la expresión temporal dada. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No me jubilaré. Tengo trabajo. (mientras) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Salí de casa. Me tropecé con José. (nada más) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No hables. No comas. (mientras) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Oí la cerradura. Apagué la televisión. (al) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Doblé la esquina. Vi la catedral. (al) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pilar y Luis no pueden ir de vacaciones. Están en paro. (mientras) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.5",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "Se quemó mientras cocinaba. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo vimos cuando paseaba por el parque. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Después de sentarse, sacó el móvil y llamó a Teresa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "José siempre cantaba cuando se afeitaba. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tuvieron que jugar el partido mientras llovía. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.6",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras dadas y el verbo en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "El trabajo es fácil. Tienes que cortar las entradas (según, ellos, entrar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los hijos dan menos problemas (conforme, crecer) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes, Luisito, (a medida que, tú, crecer) _____ te irás haciendo más fuerte.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tiene que atender a los invitados (a medida, ellos, llegar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Carmela se cansaba (según, subir) _____ los escalones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los chequeos de salud son convenientes (a medida que, hacerse) _____ uno mayor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Andrea la vida se le ponía difícil (según, pasar) _____ los años.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya decidiremos si nos compramos un piso (según, ahorrar) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 86,
+  "titulo_libro": "cuando llueve, en cuanto oye el timbre -- Oraciones temporales (2)",
+  "scan": "p-179.jpg"
+}

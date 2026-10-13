@@ -1,0 +1,187 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "32.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la forma correcta de *ser* o *estar*.",
+      "items": [
+        {
+          "texto_enunciado": "Ana _____ más trabajadora antes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las nuevas sillas _____ de metal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy no viene Rodrigo. _____ enfermo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Quiénes _____ vosotros? - _____ los nuevos alumnos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te he lavado la camisa. _____ muy sucia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta maleta _____ llena. No me caben más cosas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Juana _____ de un pequeño pueblo de Córdoba.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nacho y yo _____ vecinos cuando vivíamos en Bremen.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la forma correcta de *ser* o *estar*.",
+      "items": [
+        {
+          "texto_enunciado": "¡Qué viejo _____ Rafa! Con lo guapo que _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo siento pero no puedo salir esta noche con vosotros. Recordad que _____ casado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ sorprendido por tu actitud. No me lo puedo creer.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rocío _____ muy torpe para sus años.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ muy torpe, Raúl. Siempre lo tiras todo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "- _____ fuerte, Mario. -Es que voy a un gimnasio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¡Qué guapa _____ Silvia! Tiene unos ojos preciosos. -Sí, y qué guapa _____ con ese vestido rojo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No compré el pescado porque no _____ muy fresco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi madre _____ azafata de Iberia cuando _____ soltera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer _____ genial, Freddy. ¡Cómo jugaste!",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la forma correcta de *ser* o *estar*.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Cuándo _____ la conferencia? -La semana pasada. _____ en el Centro de Juventud -¿Dónde _____? -Frente a la Biblioteca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya he encontrado las gafas. _____ en un cajón de la cocina.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Juan José _____ ayer en un funeral y no pudo venir a vernos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La presentación de mi libro _____ esta noche en la librería Cervantes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy _____ el 25 aniversario de la boda de mis padres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos queda mucho para el verano. Solo _____ a últimos de noviembre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El circo _____ en Madrid el verano próximo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la expresión de *estar* adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Dónde está Joaquín? - _____ vacaciones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo siento, no puedo acompañaros. _____ gripe.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy preocupado. _____ llamar a la policía.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El otro día me encontré con Pedro. _____ camarero en una discoteca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Cómo tiene la camisa! _____ echarla a la lavadora.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué no vas a la oficina? -Es que _____ baja.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Date prisa! _____ cerrar las tiendas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La paella _____ comerla ya mismo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me cuentes nada, Pablo. Hoy no _____ historias raras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No puedo salir esta noche. _____ guardia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me has enfadado. _____ irme y dejarte aquí solo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién _____ mi propuesta?",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 32,
+  "titulo_libro": "Soy soltera. / Estoy soltera. -- Ser y estar",
+  "scan": "p-072.jpg"
+}

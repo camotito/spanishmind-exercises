@@ -1,0 +1,291 @@
+{
+  "tema": "unidad-62",
+  "titulo": "¡Qué más quisiera!",
+  "descripcion_gramatical": "Pretérito imperfecto de subjuntivo (1)",
+  "fuente": "libro",
+  "unidad_libro": 62,
+  "ejercicios": [
+    {
+      "subejercicio": "62.1",
+      "tipologia": "T11",
+      "enunciado": "Exprese los siguientes deseos con *ojalá* y *así*.",
+      "items": [
+        {
+          "texto_enunciado": "Me gustaría ser más joven. _____",
+          "solucion_correcta": [
+            "¡Ojalá fuera/fuese más joven!"
+          ]
+        },
+        {
+          "texto_enunciado": "No lo sé, pero espero que anoche no helara. _____",
+          "solucion_correcta": [
+            "¡Ojalá anoche no helara/helase!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría que te atragantaras con el pastel. _____",
+          "solucion_correcta": [
+            "¡Así te atragantaras/atragantases con el pastel!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría que te arruinaras, por egoísta. _____",
+          "solucion_correcta": [
+            "¡Así te arruinaras/arruinases por egoísta!"
+          ]
+        },
+        {
+          "texto_enunciado": "Quisiera que perdieras hasta la camisa en el casino. _____",
+          "solucion_correcta": [
+            "¡Así perdieras/perdieses hasta la camisa en el casino!"
+          ]
+        },
+        {
+          "texto_enunciado": "Sé que es difícil, pero me encantaría ver a Inés en Navidad. _____",
+          "solucion_correcta": [
+            "¡Ojalá viera/viese a Inés en Navidad!"
+          ]
+        },
+        {
+          "texto_enunciado": "Sueño con ser director de cine. _____",
+          "solucion_correcta": [
+            "¡Ojalá fuera/fuese director de cine!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me ilusionaría viajar a Marte. _____",
+          "solucion_correcta": [
+            "¡Ojalá viajara/viajase a Marte!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.2",
+      "tipologia": "T11",
+      "enunciado": "Exprese los siguientes deseos con *¡quién!*.",
+      "items": [
+        {
+          "texto_enunciado": "Le gustaría saber hablar muchos idiomas. _____",
+          "solucion_correcta": [
+            "¡Quién supiera/supiese hablar muchos idiomas!"
+          ]
+        },
+        {
+          "texto_enunciado": "Le gustaría poder viajar al espacio. _____",
+          "solucion_correcta": [
+            "¡Quién pudiera/pudiese viajar al espacio!"
+          ]
+        },
+        {
+          "texto_enunciado": "Le gustaría tener un Picasso. _____",
+          "solucion_correcta": [
+            "¡Quién tuviera/tuviese un Picasso!"
+          ]
+        },
+        {
+          "texto_enunciado": "Es bajo, pero le gustaría ser alto. _____",
+          "solucion_correcta": [
+            "¡Quién fuera/fuese alto!"
+          ]
+        },
+        {
+          "texto_enunciado": "Le gustaría tocar el piano como yo. _____",
+          "solucion_correcta": [
+            "¡Quién tocara/tocase el piano como tú!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.3",
+      "tipologia": "T12",
+      "enunciado": "Escriba las reacciones con *ni que*. Utilice las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-Rocío se pasa el fin de semana durmiendo. -(trabajar mucho) _____",
+          "solucion_correcta": [
+            "Ni que trabajara/trabajase mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ana nunca va en metro. -(tener miedo a los sótanos) _____",
+          "solucion_correcta": [
+            "Ni que tuviera/tuviese miedo a los sótanos"
+          ]
+        },
+        {
+          "texto_enunciado": "-Nerea salía de viaje con cuatro maletas. -(ir a dar la vuelta al mundo) _____",
+          "solucion_correcta": [
+            "Ni que fuera/fuese a dar la vuelta al mundo"
+          ]
+        },
+        {
+          "texto_enunciado": "-Andrés corre dos horas todos los días. -(ir a las Olimpiadas) _____",
+          "solucion_correcta": [
+            "Ni que fuera/fuese a las Olimpiadas"
+          ]
+        },
+        {
+          "texto_enunciado": "-Jaime come mucho arroz. -(ser chino) _____",
+          "solucion_correcta": [
+            "Ni que fuera/fuese chino"
+          ]
+        },
+        {
+          "texto_enunciado": "-Mis hijos casi nunca comen carne. -(ser vegetarianos) _____",
+          "solucion_correcta": [
+            "Ni que fueran/fuesen vegetarianos"
+          ]
+        },
+        {
+          "texto_enunciado": "-Hoy Eva se ha puesto dos jerséis. -(nosotros, estar en el Polo) _____",
+          "solucion_correcta": [
+            "Ni que estuviéramos/estuviésemos en el Polo"
+          ]
+        },
+        {
+          "texto_enunciado": "-Enrique cree que no le caes bien. -(leer el pensamiento) _____",
+          "solucion_correcta": [
+            "Ni que leyera/leyese el pensamiento"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.4",
+      "tipologia": "T12",
+      "enunciado": "Reaccione con *¡como si!* Utilice las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-Eres una antipática. -(tú, muy simpático) _____",
+          "solucion_correcta": [
+            "¡Como si tú fueras/fueses muy simpático!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Pablo dice que no tienes paciencia. -(él, mucha) _____",
+          "solucion_correcta": [
+            "¡Como si él tuviera/tuviese mucha!"
+          ]
+        },
+        {
+          "texto_enunciado": "-No sabes nada de política. -(tú, mucho) _____",
+          "solucion_correcta": [
+            "¡Como si tú supieras/supieses mucho!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Vestís muy mal. -(vosotras, muy bien) _____",
+          "solucion_correcta": [
+            "¡Como si vosotras vistierais/vistieseis muy bien!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Sonia dice que conduces muy mal. -(ella, muy bien) _____",
+          "solucion_correcta": [
+            "¡Como si ella condujera/condujese muy bien!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.5",
+      "tipologia": "T12",
+      "enunciado": "Exprese los sentimientos indicados sobre las situaciones siguientes con exclamaciones con *¡qué!*",
+      "items": [
+        {
+          "texto_enunciado": "-No acerté la quiniela por muy poco. -(una pena) _____",
+          "solucion_correcta": [
+            "¡Qué pena que no acertaras/acertases la quiniela por muy poco!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Miguel no vino a dormir anoche. -(extraño) _____",
+          "solucion_correcta": [
+            "¡Qué extraño que Miguel no viniera/viniese a dormir anoche!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Nos gustó mucho Japón. -(una alegría) _____",
+          "solucion_correcta": [
+            "¡Qué alegría que os gustara/gustase mucho Japón!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Arturo no saludó a sus tíos. -(una vergüenza) _____",
+          "solucion_correcta": [
+            "¡Qué vergüenza que Arturo no saludara/saludase a sus tíos!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Se les extravió el perro. -(una desgracia) _____",
+          "solucion_correcta": [
+            "¡Qué desgracia que se les extraviara/extraviase el perro!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ronaldo falló el penalti. -(raro) _____",
+          "solucion_correcta": [
+            "¡Qué raro que Ronaldo fallara/fallase el penalti!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Luis no quiso beber nada. -(extraño) _____",
+          "solucion_correcta": [
+            "¡Qué extraño que Luis no quisiera/quisiese beber nada!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Nos encontramos a Lola en el Rastro. -(casualidad) _____",
+          "solucion_correcta": [
+            "¡Qué casualidad que os encontrarais/encontraseis a Lola en el Rastro!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.6",
+      "tipologia": "T8",
+      "enunciado": "Complete con la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "-Creo que Sara tuvo un accidente ayer. -¡Ojalá no le _____ nada!",
+          "solucion_correcta": [
+            "pasara/pasase"
+          ]
+        },
+        {
+          "texto_enunciado": "(nosotros) _____ hablar un momento con usted.",
+          "solucion_correcta": [
+            "Quisiéramos"
+          ]
+        },
+        {
+          "texto_enunciado": "-Susana dice que este verano va a ir a Brasil. -¡Qué más _____ ella!",
+          "solucion_correcta": [
+            "quisiera"
+          ]
+        },
+        {
+          "texto_enunciado": "-Juan habló con el director el lunes. -¡Ojalá le _____ el contrato!",
+          "solucion_correcta": [
+            "renovaran/renovasen"
+          ]
+        },
+        {
+          "texto_enunciado": "-Paul cruzó Cuba en globo en 2010. -¡Ojalá _____ yo viajar en globo algún día!",
+          "solucion_correcta": [
+            "pudiera/pudiese"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "pasar",
+        "poder",
+        "querer (2)",
+        "renovar"
+      ]
+    }
+  ]
+}

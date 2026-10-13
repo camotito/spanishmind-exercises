@@ -1,0 +1,264 @@
+{
+  "tema": "unidad-60",
+  "titulo": "Es una lástima que dejes de trabajar. Puede que llegue tarde.",
+  "descripcion_gramatical": "Presente de subjuntivo (4)",
+  "fuente": "libro",
+  "unidad_libro": 60,
+  "ejercicios": [
+    {
+      "subejercicio": "60.1",
+      "tipologia": "T10",
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Miguel es muy vago. Es una pena. _____",
+          "solucion_correcta": [
+            "Es una pena que Miguel sea tan vago"
+          ]
+        },
+        {
+          "texto_enunciado": "Eva solo invita a una tía a su boda. Resulta de mal gusto. _____",
+          "solucion_correcta": [
+            "Resulta de mal gusto que Eva solo invite a una tía a su boda"
+          ]
+        },
+        {
+          "texto_enunciado": "Quieren congelar las pensiones. Me parece una injusticia. _____",
+          "solucion_correcta": [
+            "Me parece una injusticia que quieran congelar las pensiones"
+          ]
+        },
+        {
+          "texto_enunciado": "Marcelo no ayuda nunca a sus padres. Es una vergüenza. _____",
+          "solucion_correcta": [
+            "Es una vergüenza que Marcelo no ayude nunca a sus padres"
+          ]
+        },
+        {
+          "texto_enunciado": "Van a prohibir las corridas de toros. Me parece un error. _____",
+          "solucion_correcta": [
+            "Me parece un error que prohíban las corridas de toros / Me parece un error que vayan a prohibir las corridas de toros"
+          ]
+        },
+        {
+          "texto_enunciado": "El gobierno baja los impuestos. Lo considero un acierto. _____",
+          "solucion_correcta": [
+            "Considero un acierto que el gobierno baje los impuestos"
+          ]
+        },
+        {
+          "texto_enunciado": "No hay dinero para mejorar la educación. Es una pena. _____",
+          "solucion_correcta": [
+            "Es una pena que no haya dinero para mejorar la educación"
+          ]
+        },
+        {
+          "texto_enunciado": "Sirven el gazpacho en vasos. Me parece de mal gusto. _____",
+          "solucion_correcta": [
+            "Me parece de mal gusto que sirvan el gazpacho en vasos"
+          ]
+        },
+        {
+          "texto_enunciado": "Jessica regresa a Perú. Es una lástima. _____",
+          "solucion_correcta": [
+            "Es una lástima que Jessica regrese a Perú"
+          ]
+        },
+        {
+          "texto_enunciado": "Muchos niños no van a la escuela. Es una vergüenza. _____",
+          "solucion_correcta": [
+            "Es una vergüenza que muchos niños no vayan a la escuela"
+          ]
+        },
+        {
+          "texto_enunciado": "María no quiere coger el trabajo que le ofrecen. Es un error. _____",
+          "solucion_correcta": [
+            "Es un error que María no coja / quiera coger el trabajo que le ofrecen"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay gente sin trabajo. Lo considero un escándalo. _____",
+          "solucion_correcta": [
+            "Es un escándalo que haya gente sin trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "Mario quiere estudiar Derecho. Me parece un acierto. _____",
+          "solucion_correcta": [
+            "Me parece un acierto que Mario quiera estudiar Derecho"
+          ]
+        },
+        {
+          "texto_enunciado": "Trabajamos los sábados. Me parece una vergüenza. _____",
+          "solucion_correcta": [
+            "Me parece una vergüenza que trabajemos los sábados"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "60.2",
+      "tipologia": "T10",
+      "enunciado": "Una la frases. Haga los cambios necesariso.",
+      "items": [
+        {
+          "texto_enunciado": "Raúl tarda una hora en venir aquí; vive muy cerca. Es imposible. _____",
+          "solucion_correcta": [
+            "Es imposible que Raúl tarde una hora en venir aquí"
+          ]
+        },
+        {
+          "texto_enunciado": "Quieres agradar al director. Es inútil. _____",
+          "solucion_correcta": [
+            "Es inútil que quieras agradar al director"
+          ]
+        },
+        {
+          "texto_enunciado": "Te resistes. Es peor. _____",
+          "solucion_correcta": [
+            "Es peor que te resistas"
+          ]
+        },
+        {
+          "texto_enunciado": "Celia no sabe conducir. Me parece lamentable. _____",
+          "solucion_correcta": [
+            "Me parece lamentable que Celia no sepa conducir"
+          ]
+        },
+        {
+          "texto_enunciado": "Carlota come mucha fruta. Me parece lógico. _____",
+          "solucion_correcta": [
+            "Me parece lógico que Carlota coma mucha fruta"
+          ]
+        },
+        {
+          "texto_enunciado": "No se oye nada en la calle. Es raro. _____",
+          "solucion_correcta": [
+            "Es raro que no se oiga nada en la calle"
+          ]
+        },
+        {
+          "texto_enunciado": "A estas horas mis padres están acostados. Es normal. _____",
+          "solucion_correcta": [
+            "Es normal que a estas horas mis padres estén acostados"
+          ]
+        },
+        {
+          "texto_enunciado": "Las tiendas abren los domingos. Me parece fatal. _____",
+          "solucion_correcta": [
+            "Me parece fatal que las tiendas abran los domingos"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay muchos accidentes por la niebla. Parece lógico. _____",
+          "solucion_correcta": [
+            "Parece lógico que haya muchos accidentes por la niebla"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay farmacias abiertas 24 horas al día. Me parece fenomenal. _____",
+          "solucion_correcta": [
+            "Me parece fenomenal que haya farmacias abiertas 24 horas al día"
+          ]
+        },
+        {
+          "texto_enunciado": "Arturo se va solo de vacaciones. No me parece bien. _____",
+          "solucion_correcta": [
+            "No me parece bien que Arturo se vaya solo de vacaciones"
+          ]
+        },
+        {
+          "texto_enunciado": "María no tiene parte en el negocio de sus padres. Lo considero injusto. _____",
+          "solucion_correcta": [
+            "Considero injusto que María no tenga parte en el negocio de sus padres"
+          ]
+        },
+        {
+          "texto_enunciado": "No nos dejan entrar al Club de Campo. Resulta vergonzoso. _____",
+          "solucion_correcta": [
+            "Resulta vergonzoso que no nos dejen entrar al Club de Campo"
+          ]
+        },
+        {
+          "texto_enunciado": "El marido de Mercedes no habla español. Me resulta incomprensible. _____",
+          "solucion_correcta": [
+            "Me resulta incomprensible que el marido de Mercedes no hable español"
+          ]
+        },
+        {
+          "texto_enunciado": "Venid pronto. Es mejor. _____",
+          "solucion_correcta": [
+            "Es mejor que vengáis pronto"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "60.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas comenzando por la palabra indicada.",
+      "items": [
+        {
+          "texto_enunciado": "<u>A lo mejor está enfermo.</u> Puede _____",
+          "solucion_correcta": [
+            "Puede que esté enfermo"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucha nieve. <u>A lo mejor cancelan el vuelo.</u> Es posible _____",
+          "solucion_correcta": [
+            "Es posible que cancelen el vuelo"
+          ]
+        },
+        {
+          "texto_enunciado": "Rita y Jorge han regañado. <u>A lo mejor no se casan ya.</u> Es probable _____",
+          "solucion_correcta": [
+            "Es probable que no se casen ya"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace mucho frío. <u>A lo mejor se hielan las plantas.</u> Puede _____",
+          "solucion_correcta": [
+            "Puede que se hielen las plantas"
+          ]
+        },
+        {
+          "texto_enunciado": "Intentas convencerme. <u>A lo mejor lo consigues.</u> Es probable _____",
+          "solucion_correcta": [
+            "Es probable que lo consigas"
+          ]
+        },
+        {
+          "texto_enunciado": "Pregunta en esa tienda. <u>A lo mejor venden pan.</u> Puede _____",
+          "solucion_correcta": [
+            "Puede que vendan pan"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>A lo mejor gana el Liverpool.</u> Es dudoso. _____",
+          "solucion_correcta": [
+            "Es dudoso que gane el Liverpool"
+          ]
+        },
+        {
+          "texto_enunciado": "Intentas engañarme, pero <u>no creo que puedas</u>. Es imposible _____",
+          "solucion_correcta": [
+            "Es imposible que puedas (engañarme)"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>A lo mejor no actúa Plácido Domingo.</u> Es dudoso _____",
+          "solucion_correcta": [
+            "Es dudoso que actúe Plácido Domingo"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay crisis. <u>A lo mejor me bajan el sueldo.</u> Puede _____",
+          "solucion_correcta": [
+            "Puede que me bajen el sueldo"
+          ]
+        }
+      ]
+    }
+  ]
+}

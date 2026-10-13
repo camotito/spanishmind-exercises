@@ -1,0 +1,272 @@
+{
+  "tema": "unidad-101",
+  "titulo": "con lo lista que es, digas lo que digas",
+  "descripcion_gramatical": "Oraciones concesivas (3)",
+  "fuente": "libro",
+  "unidad_libro": 101,
+  "ejercicios": [
+    {
+      "subejercicio": "101.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con *con*, *con el*, *la*, *los*, *las*, *con la de*, *con lo*, *con lo que*. En algunos casos hay más de una posibilidad.",
+      "items": [
+        {
+          "texto_enunciado": "_____ habla y no dice ni una verdad.",
+          "solucion_correcta": [
+            "Con lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ tiempo libre que tiene y lo mal que lo emplea.",
+          "solucion_correcta": [
+            "Con el"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ desagradable que es y la de amigos que tiene.",
+          "solucion_correcta": [
+            "Con lo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ tarde que es y no encontramos un taxi.",
+          "solucion_correcta": [
+            "Con lo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ llevar las cortinas a la tintorería quedan como nuevas.",
+          "solucion_correcta": [
+            "Con"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ cosas que dice, no me extraña que lo miren mal.",
+          "solucion_correcta": [
+            "Con las"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ sabe Domingo, debería ya estar en la universidad.",
+          "solucion_correcta": [
+            "Con lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ tenemos es suficiente. No necesitamos más.",
+          "solucion_correcta": [
+            "Con lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ listo que es y la de tonterías que dice.",
+          "solucion_correcta": [
+            "Con lo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ buenos deseos solo no se consigue mucho.",
+          "solucion_correcta": [
+            "Con"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "101.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con *con el*, *la*, *los*, *las*, *con la de*, *con lo*, *con lo que* como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "Carlos viaja mucho. Pero no habla inglés. _____",
+          "solucion_correcta": [
+            "Con lo que viaja Carlos y no habla inglés"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace mucho calor. Quiere salir a dar una vuelta. _____",
+          "solucion_correcta": [
+            "Con el calor que hace y quiere salir a dar una vuelta"
+          ]
+        },
+        {
+          "texto_enunciado": "Hemos venido muy rápido. Hemos llegado tarde. _____",
+          "solucion_correcta": [
+            "Con lo rápido que hemos venido y hemos llegado tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "Había mucha gente. Nos tuvimos que encontrar con Antonio. _____",
+          "solucion_correcta": [
+            "Con la de gente que había y nos tuvimos que encontrar con Antonio"
+          ]
+        },
+        {
+          "texto_enunciado": "Eva gana mucho. Vive en un piso horrible. _____",
+          "solucion_correcta": [
+            "Con lo que gana Eva y vive en un piso horrible"
+          ]
+        },
+        {
+          "texto_enunciado": "La sopa está agria. No sé cómo te la tomas. _____",
+          "solucion_correcta": [
+            "Con lo agria que está la sopa y te la tomas"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes muchas camisas. Pero te has puesto una vieja. _____",
+          "solucion_correcta": [
+            "Con la de camisas que tienes y te has puesto una vieja"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo mucha hambre. Pero faltan dos horas para la comida. _____",
+          "solucion_correcta": [
+            "Con el hambre que tengo y faltan dos horas para la comida"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "101.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas como en los ejemplos.",
+      "items": [
+        {
+          "texto_enunciado": "<u>A pesar de lo que escribas</u>. _____, no te lo van a publicar.",
+          "solucion_correcta": [
+            "Escribas lo que escribas"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>A pesar de que no nos ayude</u>. _____, pienso abrir el negocio.",
+          "solucion_correcta": [
+            "Nos ayude o no"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>A pesar de quien lo diga</u>. _____, el clima no ha cambiado.",
+          "solucion_correcta": [
+            "Lo diga quien lo diga"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>A pesar de cuando vengáis</u>. _____, aquí estaremos nosotros.",
+          "solucion_correcta": [
+            "Vengáis cuando vengáis"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>A pesar de lo que hagas</u>. _____, la gente te va a criticar.",
+          "solucion_correcta": [
+            "Hagas lo que hagas"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>A pesar de que no lo digas</u>. _____, sé que te gusta Raquel.",
+          "solucion_correcta": [
+            "Lo digas o no (lo digas)"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>A pesar de que no tenga dinero</u>. _____, está siempre de juerga.",
+          "solucion_correcta": [
+            "Tenga o no tenga dinero"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>A pesar de que no lo creas</u>. _____, ya tengo 60 años.",
+          "solucion_correcta": [
+            "Lo creas o no (lo creas)"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "101.4",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir lo subrayado con *y todo*.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Estaba cansada, pero</u> se levantó a las siete. _____",
+          "solucion_correcta": [
+            "Cansada y todo, se levantó a las siete"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo <u>estaba hambriento, pero</u> no me atreví a comer nada. _____",
+          "solucion_correcta": [
+            "Hambriento y todo, no me atreví a comer nada"
+          ]
+        },
+        {
+          "texto_enunciado": "Enrique <u>estaba con fiebre, pero</u> se fue a la universidad. _____",
+          "solucion_correcta": [
+            "Con fiebre y todo, (Enrique) se fue a la universidad"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Había niebla</u>, conseguimos regresar a casa. _____",
+          "solucion_correcta": [
+            "Con niebla y todo, conseguimos regresar a casa"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Había mucho ruido en la calle, pero</u> pudimos dormir bien. _____",
+          "solucion_correcta": [
+            "Con ruido y todo en la calle, pudimos dormir bien"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Estaba dormida, pero</u> oyó llegar a sus hijas. _____",
+          "solucion_correcta": [
+            "Dormida y todo, oyó llegar a sus hijas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "101.5",
+      "tipologia": "T10",
+      "enunciado": "Una las frases comenzando con un imperativo.",
+      "items": [
+        {
+          "texto_enunciado": "Puedes hacer lo que quieras. Yo no me voy a mover de aquí. _____",
+          "solucion_correcta": [
+            "Haz lo que quieras, yo no me voy a mover de aquí"
+          ]
+        },
+        {
+          "texto_enunciado": "Puedes trabajar. Te va a dar igual. _____",
+          "solucion_correcta": [
+            "Trabaja, que te va a dar igual"
+          ]
+        },
+        {
+          "texto_enunciado": "Podéis decir lo que queráis. No os va a creer nadie. _____",
+          "solucion_correcta": [
+            "Decid lo que queráis, que no os va a creer nadie"
+          ]
+        },
+        {
+          "texto_enunciado": "Puedes esconderte donde quieras. Te van a encontrar. _____",
+          "solucion_correcta": [
+            "Escóndete donde quieras, que te van a encontrar"
+          ]
+        },
+        {
+          "texto_enunciado": "Puedes protestar. No te van a hacer caso. _____",
+          "solucion_correcta": [
+            "Protesta, que no te van a hacer caso"
+          ]
+        },
+        {
+          "texto_enunciado": "Puedes gritar. No me vas a asustar. _____",
+          "solucion_correcta": [
+            "Grita, que no me vas a asustar"
+          ]
+        }
+      ]
+    }
+  ]
+}

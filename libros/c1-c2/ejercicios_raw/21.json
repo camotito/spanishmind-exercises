@@ -1,0 +1,211 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "21.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *se*.",
+      "items": [
+        {
+          "texto_enunciado": "Acusaron a los agentes de traición. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dieron un gran aplauso a la orquesta. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Allí respetaban mucho a los ancianos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Auxiliaron a los heridos inmediatamente. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vieron a los jugadores bajar del autobús. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Criticaron mucho al entrenador. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Recibieron a los socios en el gimnasio del club. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alojaron a los turistas en un buen hotel. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "21.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *se*.",
+      "items": [
+        {
+          "texto_enunciado": "Es fácil engañarme. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es fácil convencer a algunas personas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es fácil asustar a los ratones. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es fácil divertir a los turistas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es fácil impresionar a los niños. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es fácil irritar a mi jefe. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es fácil animar a Julio a salir. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "21.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con *se*.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando era joven, <u>la gente llevaba pantalones campana</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>La gente compra los billetes en la taquilla</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No está permitido fumar en la oficina</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En la orquesta municipal <u>necesitan músicos</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En España <u>la gente come poca pasta</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>La gente vende pocos pisos ahora</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes, <u>la gente no pagaba impuestos</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ahora, <u>la gente puede ver muchas cadenas de televisión</u>. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "21.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las frases con *se* y las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Se va a caer el cuadro. (no sujetar, bien) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuelga aquí la ropa, si no (no secar, bien) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pon los vasos en la alacena, así (no ensuciar) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si esto sigue así, la empresa (arruinar) _____ muy pronto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pon la camisa en una percha, así (no arrugar) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Engrasa un poco la cerradura, así (no oxidar) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cierra bien la ventana, así el tráfico (no oír) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta puerta (abrir) _____ muy mal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No podemos seguir. El coche (averiar) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No hay nada de agua en esta zona. El río (secar) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "21.5",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las frases con *se* con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo hambre. (abrir, la boca) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me da mucha pena ver mendigar a niños. (partir, el corazón) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Con la televisión, (al abuelo, cerrar, los ojos) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando oímos la música, (hacer, un nudo en la garganta) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando conduce Almudena. (poner, el pelo de punta) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando estoy de vacaciones, (alegrar, el ánimo) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Al ver toda esa comida, no pude comer. (quitar, el apetito) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando viene Carlos a comer, (a Eva, iluminar, el rostro) _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 21,
+  "titulo_libro": "Se acusó a los detenidos. Se necesitan extras. -- Otras construcciones con se",
+  "scan": "p-050.jpg"
+}

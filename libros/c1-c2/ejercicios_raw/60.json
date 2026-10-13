@@ -1,0 +1,187 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "60.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Miguel es muy vago. Es una pena. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eva solo invita a una tía a su boda. Resulta de mal gusto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quieren congelar las pensiones. Me parece una injusticia. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Marcelo no ayuda nunca a sus padres. Es una vergüenza. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Van a prohibir las corridas de toros. Me parece un error. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El gobierno baja los impuestos. Lo considero un acierto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No hay dinero para mejorar la educación. Es una pena. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sirven el gazpacho en vasos. Me parece de mal gusto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jessica regresa a Perú. Es una lástima. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Muchos niños no van a la escuela. Es una vergüenza. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "María no quiere coger el trabajo que le ofrecen. Es un error. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay gente sin trabajo. Lo considero un escándalo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mario quiere estudiar Derecho. Me parece un acierto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Trabajamos los sábados. Me parece una vergüenza. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "60.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una la frases. Haga los cambios necesariso.",
+      "items": [
+        {
+          "texto_enunciado": "Raúl tarda una hora en venir aquí; vive muy cerca. Es imposible. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quieres agradar al director. Es inútil. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te resistes. Es peor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Celia no sabe conducir. Me parece lamentable. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Carlota come mucha fruta. Me parece lógico. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No se oye nada en la calle. Es raro. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A estas horas mis padres están acostados. Es normal. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las tiendas abren los domingos. Me parece fatal. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay muchos accidentes por la niebla. Parece lógico. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay farmacias abiertas 24 horas al día. Me parece fenomenal. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Arturo se va solo de vacaciones. No me parece bien. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "María no tiene parte en el negocio de sus padres. Lo considero injusto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No nos dejan entrar al Club de Campo. Resulta vergonzoso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El marido de Mercedes no habla español. Me resulta incomprensible. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Venid pronto. Es mejor. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "60.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas comenzando por la palabra indicada.",
+      "items": [
+        {
+          "texto_enunciado": "<u>A lo mejor está enfermo.</u> Puede _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay mucha nieve. <u>A lo mejor cancelan el vuelo.</u> Es posible _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rita y Jorge han regañado. <u>A lo mejor no se casan ya.</u> Es probable _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace mucho frío. <u>A lo mejor se hielan las plantas.</u> Puede _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Intentas convencerme. <u>A lo mejor lo consigues.</u> Es probable _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pregunta en esa tienda. <u>A lo mejor venden pan.</u> Puede _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>A lo mejor gana el Liverpool.</u> Es dudoso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Intentas engañarme, pero <u>no creo que puedas</u>. Es imposible _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>A lo mejor no actúa Plácido Domingo.</u> Es dudoso _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay crisis. <u>A lo mejor me bajan el sueldo.</u> Puede _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 60,
+  "titulo_libro": "Es una lástima que dejes de trabajar. Puede que llegue tarde. -- Presente de subjuntivo (4)",
+  "scan": "p-127.jpg"
+}

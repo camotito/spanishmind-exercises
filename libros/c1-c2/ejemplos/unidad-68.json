@@ -1,0 +1,272 @@
+{
+  "tema": "unidad-68",
+  "titulo": "¡Ojalá hubiera ganado!",
+  "descripcion_gramatical": "Pretérito pluscuamperfecto de subjuntivo",
+  "fuente": "libro",
+  "unidad_libro": 68,
+  "ejercicios": [
+    {
+      "subejercicio": "68.1",
+      "tipologia": "T12",
+      "enunciado": "Complete los deseos con *¡ojalá!* y *¡quién!*",
+      "items": [
+        {
+          "texto_enunciado": "No pude ir a la universidad. ¡Quién _____!",
+          "solucion_correcta": [
+            "hubiera/hubiese podido ir a la universidad"
+          ]
+        },
+        {
+          "texto_enunciado": "Nunca tuve tiempo para viajar. ¡Ojalá _____.",
+          "solucion_correcta": [
+            "hubiera/hubiese tenido tiempo para viajar"
+          ]
+        },
+        {
+          "texto_enunciado": "Tomás me invitó a visitarlo en Chile pero no fui nunca. ¡Ojalá _____.",
+          "solucion_correcta": [
+            "hubiera/hubiese ido a visitar a Tomás en Chile"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo a Marta nunca le caí bien. Ahora es la directora de la sucursal. ¡Ojalá _____.",
+          "solucion_correcta": [
+            "le hubiera/hubiese caído bien a Marta"
+          ]
+        },
+        {
+          "texto_enunciado": "No pudimos ir al concierto de Barenboim. ¡Quién _____.",
+          "solucion_correcta": [
+            "hubiera/hubiese podido ir al concierto de Barenboim"
+          ]
+        },
+        {
+          "texto_enunciado": "No pude ser bombero. ¡Quién _____.",
+          "solucion_correcta": [
+            "hubiera/hubiese podido ser bombero"
+          ]
+        },
+        {
+          "texto_enunciado": "No acepté el contrato. Ahora estoy en el paro. ¡Ojalá _____.",
+          "solucion_correcta": [
+            "hubiera/hubiese aceptado el contrato"
+          ]
+        },
+        {
+          "texto_enunciado": "No presté atención a los consejos de mis padres y ahora estoy arrepentida. ¡Ojalá _____.",
+          "solucion_correcta": [
+            "hubiera/hubiese prestado atención a los consejos de mis padres"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el verbo entre paréntesis en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer volví a ver a Sara. Esperaba que me (perdonar) _____ , pero no me dijo nada.",
+          "solucion_correcta": [
+            "hubiera/hubiese perdonado"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento por Antonio. Quería que lo (acompañar) _____ al dentista, pero no pude.",
+          "solucion_correcta": [
+            "hubiera/hubiese acompañado"
+          ]
+        },
+        {
+          "texto_enunciado": "Ángel veía necesario que (terminar) _____ ya la carrera para darnos el empleo.",
+          "solucion_correcta": [
+            "hubiéramos/hubiésemos terminado"
+          ]
+        },
+        {
+          "texto_enunciado": "Ella habría preferido que yo (hablar) _____ con sus padres para pedirles el apartamento.",
+          "solucion_correcta": [
+            "hubiera/hubiese hablado"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo habría exigido a los bancos que (conceder) _____ más créditos al público. Así se habría acelerado el consumo.",
+          "solucion_correcta": [
+            "hubieran/hubiesen concedido"
+          ]
+        },
+        {
+          "texto_enunciado": "Más valía que el Gobierno (ayudar) _____ a las ONG de África. Lo necesitaban.",
+          "solucion_correcta": [
+            "hubiera/hubiese ayudado"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer hubo una reunión. Parecía importante que (venir) _____ todos los empleados, pero faltaron muchos.",
+          "solucion_correcta": [
+            "hubieran/hubiesen venido"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo mejor habría sido que nosotros ya (devolver) _____ el préstamo del banco.",
+          "solucion_correcta": [
+            "hubiéramos/hubiésemos devuelto"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo te habría aconsejado que te (dedicar) _____ al tenis. Jugabas bien y ahora serías famoso.",
+          "solucion_correcta": [
+            "hubieras/hubieses dedicado"
+          ]
+        },
+        {
+          "texto_enunciado": "Esperaba que Hans me (comprar) _____ el collar que habíamos visto, pero no lo hizo.",
+          "solucion_correcta": [
+            "hubiera/hubiese comprado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.3",
+      "tipologia": "T12",
+      "enunciado": "Complete las frases con las informaciones dadas.",
+      "items": [
+        {
+          "texto_enunciado": "El cuadro era falso. No podía haberlo pintado Goya. Era imposible _____.",
+          "solucion_correcta": [
+            "que lo hubiera/hubiese pintado Goya"
+          ]
+        },
+        {
+          "texto_enunciado": "El poema estaba muy bien escrito y algunos decían que era de Quevedo. Puede _____.",
+          "solucion_correcta": [
+            "que el poema hubiera/hubiese sido de Quevedo"
+          ]
+        },
+        {
+          "texto_enunciado": "Sabía que la canción no la podía haber compuesto Jaime porque no sabe música. Era bastante dudoso _____.",
+          "solucion_correcta": [
+            "que la canción la hubiera/hubiese compuesto Jaime"
+          ]
+        },
+        {
+          "texto_enunciado": "Las joyas estaban en un cajón. No las habían robado. Era imposible _____.",
+          "solucion_correcta": [
+            "que hubieran/hubiesen robado las joyas"
+          ]
+        },
+        {
+          "texto_enunciado": "Jacinto no se había llevado el libro. No le gusta la poesía. Era poco probable _____.",
+          "solucion_correcta": [
+            "que Jacinto se hubiera/hubiese llevado el libro"
+          ]
+        },
+        {
+          "texto_enunciado": "Descubrieron una tumba, pero no había nada en ella. Decían que había sido saqueada. Es probable _____.",
+          "solucion_correcta": [
+            "que la tumba hubiera/hubiese sido saqueada"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.4",
+      "tipologia": "T10",
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Vinieron a la fiesta sin haber avisado. Me extrañó. _____",
+          "solucion_correcta": [
+            "Me extrañó que no hubieran/hubiesen avisado"
+          ]
+        },
+        {
+          "texto_enunciado": "Javier había vuelto de Francia sin Mariana. Me sorprendió. _____",
+          "solucion_correcta": [
+            "Me sorprendió que Javier hubiera/hubiese vuelto de Francia sin Mariana"
+          ]
+        },
+        {
+          "texto_enunciado": "Armando me había engañado. No le perdoné. _____",
+          "solucion_correcta": [
+            "No le perdoné a Armando que me hubiera/hubiese engañado"
+          ]
+        },
+        {
+          "texto_enunciado": "Los alumnos habían entrado a mi despacho sin llamar. Me molestó. _____",
+          "solucion_correcta": [
+            "Me molestó que los alumnos hubieran/hubiesen entrado a mi despacho sin llamar"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo no había llamado a Charo. Me olvidé. A Charo no le gustó. _____",
+          "solucion_correcta": [
+            "A Charo no le gustó que no la hubiera/hubiese llamado"
+          ]
+        },
+        {
+          "texto_enunciado": "Les habían atracado en pleno día. Parecía mentira. _____",
+          "solucion_correcta": [
+            "Parecía mentira que les hubieran/hubiesen atracado en pleno día"
+          ]
+        },
+        {
+          "texto_enunciado": "Decían que Sara se había casado en Venezuela. Yo dudaba. _____",
+          "solucion_correcta": [
+            "Yo dudaba que Sara se hubiera/hubiese casado en Venezuela"
+          ]
+        },
+        {
+          "texto_enunciado": "Se habían acordado de nosotros. Nos agradó. _____",
+          "solucion_correcta": [
+            "Nos agradó que se hubieran/hubiesen acordado de nosotros"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.5",
+      "tipologia": "T12",
+      "enunciado": "Complete las frases con las informaciones dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Las noticias habían sido buenas. Se habían alegrado. Era lógico _____.",
+          "solucion_correcta": [
+            "que se hubieran/hubiesen alegrado"
+          ]
+        },
+        {
+          "texto_enunciado": "Enrique me dijo que había abierto una pizzería. Necesitaba trabajar. Me pareció bien _____.",
+          "solucion_correcta": [
+            "que Enrique hubiera/hubiese abierto una pizzería"
+          ]
+        },
+        {
+          "texto_enunciado": "No cogisteis un taxi y llegasteis tarde. Habría sido mejor _____.",
+          "solucion_correcta": [
+            "que hubierais/hubieseis cogido un taxi"
+          ]
+        },
+        {
+          "texto_enunciado": "Habían cambiado los ordenadores. Los viejos funcionaban mal. Me pareció bien _____.",
+          "solucion_correcta": [
+            "hubieran/hubiesen cambiado los ordenadores"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto había regalado la bici. La necesitaba yo. Fue una lástima _____.",
+          "solucion_correcta": [
+            "que Alberto hubiera/hubiese regalado la bici"
+          ]
+        },
+        {
+          "texto_enunciado": "Había acabado el plazo para presentar la solicitud de becas. No pudimos presentarla. Fue una pena _____.",
+          "solucion_correcta": [
+            "que hubiera/hubiese acabado el plazo para presentar la solicitud de becas"
+          ]
+        }
+      ]
+    }
+  ]
+}

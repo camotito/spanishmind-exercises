@@ -1,0 +1,215 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "74.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee las formas correctas. En algún caso hay más de una posibilidad correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Creo (saber/que sé) la verdad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estuvimos hablando de Sonia. Alberto admitió (no ser/que no era) su novia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "De acuerdo. Reconozco (tener tú/que tú tienes) razón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Recuerdo (haber aparcado/que he aparcado) el coche bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Laura confesó que sus padres (haberla castigado/la habían castigado).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Reconozco (hablar/que hablas) español mejor que yo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raúl fingió (haber perdido/que había perdido) la cartera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Parecía (ir/que iba) a saludarme, pero luego no lo hizo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "74.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo en infinitivo simple o compuesto o indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "Confieso que (yo, ser) _____ adicto a los videojuegos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Paco fingió que no me (conocer) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tu madre parecía (ella, estar) _____ enfadada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Parece que aquí (haber) _____ una gotera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Confieso (yo, tener) _____ miedo a los perros grandes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La niña dice que (ella, tener) _____ hambre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eva reconoció no (ella, estudiar) _____ suficiente, por eso no había aprobado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Reconozco que no me (gustar) _____ llevar el coche al centro.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "74.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo en infinitivo simple o compuesto, indicativo o subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "No creo que (nevar) _____ esta noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Selma cree (saber) _____ mucho ruso, pero no sabe mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alberto reconoció que Marta le (prestar) _____ el dinero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No creas que me (tú, engañar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No parecía que (ellos, estar) _____ de acuerdo contigo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Reconoces que (yo, tener) _____ razón ayer en lo del examen?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El ladrón confesó (forzar) _____ la cerradura.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿No reconoces que (Anselmo, jugar) _____ mejor que tú a las cartas?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No recuerda que (Elsa, tener) _____ una prima en Río.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mariano no admite que (nadie, saber) _____ más de informática que él.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No digas que (tú, llevar) _____ razón, porque es discutible.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ana finge no (ella, estar) _____ enamorada de Carlos, pero lo está.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "74.4",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Oí que Marisa (llegar/llegaba).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No oí que Luis me (llamar/llamara).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No oímos (cantar/cantaba) a Fermín.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vimos a Santiago (entrar/entraba) en el ascensor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He visto que Alicia (salir/ha salido) a saludaros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Noté al niño (temblar/temblaba) de miedo por la película.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "74.5",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases en indicativo o en subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Vi despegar el avión. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Viste a Pedro bailar con Pilar? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Noté toser a Jesús. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Valeria oyó maullar a su gato desde la escalera. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sentí moverse el edificio. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No notamos arrancar el autobús. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vimos a Julia esconderse. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No oí cantar a los pájaros. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 74,
+  "titulo_libro": "Creo tener razón. / Creo que tengo razón. / No creo que tenga razón. -- Verbos seguidos de infinitivo, indicativo o subjuntivo",
+  "scan": "p-155.jpg"
+}

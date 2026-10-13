@@ -1,0 +1,295 @@
+{
+  "tema": "unidad-20",
+  "titulo": "Aquí se come bien. Se esperaba que lloviera.",
+  "descripcion_gramatical": "Se impersonal",
+  "fuente": "libro",
+  "unidad_libro": 20,
+  "ejercicios": [
+    {
+      "subejercicio": "20.1",
+      "tipologia": "T8",
+      "enunciado": "Complete con los verbos del recuadro y *se*, y *uno* o *la gente* donde sea necesario.",
+      "items": [
+        {
+          "texto_enunciado": "En verano en el campo _____ mucho.",
+          "solucion_correcta": [
+            "se madruga"
+          ]
+        },
+        {
+          "texto_enunciado": "Fuera de la ciudad _____ un aire más puro.",
+          "solucion_correcta": [
+            "se respira"
+          ]
+        },
+        {
+          "texto_enunciado": "En esta empresa, _____ muy a gusto.",
+          "solucion_correcta": [
+            "se siente uno"
+          ]
+        },
+        {
+          "texto_enunciado": "En estos colchones _____ estupendamente, se lo aseguro.",
+          "solucion_correcta": [
+            "se duerme / duerme uno"
+          ]
+        },
+        {
+          "texto_enunciado": "En algunas partes, _____ muy mal a los animales.",
+          "solucion_correcta": [
+            "se trata"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy seguro de que pronto _____ a otros planetas.",
+          "solucion_correcta": [
+            "se viajará"
+          ]
+        },
+        {
+          "texto_enunciado": "En Italia _____ de maravilla.",
+          "solucion_correcta": [
+            "se come"
+          ]
+        },
+        {
+          "texto_enunciado": "En el sur de España _____ muy tarde.",
+          "solucion_correcta": [
+            "la gente se acuesta"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí, como hace calor, _____ poco en ropa.",
+          "solucion_correcta": [
+            "se gasta"
+          ]
+        },
+        {
+          "texto_enunciado": "Como aquí no _____ en ningún sitio.",
+          "solucion_correcta": [
+            "se vive"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acostarse",
+        "comer",
+        "dormir",
+        "gastarse",
+        "madrugar",
+        "respirar",
+        "sentirse",
+        "tratar",
+        "viajar",
+        "vivir"
+      ]
+    },
+    {
+      "subejercicio": "20.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con el verbo entre paréntesis y *se*.",
+      "items": [
+        {
+          "texto_enunciado": "No es posible ir en coche por este bosque. (poder) _____",
+          "solucion_correcta": [
+            "No se puede ir en coche por este bosque"
+          ]
+        },
+        {
+          "texto_enunciado": "En España antes era costumbre cenar muy tarde. (soler) _____",
+          "solucion_correcta": [
+            "En España (antes) se solía cenar muy tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "Es necesario tener visado para viajar a China. (necesitar) _____",
+          "solucion_correcta": [
+            "Se necesita tener visado para viajar a China"
+          ]
+        },
+        {
+          "texto_enunciado": "No es posible vivir bien sin trabajar. (poder) _____",
+          "solucion_correcta": [
+            "No se puede vivir bien sin trabajar"
+          ]
+        },
+        {
+          "texto_enunciado": "No es aconsejable usar el móvil mientras se conduce. (deber) _____",
+          "solucion_correcta": [
+            "No se debe usar el móvil mientras se conduce"
+          ]
+        },
+        {
+          "texto_enunciado": "Antes no era posible viajar a los países de la Europa del Este. (poder) _____",
+          "solucion_correcta": [
+            "Antes no se podía viajar a los países de la Europa del Este"
+          ]
+        },
+        {
+          "texto_enunciado": "Antes, para ser policía, no era necesario tener estudios. (necesitar) _____",
+          "solucion_correcta": [
+            "Antes, para ser policía, no se necesitaba tener estudios"
+          ]
+        },
+        {
+          "texto_enunciado": "En España es costumbre beber vino en las comidas. (soler) _____",
+          "solucion_correcta": [
+            "En España se suele beber vino en las comidas"
+          ]
+        },
+        {
+          "texto_enunciado": "No es aconsejable hacer fuego en el campo. (deber) _____",
+          "solucion_correcta": [
+            "No se debe hacer fuego en el campo"
+          ]
+        },
+        {
+          "texto_enunciado": "Antes no era posible viajar de España a Portugal sin pasaporte. (poder) _____",
+          "solucion_correcta": [
+            "Antes no se podía viajar de España a Portugal sin pasaporte"
+          ]
+        },
+        {
+          "texto_enunciado": "Pronto se tendrán conocimientos para curar el cáncer. (saber) _____",
+          "solucion_correcta": [
+            "Pronto se sabrá curar el cáncer"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "20.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el verbo entre paréntesis en el tiempo adecuado y *se*.",
+      "items": [
+        {
+          "texto_enunciado": "(rumorear) _____ va a haber cambios en el gobierno.",
+          "solucion_correcta": [
+            "Se rumorea que"
+          ]
+        },
+        {
+          "texto_enunciado": "(decir) _____ Eva era hija de Alfonso.",
+          "solucion_correcta": [
+            "Se dice que"
+          ]
+        },
+        {
+          "texto_enunciado": "(sospechar) _____ esa empresa está a punto de quebrar.",
+          "solucion_correcta": [
+            "Se sospecha que"
+          ]
+        },
+        {
+          "texto_enunciado": "(pensar) _____ iba a cambiar el tiempo, pero ha seguido haciendo frío.",
+          "solucion_correcta": [
+            "Se pensaba que"
+          ]
+        },
+        {
+          "texto_enunciado": "(esperar) _____ ganen los candidatos del gobierno.",
+          "solucion_correcta": [
+            "Se espera que"
+          ]
+        },
+        {
+          "texto_enunciado": "(decir) _____ en esa casa había fantasmas.",
+          "solucion_correcta": [
+            "Se dice/decía que"
+          ]
+        },
+        {
+          "texto_enunciado": "(rumorear) _____ el tesorero había robado dinero.",
+          "solucion_correcta": [
+            "Se rumoreaba que"
+          ]
+        },
+        {
+          "texto_enunciado": "(saber) _____ Colón nació en Génova.",
+          "solucion_correcta": [
+            "Se sabe que"
+          ]
+        },
+        {
+          "texto_enunciado": "(suponer) _____ la nueva secretaria es una enchufada del director.",
+          "solucion_correcta": [
+            "Se supone que"
+          ]
+        },
+        {
+          "texto_enunciado": "Antes no (saber) _____ la Tierra era redonda.",
+          "solucion_correcta": [
+            "se sabía que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "20.4",
+      "tipologia": "T4",
+      "enunciado": "Complete con la forma adecuada de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Se espera que el secretario (dimitir) _____.",
+          "solucion_correcta": [
+            "dimita"
+          ]
+        },
+        {
+          "texto_enunciado": "Se sospecha que (haber) _____ bastantes heridos en el accidente.",
+          "solucion_correcta": [
+            "ha habido"
+          ]
+        },
+        {
+          "texto_enunciado": "No se esperaba que los controladores (ponerse) _____ en huelga.",
+          "solucion_correcta": [
+            "se pusieran"
+          ]
+        },
+        {
+          "texto_enunciado": "Se rumoreaba que Adela (estar) _____ enamorada de Agustín.",
+          "solucion_correcta": [
+            "estaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Se decía que Juan (estar) _____ en la cárcel de joven, pero no era cierto.",
+          "solucion_correcta": [
+            "estuvo / había estado"
+          ]
+        },
+        {
+          "texto_enunciado": "Se espera que (volver) _____ a bajar la Bolsa.",
+          "solucion_correcta": [
+            "vuelva"
+          ]
+        },
+        {
+          "texto_enunciado": "Se piensa que (mejorar) _____ la economía, pero yo veo que está todo igual.",
+          "solucion_correcta": [
+            "ha mejorado"
+          ]
+        },
+        {
+          "texto_enunciado": "No se esperaba que (haber) _____ tantos alumnos este año.",
+          "solucion_correcta": [
+            "hubiera"
+          ]
+        },
+        {
+          "texto_enunciado": "Se esperaba que el gobierno (subir) _____ los impuestos, pero no lo ha hecho.",
+          "solucion_correcta": [
+            "subiera"
+          ]
+        },
+        {
+          "texto_enunciado": "No se espera que (cambiar) _____ el tiempo.",
+          "solucion_correcta": [
+            "cambie"
+          ]
+        }
+      ]
+    }
+  ]
+}

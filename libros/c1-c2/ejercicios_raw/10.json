@@ -1,0 +1,208 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "10.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con adjetivos del recuadro en la forma correcta.",
+      "banco_palabras": [
+        "callado",
+        "cansado",
+        "descalzo",
+        "enfermo",
+        "limpio",
+        "mojado",
+        "pálido",
+        "roto",
+        "silencioso",
+        "sordo",
+        "sudoroso",
+        "viejo"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "No hagáis tanto ruido. Me voy a quedar _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te acabas de comprar esos pantalones? Pues parecen _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ten cuidado. Ha llovido y el suelo está _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cómo está Ángela? -Sigue _____. Los médicos no saben qué le pasa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No sé qué ha pasado, pero los huevos han llegado _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando les dije que no iba a ir con ellos de vacaciones, se quedaron _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cómo te encuentras, Carla? -Me siento _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te pasa algo, Raúl? Te has puesto _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No caminéis _____, niños. Os podéis cortar con algún cristal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nuria ha pasado un trapo a las ventanas y han quedado _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El público, _____, escuchaba el inicio del concierto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luisa llegó _____ porque había estado corriendo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "10.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con adjetivos del recuadro en la forma correcta.",
+      "banco_palabras": [
+        "alegre",
+        "caro",
+        "pálido",
+        "rojo",
+        "rubio",
+        "seco",
+        "sucio",
+        "triste"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Ver sufrir a otros nos pone _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que vendes la casa muy _____. Te va a ser difícil encontrar comprador.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué tienes los pantalones _____? ¿Dónde has estado?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He encontrado a tu hermana algo _____. ¿Qué le pasa?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tienes el brazo _____. ¿Qué te ha pasado?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han devuelto la ropa _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Recibir regalos nos pone _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Qué se ha hecho Aurora? ¿Por qué tiene el pelo _____?",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "10.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con adjetivos del recuadro en la forma correcta y el verbo *ser* o *estar*.",
+      "banco_palabras": [
+        "aburrido",
+        "atento (2)",
+        "ciego",
+        "consciente (2)",
+        "interesado (2)",
+        "listo",
+        "malo",
+        "moreno",
+        "orgulloso",
+        "rico",
+        "verde (2)"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "No se puede comer esa fruta. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me encantan mis hijos. _____ de ellos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La sopa _____. ¿Quién la ha hecho?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No quiero ir a la sierra. _____. No hay nada que hacer.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es difícil explicarles algo a estos alumnos. No _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No cuentes aquí esos chistes. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El médico dice que pronto podremos hablar con Ana. _____ dentro de un par de horas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué no viniste ayer? -_____. Me dolía mucho la cabeza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿_____ de lo que estás haciendo, Lucas?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes por Rubén. Aprobará. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucía no _____ conmigo. Nunca me saluda.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sandra _____. No se da cuenta de que Lolo la engaña.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No _____ tan _____, Adolfo. A veces hay que ser más altruista.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sofía es rubia, pero _____ bastante _____ de piel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué _____ tan _____ en el derecho internacional, Lola? -Quiero especializarme en relaciones internacionales.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 10,
+  "titulo_libro": "Parece antigua. Vivo tranquilo. -- El adjetivo con verbos",
+  "scan": "p-028.jpg"
+}

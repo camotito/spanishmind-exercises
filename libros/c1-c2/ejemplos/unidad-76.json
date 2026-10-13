@@ -1,0 +1,263 @@
+{
+  "tema": "unidad-76",
+  "titulo": "Se niega a obedecer. Se sorprendió de que hablase español.",
+  "descripcion_gramatical": "Verbos con preposición seguidos de infinitivo o subjuntivo",
+  "fuente": "libro",
+  "unidad_libro": 76,
+  "ejercicios": [
+    {
+      "subejercicio": "76.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Siempre he soñado (con/de) ser astronauta.",
+          "solucion_correcta": [
+            "con"
+          ]
+        },
+        {
+          "texto_enunciado": "Si tienes algún problema, no dudes (de/en) consultarme.",
+          "solucion_correcta": [
+            "en"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge está aprendiendo (a/para) pilotar aviones ligeros.",
+          "solucion_correcta": [
+            "a"
+          ]
+        },
+        {
+          "texto_enunciado": "Confío (de/en) poder veros pronto.",
+          "solucion_correcta": [
+            "en"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué te empeñas (en/por) llevarme la contraria?",
+          "solucion_correcta": [
+            "en"
+          ]
+        },
+        {
+          "texto_enunciado": "Raúl no se acordó (de/en) devolverme el cedé.",
+          "solucion_correcta": [
+            "de"
+          ]
+        },
+        {
+          "texto_enunciado": "Me acusan (con/de) haberme quedado con dinero de la empresa.",
+          "solucion_correcta": [
+            "de"
+          ]
+        },
+        {
+          "texto_enunciado": "Me niego (a/por) escuchar más tonterías.",
+          "solucion_correcta": [
+            "a"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "76.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con la preposición correcta y un verbo del recuadro en infinitivo simple o compuesto, afirmativo o negativo.",
+      "items": [
+        {
+          "texto_enunciado": "Mario es muy rebelde. Se niega _____.",
+          "solucion_correcta": [
+            "a obedecer"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿De qué te acusan? - _____ en doble fila.",
+          "solucion_correcta": [
+            "De haber aparcado"
+          ]
+        },
+        {
+          "texto_enunciado": "Don Gregorio nos ha amenazado _____ el contrato.",
+          "solucion_correcta": [
+            "con no renovar(nos)"
+          ]
+        },
+        {
+          "texto_enunciado": "La verdad es que no me acuerdo _____ esta película antes.",
+          "solucion_correcta": [
+            "de haber visto"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que luchar _____ el deterioro ambiental.",
+          "solucion_correcta": [
+            "por detener"
+          ]
+        },
+        {
+          "texto_enunciado": "Nunca te molestas _____ qué queremos.",
+          "solucion_correcta": [
+            "en saber"
+          ]
+        },
+        {
+          "texto_enunciado": "Me alegro _____ venir. No creía que pudiera.",
+          "solucion_correcta": [
+            "de haber podido"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos hemos comprometido _____ nada a nadie.",
+          "solucion_correcta": [
+            "a no decir"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "aparcar",
+        "decir",
+        "detener",
+        "obedecer",
+        "poder",
+        "renovar",
+        "saber",
+        "ver"
+      ]
+    },
+    {
+      "subejercicio": "76.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "A veces me sorprendo (de ser/que sea) tan ingenuo.",
+          "solucion_correcta": [
+            "de ser"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes que encargarte de (organizar tú/que organices) el curso.",
+          "solucion_correcta": [
+            "organizar tú"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué te sorprendes de (Luis aprobar/que Luis haya aprobado)? Estudia mucho.",
+          "solucion_correcta": [
+            "que Luis haya aprobado"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes por la reunión. Yo me encargaré de (salir/que salga) bien.",
+          "solucion_correcta": [
+            "que salga"
+          ]
+        },
+        {
+          "texto_enunciado": "Si necesitáis algo, no dudéis en (llamarme/que me llaméis), Maribel.",
+          "solucion_correcta": [
+            "en llamarme"
+          ]
+        },
+        {
+          "texto_enunciado": "Esos chicos se niegan a (obedecer/que obedezcan) a sus profesores.",
+          "solucion_correcta": [
+            "a obedecer"
+          ]
+        },
+        {
+          "texto_enunciado": "Otra vez está esta tienda cerrada. Nunca me acuerdo de (cerrar/que cierra) los domingos.",
+          "solucion_correcta": [
+            "que cierra"
+          ]
+        },
+        {
+          "texto_enunciado": "No me defraudes, Joaquín. Confío en (terminar/que termines) el proyecto para junio.",
+          "solucion_correcta": [
+            "que termines"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "76.4",
+      "tipologia": "T4",
+      "enunciado": "Complete con la preposición y el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Rosa insistió (nosotros, ir) _____ a la playa.",
+          "solucion_correcta": [
+            "en que fuéramos"
+          ]
+        },
+        {
+          "texto_enunciado": "La verdad es que me sorprendió (tú, defender) _____ a Ana.",
+          "solucion_correcta": [
+            "que tú defendieras"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenemos que habituarnos (nosotros, vivir) _____ con menos medios.",
+          "solucion_correcta": [
+            "a vivir"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando María supo la noticia corrió (ella, llamar) _____ a su marido.",
+          "solucion_correcta": [
+            "a llamar"
+          ]
+        },
+        {
+          "texto_enunciado": "Me alegra saber que hemos contribuido (haber) _____ paz en el mundo.",
+          "solucion_correcta": [
+            "a que haya"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre me preocupé (vosotros, tener) _____ todo lo que necesitabais.",
+          "solucion_correcta": [
+            "de que tuvierais"
+          ]
+        },
+        {
+          "texto_enunciado": "Me canso (tú, cometer) _____ siempre los mismos errores.",
+          "solucion_correcta": [
+            "de que cometas"
+          ]
+        },
+        {
+          "texto_enunciado": "Leo se empeña (nosotros, alquilar) _____ una casa rural.",
+          "solucion_correcta": [
+            "en que alquilemos"
+          ]
+        },
+        {
+          "texto_enunciado": "No me sorprende (Lucía, dejar) _____ a su marido. Era muy desagradable.",
+          "solucion_correcta": [
+            "que Lucía dejara"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi primo Mateo se dedica (entrenar) _____ perros.",
+          "solucion_correcta": [
+            "a entrenar"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre me olvido de (vosotros, no tener) _____ coche.",
+          "solucion_correcta": [
+            "de que no tenéis"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te acuerdas de (nosotros, tener) _____ una reunión a las ocho?",
+          "solucion_correcta": [
+            "que tenemos"
+          ]
+        }
+      ]
+    }
+  ]
+}

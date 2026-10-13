@@ -1,0 +1,241 @@
+{
+  "tema": "unidad-41",
+  "titulo": "Se cayó del caballo mientras practicaba.",
+  "descripcion_gramatical": "Contraste pretérito imperfecto / pretérito indefinido",
+  "fuente": "libro",
+  "unidad_libro": 41,
+  "ejercicios": [
+    {
+      "subejercicio": "41.1",
+      "tipologia": "T4",
+      "enunciado": "Complete con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando Rosa (vivir) _____ en Pekín, (nosotros, ir) _____ dos veces a verla.",
+          "solucion_correcta": [
+            "vivía",
+            "fuimos"
+          ]
+        },
+        {
+          "texto_enunciado": "A Fidel le (ellos, dar) _____ un balonazo cuando (jugar) _____ al fútbol.",
+          "solucion_correcta": [
+            "dieron",
+            "jugaba / estaba jugando"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (yo, ir) _____ a la oficina en coche, siempre (escuchar) _____ la radio mientras (conducir) _____.",
+          "solucion_correcta": [
+            "iba",
+            "escuchaba",
+            "conducía"
+          ]
+        },
+        {
+          "texto_enunciado": "A Helga la (morder) _____ un tiburón.",
+          "solucion_correcta": [
+            "mordió"
+          ]
+        },
+        {
+          "texto_enunciado": "Al perro de Lolo lo (atropellar) _____ un coche cuando (cruzar) _____ la calle.",
+          "solucion_correcta": [
+            "atropelló",
+            "cruzaba / estaba cruzando"
+          ]
+        },
+        {
+          "texto_enunciado": "Los estudiantes (tomar) _____ apuntes mientras el profesor (explicar) _____.",
+          "solucion_correcta": [
+            "tomaban",
+            "explicaba"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "41.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (nosotros, llegar) _____ a Oviedo, las calles (estar) _____ desiertas.",
+          "solucion_correcta": [
+            "llegamos",
+            "estaban"
+          ]
+        },
+        {
+          "texto_enunciado": "El pobre Adolfo (morir) _____ en un día terrible. (nevar) _____ y (hacer) _____ un frío insoportable. Mucha gente no (poder) _____ venir al entierro porque las carreteras (estar) _____ cortadas.",
+          "solucion_correcta": [
+            "murió",
+            "Nevaba",
+            "hacía",
+            "pudo",
+            "estaban"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando nuestro avión (tomar) _____ tierra en Mallorca, (amanecer) _____ y ya (hacer) _____ bastante calor.",
+          "solucion_correcta": [
+            "tomó",
+            "amanecía / estaba amaneciendo",
+            "hacía"
+          ]
+        },
+        {
+          "texto_enunciado": "El domingo (nosotros, ir) _____ a la boda de Arturo. (salir) _____ pronto de casa, pero se nos (pinchar) _____ una rueda y no (tener) _____ repuesto. (llover) _____ y (tener) _____ que llamar a un taxi. Afortunadamente (llegar) _____ a tiempo.",
+          "solucion_correcta": [
+            "fuimos",
+            "Salimos",
+            "pinchó",
+            "teníamos",
+            "Llovía",
+            "tuvimos",
+            "llegamos"
+          ]
+        },
+        {
+          "texto_enunciado": "El sábado pasado nos (pasar) _____ algo muy desagradable. (nosotros, dormir) _____, pero un ruido nos (despertar) _____. (ser) _____ las tres de la mañana. (yo, cerrar) _____ la puerta de la habitación con llave y (nosotros, quedarse) _____ en la cama, muertos de miedo. Al cabo de un rato alguien (llamar) _____ a la puerta. (yo, coger) _____ el teléfono y (llamar) _____ a la policía. Cuando (nosotros, oír) _____ las sirenas de los coches, (mirar) _____ por la ventana. ¡Los policías (hablar) _____ con otros policías que habían salido de nuestra casa!",
+          "solucion_correcta": [
+            "pasó",
+            "Estábamos durmiendo",
+            "despertó",
+            "Eran",
+            "Cerré",
+            "nos quedamos",
+            "llamó",
+            "cogí",
+            "llamé",
+            "oímos",
+            "miramos",
+            "estaban hablando"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "41.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Li y yo _____ en Pekín. _____ muy temprano, pero ya _____ mucha gente en la calle. _____ bastante frío y yo _____ un gorro que me _____ toda la cara. Ella _____ a la universidad en su bicicleta y yo _____ para cruzar una calle. No _____ cuenta de que el semáforo _____ en rojo para los peatones y _____ a cruzar. Li no me _____, me _____ con la bici y me _____ al suelo.",
+          "solucion_correcta": [
+            "nos conocimos",
+            "Era",
+            "había",
+            "Hacía",
+            "llevaba",
+            "cubría",
+            "iba",
+            "estaba esperando",
+            "me di",
+            "estaba",
+            "empecé",
+            "vio",
+            "golpeó",
+            "tiró"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ del metro cuando _____ un sonar de sirenas y gran alboroto mientras _____ una ambulancia. _____ dos coches de policía al lado de una pareja de jóvenes, esposados. Uno de los policías _____ por teléfono. Cuando _____ la ambulancia, dos sanitarios _____ con camillas y _____ a uno de los jóvenes, que _____ por un oído, al interior del vehículo. Se lo _____ inmediatamente. El público _____ que habían intentado atracar una joyería.",
+          "solucion_correcta": [
+            "Salíamos",
+            "oímos",
+            "llegaba",
+            "Había",
+            "hablaba / estaba hablando",
+            "paró",
+            "bajaron",
+            "metieron",
+            "sangraba",
+            "llevaron",
+            "comentaba"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        [
+          "conocerse",
+          "cubrir",
+          "darse",
+          "empezar",
+          "esperar",
+          "estar",
+          "golpear",
+          "haber",
+          "hacer",
+          "ir",
+          "llevar",
+          "ser",
+          "tirar",
+          "ver"
+        ],
+        [
+          "bajar",
+          "comentar",
+          "hablar",
+          "haber",
+          "llegar",
+          "llevar",
+          "meter",
+          "oír",
+          "parar",
+          "salir",
+          "sangrar"
+        ]
+      ]
+    },
+    {
+      "subejercicio": "41.4",
+      "tipologia": "T4",
+      "enunciado": "Complete con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (yo, hacer) _____ el examen, (llevar) _____ dos noches sin dormir.",
+          "solucion_correcta": [
+            "hice",
+            "llevaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (nacer) _____ Lola, hacía dos meses que (nosotros, vivir) _____ en Roma.",
+          "solucion_correcta": [
+            "nació",
+            "vivíamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Ginés (llevar) _____ dos minutos en la parada del autobús cuando (pasar) _____ Ana en coche.",
+          "solucion_correcta": [
+            "llevaba",
+            "pasó"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya (hacer) _____ tiempo que yo no (ver) _____ a Enrique tan enfadado.",
+          "solucion_correcta": [
+            "hacía",
+            "veía"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ayer fui al teatro. -¿Cuánto (hacer) _____ que (tú, no ir) _____?",
+          "solucion_correcta": [
+            "hacía",
+            "no ibas"
+          ]
+        },
+        {
+          "texto_enunciado": "Los pasajeros (llevar) _____ dos horas de vuelo cuando (oír) _____ una explosión.",
+          "solucion_correcta": [
+            "llevaban",
+            "oyeron"
+          ]
+        }
+      ]
+    }
+  ]
+}

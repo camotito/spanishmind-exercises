@@ -1,0 +1,176 @@
+{
+ "ejercicios": [
+  {
+   "subejercicio": "23.1",
+   "tipologia": "T3",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *que*, *quien*, *quienes*, *el que*, *la que*, *los que* o *las que*.",
+   "items": [
+    {
+     "texto_enunciado": "Sonia, _____ estaba duchándose, no pudo coger el teléfono.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Logramos hablar con el director, _____ nos dijo que solicitáramos el crédito.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Cogió la silla, en _____ había algunos libros, y la colocó junto a la ventana.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Raúl, con _____ estuve en Marruecos, quiere que vayamos a la India.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La herida, de _____ salía sangre, estaba bastante sucia.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El sindicato apoyó a los estudiantes, _____ estaban en huelga por la subida de las matrículas.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Reunió a sus amigos, _____ estaban en la Facultad, y les dio la noticia.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Subió las escaleras, _____ estaban resbaladizas por la lluvia.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "23.2",
+   "tipologia": "T10",
+   "tipologia_libre": null,
+   "enunciado": "Una las frases con relativos.",
+   "items": [
+    {
+     "texto_enunciado": "El director del museo nos enseñó la exposición. Habíamos hablado con él antes.\n_____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Agustín nos recomendó que viéramos esta película. Es muy aficionado al cine.\n_____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El viento se llevó todas las nubes. Era muy fuerte.\n_____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "A mi madre le alegró ver a Roberto. Roberto había estado antes en casa.\n_____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Esa película bate récords de taquilla. Ganará un Óscar.\n_____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Los invitados brindamos por los novios. Yo estaba entre ellos.\n_____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Esos pueblos están abandonados. Antes vivía mucha gente.\n_____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Juani se ha casado con un futbolista. La conozco desde pequeña.\n_____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Al novio de Rebeca le ha tocado la lotería. Es de Irlanda.\n_____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El restaurante de Andrea está siempre lleno. Tiene una estrella Michelin.\n_____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Un periodista argentino fue secuestrado ayer. Estaba en Ucrania.\n_____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "23.3",
+   "tipologia": "T3",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *que*, *el que*, *la que*, *los que*, *las que*, *lo que* o *lo cual*.",
+   "items": [
+    {
+     "texto_enunciado": "Me dijo que era cirujano, _____ me extrañó mucho.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La profesora de Hans, _____ es cubana, tiene un acento muy bonito.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La novela de Jorge, _____ tan buenas críticas ha tenido, se ha agotado.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Lucas se fue sin Pilar de la fiesta, _____ me resultó extraño.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Este manantial, de _____ ya casi no sale agua, antes rebosaba.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Aquí el único que trabaja es Luis, _____ no me parece justo.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La casa de Altea, a _____ voy en verano, es de mis padres.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Amelia y Rosa, con _____ me viste ayer, trabajan con mi mujer.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Los países del Este asiático, por _____ he viajado mucho, me parecen fascinantes.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "23.4",
+   "tipologia": "T10",
+   "tipologia_libre": "Completar el hueco combinando la palabra inductora dada entre paréntesis al inicio de la frase con el pronombre relativo adecuado.",
+   "enunciado": "Complete utilizando la palabra entre paréntesis y el relativo correspondiente.",
+   "items": [
+    {
+     "texto_enunciado": "(cosa) Santi siempre nos hace esperar, _____ me molesta bastante.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(hecho) En 2009 hubo una gran crisis económica, _____ tuvo graves repercusiones en nuestra economía.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(algo) Sonia se presentó en la fiesta con tres amigos, _____ no me hizo ninguna gracia.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(cosa) Adolfo se fue a vivir con Marta, _____ nadie esperaba.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(algo) Hemos recibido numerosas felicitaciones, _____ me sorprende.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(hecho) Hay mucha gente en el paro, _____ sorprendentemente no parece preocupar a nadie.",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Completar el hueco combinando la palabra inductora dada entre paréntesis al inicio de la frase con el pronombre relativo adecuado."
+  }
+ ],
+ "unidad": 23,
+ "titulo_libro": "La mujer, que había llamado antes,... -- Relativos (2)",
+ "scan": "p-054.jpg"
+}

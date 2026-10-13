@@ -1,0 +1,296 @@
+{
+  "tema": "unidad-74",
+  "titulo": "Creo tener razón. / Creo que tengo razón. / No creo que tenga razón.",
+  "descripcion_gramatical": "Verbos seguidos de infinitivo, indicativo o subjuntivo",
+  "fuente": "libro",
+  "unidad_libro": 74,
+  "ejercicios": [
+    {
+      "subejercicio": "74.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee las formas correctas. En algún caso hay más de una posibilidad correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Creo (saber/que sé) la verdad.",
+          "solucion_correcta": [
+            "saber / que sé"
+          ]
+        },
+        {
+          "texto_enunciado": "Estuvimos hablando de Sonia. Alberto admitió (no ser/que no era) su novia.",
+          "solucion_correcta": [
+            "que no era"
+          ]
+        },
+        {
+          "texto_enunciado": "De acuerdo. Reconozco (tener tú/que tú tienes) razón.",
+          "solucion_correcta": [
+            "que tú tienes"
+          ]
+        },
+        {
+          "texto_enunciado": "Recuerdo (haber aparcado/que he aparcado) el coche bien.",
+          "solucion_correcta": [
+            "haber aparcado / que he aparcado"
+          ]
+        },
+        {
+          "texto_enunciado": "Laura confesó que sus padres (haberla castigado/la habían castigado).",
+          "solucion_correcta": [
+            "la habían castigado"
+          ]
+        },
+        {
+          "texto_enunciado": "Reconozco (hablar/que hablas) español mejor que yo.",
+          "solucion_correcta": [
+            "que hablas"
+          ]
+        },
+        {
+          "texto_enunciado": "Raúl fingió (haber perdido/que había perdido) la cartera.",
+          "solucion_correcta": [
+            "haber perdido / que había perdido"
+          ]
+        },
+        {
+          "texto_enunciado": "Parecía (ir/que iba) a saludarme, pero luego no lo hizo.",
+          "solucion_correcta": [
+            "ir / que iba"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "74.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo en infinitivo simple o compuesto o indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "Confieso que (yo, ser) _____ adicto a los videojuegos.",
+          "solucion_correcta": [
+            "soy"
+          ]
+        },
+        {
+          "texto_enunciado": "Paco fingió que no me (conocer) _____.",
+          "solucion_correcta": [
+            "conocía"
+          ]
+        },
+        {
+          "texto_enunciado": "Tu madre parecía (ella, estar) _____ enfadada.",
+          "solucion_correcta": [
+            "estar"
+          ]
+        },
+        {
+          "texto_enunciado": "Parece que aquí (haber) _____ una gotera.",
+          "solucion_correcta": [
+            "hay"
+          ]
+        },
+        {
+          "texto_enunciado": "Confieso (yo, tener) _____ miedo a los perros grandes.",
+          "solucion_correcta": [
+            "tener / que tengo / haber tenido"
+          ]
+        },
+        {
+          "texto_enunciado": "La niña dice que (ella, tener) _____ hambre.",
+          "solucion_correcta": [
+            "tiene"
+          ]
+        },
+        {
+          "texto_enunciado": "Eva reconoció no (ella, estudiar) _____ suficiente, por eso no había aprobado.",
+          "solucion_correcta": [
+            "haber estudiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Reconozco que no me (gustar) _____ llevar el coche al centro.",
+          "solucion_correcta": [
+            "gusta"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "74.3",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo en infinitivo simple o compuesto, indicativo o subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "No creo que (nevar) _____ esta noche.",
+          "solucion_correcta": [
+            "nieve"
+          ]
+        },
+        {
+          "texto_enunciado": "Selma cree (saber) _____ mucho ruso, pero no sabe mucho.",
+          "solucion_correcta": [
+            "saber / que sabe"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto reconoció que Marta le (prestar) _____ el dinero.",
+          "solucion_correcta": [
+            "prestó / había prestado"
+          ]
+        },
+        {
+          "texto_enunciado": "No creas que me (tú, engañar) _____.",
+          "solucion_correcta": [
+            "engañas / has engañado"
+          ]
+        },
+        {
+          "texto_enunciado": "No parecía que (ellos, estar) _____ de acuerdo contigo.",
+          "solucion_correcta": [
+            "estuvieran"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Reconoces que (yo, tener) _____ razón ayer en lo del examen?",
+          "solucion_correcta": [
+            "tenía"
+          ]
+        },
+        {
+          "texto_enunciado": "El ladrón confesó (forzar) _____ la cerradura.",
+          "solucion_correcta": [
+            "haber forzado / que había forzado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿No reconoces que (Anselmo, jugar) _____ mejor que tú a las cartas?",
+          "solucion_correcta": [
+            "Anselmo juega"
+          ]
+        },
+        {
+          "texto_enunciado": "No recuerda que (Elsa, tener) _____ una prima en Río.",
+          "solucion_correcta": [
+            "Elsa tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "Mariano no admite que (nadie, saber) _____ más de informática que él.",
+          "solucion_correcta": [
+            "nadie sepa"
+          ]
+        },
+        {
+          "texto_enunciado": "No digas que (tú, llevar) _____ razón, porque es discutible.",
+          "solucion_correcta": [
+            "llevas"
+          ]
+        },
+        {
+          "texto_enunciado": "Ana finge no (ella, estar) _____ enamorada de Carlos, pero lo está.",
+          "solucion_correcta": [
+            "estar"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "74.4",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Oí que Marisa (llegar/llegaba).",
+          "solucion_correcta": [
+            "llegaba"
+          ]
+        },
+        {
+          "texto_enunciado": "No oí que Luis me (llamar/llamara).",
+          "solucion_correcta": [
+            "llamara"
+          ]
+        },
+        {
+          "texto_enunciado": "No oímos (cantar/cantaba) a Fermín.",
+          "solucion_correcta": [
+            "cantar"
+          ]
+        },
+        {
+          "texto_enunciado": "Vimos a Santiago (entrar/entraba) en el ascensor.",
+          "solucion_correcta": [
+            "entrar"
+          ]
+        },
+        {
+          "texto_enunciado": "He visto que Alicia (salir/ha salido) a saludaros.",
+          "solucion_correcta": [
+            "ha salido"
+          ]
+        },
+        {
+          "texto_enunciado": "Noté al niño (temblar/temblaba) de miedo por la película.",
+          "solucion_correcta": [
+            "temblar"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "74.5",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases en indicativo o en subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Vi despegar el avión. _____",
+          "solucion_correcta": [
+            "Vi que el avión despegaba"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Viste a Pedro bailar con Pilar? _____",
+          "solucion_correcta": [
+            "¿Viste que Pedro bailaba con Pilar?"
+          ]
+        },
+        {
+          "texto_enunciado": "Noté toser a Jesús. _____",
+          "solucion_correcta": [
+            "Noté que Jesús tosía"
+          ]
+        },
+        {
+          "texto_enunciado": "Valeria oyó maullar a su gato desde la escalera. _____",
+          "solucion_correcta": [
+            "Valeria oyó que su gato maullaba desde la escalera"
+          ]
+        },
+        {
+          "texto_enunciado": "Sentí moverse el edificio. _____",
+          "solucion_correcta": [
+            "Sentí que se movía el edificio"
+          ]
+        },
+        {
+          "texto_enunciado": "No notamos arrancar el autobús. _____",
+          "solucion_correcta": [
+            "No notamos que arrancara el autobús"
+          ]
+        },
+        {
+          "texto_enunciado": "Vimos a Julia esconderse. _____",
+          "solucion_correcta": [
+            "Vimos que Julia se escondió / se escondía"
+          ]
+        },
+        {
+          "texto_enunciado": "No oí cantar a los pájaros. _____",
+          "solucion_correcta": [
+            "No oí que los pájaros cantaran"
+          ]
+        }
+      ]
+    }
+  ]
+}

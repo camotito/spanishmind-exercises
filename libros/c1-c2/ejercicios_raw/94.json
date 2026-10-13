@@ -1,0 +1,195 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "94.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Yo necesito un ordenador. Si no me dejas el tuyo (tengo/tendré) que comprarme uno.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me gusta cómo tienes esa herida. Si no te la curan bien, (puedes/podrás) tener problemas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A mí me da igual. Si no quieres hacerlo ahora, ya lo (harás/haces) más adelante.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no tengo las gafas, no (veo/veré) nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si tienes problemas, (deberás/deberías) ir al psicólogo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no contestan, (están/estarán) fuera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si ha llegado el correo, lo (repartirás/repártelo).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no me suben el sueldo, me (voy/iré) de la empresa. Ya estoy harta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si han acabado el trabajo, (puedes/podrás) pagarles.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si has hablado con Pedro, (sabes/sabrás) lo de Lola.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "94.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en los tiempos adecuados, afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Si no nos suben el sueldo, (nosotros, hacer) _____ huelga.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si se (dar) _____ a este botón, se para la máquina.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si (llover) _____ pronto, no tendremos agua en verano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si (llover) _____ mucho esta noche, la tierra estará empapada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si la comida está salada, (dar) _____ mucha sed.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si acabo este libro pronto, te lo (yo, dejar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(tú, llamarme) _____ si consigues otra entrada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si estáis cansados, (vosotros, deber) _____ acostaros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si Emilia se queda sin trabajo, (ella, poder) _____ pagar la hipoteca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si ya ha dejado de llover, (nosotros, poder) _____ irnos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si ya habéis visto la película, (vosotros, querer) _____ ir, supongo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "94.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Si se acostaron tarde, (era/será) mejor que duerman.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si llegaron tarde, (están/estarán) cansadas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los profesores eran muy severos. Si no te portabas bien en clase, te (castigarán/castigaban).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no vinisteis la semana pasada, (mirad/miraréis) la lección 3.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando nosotros éramos jóvenes, si queríamos salir hasta tarde, (tenemos/teníamos) que pedir permiso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si estuvisteis en Taipei, (subíais/subiríais) al Jim 101.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes, si un español viajaba a Estados Unidos, (necesitaba/necesitaría) un visado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si te pillaron sin billete, (tenías/tendrías) que pagar doble.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "94.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando era pequeña, si me montaba en la noria, (marearse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si ayer comisteis carne, hoy no (querer) _____ pescado otra vez, supongo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si estuviste en Pekín, (tú, ir) _____ a la Gran Muralla.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes, si hacías algo malo, te (ellos, castigar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Miguel, si no te duchaste ayer, te (tener) _____ que duchar hoy.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si cumpliste la misión, te (ellos, dar) _____ una recompensa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si jugaban al ajedrez, (ellos, desconectar) _____ los teléfonos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no hicisteis la redacción la semana pasada, (vosotros, tener) _____ que hacerla esta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando éramos pequeños, si hacía buen tiempo, (nosotros, jugar) _____ en la calle.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si anoche fuisteis al cine, hoy no (vosotros, ir) _____ otra vez, ¿no?",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 94,
+  "titulo_libro": "Si nieva, habrá mucha agua. -- Oraciones condicionales (1)",
+  "scan": "p-195.jpg"
+}

@@ -1,0 +1,279 @@
+{
+  "tema": "unidad-3",
+  "titulo": "El Presidente está preocupado. La han hecho directora.",
+  "descripcion_gramatical": "Artículos: uso y omisión",
+  "fuente": "libro",
+  "unidad_libro": 3,
+  "ejercicios": [
+    {
+      "subejercicio": "3.1",
+      "tipologia": "T3",
+      "enunciado": "Complete el texto con *un*, *una*, *unos*, *unas* o *el*, *la*, *los*, *las*.",
+      "items": [
+        {
+          "texto_enunciado": "En la habitación hay solo (1) _____ pequeño cuadro, (2) _____ retrato realista de (3) _____ chico en (4) _____ playa desierta. (5) _____ chico lleva (6) _____ sombrero y está sentado en (7) _____ silla de lona. Tiene (8) _____ codo apoyado en uno de (9) _____ brazos de (10) _____ silla. A su lado hay (11) _____ perro y al fondo se ve (12) _____ mar. (13) _____ chico podría ser (14) _____ hijo de (15) _____ dueños de (16) _____ hotel.",
+          "solucion_correcta": [
+            "un",
+            "un",
+            "un",
+            "una",
+            "El",
+            "un",
+            "una",
+            "el",
+            "los",
+            "la",
+            "un",
+            "el",
+            "El",
+            "el",
+            "los",
+            "del"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "3.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con *un*, *una*, *unos*, *unas* o *el*, *la*, *los*, *las*.",
+      "items": [
+        {
+          "texto_enunciado": "¿Has estado en _____ islas del Egeo?",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "La granada es _____ fruta muy dulce.",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "Vivo en _____ edificio de 30 pisos. _____ ascensor tarda 1 minuto en llegar arriba.",
+          "solucion_correcta": [
+            "un",
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis hijos siempre cogen _____ autobús de las siete.",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "Ha venido _____ matrimonio a ver a _____ director. _____ mujer parecía nerviosa. _____ hombre parecía preocupado.",
+          "solucion_correcta": [
+            "un",
+            "al",
+            "La",
+            "El"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "3.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con *el*, *la*, *los*, *las* solo en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Colecciono _____ plumas de escribir.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Me tienes que devolver _____ pluma que te dejé.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta tomar _____ vino con las comidas.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuidado. No pises _____ plantas de la terraza.",
+          "solucion_correcta": [
+            "las"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Cuidado! Te vas a manchar _____ chaqueta.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira a ver si queda _____ leche en la nevera.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "El fontanero nos ha cambiado _____ grifos del aseo.",
+          "solucion_correcta": [
+            "los"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy vamos a comer _____ verduras a la plancha.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa panadería también vende _____ pasteles.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que poner _____ plantas en el jardín.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "3.4",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "El Gobierno ha nombrado a Salinas (un/ø) embajador en Honduras.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Me van a hacer (un/ø) ayudante de departamento.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Ha visto (al/a) director. Quiere hablar con nosotros.",
+          "solucion_correcta": [
+            "al"
+          ]
+        },
+        {
+          "texto_enunciado": "Puede que elijan a Martín (el/ø) jefe de ventas.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "¿A quién van a designar (el/ø) candidato?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Llama (al/a) cónsul y pregúntale si necesitas visado.",
+          "solucion_correcta": [
+            "al"
+          ]
+        },
+        {
+          "texto_enunciado": "Han declarado a Bolt (el/ø) mejor atleta del año.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han nombrado (el/ø) presidente de la comunidad.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Quieren hacerme (el/ø) capitán del equipo.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Han designado a París (la/ø) ciudad candidata a sede olímpica.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "3.5",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases *el*, *la*, *los*, *las* solo en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Prefiero venir en _____ avión. Es más rápido.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que hay una avería en _____ avión. Espero que no sea nada.",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo sale Luis de _____ cárcel?",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Voy a _____ clases de español dos días a la semana.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Ve a _____ panadería y trae dos barras.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Vaya! Está lloviendo y me he dejado el paraguas en _____ casa.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo que ir a _____ peluquería.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "No pongas los pies en _____ mesa, por favor.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "El médico dice que tengo que estar tres días en _____ cama.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Se puede llegar al lago en _____ bici?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        }
+      ]
+    }
+  ]
+}

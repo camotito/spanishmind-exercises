@@ -1,0 +1,167 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "44.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *hacía*.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer volví a hablar con Arturo después de seis meses. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La semana pasada me despidieron. Llevaba dos años trabajando en la empresa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer volvió a funcionar el ascensor después de una semana. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer volviste a fumar. ¿Cuánto tiempo llevabas sin fumar? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lorenzo volvió a actuar el mes pasado después de un año sin actuar. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La semana pasada salí de casa después de dos semanas sin salir. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "44.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases. Utilice *desde*, *desde hacía* o *desde que* y los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer volví a montar en moto. (montar) _____ era joven.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer murió Agustín. (nosotros, conocerse) _____ éramos niños.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué obra más buena vi ayer! (yo, ir al teatro) _____ más de un año.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ana y Luis han vuelto a hablarse. (ellos, hablarse) _____ Navidades.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer estuve en un gimnasio. (yo, hacer ejercicio) _____ estaba en la universidad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer me di un baño en el mar. (yo, bañarse) _____ el verano pasado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anoche fuimos a un restaurante español. (nosotros, comer tortilla de patatas) _____ regresamos de España.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Julio se lo pasó muy bien en la fiesta. (él, divertirse tanto) _____ mucho tiempo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "44.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con el pretérito imperfecto de *llevar*.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer operaron a Marisol. <u>Hacía un año que estaba enferma.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando le dieron la nacionalidad a Roxana, <u>hacía ocho años que estaba en España.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando compramos el restaurante, <u>hacía seis meses que estaba cerrado.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La semana pasada arreglaron las persianas. <u>Estaban rotas desde la tormenta.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando llegó el autobús, <u>hacía veinte minutos que estaba en la parada.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer regresamos de Sao Paulo. <u>Estábamos allí desde enero.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando tuvieron su primer hijo, <u>hacía dos años que estaban casados.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Mi última novela estaba acabada desde el verano.</u> La semana pasada la entregue. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "44.4",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con el pretérito imperfecto de *llevar* + gerundio o + *sin* + infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando llegó Juana, <u>hacía media hora que esperaba.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se ha jubilado Ramón. <u>Trabajaba desde los dieciséis años.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy he vuelto a escribir. <u>No escribía desde que gané el último premio.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy he vuelto a hablar italiano. <u>No hablaba italiano desde la última vez que estuve en Roma.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se ha retirado Raúl. <u>¿Cuánto tiempo hacía que jugaba al fútbol?</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy he recibido un carta de Tomás. <u>Hacía una semana que la esperaba.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He vuelto a tener noticias de Peter. <u>No sabía nada de él desde el año pasado.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sonia ha dejado de dar clase. <u>Daba clases desde que acabó la carrera.</u> _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Elena no pintaba desde el verano pasado.</u> Ha vuelto a hacerlo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tomó pastillas para dormir. <u>Hacía dos meses que tomaba pastillas para dormir.</u> Ya no las toma. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 44,
+  "titulo_libro": "Hacía dos años que conocía a Sonia... -- Duración en el pasado",
+  "scan": "p-095.jpg"
+}

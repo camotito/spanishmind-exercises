@@ -1,0 +1,313 @@
+{
+  "tema": "unidad-82",
+  "titulo": "He estado limpiando. Iba conduciendo.",
+  "descripcion_gramatical": "Gerundio (2)",
+  "fuente": "libro",
+  "unidad_libro": 82,
+  "ejercicios": [
+    {
+      "subejercicio": "82.1",
+      "tipologia": "T8",
+      "enunciado": "Complete con la forma correcta de *estar* y el gerundio de los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Por qué estás tan cansado? - _____ mi habitación. Es agotador.",
+          "solucion_correcta": [
+            "He estado pintando"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando era joven, _____ en una plataforma petrolífera cinco meses.",
+          "solucion_correcta": [
+            "estuve trabajando"
+          ]
+        },
+        {
+          "texto_enunciado": "Las costumbres _____. Hoy día casi nadie lava a mano.",
+          "solucion_correcta": [
+            "están cambiando"
+          ]
+        },
+        {
+          "texto_enunciado": "No dejes de venir el jueves. Te _____.",
+          "solucion_correcta": [
+            "estaré esperando"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira la hora. ¿No crees que _____ el tiempo con ese videojuego?",
+          "solucion_correcta": [
+            "estás perdiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge es un cara. Ya se ha ido, pero _____ aquí dos años sin pagar un euro.",
+          "solucion_correcta": [
+            "ha estado viviendo"
+          ]
+        },
+        {
+          "texto_enunciado": "En 2002 mis amigos Pablo y Silvia _____ por Indonesia.",
+          "solucion_correcta": [
+            "estuvieron viajando"
+          ]
+        },
+        {
+          "texto_enunciado": "Los ecologistas insisten en que _____ el clima.",
+          "solucion_correcta": [
+            "está cambiando"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "cambiar (2)",
+        "esperar",
+        "perder",
+        "pintar",
+        "trabajar",
+        "viajar",
+        "vivir"
+      ]
+    },
+    {
+      "subejercicio": "82.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Jorge estaba diciendo que la culpa era mía. (andar) _____",
+          "solucion_correcta": [
+            "Jorge andaba diciendo que la culpa era mía"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Dónde estáis ahora? -Estamos paseando por la playa. (ir) _____",
+          "solucion_correcta": [
+            "Vamos paseando por la playa"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese Mercedes cuesta unos 25 000 euros. (venir) _____",
+          "solucion_correcta": [
+            "Ese Mercedes viene costando unos 25 000 euros"
+          ]
+        },
+        {
+          "texto_enunciado": "Seguro que Rafa está perdiendo el tiempo con esa chica. (andar) _____",
+          "solucion_correcta": [
+            "Seguro que Rafa anda perdiendo el tiempo con esa chica"
+          ]
+        },
+        {
+          "texto_enunciado": "Los problemas se estaban resolviendo poco a poco. (irse) _____",
+          "solucion_correcta": [
+            "Los problemas se iban resolviendo poco a poco"
+          ]
+        },
+        {
+          "texto_enunciado": "No veo bien a Lola. Hace tiempo que me preocupa. (venir) _____",
+          "solucion_correcta": [
+            "No veo bien a Lola. Hace tiempo que me viene preocupando"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando tuvimos el accidente conducía Manuel. (ir) _____",
+          "solucion_correcta": [
+            "Cuando tuvimos el accidente iba conduciendo Manuel"
+          ]
+        },
+        {
+          "texto_enunciado": "Jesús siempre está pidiendo dinero a los amigos. (andar) _____",
+          "solucion_correcta": [
+            "Jesús siempre anda pidiendo dinero a los amigos"
+          ]
+        },
+        {
+          "texto_enunciado": "Mejoro muy lentamente. (ir) _____",
+          "solucion_correcta": [
+            "Voy mejorando muy lentamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Es algo que estoy meditando desde hace un tiempo. (venir) _____",
+          "solucion_correcta": [
+            "Es algo que vengo meditando desde hace un tiempo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "82.3",
+      "tipologia": "T8",
+      "enunciado": "Complete con la forma correcta de *haber* y el gerundio de los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "¡Mira! _____ una serpiente _____ por ese árbol.",
+          "solucion_correcta": [
+            "Hay",
+            "subiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "No se podía estar en el parque. _____ mucha gente _____.",
+          "solucion_correcta": [
+            "Había",
+            "paseando"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que ayer _____ una multitud _____ a Brad Pitt.",
+          "solucion_correcta": [
+            "había",
+            "esperando"
+          ]
+        },
+        {
+          "texto_enunciado": "Me parece que _____ alguien _____ al timbre.",
+          "solucion_correcta": [
+            "hay",
+            "llamando"
+          ]
+        },
+        {
+          "texto_enunciado": "El año que viene _____ más gente _____ libros electrónicos.",
+          "solucion_correcta": [
+            "habrá",
+            "leyendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Debe de _____ pajaritos _____ en ese nido.",
+          "solucion_correcta": [
+            "haber",
+            "viviendo"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "esperar",
+        "leer",
+        "llamar",
+        "pasear",
+        "subir",
+        "vivir"
+      ]
+    },
+    {
+      "subejercicio": "82.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir con *seguir*, *continuar*, *acabar* o *terminar*.",
+      "items": [
+        {
+          "texto_enunciado": "Todavía vivo en Alicante. _____",
+          "solucion_correcta": [
+            "Sigo viviendo en Alicante"
+          ]
+        },
+        {
+          "texto_enunciado": "No dejéis de empujar. _____",
+          "solucion_correcta": [
+            "Continuad empujando / Seguid empujando"
+          ]
+        },
+        {
+          "texto_enunciado": "Finalmente nos compramos el apartamento de la costa. _____",
+          "solucion_correcta": [
+            "Terminamos/Acabamos comprándonos el apartamento de la costa"
+          ]
+        },
+        {
+          "texto_enunciado": "No dejaremos de estudiar español. _____",
+          "solucion_correcta": [
+            "Seguiremos estudiando español"
+          ]
+        },
+        {
+          "texto_enunciado": "Al final os separaréis. _____",
+          "solucion_correcta": [
+            "Acabaréis/Terminaréis separándoos"
+          ]
+        },
+        {
+          "texto_enunciado": "Marta todavía colabora con una ONG. _____",
+          "solucion_correcta": [
+            "Marta sigue colaborando con una ONG"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Aún sales con Alicia? _____",
+          "solucion_correcta": [
+            "¿Sigues saliendo con Alicia?"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé cómo al final nos hemos alojado en este hotel. _____",
+          "solucion_correcta": [
+            "No sé cómo hemos terminado/acabado alojándonos en este hotel"
+          ]
+        },
+        {
+          "texto_enunciado": "El bebé no paró de llorar hasta que nos fuimos. _____",
+          "solucion_correcta": [
+            "El bebé continuó/siguió llorando hasta que nos fuimos"
+          ]
+        },
+        {
+          "texto_enunciado": "Al cabo de un tiempo se hicieron grandes amigos. _____",
+          "solucion_correcta": [
+            "Al cabo de un tiempo acabaron/terminaron haciéndose grandes amigos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "82.5",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con el gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "Conocí a Pilar cuando hacía un crucero. _____",
+          "solucion_correcta": [
+            "Conocí a Pilar haciendo un crucero"
+          ]
+        },
+        {
+          "texto_enunciado": "Han fotografiado a nuestro director cuando hablaba con el Presidente. _____",
+          "solucion_correcta": [
+            "Han fotografiado a nuestro director hablando con el Presidente"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he encontrado con Ezequiel cuando salía de su casa. _____",
+          "solucion_correcta": [
+            "Me he encontrado con Ezequiel saliendo de su casa"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa estatua representa a Narciso mientras se miraba en el lago. _____",
+          "solucion_correcta": [
+            "Esa estatua representa a Narciso mirándose en el lago"
+          ]
+        },
+        {
+          "texto_enunciado": "El jefe pilló a Pablo mientras leía la prensa en internet. _____",
+          "solucion_correcta": [
+            "El jefe pilló a Pablo leyendo la prensa en internet"
+          ]
+        },
+        {
+          "texto_enunciado": "Te he hecho una foto cuando salías del museo. _____",
+          "solucion_correcta": [
+            "Te he hecho una foto saliendo del museo"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos han filmado en la manifestación cuando llevábamos la pancarta. _____",
+          "solucion_correcta": [
+            "Nos han filmado en la manifestación llevando la pancarta"
+          ]
+        }
+      ]
+    }
+  ]
+}

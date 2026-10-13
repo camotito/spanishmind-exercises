@@ -1,0 +1,190 @@
+{
+ "ejercicios": [
+  {
+   "subejercicio": "7.1",
+   "tipologia": "T2",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *este...*, *ese...* o *aquel...*",
+   "contexto_grafico": {
+    "tipo": "descripcion_libre",
+    "datos": [
+     "1. Dos personas sentadas dentro de una sala de cine viendo la pantalla.",
+     "2. Dos personas en la acera señalando un edificio de teatro al otro lado de la calle.",
+     "3. Un niño mostrándole un dedo herido de su propia mano a una niña.",
+     "4. Dos excursionistas mirando a lo lejos unas montañas en el horizonte.",
+     "5. Una pareja dentro de una casa desocupada y visiblemente espaciosa."
+    ]
+   },
+   "items": [
+    {
+     "texto_enunciado": "_____ cine es magnífico.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "En _____ teatro vi mi primera obra",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Tengo una herida en _____ dedo.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿Ves _____ montañas? Ahí tenemos que llegar.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "_____ casa es demasiado grande para nosotros.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "7.2",
+   "tipologia": "T9",
+   "tipologia_libre": "Flexionar morfológicamente y ordenar sintácticamente las palabras dadas entre paréntesis para completar los huecos de la frase.",
+   "enunciado": "Ponga las palabras entre paréntesis en la forma y el orden adecuados.",
+   "items": [
+    {
+     "texto_enunciado": "¿Ves (ese, coche, negro, el) _____? (Ese) _____ es el mío.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Ves (esa, barca) _____? -¿Cuáles? ¿(esa, azul) _____?",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿Es tuya (verde, chaqueta, esta, la) _____? Sí. (verde, esa) _____ es la mía.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No he podido encontrar (película, esa, la) _____ de la que te hablé.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(maceta, la, esta) _____ huelen muy bien. ¿Por qué no me regalas (esa) _____ dos?",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¡Cuidado! (losa, esta) _____ están levantadas. Puedes resbalar con (esta) _____ lluvia.",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Flexionar morfológicamente y ordenar sintácticamente las palabras dadas entre paréntesis para completar los huecos de la frase."
+  },
+  {
+   "subejercicio": "7.3",
+   "tipologia": "T3",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *este*, *esta*, *ese*, *esa* o *aquel*, *aquella*.",
+   "items": [
+    {
+     "texto_enunciado": "-Lola, te estoy esperando. -Ya voy. En _____ momento estoy saliendo de casa.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Recuerdo _____ verano. Fue terrible. Incendios por todas partes.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "En _____ momento no tenemos mucho trabajo.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "_____ domingo vamos a ir a la costa. ¿Te vienes?",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿Te acuerdas cuando nació Javi? _____ primavera llovió muchísimo.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Llegué tarde y en _____ preciso momento sonó el teléfono.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Qué haces _____ tarde? -Nada.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "7.4",
+   "tipologia": "T3",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *este...*, *ese...* o *aquel...*",
+   "items": [
+    {
+     "texto_enunciado": "Conozco Pekín y Shangai. De _____ me gusta la parte moderna y de _____ la parte tradicional.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿Quién es _____ novelista que le recomendaste a Raquel?",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Lo siento. Lo hiciste mal. No se pueden hacer las cosas de _____ manera.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Nos recibió con _____ palabras: \"Bienvenidos a mi humilde hogar.\"",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "He hablado con Armando y Julio. _____ dice que no quiere saber nada de _____.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Lo siento, pero no me acuerdo de _____ película de que me hablas.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿Te acuerdas de _____ mujer que conocimos en Tánger? Está muy enferma.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "7.5",
+   "tipologia": "T3",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *esto*, *eso* y *aquello*.",
+   "items": [
+    {
+     "texto_enunciado": "Toma. Pon _____ en la mesa.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Y una vez dicho _____, creo que podemos pasar a otro tema.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ya te avisé. _____ es lo que ocurre cuando no se tiene cuidado.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Lo siento, pero _____ es todo el dinero que tengo.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Qué es _____ que hay en la cima? -Parece una bandera.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Tienes que ayudar. -No sé por qué dices _____. Yo ayudo.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Paseamos, nos damos un baño, dormimos. _____ es lo que hacemos cuando estamos de vacaciones.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-La familia de Jorge no tiene dinero. -¿Y crees que _____ importa?",
+     "estimulo_visual": null
+    }
+   ]
+  }
+ ],
+ "unidad": 7,
+ "titulo_libro": "este..., ese..., aquel... -- Demostrativos (1)",
+ "scan": "p-022.jpg"
+}

@@ -1,0 +1,268 @@
+{
+  "tema": "unidad-4",
+  "titulo": "un Picasso, el Madrid de los Austrias",
+  "descripcion_gramatical": "Los artículos con nombres de personas y de lugares",
+  "fuente": "libro",
+  "unidad_libro": 4,
+  "ejercicios": [
+    {
+      "subejercicio": "4.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con el artículo adecuado en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "¿Has visto a _____ Ramón?",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ María, pregunta por ti _____ tal Ramón.",
+          "solucion_correcta": [
+            "ø",
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero hablar con _____ doctor Meroño.",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira, aquella es _____ Ana de la que te hablé.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Vicente, venga a mi despacho, por favor.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "En el cine español, solo ha habido _____ Buñuel.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "Salió a saludar _____ Plácido Domingo agradecido.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ doctora Aguirre está ocupada.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Sulleiros proceden de Galicia.",
+          "solucion_correcta": [
+            "Los"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Migueles suelen ser muy rebeldes.",
+          "solucion_correcta": [
+            "Los"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "4.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con los nombres entre paréntesis en la forma adecuada y *el*, *la*, *los* o *las*.",
+      "items": [
+        {
+          "texto_enunciado": "¿Has visto la última película de (Almodóvar) _____.",
+          "solucion_correcta": [
+            "Almodóvar"
+          ]
+        },
+        {
+          "texto_enunciado": "(Machado) _____ eran poetas muy diferentes.",
+          "solucion_correcta": [
+            "Los Machado"
+          ]
+        },
+        {
+          "texto_enunciado": "Me llaman (Africano) _____ porque tengo la piel muy morena.",
+          "solucion_correcta": [
+            "el Africano"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Cómo ha cantado hoy (Caballé) _____!",
+          "solucion_correcta": [
+            "la Caballé"
+          ]
+        },
+        {
+          "texto_enunciado": "(Loren) _____ fue una actriz única.",
+          "solucion_correcta": [
+            "La Loren"
+          ]
+        },
+        {
+          "texto_enunciado": "(García) _____ son una familia encantadora.",
+          "solucion_correcta": [
+            "Los García"
+          ]
+        },
+        {
+          "texto_enunciado": "Este fin de semana salimos con (Velasco) _____.",
+          "solucion_correcta": [
+            "los Velasco"
+          ]
+        },
+        {
+          "texto_enunciado": "(Gandhi) _____ son una familia de larga tradición en la India.",
+          "solucion_correcta": [
+            "Los Gandhi"
+          ]
+        },
+        {
+          "texto_enunciado": "(Grimaldi) _____ son los gobernantes de Mónaco.",
+          "solucion_correcta": [
+            "Los Grimaldi"
+          ]
+        },
+        {
+          "texto_enunciado": "Como ha nacido en Moscú, a Luisa la llaman (Rusa) _____.",
+          "solucion_correcta": [
+            "la Rusa"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "4.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Me venden (un/ø) Omega por 10 euros. Debe de ser falso.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/ø) Omega es una buena marca.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/ø) Matisse que tiene Carlos es falso.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/ø) Matisse fue un artista muy vanguardista.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Me van a regalar (un/ø) Rólex por mi cumpleaños.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/ø) Seat es una marca de coches española.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Ricardo va a cambiar su Seat por (un/ø) Opel.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "El MOMA tiene (unos/ø) Picassos extraordinarios.",
+          "solucion_correcta": [
+            "unos"
+          ]
+        },
+        {
+          "texto_enunciado": "(La/ø) Yamaha de José Luis tiene ya muchos kilómetros.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi hija me ha regalado (unas/ø) Nikes azules por mi cumpleaños.",
+          "solucion_correcta": [
+            "unas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "4.4",
+      "tipologia": "T3",
+      "enunciado": "Complete con *el*, *la* o *un*, *una* solo en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "_____ Italia es un país precioso.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Brasil actual es un país muy desarrollado.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "Todo el mundo quiere _____ México más seguro.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ África negra ocupa más de tres cuartas partes de _____ África.",
+          "solucion_correcta": [
+            "El",
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ España de principios del siglo XXI es muy diferente de _____ España de principios del XX.",
+          "solucion_correcta": [
+            "La",
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Recuerdo con cariño _____ Chile de hace cincuenta años.",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "Rubén escribió con maestría a _____ América indígena.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "Queremos pasar la Navidad en _____ Egipto.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        }
+      ]
+    }
+  ]
+}

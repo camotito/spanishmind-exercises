@@ -1,0 +1,228 @@
+{
+  "tema": "unidad-40",
+  "titulo": "Anoche vi a Sofía.",
+  "descripcion_gramatical": "Pretérito indefinido",
+  "fuente": "libro",
+  "unidad_libro": 40,
+  "ejercicios": [
+    {
+      "subejercicio": "40.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "-¿A qué hora _____ el concierto anoche? -A la una. _____ tres horas.",
+          "solucion_correcta": [
+            "terminó",
+            "Duró"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuándo _____ la carrera, Mario? -En 2005. _____ seis años en acabarla, y luego _____ un máster en Dirección de Empresas.",
+          "solucion_correcta": [
+            "empezaste",
+            "Tardé",
+            "hice"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuándo _____ el hijo mayor de César? -En el año 2001, creo.",
+          "solucion_correcta": [
+            "nació"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer (nosotros) _____ dos horas por el campo, pero no _____ llegar al lago.",
+          "solucion_correcta": [
+            "anduvimos",
+            "conseguimos"
+          ]
+        },
+        {
+          "texto_enunciado": "-El domingo (nosotros) _____ a ver a Enrique al hospital. -¿Cómo _____? -En autobús. _____ mucho en pasar. _____ que esperar unos veinte minutos.",
+          "solucion_correcta": [
+            "fuimos",
+            "fuisteis",
+            "Tardó",
+            "Tuvimos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuánto _____ la operación de Enrique? -Unas dos horas. _____ a las once y _____ a la una.",
+          "solucion_correcta": [
+            "duró",
+            "Empezó",
+            "acabó"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuánto hace que _____ tu abuelo? -Ayer _____ un año.",
+          "solucion_correcta": [
+            "murió",
+            "hizo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿A qué hora _____ a llover anoche? -Tarde. Sobre las dos.",
+          "solucion_correcta": [
+            "empezó"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuándo _____ de que Carlos se casaba? -_____ hace dos días.",
+          "solucion_correcta": [
+            "te enteraste",
+            "Me enteré"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acabar",
+        "andar",
+        "conseguir",
+        "durar (2)",
+        "empezar (3)",
+        "enterarse (2)",
+        "hacer (2)",
+        "ir (2)",
+        "morir",
+        "nacer",
+        "tardar (2)",
+        "tener",
+        "terminar"
+      ]
+    },
+    {
+      "subejercicio": "40.2",
+      "tipologia": "T8",
+      "enunciado": "Complete estas narraciones y biografías con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Leo _____ a Renata en la ventana. _____ y le _____ algo. Entonces Renata _____ de la habitación y al cabo de un minuto _____ con un pequeño paquete. Se lo _____ a Leo. Este lo _____, _____ a Renata y _____.",
+          "solucion_correcta": [
+            "vio",
+            "Se acercó",
+            "dijo",
+            "salió",
+            "regresó",
+            "entregó",
+            "abrió",
+            "sonrió",
+            "se fue"
+          ]
+        },
+        {
+          "texto_enunciado": "Pedro Almodóvar _____ en Calzada de Calatrava, Ciudad Real, en 1950. _____ en una familia de valores tradicionales. A los ocho años la familia _____ a vivir a Extremadura, donde Pedro _____ el bachillerato. A los dieciséis años _____ a vivir a Madrid, donde _____ a hacer sus primeras películas como aficionado y _____ un grupo de glam-rock. En 1980 _____ su primera película profesional. En 1999 _____ su primer óscar y en 2002 el segundo.",
+          "solucion_correcta": [
+            "nació",
+            "Creció",
+            "se fue",
+            "terminó",
+            "se fue",
+            "comenzó",
+            "creó",
+            "hizo",
+            "ganó"
+          ]
+        },
+        {
+          "texto_enunciado": "Los esposos Curie _____ un ejemplo de grandes investigadores. Antes de conocer a su esposa, Pierre Curie y su hermano Jacques _____ importantes descubrimientos en el campo de la electricidad y del magnetismo. Pierre y su esposa, Maria Sklowdoska _____ en 1894 y _____ un año después. Los dos esposos _____ la radiactividad natural y _____ el Premio Nobel de Física en 1903 por sus investigaciones. Pierre _____ en un accidente en 1906, pero Maria _____ investigando y _____ a ganar el Premio Nobel, esta vez en Química, en 1911, por el descubrimiento del radio. Pierre y Maria _____ una hija, Irène, que _____ su labor investigadora. Irène y su esposo, Frédéric Joliot, _____ el Premio Nobel de Química en 1935 por sus estudios de la radiactividad artificial.",
+          "solucion_correcta": [
+            "fueron",
+            "realizaron",
+            "se conocieron",
+            "se casaron",
+            "estudiaron",
+            "ganaron",
+            "murió",
+            "siguió",
+            "volvió",
+            "tuvieron",
+            "continuó",
+            "recibieron"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        [
+          "abrir",
+          "acercarse",
+          "decir",
+          "entregar",
+          "irse",
+          "regresar",
+          "salir",
+          "sonreír",
+          "ver"
+        ],
+        [
+          "crear",
+          "crecer",
+          "comenzar",
+          "ganar",
+          "hacer",
+          "irse (2)",
+          "nacer",
+          "terminar"
+        ],
+        [
+          "casarse",
+          "conocerse",
+          "continuar",
+          "estudiar",
+          "ganar",
+          "morir",
+          "realizar",
+          "recibir",
+          "seguir",
+          "ser",
+          "tener",
+          "volver"
+        ]
+      ]
+    },
+    {
+      "subejercicio": "40.3",
+      "tipologia": "T12",
+      "enunciado": "Escriba frases con las palabras dadas y el verbo ser en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Pudiste convencer a Charo? -Sí, (fácil/convencerla) _____",
+          "solucion_correcta": [
+            "fue fácil convencerla"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cómo se portó Roberto? -(desagradable con Eva) _____",
+          "solucion_correcta": [
+            "Fue desagradable con Eva"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Lograste hablar con Toñi? -No, (imposible/localizarla) _____",
+          "solucion_correcta": [
+            "fue imposible localizarla"
+          ]
+        },
+        {
+          "texto_enunciado": "(De la Cierva / un gran inventor) _____",
+          "solucion_correcta": [
+            "De la Cierva fue un gran inventor"
+          ]
+        },
+        {
+          "texto_enunciado": "(Los mayas / grandes astrónomos) _____",
+          "solucion_correcta": [
+            "Los mayas fueron grandes astrónomos"
+          ]
+        },
+        {
+          "texto_enunciado": "(Las olimpiadas de 2008 / espectaculares) _____",
+          "solucion_correcta": [
+            "Las olimpiadas de 2008 fueron espectaculares"
+          ]
+        }
+      ]
+    }
+  ]
+}

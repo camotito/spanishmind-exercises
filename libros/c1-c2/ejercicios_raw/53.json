@@ -1,0 +1,262 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "53.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba la forma de la primera persona del plural del imperativo de los verbos siguientes.",
+      "items": [
+        {
+          "texto_enunciado": "(huir) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(acostarse) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(ser) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(seguir) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(despertarse) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(poner) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(decir) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(recordar) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(cantar) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(ver) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(ponerse) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(correr) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(sentarse) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(sentir) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(pedir) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "53.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *vamos*, *vamos a* o *vámonos*.",
+      "items": [
+        {
+          "texto_enunciado": "Julián quiere contarnos algo. _____ a su casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este despacho esta muy sucio. _____ a otro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es muy tarde ya. _____ dormir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aquí hace frío. _____ ya.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ cantar algo, chicos. Tenemos que ensayar para la fiesta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Parece que no hay nadie aquí, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Habéis terminado los ejercicios? _____ corregirlos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya está puesta la mesa. _____ comer.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "53.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la forma correcta de los verbos del recuadro en afirmativa o negativa.",
+      "banco_palabras": [
+        "ayudar",
+        "comprar",
+        "cuidar",
+        "esperar",
+        "hacer (2)",
+        "ir",
+        "jugar (2)",
+        "malgastar",
+        "mantener",
+        "precipitarse",
+        "salvar",
+        "sentarse",
+        "seguir",
+        "ser (2)",
+        "subir",
+        "tener",
+        "usar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "No tenemos prisa. _____ un rato.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ a esa colina. Desde allí podemos ver toda la comarca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Como estamos aburridos, _____ a las cartas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenemos que tener cuidado. _____ imprudentes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta tienda es muy cara. _____ aquí. _____ a otro sitio",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ memoria. ¿Cuándo fue la última vez que llamó Lucas?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ sinceros. Arturo no nos cae bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ un rato, y si no viene Carlos, nos vamos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenemos que ponernos en forma. _____ corriendo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A ver, chicos, _____ la calma y _____ con tranquilidad. Este partido es nuestro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ a la economía. _____ la energía con prudencia. _____ los recursos nacionales.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ a los niños. Son nuestro futuro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ la Tierra. No tenemos otra.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ paciencia. _____ a tomar una decisión.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ caso de lo que dicen. Sabemos que no tienen razón.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "53.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las sugerencias con formas de imperativo y los pronombres de objeto necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "-Vamos a comprar esa tarta. -Sí, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Vamos a darle la noticia. -Sí, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Hacemos una paella? -Sí, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Lo pensamos? -Bueno, _____ un rato.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Le decimos a Luis que no ha aprobado? -No, _____ ahora. Ya se enterará.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Entregamos los regalos a los ganadores? -Sí, _____ ya.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué, compramos el coche? -No, _____. Es muy caro y no tenemos dinero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Nos bajamos en esta parada? -Sí, _____ aquí. Es mejor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Creo que es mejor que lo olvidemos. -Sí, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Subimos las sillas a la terraza? -Sí, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Empujamos el coche? -Sí, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Vamos a hacer una hoguera. -Sí, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Soltamos al canario? -Sí, _____. A ver qué hace.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 53,
+  "titulo_libro": "Pensemos, no nos precipitemos. -- Imperativo (2)",
+  "scan": "p-113.jpg"
+}

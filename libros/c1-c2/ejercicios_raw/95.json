@@ -1,0 +1,191 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "95.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *como*.",
+      "items": [
+        {
+          "texto_enunciado": "A lo mejor llegamos tarde. No nos van a dejar entrar. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A lo mejor se entera Raquel. Se va a enfadar. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A lo mejor me vuelve a gritar. Me voy. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A lo mejor te pones esa chaqueta. No voy contigo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A lo mejor me da plantón. No vuelvo a quedar con ella. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Exprese temor o amenaza con *como* como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "He vuelto a llegar tarde y a lo mejor se lo dices al director. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He hecho mal el examen y a lo mejor vuelvo a suspender. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He roto el jarrón y a lo mejor se lo dices a mamá. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vamos tarde y a lo mejor perdemos el avión. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No quiero que fumes y a lo mejor te vuelvo a ver fumando. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *que* como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "Te lo puede pedir o no. Si lo hace, dáselo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Puede hacer bueno o no. Podemos ir a la playa o quedarnos en casa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te pueden invitar o no. Si lo hacen, vas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te puede gustar la comida o no. Si te gusta, cómela. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te pueden dar la beca o no. Si te la dan, la aceptas, si no, vuelves a solicitarla. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con el imperativo.",
+      "items": [
+        {
+          "texto_enunciado": "Si me llamas, te ayudo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no te callas, me voy. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si te atreves a hacerlo, verás. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si lo haces te arrepentirás. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no apruebas el curso, no te compro la moto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si vuelves a contestarme, te quedas sin salir. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.5",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con el gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "Si trabajamos juntos, lo conseguiremos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si ayudas a la gente, te sientes mejor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si gritas, no me vas a convencer. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ese dolor se te pasa si duermes. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si llegáis a la hora, no habrá ningún problema. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.6",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir lo subrayado con *con* o *de + infinitivo*.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Si os vais a ir</u> _____, hacedlo antes de que se haga de noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si gastáis menos un par de meses</u> _____, ahorraréis para comprar la impresora.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si es cierto lo que dices</u> _____, me he equivocado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si tienes razón</u> _____, ya deberías haber reservado las habitaciones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si me avisas un día antes</u> _____, es suficiente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si vas a venir</u> _____, ven cuanto antes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si te presentas al examen</u> _____, es suficiente; apruebas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si no se lo dices a nadie</u> _____, no sospecharán de ti.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 95,
+  "titulo_libro": "como pierda el trabajo, de ser así -- Oraciones condicionales (2)",
+  "scan": "p-197.jpg"
+}

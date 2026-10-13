@@ -1,0 +1,215 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "15.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Indique la persona a la que se refiere el verbo.",
+      "items": [
+        {
+          "texto_enunciado": "Veraneo en la costa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Cuándo fuisteis a Bolivia? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Saben algo de Andrés? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Dónde has comprado eso? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo compré en el mercado. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿A qué hora acabaste? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No la conocemos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se fue temprano. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.2",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Elija la forma más adecuada. En algunos casos sirven las dos respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "(Yo/ø) trabajo en una multinacional.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Dónde vive Raúl? -(Yo/ø) no lo sé, pero (ellas/ø) sí lo saben.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Quién es? -Soy (yo/ø), Virgilio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Vosotras/ø) no sois españolas, ¿verdad?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué quieren tus amigos? -(Él/ø) quiere un café y (ella/ø) quiere un té.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Perdonad, ¿(vosotros/ø) habéis oído ruidos en el sótano?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No sé quién ha sido pero (ellos/ø) me han quitado la cartera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te has equivocado. (Yo/ø) soy panameño y (él/ø) es uruguayo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el pronombre personal adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "¡Qué equivocado estaba mi padre! _____ decía siempre que _____ nunca sería médico. Y ahora soy cirujano en un gran hospital.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Raúl dice que Marta y él son novios. -¡Qué más quisiera _____! Pero a Marta le gusta Ramón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Dónde estaba _____ cuando Alonso tuvo el accidente? -Estaba trabajando.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Su sobrino me ha regalado una agenda. Espero que _____ sea más generoso, don Joaquín.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Sandra y Roberto dicen que van a comer con los reyes. -¡Qué más quisieran _____! Les saludarán en la recepción y luego se irán.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El otro día soñé con usted. _____ iba por la calle y _____ venía en un coche. Cuando _____ me vio, detuvo el coche y se bajó.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el pronombre personal adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "-Mamá quiere que vayamos a ver al abuelo. -¡Que vaya _____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ escucha y aprende.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Te has vuelto a dejar la luz encendida, Lolo. -¡Pero si _____ no he sido!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ pasad, niñas. Y _____, Juan, espera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ quédese aquí sentada. _____ salgan, por favor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Daniel y Gloria quieren que hagas una fiesta. -¡Que la hagan _____!",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.5",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *yo*, *tú*, *él*... y *solo*, *sola*..., o *mismo*, *misma*... en los casos necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No te preocupes por Arturo. Sabe prepararse la comida _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Y quién te lava el coche, María? -Lo lavo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Hay que conectar la alarma? -No hace falta. Se conecta _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te digo nada porque tus padres quieren darte la noticia _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cómo enfrías el motor? -No hay que hacer nada. Se enfría _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Dónde te cortas el pelo? -En ningún sitio. Me lo corto _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Os acompañó alguien al aeropuerto? -No. Fuimos _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo haría la tortilla, pero no la hago porque sé que María prefiere hacerla _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.6",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Relacione las frases con *ello* o *eso*.",
+      "items": [
+        {
+          "texto_enunciado": "Me duele la pierna. / No me impide ir a verte. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llegué tarde. / Pero no justifica que me gritaras. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me acuerdo de eso que dices. / Pero no significa que no haya leído el libro. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Martín no nos ha llamado. / No significa que esté enfadado con nosotros. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 15,
+  "titulo_libro": "él mismo, ello -- Pronombres personales de sujeto",
+  "scan": "p-038.jpg"
+}

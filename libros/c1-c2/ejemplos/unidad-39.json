@@ -1,0 +1,255 @@
+{
+  "tema": "unidad-39",
+  "titulo": "Cuando estudiaba. Mientras dormíamos.",
+  "descripcion_gramatical": "Pretérito imperfecto",
+  "fuente": "libro",
+  "unidad_libro": 39,
+  "ejercicios": [
+    {
+      "subejercicio": "39.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el pretérito imperfecto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-¿(tú, hacer) _____ algún deporte de joven? -Sí, (yo, hacer) _____ esquí acuático.",
+          "solucion_correcta": [
+            "Hacías",
+            "hacía"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde (vosotros, estar) _____ cuando se inició el incendio?",
+          "solucion_correcta": [
+            "estabais"
+          ]
+        },
+        {
+          "texto_enunciado": "De pequeño, Luis (jugar) _____ muy bien al fútbol.",
+          "solucion_correcta": [
+            "jugaba"
+          ]
+        },
+        {
+          "texto_enunciado": "La madre de José (ser) _____ escritora. (ella, escribir) _____ novelas de misterio.",
+          "solucion_correcta": [
+            "era",
+            "Escribía"
+          ]
+        },
+        {
+          "texto_enunciado": "Ahora estoy jubilado, pero cuando (yo, trabajar) _____, (yo, ganar) _____ bastante dinero.",
+          "solucion_correcta": [
+            "trabajaba",
+            "ganaba"
+          ]
+        },
+        {
+          "texto_enunciado": "La casa donde vivíamos en Alicante (tener) _____ jardín y piscina.",
+          "solucion_correcta": [
+            "tenía"
+          ]
+        },
+        {
+          "texto_enunciado": "A Andrés le dio un mareo mientras (él, ducharse) _____.",
+          "solucion_correcta": [
+            "se duchaba"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir estas frases de forma más cortés.",
+      "items": [
+        {
+          "texto_enunciado": "Quiero saber si tienen vacantes. _____",
+          "solucion_correcta": [
+            "Quería saber si tienen vacantes"
+          ]
+        },
+        {
+          "texto_enunciado": "Buenos días. Busco al Sr. Moreno. _____",
+          "solucion_correcta": [
+            "Buenos días. Buscaba al Sr. Moreno"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdona, Alberto. ¿Quieres algo? _____",
+          "solucion_correcta": [
+            "Perdona, Alberto. ¿Querías algo?"
+          ]
+        },
+        {
+          "texto_enunciado": "Llamo para preguntar por Rosario Alcocer. _____",
+          "solucion_correcta": [
+            "Llamaba para preguntar por Rosario Alcocer"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesito dos días libres, don Manuel. _____",
+          "solucion_correcta": [
+            "Necesitaba dos días libres, don Manuel"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las expresiones de sorpresa o censura con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-Lucía se ha ido al cine. -Pero ¿(estar enferma) _____?",
+          "solucion_correcta": [
+            "no estaba enferma"
+          ]
+        },
+        {
+          "texto_enunciado": "-¡Qué agradable es don Roque! -Pero si no (poder verlo) _____.",
+          "solucion_correcta": [
+            "podías verlo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué haces levantada? ¿(tener gripe) _____?",
+          "solucion_correcta": [
+            "No tenías gripe"
+          ]
+        },
+        {
+          "texto_enunciado": "-No llevo dinero. No puedo pagar los bocadillos. -¡Pero si (acabar) _____ de sacar dinero del cajero...!",
+          "solucion_correcta": [
+            "acababas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Ahora que he sacado los billetes dices que no vienes? Pero ¿(querer) _____ ir de vacaciones?",
+          "solucion_correcta": [
+            "no querías"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las disculpas con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Lo siento. (creer) _____ que este móvil era el mío.",
+          "solucion_correcta": [
+            "Creía"
+          ]
+        },
+        {
+          "texto_enunciado": "Disculpe. No (saber) _____ que estaba hablando por teléfono.",
+          "solucion_correcta": [
+            "sabía"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdone, señora. No (querer) _____ llamar a estas horas, pero (necesitar) _____ hablar con su hijo lo antes posible.",
+          "solucion_correcta": [
+            "quería",
+            "necesitaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Hola, Carmela. No he ido a verte porque (suponer) _____ que estabas de viaje.",
+          "solucion_correcta": [
+            "suponía"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.5",
+      "tipologia": "T12",
+      "enunciado": "Exprese deseos sobre lo indicado.",
+      "items": [
+        {
+          "texto_enunciado": "Acostarse y no levantarse hasta dentro de dos días. _____",
+          "solucion_correcta": [
+            "Me acostaba y no me levantaba hasta dentro de dos días"
+          ]
+        },
+        {
+          "texto_enunciado": "Tomarse un par de cervezas bien frías. _____",
+          "solucion_correcta": [
+            "Me tomaba un par de cervezas bien frías"
+          ]
+        },
+        {
+          "texto_enunciado": "Irse a Cancún y pasarse allí quince días. _____",
+          "solucion_correcta": [
+            "Me iba a Cancún y me pasaba allí quince días"
+          ]
+        },
+        {
+          "texto_enunciado": "Salir ahora mismo y no volver nunca más a esta oficina _____",
+          "solucion_correcta": [
+            "Salía ahora mismo y no volvía nunca más a esta oficina"
+          ]
+        },
+        {
+          "texto_enunciado": "Comerse una buena paella y echarse luego una siesta. _____",
+          "solucion_correcta": [
+            "Me comía una buena paella y me echaba luego una siesta"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.6",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases indicando falta de responsabilidad o duda.",
+      "items": [
+        {
+          "texto_enunciado": "Lo siento pero este sillón _____ así. Si usted no lo vio...",
+          "solucion_correcta": [
+            "era"
+          ]
+        },
+        {
+          "texto_enunciado": "No es culpa mía. La televisión ya _____ rota.",
+          "solucion_correcta": [
+            "estaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Por lo visto, Jesús _____ a trabajar hoy con su padre.",
+          "solucion_correcta": [
+            "empezaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Los amigos de Orlando llegaron ayer. Creo que _____ en su casa.",
+          "solucion_correcta": [
+            "se alojaban"
+          ]
+        },
+        {
+          "texto_enunciado": "Mercedes está en el hospital. Creo que la _____ hoy o mañana.",
+          "solucion_correcta": [
+            "operaban"
+          ]
+        },
+        {
+          "texto_enunciado": "Según dicen, esta semana _____ huelga en el metro.",
+          "solucion_correcta": [
+            "había"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "alojarse",
+        "empezar",
+        "estar",
+        "haber",
+        "operar",
+        "ser"
+      ]
+    }
+  ]
+}

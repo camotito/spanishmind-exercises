@@ -1,0 +1,260 @@
+{
+  "tema": "unidad-6",
+  "titulo": "¡El frío que hacía! ¡Lo mal que conduce!",
+  "descripcion_gramatical": "El artículo definido y lo con valor intensificador",
+  "fuente": "libro",
+  "unidad_libro": 6,
+  "ejercicios": [
+    {
+      "subejercicio": "6.1",
+      "tipologia": "T3",
+      "enunciado": "Vuelva a escribir las frases usando *el*, *la*, *los*, *las*.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo mucho sueño. ¡_____!",
+          "solucion_correcta": [
+            "¡El sueño que tengo!"
+          ]
+        },
+        {
+          "texto_enunciado": "No sabes cuánto sueño tengo. No sabes _____.",
+          "solucion_correcta": [
+            "No sabes el sueño que tengo"
+          ]
+        },
+        {
+          "texto_enunciado": "Este verano ha hecho mucho calor. ¡_____ este verano!",
+          "solucion_correcta": [
+            "¡El calor que ha hecho este verano!"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche teníamos mucho sueño. ¡_____!",
+          "solucion_correcta": [
+            "¡El sueño que teníamos anoche!"
+          ]
+        },
+        {
+          "texto_enunciado": "De pequeño pasé mucha hambre. ¡_____ de pequeño!",
+          "solucion_correcta": [
+            "¡El hambre que pasé de pequeño!"
+          ]
+        },
+        {
+          "texto_enunciado": "Bebimos mucho champán en la fiesta ¡_____ en la fiesta!",
+          "solucion_correcta": [
+            "¡El champán que bebimos en la fiesta!"
+          ]
+        },
+        {
+          "texto_enunciado": "Juana dio un salto tremendo cuando nos vio. ¡_____!",
+          "solucion_correcta": [
+            "¡El salto que dio Juana cuando nos vio!"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos hemos gastado mucho dinero estas vacaciones ¡_____ estas vacaciones!",
+          "solucion_correcta": [
+            "¡El dinero que nos hemos gastado estas vacaciones!"
+          ]
+        },
+        {
+          "texto_enunciado": "He pasado muchos sufrimientos en mi vida. ¡_____ en mi vida!",
+          "solucion_correcta": [
+            "¡Los sufrimientos que he pasado en mi vida!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.2",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir la frase subrayada con *la de*.",
+      "items": [
+        {
+          "texto_enunciado": "Alicia se compra mucha ropa. <u>Tiene muchísimos zapatos.</u> ¡_____!",
+          "solucion_correcta": [
+            "¡La de zapatos que tiene!"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge es muy sociable. <u>Tiene muchos amigos.</u> ¡_____!",
+          "solucion_correcta": [
+            "¡La de amigos que tiene!"
+          ]
+        },
+        {
+          "texto_enunciado": "Viajan mucho. <u>Jorge conoce muchos países.</u> ¡_____!",
+          "solucion_correcta": [
+            "¡La de países que conoce!"
+          ]
+        },
+        {
+          "texto_enunciado": "Laila y Rosana eran muy inteligentes. <u>Laila hablaba muchos idiomas.</u> ¡_____!",
+          "solucion_correcta": [
+            "¡La de idiomas que hablaba!"
+          ]
+        },
+        {
+          "texto_enunciado": "Roberto es muy buen vendedor. <u>Ha vendido muchísimos coches.</u> ¡_____!",
+          "solucion_correcta": [
+            "¡La de coches que ha vendido!"
+          ]
+        },
+        {
+          "texto_enunciado": "Alicia no ha tenido una vida fácil. <u>Ha pasado muchas calamidades.</u> ¡_____!",
+          "solucion_correcta": [
+            "¡La de calamidades que ha pasado!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con *lo* y la información dada.",
+      "items": [
+        {
+          "texto_enunciado": "Manuela es muy inteligente. No sabes _____.",
+          "solucion_correcta": [
+            "No sabes lo inteligente que es Manuela"
+          ]
+        },
+        {
+          "texto_enunciado": "Los Aguirre son muy raros. No te imaginas _____.",
+          "solucion_correcta": [
+            "No te imaginas lo raros que son los Aguirre"
+          ]
+        },
+        {
+          "texto_enunciado": "Arturo está muy feliz con su nuevo trabajo. ¡_____ con su nuevo trabajo!",
+          "solucion_correcta": [
+            "¡Lo feliz que está Arturo con su nuevo trabajo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Pedro cocina muy bien. ¿Has visto _____?",
+          "solucion_correcta": [
+            "¿Has visto lo bien que cocina Pedro?"
+          ]
+        },
+        {
+          "texto_enunciado": "Este chico es muy aburrido. ¡_____!",
+          "solucion_correcta": [
+            "¡Lo aburrido que es este chico!"
+          ]
+        },
+        {
+          "texto_enunciado": "Aurora canta muy mal. ¿Has oído _____?",
+          "solucion_correcta": [
+            "¿Has oído lo mal que canta Aurora?"
+          ]
+        },
+        {
+          "texto_enunciado": "Paula está muy contenta con su niño. ¿Habéis visto _____?",
+          "solucion_correcta": [
+            "¿Habéis visto lo contenta que está Paula con su niño?"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta cama es muy estrecha. ¡_____!",
+          "solucion_correcta": [
+            "¡Lo estrecha que es esta cama!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.4",
+      "tipologia": "T3",
+      "enunciado": "Complete con *lo que* y la información dada.",
+      "items": [
+        {
+          "texto_enunciado": "Aquí llueve demasiado. ¡_____ aquí!",
+          "solucion_correcta": [
+            "¡Lo que llueve aquí!"
+          ]
+        },
+        {
+          "texto_enunciado": "Carlos nos quiere mucho. ¡_____!",
+          "solucion_correcta": [
+            "¡Lo que nos quiere Carlos!"
+          ]
+        },
+        {
+          "texto_enunciado": "En esta empresa se trabaja mucho. No sabéis _____.",
+          "solucion_correcta": [
+            "No sabéis lo que se trabaja en esta empresa"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucio ronca mucho. ¡_____!",
+          "solucion_correcta": [
+            "¡Lo que ronca Lucio!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me reí mucho con los chistes de Tomás. ¡_____ con los chistes de Tomás!",
+          "solucion_correcta": [
+            "¡Lo que me reí con los chistes de Tomás!"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta noche he dormido mucho. ¡_____ esta noche!",
+          "solucion_correcta": [
+            "¡Lo que he dormido esta noche!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.5",
+      "tipologia": "T9",
+      "enunciado": "Ordene las palabras para formar frases.",
+      "items": [
+        {
+          "texto_enunciado": "Martín/fuma/que/lo ¡_____!",
+          "solucion_correcta": [
+            "¡Lo que fuma Martín!"
+          ]
+        },
+        {
+          "texto_enunciado": "de pequeño/lo/dormía/que ¡_____!",
+          "solucion_correcta": [
+            "¡Lo que dormía de pequeño!"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto/que/monedas/tiene/de/la ¡_____!",
+          "solucion_correcta": [
+            "¡La de monedas que tiene Alberto!"
+          ]
+        },
+        {
+          "texto_enunciado": "hoy/he dormido/bien/que/lo ¡_____!",
+          "solucion_correcta": [
+            "¡Lo bien que he dormido hoy!"
+          ]
+        },
+        {
+          "texto_enunciado": "que/tenía/anoche/dolor/Cecilia/el ¡_____!",
+          "solucion_correcta": [
+            "¡El dolor que tenía anoche Cecilia!"
+          ]
+        },
+        {
+          "texto_enunciado": "Felipe/raras/dice/cosas/la/de/que ¡_____!",
+          "solucion_correcta": [
+            "¡La de cosas raras que dice Felipe!"
+          ]
+        },
+        {
+          "texto_enunciado": "de/la/que/sé/historias ¡_____!",
+          "solucion_correcta": [
+            "¡La de historias que sé!"
+          ]
+        }
+      ]
+    }
+  ]
+}

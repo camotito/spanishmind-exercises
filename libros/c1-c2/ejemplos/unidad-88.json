@@ -1,0 +1,245 @@
+{
+  "tema": "unidad-88",
+  "titulo": "Porque me ha mentido. Es que no me gusta.",
+  "descripcion_gramatical": "Oraciones causales (1)",
+  "fuente": "libro",
+  "unidad_libro": 88,
+  "ejercicios": [
+    {
+      "subejercicio": "88.1",
+      "tipologia": "T8",
+      "enunciado": "Complete con las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____ vive muy cerca de aquí, nos vemos mucho.",
+          "solucion_correcta": [
+            "Como"
+          ]
+        },
+        {
+          "texto_enunciado": "No le pasó nada _____ lo sacaron a tiempo del río.",
+          "solucion_correcta": [
+            "gracias a que"
+          ]
+        },
+        {
+          "texto_enunciado": "Los hemos invitado muchas veces, pero no vienen _____ no quieren.",
+          "solucion_correcta": [
+            "porque"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿No has traído el pan? – _____ se me ha olvidado.",
+          "solucion_correcta": [
+            "Es que"
+          ]
+        },
+        {
+          "texto_enunciado": "Me lo cuentas luego, _____ ahora tengo prisa.",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ tienen muchos hijos, no están nunca solos.",
+          "solucion_correcta": [
+            "Como"
+          ]
+        },
+        {
+          "texto_enunciado": "Voy a encender la chimenea, _____ hace frío.",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿No tienes dinero? –No, _____ estoy sin trabajo",
+          "solucion_correcta": [
+            "es que"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿No vienes, Santi? – _____ tengo que estudiar.",
+          "solucion_correcta": [
+            "Es que"
+          ]
+        },
+        {
+          "texto_enunciado": "Me marcho, _____ he quedado con Ángel en casa.",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ eres de Madrid, conocerás bien El Prado.",
+          "solucion_correcta": [
+            "Puesto que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ es tu cumpleaños, invítanos a algo.",
+          "solucion_correcta": [
+            "Ya que"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "como (2)",
+        "es que (3)",
+        "gracias a que",
+        "porque",
+        "que (3)",
+        "puesto que",
+        "ya que"
+      ]
+    },
+    {
+      "subejercicio": "88.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con el nexo dado.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo varios diccionarios. Te voy a regalar uno. (como) _____",
+          "solucion_correcta": [
+            "Como tengo varios diccionarios te voy a regalar uno"
+          ]
+        },
+        {
+          "texto_enunciado": "Eres tú. Te permito que uses mi pluma. (porque) _____",
+          "solucion_correcta": [
+            "Te permito que uses mi pluma porque eres tú / Porque eres tú, te permito que uses mi pluma"
+          ]
+        },
+        {
+          "texto_enunciado": "Voy a preparar la comida. Tengo invitados. (que) _____",
+          "solucion_correcta": [
+            "Voy a preparar la comida, que tengo invitados"
+          ]
+        },
+        {
+          "texto_enunciado": "No vienen ellos. Iremos nosotros. (puesto que) _____",
+          "solucion_correcta": [
+            "Puesto que no vienen ellos, iremos nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "No me lo regalan. Me lo compraré yo. (ya que) _____",
+          "solucion_correcta": [
+            "Ya que no me lo regalan, me lo compraré yo"
+          ]
+        },
+        {
+          "texto_enunciado": "El niño no se perdió. Lo vio el policía. (gracias a que) _____",
+          "solucion_correcta": [
+            "El niño no se perdió gracias a que lo vio el policía"
+          ]
+        },
+        {
+          "texto_enunciado": "Me voy. Prefiero no discutir. (que) _____",
+          "solucion_correcta": [
+            "Me voy, que prefiero no discutir"
+          ]
+        },
+        {
+          "texto_enunciado": "No llevaba las gafas. No pude leer lo que decía el letrero. (como) _____",
+          "solucion_correcta": [
+            "Como no llevaba las gafas no pude leer lo que decía el letrero"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos conocemos hace mucho. Prefiero no enfadarme. (porque) _____",
+          "solucion_correcta": [
+            "Prefiero no enfadarme porque nos conocemos hace mucho / Porque nos conocemos hace mucho, prefiero no enfadarme"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace sol. Podrías llevar al abuelo al parque. (puesto que) _____",
+          "solucion_correcta": [
+            "Puesto que hace sol, podrías llevar al abuelo al parque"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "88.3",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "No iba a quedarme en casa sólo porque Teresa (estar) _____ de mal humor.",
+          "solucion_correcta": [
+            "estuviera"
+          ]
+        },
+        {
+          "texto_enunciado": "Ramón dice que no sale porque le (doler) _____ un poco la cabeza.",
+          "solucion_correcta": [
+            "duele"
+          ]
+        },
+        {
+          "texto_enunciado": "No voy a quedarme en casa sólo porque me (doler) _____ un poco la cabeza.",
+          "solucion_correcta": [
+            "duela"
+          ]
+        },
+        {
+          "texto_enunciado": "Pensé que no me iban a regañar porque (llegar) _____ un poco tarde.",
+          "solucion_correcta": [
+            "llegara"
+          ]
+        },
+        {
+          "texto_enunciado": "A Sonia le han puesto una multa porque no (respetar) _____ un stop.",
+          "solucion_correcta": [
+            "ha respetado"
+          ]
+        },
+        {
+          "texto_enunciado": "–Te tienes que acostar ya. –Es que (yo, querer) _____ ver el partido.",
+          "solucion_correcta": [
+            "quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "Duerme por el día porque (trabajar) _____ de noche.",
+          "solucion_correcta": [
+            "trabaja"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Por qué no aceptaste el empleo? ¿No te gustaba? –No es que no me (gustar) _____, es que pagaban muy poco.",
+          "solucion_correcta": [
+            "gustara"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿No saludaste a Gina? ¿No la viste? –No es que no la (ver) _____, es que preferí no saludarla.",
+          "solucion_correcta": [
+            "viera"
+          ]
+        },
+        {
+          "texto_enunciado": "–Come más pescado. –Es que no me (gustar) _____ mucho.",
+          "solucion_correcta": [
+            "gusta"
+          ]
+        },
+        {
+          "texto_enunciado": "No nadaba porque le (gustar) _____, sino porque se lo (mandar) _____ el médico.",
+          "solucion_correcta": [
+            "gustara",
+            "mandó / había mandado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿No quieres ir a ver a Almudena? –No es que no (querer) _____. Es que (yo, estar) _____ bastante ocupado.",
+          "solucion_correcta": [
+            "quiero",
+            "estoy"
+          ]
+        }
+      ]
+    }
+  ]
+}

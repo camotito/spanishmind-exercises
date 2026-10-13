@@ -1,0 +1,310 @@
+{
+  "tema": "unidad-103",
+  "titulo": "más años que Matusalén, menos frío de lo que pensaba",
+  "descripcion_gramatical": "Oraciones comparativas (2)",
+  "fuente": "libro",
+  "unidad_libro": 103,
+  "ejercicios": [
+    {
+      "subejercicio": "103.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con *tanto/a/os/as*, *más*, *menos* y *como*, *que*, *de*, *el/la/los/las que*, *lo que*, *lo*.",
+      "items": [
+        {
+          "texto_enunciado": "Raúl tiene _____ amigos _____ yo enemigos.",
+          "solucion_correcta": [
+            "tantos",
+            "como"
+          ]
+        },
+        {
+          "texto_enunciado": "Sheila es muy buena estudiante. Tiene _____ interés _____ normal.",
+          "solucion_correcta": [
+            "más",
+            "de lo"
+          ]
+        },
+        {
+          "texto_enunciado": "No hagas _____ comida _____ ayer. Hoy somos menos.",
+          "solucion_correcta": [
+            "tanta",
+            "como"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy no te puedo ayudar. Tengo _____ trabajo _____ ayer.",
+          "solucion_correcta": [
+            "más",
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy ha venido _____ gente _____ esperaba.",
+          "solucion_correcta": [
+            "más",
+            "de la que"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que ha habido _____ heridos _____ ha dicho la prensa.",
+          "solucion_correcta": [
+            "más",
+            "de los que"
+          ]
+        },
+        {
+          "texto_enunciado": "El problema era que yo tenía _____ dinero _____ me hacía falta.",
+          "solucion_correcta": [
+            "menos",
+            "del que"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa chica tenía _____ ambición _____ ganas de trabajar.",
+          "solucion_correcta": [
+            "más",
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que esta guía está incompleta. Tiene _____ páginas _____ tú tienes.",
+          "solucion_correcta": [
+            "menos",
+            "que la que"
+          ]
+        },
+        {
+          "texto_enunciado": "María no tiene _____ años _____ tú.",
+          "solucion_correcta": [
+            "más / tantos",
+            "que / como"
+          ]
+        },
+        {
+          "texto_enunciado": "Leonor ha donado _____ dinero _____ prometido.",
+          "solucion_correcta": [
+            "menos",
+            "del"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que no has andado _____ kilómetros _____ dijiste.",
+          "solucion_correcta": [
+            "tantos",
+            "como"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta memoria tiene _____ gigas _____ me gusta a mí.",
+          "solucion_correcta": [
+            "menos",
+            "de lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Cómo está la playa! Hay mucha _____ gente _____ habitual.",
+          "solucion_correcta": [
+            "más",
+            "de lo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Has sacado tú algo? Hay _____ dinero en la cuenta _____ había ayer.",
+          "solucion_correcta": [
+            "menos",
+            "del que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "103.2",
+      "tipologia": "T10",
+      "enunciado": "Vuelva a escribir las frases con una estructura comparativa.",
+      "items": [
+        {
+          "texto_enunciado": "Sebastián y Marta tienen los mismos años. _____",
+          "solucion_correcta": [
+            "Sebastián tiene tantos años como Marta"
+          ]
+        },
+        {
+          "texto_enunciado": "No había mucha gente. Yo esperaba más. _____",
+          "solucion_correcta": [
+            "No había tanta gente como yo esperaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos ofrecieron muchos vuelos, pero anunciaban más. _____",
+          "solucion_correcta": [
+            "Nos ofrecieron menos vuelos de los que anunciaban"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi tía tenía 60 años, pero aparentaba 40. _____",
+          "solucion_correcta": [
+            "Mi tía tenía más años de los que aparentaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Beatriz tiene muchos amigos. Yo tengo muchos enemigos. _____",
+          "solucion_correcta": [
+            "Beatriz tiene tantos amigos como yo enemigos"
+          ]
+        },
+        {
+          "texto_enunciado": "Hago muchas horas en la empresa. Los demás no hacen tantas. _____",
+          "solucion_correcta": [
+            "Hago más horas en la empresa que los demás"
+          ]
+        },
+        {
+          "texto_enunciado": "Tú tienes muchas preguntas. Yo no tengo tantas respuestas. _____",
+          "solucion_correcta": [
+            "Tú tienes más preguntas que yo respuestas"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos han dado una semana de vacaciones. Decían que nos iban a dar más. _____",
+          "solucion_correcta": [
+            "Nos han dado menos vacaciones de las que decían que nos iban a dar"
+          ]
+        },
+        {
+          "texto_enunciado": "Actualmente hay mucha gente en este pueblo. Hace 25 años había menos. _____",
+          "solucion_correcta": [
+            "Actualmente hay más gente en este pueblo que hace 25 años"
+          ]
+        },
+        {
+          "texto_enunciado": "Se han matriculado muchos alumnos. Son más de lo esperado. _____",
+          "solucion_correcta": [
+            "Se han matriculado más alumnos de los esperados / de lo esperado"
+          ]
+        },
+        {
+          "texto_enunciado": "Quieren plantar muchos árboles en esta ladera. No caben tantos. _____",
+          "solucion_correcta": [
+            "Quieren plantar más árboles de los que caben"
+          ]
+        },
+        {
+          "texto_enunciado": "Este verano ha habido pocos incendios. El verano pasado hubo más. _____",
+          "solucion_correcta": [
+            "Este verano ha habido menos incendios que el verano pasado"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo he visitado muchos países. Tú no has visitado tantas ciudades. _____",
+          "solucion_correcta": [
+            "Yo he visitado más países que tú ciudades"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "103.3",
+      "tipologia": "T8",
+      "enunciado": "Complete con *tanto/a/os/as*, *más*, *menos*.",
+      "items": [
+        {
+          "texto_enunciado": "–Tengo que perder algunos kilos. –Sí, pero yo tengo que perder _____ .",
+          "solucion_correcta": [
+            "más"
+          ]
+        },
+        {
+          "texto_enunciado": "–Hoy no hay mucha gente en la playa. –Pues yo creo que hay _____ como ayer.",
+          "solucion_correcta": [
+            "tanta"
+          ]
+        },
+        {
+          "texto_enunciado": "–Silvia ha invitado a 200 personas a su boda. –¡Qué barbaridad! Yo no invité a _____ .",
+          "solucion_correcta": [
+            "tantas"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Cojo esta bolsa de patatas de 5 kilos? –No, no necesitamos _____ .",
+          "solucion_correcta": [
+            "tantas"
+          ]
+        },
+        {
+          "texto_enunciado": "–Me piden 50 yuanes por este bolso. –Es mucho. Ofrece _____ .",
+          "solucion_correcta": [
+            "menos"
+          ]
+        },
+        {
+          "texto_enunciado": "–El mes pasado hubo 310 accidentes de carretera. –Este mes no ha habido _____ , 285.",
+          "solucion_correcta": [
+            "tantos"
+          ]
+        },
+        {
+          "texto_enunciado": "–Messi ha marcado 60 goles. –Eso no es nada. Raúl ha marcado muchos _____ .",
+          "solucion_correcta": [
+            "más"
+          ]
+        },
+        {
+          "texto_enunciado": "–Podemos recorrer 25 kilómetros al día. –Nosotros recorremos _____ , unos 20.",
+          "solucion_correcta": [
+            "menos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "103.4",
+      "tipologia": "T12",
+      "enunciado": "Escriba frases con *cuanto/a/os/as* con las palabras dadas entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Hay que hacer algo. (más problemas, haber / peor, ser, la solución) _____",
+          "solucion_correcta": [
+            "Cuantos más problemas haya, peor será la solución"
+          ]
+        },
+        {
+          "texto_enunciado": "Tú verás, pero (menos horas, tú, trabajar / menos, tú, ganar) _____",
+          "solucion_correcta": [
+            "cuantas menos horas trabajes, menos ganas"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto es muy egoísta. (más regalos, yo, hacerle / más regalos, él, querer) _____",
+          "solucion_correcta": [
+            "Cuantos más regalos le hago, más regalos quiere"
+          ]
+        },
+        {
+          "texto_enunciado": "Es horrible. (más calor, hacer / más agua, yo, beber) _____",
+          "solucion_correcta": [
+            "Cuanto más calor hace, más agua bebo"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunas personas (más dinero, tener / más tacañas, ser) _____",
+          "solucion_correcta": [
+            "cuanto más dinero tienen, más tacañas son"
+          ]
+        },
+        {
+          "texto_enunciado": "(menos gente, venir / menos sillas, nosotros, necesitar) _____",
+          "solucion_correcta": [
+            "Cuanta menos gente venga, menos sillas necesitaremos"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. (menos comida, tú, preparar / menos, nosotros, comer) _____",
+          "solucion_correcta": [
+            "Cuanta menos comida prepares, menos comeremos"
+          ]
+        }
+      ]
+    }
+  ]
+}

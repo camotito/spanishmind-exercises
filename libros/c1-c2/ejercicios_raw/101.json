@@ -1,0 +1,199 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "101.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *con*, *con el*, *la*, *los*, *las*, *con la de*, *con lo*, *con lo que*. En algunos casos hay más de una posibilidad.",
+      "items": [
+        {
+          "texto_enunciado": "_____ habla y no dice ni una verdad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ tiempo libre que tiene y lo mal que lo emplea.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ desagradable que es y la de amigos que tiene.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ tarde que es y no encontramos un taxi.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ llevar las cortinas a la tintorería quedan como nuevas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ cosas que dice, no me extraña que lo miren mal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ sabe Domingo, debería ya estar en la universidad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ tenemos es suficiente. No necesitamos más.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ listo que es y la de tonterías que dice.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ buenos deseos solo no se consigue mucho.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "101.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con *con el*, *la*, *los*, *las*, *con la de*, *con lo*, *con lo que* como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "Carlos viaja mucho. Pero no habla inglés. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace mucho calor. Quiere salir a dar una vuelta. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hemos venido muy rápido. Hemos llegado tarde. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había mucha gente. Nos tuvimos que encontrar con Antonio. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eva gana mucho. Vive en un piso horrible. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La sopa está agria. No sé cómo te la tomas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tienes muchas camisas. Pero te has puesto una vieja. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo mucha hambre. Pero faltan dos horas para la comida. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "101.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas como en los ejemplos.",
+      "items": [
+        {
+          "texto_enunciado": "<u>A pesar de lo que escribas</u>. _____, no te lo van a publicar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>A pesar de que no nos ayude</u>. _____, pienso abrir el negocio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>A pesar de quien lo diga</u>. _____, el clima no ha cambiado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>A pesar de cuando vengáis</u>. _____, aquí estaremos nosotros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>A pesar de lo que hagas</u>. _____, la gente te va a criticar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>A pesar de que no lo digas</u>. _____, sé que te gusta Raquel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>A pesar de que no tenga dinero</u>. _____, está siempre de juerga.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>A pesar de que no lo creas</u>. _____, ya tengo 60 años.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "101.4",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir lo subrayado con *y todo*.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Estaba cansada, pero</u> se levantó a las siete. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo <u>estaba hambriento, pero</u> no me atreví a comer nada. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Enrique <u>estaba con fiebre, pero</u> se fue a la universidad. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Había niebla</u>, conseguimos regresar a casa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Había mucho ruido en la calle, pero</u> pudimos dormir bien. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Estaba dormida, pero</u> oyó llegar a sus hijas. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "101.5",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases comenzando con un imperativo.",
+      "items": [
+        {
+          "texto_enunciado": "Puedes hacer lo que quieras. Yo no me voy a mover de aquí. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Puedes trabajar. Te va a dar igual. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Podéis decir lo que queráis. No os va a creer nadie. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Puedes esconderte donde quieras. Te van a encontrar. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Puedes protestar. No te van a hacer caso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Puedes gritar. No me vas a asustar. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 101,
+  "titulo_libro": "con lo lista que es, digas lo que digas -- Oraciones concesivas (3)",
+  "scan": "p-209.jpg"
+}

@@ -1,0 +1,299 @@
+{
+  "tema": "unidad-15",
+  "titulo": "él mismo, ello",
+  "descripcion_gramatical": "Pronombres personales de sujeto",
+  "fuente": "libro",
+  "unidad_libro": 15,
+  "ejercicios": [
+    {
+      "subejercicio": "15.1",
+      "tipologia": "T3",
+      "enunciado": "Indique la persona a la que se refiere el verbo.",
+      "items": [
+        {
+          "texto_enunciado": "Veraneo en la costa. _____",
+          "solucion_correcta": [
+            "yo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo fuisteis a Bolivia? _____",
+          "solucion_correcta": [
+            "vosotros/vosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Saben algo de Andrés? _____",
+          "solucion_correcta": [
+            "ustedes/ellos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde has comprado eso? _____",
+          "solucion_correcta": [
+            "tú"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo compré en el mercado. _____",
+          "solucion_correcta": [
+            "yo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿A qué hora acabaste? _____",
+          "solucion_correcta": [
+            "tú"
+          ]
+        },
+        {
+          "texto_enunciado": "No la conocemos. _____",
+          "solucion_correcta": [
+            "nosotros/nosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "Se fue temprano. _____",
+          "solucion_correcta": [
+            "él/ella"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.2",
+      "tipologia": "T5",
+      "enunciado": "Elija la forma más adecuada. En algunos casos sirven las dos respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "(Yo/ø) trabajo en una multinacional.",
+          "solucion_correcta": [
+            "yo/ø"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Dónde vive Raúl? -(Yo/ø) no lo sé, pero (ellas/ø) sí lo saben.",
+          "solucion_correcta": [
+            "Yo/ø",
+            "ellas"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quién es? -Soy (yo/ø), Virgilio.",
+          "solucion_correcta": [
+            "yo"
+          ]
+        },
+        {
+          "texto_enunciado": "(Vosotras/ø) no sois españolas, ¿verdad?",
+          "solucion_correcta": [
+            "Vosotras/ø"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué quieren tus amigos? -(Él/ø) quiere un café y (ella/ø) quiere un té.",
+          "solucion_correcta": [
+            "Él",
+            "ella"
+          ]
+        },
+        {
+          "texto_enunciado": "-Perdonad, ¿(vosotros/ø) habéis oído ruidos en el sótano?",
+          "solucion_correcta": [
+            "vosotros/ø"
+          ]
+        },
+        {
+          "texto_enunciado": "-No sé quién ha sido pero (ellos/ø) me han quitado la cartera.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Te has equivocado. (Yo/ø) soy panameño y (él/ø) es uruguayo.",
+          "solucion_correcta": [
+            "Yo",
+            "él"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con el pronombre personal adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "¡Qué equivocado estaba mi padre! _____ decía siempre que _____ nunca sería médico. Y ahora soy cirujano en un gran hospital.",
+          "solucion_correcta": [
+            "Él",
+            "yo"
+          ]
+        },
+        {
+          "texto_enunciado": "-Raúl dice que Marta y él son novios. -¡Qué más quisiera _____! Pero a Marta le gusta Ramón.",
+          "solucion_correcta": [
+            "él"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Dónde estaba _____ cuando Alonso tuvo el accidente? -Estaba trabajando.",
+          "solucion_correcta": [
+            "usted"
+          ]
+        },
+        {
+          "texto_enunciado": "Su sobrino me ha regalado una agenda. Espero que _____ sea más generoso, don Joaquín.",
+          "solucion_correcta": [
+            "usted"
+          ]
+        },
+        {
+          "texto_enunciado": "-Sandra y Roberto dicen que van a comer con los reyes. -¡Qué más quisieran _____! Les saludarán en la recepción y luego se irán.",
+          "solucion_correcta": [
+            "ellos"
+          ]
+        },
+        {
+          "texto_enunciado": "El otro día soñé con usted. _____ iba por la calle y _____ venía en un coche. Cuando _____ me vio, detuvo el coche y se bajó.",
+          "solucion_correcta": [
+            "Yo",
+            "usted",
+            "usted"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.4",
+      "tipologia": "T3",
+      "enunciado": "Complete con el pronombre personal adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "-Mamá quiere que vayamos a ver al abuelo. -¡Que vaya _____!",
+          "solucion_correcta": [
+            "ella"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ escucha y aprende.",
+          "solucion_correcta": [
+            "Tú"
+          ]
+        },
+        {
+          "texto_enunciado": "-Te has vuelto a dejar la luz encendida, Lolo. -¡Pero si _____ no he sido!",
+          "solucion_correcta": [
+            "yo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ pasad, niñas. Y _____, Juan, espera.",
+          "solucion_correcta": [
+            "Vosotras",
+            "tú"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ quédese aquí sentada. _____ salgan, por favor.",
+          "solucion_correcta": [
+            "Usted",
+            "Ustedes"
+          ]
+        },
+        {
+          "texto_enunciado": "-Daniel y Gloria quieren que hagas una fiesta. -¡Que la hagan _____!",
+          "solucion_correcta": [
+            "ellos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.5",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con *yo*, *tú*, *él*... y *solo*, *sola*..., o *mismo*, *misma*... en los casos necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No te preocupes por Arturo. Sabe prepararse la comida _____.",
+          "solucion_correcta": [
+            "él solo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Y quién te lava el coche, María? -Lo lavo _____.",
+          "solucion_correcta": [
+            "yo misma"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Hay que conectar la alarma? -No hace falta. Se conecta _____.",
+          "solucion_correcta": [
+            "ella sola"
+          ]
+        },
+        {
+          "texto_enunciado": "No te digo nada porque tus padres quieren darte la noticia _____.",
+          "solucion_correcta": [
+            "ellos mismos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cómo enfrías el motor? -No hay que hacer nada. Se enfría _____.",
+          "solucion_correcta": [
+            "él solo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Dónde te cortas el pelo? -En ningún sitio. Me lo corto _____.",
+          "solucion_correcta": [
+            "yo mismo/yo misma"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Os acompañó alguien al aeropuerto? -No. Fuimos _____.",
+          "solucion_correcta": [
+            "nosotros solos / nosotras solas"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo haría la tortilla, pero no la hago porque sé que María prefiere hacerla _____.",
+          "solucion_correcta": [
+            "ella misma"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "15.6",
+      "tipologia": "T10",
+      "enunciado": "Relacione las frases con *ello* o *eso*.",
+      "items": [
+        {
+          "texto_enunciado": "Me duele la pierna. / No me impide ir a verte. _____",
+          "solucion_correcta": [
+            "Me duele la pierna. Ello no me impide ir a verte"
+          ]
+        },
+        {
+          "texto_enunciado": "Llegué tarde. / Pero no justifica que me gritaras. _____",
+          "solucion_correcta": [
+            "Llegué tarde. Pero eso no justifica que me gritaras"
+          ]
+        },
+        {
+          "texto_enunciado": "No me acuerdo de eso que dices. / Pero no significa que no haya leído el libro. _____",
+          "solucion_correcta": [
+            "No me acuerdo de eso que me dices. Pero eso/ello no significa que no me haya leído el libro"
+          ]
+        },
+        {
+          "texto_enunciado": "Martín no nos ha llamado. / No significa que esté enfadado con nosotros. _____",
+          "solucion_correcta": [
+            "Martín no nos ha llamado. Eso no significa que esté enfadado con nosotros"
+          ]
+        }
+      ]
+    }
+  ]
+}

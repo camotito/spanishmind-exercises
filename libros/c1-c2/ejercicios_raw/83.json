@@ -1,0 +1,175 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "83.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la información entre paréntesis. Use los relativos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "Esta es la calle. (Van a hacer obras.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He hablado con la señora. (Su marido es capitán del Ejército.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es aquí. (Encontré los documentos.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Dónde está la postal? (La ha enviado Gema.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Yo quiero algo.) No es eso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me vieron con Sandra. (Estábamos desayunando en un café.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Conozco a los alumnos. (Sus padres vienen siempre de excursión.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Compraremos un regalo. (Los venden en tiendas de artesanía.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Me pongo malo.) Es en invierno. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Recuerdas el verano del 2005? (Fuimos a Japón.) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "83.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con *quien*, *como*, *donde* y *cuando*.",
+      "items": [
+        {
+          "texto_enunciado": "No sé quién hizo eso. No sabía nada de pintura. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Del modo en que tú cocinas, cocina cualquiera. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé quién dejó la jaula abierta. No vio que ahí estaba el canario. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sabía dónde trabajabas. Ganabas poco. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé quién toca así. No sabe de música. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No conozco a quién escribió eso. No sabía nada de español. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucio trabaja en una empresa. Hay muchos trabajadores de fuera. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre que llueve tenemos goteras. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "83.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo un robot de cocina que (hace/haga) de todo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Necesito un piso que (tiene/tenga) garaje.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy buscando una empresa en la que (pagan/paguen) bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué vais siempre dónde ella (quiere/quiera)?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Conozco un restaurante donde (preparan/preparen) el bacalao de maravilla.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los que (llegan/lleguen) tarde son siempre los mismos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los que (llegan/lleguen) tarde tendrán que quedarse al final de la jornada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este ejercicio tienes que hacerlo como te (indica/indique) la profesora.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cómo hago esto? -Hazlo como (indican/indiquen) las instrucciones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo siento, pero no hay quien se (cree/crea) esa explicación.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Son muy pocos los que te (creen/crean).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Conoces a alguien que (enseña/enseñe) chino?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes. Lo haremos cuando tú (dices/digas).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quiénes son los que (quieren/quieran) clases extras?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay una reunión el lunes para los que (quieren/quieran) clases extras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría encontrar un libro que (explica/explique) bien el subjuntivo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo un profesor que (explica/explique) de maravilla.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay muy pocos extranjeros que (hablan/hablen) chino bien.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 83,
+  "titulo_libro": "la fruta que compré, lo que yo quiero -- Oraciones de relativo especificativas",
+  "scan": "p-173.jpg"
+}

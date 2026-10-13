@@ -1,0 +1,161 @@
+{
+  "tema": "unidad-34",
+  "titulo": "Recibe el Premio Nobel en 1971.",
+  "descripcion_gramatical": "Presente de indicativo para pasado",
+  "fuente": "libro",
+  "unidad_libro": 34,
+  "ejercicios": [
+    {
+      "subejercicio": "34.1",
+      "tipologia": "T8",
+      "enunciado": "Complete el texto sobre Cristóbal Colón con los verbos del recuadro en presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "Cristóbal Colón _____ en Génova en 1451. Ya desde joven _____ afición por la vida marina. En Portugal _____ en buscar una ruta marítima hacia China e India, y _____ su primera travesía con el respaldo de Isabel de Castilla. En 1492 _____ a América con tres carabelas y _____ en la isla de San Salvador. Posteriormente, Colón _____ tres viajes más a América. Durante su segundo viaje, _____ la exploración de América. _____ en Valladolid en 1508.",
+          "solucion_correcta": [
+            "nace",
+            "siente",
+            "piensa",
+            "organiza",
+            "llega",
+            "desembarca",
+            "hace",
+            "comienza",
+            "Muere"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "comenzar",
+        "desembarcar",
+        "hacer",
+        "llegar",
+        "morir",
+        "nacer",
+        "organizar",
+        "pensar",
+        "sentir"
+      ]
+    },
+    {
+      "subejercicio": "34.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir este texto con el presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "En 1976 se celebró en España un referéndum a favor de la reforma política y en 1977 se llevaron a cabo elecciones generales, que dieron la victoria a la UCD, que consiguió un 31% de los votos. En 1978 se aprobó una nueva Constitución, que permitió iniciar todas las reformas de la España actual.\n\n_____",
+          "solucion_correcta": [
+            "En 1976 se celebra en España un referéndum a favor de la reforma política y en 1977 se llevan a cabo elecciones generales, que dan la victoria a la UCD, que consigue un 31% de los votos. En 1978 se aprueba una nueva Constitución, que permite iniciar todas las reformas de la España actual"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "34.3",
+      "tipologia": "T11",
+      "enunciado": "Relate la siguiente narración con el presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "Oíd lo que me pasó el otro día. Estaba yo solo en casa cuando sonó el teléfono. Lo cogí y una voz de hombre me preguntó si yo era familia de un famoso deportista. Le dije que si sabía qué hora era. Pero él volvió a hacerme la pregunta. No le contesté, colgué y desenchufé el teléfono.\n\n_____",
+          "solucion_correcta": [
+            "Oíd lo que me pasó el otro día. Estoy yo solo en casa cuando suena el teléfono. Lo cojo y una voz de hombre me pregunta si yo soy familia de un famoso deportista. Le digo que sí sabe qué hora es. Pero él vuelve a hacerme la pregunta. No le contesto, cuelgo y desenchufo el teléfono"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "34.4",
+      "tipologia": "T11",
+      "enunciado": "Convierta estas noticias en titulares de prensa.",
+      "items": [
+        {
+          "texto_enunciado": "Ha muerto un premio nobel. _____",
+          "solucion_correcta": [
+            "Muere un premio nobel"
+          ]
+        },
+        {
+          "texto_enunciado": "El Partido Centrista ha ganado las elecciones. _____",
+          "solucion_correcta": [
+            "El Partido Centrista gana las elecciones"
+          ]
+        },
+        {
+          "texto_enunciado": "Unos piratas han raptado a dos periodistas. _____",
+          "solucion_correcta": [
+            "Unos piratas raptan a dos periodistas"
+          ]
+        },
+        {
+          "texto_enunciado": "Talibanes han atacado la base española. _____",
+          "solucion_correcta": [
+            "Talibanes atacan la base española"
+          ]
+        },
+        {
+          "texto_enunciado": "El Discovery ha vuelto a la Tierra sin problemas. _____",
+          "solucion_correcta": [
+            "El Discovery vuelve a la Tierra sin problemas"
+          ]
+        },
+        {
+          "texto_enunciado": "Grupos gais han exigido un avance en sus derechos. _____",
+          "solucion_correcta": [
+            "Grupos gais exigen un avance en sus derechos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "34.5",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Giró el volante y casi _____.",
+          "solucion_correcta": [
+            "se estrella"
+          ]
+        },
+        {
+          "texto_enunciado": "Me di con una rama y por poco _____ un ojo.",
+          "solucion_correcta": [
+            "me saco"
+          ]
+        },
+        {
+          "texto_enunciado": "Se cayó del caballo y casi _____.",
+          "solucion_correcta": [
+            "se mata"
+          ]
+        },
+        {
+          "texto_enunciado": "Tropecé, caí al suelo y casi _____ la nariz.",
+          "solucion_correcta": [
+            "me rompo"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando iba en bici por el parque, por poco me _____ un perro.",
+          "solucion_correcta": [
+            "muerde"
+          ]
+        },
+        {
+          "texto_enunciado": "Ten cuidado. Por poco _____ contra la farola.",
+          "solucion_correcta": [
+            "te das"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "darse",
+        "estrellarse",
+        "matarse",
+        "morder",
+        "romperse",
+        "sacarse"
+      ]
+    }
+  ]
+}

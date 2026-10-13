@@ -1,0 +1,217 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "31.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con adverbios en *-mente*.",
+      "items": [
+        {
+          "texto_enunciado": "Es absurdo lo caros que son algunos restaurantes modernos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es excesivo lo temprano que es. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es terrible lo lejos que está ese pueblo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es extraordinario lo inteligente que es tu gata. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es enorme lo útil que es ese libro. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es considerable lo difícil que es aparcar aquí. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es verdad lo tímido que es Alfonso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es horroroso lo maleducados que son tus hijos. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "31.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los adverbios del recuadro.",
+      "banco_palabras": [
+        "escasamente",
+        "exactamente",
+        "horriblemente",
+        "igualmente",
+        "infinitamente",
+        "plenamente",
+        "profundamente",
+        "vagamente"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Esta zona está _____ poblada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Son _____ iguales. Parecen hermanos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Está _____ enamorada de su trabajo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy _____ convencido de que conseguirás aprobar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No tenéis razón ninguna. Los dos estáis _____ equivocados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tu última novela es _____ mejor que todas las anteriores.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jorge es un desastre. Va siempre _____ vestido, con unas camisas chillonas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La película está _____ inspirada en una novela de Delibes.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "31.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con adverbios del recuadro.",
+      "banco_palabras": [
+        "definitivamente",
+        "eternamente",
+        "expresamente",
+        "largamente",
+        "notoriamente",
+        "posiblemente",
+        "recientemente",
+        "sucesivamente",
+        "visiblemente",
+        "temporalmente"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Cuando llegaron a la meta, estaban _____ cansados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya sabes que todo lo que dicen sobre Alberto es _____ falso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No comeremos nunca más en Casa Rodri. Está _____ cerrado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Vamos a ese restaurante _____ abierto?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Al irse la luz, el partido quedó _____ interrumpido. Se reanudó cuando volvió la luz.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me gusta mucho el Picasso que me enseñaste. Creo que es _____ falso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por fin estrenan la última película de Amenábar. Ha sido _____ esperada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los reyes de España han sido _____ enterrados en esta cripta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La música fue _____ compuesta para el nuevo ballet.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Seguro que Juan te estará _____ agradecido por el empleo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "31.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con adverbios del recuadro.",
+      "banco_palabras": [
+        "ampliamente",
+        "conjuntamente",
+        "cuidadosamente",
+        "debidamente",
+        "estrechamente",
+        "internamente",
+        "mutuamente",
+        "perfectamente",
+        "pésimamente",
+        "profundamente"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Este pescado está _____ frito.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El informe ha sido _____ elaborado por dos empresas importantes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La decisión del juez fue _____ aceptada por las partes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sus palabras no fueron _____ interpretadas por la prensa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La derrota del Real Madrid ha sido _____ comentada por la prensa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El piso, a pesar de tener muchos años, se halla _____ conservado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se cree que en esta zona hay barcos antiguos _____ enterrados en el lecho marino.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La familia se halla _____ dividida por la herencia de los padres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La boda estaba _____ preparada. Habían pensado hasta en el más mínimo detalle.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Desde la muerte de sus padres, Tomás y Pedro están _____ unidos.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 31,
+  "titulo_libro": "locamente enamorados, cuidadosamente tallada -- Adverbios en –mente (2)",
+  "scan": "p-070.jpg"
+}

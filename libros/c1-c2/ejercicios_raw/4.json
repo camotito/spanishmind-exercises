@@ -1,0 +1,191 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "4.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el artículo adecuado en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "¿Has visto a _____ Ramón?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ María, pregunta por ti _____ tal Ramón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiero hablar con _____ doctor Meroño.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mira, aquella es _____ Ana de la que te hablé.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ Vicente, venga a mi despacho, por favor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En el cine español, solo ha habido _____ Buñuel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Salió a saludar _____ Plácido Domingo agradecido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ doctora Aguirre está ocupada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ Sulleiros proceden de Galicia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ Migueles suelen ser muy rebeldes.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "4.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los nombres entre paréntesis en la forma adecuada y *el*, *la*, *los* o *las*.",
+      "items": [
+        {
+          "texto_enunciado": "¿Has visto la última película de (Almodóvar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Machado) _____ eran poetas muy diferentes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me llaman (Africano) _____ porque tengo la piel muy morena.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Cómo ha cantado hoy (Caballé) _____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Loren) _____ fue una actriz única.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(García) _____ son una familia encantadora.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este fin de semana salimos con (Velasco) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Gandhi) _____ son una familia de larga tradición en la India.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Grimaldi) _____ son los gobernantes de Mónaco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Como ha nacido en Moscú, a Luisa la llaman (Rusa) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "4.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Me venden (un/ø) Omega por 10 euros. Debe de ser falso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(El/ø) Omega es una buena marca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(El/ø) Matisse que tiene Carlos es falso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(El/ø) Matisse fue un artista muy vanguardista.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me van a regalar (un/ø) Rólex por mi cumpleaños.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(El/ø) Seat es una marca de coches española.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ricardo va a cambiar su Seat por (un/ø) Opel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El MOMA tiene (unos/ø) Picassos extraordinarios.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(La/ø) Yamaha de José Luis tiene ya muchos kilómetros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi hija me ha regalado (unas/ø) Nikes azules por mi cumpleaños.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "4.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *el*, *la* o *un*, *una* solo en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "_____ Italia es un país precioso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ Brasil actual es un país muy desarrollado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Todo el mundo quiere _____ México más seguro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ África negra ocupa más de tres cuartas partes de _____ África.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ España de principios del siglo XXI es muy diferente de _____ España de principios del XX.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Recuerdo con cariño _____ Chile de hace cincuenta años.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rubén escribió con maestría a _____ América indígena.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Queremos pasar la Navidad en _____ Egipto.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 4,
+  "titulo_libro": "un Picasso, el Madrid de los Austrias -- Los artículos con nombres de personas y de lugares",
+  "scan": "p-016.jpg"
+}

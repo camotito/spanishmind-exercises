@@ -1,0 +1,287 @@
+{
+  "tema": "unidad-31",
+  "titulo": "locamente enamorados, cuidadosamente tallada",
+  "descripcion_gramatical": "Adverbios en –mente (2)",
+  "fuente": "libro",
+  "unidad_libro": 31,
+  "ejercicios": [
+    {
+      "subejercicio": "31.1",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con adverbios en *-mente*.",
+      "items": [
+        {
+          "texto_enunciado": "Es absurdo lo caros que son algunos restaurantes modernos. _____",
+          "solucion_correcta": [
+            "Algunos restaurantes modernos son absurdamente caros"
+          ]
+        },
+        {
+          "texto_enunciado": "Es excesivo lo temprano que es. _____",
+          "solucion_correcta": [
+            "Es excesivamente temprano"
+          ]
+        },
+        {
+          "texto_enunciado": "Es terrible lo lejos que está ese pueblo. _____",
+          "solucion_correcta": [
+            "Ese pueblo está terriblemente lejos"
+          ]
+        },
+        {
+          "texto_enunciado": "Es extraordinario lo inteligente que es tu gata. _____",
+          "solucion_correcta": [
+            "Tu gata es extraordinariamente inteligente"
+          ]
+        },
+        {
+          "texto_enunciado": "Es enorme lo útil que es ese libro. _____",
+          "solucion_correcta": [
+            "Ese libro es enormemente útil"
+          ]
+        },
+        {
+          "texto_enunciado": "Es considerable lo difícil que es aparcar aquí. _____",
+          "solucion_correcta": [
+            "Es considerablemente difícil aparcar aquí"
+          ]
+        },
+        {
+          "texto_enunciado": "Es verdad lo tímido que es Alfonso. _____",
+          "solucion_correcta": [
+            "Alfonso es verdaderamente tímido"
+          ]
+        },
+        {
+          "texto_enunciado": "Es horroroso lo maleducados que son tus hijos. _____",
+          "solucion_correcta": [
+            "Tus hijos son horrorosamente maleducados"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "31.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los adverbios del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Esta zona está _____ poblada.",
+          "solucion_correcta": [
+            "escasamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Son _____ iguales. Parecen hermanos.",
+          "solucion_correcta": [
+            "exactamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Está _____ enamorada de su trabajo.",
+          "solucion_correcta": [
+            "profundamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy _____ convencido de que conseguirás aprobar.",
+          "solucion_correcta": [
+            "plenamente"
+          ]
+        },
+        {
+          "texto_enunciado": "No tenéis razón ninguna. Los dos estáis _____ equivocados.",
+          "solucion_correcta": [
+            "igualmente"
+          ]
+        },
+        {
+          "texto_enunciado": "Tu última novela es _____ mejor que todas las anteriores.",
+          "solucion_correcta": [
+            "infinitamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge es un desastre. Va siempre _____ vestido, con unas camisas chillonas.",
+          "solucion_correcta": [
+            "horriblemente"
+          ]
+        },
+        {
+          "texto_enunciado": "La película está _____ inspirada en una novela de Delibes.",
+          "solucion_correcta": [
+            "vagamente"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "escasamente",
+        "exactamente",
+        "horriblemente",
+        "igualmente",
+        "infinitamente",
+        "plenamente",
+        "profundamente",
+        "vagamente"
+      ]
+    },
+    {
+      "subejercicio": "31.3",
+      "tipologia": "T8",
+      "enunciado": "Complete con adverbios del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando llegaron a la meta, estaban _____ cansados.",
+          "solucion_correcta": [
+            "visiblemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya sabes que todo lo que dicen sobre Alberto es _____ falso.",
+          "solucion_correcta": [
+            "notoriamente"
+          ]
+        },
+        {
+          "texto_enunciado": "No comeremos nunca más en Casa Rodri. Está _____ cerrado.",
+          "solucion_correcta": [
+            "definitivamente"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Vamos a ese restaurante _____ abierto?",
+          "solucion_correcta": [
+            "recientemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Al irse la luz, el partido quedó _____ interrumpido. Se reanudó cuando volvió la luz.",
+          "solucion_correcta": [
+            "temporalmente"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gusta mucho el Picasso que me enseñaste. Creo que es _____ falso.",
+          "solucion_correcta": [
+            "posiblemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Por fin estrenan la última película de Amenábar. Ha sido _____ esperada.",
+          "solucion_correcta": [
+            "largamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Los reyes de España han sido _____ enterrados en esta cripta.",
+          "solucion_correcta": [
+            "sucesivamente"
+          ]
+        },
+        {
+          "texto_enunciado": "La música fue _____ compuesta para el nuevo ballet.",
+          "solucion_correcta": [
+            "expresamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Seguro que Juan te estará _____ agradecido por el empleo.",
+          "solucion_correcta": [
+            "eternamente"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "definitivamente",
+        "eternamente",
+        "expresamente",
+        "largamente",
+        "notoriamente",
+        "posiblemente",
+        "recientemente",
+        "sucesivamente",
+        "visiblemente",
+        "temporalmente"
+      ]
+    },
+    {
+      "subejercicio": "31.4",
+      "tipologia": "T8",
+      "enunciado": "Complete con adverbios del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Este pescado está _____ frito.",
+          "solucion_correcta": [
+            "pésimamente"
+          ]
+        },
+        {
+          "texto_enunciado": "El informe ha sido _____ elaborado por dos empresas importantes.",
+          "solucion_correcta": [
+            "conjuntamente"
+          ]
+        },
+        {
+          "texto_enunciado": "La decisión del juez fue _____ aceptada por las partes.",
+          "solucion_correcta": [
+            "mutuamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Sus palabras no fueron _____ interpretadas por la prensa.",
+          "solucion_correcta": [
+            "debidamente"
+          ]
+        },
+        {
+          "texto_enunciado": "La derrota del Real Madrid ha sido _____ comentada por la prensa.",
+          "solucion_correcta": [
+            "ampliamente"
+          ]
+        },
+        {
+          "texto_enunciado": "El piso, a pesar de tener muchos años, se halla _____ conservado.",
+          "solucion_correcta": [
+            "perfectamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Se cree que en esta zona hay barcos antiguos _____ enterrados en el lecho marino.",
+          "solucion_correcta": [
+            "profundamente"
+          ]
+        },
+        {
+          "texto_enunciado": "La familia se halla _____ dividida por la herencia de los padres.",
+          "solucion_correcta": [
+            "internamente"
+          ]
+        },
+        {
+          "texto_enunciado": "La boda estaba _____ preparada. Habían pensado hasta en el más mínimo detalle.",
+          "solucion_correcta": [
+            "cuidadosamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Desde la muerte de sus padres, Tomás y Pedro están _____ unidos.",
+          "solucion_correcta": [
+            "estrechamente"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "ampliamente",
+        "conjuntamente",
+        "cuidadosamente",
+        "debidamente",
+        "estrechamente",
+        "internamente",
+        "mutuamente",
+        "perfectamente",
+        "pésimamente",
+        "profundamente"
+      ]
+    }
+  ]
+}

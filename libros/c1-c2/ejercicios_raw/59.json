@@ -1,0 +1,211 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "59.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Mariano habla gritando. No lo soporto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A veces me mandan. Lo odio. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te preocupas por nosotros. Te lo agradezco. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me pueden despedir. Tengo miedo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A María le van a subir el sueldo. Está encantada. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Juan dijo que iba a llamar. Lo dudo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tienen que esperar un rato. Lo sentimos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eres muy ambiciosa. No te lo reprocho. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Iván va siempre sucio. No lo soporto. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "59.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No viene Armando. No me importa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Son poco puntuales. Me molesta. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Van a suspender el concierto. Me sorprende. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos acompaña María. ¿Te importa? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiero abrir la ventana. ¿Le molesta? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A veces me dicen cosas bonitas. Me encanta. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunas personas maltratan a los animales. Me repugna. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te digo la verdad. ¿Te ofende? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las tiendas están cerradas. Me extraña. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "59.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Alberto tiene mucha suerte. Resulta sorprendente. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rosa no consigue encontrar trabajo. Es preocupante. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Julián está otra vez de baja. Parece sospechoso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No hay nadie por la calle. Me resulta inquietante. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te llama para pedirte dinero. Es increíble. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ángel es tacaño. Parece mentira. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Javier cuida a sus padres. Me parece admirable. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sales mucho. Me parece extraño. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tomás no quiere ser amigo de Enrique. Me resulta asombroso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Fermín sigue viviendo en casa de sus padres. Es increíble. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "59.4",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No puedes venir a mi boda. Me da rabia. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te muerdes las uñas. Me pone nervioso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace sol. Me pone de buen humor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nunca me hacen caso. Me saca de quicio. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No quieres ayudarme. Me da lo mismo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay corrupción. Nos da asco. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sois felices. Me llena de alegría. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Armando se ríe de la gente. Me llena de indignación. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lola y Arturo se van a separar. Me llena de tristeza. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sus hijos no estudian. A Roberto le pone de mal humor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Toñín es muy decidido. Me hace gracia. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La economía mejora. Me da igual. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La gente es maleducada. Me saca de mis casillas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La gente no respeta a los demás. Me pone histérica. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A veces me engañan. Me pone de mal humor. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 59,
+  "titulo_libro": "¿Te molesta que fume? Me pone nervioso que grites. -- Presente de subjuntivo (3)",
+  "scan": "p-125.jpg"
+}

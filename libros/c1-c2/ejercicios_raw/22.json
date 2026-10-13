@@ -1,0 +1,219 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "22.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee el relativo correcto.",
+      "items": [
+        {
+          "texto_enunciado": "He hablado con la persona (que/quien) está encargada de la exposición.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy va a venir el amigo (del que/de que) te he hablado tanto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El hombre (con quien/con que) Elena vivía era un espía.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta es la pluma (con quien/con que) firmo los contratos. Me da suerte.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa es la puerta (por que/por la que) salen los actores.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(El que/Que) decides eres tú.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aquellos (que/los que) no lleven equipaje, pueden embarcar directamente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cuál es tu abrigo? -Uno (que/el que) tiene solapas rojas.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *que*, *el que*, *la que*, *los que*, *las que*, *quien* o *quienes*.",
+      "items": [
+        {
+          "texto_enunciado": "Hicimos parte del viaje con un coreano con _____ habíamos hecho amistad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Miguel nos quiere presentar a la chica con _____ sale.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No olvidéis que _____ tiene el coche soy yo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No debo ser yo _____ haga eso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por ahí va el vecino nuevo de _____ nos han hablado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estos son los conciertos para _____ tengo entradas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo quiero unos amigos con _____ poder divertirme.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se me ha roto la máquina con _____ me afeito.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te han dicho la hora a _____ empieza la fiesta?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta es la ranura en _____ tienes que insertar la tarjeta.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los relativos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "_____ diga eso, se equivoca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ quieran participar en la obra, tienen que venir el viernes a las seis.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anímate Ángel. _____ tiene boca, se equivoca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ paga, descansa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Venga, chicas. _____ acabéis, os podéis marchar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Escuchad, chicos. _____ griten no salen al recreo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ dicen eso, aciertan.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuidado, Arturo. _____ la hace, la paga.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *el que*, *la que*, *los que*, *las que* o *lo que*.",
+      "items": [
+        {
+          "texto_enunciado": "Podemos hablar de _____ quieras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mira, ese es el artista en _____ estaba pensando para la nueva exposición.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quiénes son _____ te han insultado?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me he arrepentido de _____ te hice.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Piensa en una cosa en _____ pienses mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "De _____ me asombro es de que seáis tan cabezotas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No me interesa la nota. -_____ te pasa es que tienes miedo de haber suspendido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A ver, chicas, _____ estéis preparadas podéis ir empezando a entrenar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Tienes que ir al médico. -_____ yo necesito es descansar.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.5",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con las palabras entre paréntesis y *lo que*.",
+      "items": [
+        {
+          "texto_enunciado": "-Se te abre la boca. Tienes sueño. -No, no tengo sueño. (hambre) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No te gusta trabajar. -Me gusta trabajar. (trabajar gratis) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Tú quieres que haga el ejercicio. -No quiero que lo hagas. (decirme cómo se hace) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No te gustó que te despertáramos. -No me importó. (despertarme con tanto ruido) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No fuisteis al concierto. -Fuimos. (pasar / llegar tarde) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿No te gusta la fruta? -Sí. (las verduras) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Te veo triste. -No estoy triste. (pasar / estar aburrido) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Me pediste que te dijera la verdad. -No. No te pedí eso. (no mentirme) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 22,
+  "titulo_libro": "la mujer que, la chica con (lo) que -- Relativos (1)",
+  "scan": "p-052.jpg"
+}

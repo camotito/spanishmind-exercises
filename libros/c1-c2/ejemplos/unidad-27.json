@@ -1,0 +1,291 @@
+{
+  "tema": "unidad-27",
+  "titulo": "¡Quién fuera más joven! ¡Qué mala suerte! ¡Vaya casa!",
+  "descripcion_gramatical": "Exclamativos (1)",
+  "fuente": "libro",
+  "unidad_libro": 27,
+  "ejercicios": [
+    {
+      "subejercicio": "27.1",
+      "tipologia": "T11",
+      "enunciado": "Exprese sorpresa o deseos con *¡quién!*",
+      "items": [
+        {
+          "texto_enunciado": "Nadie podía pensar que tendríamos un accidente. _____",
+          "solucion_correcta": [
+            "¡Quién iba a / podía / podría pensar que tendríamos un accidente!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría hablar español como tú. _____",
+          "solucion_correcta": [
+            "¡Quién pudiera hablar español como tú! / ¡Quién hablara español como tú!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría tener tantos amigos como Elsa. _____",
+          "solucion_correcta": [
+            "¡Quién tuviera tantos amigos como Elsa! / ¡Quién pudiera tener tantos amigos como Elsa!"
+          ]
+        },
+        {
+          "texto_enunciado": "Nadie se imaginaba que tendría gemelos. _____",
+          "solucion_correcta": [
+            "¡Quién se iba a imaginar / podía imaginarse / podría imaginarse que tendría gemelos!"
+          ]
+        },
+        {
+          "texto_enunciado": "Nadie sospechaba que Pilar nos engañaba. _____",
+          "solucion_correcta": [
+            "¡Quién iba a sospechar / podía sospechar /podría sospechar que Pilar nos engañaba!"
+          ]
+        },
+        {
+          "texto_enunciado": "Nadie pensaba que Ángel y Luisa salían juntos. _____",
+          "solucion_correcta": [
+            "¡Quién iba a pensar / podía pensar / podría pensar que Ángel y Luisa salían juntos!"
+          ]
+        },
+        {
+          "texto_enunciado": "Nadie imaginaba que Eugenio iba a jubilarse. _____",
+          "solucion_correcta": [
+            "¡Quién iba a imaginar / podía imaginar / podría imaginar que Eugenia se iba a jubilar!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.2",
+      "tipologia": "T11",
+      "enunciado": "Escriba exclamaciones con *¡qué!* sobre lo indicado.",
+      "items": [
+        {
+          "texto_enunciado": "Lo bien que escribe Luisa. _____",
+          "solucion_correcta": [
+            "¡Qué bien escribe Luisa!"
+          ]
+        },
+        {
+          "texto_enunciado": "El buen gusto que tiene Fermín. _____",
+          "solucion_correcta": [
+            "¡Qué buen gusto tiene Fermín!"
+          ]
+        },
+        {
+          "texto_enunciado": "Un paisaje. _____",
+          "solucion_correcta": [
+            "¡Qué paisaje!"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo guapas que son tus hijas. _____",
+          "solucion_correcta": [
+            "¡Qué guapas son tus hijas!"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo listo que es mi hijo. _____",
+          "solucion_correcta": [
+            "¡Qué listo es mi hijo!"
+          ]
+        },
+        {
+          "texto_enunciado": "La sed que tengo. _____",
+          "solucion_correcta": [
+            "¡Qué sed tengo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Unas olas. _____",
+          "solucion_correcta": [
+            "¡Qué olas!"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo tarde que acaba la ópera. _____",
+          "solucion_correcta": [
+            "¡Qué tarde acaba la ópera!"
+          ]
+        },
+        {
+          "texto_enunciado": "La buena suerte que tenemos. _____",
+          "solucion_correcta": [
+            "¡Qué buena suerte tenemos!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.3",
+      "tipologia": "T11",
+      "enunciado": "Escriba exclamaciones con *¡qué!* y los posesivos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "Juan tiene mala suerte. _____",
+          "solucion_correcta": [
+            "¡Qué mala suerte la suya!"
+          ]
+        },
+        {
+          "texto_enunciado": "Vosotros tenéis poca vergüenza. _____",
+          "solucion_correcta": [
+            "¡Qué poca vergüenza la vuestra!"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo mucha suerte. _____",
+          "solucion_correcta": [
+            "¡Qué suerte la mía!"
+          ]
+        },
+        {
+          "texto_enunciado": "Sandra hace buenas paellas. _____",
+          "solucion_correcta": [
+            "¡Qué buenas paellas las suyas!"
+          ]
+        },
+        {
+          "texto_enunciado": "Los Stones han hecho gran música. _____",
+          "solucion_correcta": [
+            "¡Qué gran música la suya!"
+          ]
+        },
+        {
+          "texto_enunciado": "Te olvidas de todo. Tienes poca memoria. _____",
+          "solucion_correcta": [
+            "¡Qué poca memoria la tuya!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.4",
+      "tipologia": "T11",
+      "enunciado": "Escriba exclamaciones sobre las informaciones dadas con *¡qué!* y *tan* o *más*.",
+      "items": [
+        {
+          "texto_enunciado": "Es un vestido muy elegante. _____",
+          "solucion_correcta": [
+            "¡Qué vestido tan/más elegante!"
+          ]
+        },
+        {
+          "texto_enunciado": "Son unas montañas muy altas. _____",
+          "solucion_correcta": [
+            "¡Qué montañas tan/más altas!"
+          ]
+        },
+        {
+          "texto_enunciado": "Es una chica muy amable. _____",
+          "solucion_correcta": [
+            "¡Qué chica tan/más amable!"
+          ]
+        },
+        {
+          "texto_enunciado": "Es una mujer muy valiente. _____",
+          "solucion_correcta": [
+            "¡Qué mujer tan/más valiente!"
+          ]
+        },
+        {
+          "texto_enunciado": "Es un piso muy acogedor. _____",
+          "solucion_correcta": [
+            "¡Qué piso tan/más acogedor!"
+          ]
+        },
+        {
+          "texto_enunciado": "Son personas muy raras. _____",
+          "solucion_correcta": [
+            "¡Qué personas tan/más raras!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.5",
+      "tipologia": "T11",
+      "enunciado": "Exprese admiración ante lo indicado con *¡vaya!* y *más/tan* en los casos necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Una casa. _____",
+          "solucion_correcta": [
+            "¡Vaya casa!"
+          ]
+        },
+        {
+          "texto_enunciado": "Unas montañas _____",
+          "solucion_correcta": [
+            "¡Vaya montañas!"
+          ]
+        },
+        {
+          "texto_enunciado": "Una idea interesante. _____",
+          "solucion_correcta": [
+            "¡Vaya idea más/tan interesante!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Un paseo agradable.",
+          "solucion_correcta": [
+            "¡Vaya paseo más/tan agradable!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Unas montañas altas.",
+          "solucion_correcta": [
+            "¡Vaya montañas más/tan altas!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Una película aburrida.",
+          "solucion_correcta": [
+            "¡Vaya película más/tan aburrida!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.6",
+      "tipologia": "T11",
+      "enunciado": "Escriba una exclamación con *¡qué!* sobre las informaciones dadas",
+      "items": [
+        {
+          "texto_enunciado": "Me han dado un golpe. _____",
+          "solucion_correcta": [
+            "¡Qué golpe (que) me han dado!"
+          ]
+        },
+        {
+          "texto_enunciado": "Los padres de Sofía se han muerto muy jóvenes. _____",
+          "solucion_correcta": [
+            "¡Qué jóvenes (que) se han muerto los padres de Sofía!"
+          ]
+        },
+        {
+          "texto_enunciado": "La conferencia ha empezado muy tarde. _____",
+          "solucion_correcta": [
+            "¡Qué tarde (que) ha empezado la conferencia!"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos ha dado un susto tu padre. _____",
+          "solucion_correcta": [
+            "¡Qué susto (que) nos ha dado tu padre!"
+          ]
+        },
+        {
+          "texto_enunciado": "Sara actúa muy bien en esta obra. _____",
+          "solucion_correcta": [
+            "¡Qué bien (que) actúa Sara en esta obra!"
+          ]
+        },
+        {
+          "texto_enunciado": "He tenido una bronca con Rafa. _____",
+          "solucion_correcta": [
+            "¡Qué bronca (que) he tenido con Rafa!"
+          ]
+        }
+      ]
+    }
+  ]
+}

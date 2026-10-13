@@ -1,0 +1,292 @@
+{
+  "tema": "unidad-70",
+  "titulo": "Cuando quieras. Alguien que hable español.",
+  "descripcion_gramatical": "El subjuntivo para expresar indeterminación",
+  "fuente": "libro",
+  "unidad_libro": 70,
+  "ejercicios": [
+    {
+      "subejercicio": "70.1",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo entre paréntesis en indicativo o subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "¡Ojalá conociera a alguien que me (poder) _____ colocar en esa empresa!",
+          "solucion_correcta": [
+            "pudiera"
+          ]
+        },
+        {
+          "texto_enunciado": "Vamos a ser ocho. Compra la carne que (tú, creer) _____ necesaria.",
+          "solucion_correcta": [
+            "creas"
+          ]
+        },
+        {
+          "texto_enunciado": "Fue Ignacio quien me (ayudar) _____. Es muy amable.",
+          "solucion_correcta": [
+            "ayudó"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo muchísimo trabajo y no tengo quien me (echar) _____ una mano.",
+          "solucion_correcta": [
+            "eche"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Conoces a alguien que (dar) _____ clases de árabe? Estoy buscando un profesor.",
+          "solucion_correcta": [
+            "dé"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encanta Juan. Es una persona que (estar) _____ siempre dispuesta a ayudar.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesitamos alguien que (vivir) _____ mucho tiempo en Filipinas.",
+          "solucion_correcta": [
+            "haya vivido"
+          ]
+        },
+        {
+          "texto_enunciado": "Elena me dijo que eligiera el vestido que más me (gustar) _____.",
+          "solucion_correcta": [
+            "gustara"
+          ]
+        },
+        {
+          "texto_enunciado": "Son mis padres quienes más nos (visitar) _____.",
+          "solucion_correcta": [
+            "visitan"
+          ]
+        },
+        {
+          "texto_enunciado": "Pobre Roldán. Está muy solo. No tiene quien lo (querer) _____.",
+          "solucion_correcta": [
+            "quiera"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "70.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo entre paréntesis en indicativo o subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Qué tenemos que hacer? -Lo que nos (mandar) _____.",
+          "solucion_correcta": [
+            "manden"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy encantado en esta empresa. Hago lo que (yo, querer) _____.",
+          "solucion_correcta": [
+            "quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué diccionario compraste? -El que (ser) _____ más barato.",
+          "solucion_correcta": [
+            "era"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿En qué aerolíneas vamos a volar? -En la que (nosotros, volar) _____ siempre.",
+          "solucion_correcta": [
+            "volamos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué tipo de coche buscas? -Uno que (consumir) _____ poco.",
+          "solucion_correcta": [
+            "consuma"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué no has hecho lo que te (decir) _____? -Porque no pienso hacer lo que tú (decir) _____.",
+          "solucion_correcta": [
+            "dije",
+            "digas"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué hotel reservamos? -El que (estar) _____ más céntrico.",
+          "solucion_correcta": [
+            "esté"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenías que haber hecho lo que el jefe te (ordenar) _____.",
+          "solucion_correcta": [
+            "ordenó"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "70.3",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo entre paréntesis en indicativo o subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Podéis hacer las prácticas donde os (resultar) _____ más cómodo.",
+          "solucion_correcta": [
+            "resulte"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenéis que colocar el cartel donde lo (poder) _____ ver todo el mundo.",
+          "solucion_correcta": [
+            "pueda"
+          ]
+        },
+        {
+          "texto_enunciado": "Debéis hacer el proyecto como (yo, explicar) _____ en clase.",
+          "solucion_correcta": [
+            "expliqué"
+          ]
+        },
+        {
+          "texto_enunciado": "Arturo, toma estas flores y llévalas adonde (indicar) _____ la nota.",
+          "solucion_correcta": [
+            "indica"
+          ]
+        },
+        {
+          "texto_enunciado": "Fue una gran fiesta. Comimos y bailamos cuanto (nosotros, querer) _____.",
+          "solucion_correcta": [
+            "quisimos"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge nos invitó por su cumpleaños. Nos dijo que comiéramos cuanto (nosotros, querer) _____.",
+          "solucion_correcta": [
+            "quisiéramos"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. Puedes devolverme el dinero cuando mejor te (venir) _____.",
+          "solucion_correcta": [
+            "venga"
+          ]
+        },
+        {
+          "texto_enunciado": "Me voy a ir a vivir a cualquier parte donde no (haber) _____ contaminación.",
+          "solucion_correcta": [
+            "haya"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "70.4",
+      "tipologia": "T4",
+      "enunciado": "Complete los diálogos con el verbo entre paréntesis en indicativo o subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Cómo vamos a casa de Pili? -Como (tú, querer) _____.",
+          "solucion_correcta": [
+            "tú quieras"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué crees que debería decirle a Antón? -No sé. Lo que te (parecer) _____ más oportuno.",
+          "solucion_correcta": [
+            "parezca"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuándo nos vemos? -¿Cuándo te (venir) _____ bien.",
+          "solucion_correcta": [
+            "venga"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué vamos a comer? -El guisado que (preparar) _____ Elisa. Está riquísimo.",
+          "solucion_correcta": [
+            "ha preparado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué sombrero me compro? -El que te (sentar) _____ mejor.",
+          "solucion_correcta": [
+            "siente"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Adónde vamos a ir de vacaciones? -A cualquier sitio donde (hacer) _____ buen tiempo y se (comer) _____ bien.",
+          "solucion_correcta": [
+            "haga",
+            "coma"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué zapatos te compraste por fin? -Los que me (parecer) _____ más cómodos.",
+          "solucion_correcta": [
+            "parecían/parecieron"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué quieres que hagamos? -Lo que a ti te (apetecer) _____.",
+          "solucion_correcta": [
+            "apetezca"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "70.5",
+      "tipologia": "T4",
+      "enunciado": "Complete con los verbos entre paréntesis en los tiempos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "Alicia nos dijo que reserváramos los asientos que (estar) _____ más cerca del escenario.",
+          "solucion_correcta": [
+            "estuvieran"
+          ]
+        },
+        {
+          "texto_enunciado": "No conozco a nadie que (traducir) _____ del finlandés al español.",
+          "solucion_correcta": [
+            "traduzca"
+          ]
+        },
+        {
+          "texto_enunciado": "Deberíais haber buscado un restaurante donde (haber) _____ menos gente. Este está lleno.",
+          "solucion_correcta": [
+            "hubiera"
+          ]
+        },
+        {
+          "texto_enunciado": "Julián me prometió que iríamos donde yo (querer) _____.",
+          "solucion_correcta": [
+            "quisiera"
+          ]
+        },
+        {
+          "texto_enunciado": "Pásame las tijeras que (estar) _____ en esa caja.",
+          "solucion_correcta": [
+            "están"
+          ]
+        },
+        {
+          "texto_enunciado": "El director sugirió que ascendería al que (estar) _____ mejor cualificado.",
+          "solucion_correcta": [
+            "estuviera"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesitamos alguien con experiencia, que (realizar) _____ investigaciones en laboratorio.",
+          "solucion_correcta": [
+            "haya realizado"
+          ]
+        }
+      ]
+    }
+  ]
+}

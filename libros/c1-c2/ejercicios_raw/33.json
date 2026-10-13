@@ -1,0 +1,239 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "33.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos del recuadro en forma afirmativa o negativa, según su caso.",
+      "banco_palabras": [
+        "conducir",
+        "doler",
+        "empezar",
+        "fregar",
+        "medir",
+        "padecer",
+        "parecerse",
+        "perder",
+        "pertenecer",
+        "sentirse",
+        "soñar",
+        "traducir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____ a trabajar a las nueve.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ a un club deportivo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ bien cuando engaño a alguien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ a mi madre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando hago un ejercicio, _____ las frases.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ siempre a poca velocidad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ los platos en casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ cosas con mucha frecuencia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ con mucha frecuencia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ más de 1 metro 80 centímetros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ me _____ la espalda cuando cojo peso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ insomnio.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "33.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro.",
+      "banco_palabras": [
+        "agradecer",
+        "mentir",
+        "atravesar",
+        "oler",
+        "crecer",
+        "padecer",
+        "decir",
+        "ponerse",
+        "desembocar",
+        "preferir",
+        "doler",
+        "reírse",
+        "girar",
+        "suponer",
+        "hervir",
+        "vivir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "La Tierra _____ sobre su eje.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿A qué hora _____ el sol en verano?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El Ebro _____ en el Mediterráneo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las mujeres _____ diez años más que los hombres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te _____ tu ayuda, pero _____ hacerlo sola.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las plantas _____ mucho en primavera y verano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He visto al médico. Dice que _____ una enfermedad rara.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me _____ la cabeza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿A qué _____? -A gasolina. Tened cuidado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "José Luis _____ mucho. No _____ nunca la verdad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-_____ que querrás desayunar... -¡Por supuesto!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué río _____ Lima? -El Rímac.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿A qué temperatura _____ el agua? -A 100 ºC.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿De qué _____? -Me estoy acordando de un chiste que me contaron ayer.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "33.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con los verbos del recuadro.",
+      "banco_palabras": [
+        "ayudar",
+        "cerrar",
+        "coger",
+        "durar",
+        "empezar",
+        "examinarse",
+        "llamar",
+        "llegar",
+        "llover",
+        "nevar",
+        "operar",
+        "terminar",
+        "tropezar",
+        "ver"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "-Está sonando el teléfono. -Vale, yo lo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cuándo _____ los Juegos Olímpicos? -El 8 de agosto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Tenemos que hablar, Juan. -Vale, nos _____ mañana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Tengo que acabar este informe y no sé cómo. -No te preocupes. Yo te _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Entra frío. -Ahora _____ la ventana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¡Qué frío hace! -Esta noche _____ seguro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Van totalmente distraídos. -Ya verás cómo _____ con la valla.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Hay que llamar a Sofía. -La _____ yo esta noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué te pasa? -Estoy un poco nerviosa. _____ mañana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Ernesto no estudia nada. -Este no _____ la carrera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Vienen muchas nubes. -Mañana _____ seguro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raquel no _____ mucho en esa empresa. Tiene que trabajar los domingos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Julio está en el hospital. Le _____ mañana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay huelga en el transporte público. Hoy _____ todos tarde.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 33,
+  "titulo_libro": "El sol sale por el Este. Hablamos mañana. -- Presente de indicativo para presente y futuro",
+  "scan": "p-074.jpg"
+}

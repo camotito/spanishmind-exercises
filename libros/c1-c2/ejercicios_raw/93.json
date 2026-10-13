@@ -1,0 +1,240 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "93.1",
+      "tipologia": "T13",
+      "tipologia_libre": null,
+      "enunciado": "Forme frases uniendo los elementos de las dos columnas.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "a. comprarme una moto.",
+          "b. ofenderte.",
+          "c. correr un poco.",
+          "d. le contara lo de Armando.",
+          "e. Elena prepare una fondue.",
+          "f. enfadarme.",
+          "g. abrir una galería de arte.",
+          "h. marcharme pronto."
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "Esta mañana vino Luisa a que _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Están siempre insultándome con intención de _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiero alquilar un local con idea de _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiero comprar queso para que _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He trabajado mucho a fin de _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Paco y Mariano han salido a _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vengo hoy un poco antes con la intención de _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te he dicho eso con ánimo de _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con los nexos dados.",
+      "items": [
+        {
+          "texto_enunciado": "Puse el despertador. Quería levantarme temprano. (con el fin de) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Julia me llamó. Quería que la acompañara al médico. (para) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He invitado a todos mis tíos. Quiero celebrar el nacimiento de Manoli. (con el propósito de) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estos días estoy a dieta. Me conviene reducir peso. (con el fin de) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Enrique viene en verano. Quiere que conozcamos a su esposa. (para) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He puesto la calefacción. Quiero que el piso se caliente. (con la intención de) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mañana voy de tiendas. Quiero comprarle un abrigo a mi madre. (con la idea de) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la forma correcta del verbo entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Necesito verte para que me (tú, firmar) _____ unos documentos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anoche tuvimos que empujar el coche para que (arrancar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Voy a apuntar la dirección para que no (a mí, olvidarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ponte esta crema para que no te (quemar) _____ el sol.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Debo avisar a Santi a fin de que (ir) _____ a recogerme a la estación.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pedí a Estela que trajera sus cedés a fin de que los (nosotros, oír) _____ en casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pusimos a Fidel delante con ánimo de que no (marearse) _____ con las curvas de la carretera.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.4",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Vigila. No quiero que se queme la comida. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estudia. No quiero que te suspendan. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Abre las ventanas. Quiero que entre el aire. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cierra la jaula. No quiero que se escape el hámster. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Escribe eso en la pizarra. Quiero que lo vean todos. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.5",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *para* o *a* y los verbos del recuadro.",
+      "banco_palabras": [
+        "acompañar",
+        "detener",
+        "informar",
+        "limpiar",
+        "reparar",
+        "repartir",
+        "resolver"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Me gustaría encontrar una loción _____ la caída del cabello.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa salsa es excelente _____ la carne de venado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los problemas _____ son complicados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay un servicio telefónico _____ del estado de las carreteras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Tienes algo _____ los zapatos?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La herencia _____ tras la muerte de su tío es cuantiosa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mañana vienen _____ los teléfonos.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.6",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las expresiones del recuadro.",
+      "banco_palabras": [
+        "para que lo sepas",
+        "para ser sincero",
+        "para que te enteres",
+        "para que te fastidies",
+        "para que te hagas idea"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Esto me lo he comprado yo, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Y ahora no pienso dejarte que uses mi ordenador, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____, la película era bastante mala.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Y mañana no pienso salir contigo, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____, el nuevo hipermercado es como dos estadios de fútbol.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 93,
+  "titulo_libro": "para comprarme, con idea de pasar, a tratar -- Oraciones finales",
+  "scan": "p-193.jpg"
+}

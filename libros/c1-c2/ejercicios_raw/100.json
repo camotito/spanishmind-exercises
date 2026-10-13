@@ -1,0 +1,207 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "100.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *por mucho/a/os/as*, *por (muy) poco*, *por (muy) poco/a/os/as*, *por (muy)*.",
+      "items": [
+        {
+          "texto_enunciado": "_____ que esperáramos, esperamos una hora.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ que os esforcéis, no me vais a convencer.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ bajo que sea, a mí me parece normal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ dinero que tenga, no es nada feliz.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ años que tenga, tiene ya cincuenta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo no leo ese libro _____ interesante que sea.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ bien que hable árabe, le será difícil encontrar empleo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ historia que sepa, no sabrá mucho de los Templarios.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con *por (muy/muy poco)*, *por mucho/a/os/as*, *por (muy) poco/a/os/as*.",
+      "items": [
+        {
+          "texto_enunciado": "-Julia tiene mucha ropa. – _____ , va siempre mal vestida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Roberto parece muy listo. – _____ , nunca nos aclara nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Begoña no sabe mucho de cocina. – _____ , sabe más que su hermano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Esos edificios parecen muy viejos. – _____ no tienen más de 50 años.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Emilio toca bien el piano. – _____ , le va a ser difícil encontrar trabajo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Jan sabe mucho latín. – _____ , no podrá traducir ese documento. Es complicado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Roberto no tiene mucho dinero. – _____ , puede permitirse alquilar algo mejor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Elías parece muy educado. – _____ , a mí nunca me cede el paso en el portal.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases comenzando con las palabras dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Aunque venga siempre a clase, no avanza mucho. Si bien es cierto que _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque sea el director, no tiene que gritar. Porque _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Elías no le dejo el coche aunque me lo pida de rodillas. Así _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque la economía ha mejorado algo, el paro sigue aumentando. Si bien es cierto que _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque Pedro no tiene mucho dinero, a mí me ha hecho un buen regalo. Si bien _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque sabes bien inglés, no te van a dar ese empleo. Porque _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque me maten, no volveré a hablar con Agustín. Así _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque lo pasara mal en ese pueblo, no me importaría volver. Si bien _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque hace mal tiempo, no vamos a dejar de jugar hoy el partido. Porque _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque me apetezca, me resulta imposible asistir a esa reunión. Si bien _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *aun (con)*, *incluso (con)*, *ni siquiera (con)* o *ni aunque*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Aunque sea muy guapa, es insoportable. Aun _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque me regalaran las entradas, no vería esa película. Ni aunque _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque han bajado los impuestos, no mejora la economía. Incluso _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elsa ha dado clases de cocina, pero no cocina bien. Aun con _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque me subieran el sueldo, no me quedaría en esta empresa. Ni aunque _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque hace mucho calor, me encanta el sur. Aun con _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tiene \"enchufe\", pero no ha conseguido entrar en la policía. Ni siquiera con _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ni aunque te pongas de rodillas te va a perdonar. Ni siquiera _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.5",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *y eso que*.",
+      "items": [
+        {
+          "texto_enunciado": "Hacía un día extraordinario y a pesar de ello no quiso salir. No quiso salir _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo anoto todo y a pesar de ello se me olvida. Se me olvida todo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alonso come muy poco, pero a pesar de ello está gordo. Alonso está gordo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No conseguí entradas para el ballet a pesar de estar dos horas en la cola. No conseguí entradas _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Marisa se empeñó en ir al campo, aunque habían dicho que llovería. Marisa se empeñó en ir _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ganaron el partido, aunque Ronaldo falló un penalti. Ganaron el partido _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 100,
+  "titulo_libro": "por fuerte que parezca, si bien hay mucha nieve -- Oraciones concesivas (2)",
+  "scan": "p-207.jpg"
+}

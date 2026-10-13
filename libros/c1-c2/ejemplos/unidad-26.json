@@ -1,0 +1,272 @@
+{
+  "tema": "unidad-26",
+  "titulo": "¿Qué demonios...? ¿Cómo es que...? ¿Para qué va a ser?",
+  "descripcion_gramatical": "Interrogativos (2)",
+  "fuente": "libro",
+  "unidad_libro": 26,
+  "ejercicios": [
+    {
+      "subejercicio": "26.1",
+      "tipologia": "T4",
+      "enunciado": "Haga sugerencias con *¿Por qué no...?*",
+      "items": [
+        {
+          "texto_enunciado": "(tú, venir a mi casa) _____",
+          "solucion_correcta": [
+            "¿Por qué no vienes a mi casa?"
+          ]
+        },
+        {
+          "texto_enunciado": "(ustedes, coger un taxi) _____",
+          "solucion_correcta": [
+            "¿Por qué no cogen ustedes un taxi?"
+          ]
+        },
+        {
+          "texto_enunciado": "(nosotros, ver una peli) _____",
+          "solucion_correcta": [
+            "¿Por qué no vemos una peli?"
+          ]
+        },
+        {
+          "texto_enunciado": "(ella, prepararse una oposición) _____",
+          "solucion_correcta": [
+            "¿Por qué no se prepara una oposición?"
+          ]
+        },
+        {
+          "texto_enunciado": "(vosotros, hacer un máster) _____",
+          "solucion_correcta": [
+            "¿Por qué no hacéis un máster?"
+          ]
+        },
+        {
+          "texto_enunciado": "(nosotros, montar un negocio) _____",
+          "solucion_correcta": [
+            "¿Por qué no montamos un negocio?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "26.2",
+      "tipologia": "T3",
+      "enunciado": "Exprese sorpresa o enfado con *diablos*/*demonios* y el interrogativo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____ haces aquí? No estás invitado.",
+          "solucion_correcta": [
+            "Qué diablos/demonios"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ ha llamado a estas horas? Ya estaba dormido.",
+          "solucion_correcta": [
+            "Quién diablos/demonios"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ estudia Ángela? No sabe nada.",
+          "solucion_correcta": [
+            "Qué diablos/demonios"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ va a llegar Rosa? Estoy harto de esperar.",
+          "solucion_correcta": [
+            "Cuándo diablos/demonios"
+          ]
+        },
+        {
+          "texto_enunciado": "Pero... ¿_____ abres mis cartas? Ya sabes que no me agrada.",
+          "solucion_correcta": [
+            "por qué diablos/demonios"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ se come esto? ¿Con las manos, con palillos...?",
+          "solucion_correcta": [
+            "Cómo diablos/demonios"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ están mis gafas? No las encuentro nunca.",
+          "solucion_correcta": [
+            "Dónde diablos/demonios"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "26.3",
+      "tipologia": "T12",
+      "enunciado": "Pida explicaciones ante las situaciones siguientes.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer compró fruta y hoy no hay fruta. _____",
+          "solucion_correcta": [
+            "¿Cómo es que no hay fruta?"
+          ]
+        },
+        {
+          "texto_enunciado": "Un alumno llega ahora; el examen empezó hace media hora. _____",
+          "solucion_correcta": [
+            "¿Cómo es que llegas ahora?"
+          ]
+        },
+        {
+          "texto_enunciado": "Su hermano está en casa; debería estar en clase. _____",
+          "solucion_correcta": [
+            "¿Cómo es que no estás en clase?"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis no llama a un amigo; debería haberlo hecho. _____",
+          "solucion_correcta": [
+            "¿Cómo es que no has llamado a tu amigo?"
+          ]
+        },
+        {
+          "texto_enunciado": "Una amiga va sola a una fiesta; debería haber ido con su novio. _____",
+          "solucion_correcta": [
+            "¿Cómo es que no has ido/venido con tu novio?"
+          ]
+        },
+        {
+          "texto_enunciado": "Un amigo ha suspendido; debería haber aprobado. _____",
+          "solucion_correcta": [
+            "¿Cómo es que no has aprobado?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "26.4",
+      "tipologia": "T12",
+      "enunciado": "Exprese desacuerdo con las informaciones siguientes.",
+      "items": [
+        {
+          "texto_enunciado": "-Luis trabaja mucho. - _____ No hace nada.",
+          "solucion_correcta": [
+            "¿Cómo que trabaja mucho?"
+          ]
+        },
+        {
+          "texto_enunciado": "-Estoy agotado. - _____. Si no has hecho nada.",
+          "solucion_correcta": [
+            "¿Cómo que estás agotado? / ¿Cómo vas a estar agotado?"
+          ]
+        },
+        {
+          "texto_enunciado": "-No creo que esté abierto el banco. - _____. Si son solo las dos.",
+          "solucion_correcta": [
+            "¿Cómo no va a estar abierto?"
+          ]
+        },
+        {
+          "texto_enunciado": "-No tengo tiempo. - _____. Si estás todo el día en casa.",
+          "solucion_correcta": [
+            "¿Cómo que no tienes tiempo? / ¿Cómo no vas a tener tiempo?"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ya estoy mejor. - _____. Pero si estás totalmente pálido.",
+          "solucion_correcta": [
+            "¿Cómo que estás mejor? / ¿Cómo vas a estar mejor?"
+          ]
+        },
+        {
+          "texto_enunciado": "-No creo que nos devuelvan el dinero. - _____. Si el ordenador no funciona.",
+          "solucion_correcta": [
+            "¿Cómo no nos van a devolver el dinero?"
+          ]
+        },
+        {
+          "texto_enunciado": "-Este mes no hemos pagado la luz. - _____. Si la pagué yo la semana pasada.",
+          "solucion_correcta": [
+            "¿Cómo que no hemos pagado la luz?"
+          ]
+        },
+        {
+          "texto_enunciado": "-Espero que me dejes algo de dinero. - _____. Si luego no lo devuelves.",
+          "solucion_correcta": [
+            "¿Cómo te voy a dejar algo de dinero?"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ana está durmiendo. - _____. Si no está en su habitación.",
+          "solucion_correcta": [
+            "¿Cómo que está durmiendo? / ¿Cómo va a estar durmiendo?"
+          ]
+        },
+        {
+          "texto_enunciado": "-A Rodrigo lo van a ascender. - _____. Si el director no lo puede ver.",
+          "solucion_correcta": [
+            "¿Cómo que lo van a ascender? / ¿Cómo lo van a ascender?"
+          ]
+        },
+        {
+          "texto_enunciado": "-No creo que me seleccionen para este partido. - _____. Si eres el mejor.",
+          "solucion_correcta": [
+            "¿Cómo no te van a seleccionar para este partido?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "26.5",
+      "tipologia": "T12",
+      "enunciado": "Indique que las preguntas siguientes son improcedentes.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Qué haces aquí? - _____ Me has llamado tú.",
+          "solucion_correcta": [
+            "¿Cómo que qué hago aquí?"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cómo has conseguido mi número de teléfono? - _____. Mirando en el listín telefónico.",
+          "solucion_correcta": [
+            "¿Cómo que cómo he conseguido tu número de teléfono?"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Para qué me has llamado? - _____. Para preguntar por tus padres.",
+          "solucion_correcta": [
+            "¿Cómo que para qué te he llamado?"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Para qué quería verte Lucía? - _____. Somos amigos.",
+          "solucion_correcta": [
+            "¿Cómo que para qué quería verme?"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quién te ha arreglado el abrigo? - _____. El sastre, naturalmente.",
+          "solucion_correcta": [
+            "¿Cómo que quién me ha arreglado el abrigo?"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué quieres? - _____. Que me devuelvas el dinero que te presté.",
+          "solucion_correcta": [
+            "¿Cómo que qué quiero?"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué no vienes a la fiesta de Rosa? - _____. Porque no me han invitado.",
+          "solucion_correcta": [
+            "¿Cómo que por qué no voy a la fiesta de Rosa?"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuándo has llegado a la oficina? - _____. A las nueve, como siempre.",
+          "solucion_correcta": [
+            "¿Cómo que cuándo he llegado a la oficina?"
+          ]
+        }
+      ]
+    }
+  ]
+}

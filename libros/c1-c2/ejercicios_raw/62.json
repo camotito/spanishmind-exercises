@@ -1,0 +1,217 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "62.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Exprese los siguientes deseos con *ojalá* y *así*.",
+      "items": [
+        {
+          "texto_enunciado": "Me gustaría ser más joven. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No lo sé, pero espero que anoche no helara. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría que te atragantaras con el pastel. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría que te arruinaras, por egoísta. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quisiera que perdieras hasta la camisa en el casino. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sé que es difícil, pero me encantaría ver a Inés en Navidad. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sueño con ser director de cine. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me ilusionaría viajar a Marte. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Exprese los siguientes deseos con *¡quién!*.",
+      "items": [
+        {
+          "texto_enunciado": "Le gustaría saber hablar muchos idiomas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le gustaría poder viajar al espacio. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le gustaría tener un Picasso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es bajo, pero le gustaría ser alto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le gustaría tocar el piano como yo. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las reacciones con *ni que*. Utilice las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-Rocío se pasa el fin de semana durmiendo. -(trabajar mucho) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Ana nunca va en metro. -(tener miedo a los sótanos) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Nerea salía de viaje con cuatro maletas. -(ir a dar la vuelta al mundo) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Andrés corre dos horas todos los días. -(ir a las Olimpiadas) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Jaime come mucho arroz. -(ser chino) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Mis hijos casi nunca comen carne. -(ser vegetarianos) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Hoy Eva se ha puesto dos jerséis. -(nosotros, estar en el Polo) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Enrique cree que no le caes bien. -(leer el pensamiento) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.4",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Reaccione con *¡como si!* Utilice las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-Eres una antipática. -(tú, muy simpático) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Pablo dice que no tienes paciencia. -(él, mucha) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No sabes nada de política. -(tú, mucho) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Vestís muy mal. -(vosotras, muy bien) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Sonia dice que conduces muy mal. -(ella, muy bien) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.5",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Exprese los sentimientos indicados sobre las situaciones siguientes con exclamaciones con *¡qué!*",
+      "items": [
+        {
+          "texto_enunciado": "-No acerté la quiniela por muy poco. -(una pena) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Miguel no vino a dormir anoche. -(extraño) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Nos gustó mucho Japón. -(una alegría) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Arturo no saludó a sus tíos. -(una vergüenza) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Se les extravió el perro. -(una desgracia) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Ronaldo falló el penalti. -(raro) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Luis no quiso beber nada. -(extraño) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Nos encontramos a Lola en el Rastro. -(casualidad) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "62.6",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la forma adecuada.",
+      "banco_palabras": [
+        "pasar",
+        "poder",
+        "querer (2)",
+        "renovar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "-Creo que Sara tuvo un accidente ayer. -¡Ojalá no le _____ nada!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(nosotros) _____ hablar un momento con usted.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Susana dice que este verano va a ir a Brasil. -¡Qué más _____ ella!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Juan habló con el director el lunes. -¡Ojalá le _____ el contrato!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Paul cruzó Cuba en globo en 2010. -¡Ojalá _____ yo viajar en globo algún día!",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 62,
+  "titulo_libro": "¡Qué más quisiera! -- Pretérito imperfecto de subjuntivo (1)",
+  "scan": "p-131.jpg"
+}

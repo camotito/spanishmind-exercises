@@ -1,0 +1,308 @@
+{
+  "tema": "unidad-102",
+  "titulo": "más guapo que inteligente, menos de lo que creía",
+  "descripcion_gramatical": "Oraciones comparativas (1)",
+  "fuente": "libro",
+  "unidad_libro": 102,
+  "ejercicios": [
+    {
+      "subejercicio": "102.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con *tan*, *tanto*, *más*, *menos* y *como*, *que*, *de*, *el/la/los/las que*, *lo que*, *lo*.",
+      "items": [
+        {
+          "texto_enunciado": "Sara en persona es mucho _____ atractiva _____ parece en fotografía.",
+          "solucion_correcta": [
+            "más",
+            "de lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "A veces, el león no es _____ fiero _____ lo pintan.",
+          "solucion_correcta": [
+            "tan",
+            "como"
+          ]
+        },
+        {
+          "texto_enunciado": "Es un tragón y un bebedor. Come _____ bebe.",
+          "solucion_correcta": [
+            "tanto como"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué bien! He adelgazado _____ pensaba.",
+          "solucion_correcta": [
+            "más de lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta _____ tu cuadro _____ ha pintado Isabel. Tiene más fuerza.",
+          "solucion_correcta": [
+            "más",
+            "que el que"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta furgoneta no es _____ rápida _____ un coche, pero caben más cosas.",
+          "solucion_correcta": [
+            "tan",
+            "como"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa montaña es _____ peligrosa _____ piensan algunos.",
+          "solucion_correcta": [
+            "menos",
+            "de lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy contentísimo. Me han pagado _____ acordado.",
+          "solucion_correcta": [
+            "más de lo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustan _____ estas manzanas _____ compras tú.",
+          "solucion_correcta": [
+            "más",
+            "que las que"
+          ]
+        },
+        {
+          "texto_enunciado": "Teo no es _____ fuerte _____ parece.",
+          "solucion_correcta": [
+            "tan",
+            "como"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué bien! El televisor cuesta _____ me figuraba.",
+          "solucion_correcta": [
+            "menos de lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "Javi está otra vez mal. Siempre come _____ necesario.",
+          "solucion_correcta": [
+            "más de lo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "102.2",
+      "tipologia": "T10",
+      "enunciado": "Vuelva a escribir las frases con una estructura comparativa.",
+      "items": [
+        {
+          "texto_enunciado": "Mi hermano es muy trabajador y yo soy muy vago. Mi hermano _____",
+          "solucion_correcta": [
+            "es tan trabajador como yo vago"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto es poco eficaz. Yo creía que lo era más. Alberto _____",
+          "solucion_correcta": [
+            "es menos eficaz que lo que yo creía"
+          ]
+        },
+        {
+          "texto_enunciado": "Eres poco honrada. Los que te han engañado lo son más. Eres _____",
+          "solucion_correcta": [
+            "menos honrada que los que te han engañado"
+          ]
+        },
+        {
+          "texto_enunciado": "Es muy tarde. No pensaba que lo fuera. Es _____",
+          "solucion_correcta": [
+            "más tarde de lo que pensaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Elena es muy trabajadora y muy ahorradora. Elena _____",
+          "solucion_correcta": [
+            "es tan trabajadora como ahorradora"
+          ]
+        },
+        {
+          "texto_enunciado": "Jesús es un buen alumno. Sus padres no lo creían. Jesús _____",
+          "solucion_correcta": [
+            "es mejor alumno de lo que creían sus padres"
+          ]
+        },
+        {
+          "texto_enunciado": "Las notas de Marta no son buenas. Las de su hermana son mejores. Las notas de Marta _____",
+          "solucion_correcta": [
+            "son peores que las de su hermana"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta planta ha crecido mucho. Más de lo habitual. _____",
+          "solucion_correcta": [
+            "Esta planta ha crecido más de lo habitual"
+          ]
+        },
+        {
+          "texto_enunciado": "Alonso no habla inglés bien. Yo no hablo chino. _____",
+          "solucion_correcta": [
+            "Alonso habla tan bien inglés como yo hablo chino"
+          ]
+        },
+        {
+          "texto_enunciado": "China es muy grande y muy interesante. _____",
+          "solucion_correcta": [
+            "China es tan grande como interesante"
+          ]
+        },
+        {
+          "texto_enunciado": "Adela no es amable. Yo no soy alta. _____",
+          "solucion_correcta": [
+            "Adela es tan amable como yo soy alta"
+          ]
+        },
+        {
+          "texto_enunciado": "Es muy rico. No me lo imaginaba. _____",
+          "solucion_correcta": [
+            "Es más rica de lo que me imaginaba"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "102.3",
+      "tipologia": "T10",
+      "enunciado": "Vuelva a escribir las frases con una estructura comparativa.",
+      "items": [
+        {
+          "texto_enunciado": "En España no llueve mucho. En Portugal llueve más. _____",
+          "solucion_correcta": [
+            "En España no llueve tanto como en Portugal"
+          ]
+        },
+        {
+          "texto_enunciado": "He comido mucho. No quería. _____",
+          "solucion_correcta": [
+            "He comido más de lo que quería"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge es un gran vendedor. Vende mucho. El resto de sus compañeros venden lo mismo. _____",
+          "solucion_correcta": [
+            "Jorge es tan buen vendedor como el resto de sus compañeros"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese piso no vale lo que Sonia piensa. _____",
+          "solucion_correcta": [
+            "Ese piso no vale tanto como piensa Sonia"
+          ]
+        },
+        {
+          "texto_enunciado": "Marina promete demasiado. Más que cumple. _____",
+          "solucion_correcta": [
+            "Marina promete más de lo que cumple"
+          ]
+        },
+        {
+          "texto_enunciado": "Antonio gana mucho, pero gasta más. _____",
+          "solucion_correcta": [
+            "Antonio gasta más de lo que gana / gana menos de lo que gasta"
+          ]
+        },
+        {
+          "texto_enunciado": "Apenas desayuno por la mañana. Silvia desayuna más. _____",
+          "solucion_correcta": [
+            "Silvia desayuna más que yo / Yo desayuno menos que Silvia"
+          ]
+        },
+        {
+          "texto_enunciado": "No entreno mucho. Me gustaría entrenar más. _____",
+          "solucion_correcta": [
+            "No entreno tanto como me gustaría"
+          ]
+        },
+        {
+          "texto_enunciado": "No llovió mucho. Mucho menos de lo que decían los pronósticos. _____",
+          "solucion_correcta": [
+            "Llovió mucho menos de lo que decían los pronósticos"
+          ]
+        },
+        {
+          "texto_enunciado": "Está nevando mucho. No es lo habitual. _____",
+          "solucion_correcta": [
+            "Está nevando más de lo habitual"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "102.4",
+      "tipologia": "T12",
+      "enunciado": "Escriba frases con *cuanto* con las palabras dadas entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Arturo es un poco raro. (más, llover / más contento, ponerse) _____",
+          "solucion_correcta": [
+            "Cuanto más llueve, más contento se pone"
+          ]
+        },
+        {
+          "texto_enunciado": "Descansa. Lógicamente. (más, tú, correr / más, tú, cansarse) _____",
+          "solucion_correcta": [
+            "Cuanto más corras, más te cansarás"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Fenomenal! (menos, ello, costar / mejor) _____",
+          "solucion_correcta": [
+            "Cuanto menos cueste, mejor"
+          ]
+        },
+        {
+          "texto_enunciado": "Deberías saldar la deuda. (más, tú, tardar en pagar / mayores, ser, los intereses.) _____",
+          "solucion_correcta": [
+            "Cuanto más tardes en pagar, mayores serán los intereses"
+          ]
+        },
+        {
+          "texto_enunciado": "Es mejor que no la veas. (menos, yo, verla / menos, yo, acordarse de ella) _____",
+          "solucion_correcta": [
+            "Cuanto menos la veas, menos te acordarás de ella"
+          ]
+        },
+        {
+          "texto_enunciado": "Es normal. (más, tú, comer / más, tú, engordar) _____",
+          "solucion_correcta": [
+            "Cuanto más comes, más engordas"
+          ]
+        },
+        {
+          "texto_enunciado": "Es lógico. (mejor, él, explicar / mejor, yo, entenderlo) _____",
+          "solucion_correcta": [
+            "Cuanto mejor explica, mejor lo entiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Es muy luchadora. (peor, ellos, tratarla / más, ella, rebelarse) _____",
+          "solucion_correcta": [
+            "Cuanto peor la tratan, más se rebela"
+          ]
+        },
+        {
+          "texto_enunciado": "Tranquilo. (menos, tú, correr / menos, tú, cansarse) _____",
+          "solucion_correcta": [
+            "Cuanto menos corras, menos te cansarás"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. (menos, tú, pensarlo / mejor) _____",
+          "solucion_correcta": [
+            "Cuanto menos lo pienses, mejor"
+          ]
+        }
+      ]
+    }
+  ]
+}

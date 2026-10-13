@@ -1,0 +1,278 @@
+{
+  "tema": "unidad-90",
+  "titulo": "Así que cállate. De ahí que regresara.",
+  "descripcion_gramatical": "Oraciones consecutivas (1)",
+  "fuente": "libro",
+  "unidad_libro": 90,
+  "ejercicios": [
+    {
+      "subejercicio": "90.1",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con el nexo dado. Tenga cuidado con el orden de las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Tenemos que hacer horas extra. Hay mucha gente enferma. (por eso) _____",
+          "solucion_correcta": [
+            "Hay mucha gente enferma, por eso tenemos que hacer horas extras"
+          ]
+        },
+        {
+          "texto_enunciado": "No puedo decirte nada. Todavía no me ha contestado Julio. (de modo que) _____",
+          "solucion_correcta": [
+            "Todavía no me ha contestado Julio de modo que no puedo decirte nada"
+          ]
+        },
+        {
+          "texto_enunciado": "A lo mejor te arregla el ordenador Enrique. Sabe mucho de informática. (de manera que) _____",
+          "solucion_correcta": [
+            "Enrique sabe mucho de Informática, de manera que a lo mejor te arregla el ordenador"
+          ]
+        },
+        {
+          "texto_enunciado": "Todo será más barato. Pronto llegarán las rebajas. (consecuentemente) _____",
+          "solucion_correcta": [
+            "Pronto llegarán las rebajas, consecuentemente todo será más barato"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo derecho a la herencia. Yo también soy hijo vuestro. (por lo tanto) _____",
+          "solucion_correcta": [
+            "Yo también soy hijo vuestro, por lo tanto tengo derecho a la herencia"
+          ]
+        },
+        {
+          "texto_enunciado": "Me fui. Esperé pero no veníais. (así que) _____",
+          "solucion_correcta": [
+            "Esperé pero no venías, así que me fui"
+          ]
+        },
+        {
+          "texto_enunciado": "Raquel sigue enfadada conmigo. No me coge el teléfono. (o sea que) _____",
+          "solucion_correcta": [
+            "Raquel no me coge el teléfono, o sea que sigue enfadada conmigo"
+          ]
+        },
+        {
+          "texto_enunciado": "No puede ser de Javi. Esta chaqueta es talla XL. (de forma que) _____",
+          "solucion_correcta": [
+            "Esta chaqueta es talla XL, de forma que no puede ser de Javi"
+          ]
+        },
+        {
+          "texto_enunciado": "Has puesto poca sal. La verdura está sosa. (por eso) _____",
+          "solucion_correcta": [
+            "Has puesto poca sal, por eso la verdura está sosa"
+          ]
+        },
+        {
+          "texto_enunciado": "La propuesta del director ha obtenido mayoría de votos. Queda aprobada. (por consiguiente) _____",
+          "solucion_correcta": [
+            "La propuesta del director ha obtenido mayoría de votos, por consiguiente queda aprobada"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "90.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con las sugerencias.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo hambre, (así que, tú, preparar algo) _____.",
+          "solucion_correcta": [
+            "así que prepara algo"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo que hacer los ejercicios (de manera que, tú, devolverme el diccionario) _____.",
+          "solucion_correcta": [
+            "de manera que devuélveme el diccionario"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy no hace frío, (así que, vosotros, no encender la calefacción) _____.",
+          "solucion_correcta": [
+            "así que no encendáis la calefacción"
+          ]
+        },
+        {
+          "texto_enunciado": "Alfonso dice muchas tonterías, (o sea que, vosotros, no hacerle caso) _____.",
+          "solucion_correcta": [
+            "o sea que no le hagáis caso"
+          ]
+        },
+        {
+          "texto_enunciado": "Javier dice que te deja su piso de Marbella. (de modo que, darle las gracias) _____.",
+          "solucion_correcta": [
+            "de modo que dale las gracias"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya son las ocho. (o sea que, vosotros, recoger y marcharse) _____.",
+          "solucion_correcta": [
+            "o sea que recoged y marchaos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "90.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con *conque* o *luego*.",
+      "items": [
+        {
+          "texto_enunciado": "Hoy no hay calefacción, _____ abrigaos bien.",
+          "solucion_correcta": [
+            "conque"
+          ]
+        },
+        {
+          "texto_enunciado": "Respira, _____ está vivo.",
+          "solucion_correcta": [
+            "luego"
+          ]
+        },
+        {
+          "texto_enunciado": "La luz roja está encendida, _____ tiene corriente.",
+          "solucion_correcta": [
+            "luego"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana empezamos el inventario, _____ llegad pronto.",
+          "solucion_correcta": [
+            "conque"
+          ]
+        },
+        {
+          "texto_enunciado": "Solo hay entradas para cinco personas, _____ daos prisa si estáis interesados.",
+          "solucion_correcta": [
+            "conque"
+          ]
+        },
+        {
+          "texto_enunciado": "Come bien, _____ no está tan mal.",
+          "solucion_correcta": [
+            "luego"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí no puede haber nadie, _____ marchaos.",
+          "solucion_correcta": [
+            "conque"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese dormitorio lleva cerrado varios días, _____ ventílalo un poco.",
+          "solucion_correcta": [
+            "conque"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "90.4",
+      "tipologia": "T3",
+      "enunciado": "Complete con *de ahí* o *de ahí que*.",
+      "items": [
+        {
+          "texto_enunciado": "Es árabe; _____ su nombre.",
+          "solucion_correcta": [
+            "de ahí"
+          ]
+        },
+        {
+          "texto_enunciado": "Es alérgico a la leche; _____ no pueda comer estos helados.",
+          "solucion_correcta": [
+            "de ahí que"
+          ]
+        },
+        {
+          "texto_enunciado": "Comercia con alimentos; _____ procede su riqueza.",
+          "solucion_correcta": [
+            "de ahí"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy acaba el plazo de entrega de solicitudes; _____ su prisa.",
+          "solucion_correcta": [
+            "de ahí"
+          ]
+        },
+        {
+          "texto_enunciado": "No le gusta mucho la ópera; _____ no tenga interés en conseguir entradas.",
+          "solucion_correcta": [
+            "de ahí que"
+          ]
+        },
+        {
+          "texto_enunciado": "Ha dejado de fumar, _____ esté un poco más gordo.",
+          "solucion_correcta": [
+            "de ahí que"
+          ]
+        },
+        {
+          "texto_enunciado": "A Fito le mordió un galgo de pequeño; _____ su miedo a los perros.",
+          "solucion_correcta": [
+            "de ahí"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "90.5",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo entre paréntesis en el tiempo adecuado de indicativo o subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Están de vacaciones en la India; de ahí que no (ellos, enterarse) _____ de lo de Martín.",
+          "solucion_correcta": [
+            "se hayan enterado"
+          ]
+        },
+        {
+          "texto_enunciado": "No se lleva bien con Marisa; de ahí que no (él, querer) _____ venir a la excursión.",
+          "solucion_correcta": [
+            "quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "En ese momento estábamos cansados; de ahí que nadie (aceptar) _____ tu sugerencia.",
+          "solucion_correcta": [
+            "aceptara"
+          ]
+        },
+        {
+          "texto_enunciado": "Su padre se dedicaba a la compra-venta de pisos; de ahí (surgir) _____ su empresa de construcción.",
+          "solucion_correcta": [
+            "surgió"
+          ]
+        },
+        {
+          "texto_enunciado": "Los aeropuertos estaban cerrados por el mal tiempo; de ahí que (tener) _____ que quedarnos dos días más en Moscú.",
+          "solucion_correcta": [
+            "tuviéramos"
+          ]
+        },
+        {
+          "texto_enunciado": "Nuria no tiene buenos recuerdos de esa familia; de ahí que (negarse) _____ a acompañarnos a verlos.",
+          "solucion_correcta": [
+            "se niegue"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi padre era napolitano: de ahí que (yo, entender) _____ italiano.",
+          "solucion_correcta": [
+            "entienda"
+          ]
+        },
+        {
+          "texto_enunciado": "Julia come muy mal; de ahí (proceder) _____ todas sus enfermedades.",
+          "solucion_correcta": [
+            "proceden"
+          ]
+        }
+      ]
+    }
+  ]
+}

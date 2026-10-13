@@ -1,0 +1,159 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "42.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Luis (viajar) _____ mucho por Asia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Cuándo (tú, estar) _____ en Singapur?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(vosotros, perder) _____ alguna vez algo importante?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué has ido al hospital? -Me (morder) _____ un perro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cuánto te (costar) _____ esos pantalones? -30 euros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué estás tan ocupado? -(empezar) _____ las clases esta semana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Quién (inventar) _____ la bombilla? -Edison.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Cuánto (crecer) _____ Javi este verano!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No tengo suerte. No (ganar) _____ nunca un premio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando (nosotros, ir) _____ a China, (nosotros, recorrer) _____ una parte de la Gran Muralla.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "42.2",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (llamaste/llamabas), (estuve/estaba) en casa de Ana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Agustín (murió/moría) el mes pasado. Nos (conocimos/conocíamos) desde que (fuimos/éramos) niños.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "De pequeños (jugamos/jugábamos) muchas horas en la calle. Nos (divertimos/divertíamos) mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer (tuve/tenía) que ir al dentista. Me (dolieron/dolían) mucho las muelas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando (sonó/sonaba) el despertador, (soñé/estaba soñando) con las vacaciones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Acabé/Estaba acabando) el informe cuando (llegó/llegaba) el director.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "42.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cuanto tiempo (hacer) _____ que no (ir) _____ al dentista, Iván?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando (yo, ver) _____ a Feliciano, (él, hablar) _____ por el móvil.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando (yo, vivir) _____ con mis padres, (nosotros, discutir) _____ todos los días.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El otro día (nosotros, hablar) _____ de ti, Carmen. Hacía meses que no nos (llamar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En el colegio (yo, hacer) _____ siempre muchas preguntas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(preguntar) _____ alguien por mí ayer?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Una señora me (robar) _____ la cartera mientras (yo, hablar) _____ con Teresa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué (tú, hacer) _____ cuando (llegar) _____ los bomberos? -(intentar) _____ apagar el fuego.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "42.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (yo, vivir) _____ en Manila, (traducir) _____ artículos para una revista en español.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ian (regresar) _____ a Escocia el verano pasado. (llevar) _____ cinco años fuera de su país.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anabel no (trabajar) _____ en toda su vida. Le (tocar) _____ la lotería cuando (ser) _____ muy joven y (vivir) _____ siempre de las rentas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué te pasa Jesús? -Nada, que (yo, discutir) _____ con Ana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Parece que anoche Julio (divertirse) _____ mucho en la fiesta de Mercedes. (hacer) _____ tiempo que no se lo (pasar) _____ tan bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anoche no (yo, poder) _____ hablar contigo. Cuando (tú, llamar) _____, (yo, visitar) _____ a algunos enfermos.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 42,
+  "titulo_libro": "hice / hacía / he hecho / estaba haciendo -- Contraste entre tiempos del pasado",
+  "scan": "p-091.jpg"
+}

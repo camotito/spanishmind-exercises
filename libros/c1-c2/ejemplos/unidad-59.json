@@ -1,0 +1,295 @@
+{
+  "tema": "unidad-59",
+  "titulo": "¿Te molesta que fume? Me pone nervioso que grites.",
+  "descripcion_gramatical": "Presente de subjuntivo (3)",
+  "fuente": "libro",
+  "unidad_libro": 59,
+  "ejercicios": [
+    {
+      "subejercicio": "59.1",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Mariano habla gritando. No lo soporto. _____",
+          "solucion_correcta": [
+            "No soporto que Mariano hable gritando"
+          ]
+        },
+        {
+          "texto_enunciado": "A veces me mandan. Lo odio. _____",
+          "solucion_correcta": [
+            "Odio que me manden"
+          ]
+        },
+        {
+          "texto_enunciado": "Te preocupas por nosotros. Te lo agradezco. _____",
+          "solucion_correcta": [
+            "Te agradezco que te preocupes por nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Me pueden despedir. Tengo miedo. _____",
+          "solucion_correcta": [
+            "Tengo miedo de que me despidan / Tengo miedo de que me puedan despedir"
+          ]
+        },
+        {
+          "texto_enunciado": "A María le van a subir el sueldo. Está encantada. _____",
+          "solucion_correcta": [
+            "María está encantada de que le suban el sueldo"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan dijo que iba a llamar. Lo dudo. _____",
+          "solucion_correcta": [
+            "Dudo que Juan llame"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienen que esperar un rato. Lo sentimos. _____",
+          "solucion_correcta": [
+            "Sentimos que tengan que esperar un rato"
+          ]
+        },
+        {
+          "texto_enunciado": "Eres muy ambiciosa. No te lo reprocho. _____",
+          "solucion_correcta": [
+            "No te reprocho que seas tan ambiciosa"
+          ]
+        },
+        {
+          "texto_enunciado": "Iván va siempre sucio. No lo soporto. _____",
+          "solucion_correcta": [
+            "No soporto que Iván vaya siempre sucio"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "59.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No viene Armando. No me importa. _____",
+          "solucion_correcta": [
+            "No me importa que no venga Armando"
+          ]
+        },
+        {
+          "texto_enunciado": "Son poco puntuales. Me molesta. _____",
+          "solucion_correcta": [
+            "Me molesta que sean poco puntuales"
+          ]
+        },
+        {
+          "texto_enunciado": "Van a suspender el concierto. Me sorprende. _____",
+          "solucion_correcta": [
+            "Me sorprende que suspendan el concierto / Me sorprende que vayan a suspender el concierto"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos acompaña María. ¿Te importa? _____",
+          "solucion_correcta": [
+            "¿Te importa que nos acompañe María?"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero abrir la ventana. ¿Le molesta? _____",
+          "solucion_correcta": [
+            "¿Le molesta que abra la ventana?"
+          ]
+        },
+        {
+          "texto_enunciado": "A veces me dicen cosas bonitas. Me encanta. _____",
+          "solucion_correcta": [
+            "Me encanta que me digan cosas bonitas"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunas personas maltratan a los animales. Me repugna. _____",
+          "solucion_correcta": [
+            "Me repugna que algunas personas maltraten a los animales"
+          ]
+        },
+        {
+          "texto_enunciado": "Te digo la verdad. ¿Te ofende? _____",
+          "solucion_correcta": [
+            "¿Te ofende que te diga la verdad?"
+          ]
+        },
+        {
+          "texto_enunciado": "Las tiendas están cerradas. Me extraña. _____",
+          "solucion_correcta": [
+            "Me extraña que las tiendas estén cerradas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "59.3",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Alberto tiene mucha suerte. Resulta sorprendente. _____",
+          "solucion_correcta": [
+            "Resulta sorprendente que Alberto tenga tanta suerte"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa no consigue encontrar trabajo. Es preocupante. _____",
+          "solucion_correcta": [
+            "Es preocupante que Rosa no consiga encontrar trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "Julián está otra vez de baja. Parece sospechoso. _____",
+          "solucion_correcta": [
+            "Parece sospechoso que Julián esté otra vez de baja"
+          ]
+        },
+        {
+          "texto_enunciado": "No hay nadie por la calle. Me resulta inquietante. _____",
+          "solucion_correcta": [
+            "Me resulta inquietante que no haya nadie por la calle"
+          ]
+        },
+        {
+          "texto_enunciado": "Te llama para pedirte dinero. Es increíble. _____",
+          "solucion_correcta": [
+            "Es increíble que te llame para pedirte dinero"
+          ]
+        },
+        {
+          "texto_enunciado": "Ángel es tacaño. Parece mentira. _____",
+          "solucion_correcta": [
+            "Parece mentira que Ángel sea tacaño"
+          ]
+        },
+        {
+          "texto_enunciado": "Javier cuida a sus padres. Me parece admirable. _____",
+          "solucion_correcta": [
+            "Me parece admirable que Javier cuide a sus padres"
+          ]
+        },
+        {
+          "texto_enunciado": "No sales mucho. Me parece extraño. _____",
+          "solucion_correcta": [
+            "Me parece extraño que no salgas mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "Tomás no quiere ser amigo de Enrique. Me resulta asombroso. _____",
+          "solucion_correcta": [
+            "Me resulta asombroso que Tomás no quiera ser amigo de Enrique"
+          ]
+        },
+        {
+          "texto_enunciado": "Fermín sigue viviendo en casa de sus padres. Es increíble. _____",
+          "solucion_correcta": [
+            "Es increíble que Fermín siga viviendo en casa de sus padres"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "59.4",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No puedes venir a mi boda. Me da rabia. _____",
+          "solucion_correcta": [
+            "Me da rabia que no puedas venir a mi boda"
+          ]
+        },
+        {
+          "texto_enunciado": "Te muerdes las uñas. Me pone nervioso. _____",
+          "solucion_correcta": [
+            "Me pone nervioso que te muerdas las uñas"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace sol. Me pone de buen humor. _____",
+          "solucion_correcta": [
+            "Me pone de buen humor que haga sol"
+          ]
+        },
+        {
+          "texto_enunciado": "Nunca me hacen caso. Me saca de quicio. _____",
+          "solucion_correcta": [
+            "Me saca de quicio que nunca me hagan caso"
+          ]
+        },
+        {
+          "texto_enunciado": "No quieres ayudarme. Me da lo mismo. _____",
+          "solucion_correcta": [
+            "Me da lo mismo que no quieras ayudarme"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay corrupción. Nos da asco. _____",
+          "solucion_correcta": [
+            "Nos da asco que haya corrupción"
+          ]
+        },
+        {
+          "texto_enunciado": "Sois felices. Me llena de alegría. _____",
+          "solucion_correcta": [
+            "Me llena de alegría que seáis felices"
+          ]
+        },
+        {
+          "texto_enunciado": "Armando se ríe de la gente. Me llena de indignación. _____",
+          "solucion_correcta": [
+            "Me llena de indignación que Armando se ría de la gente"
+          ]
+        },
+        {
+          "texto_enunciado": "Lola y Arturo se van a separar. Me llena de tristeza. _____",
+          "solucion_correcta": [
+            "Me llena de tristeza que Lola y Arturo se vayan a separar"
+          ]
+        },
+        {
+          "texto_enunciado": "Sus hijos no estudian. A Roberto le pone de mal humor. _____",
+          "solucion_correcta": [
+            "A Roberto le pone de mal humor que sus hijos no estudien"
+          ]
+        },
+        {
+          "texto_enunciado": "Toñín es muy decidido. Me hace gracia. _____",
+          "solucion_correcta": [
+            "Me hace gracia que Toñín sea tan decidido"
+          ]
+        },
+        {
+          "texto_enunciado": "La economía mejora. Me da igual. _____",
+          "solucion_correcta": [
+            "Me da igual que la economía mejore"
+          ]
+        },
+        {
+          "texto_enunciado": "La gente es maleducada. Me saca de mis casillas. _____",
+          "solucion_correcta": [
+            "Me saca de mis casillas que la gente sea maleducada"
+          ]
+        },
+        {
+          "texto_enunciado": "La gente no respeta a los demás. Me pone histérica. _____",
+          "solucion_correcta": [
+            "Me pone histérica que la gente no respete a los demás"
+          ]
+        },
+        {
+          "texto_enunciado": "A veces me engañan. Me pone de mal humor. _____",
+          "solucion_correcta": [
+            "Me pone de mal humor que me engañen"
+          ]
+        }
+      ]
+    }
+  ]
+}

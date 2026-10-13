@@ -1,0 +1,241 @@
+{
+  "tema": "unidad-56",
+  "titulo": "¡Vaya! ¡Fíjate! Date cuenta. ¡Toma! ¡Dale!",
+  "descripcion_gramatical": "Imperativo (5)",
+  "fuente": "libro",
+  "unidad_libro": 56,
+  "ejercicios": [
+    {
+      "subejercicio": "56.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con *vaya*, *vaya con* o *vaya si*.",
+      "items": [
+        {
+          "texto_enunciado": "¡_____ tu jefe! Parecía agradable.",
+          "solucion_correcta": [
+            "Vaya con"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ piscina! ¡Es pequeñísima.",
+          "solucion_correcta": [
+            "Vaya"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____! ¡Ahora no me acuerdo del teléfono de Luis.",
+          "solucion_correcta": [
+            "Vaya"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Te han cambiado el libro? -_____ me lo han cambiado. Faltaban páginas.",
+          "solucion_correcta": [
+            "Vaya si"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ la niña! Ahora va y me dice que necesita un coche.",
+          "solucion_correcta": [
+            "Vaya con"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ los vecinos! ¡Qué ruido! Deben de estar con obras.",
+          "solucion_correcta": [
+            "Vaya con"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Has visto a Eduardo? -¡_____ lo he visto! Y en un cochazo nada menos.",
+          "solucion_correcta": [
+            "Vaya si"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____! ¡Cómo huele! Seguro que se te han quemado las lentejas.",
+          "solucion_correcta": [
+            "Vaya"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Que no come Ana? -_____ come. Come como una lima.",
+          "solucion_correcta": [
+            "Vaya si"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "56.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con *fíjate*, *fíjese*, *date cuenta*, *dese cuenta* y *daos cuenta*.",
+      "items": [
+        {
+          "texto_enunciado": "Yo, _____, prefiero que seas tú la que conduzcas.",
+          "solucion_correcta": [
+            "fíjate"
+          ]
+        },
+        {
+          "texto_enunciado": "Alfonso me parece un grosero. _____, ayer ni siquiera llamó para dar el pésame a mi abuela.",
+          "solucion_correcta": [
+            "Fíjate"
+          ]
+        },
+        {
+          "texto_enunciado": "Arturo no hace nada, Sr. Martínez. _____, la semana pasada faltó dos días.",
+          "solucion_correcta": [
+            "Dese cuenta / Fíjese"
+          ]
+        },
+        {
+          "texto_enunciado": "-Sebastián ha vuelto a suspender. -_____, con lo listo que es.",
+          "solucion_correcta": [
+            "Fíjate / Date cuenta"
+          ]
+        },
+        {
+          "texto_enunciado": "-Sonia no quiere ayudarnos a buscar trabajo. -_____, con la de gente que conoce.",
+          "solucion_correcta": [
+            "Date cuenta"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto se está quejando siempre del ruido. _____, si no tenemos vecinos.",
+          "solucion_correcta": [
+            "Fíjate"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, don Gregorio. ¡Quién lo iba a decir! A mí me ofrecieron ese mismo empleo el mes pasado.",
+          "solucion_correcta": [
+            "Fíjese"
+          ]
+        },
+        {
+          "texto_enunciado": "-Me gusta este coche. Es muy económico. -_____, no hemos parado ni una vez para echar gasolina.",
+          "solucion_correcta": [
+            "Daos cuenta"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, después de tanto tiempo todavía no sé tu apellido.",
+          "solucion_correcta": [
+            "Date cuenta. / Fíjate"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "56.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con *toma*, *toma ya*, *dale*, *dale con* y *dale con que*.",
+      "items": [
+        {
+          "texto_enunciado": "¡_____ ese cedé! Ya estoy harto de oír la misma música.",
+          "solucion_correcta": [
+            "Y dale con"
+          ]
+        },
+        {
+          "texto_enunciado": "-Me gustaría hablar italiano bien. -¡_____ y a mí!",
+          "solucion_correcta": [
+            "Toma"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____! Así, copiando, también hago yo los ejercicios.",
+          "solucion_correcta": [
+            "Toma"
+          ]
+        },
+        {
+          "texto_enunciado": "-El perro está nervioso. -¡_____, qué indirecta! ¿Pretendes que saque yo al perro?",
+          "solucion_correcta": [
+            "Toma ya"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____! ¡Te repito que no fue Pablo quien te vio con Carmen!",
+          "solucion_correcta": [
+            "(Y) Dale"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ quieres el teléfono de Marga! Pídeselo tú.",
+          "solucion_correcta": [
+            "(Y) Dale con que"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ el Gobierno! Siempre hablas de lo mismo, Blanca.",
+          "solucion_correcta": [
+            "(Y) Dale con"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____! He sacado un nueve en Matemáticas.",
+          "solucion_correcta": [
+            "Toma / Toma ya"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "56.4",
+      "tipologia": "T2",
+      "enunciado": "Complete los diálogos con *vaya*, *vaya con*, *vaya si*, *fíjate*, *dale con*, *toma*, *toma ya*.",
+      "items": [
+        {
+          "texto_enunciado": "¡_____! Ahora no funciona el mando.",
+          "solucion_correcta": [
+            "¡Vaya!"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____! No quería comer y va a acabar con todo.",
+          "solucion_correcta": [
+            "Fíjate"
+          ]
+        },
+        {
+          "texto_enunciado": "-Filarmónica de Viena, Novena de Beethoven. Me encantaría escuchar ese concierto. -¡_____! Y a mí.",
+          "solucion_correcta": [
+            "Toma"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Hace calor? -¡_____ hace calor!",
+          "solucion_correcta": [
+            "Vaya si"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____! He acertado cinco números.",
+          "solucion_correcta": [
+            "Toma ya"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ Inés!",
+          "solucion_correcta": [
+            "Vaya con"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ qué gol!",
+          "solucion_correcta": [
+            "Toma (ya)"
+          ]
+        },
+        {
+          "texto_enunciado": "-Necesito una guitarra. -¡_____ la guitarra! ¡Te he dicho que no!",
+          "solucion_correcta": [
+            "Dale con"
+          ]
+        }
+      ]
+    }
+  ]
+}

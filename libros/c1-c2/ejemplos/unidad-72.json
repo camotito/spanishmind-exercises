@@ -1,0 +1,259 @@
+{
+  "tema": "unidad-72",
+  "titulo": "Nos complace invitarlos. Es fácil ganar.",
+  "descripcion_gramatical": "Construcciones con infinitivo o subjuntivo",
+  "fuente": "libro",
+  "unidad_libro": 72,
+  "ejercicios": [
+    {
+      "subejercicio": "72.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "¿Te importa (abrir/que abras) la ventana?",
+          "solucion_correcta": [
+            "abrir"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te importa (fumar/que fume)?",
+          "solucion_correcta": [
+            "que fume"
+          ]
+        },
+        {
+          "texto_enunciado": "No me interesa (cambiar/que cambie) de empleo. Estoy bien aquí.",
+          "solucion_correcta": [
+            "cambiar"
+          ]
+        },
+        {
+          "texto_enunciado": "A Julián le cuesta (ayudarnos/que nos ayude).",
+          "solucion_correcta": [
+            "ayudarnos"
+          ]
+        },
+        {
+          "texto_enunciado": "Me cuesta trabajo (entender/que entienda) tus quejas.",
+          "solucion_correcta": [
+            "entender"
+          ]
+        },
+        {
+          "texto_enunciado": "A Santiago le agrada (acordarnos/que nos acordemos) de su cumpleaños.",
+          "solucion_correcta": [
+            "que nos acordemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encanta (venir/que hayas venido) a verme.",
+          "solucion_correcta": [
+            "que hayas venido"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche no nos apeteció (salir/que saliéramos).",
+          "solucion_correcta": [
+            "salir"
+          ]
+        },
+        {
+          "texto_enunciado": "Me costó (conseguir/que consiguiera) que me ayudaran.",
+          "solucion_correcta": [
+            "conseguir"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras entre paréntesis en la forma adecuada, afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "No importa (tú, no hablar) _____ inglés.",
+          "solucion_correcta": [
+            "que no hables"
+          ]
+        },
+        {
+          "texto_enunciado": "No me importa (yo, ser) _____ ayudante.",
+          "solucion_correcta": [
+            "ser"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te importaría (yo, no ir) _____ a tu conferencia? Tengo mucho trabajo.",
+          "solucion_correcta": [
+            "que no fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gusta que me (ellos, hacer) _____ regalos caros.",
+          "solucion_correcta": [
+            "hagan"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy un poco disgustada. No me apetece (a mí, ver) _____ a nadie.",
+          "solucion_correcta": [
+            "ver"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encantó (vosotros, llamarme) _____ para felicitarme.",
+          "solucion_correcta": [
+            "que me llamarais"
+          ]
+        },
+        {
+          "texto_enunciado": "No me importa (él, acabar) _____ la carrera todavía. Me gusta cómo trabaja.",
+          "solucion_correcta": [
+            "que no haya acabado"
+          ]
+        },
+        {
+          "texto_enunciado": "Me costó (Pedro, entender) _____ por qué estaba enfadado.",
+          "solucion_correcta": [
+            "que Pedro entendiera"
+          ]
+        },
+        {
+          "texto_enunciado": "Me cuesta (a mí, entender) _____ lo cara que está la vida aquí.",
+          "solucion_correcta": [
+            "entender"
+          ]
+        },
+        {
+          "texto_enunciado": "Alfredo, me encanta que no (tú, aceptar) _____ ese trabajo. No era para ti.",
+          "solucion_correcta": [
+            "aceptaras / hayas aceptado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Ha sido imposible (encontrar/que encuentres) entradas.",
+          "solucion_correcta": [
+            "encontrar"
+          ]
+        },
+        {
+          "texto_enunciado": "Parece increíble (caerse/que se haya caído) la casa.",
+          "solucion_correcta": [
+            "que se haya caído"
+          ]
+        },
+        {
+          "texto_enunciado": "No resultó fácil (llegar/que llegases) al Machu Picchu.",
+          "solucion_correcta": [
+            "llegar"
+          ]
+        },
+        {
+          "texto_enunciado": "Es imposible (perder/que perdamos) nosotros.",
+          "solucion_correcta": [
+            "que perdamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Es lógico (ponerte/que te pongas) un abrigo. Hace frío.",
+          "solucion_correcta": [
+            "que te pongas"
+          ]
+        },
+        {
+          "texto_enunciado": "Es sencillo (seguir/que sigas) las instrucciones.",
+          "solucion_correcta": [
+            "seguir"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos fue difícil (sacar/que sacáramos) el coche de la arena.",
+          "solucion_correcta": [
+            "sacar"
+          ]
+        },
+        {
+          "texto_enunciado": "Resultó normal (multarme/que me multaran). Iba muy deprisa.",
+          "solucion_correcta": [
+            "que me multaran"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "No es fácil (la gente, ayudarte) _____.",
+          "solucion_correcta": [
+            "que la gente te ayude / que te ayude la gente"
+          ]
+        },
+        {
+          "texto_enunciado": "Parecía imposible (la Bolsa, bajar) _____, pero bajó.",
+          "solucion_correcta": [
+            "que la Bolsa bajara / que bajara la Bolsa"
+          ]
+        },
+        {
+          "texto_enunciado": "Es increíble (tú, perder) _____ las llaves otra vez. Ten cuidado.",
+          "solucion_correcta": [
+            "que hayas perdido"
+          ]
+        },
+        {
+          "texto_enunciado": "Es imposible (Luisa, divorciarse) _____. No me lo creo.",
+          "solucion_correcta": [
+            "que se haya divorciado Luisa / que Luisa se haya divorciado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Crees que es posible (el euro, subir) _____?",
+          "solucion_correcta": [
+            "que suba el euro / que el euro suba"
+          ]
+        },
+        {
+          "texto_enunciado": "Es difícil (los niños, leer) _____, si ven tanta televisión.",
+          "solucion_correcta": [
+            "que los niños lean / que lean los niños"
+          ]
+        },
+        {
+          "texto_enunciado": "Es lógico (ellos, ganar) _____ siempre. Tienen los mejores jugadores.",
+          "solucion_correcta": [
+            "que ganen"
+          ]
+        },
+        {
+          "texto_enunciado": "Es triste (tú, estar) _____ siempre pidiendo favores a la gente.",
+          "solucion_correcta": [
+            "que estés"
+          ]
+        },
+        {
+          "texto_enunciado": "Parece inevitable (el Gobierno, convocar) _____ elecciones.",
+          "solucion_correcta": [
+            "que el Gobierno convoque"
+          ]
+        },
+        {
+          "texto_enunciado": "Me pareció mal (decir) _____ eso de mí, Tomás.",
+          "solucion_correcta": [
+            "que dijeras"
+          ]
+        }
+      ]
+    }
+  ]
+}

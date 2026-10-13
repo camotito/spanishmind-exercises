@@ -1,0 +1,252 @@
+{
+  "tema": "unidad-50",
+  "titulo": "habría estudiado",
+  "descripcion_gramatical": "Condicional compuesto",
+  "fuente": "libro",
+  "unidad_libro": 50,
+  "ejercicios": [
+    {
+      "subejercicio": "50.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases en afirmativa o negativa expresando posibilidad o situaciones imaginarias.",
+      "items": [
+        {
+          "texto_enunciado": "-Ya está arreglado. -Gracias. Sin tu ayuda, (yo, poder) _____ arreglar el coche.",
+          "solucion_correcta": [
+            "habría podido"
+          ]
+        },
+        {
+          "texto_enunciado": "-Sabéis mucho español. -Sí. Con otro profesor, (nosotros, aprender) _____ tanto español.",
+          "solucion_correcta": [
+            "no habríamos aprendido"
+          ]
+        },
+        {
+          "texto_enunciado": "-Esto no está acabado. -Ya. Con un poco más de tiempo, lo (nosotros, acabar) _____.",
+          "solucion_correcta": [
+            "habríamos acabado"
+          ]
+        },
+        {
+          "texto_enunciado": "Sin tus indicaciones, (ellos, encontrar) _____ nunca esa calle.",
+          "solucion_correcta": [
+            "no habrían encontrado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Lorenzo ha alquilado su apartamento. -Necesita dinero. Yo también lo (alquilar) _____.",
+          "solucion_correcta": [
+            "habría alquilado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Agustín me ha conseguido un empleo. -Has tenido suerte. Lola no te lo (conseguir) _____.",
+          "solucion_correcta": [
+            "habría conseguido"
+          ]
+        },
+        {
+          "texto_enunciado": "-No me gustó cómo hizo Guillermo el proyecto. -Sí, lo (hacer) _____ mejor sin tanta prisa.",
+          "solucion_correcta": [
+            "habría hecho"
+          ]
+        },
+        {
+          "texto_enunciado": "Nunca pudo hacerlo, pero a Jorge le (encantar) _____ ser primatólogo.",
+          "solucion_correcta": [
+            "habría encantado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "50.2",
+      "tipologia": "T4",
+      "enunciado": "Complete estos consejos tardíos.",
+      "items": [
+        {
+          "texto_enunciado": "-Toda la fruta que compré estaba mala. -Yo no la (comprar) _____.",
+          "solucion_correcta": [
+            "habría comprado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Se cayó y al día siguiente no podía levantarse. -Yo (ir) _____ al hospital.",
+          "solucion_correcta": [
+            "habría ido"
+          ]
+        },
+        {
+          "texto_enunciado": "-De madrugada, oí chillidos en el piso de al lado. -Yo (llamar) _____ a la policía, desde luego.",
+          "solucion_correcta": [
+            "habría llamado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Cogimos un taxi para ir al concierto y nos pilló una manifestación. -Yo (coger) _____ el metro.",
+          "solucion_correcta": [
+            "habría cogido"
+          ]
+        },
+        {
+          "texto_enunciado": "-No quedaban billetes de tren. -Hay que ser precavido. Yo los (reservar) _____ mucho antes.",
+          "solucion_correcta": [
+            "habría reservado"
+          ]
+        },
+        {
+          "texto_enunciado": "-No teníamos agua caliente en la ducha y los empleados del hotel no nos hacían ni caso. -Yo (hablar) _____ con el director.",
+          "solucion_correcta": [
+            "habría hablado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "50.3",
+      "tipologia": "T4",
+      "enunciado": "Exprese los deseos no cumplidos con el condicional compuesto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(estudiar) _____ Arquitectura, pero no me admitieron en la Escuela.",
+          "solucion_correcta": [
+            "Habría estudiado"
+          ]
+        },
+        {
+          "texto_enunciado": "(gustarme) _____ viajar por el mundo, pero nunca tuve tiempo para hacerlo.",
+          "solucion_correcta": [
+            "Me habría gustado"
+          ]
+        },
+        {
+          "texto_enunciado": "(casarse) _____, pero nunca conocí a nadie que me gustara lo suficiente.",
+          "solucion_correcta": [
+            "Me habría casado"
+          ]
+        },
+        {
+          "texto_enunciado": "(encantar) _____ saludar a tus padres, pero tenía mucha prisa.",
+          "solucion_correcta": [
+            "Me habría encantado"
+          ]
+        },
+        {
+          "texto_enunciado": "(quedarse) _____ en tu fiesta, pero era demasiado tarde.",
+          "solucion_correcta": [
+            "Me habría quedado"
+          ]
+        },
+        {
+          "texto_enunciado": "(llamar) _____ a Cristina, pero no tenía su número de móvil.",
+          "solucion_correcta": [
+            "Habría llamado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "50.4",
+      "tipologia": "T8",
+      "enunciado": "Complete las explicaciones u objeciones. Use los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "-Laura tenía algo de fiebre anoche. - _____.",
+          "solucion_correcta": [
+            "Se habría resfriado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¡Qué lástima que no ganara Enrique! Lo había hecho muy bien. -Lo _____ bien, pero quedó el último.",
+          "solucion_correcta": [
+            "habría hecho"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ayer vi a Robertinho con la pierna vendada. - _____.",
+          "solucion_correcta": [
+            "Se habría lesionado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Teresa y Enrique estaban de mal humor y no se hablaban. - _____.",
+          "solucion_correcta": [
+            "Se habrían peleado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Elena no llamó anoche y había prometido hacernos una cena. -Lo _____, pero no la hizo.",
+          "solucion_correcta": [
+            "habría prometido"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ayer tuve el estómago mal todo el día. - _____ algo en mal estado.",
+          "solucion_correcta": [
+            "Habrías comido"
+          ]
+        },
+        {
+          "texto_enunciado": "-Gema vino sola al concierto. - _____ con Jaime.",
+          "solucion_correcta": [
+            "Habría discutido"
+          ]
+        },
+        {
+          "texto_enunciado": "-Julio nos decía cosas raras en la boda. - _____ demasiado.",
+          "solucion_correcta": [
+            "Habría bebido"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "beber",
+        "comer",
+        "discutir",
+        "hacer",
+        "lesionarse",
+        "pelearse",
+        "prometer",
+        "resfriarse"
+      ]
+    },
+    {
+      "subejercicio": "50.5",
+      "tipologia": "T4",
+      "enunciado": "Complete las noticias oficiosas.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Por qué crees que liberaron a los rehenes? -Según este periódico, el gobierno (pagar) _____ el rescate.",
+          "solucion_correcta": [
+            "habría pagado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Sabes por qué se fue Alonso a otra empresa? -Según Ramírez, una multinacional muy importante le (ofrecer) _____ un contrato fabuloso.",
+          "solucion_correcta": [
+            "habría ofrecido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Crees que seguirá el Primer Ministro? -Parece que no. Según Antena Cinco, el partido del Primer Ministro (perder) _____ las elecciones.",
+          "solucion_correcta": [
+            "habría perdido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Piensas que habrá un cambio climático? -Parece que sí. Según la prensa, la temperatura de los océanos (subir) _____ bastante en muy poco tiempo.",
+          "solucion_correcta": [
+            "habría subido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Habrá fichado ya el Madrid a otro defensa? -No creo. Según rumores, el director deportivo todavía no (iniciar) _____ conversaciones con nadie.",
+          "solucion_correcta": [
+            "habría iniciado"
+          ]
+        }
+      ]
+    }
+  ]
+}

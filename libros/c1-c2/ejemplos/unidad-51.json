@@ -1,0 +1,249 @@
+{
+  "tema": "unidad-51",
+  "titulo": "iría / habría ido",
+  "descripcion_gramatical": "Contraste condicional simple / condicional compuesto",
+  "fuente": "libro",
+  "unidad_libro": 51,
+  "ejercicios": [
+    {
+      "subejercicio": "51.1",
+      "tipologia": "T4",
+      "enunciado": "Complete con el condicional simple o el condicional compuesto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Tienen un gobierno horrible. (Ellos, salir) _____ antes de la crisis con otro gobierno.",
+          "solucion_correcta": [
+            "Saldrían"
+          ]
+        },
+        {
+          "texto_enunciado": "Antes no había ayudas para las familias. Con más ayuda, (nosotros, tener) _____ más hijos.",
+          "solucion_correcta": [
+            "habríamos tenido"
+          ]
+        },
+        {
+          "texto_enunciado": "Sin su familia, mi difunto abuelo no (triunfar) _____ en los negocios.",
+          "solucion_correcta": [
+            "habría triunfado"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta mañana yo no (poder) _____ arrancar el coche sin la ayuda del portero.",
+          "solucion_correcta": [
+            "habría podido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué no me dijiste la verdad? -Te (decir) _____ la verdad, pero sabía que te (enfadar) _____.",
+          "solucion_correcta": [
+            "habría dicho",
+            "enfadarías"
+          ]
+        },
+        {
+          "texto_enunciado": "Sergio (venir) _____ más a visitarnos, pero está muy ocupado.",
+          "solucion_correcta": [
+            "vendría"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "51.2",
+      "tipologia": "T4",
+      "enunciado": "Complete los deseos o los consejos con el condicional simple o el condicional compuesto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Os (yo, invitar) _____ a todos, pero no tenía dinero.",
+          "solucion_correcta": [
+            "habría invitado"
+          ]
+        },
+        {
+          "texto_enunciado": "A Tomás le (apetecer) _____ quedarse a cenar anoche.",
+          "solucion_correcta": [
+            "habría apetecido"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo en tu lugar (cambiar) _____ de coche. El que tienes está muy viejo.",
+          "solucion_correcta": [
+            "cambiaría"
+          ]
+        },
+        {
+          "texto_enunciado": "(tú, tener) _____ más amigos con menos mal genio, Antonio.",
+          "solucion_correcta": [
+            "Tendrías"
+          ]
+        },
+        {
+          "texto_enunciado": "Este verano (irse, yo) _____ a bucear al Caribe, pero no tengo dinero.",
+          "solucion_correcta": [
+            "me iría / me habría ido"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdimos mucho tiempo con los autobuses. (ser) _____ mejor alquilar un coche.",
+          "solucion_correcta": [
+            "Habría sido"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "51.3",
+      "tipologia": "T4",
+      "enunciado": "Indique falta de seguridad en las informaciones.",
+      "items": [
+        {
+          "texto_enunciado": "Según el Ministro, la economía (recuperarse) _____ dentro de pocos meses.",
+          "solucion_correcta": [
+            "se recuperaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Según rumores, para el año que viene, el Gobierno (prohibir) _____ fumar en todos los locales cerrados.",
+          "solucion_correcta": [
+            "prohibiría"
+          ]
+        },
+        {
+          "texto_enunciado": "Según la Oposición, el Gobierno (tener) _____ los días contados.",
+          "solucion_correcta": [
+            "tendría"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay gente que dice que Vélez ya (fichar) _____ por el Betis para la próxima temporada.",
+          "solucion_correcta": [
+            "habría fichado"
+          ]
+        },
+        {
+          "texto_enunciado": "Se dice que, a pesar de la crisis, el año pasado (aumentar) _____ la venta de coches.",
+          "solucion_correcta": [
+            "habría aumentado"
+          ]
+        },
+        {
+          "texto_enunciado": "Según la policía, la alarma de nuestro garaje (sonar) _____ dos veces esta madrugada.",
+          "solucion_correcta": [
+            "habría sonado"
+          ]
+        },
+        {
+          "texto_enunciado": "Dice la prensa que muchos empresarios (abandonar) _____ ya el país para evitar las subidas de impuestos.",
+          "solucion_correcta": [
+            "habrían abandonado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "51.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las suposiciones.",
+      "items": [
+        {
+          "texto_enunciado": "-Ayer vi a Ernesto y estaba feliz. -Le (tocar) _____ la lotería. Es su sueño.",
+          "solucion_correcta": [
+            "habría tocado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Helga no pudo oír tocar a Javi. -(ella, llegar) _____ tarde.",
+          "solucion_correcta": [
+            "Llegaría"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ernesto no me saludó ayer. -(estar) _____ de mal humor. Tiene a sus suegros en casa.",
+          "solucion_correcta": [
+            "Estaría"
+          ]
+        },
+        {
+          "texto_enunciado": "-Es raro que Dani viniera en metro. -(tener) _____ averiado el coche. Ya tiene muchos kilómetros.",
+          "solucion_correcta": [
+            "Tendría"
+          ]
+        },
+        {
+          "texto_enunciado": "-Raquel no nos invitó a su boda. -Se lo (pedir) _____ Miguel. No le caemos bien.",
+          "solucion_correcta": [
+            "pediría"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ayer Berta se cenó toda la tortilla. -Seguramente no (comer) _____ mucho. Estuvo todo el día de excursión con el colegio.",
+          "solucion_correcta": [
+            "habría comido"
+          ]
+        },
+        {
+          "texto_enunciado": "-Con menos prisa, Toni (hacer) _____ ese dibujo mucho mejor. -No me gusta nada.",
+          "solucion_correcta": [
+            "habría hecho"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "51.5",
+      "tipologia": "T3",
+      "enunciado": "Complete las objeciones.",
+      "items": [
+        {
+          "texto_enunciado": "-Julia quería mucho a su madre. -La _____ mucho, pero no le hacía ni caso.",
+          "solucion_correcta": [
+            "querría"
+          ]
+        },
+        {
+          "texto_enunciado": "-Arturo tenía muchos clientes en su taller. -Los _____, pero yo veía el local siempre vacío.",
+          "solucion_correcta": [
+            "tendría"
+          ]
+        },
+        {
+          "texto_enunciado": "-Manuel ya había salido antes con Maite. -_____, pero, fíjate, yo nunca los vi juntos.",
+          "solucion_correcta": [
+            "Habrían salido"
+          ]
+        },
+        {
+          "texto_enunciado": "-David me había avisado de que la carretera estaba con nieve. -Te _____, pero no nos dijiste nada.",
+          "solucion_correcta": [
+            "habría avisado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Los niños de Adela se portaron muy bien en casa. -Se _____ bien, pero nos rompieron dos vasos.",
+          "solucion_correcta": [
+            "portarían"
+          ]
+        },
+        {
+          "texto_enunciado": "-Lupe ya había trabajado de camarera. -_____, pero no sabía descorchar ni una botella.",
+          "solucion_correcta": [
+            "Habría trabajado"
+          ]
+        },
+        {
+          "texto_enunciado": "-La lasaña no sabía bien. -No _____ bien, pero tú te la comiste toda.",
+          "solucion_correcta": [
+            "sabría"
+          ]
+        },
+        {
+          "texto_enunciado": "-Cuando llegamos al chalé, ya habían arreglado la valla. -Pues la _____, pero estaba llena de pintadas.",
+          "solucion_correcta": [
+            "habrían arreglado"
+          ]
+        }
+      ]
+    }
+  ]
+}

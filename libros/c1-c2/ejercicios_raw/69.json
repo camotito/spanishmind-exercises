@@ -1,0 +1,147 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "69.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en pretérito pluscuamperfecto de indicativo o pretérito pluscuamperfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer me encontré con Julián. Pensaba que (él, irse) _____ a Venezuela.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿No notaste algo raro en Ana anoche? –Vi que (ella, teñirse) _____ el pelo, pero no noté que (hacerse) _____ nada más.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¡Hemos aprobado! –¡Menos mal! No estaba muy seguro de que (nosotros, aprobar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me presenté en casa de Gonzalo. No recordaba que (irse) _____ a Málaga.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando Sandra tuvo el accidente con el coche, pensé que, (ella, matarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque todos creían que el director (robar) _____ dinero, yo no estaba tan seguro de que lo (hacer) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No vimos que los pintores (equivocarse) _____ de pintura y pintaron las paredes de verde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–La última vez que vi a Agustín noté que (él, empeorar) _____. –Pues yo no noté que (haber) _____ ningún cambio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Al ver a Juan, noté que (pasar) _____ algo, pero no pensé que (ser) _____ algo tan grave.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–La última vez que estuvimos con Antonio, me pareció que (él, cambiar) _____ mucho. –Pues a mí no me pareció que (él, cambiar) _____ nada. Lo vi tan fresco como siempre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No noté que me (robar) _____ la cartera y no pude pagar la comida.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "69.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir la información entre paréntesis con la expresión de certeza o falsedad correspondiente. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "(Decían que Sara había tenido otro novio antes de Pedro, pero no era cierto.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Decían que Luis había heredado una fortuna. Era falso.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Decían que Armando se había ido de la empresa. ¿Era verdad?) ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Decían que los Suárez se habían arruinado. Era evidente.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Se rumoreaba que la ministra de Hacienda había tenido un accidente. No era cierto.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Decían que el clima había cambiado. Era mentira.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Se comentaba que el Presidente había dimitido, pero no era cierto.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Decían que Martina había adelgazado mucho. Era evidente.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Se rumoreaba que el gobierno había perdido las elecciones, pero no estaba claro.) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "69.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en pretérito pluscuamperfecto de indicativo o pretérito pluscuamperfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Según el periódico, el Ministro dijo que (ellos, llegar) _____ a un acuerdo con los sindicatos, pero los sindicatos no dijeron que (ellos, llegar) _____ a ningún acuerdo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Una persona comentó que (haber) _____ un atraco en una tienda del barrio, pero la policía negaba que (haber) _____ ningún atraco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El contable afirmó que el año pasado la empresa (perder) _____ un millón de euros, pero el director no confirmó que (haber) _____ pérdidas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La Ministra dijo que la economía (crecer) _____ el año pasado, pero todos los expertos afirmaban que no lo (hacer) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Merche le dijo a María que Jesús y Ana (divorciarse) _____. –Perdona. No le dijo que (ellos, divorciarse) _____, dijo que (ellos, separarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿No decías que la empresa de Paco (cerrar) _____ hacía unos meses? –No dije que (cerrar) _____. Dije que (reducir) _____ la plantilla.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los agentes afirmaban que (ellos, detener) _____ a los ladrones del Banco Nacional, pero un portavoz de la policía negó que los (detener) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En un programa de televisión comentaron que el dólar (bajar) _____ la semana pasada por la crisis económica, pero no dijeron que (bajar) _____ por la especulación. Eso es falso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La policía llamó y nos dijo que (saltar) _____ la alarma en la casa de la Sierra, pero no dijeron que (entrar) _____ nadie.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 69,
+  "titulo_libro": "Creo que habrían tenido. / No creo que hubieran tenido. -- Verbos seguidos de indicativo o subjuntivo (4)",
+  "scan": "p-145.jpg"
+}

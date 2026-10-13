@@ -1,0 +1,207 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "77.1",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Sustituya las palabras subrayadas por expresiones con *echarse a*, *ponerse a*, *romper a*.",
+      "items": [
+        {
+          "texto_enunciado": "Lola en cuanto oye música, <u>empieza a cantar</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No empieces a silbar</u> otra vez, por favor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Al ver a Berta con ese disfraz, <u>empecé a reírme</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eva oyó un ruido extraño en la cocina y <u>empezó a gritar</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Marta es muy sensible: tan pronto <u>comienza a reír como a llorar</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El pájaro <u>comenzó a volar</u> cuando me acerqué al árbol. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando Ángel oyó el disparo, <u>empezó a correr</u> y no paró hasta llegar a su casa. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *acabar de* en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "He terminado el proyecto hace un momento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No pises ese suelo. Lo he fregado hace un momento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había puesto a secar la ropa hacía nada cuando se puso a llover. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llévate el paraguas. Han dicho hace un momento que hoy va a llover a cántaros. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me había comprado el coche hacía unos días cuando me lo robaron. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con *acabar de*, *acabar por* o *llegar a*.",
+      "items": [
+        {
+          "texto_enunciado": "Arturo se portó tan mal conmigo que <u>finalmente lo odié</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se enfadó y <u>finalmente se fue</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luisa <u>se ha ido hace un momento</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Después de algún tiempo el gato <u>finalmente se acercó a mí</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Después de todo, creo que no <u>me gustan estos zapatos</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Como faltaba tanto, el jefe <u>finalmente me amenazó con el despido</u>. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.4",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con *dejar de* o *no dejar de*.",
+      "items": [
+        {
+          "texto_enunciado": "La verdad es que el problema de Ana <u>me molesta continuamente</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No hables ya más</u>, por favor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando quieras algo, <u>dímelo</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No fuméis más aquí dentro</u>, por favor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Toni ha roto con Sonia y <u>se pasa llorando todo el día</u>. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.5",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con *venir a* en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Este sofá <u>cuesta más o menos</u> 2000 euros. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Casi todos los políticos <u>dicen lo mismo, más o menos</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ese documento <u>finalmente confirma</u> que yo tenía razón. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa ley <u>definitivamente resolvió</u> la discusión sobre el tema. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ese aviso <u>te dice más o menos</u> que o pagas o te embargan la moto. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.6",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con *echarse a*, *ponerse a*, *romper a*, *acabar de*, *acabar por*, *llegar a*, *dejar de*, *no dejar de*, *venir a*.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando vayas a Japón, <u>prueba el sushi</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre que bebe, <u>empieza a bailar</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Comencé a correr</u> al ver el autobús. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las dos cartas <u>decían casi lo mismo</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando necesites algo, <u>llámame</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Han llamado a la puerta</u> hace un momento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque detestaba a Emilio, <u>al final le tomé cariño</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Al recibir el premio, Camila <u>comenzó a llorar</u> de alegría. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No digas más sandeces</u>, Julio, por favor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El hijo de los Gálvez <u>al final fue ministro</u>. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 77,
+  "titulo_libro": "Rompió a llorar. Llegué a tomarle cariño. -- Expresiones con infinitivo (1)",
+  "scan": "p-161.jpg"
+}

@@ -1,0 +1,259 @@
+{
+  "tema": "unidad-30",
+  "titulo": "instintivamente, sigilosamente",
+  "descripcion_gramatical": "Adverbios en –mente (1)",
+  "fuente": "libro",
+  "unidad_libro": 30,
+  "ejercicios": [
+    {
+      "subejercicio": "30.1",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir lo subrayado con un adverbio en *-mente*.",
+      "items": [
+        {
+          "texto_enunciado": "Me saludó <u>con cariño</u>. _____",
+          "solucion_correcta": [
+            "cariñosamente"
+          ]
+        },
+        {
+          "texto_enunciado": "La pobre Eva ha enfermado <u>de gravedad</u>. _____",
+          "solucion_correcta": [
+            "gravemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Se comportó <u>como un héroe</u>. _____",
+          "solucion_correcta": [
+            "heroicamente"
+          ]
+        },
+        {
+          "texto_enunciado": "A veces hay que actuar <u>con sigilo</u>. _____",
+          "solucion_correcta": [
+            "sigilosamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos atendieron <u>con amabilidad</u>. _____",
+          "solucion_correcta": [
+            "amablemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que llevarla a un hospital <u>con urgencia</u>. _____",
+          "solucion_correcta": [
+            "urgentemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos dijeron, <u>con claridad</u>, que no querían volver a vernos. _____",
+          "solucion_correcta": [
+            "claramente"
+          ]
+        },
+        {
+          "texto_enunciado": "Encontramos a Clara en la bolera <u>por casualidad</u>. _____",
+          "solucion_correcta": [
+            "casualmente"
+          ]
+        },
+        {
+          "texto_enunciado": "Elisa trazó el círculo <u>con facilidad</u>. _____",
+          "solucion_correcta": [
+            "fácilmente"
+          ]
+        },
+        {
+          "texto_enunciado": "El público contemplaba el cuadro <u>en silencio</u>. _____",
+          "solucion_correcta": [
+            "silenciosamente"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "30.2",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir lo subrayado con *de modo* / *de manera* + adjetivo.",
+      "items": [
+        {
+          "texto_enunciado": "Juan ha mejorado <u>imperceptiblemente</u>. _____",
+          "solucion_correcta": [
+            "de modo/manera imperceptible"
+          ]
+        },
+        {
+          "texto_enunciado": "Lorenzo consiguió el premio <u>fraudulentamente</u>. _____",
+          "solucion_correcta": [
+            "de modo/manera fraudulento/a"
+          ]
+        },
+        {
+          "texto_enunciado": "El alumno expuso el tema <u>correctamente</u>. _____",
+          "solucion_correcta": [
+            "de modo/manera correcto/a"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucas vive <u>sencillamente</u>. _____",
+          "solucion_correcta": [
+            "de modo/manera sencillo/a"
+          ]
+        },
+        {
+          "texto_enunciado": "El conductor salvó la vida <u>milagrosamente</u>. _____",
+          "solucion_correcta": [
+            "de modo/manera milagroso/a"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa medicina se está aplicando <u>experimentalmente</u>. _____",
+          "solucion_correcta": [
+            "de modo/manera experimental"
+          ]
+        },
+        {
+          "texto_enunciado": "El piloto ganó la carrera <u>magistralmente</u>. _____",
+          "solucion_correcta": [
+            "de modo/manera magistral"
+          ]
+        },
+        {
+          "texto_enunciado": "Lolita logró el ascenso <u>sospechosamente</u>. _____",
+          "solucion_correcta": [
+            "de modo/manera sospechoso/a"
+          ]
+        },
+        {
+          "texto_enunciado": "Lara hace todo <u>precipitadamente</u>. _____",
+          "solucion_correcta": [
+            "manera precipitada"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "30.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases utilizando adverbios en *-mente*.",
+      "items": [
+        {
+          "texto_enunciado": "Es evidente que no dice la verdad. _____",
+          "solucion_correcta": [
+            "Evidentemente, no dice la verdad"
+          ]
+        },
+        {
+          "texto_enunciado": "Al parecer, Toñi no tiene el título de enfermera. _____",
+          "solucion_correcta": [
+            "Aparentemente, Toñi no tiene el título de enfermera"
+          ]
+        },
+        {
+          "texto_enunciado": "No quieren trabajar el domingo. Es lógico. _____",
+          "solucion_correcta": [
+            "No quieren trabajar el domingo, lógicamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Se supone que Arturo nos envió la invitación hace dos semanas. _____",
+          "solucion_correcta": [
+            "Supuestamente, Arturo nos envió la invitación hace dos semanas"
+          ]
+        },
+        {
+          "texto_enunciado": "Andrea pensaba, de manera falsa, que nosotros íbamos a ocuparnos de todo. _____",
+          "solucion_correcta": [
+            "Andrea pensaba, falsamente, que nosotros nos íbamos a ocupar de todo"
+          ]
+        },
+        {
+          "texto_enunciado": "Es indudable que la crisis va para largo. _____",
+          "solucion_correcta": [
+            "Indudablemente, la crisis va para largo"
+          ]
+        },
+        {
+          "texto_enunciado": "La empresa tendrá que cerrar muy pronto. Es irremediable. _____",
+          "solucion_correcta": [
+            "La empresa tendrá que cerrar muy pronto, irremediablemente"
+          ]
+        },
+        {
+          "texto_enunciado": "Me parece cierto que estamos atravesando un mal momento. _____",
+          "solucion_correcta": [
+            "Ciertamente, estamos atravesando un mal momento"
+          ]
+        },
+        {
+          "texto_enunciado": "Es evidente que nadie sabe cómo solucionar esto. _____",
+          "solucion_correcta": [
+            "Evidentemente, nadie sabe cómo solucionar esto"
+          ]
+        },
+        {
+          "texto_enunciado": "Es innegable que la empresa no va bien. _____",
+          "solucion_correcta": [
+            "Innegablemente la empresa no va bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Es indiscutible que yo a Juan no le resulto simpático. _____",
+          "solucion_correcta": [
+            "Indiscutiblemente, yo a Juan no le resulto simpático"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenéis que presentaros a los tres exámenes. Es obligatorio. _____",
+          "solucion_correcta": [
+            "Tenéis que presentaros a los tres exámenes, obligatoriamente"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "30.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con un adverbio + *hablando*.",
+      "items": [
+        {
+          "texto_enunciado": "Desde el punto de vista técnico, es posible levantar aquí un puente. _____",
+          "solucion_correcta": [
+            "Técnicamente hablando, es posible levantar aquí un puente"
+          ]
+        },
+        {
+          "texto_enunciado": "De manera egoísta, no deberíamos ayudaros. _____",
+          "solucion_correcta": [
+            "Egoístamente hablando, no deberíamos ayudaros"
+          ]
+        },
+        {
+          "texto_enunciado": "De manera teórica, aumentando el consumo se mejora la economía. _____",
+          "solucion_correcta": [
+            "Teóricamente hablando, aumentando el consumo se mejora la economía"
+          ]
+        },
+        {
+          "texto_enunciado": "Desde el punto de vista histórico, en España se produjo un encuentro entre Occidente y Oriente. _____",
+          "solucion_correcta": [
+            "Históricamente hablando, en España se produjo un encuentro entre Occidente y Oriente"
+          ]
+        },
+        {
+          "texto_enunciado": "Desde el punto de vista científico, el inglés es el idioma universal. _____",
+          "solucion_correcta": [
+            "Científicamente hablando, el inglés es el idioma universal"
+          ]
+        },
+        {
+          "texto_enunciado": "Desde el punto de vista gramatical, el texto está bien traducido. _____",
+          "solucion_correcta": [
+            "Gramaticalmente hablando, el texto está bien traducido"
+          ]
+        }
+      ]
+    }
+  ]
+}

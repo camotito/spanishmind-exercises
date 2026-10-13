@@ -1,0 +1,251 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "5.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los nombres y adjetivos del recuadro en la forma adecuada y *un*, *una*, *unos*, *unas*.",
+      "banco_palabras": [
+        "cobarde",
+        "impresentable",
+        "infeliz",
+        "listo",
+        "mujer",
+        "roñoso",
+        "santo",
+        "sinvergüenza"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Ese hombre es _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Julio está siempre engañando a sus padres. Es _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elvirita ya tiene 22 años. Está hecha _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pepe es _____ . Nunca da la cara.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ese tío es _____ . Siempre intenta engañarme.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rodrigo es _____ . ¡Cómo cuida a sus padres!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Oíste lo que dijo Carlos anoche? Es _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mis primos nunca nos invitan. Son _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "5.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *todo*/*toda* o *señor*/*señora*.",
+      "items": [
+        {
+          "texto_enunciado": "Nos ganas a todos. Eres _____ campeón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El doctor Barrios era _____ cirujano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Oyes a los vecinos? Tienen _____ bronca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tomás estornuda mucho. Tiene _____ catarro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué cuadros más buenos! Eres _____ artista, Raquel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Vaya paella que te ha salido! Eres _____ chef.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucas ha tenido _____ operación: cinco horas de quirófano",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "5.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *todo*, *toda* y *señor*, *señora*.",
+      "items": [
+        {
+          "texto_enunciado": "Antonio es un gran médico. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tomás era un magnífico policía. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Charo López es una actriz formidable. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Bolaño fue un gran escritor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La piscina de Juani es enorme. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "5.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con palabras de los recuadros.",
+      "banco_palabras": [
+        "aburrimiento",
+        "desastre",
+        "encanto",
+        "espanto",
+        "horror",
+        "maravilla",
+        "preciosidad",
+        "preciosidad",
+        "boda",
+        "casa",
+        "ciudad",
+        "islas",
+        "lago",
+        "novela",
+        "peinado",
+        "persona"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "El lago Titicaca es precioso. Es _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Praga es maravillosa. Es _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sara es encantadora. Es _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es una novela muy aburrida. Es _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa casa es horrorosa. Es _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Fue una boda desastrosa. Fue _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las Canarias son unas islas preciosas. Son _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ese peinado es espantoso. Es _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "5.5",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba exclamaciones con *un*, *una*.",
+      "items": [
+        {
+          "texto_enunciado": "Hace mucho viento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo mucha sed. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace mucho sol. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace mucho calor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo mucho dolor en el estómago. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "María tiene mucha suerte. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pasamos mucho frío. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pasé mucho miedo. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "5.6",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con *una de* + los nombres correspondientes.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Marisa tiene muchas amigas</u>. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Tengo mucho trabajo</u>. No sé por dónde empezar. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Celia es un desastre. <u>Se gasta mucho dinero</u>. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "María está siempre comprando. <u>Tiene mucha ropa</u>. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rafa conduce muy mal. <u>Tiene muchos accidentes</u>. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ramón se mete siempre en problemas. <u>Tiene muchos líos</u>. ¡_____!",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 5,
+  "titulo_libro": "una santa, un frío -- El artículo indefinido con valor intensificador",
+  "scan": "p-018.jpg"
+}

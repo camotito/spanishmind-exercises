@@ -1,0 +1,253 @@
+{
+  "tema": "unidad-49",
+  "titulo": "Estaría en el jardín.",
+  "descripcion_gramatical": "Condicional simple",
+  "fuente": "libro",
+  "unidad_libro": 49,
+  "ejercicios": [
+    {
+      "subejercicio": "49.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en condicional.",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué crees que (yo, deber) _____ hacer? –Yo, en tu lugar, (buscar) _____ otro empleo.",
+          "solucion_correcta": [
+            "debería",
+            "buscaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Me (encantar) _____ vivir en China, pero mi familia no quiere.",
+          "solucion_correcta": [
+            "encantaría"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo, dejar) _____ ahora mismo mi trabajo y (irse) _____ a recorrer el mundo.",
+          "solucion_correcta": [
+            "Dejaría",
+            "me iría"
+          ]
+        },
+        {
+          "texto_enunciado": "El pelo corto no te queda bien. (tú, estar) _____ mejor con el pelo largo.",
+          "solucion_correcta": [
+            "Estarías"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace bastante frío. Yo que tú (ponerse) _____ un abrigo.",
+          "solucion_correcta": [
+            "me pondría"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde te (apetecer) _____ cenar esta noche? Hoy es mi cumpleaños.",
+          "solucion_correcta": [
+            "te apetecería"
+          ]
+        },
+        {
+          "texto_enunciado": "Os (acompañar) _____ al partido. Pero ya he quedado con Jaime.",
+          "solucion_correcta": [
+            "acompañaría"
+          ]
+        },
+        {
+          "texto_enunciado": "De buena gana (ir, yo) _____ contigo a la exposición de Rubens.",
+          "solucion_correcta": [
+            "iría"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "49.2",
+      "tipologia": "T12",
+      "enunciado": "Haga las siguientes peticiones, sugerencias o comentarios de forma educada.",
+      "items": [
+        {
+          "texto_enunciado": "Pida lo siguiente a un desconocido: ¿importar / dejarme el periódico? _____",
+          "solucion_correcta": [
+            "¿Le importaría dejarme el periódico?"
+          ]
+        },
+        {
+          "texto_enunciado": "Sugiera lo siguiente a sus amigos: poder / reunirse en casa de Arturo. _____",
+          "solucion_correcta": [
+            "¿Podríamos reunirnos en casa de Arturo?"
+          ]
+        },
+        {
+          "texto_enunciado": "Pida lo siguiente a un amigo: ¿importar / llevarle a casa en su coche? _____",
+          "solucion_correcta": [
+            "¿Te importaría llevarme a casa en tu coche?"
+          ]
+        },
+        {
+          "texto_enunciado": "Sugiera lo siguiente a un amigo: ¿poder / llevar un paquete a Correos? _____",
+          "solucion_correcta": [
+            "¿Podrías llevar(me) un paquete a Correos?"
+          ]
+        },
+        {
+          "texto_enunciado": "Comente lo siguiente a un amigo: necesitar / ayuda con la mudanza. _____",
+          "solucion_correcta": [
+            "Necesitaría ayuda con la mudanza"
+          ]
+        },
+        {
+          "texto_enunciado": "Pida lo siguiente a un desconocido: ¿poder / recomendarle un buen restaurante? _____",
+          "solucion_correcta": [
+            "¿Me podría recomendar / Podría recomendarme un buen restaurante?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "49.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir los comentarios expresando falta de seguridad en las afirmaciones.",
+      "items": [
+        {
+          "texto_enunciado": "Arnaldo dice que Lola es ingeniera. Según Arnaldo, _____.",
+          "solucion_correcta": [
+            "Lola sería ingeniera"
+          ]
+        },
+        {
+          "texto_enunciado": "El periódico dice que la economía está muy mal. Según el periódico, _____.",
+          "solucion_correcta": [
+            "la economía estaría muy mal"
+          ]
+        },
+        {
+          "texto_enunciado": "Dicen que Roberto tiene casi sesenta años. Al parecer, _____.",
+          "solucion_correcta": [
+            "Roberto tendría casi sesenta años"
+          ]
+        },
+        {
+          "texto_enunciado": "Enrique dice que Teresa tiene un hijo. Según Enrique, _____.",
+          "solucion_correcta": [
+            "Teresa tendría un hijo"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta revista dice que hay crisis en el cine. Según esta revista, _____.",
+          "solucion_correcta": [
+            "habría crisis en el cine"
+          ]
+        },
+        {
+          "texto_enunciado": "Los alumnos dicen que Andrés trabaja de camarero. Según los alumnos _____.",
+          "solucion_correcta": [
+            "Andrés trabajaría de camarero"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "49.4",
+      "tipologia": "T8",
+      "enunciado": "Exprese probabilidad, objeciones o temor sobre las informaciones siguientes. Use los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "–Sonia era muy graciosa de pequeña. – _____ muy graciosa entonces, pero ahora es una antipática.",
+          "solucion_correcta": [
+            "Sería"
+          ]
+        },
+        {
+          "texto_enunciado": "–Anoche no logré hablar con Tina. – _____ en casa de su madre.",
+          "solucion_correcta": [
+            "Estaría"
+          ]
+        },
+        {
+          "texto_enunciado": "–Roberto tuvo siempre muchos amigos. – _____ muchos amigos, pero murió solo.",
+          "solucion_correcta": [
+            "Tendría"
+          ]
+        },
+        {
+          "texto_enunciado": "–El fin de semana pasado me fui a la playa con unas amigas. –¿No _____ al perro solo?",
+          "solucion_correcta": [
+            "dejarías"
+          ]
+        },
+        {
+          "texto_enunciado": "–Tasio estuvo anoche en casa de Alfredo. –¿No _____ mi coche?",
+          "solucion_correcta": [
+            "cogería"
+          ]
+        },
+        {
+          "texto_enunciado": "–Ayer no vine a trabajar porque estaba acatarrado. – _____ acatarrado, pero te vieron en el partido.",
+          "solucion_correcta": [
+            "Estarías"
+          ]
+        },
+        {
+          "texto_enunciado": "–Ayer el jefe me habló de ti. –¿No te _____ que me va a negar el adelanto que le pedí?",
+          "solucion_correcta": [
+            "diría"
+          ]
+        },
+        {
+          "texto_enunciado": "–Este pescado está soso. –No le _____ sal.",
+          "solucion_correcta": [
+            "echaría/echarías"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "coger",
+        "decir",
+        "dejar",
+        "echar",
+        "estar (2)",
+        "ser",
+        "tener"
+      ]
+    },
+    {
+      "subejercicio": "49.5",
+      "tipologia": "T10",
+      "enunciado": "Una las frases usando el condicional simple.",
+      "items": [
+        {
+          "texto_enunciado": "Empecé a competir en 2003. Tres años después, gané mi primera carrera. _____",
+          "solucion_correcta": [
+            "Empecé a competir en 2003 y tres años después, ganaría mi primera carrera"
+          ]
+        },
+        {
+          "texto_enunciado": "Me fui a México en 1997. Al año siguiente conocí a Rosalía, mi mujer. _____",
+          "solucion_correcta": [
+            "Me fui a México en 1997 y al año siguiente conocería a mi mujer"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan Carlos fue proclamado jefe del Estado Español en 1975. Horas después nombró su primer Gobierno. _____",
+          "solucion_correcta": [
+            "Juan Carlos fue proclamado jefe del Estado Español en 1975 y horas después nombraría su primer Gobierno"
+          ]
+        },
+        {
+          "texto_enunciado": "Ramiro empezó en el restaurante de pinche de cocina. Dos años después, le hicieron cocinero. _____",
+          "solucion_correcta": [
+            "Ramiro empezó en el restaurante de pinche de cocina y, dos años después, le harían cocinero"
+          ]
+        },
+        {
+          "texto_enunciado": "Publicó su primera novela a los veinte años. Treinta años después le dieron el Premio Nobel de Literatura. _____",
+          "solucion_correcta": [
+            "Publicó su primera novela a los veinte años y treinta años después le darían el Premio Nobel de Literatura"
+          ]
+        }
+      ]
+    }
+  ]
+}

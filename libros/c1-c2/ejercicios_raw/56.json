@@ -1,0 +1,175 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "56.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *vaya*, *vaya con* o *vaya si*.",
+      "items": [
+        {
+          "texto_enunciado": "¡_____ tu jefe! Parecía agradable.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____ piscina! ¡Es pequeñísima.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____! ¡Ahora no me acuerdo del teléfono de Luis.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Te han cambiado el libro? -_____ me lo han cambiado. Faltaban páginas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____ la niña! Ahora va y me dice que necesita un coche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____ los vecinos! ¡Qué ruido! Deben de estar con obras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Has visto a Eduardo? -¡_____ lo he visto! Y en un cochazo nada menos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____! ¡Cómo huele! Seguro que se te han quemado las lentejas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Que no come Ana? -_____ come. Come como una lima.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "56.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *fíjate*, *fíjese*, *date cuenta*, *dese cuenta* y *daos cuenta*.",
+      "items": [
+        {
+          "texto_enunciado": "Yo, _____, prefiero que seas tú la que conduzcas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alfonso me parece un grosero. _____, ayer ni siquiera llamó para dar el pésame a mi abuela.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Arturo no hace nada, Sr. Martínez. _____, la semana pasada faltó dos días.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Sebastián ha vuelto a suspender. -_____, con lo listo que es.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Sonia no quiere ayudarnos a buscar trabajo. -_____, con la de gente que conoce.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alberto se está quejando siempre del ruido. _____, si no tenemos vecinos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____, don Gregorio. ¡Quién lo iba a decir! A mí me ofrecieron ese mismo empleo el mes pasado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Me gusta este coche. Es muy económico. -_____, no hemos parado ni una vez para echar gasolina.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____, después de tanto tiempo todavía no sé tu apellido.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "56.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *toma*, *toma ya*, *dale*, *dale con* y *dale con que*.",
+      "items": [
+        {
+          "texto_enunciado": "¡_____ ese cedé! Ya estoy harto de oír la misma música.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Me gustaría hablar italiano bien. -¡_____ y a mí!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____! Así, copiando, también hago yo los ejercicios.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-El perro está nervioso. -¡_____, qué indirecta! ¿Pretendes que saque yo al perro?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____! ¡Te repito que no fue Pablo quien te vio con Carmen!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____ quieres el teléfono de Marga! Pídeselo tú.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____ el Gobierno! Siempre hablas de lo mismo, Blanca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____! He sacado un nueve en Matemáticas.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "56.4",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con *vaya*, *vaya con*, *vaya si*, *fíjate*, *dale con*, *toma*, *toma ya*.",
+      "items": [
+        {
+          "texto_enunciado": "¡_____! Ahora no funciona el mando.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____! No quería comer y va a acabar con todo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Filarmónica de Viena, Novena de Beethoven. Me encantaría escuchar ese concierto. -¡_____! Y a mí.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Hace calor? -¡_____ hace calor!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____! He acertado cinco números.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____ Inés!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____ qué gol!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Necesito una guitarra. -¡_____ la guitarra! ¡Te he dicho que no!",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 56,
+  "titulo_libro": "¡Vaya! ¡Fíjate! Date cuenta. ¡Toma! ¡Dale! -- Imperativo (5)",
+  "scan": "p-119.jpg"
+}

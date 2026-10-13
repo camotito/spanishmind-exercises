@@ -1,0 +1,220 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "17.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba frases con los verbos entre paréntesis y los pronombres adecuados de OD y OI.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Quieres que te sirva café? -Sí, por favor. (Sirve) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-He recibido una postal de Carmen. -¿Qué (dice) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo que (comprar) _____ algo a Jesús.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llama a Lola y (di) _____ si quiere salir esta noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Javi, (lava) _____ el coche cuando puedas. Lo necesito para mañana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Has preguntado) _____ a Delia si viene? Tienes que (preguntar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué (pasa) _____ a Juan? -Que (duele) _____ la cabeza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué estáis tan contentos? -(han subido) _____ el sueldo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me encuentro bien. (Trae) _____ una aspirina, por favor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué está enfadada Charo? -(He roto) _____ las gafas sin querer.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Has invitado) _____ a tus primos? Tienes que (invitar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué estás enfadado? -(han bajado) _____ el sueldo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué estás haciendo? -(Arreglando) _____ la lavadora a Lidia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Ayer vi a Antonio (haciendo) _____ los ejercicios a Sara.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué hacía Mara en tu casa? -Estaba (ayudando) _____ a preparar la fiesta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Has devuelto) _____ el diccionario a María? Tienes que (devolver) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Has dado) _____ las notas a los estudiantes? Hay que (dar) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.2",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Escriba una frase con las palabras subrayadas y los pronombres adecuados como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Se muere</u> Arlindo. Era nuestro amigo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Se va de casa</u> nuestro hijo mayor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El niño de Pati <u>no come nada</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Se casa</u> tu hijo, María. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No te escondas</u>. Quiero hablar contigo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Está muy triste por su mujer. <u>Se muere</u>. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases usando pronombres de OI.",
+      "items": [
+        {
+          "texto_enunciado": "Anoche cayó encima de nosotros una lluvia tremenda. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Colocó un altavoz al lado de él. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pusieron flores alrededor del monumento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Van a abrir un bar enfrente de vosotros. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La rama ha caído delante de mí. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los perros venían detrás de ellos. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *le*.",
+      "items": [
+        {
+          "texto_enunciado": "No gusta a nadie. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esto preocupa a todo el mundo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eso no importó a nadie. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esto interesa a cualquiera. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.5",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con las expresiones del recuadro.",
+      "banco_palabras": [
+        "¡Me las pagarás!",
+        "¡Nos las pagaréis!",
+        "¡No te fastidia! (2)",
+        "¡Qué le voy a hacer!",
+        "¡Qué le vas a hacer!",
+        "¡Qué le van a hacer!",
+        "¡Qué le vamos a hacer!"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____ Otro día te tocará ganar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ Quería que le invitara a cenar. ¡Con el dinero que tiene!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos habéis estropeado las vacaciones. Pero no os preocupéis. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ Tenemos que tener paciencia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ Ahora dice que le tengo que pagar las gafas que le rompí.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me has quitado el puesto, pero no te preocupes. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Su hija no quiere estudiar. _____ Tendrán que aceptarlo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo no quiero, pero en el banco me quieren prejubilar. _____ No puedo decir que no.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 17,
+  "titulo_libro": "No te nos escondas. Nos cayó encima. -- Pronombres personales de objeto indirecto",
+  "scan": "p-042.jpg"
+}

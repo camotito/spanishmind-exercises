@@ -1,0 +1,211 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "58.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Esperad en casa de Elena. Lo prefiero. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Presta atención. Es importante. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Plánchame los pantalones. Lo necesito. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Organizad vosotros la despedida de soltero. Juan lo quiere. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Reservad la mesa del restaurante. Lo veo conveniente. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No cantéis victoria antes de tiempo. Lo prefiero. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tened buenas relaciones con los vecinos. Me parece importante. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dime la verdad. Lo espero. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Venid a verme. Tengo ganas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Trae raquetas y pelotas. Hace falta. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Acaba la carrera. Me parece fundamental. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Puedo quedarme a ayudaros. ¿Os parece necesario? _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "58.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(despertarnos a las siete) Dile _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(nosotros, coger un taxi) Más vale _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(hacerme caso) Ordénale _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(ponerse abrigo) Os aconsejo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(nosotros, esperar aquí) Lo mejor es _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Pedro, hacer la comida) Es mejor _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(disculparse con Elena) Te recomiendo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(no decir nada) Te sugiero _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(vosotros, tener una buena excusa) Más vale _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(ir a Sevilla en el AVE) Nos han aconsejado _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(tú, quedarse en la cama) Lo mejor es _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(devolverme mis cosas) Te exijo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(ir todos juntos) Es mejor _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "58.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(echarle una mano) Luis me ha pedido _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(hacerme un favor) Os quiero pedir _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(no gritar) Te ruego _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(contarte lo de Antonio) No me pidas _____. No puedo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(no decirle nada a Alberto) Os suplico _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(escucharme un momento) Te pido _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(no hacer nada) Os ruego _____. Yo lo solucionaré.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(tener mucho cuidado) Te suplico _____. No me gustaría que te pasara nada.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "58.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(recomendarle la carne) Permítame _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(enfadarme) No hagas _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(darte un consejo) ¿Me permites _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(no levantarme) Disculpa _____. No me encuentro bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(vosotros, no poder venir) Siento _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(yo, pedirte un favor) Perdona _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(yo, explicarte) Deja _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(yo, llegar tarde) Siempre haces _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(yo, pagar) Nunca me dejas _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(hacerte una pregunta) ¿Me permites _____?",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 58,
+  "titulo_libro": "Necesito que me ayudes. Quiero que escuches esto. -- Presente de subjuntivo (2)",
+  "scan": "p-123.jpg"
+}

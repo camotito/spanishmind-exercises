@@ -1,0 +1,187 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "72.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "¿Te importa (abrir/que abras) la ventana?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te importa (fumar/que fume)?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me interesa (cambiar/que cambie) de empleo. Estoy bien aquí.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Julián le cuesta (ayudarnos/que nos ayude).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me cuesta trabajo (entender/que entienda) tus quejas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Santiago le agrada (acordarnos/que nos acordemos) de su cumpleaños.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me encanta (venir/que hayas venido) a verme.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anoche no nos apeteció (salir/que saliéramos).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me costó (conseguir/que consiguiera) que me ayudaran.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis en la forma adecuada, afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "No importa (tú, no hablar) _____ inglés.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me importa (yo, ser) _____ ayudante.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te importaría (yo, no ir) _____ a tu conferencia? Tengo mucho trabajo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me gusta que me (ellos, hacer) _____ regalos caros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy un poco disgustada. No me apetece (a mí, ver) _____ a nadie.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me encantó (vosotros, llamarme) _____ para felicitarme.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me importa (él, acabar) _____ la carrera todavía. Me gusta cómo trabaja.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me costó (Pedro, entender) _____ por qué estaba enfadado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me cuesta (a mí, entender) _____ lo cara que está la vida aquí.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alfredo, me encanta que no (tú, aceptar) _____ ese trabajo. No era para ti.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Ha sido imposible (encontrar/que encuentres) entradas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Parece increíble (caerse/que se haya caído) la casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No resultó fácil (llegar/que llegases) al Machu Picchu.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es imposible (perder/que perdamos) nosotros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es lógico (ponerte/que te pongas) un abrigo. Hace frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es sencillo (seguir/que sigas) las instrucciones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos fue difícil (sacar/que sacáramos) el coche de la arena.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Resultó normal (multarme/que me multaran). Iba muy deprisa.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "72.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "No es fácil (la gente, ayudarte) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Parecía imposible (la Bolsa, bajar) _____, pero bajó.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es increíble (tú, perder) _____ las llaves otra vez. Ten cuidado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es imposible (Luisa, divorciarse) _____. No me lo creo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Crees que es posible (el euro, subir) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es difícil (los niños, leer) _____, si ven tanta televisión.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es lógico (ellos, ganar) _____ siempre. Tienen los mejores jugadores.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es triste (tú, estar) _____ siempre pidiendo favores a la gente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Parece inevitable (el Gobierno, convocar) _____ elecciones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me pareció mal (decir) _____ eso de mí, Tomás.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 72,
+  "titulo_libro": "Nos complace invitarlos. Es fácil ganar. -- Construcciones con infinitivo o subjuntivo",
+  "scan": "p-151.jpg"
+}

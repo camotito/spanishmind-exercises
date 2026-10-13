@@ -1,0 +1,290 @@
+{
+  "tema": "unidad-12",
+  "titulo": "todo mojada, mucha moto",
+  "descripcion_gramatical": "Modificación de adjetivos y nombres",
+  "fuente": "libro",
+  "unidad_libro": 12,
+  "ejercicios": [
+    {
+      "subejercicio": "12.1",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases usando *todo* o *toda*.",
+      "items": [
+        {
+          "texto_enunciado": "La carne estaba muy quemada. _____",
+          "solucion_correcta": [
+            "La carne estaba todo/toda quemada"
+          ]
+        },
+        {
+          "texto_enunciado": "Los vecinos han bajado muy preocupados. _____",
+          "solucion_correcta": [
+            "Los vecinos han bajado todo preocupados"
+          ]
+        },
+        {
+          "texto_enunciado": "Las niñas salieron del colegio muy contentas. _____",
+          "solucion_correcta": [
+            "Las niñas salieron del colegio todo contentas"
+          ]
+        },
+        {
+          "texto_enunciado": "Los platos estaban muy sucios. _____",
+          "solucion_correcta": [
+            "Los platos estaban todo sucios"
+          ]
+        },
+        {
+          "texto_enunciado": "La piel se me ha quedado muy seca. _____",
+          "solucion_correcta": [
+            "La piel se me ha quedado todo/toda seca"
+          ]
+        },
+        {
+          "texto_enunciado": "Me pilló la tormenta y llegué a casa muy empapada. _____",
+          "solucion_correcta": [
+            "Me pilló la tormenta y llegué a casa todo/toda empapada"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando perdieron se quedaron muy tristes. _____",
+          "solucion_correcta": [
+            "Cuando perdieron se quedaron todo tristes"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenéis que dejar la casa muy limpia. _____",
+          "solucion_correcta": [
+            "Tenéis que dejar la casa todo/toda limpia"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "12.2",
+      "tipologia": "T8",
+      "enunciado": "Complete con *demasiado*, *mucho*, *muy* o *todo* en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Alberto es muy frío. Es _____ cabeza.",
+          "solucion_correcta": [
+            "todo"
+          ]
+        },
+        {
+          "texto_enunciado": "Blanca es _____ mujer para Eduardo.",
+          "solucion_correcta": [
+            "mucha/demasiada"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Menudo abrigo! Es _____ abrigo para ti, Agustín. Tú no eres tan alto.",
+          "solucion_correcta": [
+            "mucho/demasiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa es _____ bici para Juanito. Apenas llega a los pedales.",
+          "solucion_correcta": [
+            "demasiada/mucha"
+          ]
+        },
+        {
+          "texto_enunciado": "Tus primas son todavía _____ niñas para llegar a casa tan tarde.",
+          "solucion_correcta": [
+            "muy"
+          ]
+        },
+        {
+          "texto_enunciado": "Ramón es _____ caballero. Siempre cede el asiento en el metro.",
+          "solucion_correcta": [
+            "muy"
+          ]
+        },
+        {
+          "texto_enunciado": "Elisa estaba muy, muy nerviosa. Era _____ nervios.",
+          "solucion_correcta": [
+            "todo/toda"
+          ]
+        },
+        {
+          "texto_enunciado": "Éramos _____ oídos. No queríamos perdernos ni una palabra.",
+          "solucion_correcta": [
+            "todo"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese Rolex es _____ reloj para llevarlo a la playa, Jorge.",
+          "solucion_correcta": [
+            "demasiado/mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquel era _____ chalé para nosotros dos. Tenía seis dormitorios.",
+          "solucion_correcta": [
+            "demasiado/mucho"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "12.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases usando *mucho*.",
+      "items": [
+        {
+          "texto_enunciado": "En esta empresa hay muchas personas vagas. _____",
+          "solucion_correcta": [
+            "En esta empresa hay mucho vago"
+          ]
+        },
+        {
+          "texto_enunciado": "En ese equipo hay muchos jugadores torpes. _____",
+          "solucion_correcta": [
+            "En ese equipo hay mucho torpe"
+          ]
+        },
+        {
+          "texto_enunciado": "En este país hay muchos farsantes. _____",
+          "solucion_correcta": [
+            "En este país hay mucho farsante"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuidado que en esta ciudad hay muchos ladrones. _____",
+          "solucion_correcta": [
+            "Cuidado que en esta ciudad hay mucho ladrón"
+          ]
+        },
+        {
+          "texto_enunciado": "En esta empresa hay muchas personas pelotas. _____",
+          "solucion_correcta": [
+            "En esta empresa hay mucho pelota"
+          ]
+        },
+        {
+          "texto_enunciado": "En este pueblo hay muchas personas canallas. _____",
+          "solucion_correcta": [
+            "En este pueblo hay mucho canalla"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "12.4",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con *todo*, *toda*, *muy*, *mucho* o *demasiado* y el nombre o adjetivo necesario en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Rodrigo está muy enfadado. Rodrigo está _____ .",
+          "solucion_correcta": [
+            "todo enfadado"
+          ]
+        },
+        {
+          "texto_enunciado": "En este partido hay muchas personas interesadas. En este partido hay _____ .",
+          "solucion_correcta": [
+            "mucho interesado"
+          ]
+        },
+        {
+          "texto_enunciado": "Es un filete enorme y yo como poco. Es _____ para mí.",
+          "solucion_correcta": [
+            "demasiado filete"
+          ]
+        },
+        {
+          "texto_enunciado": "Ana y Sonsoles son muy huesudas. Son _____ .",
+          "solucion_correcta": [
+            "todo huesos"
+          ]
+        },
+        {
+          "texto_enunciado": "En esta empresa hay muchos hombres machistas. En esta empresa hay _____ .",
+          "solucion_correcta": [
+            "mucho machista"
+          ]
+        },
+        {
+          "texto_enunciado": "Pablo tiene 14 años y sale con chicas. Se cree _____ .",
+          "solucion_correcta": [
+            "muy hombre"
+          ]
+        },
+        {
+          "texto_enunciado": "Eva y Joaquín se han comprado una casa enorme en la playa. Es _____ para ellos.",
+          "solucion_correcta": [
+            "mucha/demasiada casa"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan ha cumplido 18 años y su padre le ha regalado una Harley Davidson. Es _____ para él.",
+          "solucion_correcta": [
+            "mucha/demasiada moto"
+          ]
+        },
+        {
+          "texto_enunciado": "El viento rompió la puerta. Estaba _____ .",
+          "solucion_correcta": [
+            "todo/toda rota"
+          ]
+        },
+        {
+          "texto_enunciado": "Ana tiene 14 años y aún le gustan las muñecas. Es _____ todavía.",
+          "solucion_correcta": [
+            "muy niña"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "12.5",
+      "tipologia": "T11",
+      "enunciado": "Complete las frases con la información dada y la estructura *el*, *la*, *los*, *las* + nombre + *de* + nombre.",
+      "items": [
+        {
+          "texto_enunciado": "La comida que dan es una basura. La cobran muy caro. Cobran muy caro _____ .",
+          "solucion_correcta": [
+            "Cobran muy caro la basura de comida que dan"
+          ]
+        },
+        {
+          "texto_enunciado": "Paco es un caradura. Nos da siempre plantón. _____ nos da siempre plantón.",
+          "solucion_correcta": [
+            "El caradura de Paco nos da siempre plantón"
+          ]
+        },
+        {
+          "texto_enunciado": "Este sueldo es una miseria. No se puede vivir. No se puede vivir con _____ .",
+          "solucion_correcta": [
+            "No se puede vivir con la miseria de sueldo que me dan"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge es un buenazo. Nos ha prestado el chalé. _____ nos ha prestado el chalé.",
+          "solucion_correcta": [
+            "El buenazo de Jorge nos ha prestado el chalé"
+          ]
+        },
+        {
+          "texto_enunciado": "Tu hermano es muy pesado. No me deja en paz. _____ no me deja en paz.",
+          "solucion_correcta": [
+            "El pesado de tu hermano no me deja en paz"
+          ]
+        },
+        {
+          "texto_enunciado": "La directora es una mandona. Nos hace trabajar mucho. _____ nos hace trabajar mucho.",
+          "solucion_correcta": [
+            "La mandona de la directora nos hace trabajar mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis vecinas son muy antipáticas. Nunca saludan. _____ nunca saludan.",
+          "solucion_correcta": [
+            "Las antipáticas de mis vecinas nunca saludan"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "tema": "unidad-81",
+  "titulo": "¡Siempre trabajando!",
+  "descripcion_gramatical": "Gerundio (1)",
+  "fuente": "libro",
+  "unidad_libro": 81,
+  "ejercicios": [
+    {
+      "subejercicio": "81.1",
+      "tipologia": "T8",
+      "enunciado": "Complete con el gerundio simple o el gerundio compuesto de los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Qué hacéis? -Nada especial. _____ una vuelta.",
+          "solucion_correcta": [
+            "Dando"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira a Julián, _____ como un loco.",
+          "solucion_correcta": [
+            "conduciendo"
+          ]
+        },
+        {
+          "texto_enunciado": "El conductor, _____ las puertas, arrancó el autobús.",
+          "solucion_correcta": [
+            "habiendo cerrado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué hacéis aquí? - _____ el paisaje.",
+          "solucion_correcta": [
+            "Contemplando"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ el avión, me puse a dormir.",
+          "solucion_correcta": [
+            "Habiendo despegado"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ crucigramas se distrae uno mucho.",
+          "solucion_correcta": [
+            "Haciendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Verás el estanco _____ a la derecha.",
+          "solucion_correcta": [
+            "saliendo"
+          ]
+        },
+        {
+          "texto_enunciado": "No pudo conducir _____ tanto.",
+          "solucion_correcta": [
+            "habiendo bebido"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "beber",
+        "cerrar",
+        "conducir",
+        "contemplar",
+        "dar",
+        "despegar",
+        "hacer",
+        "salir"
+      ]
+    },
+    {
+      "subejercicio": "81.2",
+      "tipologia": "T12",
+      "enunciado": "Escriba exclamaciones o interrogaciones con las expresiones entre paréntesis sobre las situaciones planteadas.\n¿Qué le dice a alguien que...",
+      "items": [
+        {
+          "texto_enunciado": "...pide dinero con frecuencia? (siempre) ¡_____!",
+          "solucion_correcta": [
+            "¡Siempre pidiendo dinero!"
+          ]
+        },
+        {
+          "texto_enunciado": "...vuelve a beber? (otra vez) ¡_____!",
+          "solucion_correcta": [
+            "¡Otra vez bebiendo!"
+          ]
+        },
+        {
+          "texto_enunciado": "...lleva mucho tiempo fumando? (todavía) ¿_____? Creía que lo habías dejado.",
+          "solucion_correcta": [
+            "¿Todavía fumando!?"
+          ]
+        },
+        {
+          "texto_enunciado": "...juega mucho a las cartas? (otra vez) ¿_____?",
+          "solucion_correcta": [
+            "¿Otra vez jugando?"
+          ]
+        },
+        {
+          "texto_enunciado": "...lleva mucho tiempo estudiando? (aún) ¿_____? ¡Acuéstate ya!",
+          "solucion_correcta": [
+            "¿Aún estudiando?"
+          ]
+        },
+        {
+          "texto_enunciado": "...se queja mucho? (siempre) ¡_____! ¡Eres un pesado!",
+          "solucion_correcta": [
+            "¡Siempre quejándote!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "81.3",
+      "tipologia": "T12",
+      "enunciado": "Escriba las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(Ustedes, pasear, por aquí) ¿_____? Creí que estaban fuera.",
+          "solucion_correcta": [
+            "¿Ustedes paseando por aquí?"
+          ]
+        },
+        {
+          "texto_enunciado": "-Te llamé anoche, pero estabas durmiendo. -(Yo, dormir) ¿_____? ¿Quién te dijo eso?",
+          "solucion_correcta": [
+            "¿Ya durmiendo?"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta mañana he visto a Tomás y Elsa discutiendo. (Tomás y Elsa, discutir)\n¿_____? Pero si se llevan muy bien.",
+          "solucion_correcta": [
+            "¿Tomás y Elsa discutiendo?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué? (Echar, un cigarrito) ¿_____?",
+          "solucion_correcta": [
+            "¿Echando un cigarrito?"
+          ]
+        },
+        {
+          "texto_enunciado": "-Anoche te oí roncando, Andrés. (Yo, roncar) -¿_____? ¡Venga ya!",
+          "solucion_correcta": [
+            "¿Yo roncando?"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Así me escuchas? (Mirar, para otro lado) ¿_____?",
+          "solucion_correcta": [
+            "¿Mirando para otro lado?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "81.4",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas usando el gerundio del verbo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Venga, <u>corred todos</u>, que llegamos tarde. _____",
+          "solucion_correcta": [
+            "corriendo todos"
+          ]
+        },
+        {
+          "texto_enunciado": "Me recibió <u>con lágrimas</u>. _____",
+          "solucion_correcta": [
+            "llorando"
+          ]
+        },
+        {
+          "texto_enunciado": "Celia quiere ganarse la vida <u>con su pintura</u>. _____",
+          "solucion_correcta": [
+            "pintando"
+          ]
+        },
+        {
+          "texto_enunciado": "Miguel es muy raro. Le gusta leer <u>mientras ve la tele</u>. _____",
+          "solucion_correcta": [
+            "viendo la tele"
+          ]
+        },
+        {
+          "texto_enunciado": "Verás la sección de bolsos <u>cuando subes a la izquierda</u>. _____",
+          "solucion_correcta": [
+            "subiendo a la izquierda"
+          ]
+        },
+        {
+          "texto_enunciado": "Raquel se cayó <u>cuando bajaba las escaleras</u>. _____",
+          "solucion_correcta": [
+            "bajando las escaleras"
+          ]
+        },
+        {
+          "texto_enunciado": "Los López se hicieron ricos <u>con la venta de fruta</u>. _____",
+          "solucion_correcta": [
+            "vendiendo fruta"
+          ]
+        },
+        {
+          "texto_enunciado": "Vamos, <u>levántate</u>, que es ya la hora. _____",
+          "solucion_correcta": [
+            "levantándote"
+          ]
+        },
+        {
+          "texto_enunciado": "Felipe sacó la oposición <u>con mucho esfuerzo</u>. _____",
+          "solucion_correcta": [
+            "esforzándose mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "Enrique una vez se durmió <u>mientras conducía</u>. _____",
+          "solucion_correcta": [
+            "conduciendo"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "bajar",
+        "conducir",
+        "correr",
+        "esforzarse",
+        "levantarse",
+        "llorar",
+        "pintar",
+        "subir",
+        "vender",
+        "ver"
+      ]
+    }
+  ]
+}

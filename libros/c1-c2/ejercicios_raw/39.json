@@ -1,0 +1,191 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "39.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el pretérito imperfecto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-¿(tú, hacer) _____ algún deporte de joven? -Sí, (yo, hacer) _____ esquí acuático.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Dónde (vosotros, estar) _____ cuando se inició el incendio?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "De pequeño, Luis (jugar) _____ muy bien al fútbol.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La madre de José (ser) _____ escritora. (ella, escribir) _____ novelas de misterio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ahora estoy jubilado, pero cuando (yo, trabajar) _____, (yo, ganar) _____ bastante dinero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La casa donde vivíamos en Alicante (tener) _____ jardín y piscina.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Andrés le dio un mareo mientras (él, ducharse) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir estas frases de forma más cortés.",
+      "items": [
+        {
+          "texto_enunciado": "Quiero saber si tienen vacantes. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Buenos días. Busco al Sr. Moreno. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Perdona, Alberto. ¿Quieres algo? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llamo para preguntar por Rosario Alcocer. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Necesito dos días libres, don Manuel. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las expresiones de sorpresa o censura con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-Lucía se ha ido al cine. -Pero ¿(estar enferma) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¡Qué agradable es don Roque! -Pero si no (poder verlo) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Qué haces levantada? ¿(tener gripe) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No llevo dinero. No puedo pagar los bocadillos. -¡Pero si (acabar) _____ de sacar dinero del cajero...!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Ahora que he sacado los billetes dices que no vienes? Pero ¿(querer) _____ ir de vacaciones?",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las disculpas con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Lo siento. (creer) _____ que este móvil era el mío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Disculpe. No (saber) _____ que estaba hablando por teléfono.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Perdone, señora. No (querer) _____ llamar a estas horas, pero (necesitar) _____ hablar con su hijo lo antes posible.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hola, Carmela. No he ido a verte porque (suponer) _____ que estabas de viaje.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.5",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Exprese deseos sobre lo indicado.",
+      "items": [
+        {
+          "texto_enunciado": "Acostarse y no levantarse hasta dentro de dos días. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tomarse un par de cervezas bien frías. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Irse a Cancún y pasarse allí quince días. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Salir ahora mismo y no volver nunca más a esta oficina _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Comerse una buena paella y echarse luego una siesta. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "39.6",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases indicando falta de responsabilidad o duda.",
+      "banco_palabras": [
+        "alojarse",
+        "empezar",
+        "estar",
+        "haber",
+        "operar",
+        "ser"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Lo siento pero este sillón _____ así. Si usted no lo vio...",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es culpa mía. La televisión ya _____ rota.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por lo visto, Jesús _____ a trabajar hoy con su padre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los amigos de Orlando llegaron ayer. Creo que _____ en su casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mercedes está en el hospital. Creo que la _____ hoy o mañana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Según dicen, esta semana _____ huelga en el metro.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 39,
+  "titulo_libro": "Cuando estudiaba. Mientras dormíamos. -- Pretérito imperfecto",
+  "scan": "p-085.jpg"
+}

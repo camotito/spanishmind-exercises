@@ -1,0 +1,187 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "30.1",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir lo subrayado con un adverbio en *-mente*.",
+      "items": [
+        {
+          "texto_enunciado": "Me saludó <u>con cariño</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La pobre Eva ha enfermado <u>de gravedad</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se comportó <u>como un héroe</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A veces hay que actuar <u>con sigilo</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos atendieron <u>con amabilidad</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que llevarla a un hospital <u>con urgencia</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos dijeron, <u>con claridad</u>, que no querían volver a vernos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Encontramos a Clara en la bolera <u>por casualidad</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elisa trazó el círculo <u>con facilidad</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El público contemplaba el cuadro <u>en silencio</u>. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "30.2",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir lo subrayado con *de modo* / *de manera* + adjetivo.",
+      "items": [
+        {
+          "texto_enunciado": "Juan ha mejorado <u>imperceptiblemente</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lorenzo consiguió el premio <u>fraudulentamente</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El alumno expuso el tema <u>correctamente</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucas vive <u>sencillamente</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El conductor salvó la vida <u>milagrosamente</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa medicina se está aplicando <u>experimentalmente</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El piloto ganó la carrera <u>magistralmente</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lolita logró el ascenso <u>sospechosamente</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lara hace todo <u>precipitadamente</u>. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "30.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases utilizando adverbios en *-mente*.",
+      "items": [
+        {
+          "texto_enunciado": "Es evidente que no dice la verdad. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Al parecer, Toñi no tiene el título de enfermera. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No quieren trabajar el domingo. Es lógico. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se supone que Arturo nos envió la invitación hace dos semanas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Andrea pensaba, de manera falsa, que nosotros íbamos a ocuparnos de todo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es indudable que la crisis va para largo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La empresa tendrá que cerrar muy pronto. Es irremediable. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me parece cierto que estamos atravesando un mal momento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es evidente que nadie sabe cómo solucionar esto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es innegable que la empresa no va bien. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es indiscutible que yo a Juan no le resulto simpático. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenéis que presentaros a los tres exámenes. Es obligatorio. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "30.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con un adverbio + *hablando*.",
+      "items": [
+        {
+          "texto_enunciado": "Desde el punto de vista técnico, es posible levantar aquí un puente. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "De manera egoísta, no deberíamos ayudaros. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "De manera teórica, aumentando el consumo se mejora la economía. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Desde el punto de vista histórico, en España se produjo un encuentro entre Occidente y Oriente. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Desde el punto de vista científico, el inglés es el idioma universal. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Desde el punto de vista gramatical, el texto está bien traducido. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 30,
+  "titulo_libro": "instintivamente, sigilosamente -- Adverbios en –mente (1)",
+  "scan": "p-068.jpg"
+}

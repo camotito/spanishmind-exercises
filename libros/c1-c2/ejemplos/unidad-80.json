@@ -1,0 +1,248 @@
+{
+  "tema": "unidad-80",
+  "titulo": "Llega agotada. Tengo ahorrados mil euros.",
+  "descripcion_gramatical": "Participio (2)",
+  "fuente": "libro",
+  "unidad_libro": 80,
+  "ejercicios": [
+    {
+      "subejercicio": "80.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Los futbolistas parecían _____ por la derrota.",
+          "solucion_correcta": [
+            "afectados"
+          ]
+        },
+        {
+          "texto_enunciado": "El gerente se mostró _____ por el aumento de las ventas.",
+          "solucion_correcta": [
+            "complacido"
+          ]
+        },
+        {
+          "texto_enunciado": "La camiseta está _____ de verde.",
+          "solucion_correcta": [
+            "teñida"
+          ]
+        },
+        {
+          "texto_enunciado": "Los garajes quedaron _____ tras la tormenta.",
+          "solucion_correcta": [
+            "inundados"
+          ]
+        },
+        {
+          "texto_enunciado": "Luisa resultó _____ en un accidente.",
+          "solucion_correcta": [
+            "herida"
+          ]
+        },
+        {
+          "texto_enunciado": "Los nombres están _____ en una placa.",
+          "solucion_correcta": [
+            "grabados"
+          ]
+        },
+        {
+          "texto_enunciado": "Ten cuidado. Siempre dejas el coche mal _____.",
+          "solucion_correcta": [
+            "aparcado"
+          ]
+        },
+        {
+          "texto_enunciado": "El piso de Lucía resultó _____ en el incendio.",
+          "solucion_correcta": [
+            "dañada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Sabes si la oficina está ya _____?",
+          "solucion_correcta": [
+            "pintada"
+          ]
+        },
+        {
+          "texto_enunciado": "El examen no parecía _____.",
+          "solucion_correcta": [
+            "complicado"
+          ]
+        },
+        {
+          "texto_enunciado": "Adela me dejó _____ cuando me dijo lo de su divorcio.",
+          "solucion_correcta": [
+            "helado/a"
+          ]
+        },
+        {
+          "texto_enunciado": "Parece que Joaquín y Estela están muy _____.",
+          "solucion_correcta": [
+            "enamorados"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "afectar",
+        "aparcar",
+        "complacer",
+        "complicar",
+        "dañar",
+        "enamorar",
+        "grabar",
+        "helar",
+        "herir",
+        "inundar",
+        "pintar",
+        "teñir"
+      ]
+    },
+    {
+      "subejercicio": "80.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "La periodista habló en la radio. Estaba completamente enfadada. _____",
+          "solucion_correcta": [
+            "La periodista habló en la radio completamente enfadada"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis hermanos llegaron de la excursión. Estaban aburridos. _____",
+          "solucion_correcta": [
+            "Mis hermanos llegaron de la excursión aburridos"
+          ]
+        },
+        {
+          "texto_enunciado": "Me devolvió el cartel. Estaba partido en dos. _____",
+          "solucion_correcta": [
+            "Me devolvió el cartel partido en dos"
+          ]
+        },
+        {
+          "texto_enunciado": "Los representantes sindicales se fueron de la reunión. Estaban enfadados. _____",
+          "solucion_correcta": [
+            "Los representantes sindicales se fueron de la reunión enfadados"
+          ]
+        },
+        {
+          "texto_enunciado": "Encontré los juguetes de los niños. Estaban mordidos por los perros. _____",
+          "solucion_correcta": [
+            "Encontré los juguetes de los niños mordidos por las perras"
+          ]
+        },
+        {
+          "texto_enunciado": "Pablo volvió a casa. Estaba totalmente empapado. _____",
+          "solucion_correcta": [
+            "Pablo volvió a casa totalmente empapado"
+          ]
+        },
+        {
+          "texto_enunciado": "Los inquilinos volvieron a sus casas. Estaban muy asustados. _____",
+          "solucion_correcta": [
+            "Los inquilinos volvieron a sus casas muy asustados"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer me encontré una cartera. Estaba perdida en el parque. _____",
+          "solucion_correcta": [
+            "Ayer me encontré una cartera perdida en el parque"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "80.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con una de las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Hace tiempo que _____ alquilada una casa en la sierra.",
+          "solucion_correcta": [
+            "tengo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ vistos más de diez pisos y no nos ha gustado ninguno.",
+          "solucion_correcta": [
+            "Llevamos"
+          ]
+        },
+        {
+          "texto_enunciado": "No tengo prisa. He _____ hecha la comida.",
+          "solucion_correcta": [
+            "dejado"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ahorrados más de mil euros para las vacaciones.",
+          "solucion_correcta": [
+            "Tengo"
+          ]
+        },
+        {
+          "texto_enunciado": "No juegues más. Ya _____ mucho perdido esta noche.",
+          "solucion_correcta": [
+            "llevas"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero _____ fregados los platos antes de acostarme.",
+          "solucion_correcta": [
+            "dejar"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta casa es una ruina. _____ gastados en ella más de 10 000 euros.",
+          "solucion_correcta": [
+            "llevo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Estás segura de que has _____ la luz apagada?",
+          "solucion_correcta": [
+            "dejado"
+          ]
+        },
+        {
+          "texto_enunciado": "Felipe se tuvo que ir ayer, pero _____ dicho que volverá dentro de unos días.",
+          "solucion_correcta": [
+            "dejó"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ ya redactado el informe, Laura?",
+          "solucion_correcta": [
+            "Tienes"
+          ]
+        },
+        {
+          "texto_enunciado": "Miguel es un desastre. Ya _____ rotos dos pares de zapatos este mes.",
+          "solucion_correcta": [
+            "lleva"
+          ]
+        },
+        {
+          "texto_enunciado": "Julián es muy previsor. _____ guardados unos ahorros para la vejez.",
+          "solucion_correcta": [
+            "Tiene"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "dejado (2)",
+        "dejó",
+        "dejar",
+        "llevamos",
+        "llevo",
+        "lleva",
+        "llevas",
+        "tengo (2)",
+        "tiene",
+        "tienes"
+      ]
+    }
+  ]
+}

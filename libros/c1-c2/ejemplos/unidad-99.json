@@ -1,0 +1,247 @@
+{
+  "tema": "unidad-99",
+  "titulo": "aunque no están de acuerdo, a pesar del calor",
+  "descripcion_gramatical": "Oraciones concesivas (1)",
+  "fuente": "libro",
+  "unidad_libro": 99,
+  "ejercicios": [
+    {
+      "subejercicio": "99.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Por más que se (esfuerza/esfuerce), no consigue ser agradable.",
+          "solucion_correcta": [
+            "esfuerza"
+          ]
+        },
+        {
+          "texto_enunciado": "Aun cuando no te (gusta/guste) Joaquín, te tienes que llevar bien con él.",
+          "solucion_correcta": [
+            "guste"
+          ]
+        },
+        {
+          "texto_enunciado": "Por más que (insiste/insista), su mujer no quiere que se vaya a Brasil.",
+          "solucion_correcta": [
+            "insiste"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé si Umberto trabajó mucho, pero por mucho que (trabajó/trabajara), no trabajó más que yo.",
+          "solucion_correcta": [
+            "trabajara"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque me (gustaría/guste) conocer Canadá, no me lo puedo permitir.",
+          "solucion_correcta": [
+            "gustaría"
+          ]
+        },
+        {
+          "texto_enunciado": "Pese a que no me (gusta/guste) el marisco, tuve que comerme las gambas.",
+          "solucion_correcta": [
+            "gusta"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque (suban/suben) los impuestos, no creo que la economía mejore.",
+          "solucion_correcta": [
+            "suban"
+          ]
+        },
+        {
+          "texto_enunciado": "Por mucho que (dices/digas), a mí no me convences.",
+          "solucion_correcta": [
+            "digas"
+          ]
+        },
+        {
+          "texto_enunciado": "A pesar de lo que (leas/lees), no te creas nada.",
+          "solucion_correcta": [
+            "leas"
+          ]
+        },
+        {
+          "texto_enunciado": "Aun cuando (salieran/salen) de noche, no llegarían al barco a tiempo.",
+          "solucion_correcta": [
+            "salieran"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "99.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Por más dinero que se (gastar) _____, Elena no consigue ir bien vestida.",
+          "solucion_correcta": [
+            "gasta"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque la reunión (durar) _____ cerca de cinco horas, no lograron llegar a un acuerdo.",
+          "solucion_correcta": [
+            "duró"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. Silvia no te habría perdonado aun cuando (pedírselo) _____ de rodillas.",
+          "solucion_correcta": [
+            "se lo hubieras pedido"
+          ]
+        },
+        {
+          "texto_enunciado": "Era imposible. Por más que le (yo, decir) _____ que tuviera cuidado, no me hizo caso.",
+          "solucion_correcta": [
+            "dije/dijera"
+          ]
+        },
+        {
+          "texto_enunciado": "Conchi está en Málaga, pero aunque (ella, estar) _____ aquí, no nos llamaría.",
+          "solucion_correcta": [
+            "estuviera"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo creo que por mucho que (nosotros, andar) _____, no hemos andado más de cinco kilómetros.",
+          "solucion_correcta": [
+            "hayamos andado"
+          ]
+        },
+        {
+          "texto_enunciado": "La tienda está cerrada y por más que (llamar) _____ no te van a abrir.",
+          "solucion_correcta": [
+            "llames"
+          ]
+        },
+        {
+          "texto_enunciado": "Pese a que Raúl te (decir) _____ que no, creo que quería ayudarte.",
+          "solucion_correcta": [
+            "dijo"
+          ]
+        },
+        {
+          "texto_enunciado": "A pesar de que (yo, no ver) _____ ese programa, lo detestaba.",
+          "solucion_correcta": [
+            "no había visto"
+          ]
+        },
+        {
+          "texto_enunciado": "Por mucho que (tú, disfrazarse) _____ te reconocerán.",
+          "solucion_correcta": [
+            "te disfraces"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "99.3",
+      "tipologia": "T3",
+      "enunciado": "Complete los diálogos.",
+      "items": [
+        {
+          "texto_enunciado": "-Alonso hace mucho ejercicio. -Sí, pero por más _____ no consigue adelgazar.",
+          "solucion_correcta": [
+            "ejercicio que hace"
+          ]
+        },
+        {
+          "texto_enunciado": "-Creo que Luisa fue directora. -Es igual. Aunque _____ tiene una pensión muy baja.",
+          "solucion_correcta": [
+            "fuera directora"
+          ]
+        },
+        {
+          "texto_enunciado": "-Teníamos que haber llegado antes. Hemos perdido el ferry por llegar a las ocho. -Aunque _____ lo habríamos perdido. Sale a las siete.",
+          "solucion_correcta": [
+            "hubiéramos/hubiésemos llegado antes"
+          ]
+        },
+        {
+          "texto_enunciado": "-Se esfuerza por contentar a sus padres. -Sí, pero por más que _____, no lo consigue.",
+          "solucion_correcta": [
+            "que se esfuerza"
+          ]
+        },
+        {
+          "texto_enunciado": "-No nos gusta el nuevo horario. -Bueno, pues aunque no os _____, no lo voy a cambiar.",
+          "solucion_correcta": [
+            "guste"
+          ]
+        },
+        {
+          "texto_enunciado": "-Haiko está siempre practicando español. -Sí, pero a pesar de lo que _____, la pronunciación le cuesta.",
+          "solucion_correcta": [
+            "practica"
+          ]
+        },
+        {
+          "texto_enunciado": "Antes comía mucha fruta, pero por más que _____, no adelgazaba.",
+          "solucion_correcta": [
+            "comía"
+          ]
+        },
+        {
+          "texto_enunciado": "Pese a que (hacer) _____ mucho calor esta noche, hemos dormido bastante bien.",
+          "solucion_correcta": [
+            "ha hecho"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "99.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases comenzando con las palabras dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Tuvo una enfermedad, pero logró sacar adelante a su familia.\nPese a _____.",
+          "solucion_correcta": [
+            "la enfermedad, logró sacar adelante a su familia"
+          ]
+        },
+        {
+          "texto_enunciado": "No ha trabajado nunca, pero ha vivido siempre muy bien.\nA pesar de _____.",
+          "solucion_correcta": [
+            "no haber trabajado nunca, ha vivido siempre muy bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace frío, pero tengo que ir a la compra.\nA pesar de _____.",
+          "solucion_correcta": [
+            "del frío /hacer frío, tengo que ir a la compra"
+          ]
+        },
+        {
+          "texto_enunciado": "Tiene la oficina muy cerca de su casa, pero coge siempre el coche.\nPese a _____.",
+          "solucion_correcta": [
+            "tener la oficina cerca de casa, coge siempre el coche"
+          ]
+        },
+        {
+          "texto_enunciado": "Ha habido muchos cambios, pero la empresa sigue mal.\nA pesar de _____.",
+          "solucion_correcta": [
+            "los cambios, la empresa sigue mal"
+          ]
+        },
+        {
+          "texto_enunciado": "Hubo mucho viento, pero no hubo incidentes de importancia.\nPese a _____.",
+          "solucion_correcta": [
+            "al viento, no hubo incidentes de importancia"
+          ]
+        },
+        {
+          "texto_enunciado": "Había una cola enorme, pero conseguimos sacar las entradas.\nA pesar de _____.",
+          "solucion_correcta": [
+            "haber una cola enorme, conseguimos sacar las entradas"
+          ]
+        }
+      ]
+    }
+  ]
+}

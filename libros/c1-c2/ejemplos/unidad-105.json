@@ -1,0 +1,269 @@
+{
+  "tema": "unidad-105",
+  "titulo": "Me han preguntado en qué países he trabajado. Me gustaría saber cómo se hace.",
+  "descripcion_gramatical": "Estilo indirecto (2)",
+  "fuente": "libro",
+  "unidad_libro": 105,
+  "ejercicios": [
+    {
+      "subejercicio": "105.1",
+      "tipologia": "T2",
+      "enunciado": "Coméntele a un amigo las preguntas de esta encuesta.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Qué preguntan en la encuesta? -En la encuesta preguntan (1) _____, (2) _____, (3) _____, (4) _____, (5) _____, (6) _____, (7) _____ y (8) _____.",
+          "solucion_correcta": [
+            "si fumas",
+            "si bebes vino o cerveza",
+            "si bebes otras bebidas alcohólicas",
+            "si haces ejercicio regularmente",
+            "cuántas horas duermes al día",
+            "cómo vas al trabajo",
+            "dónde comes a mediodía",
+            "si comes fruta regularmente"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Encuesta:",
+          "1. ¿Fuma usted?",
+          "2. ¿Bebe vino o cerveza?",
+          "3. ¿Bebe otras bebidas alcohólicas (whisky, ginebra...)?",
+          "4. ¿Hace usted ejercicio regularmente?",
+          "5. ¿Cuántas horas duerme al día?",
+          "6. ¿Cómo va al trabajo?",
+          "7. ¿Dónde come a mediodía?",
+          "8. ¿Come fruta regularmente?"
+        ]
+      }
+    },
+    {
+      "subejercicio": "105.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Me gustaría saber quién te (contar) _____ lo de Julia.",
+          "solucion_correcta": [
+            "ha contado"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer recibí un mensaje de Adela. Quería saber si (yo, ir) _____ a ir a Alicante el domingo.",
+          "solucion_correcta": [
+            "voy / iba"
+          ]
+        },
+        {
+          "texto_enunciado": "Me llaman mucho para preguntarme si (yo, querer) _____ cambiar de compañía telefónica.",
+          "solucion_correcta": [
+            "quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "En el juicio me preguntaron quién (firmar) _____ el documento.",
+          "solucion_correcta": [
+            "firmó / había firmado"
+          ]
+        },
+        {
+          "texto_enunciado": "En la empresa están interesados en saber cuándo (yo, ir) _____ a coger las vacaciones este año.",
+          "solucion_correcta": [
+            "voy"
+          ]
+        },
+        {
+          "texto_enunciado": "Como vi que estaban cansados, les pregunté qué (ellos, hacer) _____.",
+          "solucion_correcta": [
+            "habían hecho / habían estado haciendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Alfonso, me gustaría saber cuándo me (tú, ir) _____ a devolver el dinero que me debes.",
+          "solucion_correcta": [
+            "vas"
+          ]
+        },
+        {
+          "texto_enunciado": "Me ha llamado Luisa para preguntarme si (ella, deber) _____ perdonar a Jorge.",
+          "solucion_correcta": [
+            "debe / debería"
+          ]
+        },
+        {
+          "texto_enunciado": "Emilia es muy cotilla. Siempre quiere saber qué (yo, hacer) _____.",
+          "solucion_correcta": [
+            "hago"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo curiosidad por saber cuándo (abrir) _____ el nuevo museo.",
+          "solucion_correcta": [
+            "abrirá"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría saber qué te (decir) _____ Roberto anoche.",
+          "solucion_correcta": [
+            "dijo"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta mañana el jefe de Personal me ha preguntado si me (gustar) _____ mi nuevo puesto.",
+          "solucion_correcta": [
+            "gusta"
+          ]
+        },
+        {
+          "texto_enunciado": "Si ves a Arturo, pregúntale cuándo (casarse) _____ sus padres. Tengo curiosidad.",
+          "solucion_correcta": [
+            "se casaron"
+          ]
+        },
+        {
+          "texto_enunciado": "Me pregunto qué (hacer) _____ Jorge en casa de Lola. No son muy amigos.",
+          "solucion_correcta": [
+            "hará"
+          ]
+        },
+        {
+          "texto_enunciado": "Le preguntaron al Presidente si (él, ir) _____ a subir los impuestos. Dijo que sí, pero que no sabía cuándo lo (hacer) _____.",
+          "solucion_correcta": [
+            "iba",
+            "haría"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "105.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Esta mañana le he preguntado a Inés (Félix, llamarla anoche) _____.",
+          "solucion_correcta": [
+            "si Félix la había llamado anoche"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría saber (cuántas horas, tú, perder viendo la televisión) _____.",
+          "solucion_correcta": [
+            "cuántas horas pierdes viendo la televisión"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer me preguntaron (yo, querer) _____ suscribirme a una revista nueva.",
+          "solucion_correcta": [
+            "si quería"
+          ]
+        },
+        {
+          "texto_enunciado": "La policía le preguntó (cuánto, valer las joyas robadas) _____.",
+          "solucion_correcta": [
+            "cuánto valían las joyas robadas"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi abuela siempre me pregunta (cuándo, yo, casarse) _____.",
+          "solucion_correcta": [
+            "cuándo voy a casarme"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría saber (cómo, decirse \"sopa\" en japonés) _____.",
+          "solucion_correcta": [
+            "cómo se dice \"sopa\" en japonés"
+          ]
+        },
+        {
+          "texto_enunciado": "Recuerdo que hace un año el director me preguntó (yo, acabar la carrera ya) _____.",
+          "solucion_correcta": [
+            "si había acabado la carrera ya"
+          ]
+        },
+        {
+          "texto_enunciado": "Me pregunto (de dónde, esa chica, ser) _____. No parece española.",
+          "solucion_correcta": [
+            "de dónde es / será esa chica"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría saber (con quién, Ana, vivir) _____ cuando estaba en California.",
+          "solucion_correcta": [
+            "con quién vivía Ana"
+          ]
+        },
+        {
+          "texto_enunciado": "Al llegar a la aduana nos preguntaron (nosotros, tener algo que declarar) _____.",
+          "solucion_correcta": [
+            "si teníamos algo que declarar"
+          ]
+        },
+        {
+          "texto_enunciado": "En el examen me preguntaron (cuántos habitantes, Egipto, tener) _____.",
+          "solucion_correcta": [
+            "cuántos habitantes tiene / tenía Egipto"
+          ]
+        },
+        {
+          "texto_enunciado": "Esos turistas quieren saber (cómo, ellos, poder ir a Burgos) _____.",
+          "solucion_correcta": [
+            "cómo pueden ir a Burgos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te han preguntado (tú, querer hacer horas extras) _____?",
+          "solucion_correcta": [
+            "si quieres hacer horas extras"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Para qué quieren saber en (qué países, yo, estar) _____?",
+          "solucion_correcta": [
+            "qué países he estado"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesitamos saber (vosotros, ya, recibir el programa de este año) _____.",
+          "solucion_correcta": [
+            "si ya habéis recibido el programa de este año"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué te preguntaron en el concurso? -(cómo, San Petersburgo, llamarse, en 1960) _____ y (dónde, Dickens, estar enterrado) _____.",
+          "solucion_correcta": [
+            "que cómo se llamaba San Petersburgo en 1960 y dónde estaba enterrado Dickens"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "Cuando veas a Rafael, pregúntale (cuándo, las clases de griego, empezar) _____.",
+          "solucion_correcta": [
+            "cuándo empiezan las clases de griego"
+          ]
+        },
+        {
+          "texto_enunciado": "La semana pasada me llamó Antón y me preguntó (yo, pensar presentarse a alcalde) _____. Le dije que no.",
+          "solucion_correcta": [
+            "si pensaba presentarme a alcalde"
+          ]
+        },
+        {
+          "texto_enunciado": "A mí nunca me han preguntado (yo, estar a gusto en la nueva casa) _____.",
+          "solucion_correcta": [
+            "si estaba a gusto en la nueva casa"
+          ]
+        },
+        {
+          "texto_enunciado": "Una vez le pregunté a Marcos (dónde, él, gustar vivir) _____ y me dijo que en Nueva York, pero que su familia no quiso irse de Granada.",
+          "solucion_correcta": [
+            "dónde le hubiera gustado vivir"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "tema": "unidad-7",
+  "titulo": "este..., ese..., aquel...",
+  "descripcion_gramatical": "Demostrativos (1)",
+  "fuente": "libro",
+  "unidad_libro": 7,
+  "ejercicios": [
+    {
+      "subejercicio": "7.1",
+      "tipologia": "T2",
+      "enunciado": "Complete con *este...*, *ese...* o *aquel...*",
+      "items": [
+        {
+          "texto_enunciado": "_____ cine es magnífico.",
+          "solucion_correcta": [
+            "Este"
+          ]
+        },
+        {
+          "texto_enunciado": "En _____ teatro vi mi primera obra",
+          "solucion_correcta": [
+            "ese"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo una herida en _____ dedo.",
+          "solucion_correcta": [
+            "este"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Ves _____ montañas? Ahí tenemos que llegar.",
+          "solucion_correcta": [
+            "aquellas/esas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ casa es demasiado grande para nosotros.",
+          "solucion_correcta": [
+            "Esta"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "1. Dos personas sentadas dentro de una sala de cine viendo la pantalla.",
+          "2. Dos personas en la acera señalando un edificio de teatro al otro lado de la calle.",
+          "3. Un niño mostrándole un dedo herido de su propia mano a una niña.",
+          "4. Dos excursionistas mirando a lo lejos unas montañas en el horizonte.",
+          "5. Una pareja dentro de una casa desocupada y visiblemente espaciosa."
+        ]
+      }
+    },
+    {
+      "subejercicio": "7.2",
+      "tipologia": "T9",
+      "enunciado": "Ponga las palabras entre paréntesis en la forma y el orden adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "¿Ves (ese, coche, negro, el) _____? (Ese) _____ es el mío.",
+          "solucion_correcta": [
+            "¿Ves el coche negro ese? Ese es el mío"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "-¿Ves (esa, barca) _____? -¿Cuáles? ¿(esa, azul) _____?",
+          "solucion_correcta": [
+            "¿Ves esas barcas? ¿Cuáles? ¿Esas azules?"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "¿Es tuya (verde, chaqueta, esta, la) _____? Sí. (verde, esa) _____ es la mía.",
+          "solucion_correcta": [
+            "¿Es tuya la chaqueta verde esta? Sí. Esa verde es la mía"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "No he podido encontrar (película, esa, la) _____ de la que te hablé.",
+          "solucion_correcta": [
+            "No he podido encontrar la película esa de la que te hablé"
+          ]
+        },
+        {
+          "texto_enunciado": "(maceta, la, esta) _____ huelen muy bien. ¿Por qué no me regalas (esa) _____ dos?",
+          "solucion_correcta": [
+            "Las macetas estas huelen muy bien. ¿Por qué no me regalas esas dos?"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "¡Cuidado! (losa, esta) _____ están levantadas. Puedes resbalar con (esta) _____ lluvia.",
+          "solucion_correcta": [
+            "¡Cuidado! Estas losas están levantadas. Puedes resbalar con esta lluvia"
+          ],
+          "respuesta_frase_completa": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "7.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con *este*, *esta*, *ese*, *esa* o *aquel*, *aquella*.",
+      "items": [
+        {
+          "texto_enunciado": "-Lola, te estoy esperando. -Ya voy. En _____ momento estoy saliendo de casa.",
+          "solucion_correcta": [
+            "este"
+          ]
+        },
+        {
+          "texto_enunciado": "Recuerdo _____ verano. Fue terrible. Incendios por todas partes.",
+          "solucion_correcta": [
+            "aquel"
+          ]
+        },
+        {
+          "texto_enunciado": "En _____ momento no tenemos mucho trabajo.",
+          "solucion_correcta": [
+            "este"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ domingo vamos a ir a la costa. ¿Te vienes?",
+          "solucion_correcta": [
+            "Este"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te acuerdas cuando nació Javi? _____ primavera llovió muchísimo.",
+          "solucion_correcta": [
+            "Esa"
+          ]
+        },
+        {
+          "texto_enunciado": "Llegué tarde y en _____ preciso momento sonó el teléfono.",
+          "solucion_correcta": [
+            "aquel"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué haces _____ tarde? -Nada.",
+          "solucion_correcta": [
+            "esta"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "7.4",
+      "tipologia": "T3",
+      "enunciado": "Complete con *este...*, *ese...* o *aquel...*",
+      "items": [
+        {
+          "texto_enunciado": "Conozco Pekín y Shangai. De _____ me gusta la parte moderna y de _____ la parte tradicional.",
+          "solucion_correcta": [
+            "esta",
+            "aquella"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién es _____ novelista que le recomendaste a Raquel?",
+          "solucion_correcta": [
+            "ese"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento. Lo hiciste mal. No se pueden hacer las cosas de _____ manera.",
+          "solucion_correcta": [
+            "esa"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos recibió con _____ palabras: \"Bienvenidos a mi humilde hogar.\"",
+          "solucion_correcta": [
+            "estas"
+          ]
+        },
+        {
+          "texto_enunciado": "He hablado con Armando y Julio. _____ dice que no quiere saber nada de _____.",
+          "solucion_correcta": [
+            "Este/Aquel",
+            "aquel/este"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento, pero no me acuerdo de _____ película de que me hablas.",
+          "solucion_correcta": [
+            "esa"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te acuerdas de _____ mujer que conocimos en Tánger? Está muy enferma.",
+          "solucion_correcta": [
+            "aquella"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "7.5",
+      "tipologia": "T3",
+      "enunciado": "Complete con *esto*, *eso* y *aquello*.",
+      "items": [
+        {
+          "texto_enunciado": "Toma. Pon _____ en la mesa.",
+          "solucion_correcta": [
+            "esto"
+          ]
+        },
+        {
+          "texto_enunciado": "Y una vez dicho _____, creo que podemos pasar a otro tema.",
+          "solucion_correcta": [
+            "esto"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya te avisé. _____ es lo que ocurre cuando no se tiene cuidado.",
+          "solucion_correcta": [
+            "Eso"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento, pero _____ es todo el dinero que tengo.",
+          "solucion_correcta": [
+            "esto"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué es _____ que hay en la cima? -Parece una bandera.",
+          "solucion_correcta": [
+            "aquello"
+          ]
+        },
+        {
+          "texto_enunciado": "-Tienes que ayudar. -No sé por qué dices _____. Yo ayudo.",
+          "solucion_correcta": [
+            "eso"
+          ]
+        },
+        {
+          "texto_enunciado": "Paseamos, nos damos un baño, dormimos. _____ es lo que hacemos cuando estamos de vacaciones.",
+          "solucion_correcta": [
+            "Eso"
+          ]
+        },
+        {
+          "texto_enunciado": "-La familia de Jorge no tiene dinero. -¿Y crees que _____ importa?",
+          "solucion_correcta": [
+            "eso"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "tema": "unidad-73",
+  "titulo": "Merecieron ganar. Mereces que te dé...",
+  "descripcion_gramatical": "Verbos seguidos de infinitivo o subjuntivo",
+  "fuente": "libro",
+  "unidad_libro": 73,
+  "ejercicios": [
+    {
+      "subejercicio": "73.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Conseguí (aceptarme/que me aceptaran) en la universidad.",
+          "solucion_correcta": [
+            "que me aceptaran"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que merecerías (aprobar/que aprobaras).",
+          "solucion_correcta": [
+            "aprobar"
+          ]
+        },
+        {
+          "texto_enunciado": "Susana no quería (ver/que viera) a Pablo y evitó (encontrarse/que se encontrara) con él.",
+          "solucion_correcta": [
+            "ver",
+            "encontrarse"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han pedido (hacer/que haga) un curso en Dirección de Empresas.",
+          "solucion_correcta": [
+            "que haga"
+          ]
+        },
+        {
+          "texto_enunciado": "Prefiero (quedarme/que me quede) a acabar el proyecto.",
+          "solucion_correcta": [
+            "quedarme"
+          ]
+        },
+        {
+          "texto_enunciado": "Siento (llegar/que llegue) tarde, pero el metro estaba averiado.",
+          "solucion_correcta": [
+            "llegar"
+          ]
+        },
+        {
+          "texto_enunciado": "¿No pretenderás (engañarme/que me engañes)? Te conozco muy bien.",
+          "solucion_correcta": [
+            "engañarme"
+          ]
+        },
+        {
+          "texto_enunciado": "He logrado (alquilarme/que me alquilen) una plaza de garaje.",
+          "solucion_correcta": [
+            "que me alquilen"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunos siempre buscan (salir/que salgan) en los medios.",
+          "solucion_correcta": [
+            "salir"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis padres han pensado (estudiar/que estudie) una ingeniería, aunque no se me dan bien las matemáticas.",
+          "solucion_correcta": [
+            "que estudie"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "73.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con los verbos entre paréntesis con las dos posibilidades.",
+      "items": [
+        {
+          "texto_enunciado": "El profesor no nos deja (usar) _____ el móvil en clase.",
+          "solucion_correcta": [
+            "usar / que usemos"
+          ]
+        },
+        {
+          "texto_enunciado": "El médico me ha aconsejado (vacunarse) _____ contra la gripe.",
+          "solucion_correcta": [
+            "vacunarme / que me vacune"
+          ]
+        },
+        {
+          "texto_enunciado": "Es un profesor muy serio. Siempre está mandándonos (callar) _____.",
+          "solucion_correcta": [
+            "callar / que nos callemos"
+          ]
+        },
+        {
+          "texto_enunciado": "No me vas a impedir (hablar) _____ con Rosario.",
+          "solucion_correcta": [
+            "hablar / que hable"
+          ]
+        },
+        {
+          "texto_enunciado": "El jefe nos exige (hacer) _____ todo perfecto.",
+          "solucion_correcta": [
+            "hacer / que hagamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Un amigo me ha recomendado (leer) _____ esa novela.",
+          "solucion_correcta": [
+            "leer / que lea"
+          ]
+        },
+        {
+          "texto_enunciado": "A mi padre le han prohibido (tomar) _____ sal.",
+          "solucion_correcta": [
+            "tomar / que tome"
+          ]
+        },
+        {
+          "texto_enunciado": "No te permito (hablarme) _____ de ese modo.",
+          "solucion_correcta": [
+            "hablarme / que me hables"
+          ]
+        },
+        {
+          "texto_enunciado": "Las películas de amor siempre me hacen (llorar) _____.",
+          "solucion_correcta": [
+            "llorar / que llore"
+          ]
+        },
+        {
+          "texto_enunciado": "Arturo nos invitó a (pasar) _____ una noche en su mansión.",
+          "solucion_correcta": [
+            "pasar / que pasáramos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "73.3",
+      "tipologia": "T4",
+      "enunciado": "Complete con los verbos entre paréntesis en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Prefiero (tú, enviar) _____ el paquete por correo.",
+          "solucion_correcta": [
+            "que me envíes"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quieres (yo, preparar) _____ algo para cenar?",
+          "solucion_correcta": [
+            "que prepare"
+          ]
+        },
+        {
+          "texto_enunciado": "Rocío tiene mucha cara. Pretendía (yo, ayudarla) _____ gratis.",
+          "solucion_correcta": [
+            "que la ayudara"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Dónde pensáis (vosotros, ir) _____ este verano? -A Río.",
+          "solucion_correcta": [
+            "ir"
+          ]
+        },
+        {
+          "texto_enunciado": "Sara es tremenda. Siempre consigue (yo, enfadarme) _____.",
+          "solucion_correcta": [
+            "que me enfade"
+          ]
+        },
+        {
+          "texto_enunciado": "Juanjo está desesperado. Ha solicitado (él, ingresar) _____ en el Ejército.",
+          "solucion_correcta": [
+            "ingresar"
+          ]
+        },
+        {
+          "texto_enunciado": "Lola, por favor, procura (tú, cerrar) _____ la puerta cuando salgas.",
+          "solucion_correcta": [
+            "cerrar"
+          ]
+        },
+        {
+          "texto_enunciado": "Raúl es un buen amigo. Logró (ellos, subirme) _____ el sueldo.",
+          "solucion_correcta": [
+            "que me subieran"
+          ]
+        },
+        {
+          "texto_enunciado": "Siento (vosotros, mojarse) _____, pero no sabía que iba a llover.",
+          "solucion_correcta": [
+            "que os mojarais"
+          ]
+        },
+        {
+          "texto_enunciado": "No quiero hacer esto yo sola. Temo (equivocarse) _____.",
+          "solucion_correcta": [
+            "equivocarme"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué tal en Portugal? Espero (vosotros, pasarlo) _____ bien.",
+          "solucion_correcta": [
+            "que lo pasarais / hayáis pasado"
+          ]
+        },
+        {
+          "texto_enunciado": "Sonia escribió a su madre y le pidió (ella, buscarnos) _____ hotel en Sevilla.",
+          "solucion_correcta": [
+            "que nos buscara"
+          ]
+        },
+        {
+          "texto_enunciado": "Esperaba (venir) _____ mis padres, pero no pudieron.",
+          "solucion_correcta": [
+            "que vinieran"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo no dejaría (nadie, asustarme) _____.",
+          "solucion_correcta": [
+            "que nadie me asustara"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos prohibieron (entrar) _____ el perro a la tienda.",
+          "solucion_correcta": [
+            "que entrara"
+          ]
+        }
+      ]
+    }
+  ]
+}

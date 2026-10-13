@@ -1,0 +1,191 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "6.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases usando *el*, *la*, *los*, *las*.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo mucho sueño. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sabes cuánto sueño tengo. No sabes _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este verano ha hecho mucho calor. ¡_____ este verano!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anoche teníamos mucho sueño. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "De pequeño pasé mucha hambre. ¡_____ de pequeño!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Bebimos mucho champán en la fiesta ¡_____ en la fiesta!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Juana dio un salto tremendo cuando nos vio. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos hemos gastado mucho dinero estas vacaciones ¡_____ estas vacaciones!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He pasado muchos sufrimientos en mi vida. ¡_____ en mi vida!",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.2",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir la frase subrayada con *la de*.",
+      "items": [
+        {
+          "texto_enunciado": "Alicia se compra mucha ropa. <u>Tiene muchísimos zapatos.</u> ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jorge es muy sociable. <u>Tiene muchos amigos.</u> ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Viajan mucho. <u>Jorge conoce muchos países.</u> ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Laila y Rosana eran muy inteligentes. <u>Laila hablaba muchos idiomas.</u> ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Roberto es muy buen vendedor. <u>Ha vendido muchísimos coches.</u> ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alicia no ha tenido una vida fácil. <u>Ha pasado muchas calamidades.</u> ¡_____!",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *lo* y la información dada.",
+      "items": [
+        {
+          "texto_enunciado": "Manuela es muy inteligente. No sabes _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los Aguirre son muy raros. No te imaginas _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Arturo está muy feliz con su nuevo trabajo. ¡_____ con su nuevo trabajo!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pedro cocina muy bien. ¿Has visto _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este chico es muy aburrido. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aurora canta muy mal. ¿Has oído _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Paula está muy contenta con su niño. ¿Habéis visto _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta cama es muy estrecha. ¡_____!",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *lo que* y la información dada.",
+      "items": [
+        {
+          "texto_enunciado": "Aquí llueve demasiado. ¡_____ aquí!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Carlos nos quiere mucho. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En esta empresa se trabaja mucho. No sabéis _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucio ronca mucho. ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me reí mucho con los chistes de Tomás. ¡_____ con los chistes de Tomás!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta noche he dormido mucho. ¡_____ esta noche!",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "6.5",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Ordene las palabras para formar frases.",
+      "items": [
+        {
+          "texto_enunciado": "Martín/fuma/que/lo ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "de pequeño/lo/dormía/que ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alberto/que/monedas/tiene/de/la ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "hoy/he dormido/bien/que/lo ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "que/tenía/anoche/dolor/Cecilia/el ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Felipe/raras/dice/cosas/la/de/que ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "de/la/que/sé/historias ¡_____!",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 6,
+  "titulo_libro": "¡El frío que hacía! ¡Lo mal que conduce! -- El artículo definido y lo con valor intensificador",
+  "scan": "p-020.jpg"
+}

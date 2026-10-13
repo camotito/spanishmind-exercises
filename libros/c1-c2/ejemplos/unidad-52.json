@@ -1,0 +1,247 @@
+{
+  "tema": "unidad-52",
+  "titulo": "Haz eso y verás.",
+  "descripcion_gramatical": "Imperativo (1)",
+  "fuente": "libro",
+  "unidad_libro": 52,
+  "ejercicios": [
+    {
+      "subejercicio": "52.1",
+      "tipologia": "T12",
+      "enunciado": "Escriba las sugerencias, consejos, etc.",
+      "items": [
+        {
+          "texto_enunciado": "Sugerencia suya a unos amigos en un restaurante: dejar propina _____",
+          "solucion_correcta": [
+            "Dejad propina"
+          ]
+        },
+        {
+          "texto_enunciado": "Instrucciones de una empleada a unos pasajeros en un aeropuerto: embarcar por la puerta 3A _____",
+          "solucion_correcta": [
+            "Embarquen por la puerta 3A"
+          ]
+        },
+        {
+          "texto_enunciado": "Consejo suyo a un amigo: no tomar tantas aspirinas _____",
+          "solucion_correcta": [
+            "No tomes tantas aspirinas"
+          ]
+        },
+        {
+          "texto_enunciado": "Orden de los bomberos a los vecinos de una casa en llamas: desalojar el edificio _____",
+          "solucion_correcta": [
+            "Desalojen el edificio"
+          ]
+        },
+        {
+          "texto_enunciado": "Instrucciones de un dependiente a un cliente en una tienda: pagar en la caja _____",
+          "solucion_correcta": [
+            "Pague en la caja"
+          ]
+        },
+        {
+          "texto_enunciado": "Advertencia de un médico a un paciente: no comer alimentos con grasas _____",
+          "solucion_correcta": [
+            "No coma alimentos con grasas"
+          ]
+        },
+        {
+          "texto_enunciado": "Sugerencia suya a un amigo en un restaurante: pedirle la carta al camarero _____",
+          "solucion_correcta": [
+            "Píde(le) la carta al camarero"
+          ]
+        },
+        {
+          "texto_enunciado": "Sugerencia de una chica a su compañera de piso: moler el café _____",
+          "solucion_correcta": [
+            "Muele el café"
+          ]
+        },
+        {
+          "texto_enunciado": "Instrucciones de un profesor a sus alumnos en un examen: leer las instrucciones con cuidado _____",
+          "solucion_correcta": [
+            "Leed/Lean las instrucciones con cuidado"
+          ]
+        },
+        {
+          "texto_enunciado": "Consejo de un médico a un paciente: descansar después de comer _____",
+          "solucion_correcta": [
+            "Descanse después de comer"
+          ]
+        },
+        {
+          "texto_enunciado": "Invitación suya a unos amigos: venir a cenar el sábado _____",
+          "solucion_correcta": [
+            "Venid a cenar el sábado"
+          ]
+        },
+        {
+          "texto_enunciado": "Consejo a un amigo: no preocuparse _____",
+          "solucion_correcta": [
+            "No te preocupes"
+          ]
+        },
+        {
+          "texto_enunciado": "Petición a un amigo: explicarle cómo se graba un DVD _____",
+          "solucion_correcta": [
+            "Explícame cómo se graba un DVD"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "52.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases dando o negando permiso o prohibiendo.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Puedo llamar por teléfono? -Sí, por supuesto, _____.",
+          "solucion_correcta": [
+            "llama, llama"
+          ]
+        },
+        {
+          "texto_enunciado": "(Usar) _____ mi portátil, si quieres. Ahora no lo necesito.",
+          "solucion_correcta": [
+            "Usa"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Se puede parar aquí? -No, (seguir) _____, que te van a poner una multa.",
+          "solucion_correcta": [
+            "sigue, sigue"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Puedo coger tu bici? -No, no _____ la bici. La necesito.",
+          "solucion_correcta": [
+            "cojas"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Puedo irme? -No, no _____ todavía, Leila. No has recogido tu habitación.",
+          "solucion_correcta": [
+            "no te vayas"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Podemos cerrar la ventana? -No, no _____ la ventana del todo, chicos. Hace mucho calor aquí dentro.",
+          "solucion_correcta": [
+            "cerréis"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "52.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las siguientes condiciones usando el imperativo.",
+      "items": [
+        {
+          "texto_enunciado": "Si responde esta pregunta, ganará 500 euros. _____",
+          "solucion_correcta": [
+            "Responda esta pregunta y ganará 500 euros"
+          ]
+        },
+        {
+          "texto_enunciado": "Si no me ayudas, me enfado. _____",
+          "solucion_correcta": [
+            "Ayúdame o me enfado"
+          ]
+        },
+        {
+          "texto_enunciado": "Si no dices la verdad, me voy. _____",
+          "solucion_correcta": [
+            "Di la verdad o me voy"
+          ]
+        },
+        {
+          "texto_enunciado": "Si regresas tarde, se lo digo a mamá. _____",
+          "solucion_correcta": [
+            "Regresa tarde y se lo digo a mamá"
+          ]
+        },
+        {
+          "texto_enunciado": "Si no se dan prisa, perderán el vuelo. _____",
+          "solucion_correcta": [
+            "Dense prisa o perderán el vuelo"
+          ]
+        },
+        {
+          "texto_enunciado": "Si sigue por esta calle, verá el hospital a la derecha. _____",
+          "solucion_correcta": [
+            "Siga por esa calle y verá el hospital a la derecha"
+          ]
+        },
+        {
+          "texto_enunciado": "Si cogéis un taxi, llegaréis antes. _____",
+          "solucion_correcta": [
+            "Coged un taxi y llegaréis antes"
+          ]
+        },
+        {
+          "texto_enunciado": "Si te gastas todo el dinero, no podremos ir a la India. _____",
+          "solucion_correcta": [
+            "Gástate todo el dinero y no podremos ir a la India"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "52.4",
+      "tipologia": "T12",
+      "enunciado": "Escriba las instrucciones, peticiones etc. con *ya* o *no... todavía*.",
+      "items": [
+        {
+          "texto_enunciado": "A unos amigos: empezar a comer de inmediato _____",
+          "solucion_correcta": [
+            "Empezad a comer ya"
+          ]
+        },
+        {
+          "texto_enunciado": "A unos amigos: esperar a irse _____",
+          "solucion_correcta": [
+            "No os vayáis todavía"
+          ]
+        },
+        {
+          "texto_enunciado": "A unos alumnos: esperar a hacer el ejercicio _____",
+          "solucion_correcta": [
+            "No hagáis el ejercicio todavía"
+          ]
+        },
+        {
+          "texto_enunciado": "Un padre a su hijo: colgar de inmediato el teléfono _____",
+          "solucion_correcta": [
+            "Cuelga el teléfono ya"
+          ]
+        },
+        {
+          "texto_enunciado": "A unos amigos: esperar a aplaudir _____",
+          "solucion_correcta": [
+            "No aplaudáis todavía"
+          ]
+        },
+        {
+          "texto_enunciado": "A unas amigas: dejar de fumar _____. Está todo lleno de humo. Aquí no hay quien respire.",
+          "solucion_correcta": [
+            "Dejad de fumar ya"
+          ]
+        },
+        {
+          "texto_enunciado": "A unos amigos: esperar a salir _____. Está lloviendo a mares.",
+          "solucion_correcta": [
+            "No salgáis todavía"
+          ]
+        },
+        {
+          "texto_enunciado": "Un maître a los camareros: servir la cena inmediatamente _____",
+          "solucion_correcta": [
+            "Servid la cena ya"
+          ]
+        }
+      ]
+    }
+  ]
+}

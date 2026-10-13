@@ -1,0 +1,302 @@
+{
+  "tema": "unidad-22",
+  "titulo": "la mujer que, la chica con (lo) que",
+  "descripcion_gramatical": "Relativos (1)",
+  "fuente": "libro",
+  "unidad_libro": 22,
+  "ejercicios": [
+    {
+      "subejercicio": "22.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee el relativo correcto.",
+      "items": [
+        {
+          "texto_enunciado": "He hablado con la persona (que/quien) está encargada de la exposición.",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy va a venir el amigo (del que/de que) te he hablado tanto.",
+          "solucion_correcta": [
+            "del que"
+          ]
+        },
+        {
+          "texto_enunciado": "El hombre (con quien/con que) Elena vivía era un espía.",
+          "solucion_correcta": [
+            "con quien"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta es la pluma (con quien/con que) firmo los contratos. Me da suerte.",
+          "solucion_correcta": [
+            "con que"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa es la puerta (por que/por la que) salen los actores.",
+          "solucion_correcta": [
+            "por la que"
+          ]
+        },
+        {
+          "texto_enunciado": "(El que/Que) decides eres tú.",
+          "solucion_correcta": [
+            "El que"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquellos (que/los que) no lleven equipaje, pueden embarcar directamente.",
+          "solucion_correcta": [
+            "que"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuál es tu abrigo? -Uno (que/el que) tiene solapas rojas.",
+          "solucion_correcta": [
+            "que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con *que*, *el que*, *la que*, *los que*, *las que*, *quien* o *quienes*.",
+      "items": [
+        {
+          "texto_enunciado": "Hicimos parte del viaje con un coreano con _____ habíamos hecho amistad.",
+          "solucion_correcta": [
+            "el que / quien"
+          ]
+        },
+        {
+          "texto_enunciado": "Miguel nos quiere presentar a la chica con _____ sale.",
+          "solucion_correcta": [
+            "la que / quien"
+          ]
+        },
+        {
+          "texto_enunciado": "No olvidéis que _____ tiene el coche soy yo.",
+          "solucion_correcta": [
+            "el que / quien"
+          ]
+        },
+        {
+          "texto_enunciado": "No debo ser yo _____ haga eso.",
+          "solucion_correcta": [
+            "el que / quien"
+          ]
+        },
+        {
+          "texto_enunciado": "Por ahí va el vecino nuevo de _____ nos han hablado.",
+          "solucion_correcta": [
+            "el que / quien"
+          ]
+        },
+        {
+          "texto_enunciado": "Estos son los conciertos para _____ tengo entradas.",
+          "solucion_correcta": [
+            "los que"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo quiero unos amigos con _____ poder divertirme.",
+          "solucion_correcta": [
+            "los que / quienes"
+          ]
+        },
+        {
+          "texto_enunciado": "Se me ha roto la máquina con _____ me afeito.",
+          "solucion_correcta": [
+            "la que / que"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te han dicho la hora a _____ empieza la fiesta?",
+          "solucion_correcta": [
+            "la que"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta es la ranura en _____ tienes que insertar la tarjeta.",
+          "solucion_correcta": [
+            "la que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con los relativos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "_____ diga eso, se equivoca.",
+          "solucion_correcta": [
+            "Quien / El que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ quieran participar en la obra, tienen que venir el viernes a las seis.",
+          "solucion_correcta": [
+            "Quienes / Los que"
+          ]
+        },
+        {
+          "texto_enunciado": "Anímate Ángel. _____ tiene boca, se equivoca.",
+          "solucion_correcta": [
+            "El que / Quien"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ paga, descansa.",
+          "solucion_correcta": [
+            "El que / Quien"
+          ]
+        },
+        {
+          "texto_enunciado": "Venga, chicas. _____ acabéis, os podéis marchar.",
+          "solucion_correcta": [
+            "Las que"
+          ]
+        },
+        {
+          "texto_enunciado": "Escuchad, chicos. _____ griten no salen al recreo.",
+          "solucion_correcta": [
+            "Los que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ dicen eso, aciertan.",
+          "solucion_correcta": [
+            "Los que / Quienes"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuidado, Arturo. _____ la hace, la paga.",
+          "solucion_correcta": [
+            "Quien / El que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.4",
+      "tipologia": "T3",
+      "enunciado": "Complete con *el que*, *la que*, *los que*, *las que* o *lo que*.",
+      "items": [
+        {
+          "texto_enunciado": "Podemos hablar de _____ quieras.",
+          "solucion_correcta": [
+            "lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "Mira, ese es el artista en _____ estaba pensando para la nueva exposición.",
+          "solucion_correcta": [
+            "el que"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quiénes son _____ te han insultado?",
+          "solucion_correcta": [
+            "los que"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he arrepentido de _____ te hice.",
+          "solucion_correcta": [
+            "lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "Piensa en una cosa en _____ pienses mucho.",
+          "solucion_correcta": [
+            "la que"
+          ]
+        },
+        {
+          "texto_enunciado": "De _____ me asombro es de que seáis tan cabezotas.",
+          "solucion_correcta": [
+            "lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "-No me interesa la nota. -_____ te pasa es que tienes miedo de haber suspendido.",
+          "solucion_correcta": [
+            "Lo que"
+          ]
+        },
+        {
+          "texto_enunciado": "A ver, chicas, _____ estéis preparadas podéis ir empezando a entrenar.",
+          "solucion_correcta": [
+            "las que"
+          ]
+        },
+        {
+          "texto_enunciado": "-Tienes que ir al médico. -_____ yo necesito es descansar.",
+          "solucion_correcta": [
+            "Lo que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "22.5",
+      "tipologia": "T12",
+      "enunciado": "Complete los diálogos con las palabras entre paréntesis y *lo que*.",
+      "items": [
+        {
+          "texto_enunciado": "-Se te abre la boca. Tienes sueño. -No, no tengo sueño. (hambre) _____.",
+          "solucion_correcta": [
+            "Lo que tengo es hambre"
+          ]
+        },
+        {
+          "texto_enunciado": "-No te gusta trabajar. -Me gusta trabajar. (trabajar gratis) _____.",
+          "solucion_correcta": [
+            "Lo que no me gusta es trabajar gratis"
+          ]
+        },
+        {
+          "texto_enunciado": "-Tú quieres que haga el ejercicio. -No quiero que lo hagas. (decirme cómo se hace) _____.",
+          "solucion_correcta": [
+            "Lo que quiero es que me digas cómo se hace"
+          ]
+        },
+        {
+          "texto_enunciado": "-No te gustó que te despertáramos. -No me importó. (despertarme con tanto ruido) _____.",
+          "solucion_correcta": [
+            "Lo que no me gustó fue que me despertarais con tanto ruido"
+          ]
+        },
+        {
+          "texto_enunciado": "-No fuisteis al concierto. -Fuimos. (pasar / llegar tarde) _____.",
+          "solucion_correcta": [
+            "Lo que pasó es que llegamos tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿No te gusta la fruta? -Sí. (las verduras) _____.",
+          "solucion_correcta": [
+            "Lo que no me gustan son las verduras"
+          ]
+        },
+        {
+          "texto_enunciado": "-Te veo triste. -No estoy triste. (pasar / estar aburrido) _____.",
+          "solucion_correcta": [
+            "Lo que pasa es que estoy aburrido"
+          ]
+        },
+        {
+          "texto_enunciado": "-Me pediste que te dijera la verdad. -No. No te pedí eso. (no mentirme) _____.",
+          "solucion_correcta": [
+            "Lo que te pedí fue que no me mintieras"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "91.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con las palabras entre paréntesis en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Agustín come (de tal manera, parecer un salvaje) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunos poetas escriben (de una forma, hacer soñar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me miró (de tal modo, darme miedo) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sonia vestía (de tal manera, llamar la atención) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La soprano cantó (de tal modo, emocionar al público) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El viento soplaba (de tal forma, arrancar ramas de los árboles) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "91.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *tal* o *cada* y las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando Luis era pequeño hacía (cosa, ellos, pensar) _____ que no estaba bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Han armado (lío, ellos mismos, no saber) _____ cómo salir de él.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ramón se mete en (problema, nosotros, estar) _____ hartos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo (dolor en la pierna, yo, no poder) _____ andar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los niños de Elvira tienen (respuesta, ellos, parecer) _____ mayores.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Arturo hacía (dibujo, él, maravillar) _____ a su profesora.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ricardo tenía (ocurrencia, él, dejarnos) _____ boquiabiertos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Marisa tenía (genio, todos, huir) _____ de ella.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "91.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Llovía (tan/tanto) que me empapé.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había (tanto/tanta) niebla que no se veía nada a dos metros de distancia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yago iba (tan/tanto) deprisa que lo paró la policía.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alberto roncaba (tan/tanto) que nos despertaba a todos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Carmen sabía (tan/tanto) de arte que nos asombraba.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La película era (tan/tanto) larga que tuvimos que salirnos sin que acabara.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ascensión comía (tanto/tan) poco que nos extrañaba que no adelgazara.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anduvimos (tanto/tan) poco que llegamos con los pies hinchados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los árboles tenían (tanto/tanta) fruta que se rompían las ramas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tiene (tanto/tantos) amigos que está siempre ocupado.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "91.4",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con *tan*/*tanto* + *como*.",
+      "items": [
+        {
+          "texto_enunciado": "Armando gana mucho. Puede ayudaros sin problemas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rita sabe alemán. Puede ayudarte con la traducción. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rodrigo vale mucho. Pueden nombrarlo director. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rosa no bebió mucho. No pudo emborracharse. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ángel no es tan ineficaz. No pueden despedirlo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Vas a ser tonta? ¿Te vas a creer eso? _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "91.5",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Kaká no está tan bien como para (jugar) _____ en este partido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vino tanta gente a la conferencia que no (caber) _____ en la sala.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta mañana te ha llamado tanta gente que no (yo, recordar) _____ sus nombres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le gusta el marisco hasta tal punto que (él, estar) _____ dispuesto a pagar lo que sea.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es tan mala estudiante como para que la (ellos, suspender) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rubén no es tan bueno como para que lo (contratar) _____ un equipo de primera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Agustín se puso tan pesado que (irnos) _____ enseguida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es tan fuerte como para (poder) _____ levantar esa caja él solo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Comió tanto que (ponerse) _____ malo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No soy tan listo como para (saber) _____ qué estás pensando.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 91,
+  "titulo_libro": "de un modo que parece, tal enfado que no quiere -- Oraciones consecutivas (2)",
+  "scan": "p-189.jpg"
+}

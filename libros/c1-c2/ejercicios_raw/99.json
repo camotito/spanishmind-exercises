@@ -1,0 +1,179 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "99.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Por más que se (esfuerza/esfuerce), no consigue ser agradable.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aun cuando no te (gusta/guste) Joaquín, te tienes que llevar bien con él.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por más que (insiste/insista), su mujer no quiere que se vaya a Brasil.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé si Umberto trabajó mucho, pero por mucho que (trabajó/trabajara), no trabajó más que yo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque me (gustaría/guste) conocer Canadá, no me lo puedo permitir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pese a que no me (gusta/guste) el marisco, tuve que comerme las gambas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque (suban/suben) los impuestos, no creo que la economía mejore.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por mucho que (dices/digas), a mí no me convences.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A pesar de lo que (leas/lees), no te creas nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aun cuando (salieran/salen) de noche, no llegarían al barco a tiempo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "99.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Por más dinero que se (gastar) _____, Elena no consigue ir bien vestida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque la reunión (durar) _____ cerca de cinco horas, no lograron llegar a un acuerdo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes. Silvia no te habría perdonado aun cuando (pedírselo) _____ de rodillas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Era imposible. Por más que le (yo, decir) _____ que tuviera cuidado, no me hizo caso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Conchi está en Málaga, pero aunque (ella, estar) _____ aquí, no nos llamaría.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo creo que por mucho que (nosotros, andar) _____, no hemos andado más de cinco kilómetros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La tienda está cerrada y por más que (llamar) _____ no te van a abrir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pese a que Raúl te (decir) _____ que no, creo que quería ayudarte.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A pesar de que (yo, no ver) _____ ese programa, lo detestaba.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por mucho que (tú, disfrazarse) _____ te reconocerán.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "99.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos.",
+      "items": [
+        {
+          "texto_enunciado": "-Alonso hace mucho ejercicio. -Sí, pero por más _____ no consigue adelgazar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Creo que Luisa fue directora. -Es igual. Aunque _____ tiene una pensión muy baja.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Teníamos que haber llegado antes. Hemos perdido el ferry por llegar a las ocho. -Aunque _____ lo habríamos perdido. Sale a las siete.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Se esfuerza por contentar a sus padres. -Sí, pero por más que _____, no lo consigue.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No nos gusta el nuevo horario. -Bueno, pues aunque no os _____, no lo voy a cambiar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Haiko está siempre practicando español. -Sí, pero a pesar de lo que _____, la pronunciación le cuesta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes comía mucha fruta, pero por más que _____, no adelgazaba.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pese a que (hacer) _____ mucho calor esta noche, hemos dormido bastante bien.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "99.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases comenzando con las palabras dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Tuvo una enfermedad, pero logró sacar adelante a su familia.\nPese a _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No ha trabajado nunca, pero ha vivido siempre muy bien.\nA pesar de _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace frío, pero tengo que ir a la compra.\nA pesar de _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tiene la oficina muy cerca de su casa, pero coge siempre el coche.\nPese a _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ha habido muchos cambios, pero la empresa sigue mal.\nA pesar de _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hubo mucho viento, pero no hubo incidentes de importancia.\nPese a _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había una cola enorme, pero conseguimos sacar las entradas.\nA pesar de _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 99,
+  "titulo_libro": "aunque no están de acuerdo, a pesar del calor -- Oraciones concesivas (1)",
+  "scan": "p-205.jpg"
+}

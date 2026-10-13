@@ -1,0 +1,211 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "45.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "No se preocupe, no es nada. (recuperarse) _____ usted pronto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cuándo me vas a devolver lo que me debes? -No insistas. Ya te lo (devolver) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dicen que el domingo (llover) _____ en todo el país.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dentro de cincuenta años, todos los coches (ser) _____ eléctricos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes. (aprobar) _____ la oposición. La has preparado muy bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cuándo vas a preparar el examen de Estadística? -Ya lo (hacer) _____. Hay tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siéntese, por favor. El doctor le (recibir) _____ enseguida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes. El año que viene te (ir) _____ todo de maravilla. Te (ascender) _____ en la empresa y (tener) _____ una intensa vida social.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya nos (contar) _____ cómo te fue en Río.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Tienes que decirme cuándo vas a venir a ver la exposición. -Vale. Ya te (avisar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué tal fue la reunión? -Ya te (contar) _____ cuando tenga más tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tu horóscopo dice que la luna llena del martes te (aportar) _____ energía y te (ayudar) _____ a triunfar en los negocios.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En el futuro (nosotros, poder) _____ viajar por todo el mundo sin pasaporte.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya me (decir) _____ cuándo quieres que nos veamos.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "45.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las promesas siguientes, con el verbo en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Os prometo que os (preparar) _____ una cena cuando encuentre piso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Tienes que traerme algo de Japón. -Descuida. Te (traer) _____ algo típico.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Algunos accionistas quieren cerrar la empresa. -Ni hablar. No lo (permitir) _____ nunca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo prometo. (escribir) _____ más en el pupitre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si te gusta el cocido ya te (invitar) _____ un día a casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "De verdad le prometo que (venir) _____ cuanto antes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La próxima semana os (llevar) _____ al circo sin falta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo siento. (volver) _____ a hacerlo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(nosotros, tener) _____ más cuidado la próxima vez.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te juro que te (devolver) _____ el dinero en cuanto cobre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes, papá. El mes que viene (sacar) _____ mejores notas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te prometo que (usar) _____ tu ordenador nunca más.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "45.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las siguientes opiniones y suposiciones con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Quién va a dar el discurso? -Lo (dar) _____ el director. Le encanta dar discursos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya estás mejor, Arturo. Supongo que mañana (volver) _____ a la fábrica.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Crees que (haber) _____ entradas para el concierto? -Sí, todavía es pronto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cuándo vuelve Yago? -(volver) _____ para Navidad. Seguro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Quién crees que va a ganar el Mundial? -(ganar) _____ Brasil, como siempre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Me imagino que (tú, regresar) _____ pronto a Alemania. -Sí, dentro de una semana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Quién crees que (ganar) _____ las elecciones? -El gobierno, como casi siempre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Supongo que (tú, venir) _____ a la despedida de soltero de Ángel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Supongo que no (tú, querer) _____ que le diga nada a Silvia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy segura de que muy pronto (tú, encontrar) _____ un buen empleo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que Andrea no nos (molestar) _____ más.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "45.4",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las órdenes con el futuro simple.",
+      "items": [
+        {
+          "texto_enunciado": "(Un padre a su hijo: sacar al perro esta noche) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Un padre a sus hijos: hablar cuando se os pregunte) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Un profesor a alumnos castigados: quedarse en el centro hasta las ocho) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Un profesor a alumnos: hacer los ejercicios que mande) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Madre a niña que le duele una muela: ir al dentista esta misma tarde) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Madre a sus hijos: no jugar con la consola hasta acabar los deberes) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 45,
+  "titulo_libro": "Nevará en el Norte. -- Futuro simple (1)",
+  "scan": "p-097.jpg"
+}

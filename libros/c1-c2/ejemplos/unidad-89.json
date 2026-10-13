@@ -1,0 +1,234 @@
+{
+  "tema": "unidad-89",
+  "titulo": "gracias a vosotros, de tantos libros como tiene",
+  "descripcion_gramatical": "Oraciones causales (2)",
+  "fuente": "libro",
+  "unidad_libro": 89,
+  "ejercicios": [
+    {
+      "subejercicio": "89.1",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con el nexo dado. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Me han puesto una multa. Me he saltado un semáforo en rojo. (por) _____",
+          "solucion_correcta": [
+            "Me han puesto una multa por saltarme un semáforo en rojo"
+          ]
+        },
+        {
+          "texto_enunciado": "Llegamos tarde. La culpable fue María. (por culpa de) _____",
+          "solucion_correcta": [
+            "Llegamos tarde por culpa de María"
+          ]
+        },
+        {
+          "texto_enunciado": "Las carreteras estaban cortadas. Había inundaciones. (por) _____",
+          "solucion_correcta": [
+            "Las carreteras estaban cortadas por las inundaciones"
+          ]
+        },
+        {
+          "texto_enunciado": "Chocó contra un poste. Iba mirando hacia atrás. (por) _____",
+          "solucion_correcta": [
+            "Chocó con un poste por ir mirando hacia atrás"
+          ]
+        },
+        {
+          "texto_enunciado": "Eres tonto. Por eso te ha pasado eso. (por) _____",
+          "solucion_correcta": [
+            "Te ha pasado eso por tonto"
+          ]
+        },
+        {
+          "texto_enunciado": "Se fue la luz. Había una tormenta. (a causa de) _____",
+          "solucion_correcta": [
+            "Se fue la luz a causa de una tormenta"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos castigaron. La culpa fue vuestra. (por culpa de) _____",
+          "solucion_correcta": [
+            "Nos castigaron por culpa de vosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Ganamos. El responsable fue Andrés. (gracias a) _____",
+          "solucion_correcta": [
+            "Ganamos gracias a Andrés"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos quedamos sin vacaciones. No habíamos reservado hotel. (por) _____",
+          "solucion_correcta": [
+            "Nos quedamos sin vacaciones por no haber reservado hotel"
+          ]
+        },
+        {
+          "texto_enunciado": "Sé lo del divorcio de Lola. Ángel me lo dijo. (gracias a) _____",
+          "solucion_correcta": [
+            "Sé lo del divorcio de Lola gracias a Ángel"
+          ]
+        },
+        {
+          "texto_enunciado": "El coche derrapó. En la carretera había hielo. (por culpa de) _____",
+          "solucion_correcta": [
+            "El coche derrapó por culpa del hielo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me olvidé del móvil. Salimos muy deprisa. (por) _____",
+          "solucion_correcta": [
+            "Me olvidé del móvil por salir muy deprisa"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "89.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con *de + tanto/a/os/as*, *de + tan*, *de + tanto / tan poco*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No oíamos nada. Había mucho ruido. _____",
+          "solucion_correcta": [
+            "No oíamos nada de tanto ruido que/como había"
+          ]
+        },
+        {
+          "texto_enunciado": "Luisa está siempre cansada. Duerme muy poco. _____",
+          "solucion_correcta": [
+            "Luisa está siempre cansada de tan poco que/como duerme"
+          ]
+        },
+        {
+          "texto_enunciado": "Los niños estaban excitadísimos. Habían recibido muchos regalos. _____",
+          "solucion_correcta": [
+            "Los niños estaban excitadísimos de tantos regalos que/como habían recibido"
+          ]
+        },
+        {
+          "texto_enunciado": "Carla está siempre estresada. Tiene mucho trabajo. _____",
+          "solucion_correcta": [
+            "Carla está siempre estresada de tanto trabajo que/como tiene"
+          ]
+        },
+        {
+          "texto_enunciado": "Lee mucho. Se va a quedar sin vista. _____",
+          "solucion_correcta": [
+            "Se va a quedar sin vista de tanto que/como lee"
+          ]
+        },
+        {
+          "texto_enunciado": "El tráfico va mal. Hay muchos coches. _____",
+          "solucion_correcta": [
+            "El tráfico va mal de tantos coches que/como hay"
+          ]
+        },
+        {
+          "texto_enunciado": "Llevaba mucha ropa. Parecía gordo. _____",
+          "solucion_correcta": [
+            "Parecía gordo de tanta ropa que/como llevaba"
+          ]
+        },
+        {
+          "texto_enunciado": "No pudimos comer el jamón. Estaba muy salado. _____",
+          "solucion_correcta": [
+            "No pudimos comer el jamón de tan salado que/como estaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos quemamos la cara y los brazos. Hacía mucho sol. _____",
+          "solucion_correcta": [
+            "Nos quemamos la cara y los brazos de tanto sol que/como hacía"
+          ]
+        },
+        {
+          "texto_enunciado": "Había mucha niebla. No veíamos la carretera. _____",
+          "solucion_correcta": [
+            "No veíamos la carretera de tanta niebla que/como había"
+          ]
+        },
+        {
+          "texto_enunciado": "Rodrigo está fuerte. Levanta un sillón con una mano. _____",
+          "solucion_correcta": [
+            "Rodrigo levanta un sillón con una mano de tan fuerte que/como está"
+          ]
+        },
+        {
+          "texto_enunciado": "Hablé mucho en la reunión. Tenía una sed tremenda. _____",
+          "solucion_correcta": [
+            "Tenía una sed tremenda de tanto que/como hablé / había hablado en la reunión"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "89.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas usando el gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Como pensaba que le gustaba la música clásica</u>. _____ le compré un cedé de Mozart.",
+          "solucion_correcta": [
+            "Pensando que le gustaba la música clásica"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Como creía que Celia quería verme</u>. _____, fui a su casa.",
+          "solucion_correcta": [
+            "Creyendo que Celia quería verme"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Como sospechaba que me iban a despedir</u>. _____, me busqué otro trabajo.",
+          "solucion_correcta": [
+            "Sospechando que me iban a despedir"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Como estaba de baja</u>. _____, Pedro no se atrevía a salir a la calle.",
+          "solucion_correcta": [
+            "Estando de baja"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Como la veíamos tan triste</u>. _____, nos daban ganas de ayudar a Teresa.",
+          "solucion_correcta": [
+            "Viéndola tan triste"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Como Santi no estaba</u>. _____, nos fuimos enseguida.",
+          "solucion_correcta": [
+            "No estando Santi"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Como estaba distraído</u>. _____, no oí entrar a Tomás.",
+          "solucion_correcta": [
+            "Estando distraído"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Como había terminado de leer el periódico</u>. _____, me puse a hacer el crucigrama.",
+          "solucion_correcta": [
+            "Habiendo terminado de leer el periódico"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Como sabíamos que Álvaro estaba en cama</u>. _____, nos dejamos caer por su casa.",
+          "solucion_correcta": [
+            "Sabiendo que Álvaro estaba en cama"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Como recordé que no teníamos leche</u>. _____ compré un par de cartones en el súper.",
+          "solucion_correcta": [
+            "Recordando que no teníamos leche"
+          ]
+        }
+      ]
+    }
+  ]
+}

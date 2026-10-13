@@ -1,0 +1,226 @@
+{
+  "tema": "unidad-67",
+  "titulo": "Creo que han tenido. / No creo que hayan tenido.",
+  "descripcion_gramatical": "Verbos seguidos de indicativo o subjuntivo (3)",
+  "fuente": "libro",
+  "unidad_libro": 67,
+  "ejercicios": [
+    {
+      "subejercicio": "67.1",
+      "tipologia": "T4",
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis en pretérito perfecto de indicativo o pretérito perfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "–Tardan mucho. ¿Qué crees que (pasar) _____? –No sé. No creo que (tener) _____ un accidente.",
+          "solucion_correcta": [
+            "ha pasado",
+            "hayan tenido"
+          ]
+        },
+        {
+          "texto_enunciado": "–Esos hinchas del Atleti están muy contentos. ¿Crees que (ganar) _____? –No creo que (ganar) _____. Jugaban contra el Real Madrid.",
+          "solucion_correcta": [
+            "han ganado",
+            "hayan ganado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Quién ha fregado los platos? –Me parece que los (fregar) _____ Ana. –No creo que (ser) _____ Ana. Nunca los friega.",
+          "solucion_correcta": [
+            "ha fregado",
+            "haya sido"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Recuerdas quién (entrar) _____ aquí hoy? –Pues no recuerdo que (entrar) _____ nadie.",
+          "solucion_correcta": [
+            "ha entrado",
+            "haya entrado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Piensas que Martín nos (decir) _____ todo lo que sabe de Lola? –No, no pienso que nos (decir) _____ toda la verdad.",
+          "solucion_correcta": [
+            "ha dicho",
+            "haya dicho"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Por qué sospechas que alguien te (seguir) _____ hasta aquí? –No sé. Creo que un hombre (venir) _____ tras de mí todo el tiempo.",
+          "solucion_correcta": [
+            "ha seguido",
+            "ha venido"
+          ]
+        },
+        {
+          "texto_enunciado": "–Parece que Ana (sacar) _____ la oposición. –¡Increíble! No creo que (suspender) _____ nada en su vida.",
+          "solucion_correcta": [
+            "ha sacado",
+            "haya suspendido"
+          ]
+        },
+        {
+          "texto_enunciado": "–Se oyen muchas sirenas de ambulancia. Parece que (pasar) _____ algo. –No creo que (pasar) _____ nada extraordinario. Es siempre así.",
+          "solucion_correcta": [
+            "ha pasado",
+            "haya pasado"
+          ]
+        },
+        {
+          "texto_enunciado": "–No recuerdo que Manuel (pasar) _____ alguna noche en casa. –Puede que no lo recuerdes, pero estoy seguro de que (pasar) _____ más de una.",
+          "solucion_correcta": [
+            "haya pasado",
+            "ha pasado"
+          ]
+        },
+        {
+          "texto_enunciado": "–Me parece que (volver) _____ a subir el pollo. –Pues no creo que me (cobrar) _____ más esta mañana.",
+          "solucion_correcta": [
+            "ha vuelto",
+            "hayan cobrado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "67.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir la información entre paréntesis con la expresión de certeza o falsedad correspondiente. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "(Dicen que Alberto ha tenido boutiques, pero es falso.) _____",
+          "solucion_correcta": [
+            "Es falso que Alberto haya tenido boutiques"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que hoy ha hecho mucho calor, pero no es cierto.) _____",
+          "solucion_correcta": [
+            "No es cierto que hoy haya hecho mucho calor"
+          ]
+        },
+        {
+          "texto_enunciado": "(No hemos sabido educar a Julia. Está claro.) _____",
+          "solucion_correcta": [
+            "Está claro que no hemos sabido educar a Julia"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que este año ha sido malo, pero no está claro.) _____",
+          "solucion_correcta": [
+            "No está claro que este año haya sido malo"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que Jesús ha vivido en Nueva Zelanda, pero no es cierto.) _____",
+          "solucion_correcta": [
+            "No es cierto que Jesús haya vivido en Nueva Zelanda"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que los Gómez han alquilado un barco, pero es mentira.) _____",
+          "solucion_correcta": [
+            "Es mentira que los Gómez hayan alquilado un barco"
+          ]
+        },
+        {
+          "texto_enunciado": "(Se dice que Jiménez ha estado en la cárcel, pero no está muy claro.) _____",
+          "solucion_correcta": [
+            "No está muy claro que Jiménez haya estado en la cárcel"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que el precio del oro ha vuelto a subir. Es evidente.) _____",
+          "solucion_correcta": [
+            "Es evidente que el precio del oro ha vuelto a subir"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dice Ángel que ha visto un ovni, pero es falso.) _____",
+          "solucion_correcta": [
+            "Es falso que Ángel haya visto un ovni"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que el presidente ha presentado su dimisión, pero no es verdad.) _____",
+          "solucion_correcta": [
+            "No es verdad que el presidente haya presentado su dimisión"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "67.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en pretérito perfecto de indicativo o pretérito perfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "–El periódico dice que esta semana (haber) _____ pocos accidentes de tráfico. –Bueno, no dice exactamente que (haber) _____ pocos accidentes. Dice que (haber) _____ pocos muertos.",
+          "solucion_correcta": [
+            "ha habido",
+            "haya habido",
+            "ha habido"
+          ]
+        },
+        {
+          "texto_enunciado": "La televisión ha dicho que este año (ser) _____ muy malo económicamente.",
+          "solucion_correcta": [
+            "ha sido"
+          ]
+        },
+        {
+          "texto_enunciado": "El Gobierno niega que (suspender) _____ el acuerdo de pesca con Noruega.",
+          "solucion_correcta": [
+            "haya suspendido"
+          ]
+        },
+        {
+          "texto_enunciado": "Se comenta que la ministra (preparar) _____ ya el decreto para prohibir fumar en lugares públicos.",
+          "solucion_correcta": [
+            "ha preparado"
+          ]
+        },
+        {
+          "texto_enunciado": "Ella no dice que (terminar) _____ el máster de empresas, dice que no lo (terminar) _____ todavía, que le (faltar) _____ tiempo.",
+          "solucion_correcta": [
+            "haya terminado",
+            "ha terminado",
+            "ha faltado"
+          ]
+        },
+        {
+          "texto_enunciado": "Raquel afirma que le (ofrecer) _____ un puesto mejor en otra empresa.",
+          "solucion_correcta": [
+            "han ofrecido"
+          ]
+        },
+        {
+          "texto_enunciado": "Nadie nos ha dicho que Maite (estar) _____ en paro todo este tiempo. No nos han dicho que (pedir) _____ ayuda a nadie.",
+          "solucion_correcta": [
+            "haya estado",
+            "haya pedido"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos han dicho que la empresa (cerrar) _____, pero han negado que (ser) _____ por quiebra.",
+          "solucion_correcta": [
+            "ha cerrado",
+            "haya sido"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Y tú dices que esa empresa (tener) _____ pérdidas? ¿Desde cuándo?",
+          "solucion_correcta": [
+            "ha tenido"
+          ]
+        },
+        {
+          "texto_enunciado": "Elena afirma que el transporte (subir) _____ una barbaridad.",
+          "solucion_correcta": [
+            "ha subido"
+          ]
+        }
+      ]
+    }
+  ]
+}

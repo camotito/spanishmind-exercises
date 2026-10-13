@@ -1,0 +1,268 @@
+{
+  "tema": "unidad-63",
+  "titulo": "Quería que me ayudaras.",
+  "descripcion_gramatical": "Pretérito imperfecto de subjuntivo (2)",
+  "fuente": "libro",
+  "unidad_libro": 63,
+  "ejercicios": [
+    {
+      "subejercicio": "63.1",
+      "tipologia": "T4",
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Te gusta esta música? -No, preferiría que (tú, poner) _____ algo más relajado.",
+          "solucion_correcta": [
+            "pusieras/pusieses"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué quería Alicia? -Quería que (nosotros, ver) _____ sus últimas pinturas.",
+          "solucion_correcta": [
+            "viéramos/viésemos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué tal fue la conferencia? -Bien. No esperaba que (venir) _____ tanta gente.",
+          "solucion_correcta": [
+            "viniera/viniese"
+          ]
+        },
+        {
+          "texto_enunciado": "-Necesitaría que me (tú, hacer) _____ un favor, Roxana. -Preferiría que se lo (tú, pedir) _____ a Merche. Estoy muy ocupada.",
+          "solucion_correcta": [
+            "hicieras/hicieses",
+            "pidieras/pidieses"
+          ]
+        },
+        {
+          "texto_enunciado": "-Espero que los niños (portarse) _____ bien anoche. -Bueno, yo quería que (ellos, acostarse) _____ pronto, pero no lo conseguí.",
+          "solucion_correcta": [
+            "se portaran/portasen",
+            "se acostaran/acostasen"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué avisaste a Rob? -Me pareció importante que (él, estar) _____ informado de todo.",
+          "solucion_correcta": [
+            "estuviera/estuviese"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Tenías suficiente dinero? -No, fue necesario que Alicia me (prestar) _____ algo.",
+          "solucion_correcta": [
+            "prestara/prestase"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "63.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(no hacer muchos esfuerzos) El médico me recomendó _____.",
+          "solucion_correcta": [
+            "que no hiciera/hiciese muchos esfuerzos"
+          ]
+        },
+        {
+          "texto_enunciado": "(no decirle nada a Sofía) Sonia nos rogó _____.",
+          "solucion_correcta": [
+            "que no le dijéramos/dijésemos nada a Sofía"
+          ]
+        },
+        {
+          "texto_enunciado": "(acompañar a casa) Te agradecería _____.",
+          "solucion_correcta": [
+            "que me acompañaras/acompañases a casa"
+          ]
+        },
+        {
+          "texto_enunciado": "(vosotras, hacer un poco de ejercicio) Más valía _____.",
+          "solucion_correcta": [
+            "que hicierais/hicieseis un poco de ejercicio"
+          ]
+        },
+        {
+          "texto_enunciado": "(acompañarla al dentista) Mi madre me pidió _____.",
+          "solucion_correcta": [
+            "que la acompañara/acompañase al dentista"
+          ]
+        },
+        {
+          "texto_enunciado": "(no gritar) Te agradecería _____.",
+          "solucion_correcta": [
+            "que no gritaras/gritases"
+          ]
+        },
+        {
+          "texto_enunciado": "(no fumar mi pipa en su casa) Alicia me suplicó _____.",
+          "solucion_correcta": [
+            "que no fumara/fumase mi pipa en su casa"
+          ]
+        },
+        {
+          "texto_enunciado": "(pasar la aspiradora más a menudo) Te agradecería _____.",
+          "solucion_correcta": [
+            "que pasaras/pasases la aspiradora más a menudo"
+          ]
+        },
+        {
+          "texto_enunciado": "(no abusar del café) Ayer fui al médico. Me recomendó _____.",
+          "solucion_correcta": [
+            "que no abusara/abusase del café"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "63.3",
+      "tipologia": "T10",
+      "enunciado": "Una las dos oraciones con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Quieren trasladar la empresa a otro país. Sería increíble. _____",
+          "solucion_correcta": [
+            "Sería increíble que trasladaran/trasladasen la empresa a otro país"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero llevarme este libro. ¿Te importaría? _____",
+          "solucion_correcta": [
+            "¿Te importaría que me llevara/llevase este libro?"
+          ]
+        },
+        {
+          "texto_enunciado": "No dijiste nada de mi vestido nuevo. Me sorprendió. _____",
+          "solucion_correcta": [
+            "Me sorprendió que no dijeras/dijeses nada de mi vestido nuevo"
+          ]
+        },
+        {
+          "texto_enunciado": "Jacinto se presentó sin regalo. Me molestó. _____",
+          "solucion_correcta": [
+            "Me molestó que Jacinto se presentara/presentase sin regalo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me leían cuentos de pequeña. Me encantaba. _____",
+          "solucion_correcta": [
+            "Me encantaba que me leyeran/leyesen cuentos de pequeña"
+          ]
+        },
+        {
+          "texto_enunciado": "No me dejaban acostarme tarde. Lo odiaba. _____",
+          "solucion_correcta": [
+            "Odiaba que no me dejaran/dejasen acostarme tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "Los domingos me ponían ropa especial. No lo soportaba. _____",
+          "solucion_correcta": [
+            "No soportaba que los domingos me pusieran/pusiesen ropa especial"
+          ]
+        },
+        {
+          "texto_enunciado": "A veces mis tías me llevaban al parque. Me encantaba. _____",
+          "solucion_correcta": [
+            "Me encantaba que a veces mis tías me llevaran/llevasen al parque"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "63.4",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas comenzando por la palabra indicada.",
+      "items": [
+        {
+          "texto_enunciado": "<u>A lo mejor llamó Anabel</u> cuando estábamos fuera. Puede _____ cuando estábamos fuera.",
+          "solucion_correcta": [
+            "que Anabel llamara/llamase cuando estábamos fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "Jesús no me ha dado las gracias por el regalo. <u>A lo mejor no le gustó</u>. Es posible _____.",
+          "solucion_correcta": [
+            "que no le gustara/gustase"
+          ]
+        },
+        {
+          "texto_enunciado": "Llovió mucho. <u>A lo mejor se inundó la carretera</u>. Es probable _____.",
+          "solucion_correcta": [
+            "que se inundara/inundase la carretera"
+          ]
+        },
+        {
+          "texto_enunciado": "Eduardo no se operó del oído. <u>Tenía miedo</u>. Puede _____.",
+          "solucion_correcta": [
+            "que tuviera/tuviese miedo"
+          ]
+        },
+        {
+          "texto_enunciado": "Julio dice que vio a Carmen en París. <u>A lo mejor no era ella</u>. Es dudoso _____.",
+          "solucion_correcta": [
+            "que fuera/fuese ella"
+          ]
+        },
+        {
+          "texto_enunciado": "Santi no trajo la moto. <u>A lo mejor había hielo en la carretera</u>. Acaso _____.",
+          "solucion_correcta": [
+            "hubiera/hubiese hielo en la carretera"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "63.5",
+      "tipologia": "T10",
+      "enunciado": "Una las dos oraciones con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Ana no consiguió plaza en la Universidad. Es una lástima. _____",
+          "solucion_correcta": [
+            "Es una lástima que Ana no consiguiera/consiguiese plaza en la Universidad"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto quiere dejar la carrera. Sería una pena. _____",
+          "solucion_correcta": [
+            "Sería una pena que Alberto dejara/dejase la carrera"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiere ponerse a trabajar. Sería mejor. _____",
+          "solucion_correcta": [
+            "Sería mejor que se pusiera/pusiese a trabajar"
+          ]
+        },
+        {
+          "texto_enunciado": "La cena fue mala. Alberto protestó. Era lógico. _____",
+          "solucion_correcta": [
+            "Era lógico que Alberto protestara/protestase"
+          ]
+        },
+        {
+          "texto_enunciado": "Solo invitó a la boda a sus hermanos. Es una vergüenza. _____",
+          "solucion_correcta": [
+            "Es una vergüenza que solo invitara/invitase a la boda a sus hermanos"
+          ]
+        },
+        {
+          "texto_enunciado": "Antonio repartió el premio con sus hermanos. Me pareció bien. _____",
+          "solucion_correcta": [
+            "Me pareció bien que Antonio repartiera/repartiese el premio con sus hermanos"
+          ]
+        },
+        {
+          "texto_enunciado": "Todos los alumnos se pusieron en huelga. Me pareció mal. _____",
+          "solucion_correcta": [
+            "Me pareció mal que todos los alumnos se pusieran/pusiesen en huelga"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "tema": "unidad-28",
+  "titulo": "¡Qué de niños! ¡Cuánta gente! ¡Cuánto inútil!",
+  "descripcion_gramatical": "Exclamativos (2)",
+  "fuente": "libro",
+  "unidad_libro": 28,
+  "ejercicios": [
+    {
+      "subejercicio": "28.1",
+      "tipologia": "T11",
+      "enunciado": "Escriba exclamaciones con *¡qué!* sobre lo siguiente.",
+      "items": [
+        {
+          "texto_enunciado": "Vino mucha gente. _____",
+          "solucion_correcta": [
+            "¡Qué de gente vino!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucha gente corriendo. _____",
+          "solucion_correcta": [
+            "¡Qué de gente corriendo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucho ruido. _____",
+          "solucion_correcta": [
+            "¡Qué de ruido!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucho polvo. _____",
+          "solucion_correcta": [
+            "¡Qué de polvo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Vinieron muchos extranjeros a la conferencia. _____",
+          "solucion_correcta": [
+            "¡Qué de extranjeros vinieron a la conferencia!"
+          ]
+        },
+        {
+          "texto_enunciado": "Habéis comprado mucha comida. _____",
+          "solucion_correcta": [
+            "¡Qué de comida habéis comprado!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucha contaminación en Madrid. _____",
+          "solucion_correcta": [
+            "¡Qué de contaminación hay en Madrid!"
+          ]
+        },
+        {
+          "texto_enunciado": "Han salido muchos coches estas fiestas. _____",
+          "solucion_correcta": [
+            "¡Qué de coches han salido estas fiestas!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "28.2",
+      "tipologia": "T11",
+      "enunciado": "Escriba exclamaciones con *¡qué!* y *poco/a/os/as* o *¡cuánto/a/os/as!*",
+      "items": [
+        {
+          "texto_enunciado": "Este coche tiene muy pocos kilómetros. _____",
+          "solucion_correcta": [
+            "¡Qué pocos kilómetros tiene este coche!"
+          ]
+        },
+        {
+          "texto_enunciado": "Queda mucho tiempo para las vacaciones. _____",
+          "solucion_correcta": [
+            "¡Cuánto tiempo queda para las vacaciones!"
+          ]
+        },
+        {
+          "texto_enunciado": "No hay muchos pasajeros en este vuelo. _____",
+          "solucion_correcta": [
+            "¡Qué pocos pasajeros hay en este vuelo!"
+          ]
+        },
+        {
+          "texto_enunciado": "No queda mucho tiempo para Año Nuevo. _____",
+          "solucion_correcta": [
+            "¡Qué poco tiempo queda para Año Nuevo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucho vago en esta empresa. _____",
+          "solucion_correcta": [
+            "¡Cuánto vago hay en esta empresa!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay muchos locos en el mundo. _____",
+          "solucion_correcta": [
+            "¡Cuánto(s) loco(s) hay en el mundo!"
+          ]
+        },
+        {
+          "texto_enunciado": "No tengo muchas ganas de trabajar. _____",
+          "solucion_correcta": [
+            "¡Qué pocas ganas tengo de trabajar!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay muchos turistas. _____",
+          "solucion_correcta": [
+            "¡Cuántos turistas hay!"
+          ]
+        },
+        {
+          "texto_enunciado": "En esta oficina hay mucha gente sin vergüenza. _____",
+          "solucion_correcta": [
+            "¡Cuánto(s) sinvergüenza(s) hay en esta oficina!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucha hambre en el mundo. _____",
+          "solucion_correcta": [
+            "¡Cuánta hambre hay en el mundo!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "28.3",
+      "tipologia": "T11",
+      "enunciado": "Escriba exclamaciones con *¡qué poco!* o *¡cuánto!*",
+      "items": [
+        {
+          "texto_enunciado": "Ese perro ladra mucho. _____",
+          "solucion_correcta": [
+            "¡Cuánto ladra ese perro!"
+          ]
+        },
+        {
+          "texto_enunciado": "A Javier le interesan mucho las ciencias. _____",
+          "solucion_correcta": [
+            "¡Cuánto le interesan a Javier las ciencias!"
+          ]
+        },
+        {
+          "texto_enunciado": "Sara no duerme mucho. _____",
+          "solucion_correcta": [
+            "¡Qué poco duerme Sara!"
+          ]
+        },
+        {
+          "texto_enunciado": "Lorena quiere mucho a sus padres. _____",
+          "solucion_correcta": [
+            "¡Cuánto quiere Lorena a sus padres!"
+          ]
+        },
+        {
+          "texto_enunciado": "Miguel viaja mucho. _____",
+          "solucion_correcta": [
+            "¡Cuánto viaja Miguel!"
+          ]
+        },
+        {
+          "texto_enunciado": "Rebeca no estudia mucho. _____",
+          "solucion_correcta": [
+            "¡Qué poco estudia Rebeca!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me arrepiento mucho de no haber estudiado. _____",
+          "solucion_correcta": [
+            "¡Cuánto me arrepiento de no haber estudiado!"
+          ]
+        },
+        {
+          "texto_enunciado": "Lamento mucho la marcha de Anselmo. _____",
+          "solucion_correcta": [
+            "¡Cuánto lamento la marcha de Anselmo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Comes poca verdura. _____",
+          "solucion_correcta": [
+            "¡Qué poca verdura comes!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "28.4",
+      "tipologia": "T11",
+      "enunciado": "Escriba una exclamación con *¡qué!* o *¡cuánto/a/os/as!* sobre las informaciones dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Nos trajeron muchos regalos. _____",
+          "solucion_correcta": [
+            "¡Qué de regalos (que) nos trajeron! / ¡Cuántos regalos (que) nos trajeron!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me duele mucho tener que darle una mala noticia. _____",
+          "solucion_correcta": [
+            "¡Cuánto me duele tener que darte una mala noticia!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucha gente que vive del cuento. _____",
+          "solucion_correcta": [
+            "¡Qué de gente (que) vive del cuento! / ¡Cuánta gente (que) vive del cuento!"
+          ]
+        },
+        {
+          "texto_enunciado": "El año pasado no hubo muchos corredores en la maratón. _____",
+          "solucion_correcta": [
+            "¡Qué pocos corredores (que) hubo el año pasado en la maratón!"
+          ]
+        },
+        {
+          "texto_enunciado": "Vinieron muchos niños al concierto de Navidad. _____",
+          "solucion_correcta": [
+            "¡Qué de niños vinieron al concierto de Navidad! / ¡Cuántos niños vinieron al concierto de Navidad!"
+          ]
+        },
+        {
+          "texto_enunciado": "Siento mucho no poder ir a vuestra boda. _____",
+          "solucion_correcta": [
+            "¡Cuánto siento no poder ir a vuestra boda!"
+          ]
+        },
+        {
+          "texto_enunciado": "No hemos recaudado mucho dinero para el regalo de Silvia. _____",
+          "solucion_correcta": [
+            "¡Qué poco dinero (que) hemos recaudado para el regalo de Silvia!"
+          ]
+        },
+        {
+          "texto_enunciado": "He recibido muchos mensajes de felicitación. _____",
+          "solucion_correcta": [
+            "¡Qué de mensajes de felicitación (que) he recibido! / ¡Cuántos mensajes de felicitación (que) he recibido!"
+          ]
+        },
+        {
+          "texto_enunciado": "Marcos se compró muchas camisas en China. _____",
+          "solucion_correcta": [
+            "¡Qué de camisas se compró Marcos en China! / ¡Cuántas camisas se compró Marcos en china!"
+          ]
+        },
+        {
+          "texto_enunciado": "Este año no ha llovido mucho. _____",
+          "solucion_correcta": [
+            "¡Qué poco (que) ha llovido este año!"
+          ]
+        }
+      ]
+    }
+  ]
+}

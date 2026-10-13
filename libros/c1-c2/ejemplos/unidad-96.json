@@ -1,0 +1,277 @@
+{
+  "tema": "unidad-96",
+  "titulo": "Si tuviera dinero, te invitaría.",
+  "descripcion_gramatical": "Oraciones condicionales (3)",
+  "fuente": "libro",
+  "unidad_libro": 96,
+  "ejercicios": [
+    {
+      "subejercicio": "96.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Si (vivirías/vivieras) más cerca, (sería/fuera) más fácil ir a verte.",
+          "solucion_correcta": [
+            "vivieras",
+            "sería"
+          ]
+        },
+        {
+          "texto_enunciado": "(Sería/Fuera) feliz, si (tendría/tuviera) treinta años menos.",
+          "solucion_correcta": [
+            "Sería",
+            "tuviera"
+          ]
+        },
+        {
+          "texto_enunciado": "Si (trabajaría/trabajaras) más, (pudieras/podrías) ascender.",
+          "solucion_correcta": [
+            "trabajaras",
+            "podrías"
+          ]
+        },
+        {
+          "texto_enunciado": "No (tendrías/tuvieras) ningún problema en clase si te (portarías/portaras) bien.",
+          "solucion_correcta": [
+            "tendrías",
+            "portaras"
+          ]
+        },
+        {
+          "texto_enunciado": "Si (tendría/tuviera) más cuidado, (haría/hiciera) todo mejor.",
+          "solucion_correcta": [
+            "tuviera",
+            "haría"
+          ]
+        },
+        {
+          "texto_enunciado": "Si no (saldríamos/saliéramos) tanto, no (estaríamos/estuviéramos) tan cansados.",
+          "solucion_correcta": [
+            "saliéramos",
+            "estaríamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Si (tuvieras/tendrías) vergüenza, no (hablarías/hablaras) así a tu abuelo.",
+          "solucion_correcta": [
+            "tuvieras",
+            "hablarías"
+          ]
+        },
+        {
+          "texto_enunciado": "No (viviría/viviera) aquí si no (fuera/sería) porque conozco a todo el mundo.",
+          "solucion_correcta": [
+            "viviría",
+            "fuera"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "96.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Javi se explica muy mal. Si (él, explicarse) _____ mejor, le (ellos, entender) _____.",
+          "solucion_correcta": [
+            "se explicara",
+            "entenderían"
+          ]
+        },
+        {
+          "texto_enunciado": "No vienen muchos, pero si (haber) _____ más turistas, (nosotros, poder) _____ ampliar el hotel.",
+          "solucion_correcta": [
+            "hubiera",
+            "podríamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Si (yo, ser) _____ tu padre, no te (yo, dejar) _____ hacerte ese piercing.",
+          "solucion_correcta": [
+            "fuera",
+            "dejaría"
+          ]
+        },
+        {
+          "texto_enunciado": "No tengo calculadora. Si la (yo, tener) _____, (yo, poder) _____ resolver el problema.",
+          "solucion_correcta": [
+            "tuviera",
+            "podría"
+          ]
+        },
+        {
+          "texto_enunciado": "Este barrio no está mal, pero (estar) _____ mejor si (tener) _____ más zonas verdes.",
+          "solucion_correcta": [
+            "estaría",
+            "tuviera"
+          ]
+        },
+        {
+          "texto_enunciado": "Pareces joven, pero si (tú, teñirse) _____ el pelo, (tú, parecer) _____ aún más joven.",
+          "solucion_correcta": [
+            "te tiñeras",
+            "parecerías"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué pena no tener un día más de vacaciones! Si lo (nosotros, tener) _____, (nosotros, poder) _____ acercarnos a visitar el castillo de Tordesillas.",
+          "solucion_correcta": [
+            "tuviéramos",
+            "podríamos"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Lástima que no seas más trabajador, Felipe! Si lo (tú, ser) _____, creo que (tú, tener) _____ más encargos.",
+          "solucion_correcta": [
+            "fueras",
+            "tendrías"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "96.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases comenzando por *si*.",
+      "items": [
+        {
+          "texto_enunciado": "Sé que no es muy probable que veas a Armando, pero en caso contrario, quiero que me llames, por favor. _____",
+          "solucion_correcta": [
+            "Si vieras a Armando, llámame, por favor"
+          ]
+        },
+        {
+          "texto_enunciado": "No es muy probable que cambies de opinión, pero en caso contrario, quiero que me lo digas. _____",
+          "solucion_correcta": [
+            "Si cambiaras de opinión, dímelo"
+          ]
+        },
+        {
+          "texto_enunciado": "No es probable que el niño se ponga peor, pero en caso contrario, debes llamar al médico. _____",
+          "solucion_correcta": [
+            "Si el niño se pusiera peor, llama al médico"
+          ]
+        },
+        {
+          "texto_enunciado": "No es probable que yo tenga tiempo mañana, pero en caso contrario, te llevo al cine. _____",
+          "solucion_correcta": [
+            "Si tuviera tiempo mañana, te llevo al cine"
+          ]
+        },
+        {
+          "texto_enunciado": "No es probable que nos sigan, pero en caso contrario, quiero que llames a la policía. _____",
+          "solucion_correcta": [
+            "Si nos siguieran, llama a la policía"
+          ]
+        },
+        {
+          "texto_enunciado": "No es probable que me olvide de su cumpleaños, pero en caso contrario, quiero que me lo recuerdes. _____",
+          "solucion_correcta": [
+            "Si me olvidara de su cumpleaños, recuérdamelo"
+          ]
+        },
+        {
+          "texto_enunciado": "No es probable que me dejen el coche, pero en caso contrario, te ayudaría con la mudanza. _____",
+          "solucion_correcta": [
+            "Si me dejaran el coche, te ayudo con la mudanza"
+          ]
+        },
+        {
+          "texto_enunciado": "No es probable que llame el director de Unasa, pero en caso contrario, no quiero que me pase la llamada. _____",
+          "solucion_correcta": [
+            "Si me llamara el director de Unasa, no me pase la llamada"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "96.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Lucía no me quiere, pero si me (querer) _____, desde luego que (casarse) _____ con ella.",
+          "solucion_correcta": [
+            "quisiera",
+            "me casaba"
+          ]
+        },
+        {
+          "texto_enunciado": "No tenemos un diccionario, pero si lo (tener) _____, (yo, traducir) _____ eso en un minuto.",
+          "solucion_correcta": [
+            "tuviéramos",
+            "traducía"
+          ]
+        },
+        {
+          "texto_enunciado": "No es asunto mío, pero si yo (tener) _____ que solucionar el problema, lo (yo, solucionar) _____ inmediatamente.",
+          "solucion_correcta": [
+            "tuviera",
+            "solucionaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo de Carlos no me importa, pero si me (importar), _____ me (ocupar) _____ de ello enseguida, no (esperar) _____ ni un minuto.",
+          "solucion_correcta": [
+            "importara",
+            "ocupaba",
+            "esperaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento, no tengo tiempo. Si lo (yo, tener) _____, te (yo, ayudar) _____ sin problema.",
+          "solucion_correcta": [
+            "tuviera",
+            "ayudaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Porque no quiero perjudicar a Laura, pero si yo (querer) _____, le (yo, poner) _____ una demanda a su marido ahora mismo.",
+          "solucion_correcta": [
+            "quisiera",
+            "ponía"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "96.5",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas con *de* + infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Si pudiera ayudarte</u>. _____, lo haría el jueves.",
+          "solucion_correcta": [
+            "De poder ayudarte"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si supiera dónde está Jorge</u>. _____, te lo diría.",
+          "solucion_correcta": [
+            "De saber dónde está Jorge"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si tuvieras que elegir tú al director</u>. _____, ¿a quién elegirías?",
+          "solucion_correcta": [
+            "De tener que elegir tú al director"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si rodaras una película</u>. _____, ¿qué actores elegirías?",
+          "solucion_correcta": [
+            "De rodar una película"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si yo me fuera a Argentina</u>. _____, viviría en la Pampa.",
+          "solucion_correcta": [
+            "De irme a Argentina"
+          ]
+        }
+      ]
+    }
+  ]
+}

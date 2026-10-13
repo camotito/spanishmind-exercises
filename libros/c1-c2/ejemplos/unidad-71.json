@@ -1,0 +1,283 @@
+{
+  "tema": "unidad-71",
+  "titulo": "descansar, haber descansado",
+  "descripcion_gramatical": "Infinitivo",
+  "fuente": "libro",
+  "unidad_libro": 71,
+  "ejercicios": [
+    {
+      "subejercicio": "71.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con infinitivo simple o compuesto. Use los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Por qué no montamos en camello? -¡_____ en camello! ¡Ni hablar!",
+          "solucion_correcta": [
+            "Montar"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quieres que salgamos a dar un paseo? -¡_____ ahora! Pero si está a punto de llover.",
+          "solucion_correcta": [
+            "Salir"
+          ]
+        },
+        {
+          "texto_enunciado": "-Me gustaría que me acompañaras al mercado. -¡_____ yo! ¡Con todo el trabajo que tengo!",
+          "solucion_correcta": [
+            "Acompañarte"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Que no puedes ayudarme porque tienes que estudiar? _____ antes.",
+          "solucion_correcta": [
+            "Haber estudiado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Julia pinta muy bien. -Bueno, _____, lo que se dice _____, no pinta mucho; hace cosas.",
+          "solucion_correcta": [
+            "pintar",
+            "pintar"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya sé que tienes sueño, pero _____ cuando era de noche.",
+          "solucion_correcta": [
+            "haber dormido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Te ayudó mucho Aurora? -_____, no ayudó mucho, pero me hizo compañía.",
+          "solucion_correcta": [
+            "Ayudar, ayudar"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quieres que vayamos a visitar a Lorenzo? Está enfermo. -Bueno, _____, _____ no quiero, pero si es necesario, voy.",
+          "solucion_correcta": [
+            "querer",
+            "querer"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acompañar",
+        "ayudar",
+        "dormir",
+        "estudiar",
+        "montar",
+        "pintar",
+        "querer",
+        "salir"
+      ]
+    },
+    {
+      "subejercicio": "71.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las instrucciones con los verbos del recuadro en afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "_____ a mano. _____ en seco.",
+          "solucion_correcta": [
+            "No lavar",
+            "Lavar"
+          ]
+        },
+        {
+          "texto_enunciado": "Para llamadas al extranjero, _____ 00.",
+          "solucion_correcta": [
+            "marcar"
+          ]
+        },
+        {
+          "texto_enunciado": "Paella:\n(1) _____ el pescado y el marisco en agua de mar. (2) _____ un poco de aceite en una paella, (3) _____ y (4) _____ el arroz, con un poco de cebolla. (5) _____ el pescado y el marisco y (6) _____ el arroz con el agua del pescado. (7) _____ a fuego lento hasta que el arroz esté en su punto.",
+          "solucion_correcta": [
+            "Cocer",
+            "Poner",
+            "calentar",
+            "echar",
+            "Añadir",
+            "cubrir",
+            "Mantener"
+          ]
+        },
+        {
+          "texto_enunciado": "En caso de accidente _____ al Servicio de Información Toxicológica.",
+          "solucion_correcta": [
+            "consultar"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "añadir",
+        "calentar",
+        "cocer",
+        "consultar",
+        "cubrir",
+        "echar",
+        "lavar (2)",
+        "mantener",
+        "marcar",
+        "poner"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "paso": "1",
+            "descripcion": "Cocer pescado y marisco en una cazuela"
+          },
+          {
+            "paso": "2",
+            "descripcion": "Echar aceite en la paella"
+          },
+          {
+            "paso": "3",
+            "descripcion": "Calentar el aceite en la paella"
+          },
+          {
+            "paso": "4",
+            "descripcion": "Añadir arroz y cebolla a la paella"
+          },
+          {
+            "paso": "5",
+            "descripcion": "Añadir pescado y marisco a la paella"
+          },
+          {
+            "paso": "6",
+            "descripcion": "Verter caldo sobre el arroz"
+          },
+          {
+            "paso": "7",
+            "descripcion": "Cocer a fuego lento"
+          }
+        ]
+      }
+    },
+    {
+      "subejercicio": "71.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con un infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "El descanso es necesario. _____",
+          "solucion_correcta": [
+            "Descansar es necesario"
+          ]
+        },
+        {
+          "texto_enunciado": "Las esperas me ponen nervioso. _____",
+          "solucion_correcta": [
+            "Esperar me pone nervioso"
+          ]
+        },
+        {
+          "texto_enunciado": "La forma de andar de Esther es extraña. _____",
+          "solucion_correcta": [
+            "Los andares de Esther son extraños"
+          ]
+        },
+        {
+          "texto_enunciado": "Como yo lo entiendo, esto no es un Matisse. _____",
+          "solucion_correcta": [
+            "A mi entender, esto no es un Matisse"
+          ]
+        },
+        {
+          "texto_enunciado": "La ida al pueblo no fue tan pesada como la venida. _____",
+          "solucion_correcta": [
+            "Ir al pueblo no fue tan pesado como venir"
+          ]
+        },
+        {
+          "texto_enunciado": "La risa es sana. _____",
+          "solucion_correcta": [
+            "Reír es sano"
+          ]
+        },
+        {
+          "texto_enunciado": "Las mentiras suelen traer resultados nefastos. _____",
+          "solucion_correcta": [
+            "Mentir suele traer resultados nefastos"
+          ]
+        },
+        {
+          "texto_enunciado": "Los cantos de mi tierra me conmueven. _____",
+          "solucion_correcta": [
+            "Los cantares de mi tierra me conmueven"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "71.4",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con *a* + infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "¡_____! Aquí no se habla.",
+          "solucion_correcta": [
+            "¡A callar!"
+          ]
+        },
+        {
+          "texto_enunciado": "¡_____ bien y _____, que sois mejores!",
+          "solucion_correcta": [
+            "A jugar",
+            "a ganar"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Que toque la orquesta y _____ todo el mundo!",
+          "solucion_correcta": [
+            "a bailar"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que sudar un poco así que ¡_____, chicos!",
+          "solucion_correcta": [
+            "a correr"
+          ]
+        },
+        {
+          "texto_enunciado": "Venga, Raquel, ¡_____! Que para eso nos pagan.",
+          "solucion_correcta": [
+            "¡a trabajar!"
+          ]
+        },
+        {
+          "texto_enunciado": "Venga, ¡_____ y _____ todos, que ya son las nueve!",
+          "solucion_correcta": [
+            "a levantarse",
+            "a desayunar"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué manos tan sucias!, ¡_____ las ahora mismo, Pedro!",
+          "solucion_correcta": [
+            "a lavarse(las)"
+          ]
+        },
+        {
+          "texto_enunciado": "El arroz se está enfriando, así que... ¡todo el mundo _____!",
+          "solucion_correcta": [
+            "a comer"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "bailar",
+        "callar",
+        "comer",
+        "correr",
+        "desayunar",
+        "ganar",
+        "jugar",
+        "lavarse",
+        "levantarse",
+        "trabajar"
+      ]
+    }
+  ]
+}

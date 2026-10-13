@@ -1,0 +1,253 @@
+{
+  "tema": "unidad-24",
+  "titulo": "la chica cuyo hermano, cuantos pasteles",
+  "descripcion_gramatical": "Relativos (3)",
+  "fuente": "libro",
+  "unidad_libro": 24,
+  "ejercicios": [
+    {
+      "subejercicio": "24.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con *cuyo*, *cuya*, *cuyos*, *cuyas*.",
+      "items": [
+        {
+          "texto_enunciado": "La escritora _____ libros nos han recomendado va a estar aquí esta tarde.",
+          "solucion_correcta": [
+            "cuyos"
+          ]
+        },
+        {
+          "texto_enunciado": "La persona por _____ declaraciones me enteré de tu problema es un abogado famoso.",
+          "solucion_correcta": [
+            "cuyas"
+          ]
+        },
+        {
+          "texto_enunciado": "Tomás Albiol, _____ discos escuchaste el otro día, ha perdido la voz.",
+          "solucion_correcta": [
+            "cuyos"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa es la mujer _____ marido era juez.",
+          "solucion_correcta": [
+            "cuyo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me presenté a un concurso _____ premio fue declarado desierto.",
+          "solucion_correcta": [
+            "cuyo"
+          ]
+        },
+        {
+          "texto_enunciado": "Hablé con mi vecina, _____ perra no me dejaba dormir.",
+          "solucion_correcta": [
+            "cuya"
+          ]
+        },
+        {
+          "texto_enunciado": "Vimos a Shakira, _____ discos se venden a miles.",
+          "solucion_correcta": [
+            "cuyos"
+          ]
+        },
+        {
+          "texto_enunciado": "A Elvira le han dejado un capital _____ rentas son enormes.",
+          "solucion_correcta": [
+            "cuyas"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi padre tenía dos tiendas, con _____ ingresos pude hacer la carrera.",
+          "solucion_correcta": [
+            "cuyos"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay personas _____ nombres son rarísimos.",
+          "solucion_correcta": [
+            "cuyos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "24.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con *cuyo*, *cuya*, *cuyos*, *cuyas* como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "He conocido a un chico. Su madre es profesora tuya. _____",
+          "solucion_correcta": [
+            "He conocido a un chico cuya madre es profesora tuya"
+          ]
+        },
+        {
+          "texto_enunciado": "He visto a Andrés. Su madre acaba de morir. _____",
+          "solucion_correcta": [
+            "He visto a Andrés, cuya madre acaba de morir"
+          ]
+        },
+        {
+          "texto_enunciado": "He conocido a un chico nuevo. Sus padres son psicólogos. _____",
+          "solucion_correcta": [
+            "He conocido a un chico (nuevo) cuyos padres son psicólogos"
+          ]
+        },
+        {
+          "texto_enunciado": "Deben esperar los alumnos. Sus nombres no están en las listas. _____",
+          "solucion_correcta": [
+            "Deben esperar los alumnos cuyos nombres no están en las listas"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy leyendo una novela. El autor estudió conmigo. _____",
+          "solucion_correcta": [
+            "Estoy leyendo una novela cuyo autor estudió conmigo"
+          ]
+        },
+        {
+          "texto_enunciado": "He estado revisando la puerta. El picaporte no funciona. _____",
+          "solucion_correcta": [
+            "He estado revisando la puerta cuyo picaporte no funciona"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "24.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con *cuanto*, *cuanta*, *cuantos*, *cuantas*.",
+      "items": [
+        {
+          "texto_enunciado": "Puedes traer _____ amigos quieras. Hay mucho sitio.",
+          "solucion_correcta": [
+            "cuantos"
+          ]
+        },
+        {
+          "texto_enunciado": "Comed _____ jamón queráis. Es gratis.",
+          "solucion_correcta": [
+            "cuanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Dicen _____ tonterías se les ocurren.",
+          "solucion_correcta": [
+            "cuantas"
+          ]
+        },
+        {
+          "texto_enunciado": "Di _____ mentiras quieras. Me da igual.",
+          "solucion_correcta": [
+            "cuantas"
+          ]
+        },
+        {
+          "texto_enunciado": "Bebed _____ agua queráis. Hay mucha.",
+          "solucion_correcta": [
+            "cuanta"
+          ]
+        },
+        {
+          "texto_enunciado": "Usad _____ café necesitéis. Ya compraremos más.",
+          "solucion_correcta": [
+            "cuanto"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. Te puede prestar _____ dinero necesites.",
+          "solucion_correcta": [
+            "cuanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Haced el examen con tranquilidad. Tenéis _____ tiempo necesitéis.",
+          "solucion_correcta": [
+            "cuanto"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "24.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *cuanto*, *cuanta*, *cuantos*, *cuanta*.",
+      "items": [
+        {
+          "texto_enunciado": "Compra todo el pan que necesites. _____",
+          "solucion_correcta": [
+            "Compra cuanto pan necesites"
+          ]
+        },
+        {
+          "texto_enunciado": "Llevaos todas las sillas que necesitéis. _____",
+          "solucion_correcta": [
+            "Llevaos cuantas sillas necesitéis"
+          ]
+        },
+        {
+          "texto_enunciado": "Estáis de vacaciones. Jugad todo el tiempo que queráis. _____",
+          "solucion_correcta": [
+            "Estáis de vacaciones. Jugad cuanto (tiempo) queráis"
+          ]
+        },
+        {
+          "texto_enunciado": "No me importa. Di todas las mentiras que quieras. _____",
+          "solucion_correcta": [
+            "No me importa. Di cuantas mentiras quieras"
+          ]
+        },
+        {
+          "texto_enunciado": "Traed todos los cubiertos que podáis. _____",
+          "solucion_correcta": [
+            "Traed cuantos cubiertos podáis"
+          ]
+        },
+        {
+          "texto_enunciado": "Se llevaron todo lo que había en el piso. _____",
+          "solucion_correcta": [
+            "Se llevaron (todo) cuanto había en el piso"
+          ]
+        },
+        {
+          "texto_enunciado": "Come todas las manzanas que desees. _____",
+          "solucion_correcta": [
+            "Come cuantas manzanas desees"
+          ]
+        },
+        {
+          "texto_enunciado": "Tira todo lo que te sobre. _____",
+          "solucion_correcta": [
+            "Tira (todo) cuanto te sobre"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya me has dicho todo lo que necesito saber. _____",
+          "solucion_correcta": [
+            "Ya me has dicho (todo) cuanto necesito saber"
+          ]
+        },
+        {
+          "texto_enunciado": "Abrimos todas las latas que había en la despensa. _____",
+          "solucion_correcta": [
+            "Abrimos cuantas latas había en la despensa"
+          ]
+        },
+        {
+          "texto_enunciado": "Coged todo lo que necesitéis. _____",
+          "solucion_correcta": [
+            "Coged (todo) cuanto necesitéis"
+          ]
+        },
+        {
+          "texto_enunciado": "Me quitaron todo lo que tenía. _____",
+          "solucion_correcta": [
+            "Me quitaron (todo) cuanto tenía"
+          ]
+        }
+      ]
+    }
+  ]
+}

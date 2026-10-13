@@ -1,0 +1,285 @@
+{
+  "tema": "unidad-9",
+  "titulo": "casas altas, altos rascacielos",
+  "descripcion_gramatical": "El adjetivo",
+  "fuente": "libro",
+  "unidad_libro": 9,
+  "ejercicios": [
+    {
+      "subejercicio": "9.1",
+      "tipologia": "T8",
+      "enunciado": "Complete con los nombres y adjetivos del recuadro en la forma y colocación adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "Susana tiene muy _____ .",
+          "solucion_correcta": [
+            "buen tipo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he comprado unos _____ .",
+          "solucion_correcta": [
+            "zapatos marrón oscuro"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué mal viste Lucas! Tiene muy _____ .",
+          "solucion_correcta": [
+            "mal gusto"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Conoces a algún _____?",
+          "solucion_correcta": [
+            "pintor español"
+          ]
+        },
+        {
+          "texto_enunciado": "\"Casablanca\" me parece una _____ .",
+          "solucion_correcta": [
+            "buena película"
+          ]
+        },
+        {
+          "texto_enunciado": "Visna es una _____ .",
+          "solucion_correcta": [
+            "divinidad hindú"
+          ]
+        },
+        {
+          "texto_enunciado": "Pilar lleva _____ .",
+          "solucion_correcta": [
+            "medias violeta"
+          ]
+        },
+        {
+          "texto_enunciado": "Amalia es mi _____ .",
+          "solucion_correcta": [
+            "mejor amiga"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo _____ de informática.",
+          "solucion_correcta": [
+            "conocimientos elementales"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis tiene _____ .",
+          "solucion_correcta": [
+            "mala memoria"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "amiga",
+        "conocimiento",
+        "divinidad",
+        "gusto",
+        "tipo",
+        "medias",
+        "memoria",
+        "película",
+        "pintor",
+        "zapato",
+        "bueno (2)",
+        "elemental",
+        "español",
+        "hindú",
+        "malo (2)",
+        "mejor",
+        "marrón oscuro",
+        "violeta"
+      ]
+    },
+    {
+      "subejercicio": "9.2",
+      "tipologia": "T9",
+      "enunciado": "Complete con las palabras entre paréntesis en el orden correcto.",
+      "items": [
+        {
+          "texto_enunciado": "Me encanta pasear por las (praderas, verdes) _____ .",
+          "solucion_correcta": [
+            "verdes praderas"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encanta ir de compras por la (calle, madrileña) _____ Serrano.",
+          "solucion_correcta": [
+            "madrileña calle"
+          ]
+        },
+        {
+          "texto_enunciado": "La (estepa, fría) _____ rusa es desoladora.",
+          "solucion_correcta": [
+            "fría estepa"
+          ]
+        },
+        {
+          "texto_enunciado": "Todos lo lamentamos. Ha sido un (incidente, triste) _____ .",
+          "solucion_correcta": [
+            "triste incidente"
+          ]
+        },
+        {
+          "texto_enunciado": "Echo de menos a mi (esposa, adorada) _____ .",
+          "solucion_correcta": [
+            "adorada esposa"
+          ]
+        },
+        {
+          "texto_enunciado": "¡(amigo, valiente) _____ eres tú! Te vas cuando más te necesito.",
+          "solucion_correcta": [
+            "Valiente amigo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta contemplar la (blanca, espuma) _____ de las olas.",
+          "solucion_correcta": [
+            "blanca espuma"
+          ]
+        },
+        {
+          "texto_enunciado": "¡(menudo, cocinero) _____ estás hecho! Esta sopa es pura agua.",
+          "solucion_correcta": [
+            "Menudo cocinero"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "9.3",
+      "tipologia": "T9",
+      "enunciado": "Complete con las palabras entre paréntesis en el orden correcto.",
+      "items": [
+        {
+          "texto_enunciado": "Catalina vive en el (piso, primer) _____ .",
+          "solucion_correcta": [
+            "primer piso"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he comprado una (chaqueta, azul) _____ .",
+          "solucion_correcta": [
+            "chaqueta azul"
+          ]
+        },
+        {
+          "texto_enunciado": "Yuan toca muy bien la (guitarra, española) _____ .",
+          "solucion_correcta": [
+            "guitarra española"
+          ]
+        },
+        {
+          "texto_enunciado": "Ha sido el (día, peor) _____ de mi vida.",
+          "solucion_correcta": [
+            "peor día"
+          ]
+        },
+        {
+          "texto_enunciado": "Me emocionó contemplar las (cumbres, altas) _____ del Everest.",
+          "solucion_correcta": [
+            "altas cumbres"
+          ]
+        },
+        {
+          "texto_enunciado": "Pon (platos, limpios) _____ .",
+          "solucion_correcta": [
+            "platos limpios"
+          ]
+        },
+        {
+          "texto_enunciado": "Rubén estuvo casado antes. Marta es su (esposa, segunda) _____ .",
+          "solucion_correcta": [
+            "segunda esposa"
+          ]
+        },
+        {
+          "texto_enunciado": "Una (parte, buena) _____ del público abandonó el cine antes del final de la película.",
+          "solucion_correcta": [
+            "buena parte"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "9.4",
+      "tipologia": "T4",
+      "enunciado": "Complete con los nombres y adjetivos del recuadro en la forma y colocación adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "Falla fue un (músico, grande) _____ .",
+          "solucion_correcta": [
+            "gran músico"
+          ]
+        },
+        {
+          "texto_enunciado": "Adela es una (mujer, pobre) _____ . No tiene ninguna personalidad.",
+          "solucion_correcta": [
+            "pobre mujer"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han regalado unos (elefante, pequeño) _____ de cerámica.",
+          "solucion_correcta": [
+            "elefantes pequeños"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto y Ronaldo son (hijo, único) _____ .",
+          "solucion_correcta": [
+            "hijos únicos"
+          ]
+        },
+        {
+          "texto_enunciado": "Los (hombre, grande) _____ son siempre humildes.",
+          "solucion_correcta": [
+            "grandes hombres"
+          ]
+        },
+        {
+          "texto_enunciado": "Solo hay un (acertante, único) _____ . Se va a llevar unos millones.",
+          "solucion_correcta": [
+            "único acertante"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando salgas, compra una (botella, grande) _____ de agua.",
+          "solucion_correcta": [
+            "botella grande"
+          ]
+        },
+        {
+          "texto_enunciado": "Todavía me agrada volver por mi (colegio, antiguo) _____ .",
+          "solucion_correcta": [
+            "antiguo colegio"
+          ]
+        },
+        {
+          "texto_enunciado": "El café estaba vacío. Había una (persona, solo) _____ .",
+          "solucion_correcta": [
+            "sola persona"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese tipo de tormenta ocurre (vez, raro) _____ .",
+          "solucion_correcta": [
+            "rara vez"
+          ]
+        },
+        {
+          "texto_enunciado": "Estos nuevos vecinos son (gente, raro) _____ .",
+          "solucion_correcta": [
+            "gente rara"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Es muy grande el piso? -No. De (tamaño, medio) _____ .",
+          "solucion_correcta": [
+            "tamaño medio"
+          ]
+        }
+      ]
+    }
+  ]
+}

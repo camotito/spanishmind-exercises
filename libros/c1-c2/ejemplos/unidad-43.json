@@ -1,0 +1,305 @@
+{
+  "tema": "unidad-43",
+  "titulo": "Se había gastado todo el dinero.",
+  "descripcion_gramatical": "Pretérito pluscuamperfecto",
+  "fuente": "libro",
+  "unidad_libro": 43,
+  "ejercicios": [
+    {
+      "subejercicio": "43.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el pretérito indefinido o el pluscuamperfecto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(yo, regresar) _____ a Perú porque se me (caducar) _____ el permiso.",
+          "solucion_correcta": [
+            "Regresé",
+            "había caducado"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer no (nosotros, poder) _____ ir a la playa porque se me (averiar) _____ el coche.",
+          "solucion_correcta": [
+            "pudimos",
+            "había averiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque (yo, pagar) _____ no me (reservar) _____ las entradas.",
+          "solucion_correcta": [
+            "había pagado",
+            "reservaron"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué rabia! (yo, llegar) _____ a la consulta cuando el médico (marcharse) _____.",
+          "solucion_correcta": [
+            "llegué",
+            "se había marchado"
+          ]
+        },
+        {
+          "texto_enunciado": "Los obreros no (poder) _____ cerrar la zanja porque (llover) _____ mucho.",
+          "solucion_correcta": [
+            "pudieron",
+            "había llovido"
+          ]
+        },
+        {
+          "texto_enunciado": "Isabel (cerrar) _____ la tienda porque (ella, arruinarse) _____.",
+          "solucion_correcta": [
+            "cerró",
+            "se había arruinado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué no (tú, ir) _____ de vacaciones el año pasado? -Porque (suspender) _____.",
+          "solucion_correcta": [
+            "fuiste",
+            "había suspendido"
+          ]
+        },
+        {
+          "texto_enunciado": "A Alberto lo (expulsar) _____ del colegio porque (copiar) _____ en un examen.",
+          "solucion_correcta": [
+            "expulsaron",
+            "había copiado"
+          ]
+        },
+        {
+          "texto_enunciado": "No (yo, poder) _____ participar en la final porque (yo, hacerse daño) _____ en una pierna.",
+          "solucion_correcta": [
+            "pude",
+            "me había hecho daño"
+          ]
+        },
+        {
+          "texto_enunciado": "(Nosotros, llegar) _____ a la ópera porque (averiarse) _____ el metro.",
+          "solucion_correcta": [
+            "No llegamos",
+            "se había averiado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.2",
+      "tipologia": "T4",
+      "enunciado": "Responda con *ya* o *todavía no*.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Pudiste hablar con Julián? -No, (marcharse) _____.",
+          "solucion_correcta": [
+            "ya se había marchado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Lograste hablar con Sonia? -Sí, (irse) _____.",
+          "solucion_correcta": [
+            "todavía no se había ido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Pudiste llegar a Bilbao a pesar de la nevada? -Sí, (cortar las carreteras) _____.",
+          "solucion_correcta": [
+            "todavía no habían cortado las carreteras"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Te dejaron entrar? -No, (el concierto, empezar) _____.",
+          "solucion_correcta": [
+            "el concierto ya había empezado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Pudiste conseguir entradas? -No, (las entradas, agotarse) _____.",
+          "solucion_correcta": [
+            "las entradas ya se habían agotado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Pudisteis cambiar el dinero? -No, (los bancos, cerrar) _____.",
+          "solucion_correcta": [
+            "los bancos ya habían cerrado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Lograste tomar el vuelo? -Sí, (embarcar) _____.",
+          "solucion_correcta": [
+            "todavía no habían embarcado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Pudieron mudarse al nuevo piso? -No, (firmar el contrato) _____.",
+          "solucion_correcta": [
+            "todavía no habían firmado el contrato"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Conociste a tus abuelos? -No, (fallecer) _____ cuando nací.",
+          "solucion_correcta": [
+            "ya habían fallecido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Lograste comprarle el coche a Margarita? -No, (venderlo) _____.",
+          "solucion_correcta": [
+            "ya lo había vendido"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.3",
+      "tipologia": "T10",
+      "enunciado": "Una las frases comenzando con *cuando*.",
+      "items": [
+        {
+          "texto_enunciado": "Acabé el informe. Me fui a casa. _____",
+          "solucion_correcta": [
+            "Cuando acabé el informe, me fui a casa"
+          ]
+        },
+        {
+          "texto_enunciado": "El director se fue. Llegamos al banco. _____",
+          "solucion_correcta": [
+            "Cuando llegamos al banco, el director se había ido"
+          ]
+        },
+        {
+          "texto_enunciado": "Me tocó la lotería. Compré el piso. _____",
+          "solucion_correcta": [
+            "Cuando me tocó la lotería, compré el piso"
+          ]
+        },
+        {
+          "texto_enunciado": "Publicó cinco novelas. Le dieron el premio. _____",
+          "solucion_correcta": [
+            "Cuando le dieron el premio, había publicado cinco novelas"
+          ]
+        },
+        {
+          "texto_enunciado": "Heredó de sus padres. Puso un negocio. _____",
+          "solucion_correcta": [
+            "Cuando heredó de sus padres, puso un negocio"
+          ]
+        },
+        {
+          "texto_enunciado": "Acabó la carrera. Tuvo un hijo. _____",
+          "solucion_correcta": [
+            "Cuando acabó la carrera, tuvo un hijo. / Cuando tuvo un hijo, ya había acabado la carrera"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases de forma cortés.",
+      "items": [
+        {
+          "texto_enunciado": "-Mañana no xxxx. -Perdón, ¿qué (tú, decir) _____?",
+          "solucion_correcta": [
+            "habías dicho"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quién (pedir) _____ un café cortado? -Yo, lo he pedido yo.",
+          "solucion_correcta": [
+            "había pedido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿(reservar) _____ ustedes una mesa de seis? -Sí, la hemos pedido nosotras.",
+          "solucion_correcta": [
+            "Habían reservado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Perdone, doña Rosario, ¿me (llamar) _____? -Sí, tengo que comentar algo con usted.",
+          "solucion_correcta": [
+            "había llamado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Quedar) _____ ustedes con el Sr. Cuñado? Pasen. Les está esperando.",
+          "solucion_correcta": [
+            "Habían quedado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.5",
+      "tipologia": "T8",
+      "enunciado": "Complete con los verbos del recuadro expresando sorpresa.",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué haces aquí? ¿_____ a Egipto?",
+          "solucion_correcta": [
+            "No te habías ido"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Todavía trabajas aquí? ¿_____ un empleo en una multinacional?",
+          "solucion_correcta": [
+            "No habías encontrado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Aún vivís en un piso? ¿_____ a un chalé?",
+          "solucion_correcta": [
+            "No os habíais mudado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué haces con ese coche? ¿_____ un Mercedes?",
+          "solucion_correcta": [
+            "No te habías comprado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué fumas? ¿_____?",
+          "solucion_correcta": [
+            "No lo habías dejado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cómo que te queda Dibujo? ¿_____ en junio?",
+          "solucion_correcta": [
+            "No lo habías aprobado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué os vais a las Seychelles? ¿_____?",
+          "solucion_correcta": [
+            "No os habíais arruinado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Todavía sales con Encarna? ¿_____?",
+          "solucion_correcta": [
+            "No habíais regañado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Todavía vives con tus padres? ¿_____?",
+          "solucion_correcta": [
+            "No te habías casado"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "aprobar",
+        "arruinarse",
+        "casarse",
+        "comprarse",
+        "dejar",
+        "encontrar",
+        "irse",
+        "mudarse",
+        "regañar"
+      ]
+    }
+  ]
+}

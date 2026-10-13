@@ -1,0 +1,199 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "54.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *mira*, *mire*, *mirad*, *miren*, *mira tú*, *mire usted* o *mira*/*mire qué bien*.",
+      "items": [
+        {
+          "texto_enunciado": "-Elisa no me ha invitado a su boda. - _____ . Así te ahorras el regalo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cómo es la vida, don Sebastián. Antonio se fue a otra empresa para mejorar y, _____ , esa empresa ha cerrado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , lo mejor es que quedéis para repasar el sábado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dionisio quería ser abogado, pero _____ , ha acabado en la cárcel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¡Me han ascendido! - _____ . Ahora podrás comprarte piso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , chico. Yo no creo nada de lo que dices.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , señora. Procure que su perro no me entre en el césped.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Esta noche ha llovido a cántaros. - _____ , doña Rosario. Así no tiene usted que lavar el coche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ . Me han vuelto a conceder la beca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ . Os lo repito. No tengo por qué decir a nadie lo que hago con mi dinero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No quisieron instalar el ascensor por caro, y _____ , ahora son ustedes los que lo necesitan.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dijo que yo iba a acabar mal, pero _____ , es usted el que tiene problemas con la justicia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He cogido un avión porque quería llegar antes, y _____ , hay huelga de controladores.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , procuraremos arreglarle el coche lo antes posible, pero no nos meta prisa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , si no me pagan el alquiler, pongo el asunto en manos de mi abogado.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "54.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases entre paréntesis resaltando lo dicho o expresando suposición con *mira/mire que*, *mira/mire que si*.",
+      "items": [
+        {
+          "texto_enunciado": "(Eres muy pesado, Antonio.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(A lo mejor se casa Félix.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(A lo mejor llueve mañana pero es muy improbable.) _____ . Tendríamos que quedarnos en casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Os lo he repetido.) _____ . Tenéis que ser más puntuales.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(A lo mejor acierto la quiniela.) _____ . Te regalo un coche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Son ustedes muy protestones.) _____ . Tienen que tener más paciencia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Quizá le haya pasado algo a la abuela.) _____ .",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(A lo mejor me admiten en el ejército.) _____ . Sería maravilloso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Tenéis mucha prisa.) _____ . Si tenemos mucho tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(La lluvia casi nos coge en el parque.) _____ . Nos habríamos calado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Li es muy tranquilo.) _____ Li. Siempre hace la maleta en el último momento.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Quizá despidan a Ana pero es muy improbable.) _____ . ¿De qué va a vivir?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Quizá salgamos en la tele pero es muy improbable.) _____ , Don Fernando. Me van a ver en mi pueblo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(A lo mejor nos han concedido la beca pero es muy improbable.) _____ .",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Eres muy despistada, Sofía.) _____ .",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "54.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *oye*, *oíd*, *oiga* u *oigan*. Utilice *usted* o *ustedes* en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "_____ , Ricardo. Explícame esto, que no lo entiendo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , un poco de educación. Yo no le estoy insultando a usted.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , ¿sabe dónde hay un cajero automático por aquí?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , qué bien te sienta ese traje.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , perdonen pero no pueden quedarse aquí. Vamos a cerrar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , no se cuele que todos tenemos prisa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , no podéis entrar con los zapatos llenos de barro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , ¿tú sabes si nos van a dar el puente?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , ¿tú crees que Ernesto va en serio con Amelia?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , apague el cigarro, que aquí no se puede fumar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , lo mejor que podéis hacer es marcharos y no meteros en nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , o salen de aquí inmediatamente o llamo a la policía.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 54,
+  "titulo_libro": "Mira. Oye. -- Imperativo (3)",
+  "scan": "p-115.jpg"
+}

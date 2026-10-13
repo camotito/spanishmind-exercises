@@ -1,0 +1,215 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "106.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "No puedo irme. El director me ha pedido que (yo, quedarse) _____ hasta las ocho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Les pedí que (ellos, callarse) _____ pero no me hicieron caso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me ordenó que (yo, irme) _____, pero me quedé.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El profesor nos ha pedido que (nosotros, traer) _____ el diccionario mañana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tienes que ser firme. Tienes que exigirle que (él, no llegar) _____ tarde por la noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le hemos pedido al profesor que (él, hablar) _____ más despacio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Carolina me rogó que (yo, no contarle) _____ lo del accidente a su hermana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Diles que (ellos, irse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El policía nos ordenó que (nosotros, ponerse) _____ en fila.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Diego nos decía siempre que (nosotros, ir) _____ a verlo a Canadá.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Laura me pidió que la (yo, llevar) _____ a casa después de la cena, pero estaba muy cansado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te suplico que (tú, no volver) _____ a ver más a Julio. No te conviene.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Les pediré que (ellos, ser) _____ puntuales, pero ya sabes cómo son.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El presidente pidió a los huelguistas que (ellos, volver) _____ al trabajo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Les dije a mis hijos que (ellos, no hacer) _____ nada hasta que yo volviera.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "106.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Ernesto me pidió (yo, no contar nada a su hermana) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sebastián me ha encargado (yo, comprarle un regalo a Teresa) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El nuevo director ha ordenado (nadie, usar internet para asuntos personales) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le supliqué (él, darme otra oportunidad) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Unos compañeros me han pedido (dejarles mis apuntes) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Como la chaqueta estaba rota, le exigí al dependiente (devolverme el dinero) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El autobús no arrancaba y el conductor pidió a los pasajeros (ellos, bajarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En las fiestas siempre me piden (yo, cantar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dile a tu amigo (él, echarte una mano) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién te había pedido (tú, explicarle el subjuntivo) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pídele al cajero (él, cambiarte los euros) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Exígeles (ellos, respetarte) _____ Eres su padre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le encargué a José (él, llevarme la chaqueta al tinte) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te ruego (tú, escucharme) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La soprano mandó (ellos, dejarla sola en el camerino) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "106.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Les advertí (ellos, tener cuidado con esos cables) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han aconsejado (yo, leer el último libro de Vargas Llosa) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han advertido (yo, tener cuidado con Lola) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le hemos sugerido al director (nosotros, necesitar aumento de sueldo) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sugiéreles (ellos, invitar a los profesores a la fiesta) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo les aconsejé (ellos ir a ver la Alhambra) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han sugerido (yo, pedirte que te vayas) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La policía nos advirtió (nosotros, no tocar nada) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién te ha sugerido (tú, no salir conmigo) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos aconsejaron (nosotros, regresar inmediatamente) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han propuesto (yo, encargarme de la empresa en Japón) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rocío me sugirió (yo, irme) _____ cuando llegara Arturo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Adviérteles (ellos, no decir nada a la prensa) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién te aconsejó (tú, comprar acciones de esa empresa) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Les propuse (ellos, elegir a Sonia como tesorera) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han recomendado (yo, ver la última película de Amenábar) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 106,
+  "titulo_libro": "Ha dicho que recojamos. Os dije que recogierais. -- Estilo indirecto (3)",
+  "scan": "p-219.jpg"
+}

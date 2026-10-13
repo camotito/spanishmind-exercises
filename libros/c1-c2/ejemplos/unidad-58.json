@@ -1,0 +1,295 @@
+{
+  "tema": "unidad-58",
+  "titulo": "Necesito que me ayudes. Quiero que escuches esto.",
+  "descripcion_gramatical": "Presente de subjuntivo (2)",
+  "fuente": "libro",
+  "unidad_libro": 58,
+  "ejercicios": [
+    {
+      "subejercicio": "58.1",
+      "tipologia": "T10",
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Esperad en casa de Elena. Lo prefiero. _____",
+          "solucion_correcta": [
+            "Prefiero que esperéis en casa de Elena"
+          ]
+        },
+        {
+          "texto_enunciado": "Presta atención. Es importante. _____",
+          "solucion_correcta": [
+            "Es importante que prestes atención"
+          ]
+        },
+        {
+          "texto_enunciado": "Plánchame los pantalones. Lo necesito. _____",
+          "solucion_correcta": [
+            "Necesito que me planches los pantalones"
+          ]
+        },
+        {
+          "texto_enunciado": "Organizad vosotros la despedida de soltero. Juan lo quiere. _____",
+          "solucion_correcta": [
+            "Juan quiere que organicéis vosotros la despedida de soltero"
+          ]
+        },
+        {
+          "texto_enunciado": "Reservad la mesa del restaurante. Lo veo conveniente. _____",
+          "solucion_correcta": [
+            "Veo conveniente que reservéis la mesa del restaurante"
+          ]
+        },
+        {
+          "texto_enunciado": "No cantéis victoria antes de tiempo. Lo prefiero. _____",
+          "solucion_correcta": [
+            "Prefiero que no cantéis victoria antes de tiempo"
+          ]
+        },
+        {
+          "texto_enunciado": "Tened buenas relaciones con los vecinos. Me parece importante. _____",
+          "solucion_correcta": [
+            "Me parece importante que tengáis buenas relaciones con los vecinos"
+          ]
+        },
+        {
+          "texto_enunciado": "Dime la verdad. Lo espero. _____",
+          "solucion_correcta": [
+            "Espero que me digas la verdad"
+          ]
+        },
+        {
+          "texto_enunciado": "Venid a verme. Tengo ganas. _____",
+          "solucion_correcta": [
+            "Tengo ganas de que vengáis a verme"
+          ]
+        },
+        {
+          "texto_enunciado": "Trae raquetas y pelotas. Hace falta. _____",
+          "solucion_correcta": [
+            "Hace falta que traigas raquetas y pelotas"
+          ]
+        },
+        {
+          "texto_enunciado": "Acaba la carrera. Me parece fundamental. _____",
+          "solucion_correcta": [
+            "Me parece fundamental que acabes la carrera"
+          ]
+        },
+        {
+          "texto_enunciado": "Puedo quedarme a ayudaros. ¿Os parece necesario? _____",
+          "solucion_correcta": [
+            "¿Os parece necesario que me quede a ayudaros?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "58.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(despertarnos a las siete) Dile _____.",
+          "solucion_correcta": [
+            "que nos despierte a las siete"
+          ]
+        },
+        {
+          "texto_enunciado": "(nosotros, coger un taxi) Más vale _____.",
+          "solucion_correcta": [
+            "que cojamos un taxi"
+          ]
+        },
+        {
+          "texto_enunciado": "(hacerme caso) Ordénale _____.",
+          "solucion_correcta": [
+            "que me haga caso"
+          ]
+        },
+        {
+          "texto_enunciado": "(ponerse abrigo) Os aconsejo _____.",
+          "solucion_correcta": [
+            "que os pongáis abrigo"
+          ]
+        },
+        {
+          "texto_enunciado": "(nosotros, esperar aquí) Lo mejor es _____.",
+          "solucion_correcta": [
+            "que esperemos aquí"
+          ]
+        },
+        {
+          "texto_enunciado": "(Pedro, hacer la comida) Es mejor _____.",
+          "solucion_correcta": [
+            "que Pedro haga la comida"
+          ]
+        },
+        {
+          "texto_enunciado": "(disculparse con Elena) Te recomiendo _____.",
+          "solucion_correcta": [
+            "que te disculpes con Elena"
+          ]
+        },
+        {
+          "texto_enunciado": "(no decir nada) Te sugiero _____.",
+          "solucion_correcta": [
+            "que no digas nada"
+          ]
+        },
+        {
+          "texto_enunciado": "(vosotros, tener una buena excusa) Más vale _____.",
+          "solucion_correcta": [
+            "que tengáis una buena excusa"
+          ]
+        },
+        {
+          "texto_enunciado": "(ir a Sevilla en el AVE) Nos han aconsejado _____.",
+          "solucion_correcta": [
+            "que vayamos a Sevilla en el AVE"
+          ]
+        },
+        {
+          "texto_enunciado": "(tú, quedarse en la cama) Lo mejor es _____.",
+          "solucion_correcta": [
+            "que te quedes en la cama"
+          ]
+        },
+        {
+          "texto_enunciado": "(devolverme mis cosas) Te exijo _____.",
+          "solucion_correcta": [
+            "que me devuelvas mis cosas"
+          ]
+        },
+        {
+          "texto_enunciado": "(ir todos juntos) Es mejor _____.",
+          "solucion_correcta": [
+            "que vayamos todos juntos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "58.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(echarle una mano) Luis me ha pedido _____.",
+          "solucion_correcta": [
+            "Luis me ha pedido que le eche una mano"
+          ]
+        },
+        {
+          "texto_enunciado": "(hacerme un favor) Os quiero pedir _____.",
+          "solucion_correcta": [
+            "Os quiero pedir que me hagáis un favor"
+          ]
+        },
+        {
+          "texto_enunciado": "(no gritar) Te ruego _____.",
+          "solucion_correcta": [
+            "Te ruego que no grites"
+          ]
+        },
+        {
+          "texto_enunciado": "(contarte lo de Antonio) No me pidas _____. No puedo.",
+          "solucion_correcta": [
+            "No me pidas que te cuente lo de Antonio"
+          ]
+        },
+        {
+          "texto_enunciado": "(no decirle nada a Alberto) Os suplico _____.",
+          "solucion_correcta": [
+            "Os suplico que no le digáis nada a Alberto"
+          ]
+        },
+        {
+          "texto_enunciado": "(escucharme un momento) Te pido _____.",
+          "solucion_correcta": [
+            "Te pido que me escuches un momento"
+          ]
+        },
+        {
+          "texto_enunciado": "(no hacer nada) Os ruego _____. Yo lo solucionaré.",
+          "solucion_correcta": [
+            "Os ruego que no hagáis nada"
+          ]
+        },
+        {
+          "texto_enunciado": "(tener mucho cuidado) Te suplico _____. No me gustaría que te pasara nada.",
+          "solucion_correcta": [
+            "Te suplico que tengas mucho cuidado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "58.4",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(recomendarle la carne) Permítame _____.",
+          "solucion_correcta": [
+            "Permítame que le recomiende la carne"
+          ]
+        },
+        {
+          "texto_enunciado": "(enfadarme) No hagas _____.",
+          "solucion_correcta": [
+            "No hagas que me enfade"
+          ]
+        },
+        {
+          "texto_enunciado": "(darte un consejo) ¿Me permites _____?",
+          "solucion_correcta": [
+            "¿Me permites que te dé un consejo?"
+          ]
+        },
+        {
+          "texto_enunciado": "(no levantarme) Disculpa _____. No me encuentro bien.",
+          "solucion_correcta": [
+            "Disculpa que no me levante"
+          ]
+        },
+        {
+          "texto_enunciado": "(vosotros, no poder venir) Siento _____.",
+          "solucion_correcta": [
+            "Siento que no podáis venir"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo, pedirte un favor) Perdona _____.",
+          "solucion_correcta": [
+            "Perdona que te pida un favor"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo, explicarte) Deja _____.",
+          "solucion_correcta": [
+            "Deja que te explique"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo, llegar tarde) Siempre haces _____.",
+          "solucion_correcta": [
+            "Siempre haces que llegue tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo, pagar) Nunca me dejas _____.",
+          "solucion_correcta": [
+            "Nunca me dejas que pague (yo)"
+          ]
+        },
+        {
+          "texto_enunciado": "(hacerte una pregunta) ¿Me permites _____?",
+          "solucion_correcta": [
+            "¿Me permites que te haga una pregunta?"
+          ]
+        }
+      ]
+    }
+  ]
+}

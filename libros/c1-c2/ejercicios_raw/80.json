@@ -1,0 +1,186 @@
+{
+ "ejercicios": [
+  {
+   "subejercicio": "80.1",
+   "tipologia": "T8",
+   "tipologia_libre": null,
+   "enunciado": "Complete las frases con los verbos del recuadro en la forma adecuada.",
+   "banco_palabras": [
+    "afectar",
+    "aparcar",
+    "complacer",
+    "complicar",
+    "dañar",
+    "enamorar",
+    "grabar",
+    "helar",
+    "herir",
+    "inundar",
+    "pintar",
+    "teñir"
+   ],
+   "items": [
+    {
+     "texto_enunciado": "Los futbolistas parecían _____ por la derrota.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El gerente se mostró _____ por el aumento de las ventas.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La camiseta está _____ de verde.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Los garajes quedaron _____ tras la tormenta.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Luisa resultó _____ en un accidente.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Los nombres están _____ en una placa.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ten cuidado. Siempre dejas el coche mal _____.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El piso de Lucía resultó _____ en el incendio.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿Sabes si la oficina está ya _____?",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El examen no parecía _____.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Adela me dejó _____ cuando me dijo lo de su divorcio.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Parece que Joaquín y Estela están muy _____.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "80.2",
+   "tipologia": "T10",
+   "tipologia_libre": null,
+   "enunciado": "Una las frases como en el ejemplo.",
+   "items": [
+    {
+     "texto_enunciado": "La periodista habló en la radio. Estaba completamente enfadada. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Mis hermanos llegaron de la excursión. Estaban aburridos. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Me devolvió el cartel. Estaba partido en dos. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Los representantes sindicales se fueron de la reunión. Estaban enfadados. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Encontré los juguetes de los niños. Estaban mordidos por los perros. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Pablo volvió a casa. Estaba totalmente empapado. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Los inquilinos volvieron a sus casas. Estaban muy asustados. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ayer me encontré una cartera. Estaba perdida en el parque. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "80.3",
+   "tipologia": "T8",
+   "tipologia_libre": "Completar frases seleccionando la forma verbal adecuada de un banco de palabras dadas (formas ya flexionadas, algunas repetidas)",
+   "enunciado": "Complete las frases con una de las palabras del recuadro.",
+   "banco_palabras": [
+    "dejado (2)",
+    "dejó",
+    "dejar",
+    "llevamos",
+    "llevo",
+    "lleva",
+    "llevas",
+    "tengo (2)",
+    "tiene",
+    "tienes"
+   ],
+   "items": [
+    {
+     "texto_enunciado": "Hace tiempo que _____ alquilada una casa en la sierra.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "_____ vistos más de diez pisos y no nos ha gustado ninguno.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No tengo prisa. He _____ hecha la comida.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "_____ ahorrados más de mil euros para las vacaciones.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No juegues más. Ya _____ mucho perdido esta noche.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Quiero _____ fregados los platos antes de acostarme.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Esta casa es una ruina. _____ gastados en ella más de 10 000 euros.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿Estás segura de que has _____ la luz apagada?",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Felipe se tuvo que ir ayer, pero _____ dicho que volverá dentro de unos días.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿_____ ya redactado el informe, Laura?",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Miguel es un desastre. Ya _____ rotos dos pares de zapatos este mes.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Julián es muy previsor. _____ guardados unos ahorros para la vejez.",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Completar frases seleccionando la forma verbal adecuada de un banco de palabras dadas (formas ya flexionadas, algunas repetidas)"
+  }
+ ],
+ "unidad": 80,
+ "titulo_libro": "Llega agotada. Tengo ahorrados mil euros. -- Participio (2)",
+ "scan": "p-167.jpg"
+}

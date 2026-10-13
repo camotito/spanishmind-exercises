@@ -1,0 +1,321 @@
+{
+  "tema": "unidad-33",
+  "titulo": "El sol sale por el Este. Hablamos mañana.",
+  "descripcion_gramatical": "Presente de indicativo para presente y futuro",
+  "fuente": "libro",
+  "unidad_libro": 33,
+  "ejercicios": [
+    {
+      "subejercicio": "33.1",
+      "tipologia": "T8",
+      "enunciado": "Complete con los verbos del recuadro en forma afirmativa o negativa, según su caso.",
+      "items": [
+        {
+          "texto_enunciado": "_____ a trabajar a las nueve.",
+          "solucion_correcta": [
+            "Empiezo / No empiezo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ a un club deportivo.",
+          "solucion_correcta": [
+            "Pertenezco / No pertenezco"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ bien cuando engaño a alguien.",
+          "solucion_correcta": [
+            "Me siento / No me siento"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ a mi madre.",
+          "solucion_correcta": [
+            "Me parezco / No me parezco"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando hago un ejercicio, _____ las frases.",
+          "solucion_correcta": [
+            "traduzco / no traduzco"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ siempre a poca velocidad.",
+          "solucion_correcta": [
+            "Conduzco / No conduzco"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ los platos en casa.",
+          "solucion_correcta": [
+            "Friego / No friego"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ cosas con mucha frecuencia.",
+          "solucion_correcta": [
+            "Pierdo / No pierdo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ con mucha frecuencia.",
+          "solucion_correcta": [
+            "Sueño / No sueño"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ más de 1 metro 80 centímetros.",
+          "solucion_correcta": [
+            "Mido / No mido"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ me _____ la espalda cuando cojo peso.",
+          "solucion_correcta": [
+            "No",
+            "duele"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ insomnio.",
+          "solucion_correcta": [
+            "Padezco / No padezco"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "conducir",
+        "doler",
+        "empezar",
+        "fregar",
+        "medir",
+        "padecer",
+        "parecerse",
+        "perder",
+        "pertenecer",
+        "sentirse",
+        "soñar",
+        "traducir"
+      ]
+    },
+    {
+      "subejercicio": "33.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "La Tierra _____ sobre su eje.",
+          "solucion_correcta": [
+            "gira"
+          ]
+        },
+        {
+          "texto_enunciado": "¿A qué hora _____ el sol en verano?",
+          "solucion_correcta": [
+            "se pone"
+          ]
+        },
+        {
+          "texto_enunciado": "El Ebro _____ en el Mediterráneo.",
+          "solucion_correcta": [
+            "desemboca"
+          ]
+        },
+        {
+          "texto_enunciado": "Las mujeres _____ diez años más que los hombres.",
+          "solucion_correcta": [
+            "viven"
+          ]
+        },
+        {
+          "texto_enunciado": "Te _____ tu ayuda, pero _____ hacerlo sola.",
+          "solucion_correcta": [
+            "agradezco",
+            "prefiero"
+          ]
+        },
+        {
+          "texto_enunciado": "Las plantas _____ mucho en primavera y verano.",
+          "solucion_correcta": [
+            "crecen"
+          ]
+        },
+        {
+          "texto_enunciado": "He visto al médico. Dice que _____ una enfermedad rara.",
+          "solucion_correcta": [
+            "padezco"
+          ]
+        },
+        {
+          "texto_enunciado": "Me _____ la cabeza.",
+          "solucion_correcta": [
+            "duele"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿A qué _____? -A gasolina. Tened cuidado.",
+          "solucion_correcta": [
+            "huele"
+          ]
+        },
+        {
+          "texto_enunciado": "José Luis _____ mucho. No _____ nunca la verdad.",
+          "solucion_correcta": [
+            "miente",
+            "dice"
+          ]
+        },
+        {
+          "texto_enunciado": "-_____ que querrás desayunar... -¡Por supuesto!",
+          "solucion_correcta": [
+            "Supongo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué río _____ Lima? -El Rímac.",
+          "solucion_correcta": [
+            "atravieso"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿A qué temperatura _____ el agua? -A 100 ºC.",
+          "solucion_correcta": [
+            "hierve"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿De qué _____? -Me estoy acordando de un chiste que me contaron ayer.",
+          "solucion_correcta": [
+            "te ríes"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "agradecer",
+        "mentir",
+        "atravesar",
+        "oler",
+        "crecer",
+        "padecer",
+        "decir",
+        "ponerse",
+        "desembocar",
+        "preferir",
+        "doler",
+        "reírse",
+        "girar",
+        "suponer",
+        "hervir",
+        "vivir"
+      ]
+    },
+    {
+      "subejercicio": "33.3",
+      "tipologia": "T8",
+      "enunciado": "Complete los diálogos con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "-Está sonando el teléfono. -Vale, yo lo _____.",
+          "solucion_correcta": [
+            "cojo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuándo _____ los Juegos Olímpicos? -El 8 de agosto.",
+          "solucion_correcta": [
+            "empiezan"
+          ]
+        },
+        {
+          "texto_enunciado": "-Tenemos que hablar, Juan. -Vale, nos _____ mañana.",
+          "solucion_correcta": [
+            "vemos"
+          ]
+        },
+        {
+          "texto_enunciado": "-Tengo que acabar este informe y no sé cómo. -No te preocupes. Yo te _____.",
+          "solucion_correcta": [
+            "ayudo"
+          ]
+        },
+        {
+          "texto_enunciado": "-Entra frío. -Ahora _____ la ventana.",
+          "solucion_correcta": [
+            "cierro"
+          ]
+        },
+        {
+          "texto_enunciado": "-¡Qué frío hace! -Esta noche _____ seguro.",
+          "solucion_correcta": [
+            "nieva"
+          ]
+        },
+        {
+          "texto_enunciado": "-Van totalmente distraídos. -Ya verás cómo _____ con la valla.",
+          "solucion_correcta": [
+            "tropiezan"
+          ]
+        },
+        {
+          "texto_enunciado": "-Hay que llamar a Sofía. -La _____ yo esta noche.",
+          "solucion_correcta": [
+            "llamo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué te pasa? -Estoy un poco nerviosa. _____ mañana.",
+          "solucion_correcta": [
+            "Me examino"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ernesto no estudia nada. -Este no _____ la carrera.",
+          "solucion_correcta": [
+            "termina"
+          ]
+        },
+        {
+          "texto_enunciado": "-Vienen muchas nubes. -Mañana _____ seguro.",
+          "solucion_correcta": [
+            "llueve"
+          ]
+        },
+        {
+          "texto_enunciado": "Raquel no _____ mucho en esa empresa. Tiene que trabajar los domingos.",
+          "solucion_correcta": [
+            "dura"
+          ]
+        },
+        {
+          "texto_enunciado": "Julio está en el hospital. Le _____ mañana.",
+          "solucion_correcta": [
+            "operan"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay huelga en el transporte público. Hoy _____ todos tarde.",
+          "solucion_correcta": [
+            "llegan"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "ayudar",
+        "cerrar",
+        "coger",
+        "durar",
+        "empezar",
+        "examinarse",
+        "llamar",
+        "llegar",
+        "llover",
+        "nevar",
+        "operar",
+        "terminar",
+        "tropezar",
+        "ver"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "tema": "unidad-100",
+  "titulo": "por fuerte que parezca, si bien hay mucha nieve",
+  "descripcion_gramatical": "Oraciones concesivas (2)",
+  "fuente": "libro",
+  "unidad_libro": 100,
+  "ejercicios": [
+    {
+      "subejercicio": "100.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con *por mucho/a/os/as*, *por (muy) poco*, *por (muy) poco/a/os/as*, *por (muy)*.",
+      "items": [
+        {
+          "texto_enunciado": "_____ que esperáramos, esperamos una hora.",
+          "solucion_correcta": [
+            "Por poco"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ que os esforcéis, no me vais a convencer.",
+          "solucion_correcta": [
+            "Por mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ bajo que sea, a mí me parece normal.",
+          "solucion_correcta": [
+            "Por muy"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ dinero que tenga, no es nada feliz.",
+          "solucion_correcta": [
+            "Por mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ años que tenga, tiene ya cincuenta.",
+          "solucion_correcta": [
+            "Por pocos"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo no leo ese libro _____ interesante que sea.",
+          "solucion_correcta": [
+            "por muy"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ bien que hable árabe, le será difícil encontrar empleo.",
+          "solucion_correcta": [
+            "Por muy"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ historia que sepa, no sabrá mucho de los Templarios.",
+          "solucion_correcta": [
+            "Por mucha"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.2",
+      "tipologia": "T3",
+      "enunciado": "Complete los diálogos con *por (muy/muy poco)*, *por mucho/a/os/as*, *por (muy) poco/a/os/as*.",
+      "items": [
+        {
+          "texto_enunciado": "-Julia tiene mucha ropa. – _____ , va siempre mal vestida.",
+          "solucion_correcta": [
+            "Por mucha ropa que tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "-Roberto parece muy listo. – _____ , nunca nos aclara nada.",
+          "solucion_correcta": [
+            "Por muy listo que parezca"
+          ]
+        },
+        {
+          "texto_enunciado": "-Begoña no sabe mucho de cocina. – _____ , sabe más que su hermano.",
+          "solucion_correcta": [
+            "Por poco que sepa"
+          ]
+        },
+        {
+          "texto_enunciado": "-Esos edificios parecen muy viejos. – _____ no tienen más de 50 años.",
+          "solucion_correcta": [
+            "Por muy viejas que parezcan"
+          ]
+        },
+        {
+          "texto_enunciado": "-Emilio toca bien el piano. – _____ , le va a ser difícil encontrar trabajo.",
+          "solucion_correcta": [
+            "Por muy bien que toque el piano"
+          ]
+        },
+        {
+          "texto_enunciado": "-Jan sabe mucho latín. – _____ , no podrá traducir ese documento. Es complicado.",
+          "solucion_correcta": [
+            "Por mucho latín que sepa"
+          ]
+        },
+        {
+          "texto_enunciado": "-Roberto no tiene mucho dinero. – _____ , puede permitirse alquilar algo mejor.",
+          "solucion_correcta": [
+            "Por poco (dinero) que tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "-Elías parece muy educado. – _____ , a mí nunca me cede el paso en el portal.",
+          "solucion_correcta": [
+            "Por muy educado que parezca"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases comenzando con las palabras dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Aunque venga siempre a clase, no avanza mucho. Si bien es cierto que _____.",
+          "solucion_correcta": [
+            "viene siempre a clase, no avanza mucho"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque sea el director, no tiene que gritar. Porque _____.",
+          "solucion_correcta": [
+            "sea el director no tiene que gritar"
+          ]
+        },
+        {
+          "texto_enunciado": "A Elías no le dejo el coche aunque me lo pida de rodillas. Así _____.",
+          "solucion_correcta": [
+            "me lo pida de rodillas, a Elías no le dejo el coche"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque la economía ha mejorado algo, el paro sigue aumentando. Si bien es cierto que _____.",
+          "solucion_correcta": [
+            "la economía ha mejorado, el paro sigue aumentando"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque Pedro no tiene mucho dinero, a mí me ha hecho un buen regalo. Si bien _____.",
+          "solucion_correcta": [
+            "Pedro no tiene mucho dinero, a mí me ha hecho un buen regalo"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque sabes bien inglés, no te van a dar ese empleo. Porque _____.",
+          "solucion_correcta": [
+            "sepas bien inglés, no te van a dar ese empleo"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque me maten, no volveré a hablar con Agustín. Así _____.",
+          "solucion_correcta": [
+            "me maten, no volveré a hablar con Agustín"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque lo pasara mal en ese pueblo, no me importaría volver. Si bien _____.",
+          "solucion_correcta": [
+            "lo pasé mal en ese pueblo, no me importaría volver"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque hace mal tiempo, no vamos a dejar de jugar hoy el partido. Porque _____.",
+          "solucion_correcta": [
+            "haga mal tiempo, no vamos a dejar de jugar hoy al partido"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque me apetezca, me resulta imposible asistir a esa reunión. Si bien _____.",
+          "solucion_correcta": [
+            "me apetece, me resulta imposible asistir a esa reunión"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *aun (con)*, *incluso (con)*, *ni siquiera (con)* o *ni aunque*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Aunque sea muy guapa, es insoportable. Aun _____.",
+          "solucion_correcta": [
+            "Aun siendo muy guapa, es insoportable"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque me regalaran las entradas, no vería esa película. Ni aunque _____.",
+          "solucion_correcta": [
+            "me regalaran las entradas, vería esa película"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque han bajado los impuestos, no mejora la economía. Incluso _____.",
+          "solucion_correcta": [
+            "bajando los impuestos, no mejora la economía"
+          ]
+        },
+        {
+          "texto_enunciado": "Elsa ha dado clases de cocina, pero no cocina bien. Aun con _____.",
+          "solucion_correcta": [
+            "clases de cocina, Elsa no cocina bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque me subieran el sueldo, no me quedaría en esta empresa. Ni aunque _____.",
+          "solucion_correcta": [
+            "me subieran el sueldo, me quedaría en esta empresa"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque hace mucho calor, me encanta el sur. Aun con _____.",
+          "solucion_correcta": [
+            "mucho calor, me encanta el sur"
+          ]
+        },
+        {
+          "texto_enunciado": "Tiene \"enchufe\", pero no ha conseguido entrar en la policía. Ni siquiera con _____.",
+          "solucion_correcta": [
+            "\"enchufe\" ha conseguido entrar en la policía"
+          ]
+        },
+        {
+          "texto_enunciado": "Ni aunque te pongas de rodillas te va a perdonar. Ni siquiera _____.",
+          "solucion_correcta": [
+            "poniéndote de rodillas te va a perdonar"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "100.5",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *y eso que*.",
+      "items": [
+        {
+          "texto_enunciado": "Hacía un día extraordinario y a pesar de ello no quiso salir. No quiso salir _____.",
+          "solucion_correcta": [
+            "y eso que hacía un día extraordinario"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo anoto todo y a pesar de ello se me olvida. Se me olvida todo _____.",
+          "solucion_correcta": [
+            "y eso que lo anoto"
+          ]
+        },
+        {
+          "texto_enunciado": "Alonso come muy poco, pero a pesar de ello está gordo. Alonso está gordo _____.",
+          "solucion_correcta": [
+            "y eso que come muy poco"
+          ]
+        },
+        {
+          "texto_enunciado": "No conseguí entradas para el ballet a pesar de estar dos horas en la cola. No conseguí entradas _____.",
+          "solucion_correcta": [
+            "y eso que estuve dos horas en la cola"
+          ]
+        },
+        {
+          "texto_enunciado": "Marisa se empeñó en ir al campo, aunque habían dicho que llovería. Marisa se empeñó en ir _____.",
+          "solucion_correcta": [
+            "al campo y eso que habían dicho que llovería"
+          ]
+        },
+        {
+          "texto_enunciado": "Ganaron el partido, aunque Ronaldo falló un penalti. Ganaron el partido _____.",
+          "solucion_correcta": [
+            "y eso que Ronaldo falló un penalti"
+          ]
+        }
+      ]
+    }
+  ]
+}

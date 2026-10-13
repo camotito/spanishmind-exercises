@@ -1,0 +1,164 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "38.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de indicativo o estar + gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Dónde estás ahora? -(vivir) _____ en casa de unos amigos hasta que encuentre piso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué juerguista es Ramón! Siempre (salir) _____ con los amigos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Laura es muy desagradable. Nunca (salir) _____ con nosotros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(servir) _____ Nadal. Federer le (devolver) _____ la pelota con fuerza, pero Nadal (responder) _____ con un buen revés. (subir) _____ a la red y...",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué (hacer, tú) _____ aquí? -Le (cuidar) _____ la casa a Rolf mientras está fuera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pilar ya ha acabado la carrera y ahora (hacer) _____ un máster en Dirección de Empresas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(bajar) _____ los precios de los pisos.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "38.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de indicativo o estar + gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Por qué no (responder) _____? -Es que me (comer) _____ una manzana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿(tú, ver) _____ a Sofía? -No, no tengo las gafas y no (ver) _____ de lejos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-(querer, yo) _____ hablar con Maite. -Ahora no puede. (bañarse) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿(tú, preferir) _____ ir en tren o en coche? -(pensar) _____ ir en avión.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué (significar) _____ esa palabra? -Un momento. (buscarla) _____ en mi diccionario.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Te (doler) _____ algo? -Me (fastidiar) _____ una muela.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "38.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos entre paréntesis en presente de indicativo o estar + gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Cómo te (sentir) _____? -No muy bien. Me (costar) _____ recuperarme.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me (gustar) _____ nada este libro. (desear) _____ acabarlo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¡Qué bien (tú, oler) _____! -Es un perfume nuevo. ¡(costar) _____ carísimo!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué haces en el jardín? -(yo, admirar) _____ las rosas y (oler) _____ su perfume.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(yo, admirar) _____ a Alberto. ¡Qué bien (él, llevar) _____ la separación de Maite!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Eres muy burro. Todavía me (doler) _____ el golpe que me diste.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los niños no se pueden levantar. Les (costar) _____ acostumbrarse al nuevo horario.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "38.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las situaciones con los verbos del recuadro en presente de indicativo o estar + gerundio, en afirmativa o negativa.",
+      "banco_palabras": [
+        "avanzar",
+        "desear",
+        "doler",
+        "esperar",
+        "hacer",
+        "llegar",
+        "pasar",
+        "regatear",
+        "saber",
+        "tirar",
+        "ver (3)"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "-¿Qué _____ aquí? -_____ a Tere.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿_____ algo? -No, _____ nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ los caballos a la recta final y _____ el número 9 por el interior.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy agotado. _____ acostarme.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tienes mala cara. ¿Te _____ algo? -Me _____ el estómago.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No molestes a papá. _____ el telediario.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Iniesta _____ a dos defensas, _____ a puerta y... ¡gol!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué le has echado a la sopa? -_____ bien.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 38,
+  "titulo_libro": "Le estamos cuidando los gatos a Clara. -- Presente de estar + gerundio",
+  "scan": "p-083.jpg"
+}

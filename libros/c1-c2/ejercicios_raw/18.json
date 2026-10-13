@@ -1,0 +1,207 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "18.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "(Me/ø) aburro cuando no trabajo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Me/ø) he hecho daño en el cuello.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡José es un pesado! (Se/ø) aburre a cualquiera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Josefa (se/ø) arregla mucho. Va siempre muy elegante.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando voy a fiestas, (me/ø) pinto un poco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nosotros (nos/ø) hacemos la comida todos los días. No nos gusta comer fuera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si seguís en la terraza (os/ø) vais a quedar helados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi hijo pequeño (se/ø) asusta de los perros grandes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si puedo, (me/ø) haré un traje azul a medida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa película de zombis (se/ø) asusta a cualquiera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Miguel (se/ø) enfada mucho a sus padres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Roque (se/ø) enfada fácilmente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estos alumnos (se/ø) cansan rápido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estos niños (se/ø) cansan a cualquiera.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "18.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la forma entre paréntesis y *me*, *te*, *se*... en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Tienes que (cortar) _____ el pelo, Mario. Lo tienes muy largo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunos cantantes (enloquecen) _____ a los jóvenes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando Ramón (enfada) _____, (convierte) _____ en otra persona.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo que (cortar) _____ las ramas a este árbol.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿A qué hora (levantas) _____ entre semana? -Yo (levanto) _____ a las siete y luego (levanto) _____ a los niños a las ocho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las flores (alegran) _____ mucho una casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No (preocupes) _____. Ya he reservado los billetes por internet.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo prisa. Hoy no me va a dar tiempo a (maquillar) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "18.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la forma entre paréntesis y *me*, *te*, *se*... en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Si quieres, (come) _____ la tarta. Yo ya no quiero más.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¡Limonada! -(Bebe) _____ si tienes sed. Hay mucha.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si tienes hambre, (come) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No (quejes) _____, Rocío. Yo trabajo más que tú.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Sabes) _____ la lección, Armando?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No tienes que (arrepentir) _____ de nada. Tú no tienes la culpa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No dejes nada. (Toma) _____ toda la sopa, por favor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No (creo) _____ ni la mitad de lo que dices.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Habéis comido) _____ toda la fabada?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sofía (gasta) _____ cien euros en una blusa.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "18.4",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Se ve que son madre e hija. (Parecen/Se parecen) mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Acuerdas/Te acuerdas) de cuándo estuvimos en Manila?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tienes que (llamar/llamarte) a Lydia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Hemos acordado/Nos hemos acordado) cerrar los sábados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿A qué hora (sale/se sale) tu avión?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No (bajes/te bajes) películas de internet. Es ilegal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi pueblo (encuentra/se encuentra) en lo alto de una colina.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Salimos/Nos salimos) de la película a la mitad. Era terrible.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Marcha/Márchate) ya si quieres llegar a tiempo a la estación.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién (ha llevado/se ha llevado) mi paraguas?",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 18,
+  "titulo_libro": "Se han hecho un chalé. Me bebí un café. -- Usos de me, te, se...",
+  "scan": "p-044.jpg"
+}

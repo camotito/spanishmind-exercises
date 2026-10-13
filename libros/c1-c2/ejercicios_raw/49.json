@@ -1,0 +1,188 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "49.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en condicional.",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué crees que (yo, deber) _____ hacer? –Yo, en tu lugar, (buscar) _____ otro empleo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me (encantar) _____ vivir en China, pero mi familia no quiere.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(yo, dejar) _____ ahora mismo mi trabajo y (irse) _____ a recorrer el mundo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El pelo corto no te queda bien. (tú, estar) _____ mejor con el pelo largo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace bastante frío. Yo que tú (ponerse) _____ un abrigo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Dónde te (apetecer) _____ cenar esta noche? Hoy es mi cumpleaños.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Os (acompañar) _____ al partido. Pero ya he quedado con Jaime.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "De buena gana (ir, yo) _____ contigo a la exposición de Rubens.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "49.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Haga las siguientes peticiones, sugerencias o comentarios de forma educada.",
+      "items": [
+        {
+          "texto_enunciado": "Pida lo siguiente a un desconocido: ¿importar / dejarme el periódico? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sugiera lo siguiente a sus amigos: poder / reunirse en casa de Arturo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pida lo siguiente a un amigo: ¿importar / llevarle a casa en su coche? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sugiera lo siguiente a un amigo: ¿poder / llevar un paquete a Correos? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Comente lo siguiente a un amigo: necesitar / ayuda con la mudanza. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pida lo siguiente a un desconocido: ¿poder / recomendarle un buen restaurante? _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "49.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir los comentarios expresando falta de seguridad en las afirmaciones.",
+      "items": [
+        {
+          "texto_enunciado": "Arnaldo dice que Lola es ingeniera. Según Arnaldo, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El periódico dice que la economía está muy mal. Según el periódico, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dicen que Roberto tiene casi sesenta años. Al parecer, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Enrique dice que Teresa tiene un hijo. Según Enrique, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta revista dice que hay crisis en el cine. Según esta revista, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los alumnos dicen que Andrés trabaja de camarero. Según los alumnos _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "49.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Exprese probabilidad, objeciones o temor sobre las informaciones siguientes. Use los verbos del recuadro.",
+      "banco_palabras": [
+        "coger",
+        "decir",
+        "dejar",
+        "echar",
+        "estar (2)",
+        "ser",
+        "tener"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "–Sonia era muy graciosa de pequeña. – _____ muy graciosa entonces, pero ahora es una antipática.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Anoche no logré hablar con Tina. – _____ en casa de su madre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Roberto tuvo siempre muchos amigos. – _____ muchos amigos, pero murió solo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–El fin de semana pasado me fui a la playa con unas amigas. –¿No _____ al perro solo?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Tasio estuvo anoche en casa de Alfredo. –¿No _____ mi coche?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Ayer no vine a trabajar porque estaba acatarrado. – _____ acatarrado, pero te vieron en el partido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Ayer el jefe me habló de ti. –¿No te _____ que me va a negar el adelanto que le pedí?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Este pescado está soso. –No le _____ sal.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "49.5",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases usando el condicional simple.",
+      "items": [
+        {
+          "texto_enunciado": "Empecé a competir en 2003. Tres años después, gané mi primera carrera. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me fui a México en 1997. Al año siguiente conocí a Rosalía, mi mujer. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Juan Carlos fue proclamado jefe del Estado Español en 1975. Horas después nombró su primer Gobierno. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ramiro empezó en el restaurante de pinche de cocina. Dos años después, le hicieron cocinero. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Publicó su primera novela a los veinte años. Treinta años después le dieron el Premio Nobel de Literatura. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 49,
+  "titulo_libro": "Estaría en el jardín. -- Condicional simple",
+  "scan": "p-105.jpg"
+}

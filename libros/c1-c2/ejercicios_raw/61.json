@@ -1,0 +1,175 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "61.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis en presente de indicativo o de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Luis cree que aún (haber) _____ entradas para el concierto. -Pues yo no creo que (hay) _____ ya.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Te parece que (yo, estar) _____ mejor con corbata o sin corbata? -Creo que (tú, estar) _____ mejor con corbata.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Veo que Luisa no (querer) _____ colaborar. -Sí, no parece que (ir) _____ a ayudar mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿No te parece que (tú, tener) _____ que hacer algo? -No creo que (ser) _____ obligatorio estudiar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿No crees que (ser) _____ muy pronto para salir a cenar? -No, no me parece que (ser) _____ pronto. Son las ocho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Noto que (estar) _____ más delgado, Luis. -Desgraciadamente, yo no noto que lo (estar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Estás seguro de que Jorge (saber) _____ lo nuestro? -No, no creo que lo (saber) _____. Pero a mí me da igual.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Ves mal que Ana no nos (invitar) _____ a su fiesta? -Sí, porque estoy seguro de que (ella, ir) _____ a invitar a Amelia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Opinas que López (saber) _____ mucho de coches? -Bueno, no parece que (saber) _____ mucho. La última vez nos quedamos tirados en plena calle Alcalá.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué crees que Carmen (estudiar) _____ ahora? -No sé. Pero estoy seguro de que no _____ nada serio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Piensas que Julio (decir) _____ eso en broma? -No creo que lo _____ en broma. Él nunca bromea.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué tal la nueva loción? -No sé. No veo que (yo, tener) _____ más pelo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Sabes que Eloísa (dejar) _____ la empresa?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Juan está triste. -Pues yo no veo que (estar) _____ triste. Está todo el día con amigos.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "61.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir la información entre paréntesis con la expresión de verdad o falsedad correspondiente.",
+      "items": [
+        {
+          "texto_enunciado": "(Dicen que Carlos está enfermo, pero no tengo constancia de ello.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que Tomás vende coches usados, pero es falso.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Sus jefes estiman a Roberto. No lo tengo claro.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que Ramón sabe chino, pero no está claro.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que en Escocia hace muy mal tiempo, pero no es cierto.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que Julio vive en Miami, pero no es cierto.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Lo tienen por superdotado, pero es dudoso.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que Alicia detesta a Iván, pero es mentira.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que el Gobierno va a cambiar, pero no tengo la seguridad.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Quieren subir la gasolina otra vez. Me consta.) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "61.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de indicativo o de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "El periódico dice que (subir) _____ los impuestos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El presidente no ha confirmado que (haber) _____ crisis económica.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién dice que no (haber) _____ crisis?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Dónde dice que la baronesa (casarse) _____ otra vez?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elena me ha explicado que su novio (estar) _____ en paro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me cuentan que mi sobrina (acabar) _____ de divorciarse.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Comentan que el director (dimitir) _____ dentro de unos días.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nadie confirma que el director (dimitir) _____ pronto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Diego afirma que Ramón (saber) _____ chino.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nadie niega que Roberto (ser) _____ un mal alcalde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Quién dice que (yo, tener) _____ la culpa? -Nadie dice que _____ tú la culpa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Alberto dice que (nosotros, tener) _____ que llevar esmoquin a la recepción. -Pues en la invitación no dice que _____ que llevarlo.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 61,
+  "titulo_libro": "Creo que hay. / No creo que haya. -- Verbos seguidos de indicativo o subjuntivo (1)",
+  "scan": "p-129.jpg"
+}

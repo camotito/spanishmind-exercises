@@ -1,0 +1,191 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "98.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con las expresiones entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Dale lo que quiere si se calla. (siempre que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vuelvo pronto si no tengo trabajo. (a menos que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te presto 50 euros si me los devuelves pronto. (a condición de que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Podemos ir en mi coche si no os da miedo cómo conduzco. (a no ser que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te ayudo con los ejercicios si no le dices nada a nadie. (con tal de que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pago esta ronda si pagas tú la siguiente. (con la condición de que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quedamos a las ocho si no dices otra cosa. (salvo que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llevamos al perro si no decides lo contrario. (a no ser que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No cojas la bici si no te dan permiso. (sin que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos vemos mañana si no tienes otros planes. (a menos que) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "(nosotros, poder) _____ ir al teatro, a no ser que (tú, preferir) _____ ir al cine.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No creo que tenga tiempo, pero (yo, ir) _____ a verte con la condición de que me (invitar) _____ a comer.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mañana (nosotros, ir) _____ seguro al campo, a no ser que (hacer) _____ muy mal tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sergio se puso muy contento. Le (yo, prometer) _____ buscarle trabajo siempre que (él, acabar) _____ la carrera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Paco tenía mucha cara. No (él, ir) _____ nunca de viaje a no ser que le (invitar) _____ alguien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por las mañanas me entreno en el parque a no ser que (llover) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(vosotros, poder) _____ contar conmigo para el partido con la condición de que no (ser) _____ el domingo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando hablé con Rosa le (yo, contar) _____ lo de Rita con la condición de que no le (decir) _____ nada a ella.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Paco (asistir) _____ a la cena a no ser que (estar) _____ de servicio esa noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué no me dijiste nada? Te (yo, ayudar) _____ con tal de que me lo (tú, pedir) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No (tú, hacer) _____ nada sin que ellos te lo (pedir) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vale. (yo, jugar) _____ contigo siempre que no (tú, hacer) _____ trampas.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir lo subrayado con *en caso de*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Si hay una pelea</u> _____, te vas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si viene Laila</u> _____, dile que se quede a cenar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si te encuentras algo por la calle</u> _____, llévalo a una comisaría.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es probable, pero <u>si llama Juan</u>. _____, estoy ocupado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si hay una nevada</u> _____, echan sal por las calles.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si hay un accidente</u> _____, llama al 112.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si se siente peor</u> _____, se toma dos de estas pastillas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si cierra la empresa</u> _____, nos dan una indemnización.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos entre paréntesis en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "En caso de (nosotros, encontrar) _____ agua, (nosotros, hacer) _____ un pozo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No os preocupéis, en caso de (nosotros, ir) _____ el domingo, os (nosotros, llamar) _____ antes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por favor, Alberto, no (dejar de) _____ llamarnos, en caso de que no (tú, poder) _____ venir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En caso de (yo, practicar) _____ algún deporte, (hacer) _____ alpinismo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He guardado el recibo en caso de que (ella, querer) _____ devolver la bufanda.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Supongo que estarán bien. En caso de que (pasar) _____ algo, (nosotros, enterarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En caso de que el coche no (arrancar) _____, (nosotros, tener) _____ que empujar un poco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo creo que la agencia tuvo suerte porque, en caso de (ellos, perder) _____ las maletas, nos (ellos, tener) _____ que indemnizar.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 98,
+  "titulo_libro": "siempre que, a menos que -- Oraciones condicionales (5)",
+  "scan": "p-203.jpg"
+}

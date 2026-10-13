@@ -1,0 +1,175 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "65.1",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Exprese deseos con exclamaciones con *¡ojalá!* y las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Ha habido un incendio en mi casa. (pasar nada a mi mujer) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer fue el sorteo de la lotería. (tocarme) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy sabe las notas Mario. (aprobar) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Queremos comprar un piso que hemos visto. (no venderlo todavía) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alberto se ha pinchado con un clavo. (no infectarse) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me he presentado a un concurso de canto. (seleccionarme) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mis padres por fin han vendido el piso. (venderlo bien) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Casto ya se ha operado de cataratas. (salir bien la operación) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es raro. Mi cuñado todavía no ha llamado. (no tener ninguna avería en el coche) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay mucha cola para el concierto de Springsteen. (René, reservar entradas) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "65.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría? Exprese deseos con exclamaciones con *¡que!* o *¡así!*",
+      "items": [
+        {
+          "texto_enunciado": "-Han operado a Pablo. -(ir todo bien)) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Anoche se perdió un niño en la sierra -(encontrarlo ya) ) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Han detenido a mucha gente en la manifestación. -(no detener a Conchi)) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Mi jefe no vino ayer porque tuvo que ir al dentista. -(sacarle todos los dientes)) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Han despedido a mucha gente en la empresa. -(no despedir a Pablo)) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Han entrado ladrones en casa de Tomás. -(no hacerle nada)) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Ha salido la lista de los seleccionados para las becas. -(concedérsela a Miguel) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Ha habido un accidente muy grave en una mina. -(no haber víctimas)) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "65.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Exprese los sentimientos indicados sobre las situaciones siguientes con exclamaciones con *¡qué!*",
+      "items": [
+        {
+          "texto_enunciado": "Los Serrano no han tenido hijos. Es una pena. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jesús no ha trabajado nunca. Es una vergüenza. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han devuelto una carta a unos amigos. Es raro. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Carmen no ha oído hablar de Madonna. Es extraño. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No hemos logrado sacar entradas para el concierto. Mala suerte. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Has vendido todos los cuadros. Es una maravilla. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yuri no ha visto nunca una jirafa. Es curioso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No nos han ingresado la nómina todavía. Es un fastidio. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "65.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos adecuados en imperativo.",
+      "banco_palabras": [
+        "cambiar",
+        "llamar",
+        "pintar",
+        "recibir",
+        "salir",
+        "tener"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "-¿Quién ha pintado la habitación? Está preciosa. -Posiblemente la _____ Daniel. Se le da muy bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Luis y Pili no están en casa. -Probablemente _____. Los miércoles van siempre al cine.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Para qué le ha llamado el director a Luisa? -No estoy segura. Probablemente la _____ por algún asunto urgente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Ramón y María no cogen el teléfono. -Posiblemente _____ que ir a Valdepeñas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No contestan. -Quizá _____ el horario de oficinas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jorge está preocupado. Tal vez _____ una mala noticia.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 65,
+  "titulo_libro": "¡Ojalá hayan regresado! -- Pretérito perfecto de subjuntivo (1)",
+  "scan": "p-137.jpg"
+}

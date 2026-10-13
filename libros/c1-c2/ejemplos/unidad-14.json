@@ -1,0 +1,302 @@
+{
+  "tema": "unidad-14",
+  "titulo": "todos, cada, sendos",
+  "descripcion_gramatical": "Cuantificadores",
+  "fuente": "libro",
+  "unidad_libro": 14,
+  "ejercicios": [
+    {
+      "subejercicio": "14.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con *todo*, *toda*, *todos* o *todas*.",
+      "items": [
+        {
+          "texto_enunciado": "Los jueves nos reunimos _____ las amigas.",
+          "solucion_correcta": [
+            "todas"
+          ]
+        },
+        {
+          "texto_enunciado": "Esos muebles combinan con _____.",
+          "solucion_correcta": [
+            "todo"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero quitarme de encima _____ preocupación y olvidarme de _____.",
+          "solucion_correcta": [
+            "toda",
+            "todo"
+          ]
+        },
+        {
+          "texto_enunciado": "Bajad _____ las persianas, que hace frío.",
+          "solucion_correcta": [
+            "todas"
+          ]
+        },
+        {
+          "texto_enunciado": "Con los niños hay que estar pendiente en _____ momento. ¡Bajaos _____ de ahí, chicos!",
+          "solucion_correcta": [
+            "todo",
+            "todos"
+          ]
+        },
+        {
+          "texto_enunciado": "En este hotel, _____ las habitaciones tienen baño.",
+          "solucion_correcta": [
+            "todas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con *todos*, *todas* y *los*, *las* /*mis*, *tus*... /*estos*, *esos*... /*nosotros*, *nosotras*, *vosotros*, *vosotras*, *ustedes*, *ellos*, *ellas* en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Creo que _____ nos merecemos un descanso.",
+          "solucion_correcta": [
+            "todos nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "No necesito esos periódicos. Puedes tirarlos _____.",
+          "solucion_correcta": [
+            "todos"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero hacer una comida con _____ hijos, pero nunca tienen tiempo.",
+          "solucion_correcta": [
+            "todos mis"
+          ]
+        },
+        {
+          "texto_enunciado": "En esta urbanización _____ casas son grandes.",
+          "solucion_correcta": [
+            "todas las"
+          ]
+        },
+        {
+          "texto_enunciado": "Escuchad, chicas. Os quiero ver a _____ aquí mañana a las ocho.",
+          "solucion_correcta": [
+            "todas / todas vosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "–Come patatas. –No me gustan. Te las puedes comer _____.",
+          "solucion_correcta": [
+            "todas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿De quién son _____ papeles?",
+          "solucion_correcta": [
+            "todos estos"
+          ]
+        },
+        {
+          "texto_enunciado": "Si tienen entradas, pueden pasar _____.",
+          "solucion_correcta": [
+            "todos (ustedes)"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con *cada*, *cada uno de*, *cada una de*.",
+      "items": [
+        {
+          "texto_enunciado": "Hay que pintar _____ estas habitaciones.",
+          "solucion_correcta": [
+            "cada una de"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ alumno es diferente. Unos son buenos en una cosa y otros en otra.",
+          "solucion_correcta": [
+            "Cada"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ hora que pasa hay menos esperanzas de encontrar a los desaparecidos.",
+          "solucion_correcta": [
+            "Cada"
+          ]
+        },
+        {
+          "texto_enunciado": "En España nace un niño _____ tres minutos.",
+          "solucion_correcta": [
+            "cada"
+          ]
+        },
+        {
+          "texto_enunciado": "En verano paso un mes con _____ mis hermanas.",
+          "solucion_correcta": [
+            "cada una de"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ nosotras tiene un horario diferente.",
+          "solucion_correcta": [
+            "Cada una de"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes que comprar un regalo para _____ tus hijos.",
+          "solucion_correcta": [
+            "Cada uno de"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.4",
+      "tipologia": "T3",
+      "enunciado": "Complete con *cada*, *cada uno/una de*, *cada uno/una*.",
+      "items": [
+        {
+          "texto_enunciado": "Mi padre ha comprado una mesa para _____ nosotros.",
+          "solucion_correcta": [
+            "cada uno de"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ debería ayudar en lo que pudiera.",
+          "solucion_correcta": [
+            "Cada uno"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí _____ hace lo que quiere.",
+          "solucion_correcta": [
+            "cada uno"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ hijo es diferente.",
+          "solucion_correcta": [
+            "Cada"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero poner calefacción en _____ habitación.",
+          "solucion_correcta": [
+            "cada"
+          ]
+        },
+        {
+          "texto_enunciado": "Somos cinco hermanas y nos han regalado un ordenador para _____.",
+          "solucion_correcta": [
+            "cada una"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ vosotros tiene diferentes opiniones.",
+          "solucion_correcta": [
+            "Cada uno de"
+          ]
+        },
+        {
+          "texto_enunciado": "Podéis iros. _____ ya sabe lo que tiene que traer mañana.",
+          "solucion_correcta": [
+            "Cada uno"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.5",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *sendos*, *sendas*.",
+      "items": [
+        {
+          "texto_enunciado": "He regalado un reloj a cada uno de mis hijos. _____",
+          "solucion_correcta": [
+            "He regalado sendos relojes a mis hijos"
+          ]
+        },
+        {
+          "texto_enunciado": "Los dos amigos fueron en una moto cada uno. _____",
+          "solucion_correcta": [
+            "Los dos amigos fueron en sendas motos"
+          ]
+        },
+        {
+          "texto_enunciado": "Los cinco turistas se alojaron cada uno en una tienda. _____",
+          "solucion_correcta": [
+            "Los cinco turistas se alojaron en sendas tiendas"
+          ]
+        },
+        {
+          "texto_enunciado": "El alcalde y la ministra pronunciaron su discurso cada uno. _____",
+          "solucion_correcta": [
+            "El alcalde y la ministra pronunciaron sendos discursos"
+          ]
+        },
+        {
+          "texto_enunciado": "Los cuatro niños llevaban su bici y su mochila cada uno. _____",
+          "solucion_correcta": [
+            "Los cuatro niños llevaban sendas bicis y mochilas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.6",
+      "tipologia": "T3",
+      "enunciado": "Complete con la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "_____ hijo es diferente. _____ los hijos son hijos únicos.",
+          "solucion_correcta": [
+            "Cada",
+            "Todos"
+          ]
+        },
+        {
+          "texto_enunciado": "– _____ día estás más joven, Ana. –Pues yo _____ año me siento más vieja.",
+          "solucion_correcta": [
+            "Cada",
+            "cada"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ las hermanas somos diferentes. A _____ le interesan cosas distintas.",
+          "solucion_correcta": [
+            "Cada una de",
+            "cada una"
+          ]
+        },
+        {
+          "texto_enunciado": "Amalia no está bien. Se tiene que parar _____ pocos metros.",
+          "solucion_correcta": [
+            "cada"
+          ]
+        },
+        {
+          "texto_enunciado": "Esas muchachas vienen _____ martes a practicar ballet.",
+          "solucion_correcta": [
+            "cada"
+          ]
+        },
+        {
+          "texto_enunciado": "El discurso lo van a televisar en _____ las cadenas nacionales.",
+          "solucion_correcta": [
+            "todas"
+          ]
+        },
+        {
+          "texto_enunciado": "Todos los manifestantes iban en _____ bicicletas.",
+          "solucion_correcta": [
+            "sendas"
+          ]
+        }
+      ]
+    }
+  ]
+}

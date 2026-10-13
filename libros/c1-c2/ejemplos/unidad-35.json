@@ -1,0 +1,271 @@
+{
+  "tema": "unidad-35",
+  "titulo": "¿Salimos esta noche?",
+  "descripcion_gramatical": "Presente de indicativo: otros usos",
+  "fuente": "libro",
+  "unidad_libro": 35,
+  "ejercicios": [
+    {
+      "subejercicio": "35.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las instrucciones con los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____ un poco de aceite en la sartén. _____ un huevo, lo _____ y lo _____ en la sartén cuando el aceite esté caliente.",
+          "solucion_correcta": [
+            "Pones",
+            "Rompes",
+            "bates",
+            "echas"
+          ]
+        },
+        {
+          "texto_enunciado": "Primero _____ el ordenador y luego _____ a este botón. _____ el disco en la bandeja y _____ a apretar el botón.",
+          "solucion_correcta": [
+            "enchufas",
+            "das",
+            "Metes",
+            "vuelves"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ las patatas durante diez minutos y luego, cuando todavía están calientes, las _____. Después, las _____ en rodajas y les _____ un poco de aceite.",
+          "solucion_correcta": [
+            "Hierves",
+            "pelas",
+            "cortas",
+            "echas"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cómo funciona este teléfono? -Primero _____ el botón verde y _____ el número al que quieres llamar. Luego _____ a que te contesten. Cuando terminas de hablar, _____ el botón rojo.",
+          "solucion_correcta": [
+            "aprietas",
+            "marcas",
+            "esperas",
+            "aprietas"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "apretar (2)",
+        "batir",
+        "echar (2)",
+        "enchufar",
+        "cortar",
+        "dar",
+        "hervir",
+        "meter",
+        "poner",
+        "romper",
+        "volver",
+        "pelar",
+        "marcar",
+        "esperar"
+      ]
+    },
+    {
+      "subejercicio": "35.2",
+      "tipologia": "T12",
+      "enunciado": "Haga sugerencias con *¿Por qué no...?* o *¿Qué tal si...?*",
+      "items": [
+        {
+          "texto_enunciado": "Sugiera a unos amigos alquilar todos un coche. _____",
+          "solucion_correcta": [
+            "¿Por qué no / Qué tal si... alquilamos un coche?"
+          ]
+        },
+        {
+          "texto_enunciado": "Sugiera a unos amigos que busquen hotel en internet. _____",
+          "solucion_correcta": [
+            "¿Por qué no buscáis hotel en internet?"
+          ]
+        },
+        {
+          "texto_enunciado": "Sugiera a una amiga que aprenda japonés. _____",
+          "solucion_correcta": [
+            "¿Por qué no aprendes japonés?"
+          ]
+        },
+        {
+          "texto_enunciado": "Sugiera a unos desconocidos que cojan un taxi. _____",
+          "solucion_correcta": [
+            "¿Por qué no cogen un taxi?"
+          ]
+        },
+        {
+          "texto_enunciado": "Sugiera a un amigo dar una vuelta por el centro. _____",
+          "solucion_correcta": [
+            "¿Por qué no / Qué tal si... damos una vuelta por el centro?"
+          ]
+        },
+        {
+          "texto_enunciado": "Sugiera a unos amigos sacar las entradas para un concierto. _____",
+          "solucion_correcta": [
+            "¿Por qué no / Qué tal si... sacamos las entradas para un concierto?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.3",
+      "tipologia": "T12",
+      "enunciado": "¿Qué diría? Escriba las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Pida consejo a un amigo: qué hacer. _____",
+          "solucion_correcta": [
+            "¿Qué hago?"
+          ]
+        },
+        {
+          "texto_enunciado": "Ofrezca ayuda a un amigo: explicarle un problema. _____",
+          "solucion_correcta": [
+            "¿Te explico el problema?"
+          ]
+        },
+        {
+          "texto_enunciado": "Pida consejo a un amigo: llamar a Marta. _____",
+          "solucion_correcta": [
+            "¿Llamo a Marta?"
+          ]
+        },
+        {
+          "texto_enunciado": "Pida un favor a un amigo: coserle un botón. _____",
+          "solucion_correcta": [
+            "¿Me coses un botón?"
+          ]
+        },
+        {
+          "texto_enunciado": "Pida un favor a un amigo: echarle una mano. _____",
+          "solucion_correcta": [
+            "¿Me echas una mano?"
+          ]
+        },
+        {
+          "texto_enunciado": "Ofrezca ayuda a un vecino enfermo: hacerle la compra. _____",
+          "solucion_correcta": [
+            "¿Te / Le hago la compra?"
+          ]
+        },
+        {
+          "texto_enunciado": "Ofrezca ayuda a una señora mayor: bajarle el carrito de la compra. _____",
+          "solucion_correcta": [
+            "¿Le bajo el carrito de la compra?"
+          ]
+        },
+        {
+          "texto_enunciado": "Pida un favor al portero: abrirle el garaje. _____",
+          "solucion_correcta": [
+            "¿Me abre el garaje?"
+          ]
+        },
+        {
+          "texto_enunciado": "Haga una petición a un desconocido: decirle la hora. _____",
+          "solucion_correcta": [
+            "¿Me dice la hora?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las amenazas con el presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "Si no cuidas bien el coche, no te lo dejo. O _____ o _____.",
+          "solucion_correcta": [
+            "O cuidas bien el coche o no te lo dejo"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "Si no te portas bien, se lo digo a tus padres. _____ o _____.",
+          "solucion_correcta": [
+            "Pórtate bien o se lo digo a tus padres"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "Si no deja el perro fuera, aquí no entra. O _____ o _____.",
+          "solucion_correcta": [
+            "O deja el perro fuera o aquí no entra"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "Si no sacas un poco la llave de la cerradura, no abres esa puerta. _____ o _____.",
+          "solucion_correcta": [
+            "Saca un poco la llave de la cerradura o no abres esa puerta"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "Si no escuchas, me callo. O _____ o _____.",
+          "solucion_correcta": [
+            "O escuchas o me callo"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "Si no vienes, me voy. O _____ o _____.",
+          "solucion_correcta": [
+            "O vienes o me voy"
+          ],
+          "respuesta_frase_completa": true
+        },
+        {
+          "texto_enunciado": "Si Nacho no viene, no doy la fiesta. O _____ o _____.",
+          "solucion_correcta": [
+            "O viene Nacho o no doy la fiesta"
+          ],
+          "respuesta_frase_completa": true
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.5",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las órdenes con el presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "¡Vete ahora mismo! _____",
+          "solucion_correcta": [
+            "¡Te vas ahora mismo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Siéntate a mi lado y no te muevas, Carlitos. _____",
+          "solucion_correcta": [
+            "¡Te sientas a mi lado y no te mueves, Carlitos!"
+          ]
+        },
+        {
+          "texto_enunciado": "Es muy tarde. Id a vuestro cuarto, apagad la luz y dormíos. _____",
+          "solucion_correcta": [
+            "¡Es muy tarde. Vais a vuestro cuarto, apagáis la luz y os dormís!"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Hazlo ahora mismo! _____",
+          "solucion_correcta": [
+            "¡Lo haces ahora mismo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Devuélvemelo ya. _____",
+          "solucion_correcta": [
+            "¡Me lo devuelves ya!"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Cállate ya y déjame! _____",
+          "solucion_correcta": [
+            "¡Te callas ya y me dejas!"
+          ]
+        }
+      ]
+    }
+  ]
+}

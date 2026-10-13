@@ -1,0 +1,151 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "67.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis en pretérito perfecto de indicativo o pretérito perfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "–Tardan mucho. ¿Qué crees que (pasar) _____? –No sé. No creo que (tener) _____ un accidente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Esos hinchas del Atleti están muy contentos. ¿Crees que (ganar) _____? –No creo que (ganar) _____. Jugaban contra el Real Madrid.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Quién ha fregado los platos? –Me parece que los (fregar) _____ Ana. –No creo que (ser) _____ Ana. Nunca los friega.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Recuerdas quién (entrar) _____ aquí hoy? –Pues no recuerdo que (entrar) _____ nadie.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Piensas que Martín nos (decir) _____ todo lo que sabe de Lola? –No, no pienso que nos (decir) _____ toda la verdad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Por qué sospechas que alguien te (seguir) _____ hasta aquí? –No sé. Creo que un hombre (venir) _____ tras de mí todo el tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Parece que Ana (sacar) _____ la oposición. –¡Increíble! No creo que (suspender) _____ nada en su vida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Se oyen muchas sirenas de ambulancia. Parece que (pasar) _____ algo. –No creo que (pasar) _____ nada extraordinario. Es siempre así.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No recuerdo que Manuel (pasar) _____ alguna noche en casa. –Puede que no lo recuerdes, pero estoy seguro de que (pasar) _____ más de una.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Me parece que (volver) _____ a subir el pollo. –Pues no creo que me (cobrar) _____ más esta mañana.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "67.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir la información entre paréntesis con la expresión de certeza o falsedad correspondiente. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "(Dicen que Alberto ha tenido boutiques, pero es falso.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que hoy ha hecho mucho calor, pero no es cierto.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(No hemos sabido educar a Julia. Está claro.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que este año ha sido malo, pero no está claro.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que Jesús ha vivido en Nueva Zelanda, pero no es cierto.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que los Gómez han alquilado un barco, pero es mentira.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Se dice que Jiménez ha estado en la cárcel, pero no está muy claro.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que el precio del oro ha vuelto a subir. Es evidente.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dice Ángel que ha visto un ovni, pero es falso.) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Dicen que el presidente ha presentado su dimisión, pero no es verdad.) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "67.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en pretérito perfecto de indicativo o pretérito perfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "–El periódico dice que esta semana (haber) _____ pocos accidentes de tráfico. –Bueno, no dice exactamente que (haber) _____ pocos accidentes. Dice que (haber) _____ pocos muertos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La televisión ha dicho que este año (ser) _____ muy malo económicamente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El Gobierno niega que (suspender) _____ el acuerdo de pesca con Noruega.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se comenta que la ministra (preparar) _____ ya el decreto para prohibir fumar en lugares públicos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ella no dice que (terminar) _____ el máster de empresas, dice que no lo (terminar) _____ todavía, que le (faltar) _____ tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raquel afirma que le (ofrecer) _____ un puesto mejor en otra empresa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nadie nos ha dicho que Maite (estar) _____ en paro todo este tiempo. No nos han dicho que (pedir) _____ ayuda a nadie.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos han dicho que la empresa (cerrar) _____, pero han negado que (ser) _____ por quiebra.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Y tú dices que esa empresa (tener) _____ pérdidas? ¿Desde cuándo?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elena afirma que el transporte (subir) _____ una barbaridad.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 67,
+  "titulo_libro": "Creo que han tenido. / No creo que hayan tenido. -- Verbos seguidos de indicativo o subjuntivo (3)",
+  "scan": "p-141.jpg"
+}

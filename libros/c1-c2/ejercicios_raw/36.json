@@ -1,0 +1,184 @@
+{
+ "ejercicios": [
+  {
+   "subejercicio": "36.1",
+   "tipologia": "T11",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases con *hace* y el presente de indicativo.",
+   "items": [
+    {
+     "texto_enunciado": "La última vez que fui a la ópera fue hace mucho. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Se fue a vivir a Roma el año pasado. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Empecé a trabajar en esta agencia hace dos meses. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La última vez que vi a Luis fue hace dos semanas. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Empecé a usar lentillas hace años. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Gregorio empezó a estudiar grafología el año pasado. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La última vez que Iliana vino aquí fue hace tiempo. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La última vez que vi a Nerea fue el mes pasado. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El agua empezó a hervir hace cinco minutos. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "36.2",
+   "tipologia": "T11",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases con *desde* o *desde hace* y el presente de indicativo.",
+   "items": [
+    {
+     "texto_enunciado": "La última vez que hablé con Teresa fue hace seis meses. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Empecé a dirigir la empresa el verano pasado. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Empecé a padecer insomnio hace tres años. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La última vez que vi a Juan fue en su boda. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Emilio comenzó a salir con Laura en Navidad. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Amelia empezó a tocar el violín hace mucho tiempo. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "36.3",
+   "tipologia": "T10",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases con *desde que*.",
+   "items": [
+    {
+     "texto_enunciado": "Empezó a trabajar en un banco cuando acabó la carrera; sigue trabajando allí. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Empecé a dormir mal cuando nació mi hijo; sigo durmiendo mal. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Marisa empezó a soñar con ser bailarina cuando era niña. Sigue soñando. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "María empezó a escribir novelas cuando tenía 19 años; sigue escribiendo novelas. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "A Paco le empezó a doler la espalda cuando llegó a Ávila y sigue doliéndole. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Mario se hizo abogado cuando tenía 24 años y aún lo es. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "36.4",
+   "tipologia": "T12",
+   "tipologia_libre": null,
+   "enunciado": "Escriba preguntas para las respuestas.",
+   "items": [
+    {
+     "texto_enunciado": "¿_____? Hace cinco años que soy traductor.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿_____? Conduzco desde que tenía 18 años.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿_____? Llevo gafas desde que era niña.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿_____? Trabajo en Iberia desde que me casé.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿_____? Hace un mes que tengo perro.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿_____? Hace ya diez años que Juan es director.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "36.5",
+   "tipologia": "T12",
+   "tipologia_libre": "Construcción de oraciones temporales a partir de elementos léxicos guía separados por barras oblicuas.",
+   "enunciado": "Escriba las frases con las palabras dadas como en el ejemplo.",
+   "items": [
+    {
+     "texto_enunciado": "El domingo / una semana en Taiwán / estar, nosotros _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "En enero/ un año /trabajar en esta empresa, yo _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El día 3 / 10 años / estar casados, nosotros _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El 5 de enero/ 2 años/ vivir juntos, Óscar y Ana _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Mañana / un mes / salir con Olga, yo _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El sábado/tres meses/estar en el hospital, mi abuelo _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Mañana / dos meses / no fumar, yo _____",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Construcción de oraciones temporales a partir de elementos léxicos guía separados por barras oblicuas."
+  }
+ ],
+ "unidad": 36,
+ "titulo_libro": "Hace mucho que no como tacos. -- Presente de indicativo: duración",
+ "scan": "p-079.jpg"
+}

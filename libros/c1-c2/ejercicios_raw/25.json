@@ -1,0 +1,175 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "25.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *cuál*, *qué*, *quién* y la palabra entre paréntesis donde corresponda.",
+      "items": [
+        {
+          "texto_enunciado": "–¿(vosotros) _____ quiere tener clase el sábado? –Ninguno.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿(tus hijas) _____ trabaja en Milán? –Rosana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Con (profesor) _____ te examinas? –No lo sé.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ ha escrito esto? –Una amiga mía.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿A _____ de los que te robaron conocías? –Al jefe de la banda.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(ustedes) _____ ha estado aquí antes?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿A (mis hermanas) _____ conoces?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿_____ son ustedes? ¿Los padres de Tamara?",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "25.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el interrogativo adecuado y la palabra entre paréntesis donde corresponda.",
+      "items": [
+        {
+          "texto_enunciado": "–¿En (periódico) _____ lo has leído? –En La Nación.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿(estos libros) _____ has leído? –Ninguno.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ es una quena? –Una flauta andina.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿En (hotel) _____ se alojan? –En el Nacional.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ son tus patines? –Los que están encima de la silla.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(gafas) _____ te has puesto? ¿Las de cerca o las de lejos?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(esos) _____ es el ordenador de Gómez?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿_____ es tu dirección de correo electrónico?",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "25.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el interrogativo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "–¿_____ has escondido los regalos? –En el armario.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ quieren? –Hablar contigo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ tenemos que ir? –Hasta aquel grupo de casas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ me has despertado? – Porque ya son las diez.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ has ido a casa de Teresa? –A llevarle un libro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ has encontrado la calle? –He preguntado a un policía.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ tenemos que esperar? –Hasta que venga alguien a cerrar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ quieres mi informe? –Quiero buscar trabajo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ empleados trabajan aquí? –Casi cien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ vale esa cazadora negra? –Quinientos yuanes.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "25.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las preguntas con el interrogativo y las preposiciones adecuadas.",
+      "items": [
+        {
+          "texto_enunciado": "–¿_____ es el paquete? –Para Julián.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ está hablando? –Con un cliente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Sabes _____ archivadores están las facturas? –En el del centro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ aula tienes clase? –En la 10.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ estás escribiendo? –A un compañero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Perdone, ¿_____ se sale? –Por el pasillo de la derecha.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ sirve esta tecla? –Para mover el cursor al final.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿_____ os conocéis? –Desde que éramos niños.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 25,
+  "titulo_libro": "¿Quién...? ¿Cuál...? ¿Qué...? -- Interrogativos (1)",
+  "scan": "p-058.jpg"
+}

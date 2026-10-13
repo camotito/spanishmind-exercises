@@ -1,0 +1,287 @@
+{
+  "tema": "unidad-48",
+  "titulo": "acabaré / habré acabado",
+  "descripcion_gramatical": "Contraste futuro simple / futuro compuesto",
+  "fuente": "libro",
+  "unidad_libro": 48,
+  "ejercicios": [
+    {
+      "subejercicio": "48.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con el futuro simple o el futuro compuesto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(ellos, acabar) _____ las obras dentro de dos semanas.",
+          "solucion_correcta": [
+            "Acabarán"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes, cuando llegues, (ellos, acabar) _____ las obras.",
+          "solucion_correcta": [
+            "habrán acabado"
+          ]
+        },
+        {
+          "texto_enunciado": "Te (yo, pagar) _____ la semana que viene.",
+          "solucion_correcta": [
+            "pagaré"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando sea mi cumpleaños (yo, dar) _____ una fiesta.",
+          "solucion_correcta": [
+            "daré"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando tenga 25 años, ya (yo, acabar) _____ la carrera.",
+          "solucion_correcta": [
+            "habré acabado"
+          ]
+        },
+        {
+          "texto_enunciado": "Te lo (contar) _____ cuando no veamos.",
+          "solucion_correcta": [
+            "contaré"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que a las seis ya (regresar) _____ Felipe. Podéis venir a esa hora.",
+          "solucion_correcta": [
+            "habrá regresado"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando llegues, yo ya (terminar) _____ con el ordenador.",
+          "solucion_correcta": [
+            "habré terminado"
+          ]
+        },
+        {
+          "texto_enunciado": "Es mejor que vengáis en septiembre. Ya (irse) _____ muchos turistas.",
+          "solucion_correcta": [
+            "se habrán ido"
+          ]
+        },
+        {
+          "texto_enunciado": "La nueva secretaria (llegar) _____ dentro de unos días.",
+          "solucion_correcta": [
+            "llegará"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. Cuando llegues de clase, ya (yo, preparar) _____ la cena.",
+          "solucion_correcta": [
+            "habré preparado"
+          ]
+        },
+        {
+          "texto_enunciado": "Tranquilos, nosotros cuidamos a la abuela. No (nosotros, irse) _____ hasta que regreséis.",
+          "solucion_correcta": [
+            "nos iremos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "48.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con el futuro simple o el futuro compuesto de los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "–Mira qué hambre tienen. –No _____ nada.",
+          "solucion_correcta": [
+            "habrán desayunado"
+          ]
+        },
+        {
+          "texto_enunciado": "–¡Qué bien habla alemán esa chica! –_____ alemana.",
+          "solucion_correcta": [
+            "Será"
+          ]
+        },
+        {
+          "texto_enunciado": "–Mira esa ventana. Tiene los cristales rotos. –_____ el viento. Anoche fue tremendo.",
+          "solucion_correcta": [
+            "Habrá sido"
+          ]
+        },
+        {
+          "texto_enunciado": "–Te llama una chica pero no me ha dicho el nombre. –_____ Anita. Tenemos que vernos.",
+          "solucion_correcta": [
+            "Será"
+          ]
+        },
+        {
+          "texto_enunciado": "–Mira esas casas. Están totalmente negras. –_____ un incendio. Anoche oí a los bomberos.",
+          "solucion_correcta": [
+            "Habrá habido"
+          ]
+        },
+        {
+          "texto_enunciado": "–La carretera está helada. –_____ mucho frío. Seguro que anoche heló.",
+          "solucion_correcta": [
+            "Habrá hecho"
+          ]
+        },
+        {
+          "texto_enunciado": "–No han venido tus padres. –No, _____ en la sierra.",
+          "solucion_correcta": [
+            "se habrán quedado"
+          ]
+        },
+        {
+          "texto_enunciado": "–No me cogen el teléfono en el restaurante. –_____ los domingos.",
+          "solucion_correcta": [
+            "Cerrarán"
+          ]
+        },
+        {
+          "texto_enunciado": "–Agustín no se atreve a enseñarme las notas. –_____ alguna asignatura.",
+          "solucion_correcta": [
+            "Habrá suspendido"
+          ]
+        },
+        {
+          "texto_enunciado": "–Pili y Luis no están en casa. –_____ a dar una vuelta.",
+          "solucion_correcta": [
+            "Habrán salido"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "cerrar",
+        "desayunar",
+        "haber",
+        "hacer",
+        "ser (3)",
+        "quedarse",
+        "salir",
+        "suspender"
+      ]
+    },
+    {
+      "subejercicio": "48.3",
+      "tipologia": "T3",
+      "enunciado": "Exprese objeciones con el futuro simple o el futuro compuesto.",
+      "items": [
+        {
+          "texto_enunciado": "–Se ha dado mucha prisa. –_____, pero ha llegado tarde.",
+          "solucion_correcta": [
+            "Se habrá dado prisa"
+          ]
+        },
+        {
+          "texto_enunciado": "–Sonia es inteligentísima. –_____ inteligentísima, pero no hace nada.",
+          "solucion_correcta": [
+            "Será"
+          ]
+        },
+        {
+          "texto_enunciado": "–Pablo ya se ha curado el catarro. –_____, pero todavía tose mucho.",
+          "solucion_correcta": [
+            "Se habrá curado"
+          ]
+        },
+        {
+          "texto_enunciado": "–Han vendido todos los pisos. –Los _____, pero no al precio de antes.",
+          "solucion_correcta": [
+            "habrán vendido"
+          ]
+        },
+        {
+          "texto_enunciado": "–Tomás sale mucho. –_____ mucho, pero cuando llamo siempre está en casa.",
+          "solucion_correcta": [
+            "Saldrá"
+          ]
+        },
+        {
+          "texto_enunciado": "–Se han vendido muchos coches este mes. –Se _____, pero los fabricantes se siguen quejando.",
+          "solucion_correcta": [
+            "habrán vendido muchos"
+          ]
+        },
+        {
+          "texto_enunciado": "–Pepe ha subido la calefacción esta mañana. –La _____, pero sigue haciendo frío.",
+          "solucion_correcta": [
+            "habrá subido"
+          ]
+        },
+        {
+          "texto_enunciado": "–Hay mucho trabajo. –Lo _____, pero yo no encuentro nada.",
+          "solucion_correcta": [
+            "habrá"
+          ]
+        },
+        {
+          "texto_enunciado": "–Ya han arreglado el ascensor. –Lo _____, pero sigue haciendo un ruido extraño.",
+          "solucion_correcta": [
+            "habrán arreglado"
+          ]
+        },
+        {
+          "texto_enunciado": "–Celia no cocina muy bien. –_____, pero tú te comes su comida con mucho gusto.",
+          "solucion_correcta": [
+            "No cocinará muy bien"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "48.4",
+      "tipologia": "T4",
+      "enunciado": "Reaccione ante las siguientes informaciones con el futuro simple o el futuro compuesto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "–Julio se ha ido de la empresa. –¡(ser) _____ tonto! Tenía un empleo muy bueno.",
+          "solucion_correcta": [
+            "Será"
+          ]
+        },
+        {
+          "texto_enunciado": "–Le he dicho a Sonia que tiene que ayudar, pero nada. –¡No se lo (decir) _____ yo veces!",
+          "solucion_correcta": [
+            "habré dicho"
+          ]
+        },
+        {
+          "texto_enunciado": "–Amelia hace cocina de diseño. –¿Amelia? ¡(creerse) _____ que es una gran cocinera!",
+          "solucion_correcta": [
+            "Se creerá"
+          ]
+        },
+        {
+          "texto_enunciado": "–Han vuelto a multar a Eusebio por correr con el coche. –¡No le (multar) _____ ya veces!",
+          "solucion_correcta": [
+            "habrán multado"
+          ]
+        },
+        {
+          "texto_enunciado": "El agua ha llegado hasta la segunda planta. ¡Si (llover) _____!",
+          "solucion_correcta": [
+            "habrá llovido"
+          ]
+        },
+        {
+          "texto_enunciado": "–Rocío no quiere invitarnos. –¡(ser) _____ tacaña! ¡Con el dinero que tiene!",
+          "solucion_correcta": [
+            "Será"
+          ]
+        },
+        {
+          "texto_enunciado": "–Tu hermano es muy desagradable. –¡No lo (saber) _____ yo, que vivo con él!",
+          "solucion_correcta": [
+            "sabré"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Que no conoces a Sebastián? ¡No (estar) _____ veces en tu casa!",
+          "solucion_correcta": [
+            "habrá estado"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "tema": "unidad-17",
+  "titulo": "No te nos escondas. Nos cayó encima.",
+  "descripcion_gramatical": "Pronombres personales de objeto indirecto",
+  "fuente": "libro",
+  "unidad_libro": 17,
+  "ejercicios": [
+    {
+      "subejercicio": "17.1",
+      "tipologia": "T4",
+      "enunciado": "Escriba frases con los verbos entre paréntesis y los pronombres adecuados de OD y OI.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Quieres que te sirva café? -Sí, por favor. (Sirve) _____.",
+          "solucion_correcta": [
+            "Sírvemelo"
+          ]
+        },
+        {
+          "texto_enunciado": "-He recibido una postal de Carmen. -¿Qué (dice) _____?",
+          "solucion_correcta": [
+            "te dice"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo que (comprar) _____ algo a Jesús.",
+          "solucion_correcta": [
+            "comprarle"
+          ]
+        },
+        {
+          "texto_enunciado": "Llama a Lola y (di) _____ si quiere salir esta noche.",
+          "solucion_correcta": [
+            "dile"
+          ]
+        },
+        {
+          "texto_enunciado": "Javi, (lava) _____ el coche cuando puedas. Lo necesito para mañana.",
+          "solucion_correcta": [
+            "lávame"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Has preguntado) _____ a Delia si viene? Tienes que (preguntar) _____.",
+          "solucion_correcta": [
+            "Le has preguntado",
+            "preguntárselo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué (pasa) _____ a Juan? -Que (duele) _____ la cabeza.",
+          "solucion_correcta": [
+            "le pasa",
+            "le duele"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué estáis tan contentos? -(han subido) _____ el sueldo.",
+          "solucion_correcta": [
+            "Nos han subido"
+          ]
+        },
+        {
+          "texto_enunciado": "No me encuentro bien. (Trae) _____ una aspirina, por favor.",
+          "solucion_correcta": [
+            "Tráeme"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué está enfadada Charo? -(He roto) _____ las gafas sin querer.",
+          "solucion_correcta": [
+            "Le he roto"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Has invitado) _____ a tus primos? Tienes que (invitar) _____.",
+          "solucion_correcta": [
+            "Les has invitado",
+            "invitarlos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué estás enfadado? -(han bajado) _____ el sueldo.",
+          "solucion_correcta": [
+            "Me han bajado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué estás haciendo? -(Arreglando) _____ la lavadora a Lidia.",
+          "solucion_correcta": [
+            "Arreglándole"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ayer vi a Antonio (haciendo) _____ los ejercicios a Sara.",
+          "solucion_correcta": [
+            "haciéndole"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué hacía Mara en tu casa? -Estaba (ayudando) _____ a preparar la fiesta.",
+          "solucion_correcta": [
+            "ayudándome"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Has devuelto) _____ el diccionario a María? Tienes que (devolver) _____.",
+          "solucion_correcta": [
+            "Le has devuelto",
+            "devolvérselo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Has dado) _____ las notas a los estudiantes? Hay que (dar) _____.",
+          "solucion_correcta": [
+            "Les has dado",
+            "dárselas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.2",
+      "tipologia": "T7",
+      "enunciado": "Escriba una frase con las palabras subrayadas y los pronombres adecuados como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Se muere</u> Arlindo. Era nuestro amigo. _____",
+          "solucion_correcta": [
+            "Se nos muere"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Se va de casa</u> nuestro hijo mayor. _____",
+          "solucion_correcta": [
+            "Se nos va de casa"
+          ]
+        },
+        {
+          "texto_enunciado": "El niño de Pati <u>no come nada</u>. _____",
+          "solucion_correcta": [
+            "No le come nada"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Se casa</u> tu hijo, María. _____",
+          "solucion_correcta": [
+            "Se te casa"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>No te escondas</u>. Quiero hablar contigo. _____",
+          "solucion_correcta": [
+            "No te me escondas"
+          ]
+        },
+        {
+          "texto_enunciado": "Está muy triste por su mujer. <u>Se muere</u>. _____",
+          "solucion_correcta": [
+            "Se le muere"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases usando pronombres de OI.",
+      "items": [
+        {
+          "texto_enunciado": "Anoche cayó encima de nosotros una lluvia tremenda. _____",
+          "solucion_correcta": [
+            "Anoche nos cayó encima una lluvia tremenda"
+          ]
+        },
+        {
+          "texto_enunciado": "Colocó un altavoz al lado de él. _____",
+          "solucion_correcta": [
+            "Le colocó un altavoz al lado"
+          ]
+        },
+        {
+          "texto_enunciado": "Pusieron flores alrededor del monumento. _____",
+          "solucion_correcta": [
+            "Le pusieron flores alrededor"
+          ]
+        },
+        {
+          "texto_enunciado": "Van a abrir un bar enfrente de vosotros. _____",
+          "solucion_correcta": [
+            "Os van a abrir un bar enfrente"
+          ]
+        },
+        {
+          "texto_enunciado": "La rama ha caído delante de mí. _____",
+          "solucion_correcta": [
+            "La rama me ha caído delante"
+          ]
+        },
+        {
+          "texto_enunciado": "Los perros venían detrás de ellos. _____",
+          "solucion_correcta": [
+            "Los perros les venían detrás"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *le*.",
+      "items": [
+        {
+          "texto_enunciado": "No gusta a nadie. _____",
+          "solucion_correcta": [
+            "No le gusta a nadie"
+          ]
+        },
+        {
+          "texto_enunciado": "Esto preocupa a todo el mundo. _____",
+          "solucion_correcta": [
+            "Esto le preocupa a todo el mundo"
+          ]
+        },
+        {
+          "texto_enunciado": "Eso no importó a nadie. _____",
+          "solucion_correcta": [
+            "Eso no le importó a nadie"
+          ]
+        },
+        {
+          "texto_enunciado": "Esto interesa a cualquiera. _____",
+          "solucion_correcta": [
+            "Esto le interesa a cualquiera"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "17.5",
+      "tipologia": "T8",
+      "enunciado": "Complete con las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "_____ Otro día te tocará ganar.",
+          "solucion_correcta": [
+            "¡Qué le vas a hacer!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Quería que le invitara a cenar. ¡Con el dinero que tiene!",
+          "solucion_correcta": [
+            "¡No te fastidia!"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos habéis estropeado las vacaciones. Pero no os preocupéis. _____",
+          "solucion_correcta": [
+            "¡Nos las pagaréis!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Tenemos que tener paciencia.",
+          "solucion_correcta": [
+            "¡Qué le vamos a hacer!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ Ahora dice que le tengo que pagar las gafas que le rompí.",
+          "solucion_correcta": [
+            "¡No te fastidia!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me has quitado el puesto, pero no te preocupes. _____",
+          "solucion_correcta": [
+            "¡Me las pagarás!"
+          ]
+        },
+        {
+          "texto_enunciado": "Su hija no quiere estudiar. _____ Tendrán que aceptarlo.",
+          "solucion_correcta": [
+            "¡Qué le van a hacer!"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo no quiero, pero en el banco me quieren prejubilar. _____ No puedo decir que no.",
+          "solucion_correcta": [
+            "¡Qué le voy a hacer!"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "¡Me las pagarás!",
+        "¡Nos las pagaréis!",
+        "¡No te fastidia! (2)",
+        "¡Qué le voy a hacer!",
+        "¡Qué le vas a hacer!",
+        "¡Qué le van a hacer!",
+        "¡Qué le vamos a hacer!"
+      ]
+    }
+  ]
+}

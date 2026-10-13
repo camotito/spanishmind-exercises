@@ -1,0 +1,270 @@
+{
+  "tema": "unidad-13",
+  "titulo": "mi, mío, lo mío",
+  "descripcion_gramatical": "Posesivos",
+  "fuente": "libro",
+  "unidad_libro": 13,
+  "ejercicios": [
+    {
+      "subejercicio": "13.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con *mi*, *tu*, *su*... *mío*, *tuyo*, *suyo*... en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "-No me gustan esas bromas _____ , Andrés. -A mí tampoco me gustan _____.",
+          "solucion_correcta": [
+            "tuyas",
+            "las tuyas"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana vamos de boda. Se casa un amigo _____.",
+          "solucion_correcta": [
+            "vuestras"
+          ]
+        },
+        {
+          "texto_enunciado": "-No estoy de acuerdo con _____ opiniones. -Pero al final siempre tenemos razón.",
+          "solucion_correcta": [
+            "vuestras"
+          ]
+        },
+        {
+          "texto_enunciado": "-Mis hijos están mejor educados que los de Marcos. -Sí, pero _____ son más simpáticos.",
+          "solucion_correcta": [
+            "los suyos"
+          ]
+        },
+        {
+          "texto_enunciado": "He encontrado dos fotos _____ , de cuando éramos pequeños.",
+          "solucion_correcta": [
+            "nuestras"
+          ]
+        },
+        {
+          "texto_enunciado": "-Don Antonio, ¿es _____ este móvil? -No, yo no tengo móvil.",
+          "solucion_correcta": [
+            "suyo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Te está gustando la novela? -Sí, tiene _____ interés.",
+          "solucion_correcta": [
+            "su"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "13.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *mi*, *tu*, *su*...",
+      "items": [
+        {
+          "texto_enunciado": "Como de costumbre, Luis estaba tumbado en el sillón, con un whisky, viendo un partido de fútbol. _____.",
+          "solucion_correcta": [
+            "Luis estaba tumbado en su sillón, con su whisky, viendo su partido de fútbol"
+          ]
+        },
+        {
+          "texto_enunciado": "Dibujé un paisaje con árboles, montañas, un río... _____.",
+          "solucion_correcta": [
+            "Dibujé un paisaje con sus árboles, sus montañas, su río..."
+          ]
+        },
+        {
+          "texto_enunciado": "Nos costó un buen dinero. _____.",
+          "solucion_correcta": [
+            "Nos costó nuestro buen dinero"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis “vicios” son pocos: libros y música. _____.",
+          "solucion_correcta": [
+            "Mis vicios son pocos: mis libros y mi música"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre, antes de ir a trabajar, tomamos un café y unos churros. _____.",
+          "solucion_correcta": [
+            "Siempre, antes de ir a trabajar tomamos nuestro café y nuestros churros"
+          ]
+        },
+        {
+          "texto_enunciado": "Adela está muy organizada. En la habitación tiene una televisión, un ordenador y un equipo de música. _____.",
+          "solucion_correcta": [
+            "Adela está muy organizada. En su habitación tiene su televisión, su ordenador y su equipo de música"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo motivos personales para no querer llamar a Rebeca. _____.",
+          "solucion_correcta": [
+            "Tengo mis motivos personales para no querer llamar a Rebeca"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "13.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases sustituyendo lo subrayado por *lo + mío*, *tuyo*...",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué hay <u>del asunto de mi comisión</u>? _____.",
+          "solucion_correcta": [
+            "¿Qué hay de lo mío?"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Tu relación con Carmen</u> es fenomenal. _____.",
+          "solucion_correcta": [
+            "Lo tuyo con Carmen es fenomenal"
+          ]
+        },
+        {
+          "texto_enunciado": "María ha pasado <u>muchas dificultades</u>. _____.",
+          "solucion_correcta": [
+            "María ha pasado lo suyo"
+          ]
+        },
+        {
+          "texto_enunciado": "-Esto es de Marta. -¿Y dónde está <u>lo que me corresponde a mí</u>? _____.",
+          "solucion_correcta": [
+            "¿Y dónde está lo mío?"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis ha vivido <u>mucho</u>. _____.",
+          "solucion_correcta": [
+            "Luis ha vivido lo suyo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Le has hablado a Dolores de <u>los planes de negocios que tenemos</u>? _____.",
+          "solucion_correcta": [
+            "¿Le has hablado a Dolores de lo nuestro?"
+          ]
+        },
+        {
+          "texto_enunciado": "Sois periodistas. <u>Vuestro campo de actuación</u> es la radio y la televisión. _____.",
+          "solucion_correcta": [
+            "Lo vuestro es la radio y la televisión"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Tu comportamiento</u> es exagerado. Estás siempre quejándote. _____.",
+          "solucion_correcta": [
+            "Lo tuyo es exagerado"
+          ]
+        },
+        {
+          "texto_enunciado": "Los López han viajado <u>por todo el mundo</u>. _____.",
+          "solucion_correcta": [
+            "Los López han viajado lo suyo"
+          ]
+        },
+        {
+          "texto_enunciado": "Para ese examen, Elvira ha estudiado <u>mucho</u>. _____.",
+          "solucion_correcta": [
+            "Elvira ha estudiado lo suyo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "13.4",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Sandra, _____ , ayúdame a quitarme estas botas.",
+          "solucion_correcta": [
+            "amor mío"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ¡Qué frío debe de estar pasando!",
+          "solucion_correcta": [
+            "¡Pobrecito mío!"
+          ]
+        },
+        {
+          "texto_enunciado": "Gracias por tu ayuda, _____ . Yo ya no puedo agacharme.",
+          "solucion_correcta": [
+            "hijo mío"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis, _____ , déjame 50 euros.",
+          "solucion_correcta": [
+            "cariño mío"
+          ]
+        },
+        {
+          "texto_enunciado": "Verá usted, _____ , lo único que quiero es tranquilidad.",
+          "solucion_correcta": [
+            "amigo mío"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "amigo mío",
+        "amor mío",
+        "cariño mío",
+        "hijo mío",
+        "¡Pobrecito mío!"
+      ]
+    },
+    {
+      "subejercicio": "13.5",
+      "tipologia": "T8",
+      "enunciado": "Vuelva a escribir las frases usando una de las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Esta es la oportunidad que estás esperando. _____.",
+          "solucion_correcta": [
+            "Esta es la tuya"
+          ]
+        },
+        {
+          "texto_enunciado": "Elisa es tremenda. Siempre tiene que hacer su voluntad. Siempre tiene que _____.",
+          "solucion_correcta": [
+            "salirse con la suya"
+          ]
+        },
+        {
+          "texto_enunciado": "Eso a nosotros no nos interesa. _____.",
+          "solucion_correcta": [
+            "Nosotros a lo nuestro"
+          ]
+        },
+        {
+          "texto_enunciado": "Mario es muy especial. _____.",
+          "solucion_correcta": [
+            "Es muy suyo"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre tienes que hacer alguna de tus trastadas. Siempre tienes que _____.",
+          "solucion_correcta": [
+            "hacer alguna de las tuyas"
+          ]
+        },
+        {
+          "texto_enunciado": "Nadie te va a ayudar. Aquí cada uno _____.",
+          "solucion_correcta": [
+            "va a lo suyo"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "es muy suyo",
+        "esta es la tuya",
+        "hacer alguna de las tuyas",
+        "nosotros a lo nuestro",
+        "salirse con la suya",
+        "va a lo suyo"
+      ]
+    }
+  ]
+}

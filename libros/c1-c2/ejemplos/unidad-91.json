@@ -1,0 +1,284 @@
+{
+  "tema": "unidad-91",
+  "titulo": "de un modo que parece, tal enfado que no quiere",
+  "descripcion_gramatical": "Oraciones consecutivas (2)",
+  "fuente": "libro",
+  "unidad_libro": 91,
+  "ejercicios": [
+    {
+      "subejercicio": "91.1",
+      "tipologia": "T4",
+      "enunciado": "Complete con las palabras entre paréntesis en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Agustín come (de tal manera, parecer un salvaje) _____.",
+          "solucion_correcta": [
+            "de tal manera que parece un salvaje"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunos poetas escriben (de una forma, hacer soñar) _____.",
+          "solucion_correcta": [
+            "de una forma que hacen soñar"
+          ]
+        },
+        {
+          "texto_enunciado": "Me miró (de tal modo, darme miedo) _____.",
+          "solucion_correcta": [
+            "de tal modo que me dio miedo"
+          ]
+        },
+        {
+          "texto_enunciado": "Sonia vestía (de tal manera, llamar la atención) _____.",
+          "solucion_correcta": [
+            "de tal manera que llamaba la atención"
+          ]
+        },
+        {
+          "texto_enunciado": "La soprano cantó (de tal modo, emocionar al público) _____.",
+          "solucion_correcta": [
+            "de tal modo que emocionó al público"
+          ]
+        },
+        {
+          "texto_enunciado": "El viento soplaba (de tal forma, arrancar ramas de los árboles) _____.",
+          "solucion_correcta": [
+            "de tal forma que arrancaba/arrancó ramas de los árboles"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "91.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con *tal* o *cada* y las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando Luis era pequeño hacía (cosa, ellos, pensar) _____ que no estaba bien.",
+          "solucion_correcta": [
+            "cada cosa que pensaban"
+          ]
+        },
+        {
+          "texto_enunciado": "Han armado (lío, ellos mismos, no saber) _____ cómo salir de él.",
+          "solucion_correcta": [
+            "tal lío ellos mismos que no saben"
+          ]
+        },
+        {
+          "texto_enunciado": "Ramón se mete en (problema, nosotros, estar) _____ hartos.",
+          "solucion_correcta": [
+            "cada problema que estamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo (dolor en la pierna, yo, no poder) _____ andar.",
+          "solucion_correcta": [
+            "tal dolor en la pierna que no puedo"
+          ]
+        },
+        {
+          "texto_enunciado": "Los niños de Elvira tienen (respuesta, ellos, parecer) _____ mayores.",
+          "solucion_correcta": [
+            "cada respuesta que parecen"
+          ]
+        },
+        {
+          "texto_enunciado": "Arturo hacía (dibujo, él, maravillar) _____ a su profesora.",
+          "solucion_correcta": [
+            "cada dibujo que maravillaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Ricardo tenía (ocurrencia, él, dejarnos) _____ boquiabiertos.",
+          "solucion_correcta": [
+            "cada ocurrencia que nos dejaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Marisa tenía (genio, todos, huir) _____ de ella.",
+          "solucion_correcta": [
+            "tal genio que todos huíamos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "91.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Llovía (tan/tanto) que me empapé.",
+          "solucion_correcta": [
+            "tanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Había (tanto/tanta) niebla que no se veía nada a dos metros de distancia.",
+          "solucion_correcta": [
+            "tanta"
+          ]
+        },
+        {
+          "texto_enunciado": "Yago iba (tan/tanto) deprisa que lo paró la policía.",
+          "solucion_correcta": [
+            "tan"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto roncaba (tan/tanto) que nos despertaba a todos.",
+          "solucion_correcta": [
+            "tanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Carmen sabía (tan/tanto) de arte que nos asombraba.",
+          "solucion_correcta": [
+            "tanto"
+          ]
+        },
+        {
+          "texto_enunciado": "La película era (tan/tanto) larga que tuvimos que salirnos sin que acabara.",
+          "solucion_correcta": [
+            "tan"
+          ]
+        },
+        {
+          "texto_enunciado": "Ascensión comía (tanto/tan) poco que nos extrañaba que no adelgazara.",
+          "solucion_correcta": [
+            "tan poco"
+          ]
+        },
+        {
+          "texto_enunciado": "Anduvimos (tanto/tan) poco que llegamos con los pies hinchados.",
+          "solucion_correcta": [
+            "tanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Los árboles tenían (tanto/tanta) fruta que se rompían las ramas.",
+          "solucion_correcta": [
+            "tanta"
+          ]
+        },
+        {
+          "texto_enunciado": "Tiene (tanto/tantos) amigos que está siempre ocupado.",
+          "solucion_correcta": [
+            "tantos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "91.4",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con *tan*/*tanto* + *como*.",
+      "items": [
+        {
+          "texto_enunciado": "Armando gana mucho. Puede ayudaros sin problemas. _____",
+          "solucion_correcta": [
+            "Armando gana tanto como para poder ayudaros sin problema"
+          ]
+        },
+        {
+          "texto_enunciado": "Rita sabe alemán. Puede ayudarte con la traducción. _____",
+          "solucion_correcta": [
+            "Rita sabe tanto alemán como para poder ayudarte con la traducción"
+          ]
+        },
+        {
+          "texto_enunciado": "Rodrigo vale mucho. Pueden nombrarlo director. _____",
+          "solucion_correcta": [
+            "Rodrigo vale tanto como para nombrarlo director"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa no bebió mucho. No pudo emborracharse. _____",
+          "solucion_correcta": [
+            "Rosa no bebió tanto como para emborracharse"
+          ]
+        },
+        {
+          "texto_enunciado": "Ángel no es tan ineficaz. No pueden despedirlo. _____",
+          "solucion_correcta": [
+            "Ángel no es tan ineficaz como para despedirlo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Vas a ser tonta? ¿Te vas a creer eso? _____",
+          "solucion_correcta": [
+            "¿Vas a ser tan tonta como para creerte eso?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "91.5",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Kaká no está tan bien como para (jugar) _____ en este partido.",
+          "solucion_correcta": [
+            "jugar"
+          ]
+        },
+        {
+          "texto_enunciado": "Vino tanta gente a la conferencia que no (caber) _____ en la sala.",
+          "solucion_correcta": [
+            "cabían"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta mañana te ha llamado tanta gente que no (yo, recordar) _____ sus nombres.",
+          "solucion_correcta": [
+            "recuerdo"
+          ]
+        },
+        {
+          "texto_enunciado": "Le gusta el marisco hasta tal punto que (él, estar) _____ dispuesto a pagar lo que sea.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "No es tan mala estudiante como para que la (ellos, suspender) _____.",
+          "solucion_correcta": [
+            "suspendan"
+          ]
+        },
+        {
+          "texto_enunciado": "Rubén no es tan bueno como para que lo (contratar) _____ un equipo de primera.",
+          "solucion_correcta": [
+            "contrate"
+          ]
+        },
+        {
+          "texto_enunciado": "Agustín se puso tan pesado que (irnos) _____ enseguida.",
+          "solucion_correcta": [
+            "nos fuimos"
+          ]
+        },
+        {
+          "texto_enunciado": "No es tan fuerte como para (poder) _____ levantar esa caja él solo.",
+          "solucion_correcta": [
+            "poder"
+          ]
+        },
+        {
+          "texto_enunciado": "Comió tanto que (ponerse) _____ malo.",
+          "solucion_correcta": [
+            "se puso"
+          ]
+        },
+        {
+          "texto_enunciado": "No soy tan listo como para (saber) _____ qué estás pensando.",
+          "solucion_correcta": [
+            "saber"
+          ]
+        }
+      ]
+    }
+  ]
+}

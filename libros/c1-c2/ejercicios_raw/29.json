@@ -1,0 +1,207 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "29.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba exclamaciones con *¡cómo!* y *de bien* o *de mal* en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Lorenzo quiere mucho a Teresa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos recibieron muy bien. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucía escribe de maravilla. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los niños se lo pasaron bien en el circo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lolo habla muy mal. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eva ha adelgazado mucho. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Gabriel toca muy bien la guitarra. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tus alumnos cantan muy mal. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Su novio cocina estupendamente. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "29.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba exclamaciones con *¡cómo!*",
+      "items": [
+        {
+          "texto_enunciado": "El perro de Manuel era muy listo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tu hermano es muy guapo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tus amigas son muy bordes. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mis vecinos son muy atentos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aquí las leyes son muy duras. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tu hija es muy rebelde. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jorge es muy trabajador. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi abuela era muy generosa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa chica era muy rara. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nuestro profesor es muy testarudo. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "29.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las exclamaciones correspondientes con *¡dónde!*, *¡adónde!*",
+      "items": [
+        {
+          "texto_enunciado": "Tomás nos envió a un sitio horrible. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estuvimos paseando por un sitio precioso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El chalé de Luis está en un sitio increíble. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Paco vive en un sitio horroroso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sergio compra en un sitio muy sucio. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cristina nos llevó a un sitio muy caro. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Selma aparcó encima de una zanja. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Valentín duerme en un viejo sofá. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "29.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las exclamaciones correspondientes con *¡cuándo!*",
+      "items": [
+        {
+          "texto_enunciado": "A un amigo que se está riendo de nosotros. ¡_____ te vas a reír de nosotros!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A un compañero que se cree el jefe. ¡_____ eres el jefe!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A un amigo que no te hace caso. ¡_____ querrás hacerme caso!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A un hijo que no arregla nunca su habitación. ¡_____ vas a arreglar tu habitación!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por teléfono, a un amigo que no llega a una cita. ¡_____ nos vas a tener esperando!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A los hijos que protestan siempre por la comida ¡_____ vais a protestar por la comida!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A una hija que no deja los videojuegos ¡_____ vas a dejar los videojuegos!",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "29.5",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Exprese desacuerdo con las siguientes afirmaciones con *¡qué!*",
+      "items": [
+        {
+          "texto_enunciado": "Anoche hizo frío. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ese edificio es precioso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que tengo razón. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El año pasado subieron las pensiones. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antonia ayudó mucho. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te harán pagar lo que rompas. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 29,
+  "titulo_libro": "¡Cómo come! ¡Por dónde nos llevan! -- Exclamativos (3)",
+  "scan": "p-066.jpg"
+}

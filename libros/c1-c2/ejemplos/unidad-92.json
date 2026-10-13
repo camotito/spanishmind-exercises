@@ -1,0 +1,236 @@
+{
+  "tema": "unidad-92",
+  "titulo": "un frío que no se puede, de un orgulloso que resulta",
+  "descripcion_gramatical": "Oraciones consecutivas (3)",
+  "fuente": "libro",
+  "unidad_libro": 92,
+  "ejercicios": [
+    {
+      "subejercicio": "92.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras entre paréntesis como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo (hambre, yo, no poder) _____ dormir.",
+          "solucion_correcta": [
+            "un hambre que no puedo"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace (viento, asustar) _____.",
+          "solucion_correcta": [
+            "un viento que asusta"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo (sueño, yo, caerme) _____.",
+          "solucion_correcta": [
+            "un sueño que me caigo"
+          ]
+        },
+        {
+          "texto_enunciado": "Elena dice (cosas, ella, parecer) _____ tonta.",
+          "solucion_correcta": [
+            "unas cosas que parece"
+          ]
+        },
+        {
+          "texto_enunciado": "María hace (arroz con leche, chuparse uno) _____ los dedos.",
+          "solucion_correcta": [
+            "un arroz con leche que se chupa uno"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay (niebla, no verse) _____ nada a dos metros.",
+          "solucion_correcta": [
+            "una niebla que no se ve"
+          ]
+        },
+        {
+          "texto_enunciado": "Caía (lluvia, no poderse) _____ cruzar la calle.",
+          "solucion_correcta": [
+            "una lluvia que no se podía"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace (calor, no poderse) _____ estar al sol.",
+          "solucion_correcta": [
+            "un calor que no se puede"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con *una de* y las palabras entre paréntesis como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "Álvaro tiene (familiares, ellos, no caber) _____ en una casa cuando se reúnen.",
+          "solucion_correcta": [
+            "una de familiares que no caben"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay (obras, no poderse) _____ andar por Madrid.",
+          "solucion_correcta": [
+            "una de obras que no se puede"
+          ]
+        },
+        {
+          "texto_enunciado": "Está cayendo (nieve, nosotros, no ir) _____ a poder salir de casa.",
+          "solucion_correcta": [
+            "una de nieve que no vamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Sofía tiene (problemas, no extrañarme) _____ que esté preocupada.",
+          "solucion_correcta": [
+            "una de problemas que no me extraña"
+          ]
+        },
+        {
+          "texto_enunciado": "Vino (gente, haber) _____ que traer más sillas.",
+          "solucion_correcta": [
+            "una de gente que hubo"
+          ]
+        },
+        {
+          "texto_enunciado": "Había (comida, quedar todos) _____ hartos.",
+          "solucion_correcta": [
+            "una de comida que quedamos/quedaron todos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.3",
+      "tipologia": "T10",
+      "enunciado": "Una las frases comenzando por las palabras dadas. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Miguel es muy trabajador. Hace el doble que el resto de nosotros. Miguel es de _____",
+          "solucion_correcta": [
+            "un trabajador que hace el doble que el resto de nosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "Mario es muy listo. Es el favorito de todos los profesores. Si será Mario _____",
+          "solucion_correcta": [
+            "listo que es el favorito de todos los profesores"
+          ]
+        },
+        {
+          "texto_enunciado": "Susana y Lola son muy orgullosas. Nunca confiesan sus errores. Susana y Lola son de _____",
+          "solucion_correcta": [
+            "un orgulloso que nunca confiesan sus errores"
+          ]
+        },
+        {
+          "texto_enunciado": "Emilia es muy torpe. Rompe todos los móviles que le compramos. Si será Emilia _____",
+          "solucion_correcta": [
+            "torpe que rompe todos los móviles que le compramos"
+          ]
+        },
+        {
+          "texto_enunciado": "Elvira es muy callada. Apenas habla. Si será Elvira _____",
+          "solucion_correcta": [
+            "callada que apenas habla"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.4",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con las palabras entre paréntesis. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Raquel es muy inteligente. Lo puede comprender ella sola. (bastante) _____",
+          "solucion_correcta": [
+            "Raquel es lo bastante inteligente como para comprenderlo ella sola"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que soy muy independiente. Nadie tiene que ayudarme. (suficientemente) _____",
+          "solucion_correcta": [
+            "Creo que soy lo suficientemente independiente como para que nadie me ayude"
+          ]
+        },
+        {
+          "texto_enunciado": "Miguel está preparado. Puede llevar el camión él solo. (bastante) _____",
+          "solucion_correcta": [
+            "Miguel está lo bastante preparado como para llevar el camión él solo"
+          ]
+        },
+        {
+          "texto_enunciado": "Armando es muy querido en la oficina. Sus compañeros le van a dar un homenaje. (bastante) _____",
+          "solucion_correcta": [
+            "Armando es lo bastante querido en la oficina como para que le vayan a dar un homenaje"
+          ]
+        },
+        {
+          "texto_enunciado": "Maite no es valiente. No se atreve a decirle nada a Juan. (suficientemente) _____",
+          "solucion_correcta": [
+            "Maite no es lo suficientemente valiente como para atreverse a decirle nada a Juan"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.5",
+      "tipologia": "T10",
+      "enunciado": "Una las frases en exclamaciones con *el*, *la* o *lo*.",
+      "items": [
+        {
+          "texto_enunciado": "Tiene mucho dinero. No sabe qué hacer con él. _____",
+          "solucion_correcta": [
+            "¡El dinero que tiene/tendrá que no sabe qué hacer con él!"
+          ]
+        },
+        {
+          "texto_enunciado": "Estaba muy cansado. Durmió más de diez horas. _____",
+          "solucion_correcta": [
+            "¡Lo cansada que estaba/estaría que durmió más de diez horas!"
+          ]
+        },
+        {
+          "texto_enunciado": "Es muy tímido. Apenas levanta la voz. _____",
+          "solucion_correcta": [
+            "¡Lo tímido que es/será que apenas levanta la voz!"
+          ]
+        },
+        {
+          "texto_enunciado": "Estábamos muy hartos de Fidel. Nos escondíamos al verlo. _____",
+          "solucion_correcta": [
+            "¡Lo hartos que estábamos/estaríamos de Fidel que nos escondíamos al verlo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenía mucha sed. Me bebí dos botellas de agua en un minuto. _____",
+          "solucion_correcta": [
+            "¡La sed que tenía/tendría que me bebí dos botellas de agua en un minuto!"
+          ]
+        },
+        {
+          "texto_enunciado": "Anda muy ocupada. Ni coge el teléfono. _____",
+          "solucion_correcta": [
+            "¡Lo ocupada que anda/andará que ni coge el teléfono!"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenía mucha hambre. Se comió el pollo entero. _____",
+          "solucion_correcta": [
+            "¡El hambre que tenía/tendría que se comió el pollo entero!"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenía mucho miedo. Nunca bajaba al sótano. _____",
+          "solucion_correcta": [
+            "¡El miedo que tenía/tendría que nunca bajaba al sótano!"
+          ]
+        }
+      ]
+    }
+  ]
+}

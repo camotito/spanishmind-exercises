@@ -1,0 +1,291 @@
+{
+  "tema": "unidad-87",
+  "titulo": "adonde no haya, como cocinaba su madre",
+  "descripcion_gramatical": "Oraciones de lugar y modo",
+  "fuente": "libro",
+  "unidad_libro": 87,
+  "ejercicios": [
+    {
+      "subejercicio": "87.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con *donde* o *adonde* y las preposiciones necesarias.",
+      "items": [
+        {
+          "texto_enunciado": "Este vino es _____ pasamos el verano.",
+          "solucion_correcta": [
+            "de donde"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta carretera pasa _____ vive Manuel.",
+          "solucion_correcta": [
+            "por donde"
+          ]
+        },
+        {
+          "texto_enunciado": "Habrá que sacar los muebles _____ podamos.",
+          "solucion_correcta": [
+            "por donde"
+          ]
+        },
+        {
+          "texto_enunciado": "El lago se ve _____ viven tus abuelos.",
+          "solucion_correcta": [
+            "desde donde"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ trabaja mi novia han despedido a gente.",
+          "solucion_correcta": [
+            "Donde / En donde"
+          ]
+        },
+        {
+          "texto_enunciado": "Esas aves volaban _____ se ponía el sol.",
+          "solucion_correcta": [
+            "hacia donde"
+          ]
+        },
+        {
+          "texto_enunciado": "En coche solo podemos llegar _____ termina el camino.",
+          "solucion_correcta": [
+            "hasta donde"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo voy _____ tú me digas.",
+          "solucion_correcta": [
+            "adonde"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Tenéis que encontrar donde os (ellos, dar) _____ alojamiento.",
+          "solucion_correcta": [
+            "den"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé por qué no prestaste atención. Tenías que entregar el paquete donde te (ellos, decir) _____.",
+          "solucion_correcta": [
+            "dijeron"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que comprar el pan donde (abrir) _____ los domingos.",
+          "solucion_correcta": [
+            "abran"
+          ]
+        },
+        {
+          "texto_enunciado": "Para, por favor, donde (ver) _____ una farmacia.",
+          "solucion_correcta": [
+            "veas"
+          ]
+        },
+        {
+          "texto_enunciado": "Donde (vivir) _____ Andrés hay mucho tráfico.",
+          "solucion_correcta": [
+            "vive"
+          ]
+        },
+        {
+          "texto_enunciado": "Prefiero estar donde no se (fumar) _____.",
+          "solucion_correcta": [
+            "fume"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenemos que llegar hasta donde se (ver) _____ esas casas.",
+          "solucion_correcta": [
+            "ven"
+          ]
+        },
+        {
+          "texto_enunciado": "Compro el pescado en donde lo (comprar) _____ Sara.",
+          "solucion_correcta": [
+            "compra"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir la parte subrayada con *donde* + nombre o *al* + infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "Estamos _____ . Te esperamos.",
+          "solucion_correcta": [
+            "donde los cines Verdi"
+          ]
+        },
+        {
+          "texto_enunciado": "La cafetería está <u>a la salida del cine</u> a la izquierda. _____",
+          "solucion_correcta": [
+            "al salir del cine a la izquierda"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer estuve <u>en casa de mi hermana</u>. Ha tenido una niña. _____",
+          "solucion_correcta": [
+            "donde mi hermana"
+          ]
+        },
+        {
+          "texto_enunciado": "Los sábados vamos <u>al restaurante de Ángela</u>. Se come muy bien. _____",
+          "solucion_correcta": [
+            "donde Ángela"
+          ]
+        },
+        {
+          "texto_enunciado": "Verás un grifo <u>a la entrada del garaje</u>. _____",
+          "solucion_correcta": [
+            "al entrar al garaje"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con el nexo dado.",
+      "items": [
+        {
+          "texto_enunciado": "Coloca las fichas de la manera en que estaban antes. (como) _____",
+          "solucion_correcta": [
+            "Coloca las fichas como estaban antes"
+          ]
+        },
+        {
+          "texto_enunciado": "Vuelve a hacer el dibujo de la manera que te he indicado. (según) _____",
+          "solucion_correcta": [
+            "Vuelve a hacer el dibujo según te he indicado"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes que anotar los pedidos de la manera que te indique el encargado. (como) _____",
+          "solucion_correcta": [
+            "Tienes que anotar los pedidos como te indique el encargado"
+          ]
+        },
+        {
+          "texto_enunciado": "Cristóbal planchó su camisa del modo que pudo. (como) _____",
+          "solucion_correcta": [
+            "Cristóbal planchó su camisa como pudo"
+          ]
+        },
+        {
+          "texto_enunciado": "Casi todos morimos de la manera en que vivimos. (según) _____",
+          "solucion_correcta": [
+            "Casi todos morimos según vivimos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.5",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Haz el problema mañana, según te (explicar) _____ el profesor.",
+          "solucion_correcta": [
+            "explique"
+          ]
+        },
+        {
+          "texto_enunciado": "El cliente nos ha dado instrucciones. Tienes que hacerlo como él (querer) _____.",
+          "solucion_correcta": [
+            "quiere"
+          ]
+        },
+        {
+          "texto_enunciado": "Hicimos todo según nos (indicar) _____ el director.",
+          "solucion_correcta": [
+            "indicó"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí ninguno canta como (cantar) _____ Chavela.",
+          "solucion_correcta": [
+            "canta"
+          ]
+        },
+        {
+          "texto_enunciado": "A ver si por fin haces las cosas como Dios (mandar) _____.",
+          "solucion_correcta": [
+            "manda"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando era pequeña tenía que vestirme como (decir) _____ mi madre.",
+          "solucion_correcta": [
+            "decía"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando estaba en el Ejército tenía que hacer todo como me (ellos, ordenar) _____.",
+          "solucion_correcta": [
+            "ordenaban"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando estuve en la India aprendí a cocinar como (cocinar) _____ los indios.",
+          "solucion_correcta": [
+            "cocinan"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.6",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Ella se quedó como si (ver) _____ un fantasma.",
+          "solucion_correcta": [
+            "hubiera visto"
+          ]
+        },
+        {
+          "texto_enunciado": "Raúl siempre habla como si (saber) _____ mucha historia.",
+          "solucion_correcta": [
+            "supiera"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando le dices algo que no quiere oír, es como si (estar) _____ sordo.",
+          "solucion_correcta": [
+            "estuviera"
+          ]
+        },
+        {
+          "texto_enunciado": "Eva nos vio el otro día e hizo como si no nos (conocer) _____.",
+          "solucion_correcta": [
+            "conociera"
+          ]
+        },
+        {
+          "texto_enunciado": "-Mira, Sonia. -Tú haz como que no la (ver) _____.",
+          "solucion_correcta": [
+            "ves"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando llamamos a Manuel, siempre hace como que (estar) _____ muy ocupado.",
+          "solucion_correcta": [
+            "está"
+          ]
+        }
+      ]
+    }
+  ]
+}

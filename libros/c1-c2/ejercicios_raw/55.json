@@ -1,0 +1,212 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "55.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *anda*, *¡Anda ya!* o *¡Anda que!*",
+      "items": [
+        {
+          "texto_enunciado": "_____ , llévame a casa, que hace frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Ernesto ha acabado la carrera. – _____ , pero si le quedan lo menos dos años.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , pero si hablas español muy bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ esa chica. Se cree que me va a engañar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te has vuelto a matricular en un gimnasio? _____ . No sabes en qué gastar el dinero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡ _____ , eso que decís no tiene ninguna gracia!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡ _____ ! Cómo va a salir Ricardo con Charo! ¡Si siempre se están peleando!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , me he dejado la cartera en casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Y decías que conocías a mucha gente. ¡ _____ ! No hemos hablado con nadie.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "55.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *anda que si* o *anda que no*.",
+      "items": [
+        {
+          "texto_enunciado": "¡ _____ trabaja Carlos! Está siempre haciendo algo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡ _____ nos encontramos con Rosa! Se va a llevar una sorpresa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ te hacemos caso, compramos una casa en ruinas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ pierden las elecciones. Van a tener que ponerse a trabajar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ no nos avisan, nos quedamos esperando al fontanero toda la tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡ _____ habla Carmela! No hay quien la calle.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡ _____ es vago Ramón! Nunca quiere hacer nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ no te ayudo, todavía estás fregando platos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ es buena la merluza que os he comprado. Ya veréis.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "55.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *venga*, *venga ya* o *vamos*. En algunos casos hay más de una posibilidad.",
+      "items": [
+        {
+          "texto_enunciado": "–Rocío ha estudiado Económicas. –¡ _____ ! Es imposible. Si no sabe lo que es el Producto Interior Bruto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , daos dos vueltas a la pista para entrar en calor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me gustan mucho las verduras, pero _____ , las como.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Y tú te consideras un buen amigo? _____ , si nunca haces nada por nosotros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , tenemos que sacar las maletas antes de aparcar el coche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ . Que yo sepa, Alfredo no ha leído a Bolaños en su vida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , vámonos ahora mismo. No podemos esperar más a Paco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , no puedes seguir así. Ahora mismo te vas al dentista.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "55.4",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con *anda*, *anda que*, *vamos*, *venga*, *venga ya*.",
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Dos chicos hablando de idiomas"
+          },
+          {
+            "numero": "2",
+            "descripcion": "Hombre aparcando el coche"
+          },
+          {
+            "numero": "3",
+            "descripcion": "Hombre diciendo que no tiene tiempo"
+          },
+          {
+            "numero": "4",
+            "descripcion": "Chico diciendo que tiene que estudiar"
+          },
+          {
+            "numero": "5",
+            "descripcion": "Dos chicos en un mostrador pidiendo helado"
+          },
+          {
+            "numero": "6",
+            "descripcion": "Entrenador en lancha animando a remeros con un megáfono"
+          },
+          {
+            "numero": "7",
+            "descripcion": "Dos chicas reconociéndose"
+          },
+          {
+            "numero": "8",
+            "descripcion": "Padre despertando a sus hijos en la cama"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "¡ _____ ! Pero si sabes hablar inglés.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Voy a dejar el coche ahí. –¡ _____ ! Menuda multa te van a poner.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Lo siento. No tengo tiempo. – _____ , que no me quieres ayudar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No puedo, tengo que estudiar. – _____ , no me vas a decir ahora que no quieres salir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "– _____ invítame a un helado. –¡ _____ ! Invítame tú.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡ _____ ! ¡Más deprisa!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡ _____ ! Pero si tú eres la hermana de Nacho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ , levantaos, que ya son las ocho.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 55,
+  "titulo_libro": "¡Anda! ¡Venga! ¡Vamos! -- Imperativo (4)",
+  "scan": "p-117.jpg"
+}

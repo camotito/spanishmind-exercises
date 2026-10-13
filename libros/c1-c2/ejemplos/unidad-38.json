@@ -1,0 +1,238 @@
+{
+  "tema": "unidad-38",
+  "titulo": "Le estamos cuidando los gatos a Clara.",
+  "descripcion_gramatical": "Presente de estar + gerundio",
+  "fuente": "libro",
+  "unidad_libro": 38,
+  "ejercicios": [
+    {
+      "subejercicio": "38.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de indicativo o estar + gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Dónde estás ahora? -(vivir) _____ en casa de unos amigos hasta que encuentre piso.",
+          "solucion_correcta": [
+            "Estoy viviendo"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué juerguista es Ramón! Siempre (salir) _____ con los amigos.",
+          "solucion_correcta": [
+            "está saliendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Laura es muy desagradable. Nunca (salir) _____ con nosotros.",
+          "solucion_correcta": [
+            "sale"
+          ]
+        },
+        {
+          "texto_enunciado": "(servir) _____ Nadal. Federer le (devolver) _____ la pelota con fuerza, pero Nadal (responder) _____ con un buen revés. (subir) _____ a la red y...",
+          "solucion_correcta": [
+            "Sirve",
+            "devuelve",
+            "responde",
+            "Sube"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué (hacer, tú) _____ aquí? -Le (cuidar) _____ la casa a Rolf mientras está fuera.",
+          "solucion_correcta": [
+            "haces / estás haciendo",
+            "estoy cuidando"
+          ]
+        },
+        {
+          "texto_enunciado": "Pilar ya ha acabado la carrera y ahora (hacer) _____ un máster en Dirección de Empresas.",
+          "solucion_correcta": [
+            "está haciendo"
+          ]
+        },
+        {
+          "texto_enunciado": "(bajar) _____ los precios de los pisos.",
+          "solucion_correcta": [
+            "Están bajando"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "38.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de indicativo o estar + gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Por qué no (responder) _____? -Es que me (comer) _____ una manzana.",
+          "solucion_correcta": [
+            "respondes",
+            "estoy comiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿(tú, ver) _____ a Sofía? -No, no tengo las gafas y no (ver) _____ de lejos.",
+          "solucion_correcta": [
+            "Ves",
+            "veo"
+          ]
+        },
+        {
+          "texto_enunciado": "-(querer, yo) _____ hablar con Maite. -Ahora no puede. (bañarse) _____",
+          "solucion_correcta": [
+            "Quiero",
+            "Se está bañando"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿(tú, preferir) _____ ir en tren o en coche? -(pensar) _____ ir en avión.",
+          "solucion_correcta": [
+            "Prefieres",
+            "Pienso"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué (significar) _____ esa palabra? -Un momento. (buscarla) _____ en mi diccionario.",
+          "solucion_correcta": [
+            "significa",
+            "La estoy buscando"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Te (doler) _____ algo? -Me (fastidiar) _____ una muela.",
+          "solucion_correcta": [
+            "duele",
+            "está fastidiando"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "38.3",
+      "tipologia": "T4",
+      "enunciado": "Complete con los verbos entre paréntesis en presente de indicativo o estar + gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Cómo te (sentir) _____? -No muy bien. Me (costar) _____ recuperarme.",
+          "solucion_correcta": [
+            "sientes",
+            "está costando"
+          ]
+        },
+        {
+          "texto_enunciado": "No me (gustar) _____ nada este libro. (desear) _____ acabarlo.",
+          "solucion_correcta": [
+            "está gustando",
+            "Estoy deseando"
+          ]
+        },
+        {
+          "texto_enunciado": "-¡Qué bien (tú, oler) _____! -Es un perfume nuevo. ¡(costar) _____ carísimo!",
+          "solucion_correcta": [
+            "hueles",
+            "Cuesta"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué haces en el jardín? -(yo, admirar) _____ las rosas y (oler) _____ su perfume.",
+          "solucion_correcta": [
+            "Estoy admirando",
+            "(estoy) oliendo"
+          ]
+        },
+        {
+          "texto_enunciado": "(yo, admirar) _____ a Alberto. ¡Qué bien (él, llevar) _____ la separación de Maite!",
+          "solucion_correcta": [
+            "Admiro",
+            "está llevando"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Eres muy burro. Todavía me (doler) _____ el golpe que me diste.",
+          "solucion_correcta": [
+            "está doliendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Los niños no se pueden levantar. Les (costar) _____ acostumbrarse al nuevo horario.",
+          "solucion_correcta": [
+            "está costando"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "38.4",
+      "tipologia": "T8",
+      "enunciado": "Complete las situaciones con los verbos del recuadro en presente de indicativo o estar + gerundio, en afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Qué _____ aquí? -_____ a Tere.",
+          "solucion_correcta": [
+            "haces",
+            "Estoy esperando"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿_____ algo? -No, _____ nada.",
+          "solucion_correcta": [
+            "Ves",
+            "no veo"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ los caballos a la recta final y _____ el número 9 por el interior.",
+          "solucion_correcta": [
+            "Llegan",
+            "avanza"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy agotado. _____ acostarme.",
+          "solucion_correcta": [
+            "Estoy deseando"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes mala cara. ¿Te _____ algo? -Me _____ el estómago.",
+          "solucion_correcta": [
+            "pasa",
+            "duele"
+          ]
+        },
+        {
+          "texto_enunciado": "No molestes a papá. _____ el telediario.",
+          "solucion_correcta": [
+            "Está viendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Iniesta _____ a dos defensas, _____ a puerta y... ¡gol!",
+          "solucion_correcta": [
+            "regatea",
+            "tira"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué le has echado a la sopa? -_____ bien.",
+          "solucion_correcta": [
+            "No sabe"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "avanzar",
+        "desear",
+        "doler",
+        "esperar",
+        "hacer",
+        "llegar",
+        "pasar",
+        "regatear",
+        "saber",
+        "tirar",
+        "ver (3)"
+      ]
+    }
+  ]
+}

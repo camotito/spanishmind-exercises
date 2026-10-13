@@ -1,0 +1,175 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "92.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo (hambre, yo, no poder) _____ dormir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace (viento, asustar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo (sueño, yo, caerme) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elena dice (cosas, ella, parecer) _____ tonta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "María hace (arroz con leche, chuparse uno) _____ los dedos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay (niebla, no verse) _____ nada a dos metros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Caía (lluvia, no poderse) _____ cruzar la calle.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace (calor, no poderse) _____ estar al sol.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *una de* y las palabras entre paréntesis como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "Álvaro tiene (familiares, ellos, no caber) _____ en una casa cuando se reúnen.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay (obras, no poderse) _____ andar por Madrid.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Está cayendo (nieve, nosotros, no ir) _____ a poder salir de casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sofía tiene (problemas, no extrañarme) _____ que esté preocupada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vino (gente, haber) _____ que traer más sillas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había (comida, quedar todos) _____ hartos.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases comenzando por las palabras dadas. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Miguel es muy trabajador. Hace el doble que el resto de nosotros. Miguel es de _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mario es muy listo. Es el favorito de todos los profesores. Si será Mario _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Susana y Lola son muy orgullosas. Nunca confiesan sus errores. Susana y Lola son de _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Emilia es muy torpe. Rompe todos los móviles que le compramos. Si será Emilia _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elvira es muy callada. Apenas habla. Si será Elvira _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.4",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con las palabras entre paréntesis. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Raquel es muy inteligente. Lo puede comprender ella sola. (bastante) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que soy muy independiente. Nadie tiene que ayudarme. (suficientemente) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Miguel está preparado. Puede llevar el camión él solo. (bastante) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Armando es muy querido en la oficina. Sus compañeros le van a dar un homenaje. (bastante) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Maite no es valiente. No se atreve a decirle nada a Juan. (suficientemente) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "92.5",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases en exclamaciones con *el*, *la* o *lo*.",
+      "items": [
+        {
+          "texto_enunciado": "Tiene mucho dinero. No sabe qué hacer con él. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estaba muy cansado. Durmió más de diez horas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es muy tímido. Apenas levanta la voz. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estábamos muy hartos de Fidel. Nos escondíamos al verlo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenía mucha sed. Me bebí dos botellas de agua en un minuto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anda muy ocupada. Ni coge el teléfono. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenía mucha hambre. Se comió el pollo entero. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenía mucho miedo. Nunca bajaba al sótano. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 92,
+  "titulo_libro": "un frío que no se puede, de un orgulloso que resulta -- Oraciones consecutivas (3)",
+  "scan": "p-191.jpg"
+}

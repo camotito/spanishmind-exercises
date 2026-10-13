@@ -1,0 +1,260 @@
+{
+  "tema": "unidad-79",
+  "titulo": "¿sorprendida?, siempre cansado",
+  "descripcion_gramatical": "Participio (1)",
+  "fuente": "libro",
+  "unidad_libro": 79,
+  "ejercicios": [
+    {
+      "subejercicio": "79.1",
+      "tipologia": "T4",
+      "enunciado": "Complete con el participio de los verbos entre paréntesis en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Hay que retirar todos los libros (romper) _____.",
+          "solucion_correcta": [
+            "rotos"
+          ]
+        },
+        {
+          "texto_enunciado": "Son ordenadores (hacer) _____ en Taiwán.",
+          "solucion_correcta": [
+            "hechos"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que arreglar los tejados (destruir) _____ por la tormenta.",
+          "solucion_correcta": [
+            "destruidos"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay dos ratas (morir) _____ en el sótano.",
+          "solucion_correcta": [
+            "muertas"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre duermo con la ventana (cerrar) _____.",
+          "solucion_correcta": [
+            "cerrada"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay que recoger los cristales (romper) _____. Son peligrosos.",
+          "solucion_correcta": [
+            "rotos"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encanta la cerámica (pintar) _____ a mano.",
+          "solucion_correcta": [
+            "pintada"
+          ]
+        },
+        {
+          "texto_enunciado": "Tiene un piso (decorar) _____ por un diseñador famoso.",
+          "solucion_correcta": [
+            "decorado"
+          ]
+        },
+        {
+          "texto_enunciado": "No nos han entregado el dinero (acordar) _____.",
+          "solucion_correcta": [
+            "acordado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "79.2",
+      "tipologia": "T8",
+      "enunciado": "Complete con el participio de los verbos del recuadro en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Fíjate en Ronaldo. ¡Otra vez _____!",
+          "solucion_correcta": [
+            "lesionado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Emilio _____? Pero si le caía muy bien al director.",
+          "solucion_correcta": [
+            "despedido"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué vagas son tus hermanas! ¡Siempre _____ en el sofá!",
+          "solucion_correcta": [
+            "tumbadas"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Adolfo _____! Pero si era un soltero empedernido.",
+          "solucion_correcta": [
+            "casado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Otra vez _____ de clase, Raúl? ¿Qué has hecho esta vez?",
+          "solucion_correcta": [
+            "expulsado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ yo? Qué va. Solo tenía los ojos cerrados.",
+          "solucion_correcta": [
+            "Dormido"
+          ]
+        },
+        {
+          "texto_enunciado": "Esto de estar enfermo es un aburrimiento. Todo el día _____.",
+          "solucion_correcta": [
+            "acostado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____, Paco? Ya te dije que esta película daba mucho miedo.",
+          "solucion_correcta": [
+            "Asustado"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acostar",
+        "asustar",
+        "casar",
+        "despedir",
+        "dormir",
+        "expulsar",
+        "lesionar",
+        "tumbar"
+      ]
+    },
+    {
+      "subejercicio": "79.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas utilizando un participio, como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Después de derrotar al enemigo</u>, las tropas regresaron a sus cuarteles. _____",
+          "solucion_correcta": [
+            "Derrotado el enemigo"
+          ]
+        },
+        {
+          "texto_enunciado": "No pudimos salir del auditorio <u>hasta después de acabar la primera parte</u>. _____",
+          "solucion_correcta": [
+            "hasta acabada la primera parte"
+          ]
+        },
+        {
+          "texto_enunciado": "Pudimos entrar <u>una vez que abrieron las puertas</u>. _____",
+          "solucion_correcta": [
+            "una vez abiertas las puertas"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Después de que empiece el concierto</u>, no se puede pasar a la sala. _____",
+          "solucion_correcta": [
+            "Después de empezado el concierto"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Una vez que le declararon culpable</u>, ingresó en prisión. _____",
+          "solucion_correcta": [
+            "Una vez declarado culpable"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Cuando acabó la boda</u>, los invitados se fueron al restaurante. _____",
+          "solucion_correcta": [
+            "Acabada la boda"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Cuando lo eliminaron del torneo</u>, Fernando regresó a España. _____",
+          "solucion_correcta": [
+            "Eliminado del torneo"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Justo al terminar el partido</u>, salimos deprisa del estadio. _____",
+          "solucion_correcta": [
+            "nada más terminado"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>En el momento de estrenar la chaqueta</u>, se le manchó de tinta. _____",
+          "solucion_correcta": [
+            "Recién estrenada"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "79.4",
+      "tipologia": "T8",
+      "enunciado": "Complete con las formas adecuadas de los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Ha habido una explosión en una gasolinera y hay tres _____.",
+          "solucion_correcta": [
+            "muertos"
+          ]
+        },
+        {
+          "texto_enunciado": "Se han llevado a los _____ al hospital.",
+          "solucion_correcta": [
+            "heridos"
+          ]
+        },
+        {
+          "texto_enunciado": "Nuestras _____ no conocen nada de Madrid.",
+          "solucion_correcta": [
+            "invitadas"
+          ]
+        },
+        {
+          "texto_enunciado": "Los _____ se negaron a declarar ante el juez.",
+          "solucion_correcta": [
+            "acusados"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién te ha curado esa _____?",
+          "solucion_correcta": [
+            "herida"
+          ]
+        },
+        {
+          "texto_enunciado": "La farmacia debe de estar a la _____ de esa esquina.",
+          "solucion_correcta": [
+            "vuelta"
+          ]
+        },
+        {
+          "texto_enunciado": "Desayuno café y dos _____.",
+          "solucion_correcta": [
+            "tostadas"
+          ]
+        },
+        {
+          "texto_enunciado": "Sería conveniente conocer bien los _____.",
+          "solucion_correcta": [
+            "hechos"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acusar",
+        "hacer",
+        "herir(2)",
+        "invitar",
+        "morir",
+        "tostar",
+        "volver"
+      ]
+    }
+  ]
+}

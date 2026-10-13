@@ -1,0 +1,218 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "43.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el pretérito indefinido o el pluscuamperfecto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(yo, regresar) _____ a Perú porque se me (caducar) _____ el permiso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer no (nosotros, poder) _____ ir a la playa porque se me (averiar) _____ el coche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aunque (yo, pagar) _____ no me (reservar) _____ las entradas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué rabia! (yo, llegar) _____ a la consulta cuando el médico (marcharse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los obreros no (poder) _____ cerrar la zanja porque (llover) _____ mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Isabel (cerrar) _____ la tienda porque (ella, arruinarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué no (tú, ir) _____ de vacaciones el año pasado? -Porque (suspender) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Alberto lo (expulsar) _____ del colegio porque (copiar) _____ en un examen.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No (yo, poder) _____ participar en la final porque (yo, hacerse daño) _____ en una pierna.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Nosotros, llegar) _____ a la ópera porque (averiarse) _____ el metro.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Responda con *ya* o *todavía no*.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Pudiste hablar con Julián? -No, (marcharse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Lograste hablar con Sonia? -Sí, (irse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Pudiste llegar a Bilbao a pesar de la nevada? -Sí, (cortar las carreteras) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Te dejaron entrar? -No, (el concierto, empezar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Pudiste conseguir entradas? -No, (las entradas, agotarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Pudisteis cambiar el dinero? -No, (los bancos, cerrar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Lograste tomar el vuelo? -Sí, (embarcar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Pudieron mudarse al nuevo piso? -No, (firmar el contrato) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Conociste a tus abuelos? -No, (fallecer) _____ cuando nací.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Lograste comprarle el coche a Margarita? -No, (venderlo) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases comenzando con *cuando*.",
+      "items": [
+        {
+          "texto_enunciado": "Acabé el informe. Me fui a casa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El director se fue. Llegamos al banco. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me tocó la lotería. Compré el piso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Publicó cinco novelas. Le dieron el premio. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Heredó de sus padres. Puso un negocio. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Acabó la carrera. Tuvo un hijo. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases de forma cortés.",
+      "items": [
+        {
+          "texto_enunciado": "-Mañana no xxxx. -Perdón, ¿qué (tú, decir) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Quién (pedir) _____ un café cortado? -Yo, lo he pedido yo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿(reservar) _____ ustedes una mesa de seis? -Sí, la hemos pedido nosotras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Perdone, doña Rosario, ¿me (llamar) _____? -Sí, tengo que comentar algo con usted.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿(Quedar) _____ ustedes con el Sr. Cuñado? Pasen. Les está esperando.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "43.5",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos del recuadro expresando sorpresa.",
+      "banco_palabras": [
+        "aprobar",
+        "arruinarse",
+        "casarse",
+        "comprarse",
+        "dejar",
+        "encontrar",
+        "irse",
+        "mudarse",
+        "regañar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "¿Qué haces aquí? ¿_____ a Egipto?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Todavía trabajas aquí? ¿_____ un empleo en una multinacional?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Aún vivís en un piso? ¿_____ a un chalé?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Qué haces con ese coche? ¿_____ un Mercedes?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué fumas? ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Cómo que te queda Dibujo? ¿_____ en junio?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Qué os vais a las Seychelles? ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Todavía sales con Encarna? ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Todavía vives con tus padres? ¿_____?",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 43,
+  "titulo_libro": "Se había gastado todo el dinero. -- Pretérito pluscuamperfecto",
+  "scan": "p-093.jpg"
+}

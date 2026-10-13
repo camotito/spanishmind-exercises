@@ -1,0 +1,303 @@
+{
+  "tema": "unidad-2",
+  "titulo": "carnés, líderes, airbags",
+  "descripcion_gramatical": "Singular / plural",
+  "fuente": "libro",
+  "unidad_libro": 2,
+  "ejercicios": [
+    {
+      "subejercicio": "2.1",
+      "tipologia": "T4",
+      "enunciado": "Escriba el plural de las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cuántas (o) _____ hay en cocodrilo?",
+          "solucion_correcta": [
+            "oes"
+          ]
+        },
+        {
+          "texto_enunciado": "En la votación de la ley hubo más (sí) _____ que (no) _____.",
+          "solucion_correcta": [
+            "síes",
+            "noes"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay tres (hombre rana) _____ buscando el tesoro.",
+          "solucion_correcta": [
+            "hombres rana"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunos (carácter) _____ chinos son muy complicados.",
+          "solucion_correcta": [
+            "caracteres"
+          ]
+        },
+        {
+          "texto_enunciado": "Clara ya ha probado varios (régimen) _____ alimenticios",
+          "solucion_correcta": [
+            "regímenes"
+          ]
+        },
+        {
+          "texto_enunciado": "En el concurso de televisión sacaron a dos (niña prodigio) _____.",
+          "solucion_correcta": [
+            "niñas prodigio"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunas sociedades tienen muchos (tabú) _____.",
+          "solucion_correcta": [
+            "tabús/tabúes"
+          ]
+        },
+        {
+          "texto_enunciado": "Este gobierno ya ha superado varias (crisis) _____.",
+          "solucion_correcta": [
+            "crisis"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "2.2",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Los (hippis/hippies) eran pacíficos.",
+          "solucion_correcta": [
+            "hippies"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo que lavar los (jerseys/jerséis) antes de guardarlos.",
+          "solucion_correcta": [
+            "jerséis"
+          ]
+        },
+        {
+          "texto_enunciado": "Ten cuidado. Ya llevas tres (whiskys/whiskyes).",
+          "solucion_correcta": [
+            "whiskys"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy nos han pitado tres (penaltys/penaltis).",
+          "solucion_correcta": [
+            "penaltis"
+          ]
+        },
+        {
+          "texto_enunciado": "Los (espráis/esprayes) no son buenos para el pelo.",
+          "solucion_correcta": [
+            "espráis"
+          ]
+        },
+        {
+          "texto_enunciado": "Los (samurayes/samuráis) eran guerreros japoneses.",
+          "solucion_correcta": [
+            "samuráis"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunos (paparazi/paparazis) acosan a los famosos.",
+          "solucion_correcta": [
+            "paparazis"
+          ]
+        },
+        {
+          "texto_enunciado": "Los (ponies/ponis) son una raza de caballos enanos.",
+          "solucion_correcta": [
+            "ponis"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "2.3",
+      "tipologia": "T4",
+      "enunciado": "Escriba el plural de las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Miguel tiene la pared de su cuarto llena de (póster) _____ .",
+          "solucion_correcta": [
+            "pósters"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunos (líder) _____ políticos dan más de cien (mitin) _____ al año.",
+          "solucion_correcta": [
+            "líderes",
+            "mítines"
+          ]
+        },
+        {
+          "texto_enunciado": "Ronaldo es un especialista en sacar (córner) _____.",
+          "solucion_correcta": [
+            "córners"
+          ]
+        },
+        {
+          "texto_enunciado": "El coche de Alonso se averió y tuvo que entrar en (box) _____.",
+          "solucion_correcta": [
+            "boxes"
+          ]
+        },
+        {
+          "texto_enunciado": "En Roma nos compramos algunos (pin) _____ con el Coliseo.",
+          "solucion_correcta": [
+            "pins/pines"
+          ]
+        },
+        {
+          "texto_enunciado": "Los alumnos de ese colegio llevan (chándal) _____ verdes.",
+          "solucion_correcta": [
+            "chándals/chándales"
+          ]
+        },
+        {
+          "texto_enunciado": "Han comprado varios (escáner) _____ nuevos para la oficina.",
+          "solucion_correcta": [
+            "escáners/escáneres"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi nueva cámara tiene doce (megapíxel) _____.",
+          "solucion_correcta": [
+            "megapíxeles"
+          ]
+        },
+        {
+          "texto_enunciado": "La mayoría de los (best-seller) _____ tienen poca calidad.",
+          "solucion_correcta": [
+            "best-seller/best-sellers"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunos actores tienen varios (óscar) _____.",
+          "solucion_correcta": [
+            "óscar"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta tomar (cruasán) _____ para desayunar.",
+          "solucion_correcta": [
+            "cruasáns/cruasanes"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "2.4",
+      "tipologia": "T4",
+      "enunciado": "Escriba el plural de las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cada vez se fabrican (chip) _____ más potentes.",
+          "solucion_correcta": [
+            "chips"
+          ]
+        },
+        {
+          "texto_enunciado": "Ramón tiene todos los (álbum) _____ de los Beatles.",
+          "solucion_correcta": [
+            "álbums/álbumes"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunos animales pueden adaptarse a diversos (hábitat) _____.",
+          "solucion_correcta": [
+            "hábitats"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta mañana he desayunado dos (sandwich) _____ de pavo.",
+          "solucion_correcta": [
+            "sandwiches"
+          ]
+        },
+        {
+          "texto_enunciado": "Había muchos (pub) _____ junto al cine.",
+          "solucion_correcta": [
+            "pubs"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te gustan los (cómic) _____ de Marvel?",
+          "solucion_correcta": [
+            "cómics"
+          ]
+        },
+        {
+          "texto_enunciado": "A mis hijos les encantan los (bistec) _____ empanados.",
+          "solucion_correcta": [
+            "bistecs"
+          ]
+        },
+        {
+          "texto_enunciado": "Te será difícil hacer dos (máster) _____ al mismo tiempo.",
+          "solucion_correcta": [
+            "másters/másteres"
+          ]
+        },
+        {
+          "texto_enunciado": "En ese país ya ha habido varios (complot) _____ para derrocar al Presidente.",
+          "solucion_correcta": [
+            "complots"
+          ]
+        },
+        {
+          "texto_enunciado": "Voy ganando tres (set) _____ a uno.",
+          "solucion_correcta": [
+            "sets"
+          ]
+        },
+        {
+          "texto_enunciado": "Los (ballet) _____ rusos tienen gran fama.",
+          "solucion_correcta": [
+            "ballets"
+          ]
+        },
+        {
+          "texto_enunciado": "Este coche es fantástico. Tiene siete (airbag) _____.",
+          "solucion_correcta": [
+            "airbags"
+          ]
+        },
+        {
+          "texto_enunciado": "Muchos países padecen serios (déficit) _____ en educación y cultura.",
+          "solucion_correcta": [
+            "déficits"
+          ]
+        },
+        {
+          "texto_enunciado": "En esta urbanización hay más de treinta (chalet) _____.",
+          "solucion_correcta": [
+            "chalets"
+          ]
+        },
+        {
+          "texto_enunciado": "Hemos pasado las vacaciones de verano durmiendo siempre en (camping) _____.",
+          "solucion_correcta": [
+            "campings"
+          ]
+        },
+        {
+          "texto_enunciado": "Me ponen nervioso las personas con (tic) _____ nerviosos.",
+          "solucion_correcta": [
+            "tics"
+          ]
+        },
+        {
+          "texto_enunciado": "He escrito varios (sketch) _____ para televisión.",
+          "solucion_correcta": [
+            "sketches"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "104.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro en el tiempo adecuado.",
+      "banco_palabras": [
+        "anunciar",
+        "asegurar",
+        "contar",
+        "contestar",
+        "declarar",
+        "explicar",
+        "prometer",
+        "quejarse",
+        "reconocer",
+        "recordar",
+        "repetir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Estate tranquilo. _____ que llamará en cuanto llegue.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le volví a preguntar y por segunda vez me _____ que no lo había hecho por falta de tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando insistí, _____ que no tenía razón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando le pregunté si quería salir, _____ que ella no quiere nada con nosotros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te _____ que has prometido invitarnos a cenar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy contentísima. El jefe de Personal me _____ que me van a hacer jefe de Sección.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lourdes siempre se _____ de que gana muy poco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En el juicio, el acusado _____ que había entrado en la casa porque la puerta estaba abierta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El profesor _____ que las clases serían en español.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer hablé con Marta y me _____ que su hermano estaba feliz en Corea.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La radio _____ que la guerra había terminado.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "104.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en el tiempo adecuado. En algunos casos hay dos posibilidades.",
+      "items": [
+        {
+          "texto_enunciado": "El lunes le dije al director que (yo, llegar) _____ tarde por la huelga de transportes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién de vosotros dijo que Fidel no (ser) _____ muy listo? Le han nombrado profesor auxiliar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿A quién le has prometido que le (tú, regalar) _____ un coche cuando (acabar) _____ la carrera?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Carlos no le gustaban los niños. Decía siempre que no (él, tener) _____ hijos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando vi a Luisa el domingo, me dijo que su hermana ya (casarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre he dicho que la culpa (ser) _____ del gobierno.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te repito que yo no (ser) _____. Habrá sido otro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Donato me ha contado que a un vecino suyo le (tocar) _____ la lotería.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La princesa y el príncipe han anunciado oficialmente que (separarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay personas que afirman que el hombre no (llegar) _____ a la Luna, que (ser) _____ mentira.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Varios testigos del accidente declararon que el conductor (saltarse) _____ el semáforo en rojo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando le pregunté a Martín, me contestó que no (poder) _____ ayudarnos hasta dentro de unos días.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mónica les ha confesado a sus padres que ya no (salir) _____ con Jacobo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dicen que (ir) _____ a cerrar la tienda si sigue la crisis.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sonia ha aclarado que ella no (insultar) _____ a Jaime, que solo dijo que no (ser) _____ muy trabajador.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando firmamos la póliza nos aseguraron que nos (pagar) _____ todo si teníamos un accidente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anoche hablé con Fidel y me comentó que (ir) _____ a pedir aumento de sueldo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dicen que el niño de Antonio (llorar) _____ todo el día.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He hablado con la profesora y me ha asegurado que el examen (ser) _____ muy fácil.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando llegamos a casa de Matilde, su madre nos dijo que (irse) _____ al cine.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "104.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Mis padres dicen (yo, tener que, buscar un empleo) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Susana nos prometió (dejarnos su casa para la fiesta) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El profesor explicó (el examen, ser en forma de test) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Carla me dice en su carta (ella, pasárselo muy bien en Nápoles) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sofía dice (de pequeña, ella, ir todos los veranos a Grecia) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yao se queja de (su sueldo, ser muy bajo) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Como había nacido en Roma, Lucía decía siempre (ella, ser italiana) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Costas me ha prometido (ayudarme con mis clases de griego) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 104,
+  "titulo_libro": "Dice que llegará tarde. / Dije que llegaría tarde. -- Estilo indirecto (1)",
+  "scan": "p-215.jpg"
+}

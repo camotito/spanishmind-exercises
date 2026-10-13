@@ -1,0 +1,244 @@
+{
+  "tema": "unidad-78",
+  "titulo": "Tuve que ir. Hay que darse prisa.",
+  "descripcion_gramatical": "Expresiones con infinitivo (2)",
+  "fuente": "libro",
+  "unidad_libro": 78,
+  "ejercicios": [
+    {
+      "subejercicio": "78.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con las formas adecuadas de *tener que*, *no tener que*.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Por qué estás preocupado? - _____ haber ido al mercado. Mañana está cerrado.",
+          "solucion_correcta": [
+            "Tenía que"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué _____ hacer mañana, Marta? -Por la mañana _____ ir a la Facultad y por la tarde _____ hacer nada.",
+          "solucion_correcta": [
+            "tienes que",
+            "tengo que",
+            "no tengo que"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué os vais tan deprisa? -Porque _____ llegar a casa antes que nuestros padres. Se han olvidado las llaves.",
+          "solucion_correcta": [
+            "tenemos que"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué _____ ser yo el que siempre paga los bocadillos?",
+          "solucion_correcta": [
+            "tengo que"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cómo decís eso ahora? -¿Por qué _____ darte siempre la razón, Alba?",
+          "solucion_correcta": [
+            "tengo que"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué no viniste ayer? -No pude. _____ acompañar a mi abuela al hospital.",
+          "solucion_correcta": [
+            "Tuve que"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué os habéis levantado tan temprano esta mañana? _____ ir a ninguna parte.",
+          "solucion_correcta": [
+            "No tenéis que"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ haber abierto la tienda esta mañana, pero no he podido porque _____ llevar el coche al taller.",
+          "solucion_correcta": [
+            "Tenía que",
+            "he tenido que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "78.2",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con la forma adecuada de *haber que*.",
+      "items": [
+        {
+          "texto_enunciado": "_____ acabar esto hoy. Hasta que no lo acabemos no podemos marcharnos.",
+          "solucion_correcta": [
+            "Hay que"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche _____ llamar a la policía. Se oyeron unos chillidos.",
+          "solucion_correcta": [
+            "hubo que"
+          ]
+        },
+        {
+          "texto_enunciado": "Va a _____ estar en los aeropuertos tres horas antes de que salga el avión.",
+          "solucion_correcta": [
+            "haber que"
+          ]
+        },
+        {
+          "texto_enunciado": "No _____ hacer lo que a uno no le parece correcto.",
+          "solucion_correcta": [
+            "hay que"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Tanto _____ pagar para oír el concierto? -Yo no habría ido.",
+          "solucion_correcta": [
+            "había que"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa puerta no cierra bien. Si tú no la arreglas, _____ llamar a un cerrajero.",
+          "solucion_correcta": [
+            "habrá que"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "78.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con las formas adecuadas de *(no) deber*, *(no) deber de*.",
+      "items": [
+        {
+          "texto_enunciado": "_____ ser las tres. Han empezado las noticias en la tele.",
+          "solucion_correcta": [
+            "Deben de"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que _____ ayudar más en casa, niños. Ya sois mayorcitos.",
+          "solucion_correcta": [
+            "debéis"
+          ]
+        },
+        {
+          "texto_enunciado": "Ten cuidado, Juan. _____ tratar así a tus amigos. Se van a enfadar.",
+          "solucion_correcta": [
+            "No debes"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay un paquete en la salita que _____ ser para ti, Juan.",
+          "solucion_correcta": [
+            "debe de"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ haber acabado ya la carrera, pero me quedan tres asignaturas.",
+          "solucion_correcta": [
+            "Debería"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando vimos a Humberto, _____ estar ya mal. No tenía buena cara.",
+          "solucion_correcta": [
+            "debía de"
+          ]
+        },
+        {
+          "texto_enunciado": "No llevo el abrigo. Hoy _____ hacer mucho frío.",
+          "solucion_correcta": [
+            "no debe de"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ tomar estas pastillas tres veces al día, Sr. Silva.",
+          "solucion_correcta": [
+            "Debe"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucha gente en la calle. _____ haber pasado algo.",
+          "solucion_correcta": [
+            "Debe de"
+          ]
+        },
+        {
+          "texto_enunciado": "Sé que _____ haberte avisado, pero me olvidé.",
+          "solucion_correcta": [
+            "debía/debería"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "78.4",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas con las formas adecuadas de *(no) tener que*, *haber que*, *(no) deber*, *(no) deber de*.",
+      "items": [
+        {
+          "texto_enunciado": "Está sonando el teléfono. <u>Supongo que es para ti</u>. Yo no espero ninguna llamada. _____",
+          "solucion_correcta": [
+            "Debe de ser para ti"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Es necesario que vaya a la oficina esta tarde</u>. Hay mucho trabajo. _____",
+          "solucion_correcta": [
+            "Tengo que ir a la oficina esta tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Es conveniente que estudies Informática</u>. _____",
+          "solucion_correcta": [
+            "Deberías estudiar informática"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Era necesario que leyera el informe esta mañana</u>, pero no he tenido tiempo. _____",
+          "solucion_correcta": [
+            "Tenía que haber leído el informe esta mañana"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>No es mi obligación sacar al perro todas las noches</u>. _____",
+          "solucion_correcta": [
+            "No tengo que sacar al perro"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que <u>no es conveniente hablar de eso delante de los niños</u>. _____",
+          "solucion_correcta": [
+            "no deberíamos"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Hubiera sido conveniente que ayudara a Álvaro</u>, pero no lo hice. _____",
+          "solucion_correcta": [
+            "Tendría que haber ayudado a Álvaro / Debería haber ayudado a Álvaro"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Antes era obligatorio tener visado para viajar a los Estados Unidos</u>. _____",
+          "solucion_correcta": [
+            "había que"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Es obligatorio llevar repuestos de bombillas de faros en los coches</u>. _____",
+          "solucion_correcta": [
+            "Hay que"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Sería aconsejable que te revisaras la vista todos los años, Joaquín</u>. _____",
+          "solucion_correcta": [
+            "Deberías revisarte"
+          ]
+        }
+      ]
+    }
+  ]
+}

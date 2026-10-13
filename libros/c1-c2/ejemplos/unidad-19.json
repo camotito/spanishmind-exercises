@@ -1,0 +1,274 @@
+{
+  "tema": "unidad-19",
+  "titulo": "para sí, consigo",
+  "descripcion_gramatical": "Pronombres con preposición",
+  "fuente": "libro",
+  "unidad_libro": 19,
+  "ejercicios": [
+    {
+      "subejercicio": "19.1",
+      "tipologia": "T2",
+      "enunciado": "Observe las situaciones y complete las frases con los pronombres adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "Esa chica se sienta detrás de _____ en clase.",
+          "estimulo_visual": "Un chico en clase señala hacia una chica sentada detrás de él",
+          "solucion_correcta": [
+            "mí"
+          ]
+        },
+        {
+          "texto_enunciado": "Alguien pregunta por _____, Ivana.",
+          "estimulo_visual": "Una secretaria le habla a Ivana indicándole que alguien pregunta por ella",
+          "solucion_correcta": [
+            "ti"
+          ]
+        },
+        {
+          "texto_enunciado": "Ten cuidado con el árbol. No te apoyes en _____.",
+          "estimulo_visual": "Una mujer advierte a un hombre que va a apoyarse en un árbol",
+          "solucion_correcta": [
+            "él"
+          ]
+        },
+        {
+          "texto_enunciado": "Siéntate aquí, entre Rafa y _____.",
+          "estimulo_visual": "Un pasajero en un avión o autobús señala el asiento libre entre Rafa y él",
+          "solucion_correcta": [
+            "yo"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí trabaja todo el mundo menos _____.",
+          "estimulo_visual": "Varios empleados trabajando en una oficina y una mujer de pie con los brazos cruzados",
+          "solucion_correcta": [
+            "tú"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdone, pero he llegado antes que _____.",
+          "estimulo_visual": "Un hombre mayor llama la atención a otro en una tienda diciendo que llegó antes",
+          "solucion_correcta": [
+            "usted"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa silla está rota. No te sientes en _____.",
+          "estimulo_visual": "Una mujer avisa a otra de que no se siente en una silla rota del jardín",
+          "solucion_correcta": [
+            "ella"
+          ]
+        },
+        {
+          "texto_enunciado": "No lo entiendo. Se ríen todos menos _____.",
+          "estimulo_visual": "Un grupo de amigos se ríe mientras uno de ellos mira desconcertado",
+          "solucion_correcta": [
+            "yo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "19.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con el pronombre adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "¿Este paquete es para _____? Yo estoy esperando uno.",
+          "solucion_correcta": [
+            "mí"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento, estas raciones no son para _____. Son para otra mesa.",
+          "solucion_correcta": [
+            "usted/ustedes"
+          ]
+        },
+        {
+          "texto_enunciado": "Si vienes con _____, te invito.",
+          "solucion_correcta": [
+            "conmigo"
+          ]
+        },
+        {
+          "texto_enunciado": "No os vayáis sin _____. Nosotras también queremos ir.",
+          "solucion_correcta": [
+            "nosotras"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay quien piensa que hay algo entre _____ y _____, Rocío.",
+          "solucion_correcta": [
+            "tú",
+            "yo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encanta esta ciudad. He pasado muy buenos años en _____.",
+          "solucion_correcta": [
+            "ella"
+          ]
+        },
+        {
+          "texto_enunciado": "-Siéntate a mi lado. -No, prefiero sentarme detrás de _____. Quiero tenerte delante.",
+          "solucion_correcta": [
+            "ti"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te importa que vaya con _____? Es que no conozco muy bien el camino.",
+          "solucion_correcta": [
+            "contigo"
+          ]
+        },
+        {
+          "texto_enunciado": "El director tiene mucha confianza en _____, Martín.",
+          "solucion_correcta": [
+            "ti"
+          ]
+        },
+        {
+          "texto_enunciado": "Elisa, según _____, ¿quién es el culpable?",
+          "solucion_correcta": [
+            "tú"
+          ]
+        },
+        {
+          "texto_enunciado": "No le digas nada a Juan. Prefiero hacer el viaje sin _____.",
+          "solucion_correcta": [
+            "él"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Para qué te has hecho un chalé? -¿Para qué va a ser? Para vivir en _____.",
+          "solucion_correcta": [
+            "él"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué mala suerte, David! Han aprobado todos el carné de conducir menos _____.",
+          "solucion_correcta": [
+            "tú"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "19.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con el pronombre adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Nunca puedo hablar _____ a solas, Elisa.",
+          "solucion_correcta": [
+            "contigo"
+          ]
+        },
+        {
+          "texto_enunciado": "Ten cuidado. El gato está debajo de _____, Mariano.",
+          "solucion_correcta": [
+            "ti"
+          ]
+        },
+        {
+          "texto_enunciado": "Eso lo diría Alberto para _____, porque nadie le oyó.",
+          "solucion_correcta": [
+            "sí"
+          ]
+        },
+        {
+          "texto_enunciado": "Nuria quiere mucho a su madre. Todo lo que gana lo quiere para _____.",
+          "solucion_correcta": [
+            "ella"
+          ]
+        },
+        {
+          "texto_enunciado": "Es muy egoísta. Lo quiere todo para _____.",
+          "solucion_correcta": [
+            "sí"
+          ]
+        },
+        {
+          "texto_enunciado": "Todo lo que he conseguido ha sido gracias a _____, Doña Inés.",
+          "solucion_correcta": [
+            "usted"
+          ]
+        },
+        {
+          "texto_enunciado": "El escritor siempre escribe para _____ y publica para los demás.",
+          "solucion_correcta": [
+            "sí"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando Carlota se fue, se llevó toda su ropa con _____.",
+          "solucion_correcta": [
+            "consigo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "19.4",
+      "tipologia": "T8",
+      "enunciado": "Complete con *mí*, *ti*, *usted*, *ustedes*, *sí* y *mismo*, *misma*, *mismos*, *mismas*.",
+      "items": [
+        {
+          "texto_enunciado": "Roberto es un egoísta. Solo piensa en _____.",
+          "solucion_correcta": [
+            "sí mismo"
+          ]
+        },
+        {
+          "texto_enunciado": "Es un hombre muy raro. Se corta el pelo a _____.",
+          "solucion_correcta": [
+            "sí mismo"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué creídas son! Siempre hablando de _____.",
+          "solucion_correcta": [
+            "sí mismos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Lo quieren para _____ o es para regalar?",
+          "solucion_correcta": [
+            "ustedes mismos"
+          ]
+        },
+        {
+          "texto_enunciado": "Lorenzo me ha dado la mano con tal fuerza que se ha hecho daño a _____.",
+          "solucion_correcta": [
+            "sí mismo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me voy. Voy a abrir mi propia empresa. Prefiero trabajar para _____.",
+          "solucion_correcta": [
+            "mí mismo"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuidado. Te vas a hacer daño a _____ con esos comentarios.",
+          "solucion_correcta": [
+            "ti misma"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta estar a solas con _____. Así puedo pensar.",
+          "solucion_correcta": [
+            "conmigo mismo/a"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo importante, Lorena, es que estés contenta con _____.",
+          "solucion_correcta": [
+            "contigo misma"
+          ]
+        }
+      ]
+    }
+  ]
+}

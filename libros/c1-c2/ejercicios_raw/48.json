@@ -1,0 +1,209 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "48.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el futuro simple o el futuro compuesto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(ellos, acabar) _____ las obras dentro de dos semanas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes, cuando llegues, (ellos, acabar) _____ las obras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te (yo, pagar) _____ la semana que viene.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando sea mi cumpleaños (yo, dar) _____ una fiesta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando tenga 25 años, ya (yo, acabar) _____ la carrera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te lo (contar) _____ cuando no veamos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que a las seis ya (regresar) _____ Felipe. Podéis venir a esa hora.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando llegues, yo ya (terminar) _____ con el ordenador.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es mejor que vengáis en septiembre. Ya (irse) _____ muchos turistas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La nueva secretaria (llegar) _____ dentro de unos días.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes. Cuando llegues de clase, ya (yo, preparar) _____ la cena.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tranquilos, nosotros cuidamos a la abuela. No (nosotros, irse) _____ hasta que regreséis.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "48.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el futuro simple o el futuro compuesto de los verbos del recuadro.",
+      "banco_palabras": [
+        "cerrar",
+        "desayunar",
+        "haber",
+        "hacer",
+        "ser (3)",
+        "quedarse",
+        "salir",
+        "suspender"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "–Mira qué hambre tienen. –No _____ nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¡Qué bien habla alemán esa chica! –_____ alemana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Mira esa ventana. Tiene los cristales rotos. –_____ el viento. Anoche fue tremendo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Te llama una chica pero no me ha dicho el nombre. –_____ Anita. Tenemos que vernos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Mira esas casas. Están totalmente negras. –_____ un incendio. Anoche oí a los bomberos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–La carretera está helada. –_____ mucho frío. Seguro que anoche heló.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No han venido tus padres. –No, _____ en la sierra.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No me cogen el teléfono en el restaurante. –_____ los domingos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Agustín no se atreve a enseñarme las notas. –_____ alguna asignatura.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Pili y Luis no están en casa. –_____ a dar una vuelta.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "48.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Exprese objeciones con el futuro simple o el futuro compuesto.",
+      "items": [
+        {
+          "texto_enunciado": "–Se ha dado mucha prisa. –_____, pero ha llegado tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Sonia es inteligentísima. –_____ inteligentísima, pero no hace nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Pablo ya se ha curado el catarro. –_____, pero todavía tose mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Han vendido todos los pisos. –Los _____, pero no al precio de antes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Tomás sale mucho. –_____ mucho, pero cuando llamo siempre está en casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Se han vendido muchos coches este mes. –Se _____, pero los fabricantes se siguen quejando.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Pepe ha subido la calefacción esta mañana. –La _____, pero sigue haciendo frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Hay mucho trabajo. –Lo _____, pero yo no encuentro nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Ya han arreglado el ascensor. –Lo _____, pero sigue haciendo un ruido extraño.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Celia no cocina muy bien. –_____, pero tú te comes su comida con mucho gusto.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "48.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Reaccione ante las siguientes informaciones con el futuro simple o el futuro compuesto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "–Julio se ha ido de la empresa. –¡(ser) _____ tonto! Tenía un empleo muy bueno.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Le he dicho a Sonia que tiene que ayudar, pero nada. –¡No se lo (decir) _____ yo veces!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Amelia hace cocina de diseño. –¿Amelia? ¡(creerse) _____ que es una gran cocinera!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Han vuelto a multar a Eusebio por correr con el coche. –¡No le (multar) _____ ya veces!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El agua ha llegado hasta la segunda planta. ¡Si (llover) _____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Rocío no quiere invitarnos. –¡(ser) _____ tacaña! ¡Con el dinero que tiene!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Tu hermano es muy desagradable. –¡No lo (saber) _____ yo, que vivo con él!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Que no conoces a Sebastián? ¡No (estar) _____ veces en tu casa!",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 48,
+  "titulo_libro": "acabaré / habré acabado -- Contraste futuro simple / futuro compuesto",
+  "scan": "p-103.jpg"
+}

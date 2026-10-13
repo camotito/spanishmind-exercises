@@ -1,0 +1,167 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "89.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con el nexo dado. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Me han puesto una multa. Me he saltado un semáforo en rojo. (por) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llegamos tarde. La culpable fue María. (por culpa de) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las carreteras estaban cortadas. Había inundaciones. (por) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Chocó contra un poste. Iba mirando hacia atrás. (por) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eres tonto. Por eso te ha pasado eso. (por) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se fue la luz. Había una tormenta. (a causa de) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos castigaron. La culpa fue vuestra. (por culpa de) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ganamos. El responsable fue Andrés. (gracias a) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos quedamos sin vacaciones. No habíamos reservado hotel. (por) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sé lo del divorcio de Lola. Ángel me lo dijo. (gracias a) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El coche derrapó. En la carretera había hielo. (por culpa de) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me olvidé del móvil. Salimos muy deprisa. (por) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "89.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con *de + tanto/a/os/as*, *de + tan*, *de + tanto / tan poco*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No oíamos nada. Había mucho ruido. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luisa está siempre cansada. Duerme muy poco. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los niños estaban excitadísimos. Habían recibido muchos regalos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Carla está siempre estresada. Tiene mucho trabajo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lee mucho. Se va a quedar sin vista. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El tráfico va mal. Hay muchos coches. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llevaba mucha ropa. Parecía gordo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No pudimos comer el jamón. Estaba muy salado. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos quemamos la cara y los brazos. Hacía mucho sol. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había mucha niebla. No veíamos la carretera. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rodrigo está fuerte. Levanta un sillón con una mano. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hablé mucho en la reunión. Tenía una sed tremenda. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "89.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas usando el gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Como pensaba que le gustaba la música clásica</u>. _____ le compré un cedé de Mozart.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Como creía que Celia quería verme</u>. _____, fui a su casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Como sospechaba que me iban a despedir</u>. _____, me busqué otro trabajo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Como estaba de baja</u>. _____, Pedro no se atrevía a salir a la calle.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Como la veíamos tan triste</u>. _____, nos daban ganas de ayudar a Teresa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Como Santi no estaba</u>. _____, nos fuimos enseguida.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Como estaba distraído</u>. _____, no oí entrar a Tomás.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Como había terminado de leer el periódico</u>. _____, me puse a hacer el crucigrama.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Como sabíamos que Álvaro estaba en cama</u>. _____, nos dejamos caer por su casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Como recordé que no teníamos leche</u>. _____ compré un par de cartones en el súper.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 89,
+  "titulo_libro": "gracias a vosotros, de tantos libros como tiene -- Oraciones causales (2)",
+  "scan": "p-185.jpg"
+}

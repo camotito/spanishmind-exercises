@@ -1,0 +1,194 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "79.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el participio de los verbos entre paréntesis en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Hay que retirar todos los libros (romper) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Son ordenadores (hacer) _____ en Taiwán.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que arreglar los tejados (destruir) _____ por la tormenta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay dos ratas (morir) _____ en el sótano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre duermo con la ventana (cerrar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que recoger los cristales (romper) _____. Son peligrosos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me encanta la cerámica (pintar) _____ a mano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tiene un piso (decorar) _____ por un diseñador famoso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No nos han entregado el dinero (acordar) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "79.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el participio de los verbos del recuadro en la forma correcta.",
+      "banco_palabras": [
+        "acostar",
+        "asustar",
+        "casar",
+        "despedir",
+        "dormir",
+        "expulsar",
+        "lesionar",
+        "tumbar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Fíjate en Ronaldo. ¡Otra vez _____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Emilio _____? Pero si le caía muy bien al director.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué vagas son tus hermanas! ¡Siempre _____ en el sofá!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Adolfo _____! Pero si era un soltero empedernido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Otra vez _____ de clase, Raúl? ¿Qué has hecho esta vez?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿_____ yo? Qué va. Solo tenía los ojos cerrados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esto de estar enfermo es un aburrimiento. Todo el día _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿_____, Paco? Ya te dije que esta película daba mucho miedo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "79.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas utilizando un participio, como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Después de derrotar al enemigo</u>, las tropas regresaron a sus cuarteles. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No pudimos salir del auditorio <u>hasta después de acabar la primera parte</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pudimos entrar <u>una vez que abrieron las puertas</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Después de que empiece el concierto</u>, no se puede pasar a la sala. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Una vez que le declararon culpable</u>, ingresó en prisión. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Cuando acabó la boda</u>, los invitados se fueron al restaurante. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Cuando lo eliminaron del torneo</u>, Fernando regresó a España. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Justo al terminar el partido</u>, salimos deprisa del estadio. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>En el momento de estrenar la chaqueta</u>, se le manchó de tinta. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "79.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con las formas adecuadas de los verbos del recuadro.",
+      "banco_palabras": [
+        "acusar",
+        "hacer",
+        "herir(2)",
+        "invitar",
+        "morir",
+        "tostar",
+        "volver"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Ha habido una explosión en una gasolinera y hay tres _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se han llevado a los _____ al hospital.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nuestras _____ no conocen nada de Madrid.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los _____ se negaron a declarar ante el juez.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quién te ha curado esa _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La farmacia debe de estar a la _____ de esa esquina.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Desayuno café y dos _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sería conveniente conocer bien los _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 79,
+  "titulo_libro": "¿sorprendida?, siempre cansado -- Participio (1)",
+  "scan": "p-165.jpg"
+}

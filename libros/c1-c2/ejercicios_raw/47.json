@@ -1,0 +1,210 @@
+{
+ "ejercicios": [
+  {
+   "subejercicio": "47.1",
+   "tipologia": "T12",
+   "tipologia_libre": "Escribir frases sobre predicciones futuras a partir de pistas entre paréntesis usando el futuro perfecto y los marcadores 'ya' o 'todavía no'.",
+   "enunciado": "Esto es lo que una persona piensa que habrá pasado o no dentro de diez años. Escriba las frases y utilice *ya* (✓), *todavía no* / *no... todavía* (X) en los casos indicados.",
+   "items": [
+    {
+     "texto_enunciado": "(nosotros, superar la crisis económica ✓) Dentro de diez años, _____ la crisis económica.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(mejorar la televisión ✓) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(acabarse el petróleo X) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(aumentar la población mundial) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(desaparecer las guerras X) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(detenerse el cambio climático ✓) _____",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Escribir frases sobre predicciones futuras a partir de pistas entre paréntesis usando el futuro perfecto y los marcadores 'ya' o 'todavía no'."
+  },
+  {
+   "subejercicio": "47.2",
+   "tipologia": "T4",
+   "tipologia_libre": null,
+   "enunciado": "¿Qué cree que habrá ocurrido antes del momento indicado? Complete las frases.",
+   "items": [
+    {
+     "texto_enunciado": "Venid mañana al estudio. Ya (acabar) _____ el cuadro y os lo puedo enseñar.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Llamad la semana que viene. Lali (tener) _____ el niño para entonces.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¡Qué pena! A esas horas ya (cerrar) _____ todas las tiendas.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No vengas a las seis. A esa hora todavía no (yo, acabar) _____ el informe.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Podéis venir el verano que viene. Ya (nosotros, encontrar) _____ piso.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Espero que cuando yo llegue, ya te (llegar) _____ el paquete.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Dentro de diez años, ya (nosotros, pagar) _____ la hipoteca.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "47.3",
+   "tipologia": "T12",
+   "tipologia_libre": "Formular suposiciones en diálogos a partir de un estímulo en infinitivo con pronombres entre paréntesis, conjugando en futuro perfecto.",
+   "enunciado": "Escriba las suposiciones con las palabras entre paréntesis.",
+   "items": [
+    {
+     "texto_enunciado": "-No encuentro mi móvil -(cogerlo tu hijo) _____.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Arturo sabía lo del accidente. -(contárselo Adela) _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Quién ha empezado la tarta? -(empezarla Ramón) Supongo que _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-No encuentro el móvil. -(dejártelo en la oficina) _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Parece cansada. -(dormir poco) _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Quién ha comprado ese CD? -(comprarlo Marta) _____ . Es de música pop.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Hay una mancha en el suelo. -(ser Mari) _____ . Tira comida por todas partes.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Hay luz en la casa. -(llegar Sole) Supongo que _____ .",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Formular suposiciones en diálogos a partir de un estímulo en infinitivo con pronombres entre paréntesis, conjugando en futuro perfecto."
+  },
+  {
+   "subejercicio": "47.4",
+   "tipologia": "T12",
+   "tipologia_libre": "Completar la réplica en un diálogo expresando objeción o concesión con el futuro perfecto a partir de la frase anterior.",
+   "enunciado": "Exprese objeciones a las informaciones siguientes.",
+   "items": [
+    {
+     "texto_enunciado": "-Este verano he hecho mucho ejercicio. -_____ ejercicio, pero te veo más gordo.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Este invierno ha nevado muchísimo. -_____ mucho, pero no hay agua.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Lola ha hecho un curso de informática. -_____ un curso, pero no sabe nada.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Han bajado los precios de la fruta. -_____ , pero yo me gasto más que antes.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Ha bajado el precio del dinero. -_____ , pero el banco no me da la hipoteca.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Elvira ha recogido su habitación. -La _____ hoy, porque nunca lo hace.",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Completar la réplica en un diálogo expresando objeción o concesión con el futuro perfecto a partir de la frase anterior."
+  },
+  {
+   "subejercicio": "47.5",
+   "tipologia": "T11",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases con el futuro perfecto.",
+   "items": [
+    {
+     "texto_enunciado": "Confío en que no te hayas dejado la cocina encendida. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Eva tenía una reunión. Espero que no se haya quedado dormida. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Creo que no me he dejado la puerta abierta. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Confío en que no hayan aparcado mal. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Espero que no se nos haya acabado la gasolina. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "47.6",
+   "tipologia": "T4",
+   "tipologia_libre": null,
+   "enunciado": "Reaccione a las informaciones siguientes.",
+   "items": [
+    {
+     "texto_enunciado": "-Esta noche vamos a Casa Ricardo. -¿(tú, reservar) _____ mesa? Si no, no cenamos.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Has comido higos chumbos? -¿Higos chumbos? ¡Si (comer) _____ yo higos chumbos!",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-He hablado con el director del banco. -¡No (ser) _____ capaz!",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-No he visto \"Casablanca\". -¿Que no la has visto? La (ver) _____ veinte veces.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Le he dicho al jefe que es un tacaño -¡No (tener) _____ el valor de decírselo!",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-He dejado hecha la comida. Vámonos. -¿(apagar) _____ el gas?",
+     "estimulo_visual": null
+    }
+   ]
+  }
+ ],
+ "unidad": 47,
+ "titulo_libro": "En diciembre, ya habrá nacido el niño. -- Futuro compuesto",
+ "scan": "p-101.jpg"
+}

@@ -1,0 +1,203 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "90.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con el nexo dado. Tenga cuidado con el orden de las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Tenemos que hacer horas extra. Hay mucha gente enferma. (por eso) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No puedo decirte nada. Todavía no me ha contestado Julio. (de modo que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A lo mejor te arregla el ordenador Enrique. Sabe mucho de informática. (de manera que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Todo será más barato. Pronto llegarán las rebajas. (consecuentemente) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo derecho a la herencia. Yo también soy hijo vuestro. (por lo tanto) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me fui. Esperé pero no veníais. (así que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raquel sigue enfadada conmigo. No me coge el teléfono. (o sea que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No puede ser de Javi. Esta chaqueta es talla XL. (de forma que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Has puesto poca sal. La verdura está sosa. (por eso) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La propuesta del director ha obtenido mayoría de votos. Queda aprobada. (por consiguiente) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "90.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con las sugerencias.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo hambre, (así que, tú, preparar algo) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo que hacer los ejercicios (de manera que, tú, devolverme el diccionario) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy no hace frío, (así que, vosotros, no encender la calefacción) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alfonso dice muchas tonterías, (o sea que, vosotros, no hacerle caso) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Javier dice que te deja su piso de Marbella. (de modo que, darle las gracias) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya son las ocho. (o sea que, vosotros, recoger y marcharse) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "90.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *conque* o *luego*.",
+      "items": [
+        {
+          "texto_enunciado": "Hoy no hay calefacción, _____ abrigaos bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Respira, _____ está vivo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La luz roja está encendida, _____ tiene corriente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mañana empezamos el inventario, _____ llegad pronto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Solo hay entradas para cinco personas, _____ daos prisa si estáis interesados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Come bien, _____ no está tan mal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aquí no puede haber nadie, _____ marchaos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ese dormitorio lleva cerrado varios días, _____ ventílalo un poco.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "90.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *de ahí* o *de ahí que*.",
+      "items": [
+        {
+          "texto_enunciado": "Es árabe; _____ su nombre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es alérgico a la leche; _____ no pueda comer estos helados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Comercia con alimentos; _____ procede su riqueza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy acaba el plazo de entrega de solicitudes; _____ su prisa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No le gusta mucho la ópera; _____ no tenga interés en conseguir entradas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ha dejado de fumar, _____ esté un poco más gordo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Fito le mordió un galgo de pequeño; _____ su miedo a los perros.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "90.5",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo entre paréntesis en el tiempo adecuado de indicativo o subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Están de vacaciones en la India; de ahí que no (ellos, enterarse) _____ de lo de Martín.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No se lleva bien con Marisa; de ahí que no (él, querer) _____ venir a la excursión.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En ese momento estábamos cansados; de ahí que nadie (aceptar) _____ tu sugerencia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Su padre se dedicaba a la compra-venta de pisos; de ahí (surgir) _____ su empresa de construcción.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los aeropuertos estaban cerrados por el mal tiempo; de ahí que (tener) _____ que quedarnos dos días más en Moscú.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nuria no tiene buenos recuerdos de esa familia; de ahí que (negarse) _____ a acompañarnos a verlos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi padre era napolitano: de ahí que (yo, entender) _____ italiano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Julia come muy mal; de ahí (proceder) _____ todas sus enfermedades.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 90,
+  "titulo_libro": "Así que cállate. De ahí que regresara. -- Oraciones consecutivas (1)",
+  "scan": "p-187.jpg"
+}

@@ -1,0 +1,172 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "8.1",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría? Exprese queja o admiración con *este...*",
+      "items": [
+        {
+          "texto_enunciado": "(Amelia llega tarde.) ¡ _____ ! Siempre llega tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Unas niñas han manchado de barro las escaleras.) ¡ _____ ! Lo ensucian todo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Pablo le ha pedido dinero a un amigo.) ¡ _____ ! Está siempre pidiendo dinero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Rocío ha vuelto a pagar los cafés.) ¡ _____ ! No me deja pagar nunca.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(El niño está llorando otra vez.) ¡ _____ ! Es un poquito llorón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Alicia deja al perro dormir en su cama.) ¡ _____ ! Se pasa con el perro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Todos los alumnos han aprobado.) ¡ _____ ! ¡Qué listos son!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Las chicas se han ido sin hacer las camas.) ¡ _____ ! Nunca se hacen la cama.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Belén nos ha dado dos entradas para la ópera.) ¡ _____ es un encanto!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Daniel les ha dejado el coche lleno de gasolina.) ¡ _____ ! ¡Qué amable es!",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "8.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *este...*, *ese...* y *el*, *la*, *los*, *las* en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "_____ amigos tuyos me parecen unos descarados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer me llamó Lorenzo. _____ tío _____ es un sinvergüenza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sara todavía no me ha devuelto el coche. ¡ _____ chica tiene una cara...!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lorena se ha cortado el pelo al cero. _____ chica _____ debe de estar mal de la cabeza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué nervioso! _____ chico _____ no para.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Has oído lo que ha hecho Ángel? _____ hombre está mal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Has visto lo que han hecho mis vecinos? -Sí, _____ gente _____ es increíble.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "8.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las exclamaciones para expresar queja o admiración con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(mujer) ¡ _____ ! No me deja dormir la siesta en paz.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(chicos) ¡ _____ ! No se acuestan nunca antes de las dos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(hombre) ¡ _____ ! Se olvida de todo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(empresa) ¡ _____ ! Tiene más de quinientos empleados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(chicas) ¡ _____ ! No paran en casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(calle) ¡ _____ ! Nunca hay sitio para aparcar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(tráfico) ¡ _____ ! No vamos a llegar a tiempo al aeropuerto.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "8.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las exclamaciones con las palabras del recuadro.",
+      "banco_palabras": [
+        "actriz",
+        "año",
+        "canción",
+        "día",
+        "director",
+        "noche",
+        "partido"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "¿Recuerdas cuando estuvimos en México? ¡ _____ !",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El cine italiano era magnífico: Rossellini, Pasolini, Antonioni. ¡ _____ !",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En 1998 regresaron mis padres a Argentina y nacieron mis hijas. ¡ _____ !",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Recuerdas la final entre Nadal y Federer? ¡ _____ !",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A mí también me encantaban la Loren y la Bardot. ¡ _____ !",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las noches en casa de Tere eran agotadoras. ¡ _____ !",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He vuelto a oír los discos de Los Beatles. ¡ _____ !",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 8,
+  "titulo_libro": "¡esta Ana!, el tío este -- Demostrativos (2)",
+  "scan": "p-024.jpg"
+}

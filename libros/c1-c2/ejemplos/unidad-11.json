@@ -1,0 +1,258 @@
+{
+  "tema": "unidad-11",
+  "titulo": "nada de gracioso, de lo más divertido",
+  "descripcion_gramatical": "Modificación de adjetivos",
+  "fuente": "libro",
+  "unidad_libro": 11,
+  "ejercicios": [
+    {
+      "subejercicio": "11.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con *muy*, *mucho de*, *bastante*, *bastante de*, *algo*, *algo de*, *poco*, *poco de*, *nada* o *nada de* y los adjetivos dados.",
+      "items": [
+        {
+          "texto_enunciado": "Sofía es muy humilde. Tiene (-, orgulloso) _____.",
+          "solucion_correcta": [
+            "poco de orgullosa"
+          ]
+        },
+        {
+          "texto_enunciado": "No logro resolverlos. Estos problemas son (+++, complicado) _____.",
+          "solucion_correcta": [
+            "muy complicados"
+          ]
+        },
+        {
+          "texto_enunciado": "No te creo. No hay (--, sincero) _____ en tus palabras.",
+          "solucion_correcta": [
+            "nada de sincero"
+          ]
+        },
+        {
+          "texto_enunciado": "Marta es muy rutinaria. No es (--, creativo) _____.",
+          "solucion_correcta": [
+            "nada creativa"
+          ]
+        },
+        {
+          "texto_enunciado": "A mí no me cae bien Guillermo. Tiene (-, simpático) _____.",
+          "solucion_correcta": [
+            "poco de simpático"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé por qué os reís. Estas bromas tienen (-, divertido) _____.",
+          "solucion_correcta": [
+            "poco de divertido/divertidas"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé qué hacer. Estos zapatos son (+, caro) _____.",
+          "solucion_correcta": [
+            "algo caros"
+          ]
+        },
+        {
+          "texto_enunciado": "Santi no se enfrenta nunca a sus padres. Hay (+++, cobarde) _____ en su actitud.",
+          "solucion_correcta": [
+            "mucho de cobarde"
+          ]
+        },
+        {
+          "texto_enunciado": "No entiendo a Laura. Hay (+, primitivo) _____ en su comportamiento.",
+          "solucion_correcta": [
+            "algo de primitivo"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gustan las ideas de Carlos. Son (++, pesimista) _____.",
+          "solucion_correcta": [
+            "bastante pesimistas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "11.2",
+      "tipologia": "T8",
+      "enunciado": "Vuelva a escribir las frases con *nada* y los adjetivos del recuadro en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "-Lorena no es muy alta. -Pues _____.",
+          "solucion_correcta": [
+            "no es nada baja"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ramón no es muy listo. -Pues _____.",
+          "solucion_correcta": [
+            "no es nada tonto"
+          ]
+        },
+        {
+          "texto_enunciado": "-Este restaurante no es muy barato. -Pues estos platos _____.",
+          "solucion_correcta": [
+            "no son nada caros"
+          ]
+        },
+        {
+          "texto_enunciado": "-Esa aldea no está muy lejos. -Pues _____.",
+          "solucion_correcta": [
+            "no está nada cerca"
+          ]
+        },
+        {
+          "texto_enunciado": "-El examen no era tan difícil. -Pues _____.",
+          "solucion_correcta": [
+            "no era nada fácil"
+          ]
+        },
+        {
+          "texto_enunciado": "-No es normal que nieve ahora. -Pues tampoco _____.",
+          "solucion_correcta": [
+            "es nada raro"
+          ]
+        },
+        {
+          "texto_enunciado": "-Estas fotos no son muy buenas. -Pues _____.",
+          "solucion_correcta": [
+            "no son nada malas"
+          ]
+        },
+        {
+          "texto_enunciado": "-Esta camisa no está muy sucia. -Pues _____.",
+          "solucion_correcta": [
+            "no está nada limpia"
+          ]
+        },
+        {
+          "texto_enunciado": "-Este caldo no está salado. -Pues _____.",
+          "solucion_correcta": [
+            "no está nada soso"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "baja",
+        "caro",
+        "cerca",
+        "fácil",
+        "limpio",
+        "malo",
+        "raro",
+        "soso",
+        "tonto"
+      ]
+    },
+    {
+      "subejercicio": "11.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con la palabra dada entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Felisa es muy guapa. (bien) _____",
+          "solucion_correcta": [
+            "Felisa es bien guapa"
+          ]
+        },
+        {
+          "texto_enunciado": "Los de este pueblo son muy brutos. (más) _____",
+          "solucion_correcta": [
+            "Los de este pueblo son más brutos..."
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto es muy interesante. (tan) _____",
+          "solucion_correcta": [
+            "Alberto es tan interesante..."
+          ]
+        },
+        {
+          "texto_enunciado": "Agustín está muy fuerte. (bien) _____",
+          "solucion_correcta": [
+            "Agustín está bien fuerte"
+          ]
+        },
+        {
+          "texto_enunciado": "“Casablanca” es una peli muy buena. (tan) _____",
+          "solucion_correcta": [
+            "“Casablanca” es una película tan buena..."
+          ]
+        },
+        {
+          "texto_enunciado": "Lola está muy morena. (bien) _____",
+          "solucion_correcta": [
+            "Lola está bien morena"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis tíos son muy majos. (más) _____",
+          "solucion_correcta": [
+            "Mis tíos son más majos..."
+          ]
+        },
+        {
+          "texto_enunciado": "Me han regalado una corbata muy bonita. (bien) _____",
+          "solucion_correcta": [
+            "Me han regalado una corbata bien bonita"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "11.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *de lo más*.",
+      "items": [
+        {
+          "texto_enunciado": "Sonia tiene unos amigos muy divertidos. _____",
+          "solucion_correcta": [
+            "Sonia tiene unos amigos de lo más divertido/divertidos"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese bar es muy cutre. _____",
+          "solucion_correcta": [
+            "Ese bar es de lo más cutre"
+          ]
+        },
+        {
+          "texto_enunciado": "He visto una película muy violenta. _____",
+          "solucion_correcta": [
+            "He visto una película de lo más violento/-a"
+          ]
+        },
+        {
+          "texto_enunciado": "Sonia sale con un chico muy pijo. _____",
+          "solucion_correcta": [
+            "Sonia sale con un chico de lo más pijo"
+          ]
+        },
+        {
+          "texto_enunciado": "Paco contó unos chistes muy desagradables. _____",
+          "solucion_correcta": [
+            "Paco cuenta unos chistes de lo más desagradable/desagradables"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo que hacer una traducción muy complicada. _____",
+          "solucion_correcta": [
+            "Tengo que hacer una traducción de lo más complicado/-a"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis lleva siempre unas chaquetas muy elegantes. _____",
+          "solucion_correcta": [
+            "Luis lleva siempre unas chaquetas de lo más elegante/elegantes"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge tiene unos modales muy bastos. _____",
+          "solucion_correcta": [
+            "Jorge tiene unos modales de lo más basto/bastos"
+          ]
+        }
+      ]
+    }
+  ]
+}

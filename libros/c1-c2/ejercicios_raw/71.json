@@ -1,0 +1,218 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "71.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con infinitivo simple o compuesto. Use los verbos del recuadro.",
+      "banco_palabras": [
+        "acompañar",
+        "ayudar",
+        "dormir",
+        "estudiar",
+        "montar",
+        "pintar",
+        "querer",
+        "salir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "-¿Por qué no montamos en camello? -¡_____ en camello! ¡Ni hablar!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Quieres que salgamos a dar un paseo? -¡_____ ahora! Pero si está a punto de llover.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Me gustaría que me acompañaras al mercado. -¡_____ yo! ¡Con todo el trabajo que tengo!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Que no puedes ayudarme porque tienes que estudiar? _____ antes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Julia pinta muy bien. -Bueno, _____, lo que se dice _____, no pinta mucho; hace cosas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya sé que tienes sueño, pero _____ cuando era de noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Te ayudó mucho Aurora? -_____, no ayudó mucho, pero me hizo compañía.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Quieres que vayamos a visitar a Lorenzo? Está enfermo. -Bueno, _____, _____ no quiero, pero si es necesario, voy.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "71.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las instrucciones con los verbos del recuadro en afirmativa o negativa.",
+      "banco_palabras": [
+        "añadir",
+        "calentar",
+        "cocer",
+        "consultar",
+        "cubrir",
+        "echar",
+        "lavar (2)",
+        "mantener",
+        "marcar",
+        "poner"
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "paso": "1",
+            "descripcion": "Cocer pescado y marisco en una cazuela"
+          },
+          {
+            "paso": "2",
+            "descripcion": "Echar aceite en la paella"
+          },
+          {
+            "paso": "3",
+            "descripcion": "Calentar el aceite en la paella"
+          },
+          {
+            "paso": "4",
+            "descripcion": "Añadir arroz y cebolla a la paella"
+          },
+          {
+            "paso": "5",
+            "descripcion": "Añadir pescado y marisco a la paella"
+          },
+          {
+            "paso": "6",
+            "descripcion": "Verter caldo sobre el arroz"
+          },
+          {
+            "paso": "7",
+            "descripcion": "Cocer a fuego lento"
+          }
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "_____ a mano. _____ en seco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Para llamadas al extranjero, _____ 00.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Paella:\n(1) _____ el pescado y el marisco en agua de mar. (2) _____ un poco de aceite en una paella, (3) _____ y (4) _____ el arroz, con un poco de cebolla. (5) _____ el pescado y el marisco y (6) _____ el arroz con el agua del pescado. (7) _____ a fuego lento hasta que el arroz esté en su punto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En caso de accidente _____ al Servicio de Información Toxicológica.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "71.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con un infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "El descanso es necesario. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las esperas me ponen nervioso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La forma de andar de Esther es extraña. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Como yo lo entiendo, esto no es un Matisse. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La ida al pueblo no fue tan pesada como la venida. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La risa es sana. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las mentiras suelen traer resultados nefastos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los cantos de mi tierra me conmueven. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "71.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *a* + infinitivo.",
+      "banco_palabras": [
+        "bailar",
+        "callar",
+        "comer",
+        "correr",
+        "desayunar",
+        "ganar",
+        "jugar",
+        "lavarse",
+        "levantarse",
+        "trabajar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "¡_____! Aquí no se habla.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡_____ bien y _____, que sois mejores!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Que toque la orquesta y _____ todo el mundo!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que sudar un poco así que ¡_____, chicos!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Venga, Raquel, ¡_____! Que para eso nos pagan.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Venga, ¡_____ y _____ todos, que ya son las nueve!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué manos tan sucias!, ¡_____ las ahora mismo, Pedro!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El arroz se está enfriando, así que... ¡todo el mundo _____!",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 71,
+  "titulo_libro": "descansar, haber descansado -- Infinitivo",
+  "scan": "p-149.jpg"
+}

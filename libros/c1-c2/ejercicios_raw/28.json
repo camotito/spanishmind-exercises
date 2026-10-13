@@ -1,0 +1,187 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "28.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba exclamaciones con *¡qué!* sobre lo siguiente.",
+      "items": [
+        {
+          "texto_enunciado": "Vino mucha gente. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay mucha gente corriendo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay mucho ruido. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay mucho polvo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vinieron muchos extranjeros a la conferencia. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Habéis comprado mucha comida. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay mucha contaminación en Madrid. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Han salido muchos coches estas fiestas. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "28.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba exclamaciones con *¡qué!* y *poco/a/os/as* o *¡cuánto/a/os/as!*",
+      "items": [
+        {
+          "texto_enunciado": "Este coche tiene muy pocos kilómetros. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Queda mucho tiempo para las vacaciones. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No hay muchos pasajeros en este vuelo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No queda mucho tiempo para Año Nuevo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay mucho vago en esta empresa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay muchos locos en el mundo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No tengo muchas ganas de trabajar. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay muchos turistas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En esta oficina hay mucha gente sin vergüenza. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay mucha hambre en el mundo. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "28.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba exclamaciones con *¡qué poco!* o *¡cuánto!*",
+      "items": [
+        {
+          "texto_enunciado": "Ese perro ladra mucho. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Javier le interesan mucho las ciencias. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sara no duerme mucho. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lorena quiere mucho a sus padres. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Miguel viaja mucho. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rebeca no estudia mucho. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me arrepiento mucho de no haber estudiado. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lamento mucho la marcha de Anselmo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Comes poca verdura. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "28.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba una exclamación con *¡qué!* o *¡cuánto/a/os/as!* sobre las informaciones dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Nos trajeron muchos regalos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me duele mucho tener que darle una mala noticia. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay mucha gente que vive del cuento. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El año pasado no hubo muchos corredores en la maratón. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vinieron muchos niños al concierto de Navidad. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siento mucho no poder ir a vuestra boda. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No hemos recaudado mucho dinero para el regalo de Silvia. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He recibido muchos mensajes de felicitación. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Marcos se compró muchas camisas en China. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este año no ha llovido mucho. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 28,
+  "titulo_libro": "¡Qué de niños! ¡Cuánta gente! ¡Cuánto inútil! -- Exclamativos (2)",
+  "scan": "p-064.jpg"
+}

@@ -1,0 +1,283 @@
+{
+  "tema": "unidad-98",
+  "titulo": "siempre que, a menos que",
+  "descripcion_gramatical": "Oraciones condicionales (5)",
+  "fuente": "libro",
+  "unidad_libro": 98,
+  "ejercicios": [
+    {
+      "subejercicio": "98.1",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con las expresiones entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Dale lo que quiere si se calla. (siempre que) _____",
+          "solucion_correcta": [
+            "Dale lo que quiere siempre que se calle"
+          ]
+        },
+        {
+          "texto_enunciado": "Vuelvo pronto si no tengo trabajo. (a menos que) _____",
+          "solucion_correcta": [
+            "Vuelvo pronto a menos que tenga trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "Te presto 50 euros si me los devuelves pronto. (a condición de que) _____",
+          "solucion_correcta": [
+            "Te presto 50 euros a condición de que me los devuelvas pronto"
+          ]
+        },
+        {
+          "texto_enunciado": "Podemos ir en mi coche si no os da miedo cómo conduzco. (a no ser que) _____",
+          "solucion_correcta": [
+            "Podemos ir en mi coche, a no ser que os dé miedo cómo conduzco"
+          ]
+        },
+        {
+          "texto_enunciado": "Te ayudo con los ejercicios si no le dices nada a nadie. (con tal de que) _____",
+          "solucion_correcta": [
+            "Te ayudo con los ejercicios con tal de que no le digas nada a nadie"
+          ]
+        },
+        {
+          "texto_enunciado": "Pago esta ronda si pagas tú la siguiente. (con la condición de que) _____",
+          "solucion_correcta": [
+            "Pago esta ronda con la condición de que pagues tú la siguiente"
+          ]
+        },
+        {
+          "texto_enunciado": "Quedamos a las ocho si no dices otra cosa. (salvo que) _____",
+          "solucion_correcta": [
+            "Quedamos a las ocho, salvo que digas otra cosa"
+          ]
+        },
+        {
+          "texto_enunciado": "Llevamos al perro si no decides lo contrario. (a no ser que) _____",
+          "solucion_correcta": [
+            "Llevamos al perro, a no ser que decidas lo contrario"
+          ]
+        },
+        {
+          "texto_enunciado": "No cojas la bici si no te dan permiso. (sin que) _____",
+          "solucion_correcta": [
+            "No cojas la bici sin que te den permiso"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos vemos mañana si no tienes otros planes. (a menos que) _____",
+          "solucion_correcta": [
+            "Nos vemos mañana a menos que tengas otros planes"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "(nosotros, poder) _____ ir al teatro, a no ser que (tú, preferir) _____ ir al cine.",
+          "solucion_correcta": [
+            "Podemos",
+            "prefieras"
+          ]
+        },
+        {
+          "texto_enunciado": "No creo que tenga tiempo, pero (yo, ir) _____ a verte con la condición de que me (invitar) _____ a comer.",
+          "solucion_correcta": [
+            "iría",
+            "invitaras/invitases"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana (nosotros, ir) _____ seguro al campo, a no ser que (hacer) _____ muy mal tiempo.",
+          "solucion_correcta": [
+            "iremos/vamos",
+            "haga"
+          ]
+        },
+        {
+          "texto_enunciado": "Sergio se puso muy contento. Le (yo, prometer) _____ buscarle trabajo siempre que (él, acabar) _____ la carrera.",
+          "solucion_correcta": [
+            "prometí",
+            "acabara/acabase"
+          ]
+        },
+        {
+          "texto_enunciado": "Paco tenía mucha cara. No (él, ir) _____ nunca de viaje a no ser que le (invitar) _____ alguien.",
+          "solucion_correcta": [
+            "iba",
+            "invitara/invitase"
+          ]
+        },
+        {
+          "texto_enunciado": "Por las mañanas me entreno en el parque a no ser que (llover) _____.",
+          "solucion_correcta": [
+            "llueva"
+          ]
+        },
+        {
+          "texto_enunciado": "(vosotros, poder) _____ contar conmigo para el partido con la condición de que no (ser) _____ el domingo.",
+          "solucion_correcta": [
+            "Podéis",
+            "sea"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando hablé con Rosa le (yo, contar) _____ lo de Rita con la condición de que no le (decir) _____ nada a ella.",
+          "solucion_correcta": [
+            "conté",
+            "dijera/dijese"
+          ]
+        },
+        {
+          "texto_enunciado": "Paco (asistir) _____ a la cena a no ser que (estar) _____ de servicio esa noche.",
+          "solucion_correcta": [
+            "asistirá",
+            "esté"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué no me dijiste nada? Te (yo, ayudar) _____ con tal de que me lo (tú, pedir) _____.",
+          "solucion_correcta": [
+            "habría ayudado",
+            "hubieras/hubieses pedido"
+          ]
+        },
+        {
+          "texto_enunciado": "No (tú, hacer) _____ nada sin que ellos te lo (pedir) _____.",
+          "solucion_correcta": [
+            "hagas",
+            "pidan"
+          ]
+        },
+        {
+          "texto_enunciado": "Vale. (yo, jugar) _____ contigo siempre que no (tú, hacer) _____ trampas.",
+          "solucion_correcta": [
+            "juego",
+            "hagas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir lo subrayado con *en caso de*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Si hay una pelea</u> _____, te vas.",
+          "solucion_correcta": [
+            "En caso de pelea"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si viene Laila</u> _____, dile que se quede a cenar.",
+          "solucion_correcta": [
+            "En caso de venir / de que venga Laila"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si te encuentras algo por la calle</u> _____, llévalo a una comisaría.",
+          "solucion_correcta": [
+            "En caso de encontrarte algo por la calle. / En caso de que te encuentres algo por la calle"
+          ]
+        },
+        {
+          "texto_enunciado": "No es probable, pero <u>si llama Juan</u>. _____, estoy ocupado.",
+          "solucion_correcta": [
+            "En caso de llamar / que llamara/llamase Juan"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si hay una nevada</u> _____, echan sal por las calles.",
+          "solucion_correcta": [
+            "En caso de (haber) una nevada"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si hay un accidente</u> _____, llama al 112.",
+          "solucion_correcta": [
+            "En caso de accidente"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si se siente peor</u> _____, se toma dos de estas pastillas.",
+          "solucion_correcta": [
+            "En caso de sentirse peor / que se sienta peor"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si cierra la empresa</u> _____, nos dan una indemnización.",
+          "solucion_correcta": [
+            "En caso de cerrar la empresa / que cierre la empresa"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "98.4",
+      "tipologia": "T4",
+      "enunciado": "Complete con los verbos entre paréntesis en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "En caso de (nosotros, encontrar) _____ agua, (nosotros, hacer) _____ un pozo.",
+          "solucion_correcta": [
+            "encontrar",
+            "haríamos"
+          ]
+        },
+        {
+          "texto_enunciado": "No os preocupéis, en caso de (nosotros, ir) _____ el domingo, os (nosotros, llamar) _____ antes.",
+          "solucion_correcta": [
+            "ir",
+            "llamaríamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Por favor, Alberto, no (dejar de) _____ llamarnos, en caso de que no (tú, poder) _____ venir.",
+          "solucion_correcta": [
+            "dejes de",
+            "puedas"
+          ]
+        },
+        {
+          "texto_enunciado": "En caso de (yo, practicar) _____ algún deporte, (hacer) _____ alpinismo.",
+          "solucion_correcta": [
+            "practicar",
+            "haría"
+          ]
+        },
+        {
+          "texto_enunciado": "He guardado el recibo en caso de que (ella, querer) _____ devolver la bufanda.",
+          "solucion_correcta": [
+            "quiera"
+          ]
+        },
+        {
+          "texto_enunciado": "Supongo que estarán bien. En caso de que (pasar) _____ algo, (nosotros, enterarse) _____.",
+          "solucion_correcta": [
+            "hubiera/hubiese pasado",
+            "nos habríamos enterado"
+          ]
+        },
+        {
+          "texto_enunciado": "En caso de que el coche no (arrancar) _____, (nosotros, tener) _____ que empujar un poco.",
+          "solucion_correcta": [
+            "arrancara/arrancase",
+            "tendríamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo creo que la agencia tuvo suerte porque, en caso de (ellos, perder) _____ las maletas, nos (ellos, tener) _____ que indemnizar.",
+          "solucion_correcta": [
+            "haber perdido",
+            "habrían tenido"
+          ]
+        }
+      ]
+    }
+  ]
+}

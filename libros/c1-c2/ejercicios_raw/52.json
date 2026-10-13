@@ -1,0 +1,179 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "52.1",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las sugerencias, consejos, etc.",
+      "items": [
+        {
+          "texto_enunciado": "Sugerencia suya a unos amigos en un restaurante: dejar propina _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Instrucciones de una empleada a unos pasajeros en un aeropuerto: embarcar por la puerta 3A _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Consejo suyo a un amigo: no tomar tantas aspirinas _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Orden de los bomberos a los vecinos de una casa en llamas: desalojar el edificio _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Instrucciones de un dependiente a un cliente en una tienda: pagar en la caja _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Advertencia de un médico a un paciente: no comer alimentos con grasas _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sugerencia suya a un amigo en un restaurante: pedirle la carta al camarero _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sugerencia de una chica a su compañera de piso: moler el café _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Instrucciones de un profesor a sus alumnos en un examen: leer las instrucciones con cuidado _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Consejo de un médico a un paciente: descansar después de comer _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Invitación suya a unos amigos: venir a cenar el sábado _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Consejo a un amigo: no preocuparse _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Petición a un amigo: explicarle cómo se graba un DVD _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "52.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases dando o negando permiso o prohibiendo.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Puedo llamar por teléfono? -Sí, por supuesto, _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Usar) _____ mi portátil, si quieres. Ahora no lo necesito.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Se puede parar aquí? -No, (seguir) _____, que te van a poner una multa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Puedo coger tu bici? -No, no _____ la bici. La necesito.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Puedo irme? -No, no _____ todavía, Leila. No has recogido tu habitación.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Podemos cerrar la ventana? -No, no _____ la ventana del todo, chicos. Hace mucho calor aquí dentro.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "52.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las siguientes condiciones usando el imperativo.",
+      "items": [
+        {
+          "texto_enunciado": "Si responde esta pregunta, ganará 500 euros. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no me ayudas, me enfado. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no dices la verdad, me voy. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si regresas tarde, se lo digo a mamá. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no se dan prisa, perderán el vuelo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si sigue por esta calle, verá el hospital a la derecha. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si cogéis un taxi, llegaréis antes. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si te gastas todo el dinero, no podremos ir a la India. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "52.4",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las instrucciones, peticiones etc. con *ya* o *no... todavía*.",
+      "items": [
+        {
+          "texto_enunciado": "A unos amigos: empezar a comer de inmediato _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A unos amigos: esperar a irse _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A unos alumnos: esperar a hacer el ejercicio _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Un padre a su hijo: colgar de inmediato el teléfono _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A unos amigos: esperar a aplaudir _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A unas amigas: dejar de fumar _____. Está todo lleno de humo. Aquí no hay quien respire.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A unos amigos: esperar a salir _____. Está lloviendo a mares.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Un maître a los camareros: servir la cena inmediatamente _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 52,
+  "titulo_libro": "Haz eso y verás. -- Imperativo (1)",
+  "scan": "p-111.jpg"
+}

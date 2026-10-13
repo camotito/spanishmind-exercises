@@ -1,0 +1,229 @@
+{
+  "tema": "unidad-44",
+  "titulo": "Hacía dos años que conocía a Sonia...",
+  "descripcion_gramatical": "Duración en el pasado",
+  "fuente": "libro",
+  "unidad_libro": 44,
+  "ejercicios": [
+    {
+      "subejercicio": "44.1",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *hacía*.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer volví a hablar con Arturo después de seis meses. _____",
+          "solucion_correcta": [
+            "Hacía seis meses que no hablaba con Arturo"
+          ]
+        },
+        {
+          "texto_enunciado": "La semana pasada me despidieron. Llevaba dos años trabajando en la empresa. _____",
+          "solucion_correcta": [
+            "Hacía dos años que trabajaba en la empresa"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer volvió a funcionar el ascensor después de una semana. _____",
+          "solucion_correcta": [
+            "Hacía una semana que no funcionaba el ascensor"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer volviste a fumar. ¿Cuánto tiempo llevabas sin fumar? _____",
+          "solucion_correcta": [
+            "¿Cuánto tiempo hacía que no fumabas?"
+          ]
+        },
+        {
+          "texto_enunciado": "Lorenzo volvió a actuar el mes pasado después de un año sin actuar. _____",
+          "solucion_correcta": [
+            "Hacía un año que Lorenzo no actuaba"
+          ]
+        },
+        {
+          "texto_enunciado": "La semana pasada salí de casa después de dos semanas sin salir. _____",
+          "solucion_correcta": [
+            "Hacía dos semanas que no salía de casa"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "44.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases. Utilice *desde*, *desde hacía* o *desde que* y los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer volví a montar en moto. (montar) _____ era joven.",
+          "solucion_correcta": [
+            "No montaba desde que"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer murió Agustín. (nosotros, conocerse) _____ éramos niños.",
+          "solucion_correcta": [
+            "Nos conocíamos desde que"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué obra más buena vi ayer! (yo, ir al teatro) _____ más de un año.",
+          "solucion_correcta": [
+            "No iba al teatro desde hacía"
+          ]
+        },
+        {
+          "texto_enunciado": "Ana y Luis han vuelto a hablarse. (ellos, hablarse) _____ Navidades.",
+          "solucion_correcta": [
+            "No se hablaban desde"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer estuve en un gimnasio. (yo, hacer ejercicio) _____ estaba en la universidad.",
+          "solucion_correcta": [
+            "No hacía ejercicio desde que"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer me di un baño en el mar. (yo, bañarse) _____ el verano pasado.",
+          "solucion_correcta": [
+            "No me bañaba desde"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche fuimos a un restaurante español. (nosotros, comer tortilla de patatas) _____ regresamos de España.",
+          "solucion_correcta": [
+            "No comíamos tortilla de patata desde que"
+          ]
+        },
+        {
+          "texto_enunciado": "Julio se lo pasó muy bien en la fiesta. (él, divertirse tanto) _____ mucho tiempo.",
+          "solucion_correcta": [
+            "No se divertía tanto desde hacía"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "44.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas con el pretérito imperfecto de *llevar*.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer operaron a Marisol. <u>Hacía un año que estaba enferma.</u> _____",
+          "solucion_correcta": [
+            "Llevaba un año enferma"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando le dieron la nacionalidad a Roxana, <u>hacía ocho años que estaba en España.</u> _____",
+          "solucion_correcta": [
+            "llevaba ocho años en España"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando compramos el restaurante, <u>hacía seis meses que estaba cerrado.</u> _____",
+          "solucion_correcta": [
+            "llevaba seis meses cerrado"
+          ]
+        },
+        {
+          "texto_enunciado": "La semana pasada arreglaron las persianas. <u>Estaban rotas desde la tormenta.</u> _____",
+          "solucion_correcta": [
+            "llevaban rotas desde la tormenta"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando llegó el autobús, <u>hacía veinte minutos que estaba en la parada.</u> _____",
+          "solucion_correcta": [
+            "llevaba veinte minutos en la parada"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer regresamos de Sao Paulo. <u>Estábamos allí desde enero.</u> _____",
+          "solucion_correcta": [
+            "Llevábamos allí desde enero"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando tuvieron su primer hijo, <u>hacía dos años que estaban casados.</u> _____",
+          "solucion_correcta": [
+            "llevaban dos años casados"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Mi última novela estaba acabada desde el verano.</u> La semana pasada la entregue. _____",
+          "solucion_correcta": [
+            "Llevaba acabada desde el verano"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "44.4",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas con el pretérito imperfecto de *llevar* + gerundio o + *sin* + infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando llegó Juana, <u>hacía media hora que esperaba.</u> _____",
+          "solucion_correcta": [
+            "Llevaba media hora esperando"
+          ]
+        },
+        {
+          "texto_enunciado": "Se ha jubilado Ramón. <u>Trabajaba desde los dieciséis años.</u> _____",
+          "solucion_correcta": [
+            "Llevaba trabajando desde los dieciséis años"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy he vuelto a escribir. <u>No escribía desde que gané el último premio.</u> _____",
+          "solucion_correcta": [
+            "Llevaba sin escribir desde que gané el último premio"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy he vuelto a hablar italiano. <u>No hablaba italiano desde la última vez que estuve en Roma.</u> _____",
+          "solucion_correcta": [
+            "Llevaba sin hablar italiano desde la última vez que estuve en Roma"
+          ]
+        },
+        {
+          "texto_enunciado": "Se ha retirado Raúl. <u>¿Cuánto tiempo hacía que jugaba al fútbol?</u> _____",
+          "solucion_correcta": [
+            "¿Cuánto tiempo llevaba jugando al fútbol?"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy he recibido un carta de Tomás. <u>Hacía una semana que la esperaba.</u> _____",
+          "solucion_correcta": [
+            "Llevaba una semana esperándolo"
+          ]
+        },
+        {
+          "texto_enunciado": "He vuelto a tener noticias de Peter. <u>No sabía nada de él desde el año pasado.</u> _____",
+          "solucion_correcta": [
+            "Llevaba sin saber nada de él desde el año pasado"
+          ]
+        },
+        {
+          "texto_enunciado": "Sonia ha dejado de dar clase. <u>Daba clases desde que acabó la carrera.</u> _____",
+          "solucion_correcta": [
+            "Llevaba dando clases desde que acabó la carrera"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Elena no pintaba desde el verano pasado.</u> Ha vuelto a hacerlo. _____",
+          "solucion_correcta": [
+            "Llevaba sin pintar desde el verano pasado"
+          ]
+        },
+        {
+          "texto_enunciado": "Tomó pastillas para dormir. <u>Hacía dos meses que tomaba pastillas para dormir.</u> Ya no las toma. _____",
+          "solucion_correcta": [
+            "Llevaba dos meses tomando pastillas para dormir"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "tema": "unidad-53",
+  "titulo": "Pensemos, no nos precipitemos.",
+  "descripcion_gramatical": "Imperativo (2)",
+  "fuente": "libro",
+  "unidad_libro": 53,
+  "ejercicios": [
+    {
+      "subejercicio": "53.1",
+      "tipologia": "T4",
+      "enunciado": "Escriba la forma de la primera persona del plural del imperativo de los verbos siguientes.",
+      "items": [
+        {
+          "texto_enunciado": "(huir) _____",
+          "solucion_correcta": [
+            "huyamos"
+          ]
+        },
+        {
+          "texto_enunciado": "(acostarse) _____",
+          "solucion_correcta": [
+            "acostémonos"
+          ]
+        },
+        {
+          "texto_enunciado": "(ser) _____",
+          "solucion_correcta": [
+            "seamos"
+          ]
+        },
+        {
+          "texto_enunciado": "(seguir) _____",
+          "solucion_correcta": [
+            "sigamos"
+          ]
+        },
+        {
+          "texto_enunciado": "(despertarse) _____",
+          "solucion_correcta": [
+            "despertémonos"
+          ]
+        },
+        {
+          "texto_enunciado": "(poner) _____",
+          "solucion_correcta": [
+            "pongamos"
+          ]
+        },
+        {
+          "texto_enunciado": "(decir) _____",
+          "solucion_correcta": [
+            "digamos"
+          ]
+        },
+        {
+          "texto_enunciado": "(recordar) _____",
+          "solucion_correcta": [
+            "recordemos"
+          ]
+        },
+        {
+          "texto_enunciado": "(cantar) _____",
+          "solucion_correcta": [
+            "cantemos"
+          ]
+        },
+        {
+          "texto_enunciado": "(ver) _____",
+          "solucion_correcta": [
+            "veamos"
+          ]
+        },
+        {
+          "texto_enunciado": "(ponerse) _____",
+          "solucion_correcta": [
+            "pongámonos"
+          ]
+        },
+        {
+          "texto_enunciado": "(correr) _____",
+          "solucion_correcta": [
+            "corramos"
+          ]
+        },
+        {
+          "texto_enunciado": "(sentarse) _____",
+          "solucion_correcta": [
+            "sentémonos"
+          ]
+        },
+        {
+          "texto_enunciado": "(sentir) _____",
+          "solucion_correcta": [
+            "sintamos"
+          ]
+        },
+        {
+          "texto_enunciado": "(pedir) _____",
+          "solucion_correcta": [
+            "pidamos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "53.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con *vamos*, *vamos a* o *vámonos*.",
+      "items": [
+        {
+          "texto_enunciado": "Julián quiere contarnos algo. _____ a su casa.",
+          "solucion_correcta": [
+            "Vamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Este despacho esta muy sucio. _____ a otro.",
+          "solucion_correcta": [
+            "Vámonos"
+          ]
+        },
+        {
+          "texto_enunciado": "Es muy tarde ya. _____ dormir.",
+          "solucion_correcta": [
+            "Vamos a"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí hace frío. _____ ya.",
+          "solucion_correcta": [
+            "Vámonos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ cantar algo, chicos. Tenemos que ensayar para la fiesta.",
+          "solucion_correcta": [
+            "Vamos a"
+          ]
+        },
+        {
+          "texto_enunciado": "Parece que no hay nadie aquí, _____.",
+          "solucion_correcta": [
+            "vámonos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Habéis terminado los ejercicios? _____ corregirlos.",
+          "solucion_correcta": [
+            "Vamos a"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya está puesta la mesa. _____ comer.",
+          "solucion_correcta": [
+            "Vamos a"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "53.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con la forma correcta de los verbos del recuadro en afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "No tenemos prisa. _____ un rato.",
+          "solucion_correcta": [
+            "Sentémonos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ a esa colina. Desde allí podemos ver toda la comarca.",
+          "solucion_correcta": [
+            "Subamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Como estamos aburridos, _____ a las cartas.",
+          "solucion_correcta": [
+            "juguemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenemos que tener cuidado. _____ imprudentes.",
+          "solucion_correcta": [
+            "No seamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta tienda es muy cara. _____ aquí. _____ a otro sitio",
+          "solucion_correcta": [
+            "No compremos",
+            "Vamos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ memoria. ¿Cuándo fue la última vez que llamó Lucas?",
+          "solucion_correcta": [
+            "Hagamos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ sinceros. Arturo no nos cae bien.",
+          "solucion_correcta": [
+            "Seamos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ un rato, y si no viene Carlos, nos vamos.",
+          "solucion_correcta": [
+            "Esperemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Tenemos que ponernos en forma. _____ corriendo.",
+          "solucion_correcta": [
+            "Sigamos"
+          ]
+        },
+        {
+          "texto_enunciado": "A ver, chicos, _____ la calma y _____ con tranquilidad. Este partido es nuestro.",
+          "solucion_correcta": [
+            "mantengamos",
+            "juguemos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ a la economía. _____ la energía con prudencia. _____ los recursos nacionales.",
+          "solucion_correcta": [
+            "Ayudemos",
+            "Usemos",
+            "No malgastemos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ a los niños. Son nuestro futuro.",
+          "solucion_correcta": [
+            "Cuidemos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ la Tierra. No tenemos otra.",
+          "solucion_correcta": [
+            "Salvemos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ paciencia. _____ a tomar una decisión.",
+          "solucion_correcta": [
+            "Tengamos",
+            "No nos precipitemos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ caso de lo que dicen. Sabemos que no tienen razón.",
+          "solucion_correcta": [
+            "No hagamos"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "ayudar",
+        "comprar",
+        "cuidar",
+        "esperar",
+        "hacer (2)",
+        "ir",
+        "jugar (2)",
+        "malgastar",
+        "mantener",
+        "precipitarse",
+        "salvar",
+        "sentarse",
+        "seguir",
+        "ser (2)",
+        "subir",
+        "tener",
+        "usar"
+      ]
+    },
+    {
+      "subejercicio": "53.4",
+      "tipologia": "T3",
+      "enunciado": "Vuelva a escribir las sugerencias con formas de imperativo y los pronombres de objeto necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "-Vamos a comprar esa tarta. -Sí, _____.",
+          "solucion_correcta": [
+            "comprémosla"
+          ]
+        },
+        {
+          "texto_enunciado": "-Vamos a darle la noticia. -Sí, _____.",
+          "solucion_correcta": [
+            "démosela"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Hacemos una paella? -Sí, _____.",
+          "solucion_correcta": [
+            "hagámosla"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Lo pensamos? -Bueno, _____ un rato.",
+          "solucion_correcta": [
+            "pensémoslo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Le decimos a Luis que no ha aprobado? -No, _____ ahora. Ya se enterará.",
+          "solucion_correcta": [
+            "no se lo digamos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Entregamos los regalos a los ganadores? -Sí, _____ ya.",
+          "solucion_correcta": [
+            "entreguémoselos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué, compramos el coche? -No, _____. Es muy caro y no tenemos dinero.",
+          "solucion_correcta": [
+            "no lo compremos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Nos bajamos en esta parada? -Sí, _____ aquí. Es mejor.",
+          "solucion_correcta": [
+            "bajémonos"
+          ]
+        },
+        {
+          "texto_enunciado": "-Creo que es mejor que lo olvidemos. -Sí, _____.",
+          "solucion_correcta": [
+            "olvidémoslo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Subimos las sillas a la terraza? -Sí, _____.",
+          "solucion_correcta": [
+            "subámoslas"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Empujamos el coche? -Sí, _____.",
+          "solucion_correcta": [
+            "empujémoslo"
+          ]
+        },
+        {
+          "texto_enunciado": "-Vamos a hacer una hoguera. -Sí, _____.",
+          "solucion_correcta": [
+            "hagámosla"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Soltamos al canario? -Sí, _____. A ver qué hace.",
+          "solucion_correcta": [
+            "soltémoslo"
+          ]
+        }
+      ]
+    }
+  ]
+}

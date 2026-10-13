@@ -1,0 +1,215 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "27.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Exprese sorpresa o deseos con *¡quién!*",
+      "items": [
+        {
+          "texto_enunciado": "Nadie podía pensar que tendríamos un accidente. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría hablar español como tú. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría tener tantos amigos como Elsa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nadie se imaginaba que tendría gemelos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nadie sospechaba que Pilar nos engañaba. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nadie pensaba que Ángel y Luisa salían juntos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nadie imaginaba que Eugenio iba a jubilarse. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba exclamaciones con *¡qué!* sobre lo indicado.",
+      "items": [
+        {
+          "texto_enunciado": "Lo bien que escribe Luisa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El buen gusto que tiene Fermín. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Un paisaje. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo guapas que son tus hijas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo listo que es mi hijo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La sed que tengo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Unas olas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo tarde que acaba la ópera. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La buena suerte que tenemos. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba exclamaciones con *¡qué!* y los posesivos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "Juan tiene mala suerte. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vosotros tenéis poca vergüenza. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo mucha suerte. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sandra hace buenas paellas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los Stones han hecho gran música. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te olvidas de todo. Tienes poca memoria. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba exclamaciones sobre las informaciones dadas con *¡qué!* y *tan* o *más*.",
+      "items": [
+        {
+          "texto_enunciado": "Es un vestido muy elegante. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Son unas montañas muy altas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es una chica muy amable. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es una mujer muy valiente. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es un piso muy acogedor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Son personas muy raras. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.5",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Exprese admiración ante lo indicado con *¡vaya!* y *más/tan* en los casos necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Una casa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Unas montañas _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Una idea interesante. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ Un paseo agradable.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ Unas montañas altas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ Una película aburrida.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "27.6",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Escriba una exclamación con *¡qué!* sobre las informaciones dadas",
+      "items": [
+        {
+          "texto_enunciado": "Me han dado un golpe. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los padres de Sofía se han muerto muy jóvenes. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La conferencia ha empezado muy tarde. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos ha dado un susto tu padre. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sara actúa muy bien en esta obra. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He tenido una bronca con Rafa. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 27,
+  "titulo_libro": "¡Quién fuera más joven! ¡Qué mala suerte! ¡Vaya casa! -- Exclamativos (1)",
+  "scan": "p-062.jpg"
+}

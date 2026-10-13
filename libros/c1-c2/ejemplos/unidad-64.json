@@ -1,0 +1,224 @@
+{
+  "tema": "unidad-64",
+  "titulo": "Pensé que estabas. / No pensé que estuvieras.",
+  "descripcion_gramatical": "Verbos seguidos de indicativo o subjuntivo (2)",
+  "fuente": "libro",
+  "unidad_libro": 64,
+  "ejercicios": [
+    {
+      "subejercicio": "64.1",
+      "tipologia": "T4",
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis en pretérito imperfecto de indicativo, pretérito indefinido o pretérito imperfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Has visto a la chica que ha cogido el taxi? Estoy seguro de que (ser) _____ Marta. -Pues yo no estoy tan seguro de que (ser) _____ Marta.",
+          "solucion_correcta": [
+            "era",
+            "fuera/fuese"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ayer me pareció que (haber) _____ mucha gente en la playa. -Pues a mí no me pareció que (haber) _____ tanta gente.",
+          "solucion_correcta": [
+            "había",
+            "hubiera/hubiese"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿No crees que Ernesto (estar) _____ algo raro anoche? -No, no me pareció que (estar) _____ raro. Es siempre así.",
+          "solucion_correcta": [
+            "estaba",
+            "estuviera/estuviese"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Estás seguro de que (tú, quedar) _____ con Rafa aquí? -No. No estoy seguro de que _____ aquí.",
+          "solucion_correcta": [
+            "quedaste",
+            "quedáramos/quedásemos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿No te parece que Carmen (hablar) _____ bien en la reunión? -No. No me parece que (hablar) _____ bien. Dijo lo de siempre.",
+          "solucion_correcta": [
+            "habló",
+            "hablara/hablase"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Recuerdas que el profesor nos (explicar) _____ algo anteayer? -No recuerdo que nos (explicar) _____ nada importante.",
+          "solucion_correcta": [
+            "explicó",
+            "explicara/explicase"
+          ]
+        },
+        {
+          "texto_enunciado": "-Teresa opina que tú (estar) _____ demasiado serio en la fiesta de su despedida. -Pues yo no creo que (estar) _____ tan serio. A mí me pareció que ella (estar) _____ más seria que yo, ya ves.",
+          "solucion_correcta": [
+            "estabas",
+            "estuviera/estuviese",
+            "estaba"
+          ]
+        },
+        {
+          "texto_enunciado": "-Seguro que anoche Nerea (estudiar) _____ hasta las tantas para el examen. -Algo estudió, pero no creo que (estudiar) _____ demasiado.",
+          "solucion_correcta": [
+            "estudió",
+            "estudiara/estudiase"
+          ]
+        },
+        {
+          "texto_enunciado": "No vi que la silla (estar) _____ sucia y me manché los pantalones.",
+          "solucion_correcta": [
+            "estaba"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿No notaste que Armando (estar) _____ algo raro? -No, no noté que (estar) _____ diferente de otras veces.",
+          "solucion_correcta": [
+            "estaba",
+            "estuviera/estuviese"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿No viste que (haber) _____ un letrero de \"Cerrado\"? -Pues no, no vi que (haber) _____ ningún letrero.",
+          "solucion_correcta": [
+            "había",
+            "hubiera/hubiese"
+          ]
+        },
+        {
+          "texto_enunciado": "No noté que el calentador (estar) _____ apagado y me duché con agua fría.",
+          "solucion_correcta": [
+            "estaba"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "64.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir la información entre paréntesis con la expresión de certeza o falsedad correspondiente. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "(Decían que Julio estaba loco, pero no es verdad.) _____",
+          "solucion_correcta": [
+            "No es verdad que Julio estuviera/estuviese loco"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que antes hacía más frío, pero es falso.) _____",
+          "solucion_correcta": [
+            "Es falso que antes hiciera/hiciese más frío"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que antes había menos contaminación, pero no está claro.) _____",
+          "solucion_correcta": [
+            "No está claro que antes hubiera/hubiese menos contaminación"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que antes se vivía mejor, pero no es cierto.) _____",
+          "solucion_correcta": [
+            "No es cierto que antes se viviera/viviese mejor"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que la ciudad estaba más limpia antes. Es cierto.) _____",
+          "solucion_correcta": [
+            "Es cierto que la ciudad estaba más limpia antes"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que Maradona fue mejor que Di Stéfano. Es falso.) _____",
+          "solucion_correcta": [
+            "Es falso que Maradona fuera/fuese mejor que Di Stéfano"
+          ]
+        },
+        {
+          "texto_enunciado": "(Decían que Sandra tenía un problema de adicción. Era mentira.) _____",
+          "solucion_correcta": [
+            "Era mentira que Sandra tuviera/tuviese un problema de adicción"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que antes había menos paro. Es evidente.) _____",
+          "solucion_correcta": [
+            "Es evidente que antes había menos paro"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que yo era más delgado antes. No es cierto.) _____",
+          "solucion_correcta": [
+            "No es cierto que yo fuera/fuese más delgado antes"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "64.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en pretérito indefinido o pretérito imperfecto de indicativo o subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "-Sebastián dice que el concierto del domingo pasado (ser) _____ un gran éxito.",
+          "solucion_correcta": [
+            "fue"
+          ]
+        },
+        {
+          "texto_enunciado": "-El periódico dice que (haber) _____ mucha gente en la manifestación del sábado. -Pues la policía no dice que (haber) _____ tanta gente.",
+          "solucion_correcta": [
+            "hubo/había",
+            "hubiera/hubiese"
+          ]
+        },
+        {
+          "texto_enunciado": "-El informe no dice que el accidente (suceder) _____ a las siete. -Pues los testigos afirman que (suceder) _____ a esa hora.",
+          "solucion_correcta": [
+            "sucediera/sucediese",
+            "sucedió"
+          ]
+        },
+        {
+          "texto_enunciado": "Aseguran que el domingo (haber) _____ un robo en el ministerio.",
+          "solucion_correcta": [
+            "hubo"
+          ]
+        },
+        {
+          "texto_enunciado": "Nadie dice que la culpa (ser) _____ tuya, Paco.",
+          "solucion_correcta": [
+            "fuera/fuese"
+          ]
+        },
+        {
+          "texto_enunciado": "El ministro no dijo que las carreteras (estar) _____ cerradas por las nevadas.",
+          "solucion_correcta": [
+            "estuvieran/estuviesen"
+          ]
+        },
+        {
+          "texto_enunciado": "Nadie afirmó que ese cantante (no pagar) _____ impuestos en el país.",
+          "solucion_correcta": [
+            "pagara/pagase"
+          ]
+        },
+        {
+          "texto_enunciado": "Elisa nos explicó que no (ir) _____ al taller porque los empleados (estar) _____ de huelga.",
+          "solucion_correcta": [
+            "fue",
+            "estaban"
+          ]
+        },
+        {
+          "texto_enunciado": "Alguien me contó que Ángela ya (saber) _____ que Andrés vivía con Antonia.",
+          "solucion_correcta": [
+            "sabía"
+          ]
+        }
+      ]
+    }
+  ]
+}

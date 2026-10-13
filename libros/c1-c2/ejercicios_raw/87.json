@@ -1,0 +1,215 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "87.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con *donde* o *adonde* y las preposiciones necesarias.",
+      "items": [
+        {
+          "texto_enunciado": "Este vino es _____ pasamos el verano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta carretera pasa _____ vive Manuel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Habrá que sacar los muebles _____ podamos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El lago se ve _____ viven tus abuelos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ trabaja mi novia han despedido a gente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esas aves volaban _____ se ponía el sol.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En coche solo podemos llegar _____ termina el camino.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo voy _____ tú me digas.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Tenéis que encontrar donde os (ellos, dar) _____ alojamiento.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé por qué no prestaste atención. Tenías que entregar el paquete donde te (ellos, decir) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que comprar el pan donde (abrir) _____ los domingos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Para, por favor, donde (ver) _____ una farmacia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Donde (vivir) _____ Andrés hay mucho tráfico.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Prefiero estar donde no se (fumar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenemos que llegar hasta donde se (ver) _____ esas casas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Compro el pescado en donde lo (comprar) _____ Sara.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir la parte subrayada con *donde* + nombre o *al* + infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "Estamos _____ . Te esperamos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La cafetería está <u>a la salida del cine</u> a la izquierda. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer estuve <u>en casa de mi hermana</u>. Ha tenido una niña. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los sábados vamos <u>al restaurante de Ángela</u>. Se come muy bien. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Verás un grifo <u>a la entrada del garaje</u>. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con el nexo dado.",
+      "items": [
+        {
+          "texto_enunciado": "Coloca las fichas de la manera en que estaban antes. (como) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vuelve a hacer el dibujo de la manera que te he indicado. (según) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tienes que anotar los pedidos de la manera que te indique el encargado. (como) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cristóbal planchó su camisa del modo que pudo. (como) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Casi todos morimos de la manera en que vivimos. (según) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.5",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Haz el problema mañana, según te (explicar) _____ el profesor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El cliente nos ha dado instrucciones. Tienes que hacerlo como él (querer) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hicimos todo según nos (indicar) _____ el director.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aquí ninguno canta como (cantar) _____ Chavela.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A ver si por fin haces las cosas como Dios (mandar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando era pequeña tenía que vestirme como (decir) _____ mi madre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando estaba en el Ejército tenía que hacer todo como me (ellos, ordenar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando estuve en la India aprendí a cocinar como (cocinar) _____ los indios.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "87.6",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Ella se quedó como si (ver) _____ un fantasma.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raúl siempre habla como si (saber) _____ mucha historia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando le dices algo que no quiere oír, es como si (estar) _____ sordo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eva nos vio el otro día e hizo como si no nos (conocer) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Mira, Sonia. -Tú haz como que no la (ver) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando llamamos a Manuel, siempre hace como que (estar) _____ muy ocupado.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 87,
+  "titulo_libro": "adonde no haya, como cocinaba su madre -- Oraciones de lugar y modo",
+  "scan": "p-181.jpg"
+}

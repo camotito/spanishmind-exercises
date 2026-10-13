@@ -1,0 +1,289 @@
+{
+  "tema": "unidad-46",
+  "titulo": "¡Será egoísta! ¡Tú verás!",
+  "descripcion_gramatical": "Futuro simple (2)",
+  "fuente": "libro",
+  "unidad_libro": 46,
+  "ejercicios": [
+    {
+      "subejercicio": "46.1",
+      "tipologia": "T4",
+      "enunciado": "Exprese probabilidad o suposición con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Quién cocina aquí? -(cocinar) _____ Alberto. Está todo el día en casa.",
+          "solucion_correcta": [
+            "Cocinará"
+          ]
+        },
+        {
+          "texto_enunciado": "-Los Ramírez se van a mudar de casa. -(tener) _____ mucho dinero porque la vivienda está carísima.",
+          "solucion_correcta": [
+            "Tendrán"
+          ]
+        },
+        {
+          "texto_enunciado": "-No hay luz en casa de Martín. -(estar) _____ acostado. Es bastante tarde.",
+          "solucion_correcta": [
+            "Estará"
+          ]
+        },
+        {
+          "texto_enunciado": "-Carlos no para de llamarme. -(querer) _____ salir contigo.",
+          "solucion_correcta": [
+            "Querrá"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Crees que habrá entradas para el concierto? -(haber) _____ . Todavía es pronto para comprarlas.",
+          "solucion_correcta": [
+            "Habrá"
+          ]
+        },
+        {
+          "texto_enunciado": "-Huele raro en la cocina. -(ser) _____ la basura de ayer. No la he sacado.",
+          "solucion_correcta": [
+            "Será"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Hay mantequilla en la nevera? -(haber) _____ . Ayer compré bastante.",
+          "solucion_correcta": [
+            "Habrá"
+          ]
+        },
+        {
+          "texto_enunciado": "-¡Qué calor hace! -Sí, (hacer) _____ lo menos 38 grados.",
+          "solucion_correcta": [
+            "hará"
+          ]
+        },
+        {
+          "texto_enunciado": "-Emilia lleva dos días sin venir. -(estar) _____ enferma.",
+          "solucion_correcta": [
+            "Estará"
+          ]
+        },
+        {
+          "texto_enunciado": "-Los camareros no hablan muy bien español. -(ser) _____ extranjeros.",
+          "solucion_correcta": [
+            "Serán"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ese coche debe de ser caro. -Seguro. (costar) _____ mucho más que el tuyo.",
+          "solucion_correcta": [
+            "Costará"
+          ]
+        },
+        {
+          "texto_enunciado": "-Sonia no me contesta al teléfono. -No (querer) _____ hablar contigo.",
+          "solucion_correcta": [
+            "querrá"
+          ]
+        },
+        {
+          "texto_enunciado": "-Juanjo se gasta mucho en quinielas. -(querer) _____ hacerse rico.",
+          "solucion_correcta": [
+            "Querrá"
+          ]
+        },
+        {
+          "texto_enunciado": "-El jefe siempre nos manda trabajo para casa -¡(estar) _____ hartos de él!",
+          "solucion_correcta": [
+            "Estaréis"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "46.2",
+      "tipologia": "T3",
+      "enunciado": "Exprese objeciones a las informaciones siguientes.",
+      "items": [
+        {
+          "texto_enunciado": "-Mi hermano gana mucho dinero. - _____ mucho dinero, pero no cambia de coche.",
+          "solucion_correcta": [
+            "Ganará"
+          ]
+        },
+        {
+          "texto_enunciado": "-Alberto entiende de vinos. - _____ , pero ayer no distinguía entre un ribera y un rioja.",
+          "solucion_correcta": [
+            "Entenderá"
+          ]
+        },
+        {
+          "texto_enunciado": "-Veo bastante bien. - _____ bien de lejos, pero de cerca necesitas gafas.",
+          "solucion_correcta": [
+            "Verás"
+          ]
+        },
+        {
+          "texto_enunciado": "-Comen muy poco. - _____ poco, pero están bien gordos.",
+          "solucion_correcta": [
+            "Comerán"
+          ]
+        },
+        {
+          "texto_enunciado": "-Begoña manda mucho. - _____ mucho, pero nadie le hace caso.",
+          "solucion_correcta": [
+            "Mandará"
+          ]
+        },
+        {
+          "texto_enunciado": "-Mi hermana cocina bien - _____ bien, pero la última vez se le quemó la pasta.",
+          "solucion_correcta": [
+            "Cocinará"
+          ]
+        },
+        {
+          "texto_enunciado": "-Marco conduce bien. - _____ bien, pero tiene el coche lleno de golpes.",
+          "solucion_correcta": [
+            "Conducirá"
+          ]
+        },
+        {
+          "texto_enunciado": "-Miguel no tiene nunca tiempo para estar con nosotros. -No _____ tiempo para estar con nosotros, pero para sus amigos sí lo tiene.",
+          "solucion_correcta": [
+            "tendrá"
+          ]
+        },
+        {
+          "texto_enunciado": "-Roberto tiene mucha suerte. - _____ suerte, pero ya es el tercer accidente que tiene.",
+          "solucion_correcta": [
+            "Tendrá"
+          ]
+        },
+        {
+          "texto_enunciado": "-Este grupo no es muy bueno. -No _____ buenos, pero venden muchísimos cedés.",
+          "solucion_correcta": [
+            "serán"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "46.3",
+      "tipologia": "T4",
+      "enunciado": "Exprese sorpresa, extrañeza o reprobación ante las informaciones dadas.",
+      "items": [
+        {
+          "texto_enunciado": "-Elena no me ha dicho nada. -¡No (ir) _____ a decirme que no sabes nada de su boda!",
+          "solucion_correcta": [
+            "irás"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Les ha vuelto a tocar la lotería! ¡(tener) _____ suerte!",
+          "solucion_correcta": [
+            "Tendrán"
+          ]
+        },
+        {
+          "texto_enunciado": "-Guillermo no ha aceptado el empleo. -¡(ser) _____ tonto! Era estupendo.",
+          "solucion_correcta": [
+            "Será"
+          ]
+        },
+        {
+          "texto_enunciado": "-Álvaro siempre cuenta chistes verdes. -¡(creerse) _____ muy gracioso!",
+          "solucion_correcta": [
+            "Se creerá"
+          ]
+        },
+        {
+          "texto_enunciado": "-Lola siempre come con el jefe de personal -¡(tener) _____ cara!",
+          "solucion_correcta": [
+            "Tendrá"
+          ]
+        },
+        {
+          "texto_enunciado": "-El Presidente va a dimitir. -¡No (ser) _____ verdad!",
+          "solucion_correcta": [
+            "será"
+          ]
+        },
+        {
+          "texto_enunciado": "-Voy a estudiar Bellas Artes. -¡No lo (decir) _____ en serio!",
+          "solucion_correcta": [
+            "dirás"
+          ]
+        },
+        {
+          "texto_enunciado": "-Voy a presentar una queja contra el director. -¡No (atreverse) _____ !",
+          "solucion_correcta": [
+            "te atreverás"
+          ]
+        },
+        {
+          "texto_enunciado": "-Alicia se ha enterado de todo. -¡No (tú, suponer) _____ que se lo he dicho yo!",
+          "solucion_correcta": [
+            "supondrás"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer vi a Gonzalo con Mary en la ópera. ¡Y (tú, creer) _____ que se hizo el despistado!",
+          "solucion_correcta": [
+            "creerás"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "46.4",
+      "tipologia": "T4",
+      "enunciado": "Reaccione ante las informaciones o situaciones siguientes.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Dónde celebramos mi cumpleaños? -¡Tú (decir) _____ ! Tú invitas.",
+          "solucion_correcta": [
+            "dirás"
+          ]
+        },
+        {
+          "texto_enunciado": "-Mañana no voy a clase. -Tú (saber) _____ lo que haces.",
+          "solucion_correcta": [
+            "sabrás"
+          ]
+        },
+        {
+          "texto_enunciado": "-El chino es muy difícil. -¡Si lo (saber) _____ yo, que llevo diez años estudiando!",
+          "solucion_correcta": [
+            "sabré"
+          ]
+        },
+        {
+          "texto_enunciado": "-No quieren venir el sábado. -Ellos (ver) _____ . Pero yo el domingo no vengo.",
+          "solucion_correcta": [
+            "verán"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Si (ser) _____ lista Belén! Tiene dos carreras y habla tres idiomas.",
+          "solucion_correcta": [
+            "será"
+          ]
+        },
+        {
+          "texto_enunciado": "-Pablo se casa con Rita. ¿La conoces? -¡Si la _____ ! Fue compañera mía de colegio!",
+          "solucion_correcta": [
+            "conoceré"
+          ]
+        },
+        {
+          "texto_enunciado": "-Oye, prefiero quedar otro día. -Tú (ver) _____ , pero a lo mejor otro día no puedo yo.",
+          "solucion_correcta": [
+            "verás"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Si (tener) _____ dinero los Serrano! Tienen dos Jaguar y viven en un chalé de 500 m².",
+          "solucion_correcta": [
+            "tendrán"
+          ]
+        }
+      ]
+    }
+  ]
+}

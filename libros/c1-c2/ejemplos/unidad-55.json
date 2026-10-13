@@ -1,0 +1,279 @@
+{
+  "tema": "unidad-55",
+  "titulo": "¡Anda! ¡Venga! ¡Vamos!",
+  "descripcion_gramatical": "Imperativo (4)",
+  "fuente": "libro",
+  "unidad_libro": 55,
+  "ejercicios": [
+    {
+      "subejercicio": "55.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con *anda*, *¡Anda ya!* o *¡Anda que!*",
+      "items": [
+        {
+          "texto_enunciado": "_____ , llévame a casa, que hace frío.",
+          "solucion_correcta": [
+            "Anda"
+          ]
+        },
+        {
+          "texto_enunciado": "–Ernesto ha acabado la carrera. – _____ , pero si le quedan lo menos dos años.",
+          "solucion_correcta": [
+            "¡Anda ya!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , pero si hablas español muy bien.",
+          "solucion_correcta": [
+            "Anda"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ esa chica. Se cree que me va a engañar.",
+          "solucion_correcta": [
+            "Anda"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te has vuelto a matricular en un gimnasio? _____ . No sabes en qué gastar el dinero.",
+          "solucion_correcta": [
+            "¡Anda que!"
+          ]
+        },
+        {
+          "texto_enunciado": "¡ _____ , eso que decís no tiene ninguna gracia!",
+          "solucion_correcta": [
+            "Anda ya"
+          ]
+        },
+        {
+          "texto_enunciado": "¡ _____ ! Cómo va a salir Ricardo con Charo! ¡Si siempre se están peleando!",
+          "solucion_correcta": [
+            "¡Anda ya!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , me he dejado la cartera en casa.",
+          "solucion_correcta": [
+            "Anda"
+          ]
+        },
+        {
+          "texto_enunciado": "Y decías que conocías a mucha gente. ¡ _____ ! No hemos hablado con nadie.",
+          "solucion_correcta": [
+            "¡Anda que!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "55.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con *anda que si* o *anda que no*.",
+      "items": [
+        {
+          "texto_enunciado": "¡ _____ trabaja Carlos! Está siempre haciendo algo.",
+          "solucion_correcta": [
+            "Anda que no"
+          ]
+        },
+        {
+          "texto_enunciado": "¡ _____ nos encontramos con Rosa! Se va a llevar una sorpresa.",
+          "solucion_correcta": [
+            "Anda que sí"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ te hacemos caso, compramos una casa en ruinas.",
+          "solucion_correcta": [
+            "Anda que sí"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ pierden las elecciones. Van a tener que ponerse a trabajar.",
+          "solucion_correcta": [
+            "Anda que sí"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ no nos avisan, nos quedamos esperando al fontanero toda la tarde.",
+          "solucion_correcta": [
+            "Anda que sí"
+          ]
+        },
+        {
+          "texto_enunciado": "¡ _____ habla Carmela! No hay quien la calle.",
+          "solucion_correcta": [
+            "Anda que no"
+          ]
+        },
+        {
+          "texto_enunciado": "¡ _____ es vago Ramón! Nunca quiere hacer nada.",
+          "solucion_correcta": [
+            "Anda que no"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ no te ayudo, todavía estás fregando platos.",
+          "solucion_correcta": [
+            "Anda que sí"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ es buena la merluza que os he comprado. Ya veréis.",
+          "solucion_correcta": [
+            "Anda que no"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "55.3",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con *venga*, *venga ya* o *vamos*. En algunos casos hay más de una posibilidad.",
+      "items": [
+        {
+          "texto_enunciado": "–Rocío ha estudiado Económicas. –¡ _____ ! Es imposible. Si no sabe lo que es el Producto Interior Bruto.",
+          "solucion_correcta": [
+            "¡Venga ya!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , daos dos vueltas a la pista para entrar en calor.",
+          "solucion_correcta": [
+            "Venga/Vamos"
+          ]
+        },
+        {
+          "texto_enunciado": "No me gustan mucho las verduras, pero _____ , las como.",
+          "solucion_correcta": [
+            "vamos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Y tú te consideras un buen amigo? _____ , si nunca haces nada por nosotros.",
+          "solucion_correcta": [
+            "¡Venga ya!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , tenemos que sacar las maletas antes de aparcar el coche.",
+          "solucion_correcta": [
+            "Venga/Vamos"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ . Que yo sepa, Alfredo no ha leído a Bolaños en su vida.",
+          "solucion_correcta": [
+            "¡Venga ya!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , vámonos ahora mismo. No podemos esperar más a Paco.",
+          "solucion_correcta": [
+            "Venga"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , no puedes seguir así. Ahora mismo te vas al dentista.",
+          "solucion_correcta": [
+            "Venga"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "55.4",
+      "tipologia": "T2",
+      "enunciado": "Complete los diálogos con *anda*, *anda que*, *vamos*, *venga*, *venga ya*.",
+      "items": [
+        {
+          "texto_enunciado": "¡ _____ ! Pero si sabes hablar inglés.",
+          "solucion_correcta": [
+            "¡Anda!"
+          ]
+        },
+        {
+          "texto_enunciado": "–Voy a dejar el coche ahí. –¡ _____ ! Menuda multa te van a poner.",
+          "solucion_correcta": [
+            "¡Anda que!"
+          ]
+        },
+        {
+          "texto_enunciado": "–Lo siento. No tengo tiempo. – _____ , que no me quieres ayudar.",
+          "solucion_correcta": [
+            "Venga ya"
+          ]
+        },
+        {
+          "texto_enunciado": "–No puedo, tengo que estudiar. – _____ , no me vas a decir ahora que no quieres salir.",
+          "solucion_correcta": [
+            "Vamos/Venga"
+          ]
+        },
+        {
+          "texto_enunciado": "– _____ invítame a un helado. –¡ _____ ! Invítame tú.",
+          "solucion_correcta": [
+            "Venga",
+            "Venga ya"
+          ]
+        },
+        {
+          "texto_enunciado": "¡ _____ ! ¡Más deprisa!",
+          "solucion_correcta": [
+            "¡Venga!/¡Vamos!"
+          ]
+        },
+        {
+          "texto_enunciado": "¡ _____ ! Pero si tú eres la hermana de Nacho.",
+          "solucion_correcta": [
+            "¡Anda!"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , levantaos, que ya son las ocho.",
+          "solucion_correcta": [
+            "Venga/Vamos"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "functional_images",
+        "datos": [
+          {
+            "numero": "1",
+            "descripcion": "Dos chicos hablando de idiomas"
+          },
+          {
+            "numero": "2",
+            "descripcion": "Hombre aparcando el coche"
+          },
+          {
+            "numero": "3",
+            "descripcion": "Hombre diciendo que no tiene tiempo"
+          },
+          {
+            "numero": "4",
+            "descripcion": "Chico diciendo que tiene que estudiar"
+          },
+          {
+            "numero": "5",
+            "descripcion": "Dos chicos en un mostrador pidiendo helado"
+          },
+          {
+            "numero": "6",
+            "descripcion": "Entrenador en lancha animando a remeros con un megáfono"
+          },
+          {
+            "numero": "7",
+            "descripcion": "Dos chicas reconociéndose"
+          },
+          {
+            "numero": "8",
+            "descripcion": "Padre despertando a sus hijos en la cama"
+          }
+        ]
+      }
+    }
+  ]
+}

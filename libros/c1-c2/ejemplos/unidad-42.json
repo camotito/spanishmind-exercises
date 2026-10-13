@@ -1,0 +1,241 @@
+{
+  "tema": "unidad-42",
+  "titulo": "hice / hacía / he hecho / estaba haciendo",
+  "descripcion_gramatical": "Contraste entre tiempos del pasado",
+  "fuente": "libro",
+  "unidad_libro": 42,
+  "ejercicios": [
+    {
+      "subejercicio": "42.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Luis (viajar) _____ mucho por Asia.",
+          "solucion_correcta": [
+            "ha viajado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Cuándo (tú, estar) _____ en Singapur?",
+          "solucion_correcta": [
+            "estuviste"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(vosotros, perder) _____ alguna vez algo importante?",
+          "solucion_correcta": [
+            "Habéis perdido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué has ido al hospital? -Me (morder) _____ un perro.",
+          "solucion_correcta": [
+            "ha mordido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuánto te (costar) _____ esos pantalones? -30 euros.",
+          "solucion_correcta": [
+            "han costado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué estás tan ocupado? -(empezar) _____ las clases esta semana.",
+          "solucion_correcta": [
+            "He empezado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quién (inventar) _____ la bombilla? -Edison.",
+          "solucion_correcta": [
+            "inventó"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Cuánto (crecer) _____ Javi este verano!",
+          "solucion_correcta": [
+            "ha crecido"
+          ]
+        },
+        {
+          "texto_enunciado": "No tengo suerte. No (ganar) _____ nunca un premio.",
+          "solucion_correcta": [
+            "he ganado"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (nosotros, ir) _____ a China, (nosotros, recorrer) _____ una parte de la Gran Muralla.",
+          "solucion_correcta": [
+            "fuimos",
+            "recorrimos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "42.2",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (llamaste/llamabas), (estuve/estaba) en casa de Ana.",
+          "solucion_correcta": [
+            "llamaste",
+            "estaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Agustín (murió/moría) el mes pasado. Nos (conocimos/conocíamos) desde que (fuimos/éramos) niños.",
+          "solucion_correcta": [
+            "murió",
+            "conocíamos",
+            "éramos"
+          ]
+        },
+        {
+          "texto_enunciado": "De pequeños (jugamos/jugábamos) muchas horas en la calle. Nos (divertimos/divertíamos) mucho.",
+          "solucion_correcta": [
+            "jugábamos",
+            "divertíamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer (tuve/tenía) que ir al dentista. Me (dolieron/dolían) mucho las muelas.",
+          "solucion_correcta": [
+            "tuve",
+            "dolían"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (sonó/sonaba) el despertador, (soñé/estaba soñando) con las vacaciones.",
+          "solucion_correcta": [
+            "sonó",
+            "estaba soñando"
+          ]
+        },
+        {
+          "texto_enunciado": "(Acabé/Estaba acabando) el informe cuando (llegó/llegaba) el director.",
+          "solucion_correcta": [
+            "Estaba acabando",
+            "llegó"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "42.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cuanto tiempo (hacer) _____ que no (ir) _____ al dentista, Iván?",
+          "solucion_correcta": [
+            "hacía",
+            "ibas"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (yo, ver) _____ a Feliciano, (él, hablar) _____ por el móvil.",
+          "solucion_correcta": [
+            "vi",
+            "estaba hablando"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (yo, vivir) _____ con mis padres, (nosotros, discutir) _____ todos los días.",
+          "solucion_correcta": [
+            "vivía",
+            "discutíamos"
+          ]
+        },
+        {
+          "texto_enunciado": "El otro día (nosotros, hablar) _____ de ti, Carmen. Hacía meses que no nos (llamar) _____.",
+          "solucion_correcta": [
+            "hablamos",
+            "llamabas"
+          ]
+        },
+        {
+          "texto_enunciado": "En el colegio (yo, hacer) _____ siempre muchas preguntas.",
+          "solucion_correcta": [
+            "hacía"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(preguntar) _____ alguien por mí ayer?",
+          "solucion_correcta": [
+            "Preguntó"
+          ]
+        },
+        {
+          "texto_enunciado": "Una señora me (robar) _____ la cartera mientras (yo, hablar) _____ con Teresa.",
+          "solucion_correcta": [
+            "robó",
+            "estaba hablando / hablaba"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué (tú, hacer) _____ cuando (llegar) _____ los bomberos? -(intentar) _____ apagar el fuego.",
+          "solucion_correcta": [
+            "estabas haciendo",
+            "llegaron",
+            "Estaba intentando"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "42.4",
+      "tipologia": "T4",
+      "enunciado": "Complete con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (yo, vivir) _____ en Manila, (traducir) _____ artículos para una revista en español.",
+          "solucion_correcta": [
+            "vivía",
+            "traducía"
+          ]
+        },
+        {
+          "texto_enunciado": "Ian (regresar) _____ a Escocia el verano pasado. (llevar) _____ cinco años fuera de su país.",
+          "solucion_correcta": [
+            "regresó",
+            "llevaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Anabel no (trabajar) _____ en toda su vida. Le (tocar) _____ la lotería cuando (ser) _____ muy joven y (vivir) _____ siempre de las rentas.",
+          "solucion_correcta": [
+            "ha trabajado",
+            "tocó",
+            "era",
+            "ha vivido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué te pasa Jesús? -Nada, que (yo, discutir) _____ con Ana.",
+          "solucion_correcta": [
+            "he discutido"
+          ]
+        },
+        {
+          "texto_enunciado": "Parece que anoche Julio (divertirse) _____ mucho en la fiesta de Mercedes. (hacer) _____ tiempo que no se lo (pasar) _____ tan bien.",
+          "solucion_correcta": [
+            "se divirtió",
+            "Hacía",
+            "pasaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche no (yo, poder) _____ hablar contigo. Cuando (tú, llamar) _____, (yo, visitar) _____ a algunos enfermos.",
+          "solucion_correcta": [
+            "pude",
+            "llamaste",
+            "estaba visitando"
+          ]
+        }
+      ]
+    }
+  ]
+}

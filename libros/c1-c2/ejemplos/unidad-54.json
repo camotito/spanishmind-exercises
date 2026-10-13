@@ -1,0 +1,282 @@
+{
+  "tema": "unidad-54",
+  "titulo": "Mira. Oye.",
+  "descripcion_gramatical": "Imperativo (3)",
+  "fuente": "libro",
+  "unidad_libro": 54,
+  "ejercicios": [
+    {
+      "subejercicio": "54.1",
+      "tipologia": "T3",
+      "enunciado": "Complete las frases con *mira*, *mire*, *mirad*, *miren*, *mira tú*, *mire usted* o *mira*/*mire qué bien*.",
+      "items": [
+        {
+          "texto_enunciado": "-Elisa no me ha invitado a su boda. - _____ . Así te ahorras el regalo.",
+          "solucion_correcta": [
+            "Mira qué bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Cómo es la vida, don Sebastián. Antonio se fue a otra empresa para mejorar y, _____ , esa empresa ha cerrado.",
+          "solucion_correcta": [
+            "mire usted"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , lo mejor es que quedéis para repasar el sábado.",
+          "solucion_correcta": [
+            "Mirad"
+          ]
+        },
+        {
+          "texto_enunciado": "Dionisio quería ser abogado, pero _____ , ha acabado en la cárcel.",
+          "solucion_correcta": [
+            "mira tú"
+          ]
+        },
+        {
+          "texto_enunciado": "-¡Me han ascendido! - _____ . Ahora podrás comprarte piso.",
+          "solucion_correcta": [
+            "Mira qué bien"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , chico. Yo no creo nada de lo que dices.",
+          "solucion_correcta": [
+            "Mira"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , señora. Procure que su perro no me entre en el césped.",
+          "solucion_correcta": [
+            "Mire"
+          ]
+        },
+        {
+          "texto_enunciado": "-Esta noche ha llovido a cántaros. - _____ , doña Rosario. Así no tiene usted que lavar el coche.",
+          "solucion_correcta": [
+            "Mire qué bien"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ . Me han vuelto a conceder la beca.",
+          "solucion_correcta": [
+            "Mira qué bien"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ . Os lo repito. No tengo por qué decir a nadie lo que hago con mi dinero.",
+          "solucion_correcta": [
+            "Mirad"
+          ]
+        },
+        {
+          "texto_enunciado": "No quisieron instalar el ascensor por caro, y _____ , ahora son ustedes los que lo necesitan.",
+          "solucion_correcta": [
+            "miren ustedes"
+          ]
+        },
+        {
+          "texto_enunciado": "Dijo que yo iba a acabar mal, pero _____ , es usted el que tiene problemas con la justicia.",
+          "solucion_correcta": [
+            "mire usted"
+          ]
+        },
+        {
+          "texto_enunciado": "He cogido un avión porque quería llegar antes, y _____ , hay huelga de controladores.",
+          "solucion_correcta": [
+            "mira tú"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , procuraremos arreglarle el coche lo antes posible, pero no nos meta prisa.",
+          "solucion_correcta": [
+            "Mire usted"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , si no me pagan el alquiler, pongo el asunto en manos de mi abogado.",
+          "solucion_correcta": [
+            "Miren"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "54.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases entre paréntesis resaltando lo dicho o expresando suposición con *mira/mire que*, *mira/mire que si*.",
+      "items": [
+        {
+          "texto_enunciado": "(Eres muy pesado, Antonio.) _____",
+          "solucion_correcta": [
+            "Mira que eres pesado, Antonio"
+          ]
+        },
+        {
+          "texto_enunciado": "(A lo mejor se casa Félix.) _____",
+          "solucion_correcta": [
+            "Mira que si se casa Félix"
+          ]
+        },
+        {
+          "texto_enunciado": "(A lo mejor llueve mañana pero es muy improbable.) _____ . Tendríamos que quedarnos en casa.",
+          "solucion_correcta": [
+            "Mira que si llueve mañana"
+          ]
+        },
+        {
+          "texto_enunciado": "(Os lo he repetido.) _____ . Tenéis que ser más puntuales.",
+          "solucion_correcta": [
+            "Mira que os lo he repetido"
+          ]
+        },
+        {
+          "texto_enunciado": "(A lo mejor acierto la quiniela.) _____ . Te regalo un coche.",
+          "solucion_correcta": [
+            "Mira que si acierto la quiniela"
+          ]
+        },
+        {
+          "texto_enunciado": "(Son ustedes muy protestones.) _____ . Tienen que tener más paciencia.",
+          "solucion_correcta": [
+            "Mire que son protestones"
+          ]
+        },
+        {
+          "texto_enunciado": "(Quizá le haya pasado algo a la abuela.) _____ .",
+          "solucion_correcta": [
+            "Mira que si le ha pasado algo a la abuela"
+          ]
+        },
+        {
+          "texto_enunciado": "(A lo mejor me admiten en el ejército.) _____ . Sería maravilloso.",
+          "solucion_correcta": [
+            "Mira que si me admiten en el ejército"
+          ]
+        },
+        {
+          "texto_enunciado": "(Tenéis mucha prisa.) _____ . Si tenemos mucho tiempo.",
+          "solucion_correcta": [
+            "Mira que tenéis prisa"
+          ]
+        },
+        {
+          "texto_enunciado": "(La lluvia casi nos coge en el parque.) _____ . Nos habríamos calado.",
+          "solucion_correcta": [
+            "Mira que si nos coge la lluvia en el parque"
+          ]
+        },
+        {
+          "texto_enunciado": "(Li es muy tranquilo.) _____ Li. Siempre hace la maleta en el último momento.",
+          "solucion_correcta": [
+            "Mira que es tranquilo"
+          ]
+        },
+        {
+          "texto_enunciado": "(Quizá despidan a Ana pero es muy improbable.) _____ . ¿De qué va a vivir?",
+          "solucion_correcta": [
+            "Mira que si despiden a Ana"
+          ]
+        },
+        {
+          "texto_enunciado": "(Quizá salgamos en la tele pero es muy improbable.) _____ , Don Fernando. Me van a ver en mi pueblo.",
+          "solucion_correcta": [
+            "Mire que si salimos en la tele"
+          ]
+        },
+        {
+          "texto_enunciado": "(A lo mejor nos han concedido la beca pero es muy improbable.) _____ .",
+          "solucion_correcta": [
+            "Mira que si nos han concedido la beca"
+          ]
+        },
+        {
+          "texto_enunciado": "(Eres muy despistada, Sofía.) _____ .",
+          "solucion_correcta": [
+            "Mira que eres despistada, Sofía"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "54.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con *oye*, *oíd*, *oiga* u *oigan*. Utilice *usted* o *ustedes* en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "_____ , Ricardo. Explícame esto, que no lo entiendo.",
+          "solucion_correcta": [
+            "Oye"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , un poco de educación. Yo no le estoy insultando a usted.",
+          "solucion_correcta": [
+            "Oiga usted"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , ¿sabe dónde hay un cajero automático por aquí?",
+          "solucion_correcta": [
+            "Oiga"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , qué bien te sienta ese traje.",
+          "solucion_correcta": [
+            "Oye"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , perdonen pero no pueden quedarse aquí. Vamos a cerrar.",
+          "solucion_correcta": [
+            "Oigan"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , no se cuele que todos tenemos prisa.",
+          "solucion_correcta": [
+            "Oiga usted"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , no podéis entrar con los zapatos llenos de barro.",
+          "solucion_correcta": [
+            "Oíd"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , ¿tú sabes si nos van a dar el puente?",
+          "solucion_correcta": [
+            "Oye"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , ¿tú crees que Ernesto va en serio con Amelia?",
+          "solucion_correcta": [
+            "Oye"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , apague el cigarro, que aquí no se puede fumar.",
+          "solucion_correcta": [
+            "Oiga usted"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , lo mejor que podéis hacer es marcharos y no meteros en nada.",
+          "solucion_correcta": [
+            "Oíd"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ , o salen de aquí inmediatamente o llamo a la policía.",
+          "solucion_correcta": [
+            "Oigan ustedes"
+          ]
+        }
+      ]
+    }
+  ]
+}

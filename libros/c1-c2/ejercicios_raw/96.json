@@ -1,0 +1,187 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "96.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Si (vivirías/vivieras) más cerca, (sería/fuera) más fácil ir a verte.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Sería/Fuera) feliz, si (tendría/tuviera) treinta años menos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si (trabajaría/trabajaras) más, (pudieras/podrías) ascender.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No (tendrías/tuvieras) ningún problema en clase si te (portarías/portaras) bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si (tendría/tuviera) más cuidado, (haría/hiciera) todo mejor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no (saldríamos/saliéramos) tanto, no (estaríamos/estuviéramos) tan cansados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si (tuvieras/tendrías) vergüenza, no (hablarías/hablaras) así a tu abuelo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No (viviría/viviera) aquí si no (fuera/sería) porque conozco a todo el mundo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "96.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Javi se explica muy mal. Si (él, explicarse) _____ mejor, le (ellos, entender) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No vienen muchos, pero si (haber) _____ más turistas, (nosotros, poder) _____ ampliar el hotel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si (yo, ser) _____ tu padre, no te (yo, dejar) _____ hacerte ese piercing.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No tengo calculadora. Si la (yo, tener) _____, (yo, poder) _____ resolver el problema.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este barrio no está mal, pero (estar) _____ mejor si (tener) _____ más zonas verdes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pareces joven, pero si (tú, teñirse) _____ el pelo, (tú, parecer) _____ aún más joven.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué pena no tener un día más de vacaciones! Si lo (nosotros, tener) _____, (nosotros, poder) _____ acercarnos a visitar el castillo de Tordesillas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Lástima que no seas más trabajador, Felipe! Si lo (tú, ser) _____, creo que (tú, tener) _____ más encargos.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "96.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases comenzando por *si*.",
+      "items": [
+        {
+          "texto_enunciado": "Sé que no es muy probable que veas a Armando, pero en caso contrario, quiero que me llames, por favor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es muy probable que cambies de opinión, pero en caso contrario, quiero que me lo digas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es probable que el niño se ponga peor, pero en caso contrario, debes llamar al médico. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es probable que yo tenga tiempo mañana, pero en caso contrario, te llevo al cine. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es probable que nos sigan, pero en caso contrario, quiero que llames a la policía. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es probable que me olvide de su cumpleaños, pero en caso contrario, quiero que me lo recuerdes. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es probable que me dejen el coche, pero en caso contrario, te ayudaría con la mudanza. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es probable que llame el director de Unasa, pero en caso contrario, no quiero que me pase la llamada. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "96.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Lucía no me quiere, pero si me (querer) _____, desde luego que (casarse) _____ con ella.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No tenemos un diccionario, pero si lo (tener) _____, (yo, traducir) _____ eso en un minuto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es asunto mío, pero si yo (tener) _____ que solucionar el problema, lo (yo, solucionar) _____ inmediatamente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo de Carlos no me importa, pero si me (importar), _____ me (ocupar) _____ de ello enseguida, no (esperar) _____ ni un minuto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo siento, no tengo tiempo. Si lo (yo, tener) _____, te (yo, ayudar) _____ sin problema.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Porque no quiero perjudicar a Laura, pero si yo (querer) _____, le (yo, poner) _____ una demanda a su marido ahora mismo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "96.5",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con *de* + infinitivo.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Si pudiera ayudarte</u>. _____, lo haría el jueves.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si supiera dónde está Jorge</u>. _____, te lo diría.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si tuvieras que elegir tú al director</u>. _____, ¿a quién elegirías?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si rodaras una película</u>. _____, ¿qué actores elegirías?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si yo me fuera a Argentina</u>. _____, viviría en la Pampa.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 96,
+  "titulo_libro": "Si tuviera dinero, te invitaría. -- Oraciones condicionales (3)",
+  "scan": "p-199.jpg"
+}

@@ -1,0 +1,236 @@
+{
+  "tema": "unidad-8",
+  "titulo": "¡esta Ana!, el tío este",
+  "descripcion_gramatical": "Demostrativos (2)",
+  "fuente": "libro",
+  "unidad_libro": 8,
+  "ejercicios": [
+    {
+      "subejercicio": "8.1",
+      "tipologia": "T12",
+      "enunciado": "¿Qué diría? Exprese queja o admiración con *este...*",
+      "items": [
+        {
+          "texto_enunciado": "(Amelia llega tarde.) ¡ _____ ! Siempre llega tarde.",
+          "solucion_correcta": [
+            "¡Esta Amelia!"
+          ]
+        },
+        {
+          "texto_enunciado": "(Unas niñas han manchado de barro las escaleras.) ¡ _____ ! Lo ensucian todo.",
+          "solucion_correcta": [
+            "¡Estas niñas!"
+          ]
+        },
+        {
+          "texto_enunciado": "(Pablo le ha pedido dinero a un amigo.) ¡ _____ ! Está siempre pidiendo dinero.",
+          "solucion_correcta": [
+            "¡Este Pablo!"
+          ]
+        },
+        {
+          "texto_enunciado": "(Rocío ha vuelto a pagar los cafés.) ¡ _____ ! No me deja pagar nunca.",
+          "solucion_correcta": [
+            "¡Esta Rocío!"
+          ]
+        },
+        {
+          "texto_enunciado": "(El niño está llorando otra vez.) ¡ _____ ! Es un poquito llorón.",
+          "solucion_correcta": [
+            "¡Este niño!"
+          ]
+        },
+        {
+          "texto_enunciado": "(Alicia deja al perro dormir en su cama.) ¡ _____ ! Se pasa con el perro.",
+          "solucion_correcta": [
+            "¡Esta Alicia!"
+          ]
+        },
+        {
+          "texto_enunciado": "(Todos los alumnos han aprobado.) ¡ _____ ! ¡Qué listos son!",
+          "solucion_correcta": [
+            "¡Estos alumnos!"
+          ]
+        },
+        {
+          "texto_enunciado": "(Las chicas se han ido sin hacer las camas.) ¡ _____ ! Nunca se hacen la cama.",
+          "solucion_correcta": [
+            "¡Estas chicas!"
+          ]
+        },
+        {
+          "texto_enunciado": "(Belén nos ha dado dos entradas para la ópera.) ¡ _____ es un encanto!",
+          "solucion_correcta": [
+            "Esta Belén"
+          ]
+        },
+        {
+          "texto_enunciado": "(Daniel les ha dejado el coche lleno de gasolina.) ¡ _____ ! ¡Qué amable es!",
+          "solucion_correcta": [
+            "¡Este Daniel!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "8.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con *este...*, *ese...* y *el*, *la*, *los*, *las* en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "_____ amigos tuyos me parecen unos descarados.",
+          "solucion_correcta": [
+            "Esos"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer me llamó Lorenzo. _____ tío _____ es un sinvergüenza.",
+          "solucion_correcta": [
+            "El",
+            "ese"
+          ]
+        },
+        {
+          "texto_enunciado": "Sara todavía no me ha devuelto el coche. ¡ _____ chica tiene una cara...!",
+          "solucion_correcta": [
+            "Esa"
+          ]
+        },
+        {
+          "texto_enunciado": "Lorena se ha cortado el pelo al cero. _____ chica _____ debe de estar mal de la cabeza.",
+          "solucion_correcta": [
+            "La",
+            "esa"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Qué nervioso! _____ chico _____ no para.",
+          "solucion_correcta": [
+            "El",
+            "este"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Has oído lo que ha hecho Ángel? _____ hombre está mal.",
+          "solucion_correcta": [
+            "Ese"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Has visto lo que han hecho mis vecinos? -Sí, _____ gente _____ es increíble.",
+          "solucion_correcta": [
+            "la",
+            "esa"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "8.3",
+      "tipologia": "T12",
+      "enunciado": "Escriba las exclamaciones para expresar queja o admiración con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(mujer) ¡ _____ ! No me deja dormir la siesta en paz.",
+          "solucion_correcta": [
+            "¡Qué mujer esta!"
+          ]
+        },
+        {
+          "texto_enunciado": "(chicos) ¡ _____ ! No se acuestan nunca antes de las dos.",
+          "solucion_correcta": [
+            "¡Qué chicos estos!"
+          ]
+        },
+        {
+          "texto_enunciado": "(hombre) ¡ _____ ! Se olvida de todo.",
+          "solucion_correcta": [
+            "¡Qué hombre este!"
+          ]
+        },
+        {
+          "texto_enunciado": "(empresa) ¡ _____ ! Tiene más de quinientos empleados.",
+          "solucion_correcta": [
+            "¡Qué empresa esta!"
+          ]
+        },
+        {
+          "texto_enunciado": "(chicas) ¡ _____ ! No paran en casa.",
+          "solucion_correcta": [
+            "¡Qué chicas estas!"
+          ]
+        },
+        {
+          "texto_enunciado": "(calle) ¡ _____ ! Nunca hay sitio para aparcar.",
+          "solucion_correcta": [
+            "¡Qué calle esta!"
+          ]
+        },
+        {
+          "texto_enunciado": "(tráfico) ¡ _____ ! No vamos a llegar a tiempo al aeropuerto.",
+          "solucion_correcta": [
+            "¡Qué tráfico este!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "8.4",
+      "tipologia": "T8",
+      "enunciado": "Escriba las exclamaciones con las palabras del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "¿Recuerdas cuando estuvimos en México? ¡ _____ !",
+          "solucion_correcta": [
+            "¡Qué días aquellos!"
+          ]
+        },
+        {
+          "texto_enunciado": "El cine italiano era magnífico: Rossellini, Pasolini, Antonioni. ¡ _____ !",
+          "solucion_correcta": [
+            "¡Qué directores aquellos!"
+          ]
+        },
+        {
+          "texto_enunciado": "En 1998 regresaron mis padres a Argentina y nacieron mis hijas. ¡ _____ !",
+          "solucion_correcta": [
+            "¡Qué año aquel!"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Recuerdas la final entre Nadal y Federer? ¡ _____ !",
+          "solucion_correcta": [
+            "¡Qué partido aquel!"
+          ]
+        },
+        {
+          "texto_enunciado": "A mí también me encantaban la Loren y la Bardot. ¡ _____ !",
+          "solucion_correcta": [
+            "¡Qué actrices aquellas!"
+          ]
+        },
+        {
+          "texto_enunciado": "Las noches en casa de Tere eran agotadoras. ¡ _____ !",
+          "solucion_correcta": [
+            "¡Qué noches aquellas!"
+          ]
+        },
+        {
+          "texto_enunciado": "He vuelto a oír los discos de Los Beatles. ¡ _____ !",
+          "solucion_correcta": [
+            "¡Qué canciones aquellas!"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "actriz",
+        "año",
+        "canción",
+        "día",
+        "director",
+        "noche",
+        "partido"
+      ]
+    }
+  ]
+}

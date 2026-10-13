@@ -1,0 +1,189 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "105.1",
+      "tipologia": "T2",
+      "tipologia_libre": null,
+      "enunciado": "Coméntele a un amigo las preguntas de esta encuesta.",
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "Encuesta:",
+          "1. ¿Fuma usted?",
+          "2. ¿Bebe vino o cerveza?",
+          "3. ¿Bebe otras bebidas alcohólicas (whisky, ginebra...)?",
+          "4. ¿Hace usted ejercicio regularmente?",
+          "5. ¿Cuántas horas duerme al día?",
+          "6. ¿Cómo va al trabajo?",
+          "7. ¿Dónde come a mediodía?",
+          "8. ¿Come fruta regularmente?"
+        ]
+      },
+      "items": [
+        {
+          "texto_enunciado": "-¿Qué preguntan en la encuesta? -En la encuesta preguntan (1) _____, (2) _____, (3) _____, (4) _____, (5) _____, (6) _____, (7) _____ y (8) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "105.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Me gustaría saber quién te (contar) _____ lo de Julia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer recibí un mensaje de Adela. Quería saber si (yo, ir) _____ a ir a Alicante el domingo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me llaman mucho para preguntarme si (yo, querer) _____ cambiar de compañía telefónica.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En el juicio me preguntaron quién (firmar) _____ el documento.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En la empresa están interesados en saber cuándo (yo, ir) _____ a coger las vacaciones este año.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Como vi que estaban cansados, les pregunté qué (ellos, hacer) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alfonso, me gustaría saber cuándo me (tú, ir) _____ a devolver el dinero que me debes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me ha llamado Luisa para preguntarme si (ella, deber) _____ perdonar a Jorge.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Emilia es muy cotilla. Siempre quiere saber qué (yo, hacer) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo curiosidad por saber cuándo (abrir) _____ el nuevo museo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría saber qué te (decir) _____ Roberto anoche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta mañana el jefe de Personal me ha preguntado si me (gustar) _____ mi nuevo puesto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si ves a Arturo, pregúntale cuándo (casarse) _____ sus padres. Tengo curiosidad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me pregunto qué (hacer) _____ Jorge en casa de Lola. No son muy amigos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Le preguntaron al Presidente si (él, ir) _____ a subir los impuestos. Dijo que sí, pero que no sabía cuándo lo (hacer) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "105.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Esta mañana le he preguntado a Inés (Félix, llamarla anoche) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría saber (cuántas horas, tú, perder viendo la televisión) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer me preguntaron (yo, querer) _____ suscribirme a una revista nueva.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La policía le preguntó (cuánto, valer las joyas robadas) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi abuela siempre me pregunta (cuándo, yo, casarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría saber (cómo, decirse \"sopa\" en japonés) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Recuerdo que hace un año el director me preguntó (yo, acabar la carrera ya) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me pregunto (de dónde, esa chica, ser) _____. No parece española.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gustaría saber (con quién, Ana, vivir) _____ cuando estaba en California.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Al llegar a la aduana nos preguntaron (nosotros, tener algo que declarar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En el examen me preguntaron (cuántos habitantes, Egipto, tener) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esos turistas quieren saber (cómo, ellos, poder ir a Burgos) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te han preguntado (tú, querer hacer horas extras) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Para qué quieren saber en (qué países, yo, estar) _____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Necesitamos saber (vosotros, ya, recibir el programa de este año) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué te preguntaron en el concurso? -(cómo, San Petersburgo, llamarse, en 1960) _____ y (dónde, Dickens, estar enterrado) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando veas a Rafael, pregúntale (cuándo, las clases de griego, empezar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La semana pasada me llamó Antón y me preguntó (yo, pensar presentarse a alcalde) _____. Le dije que no.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A mí nunca me han preguntado (yo, estar a gusto en la nueva casa) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Una vez le pregunté a Marcos (dónde, él, gustar vivir) _____ y me dijo que en Nueva York, pero que su familia no quiso irse de Granada.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 105,
+  "titulo_libro": "Me han preguntado en qué países he trabajado. Me gustaría saber cómo se hace. -- Estilo indirecto (2)",
+  "scan": "p-217.jpg"
+}

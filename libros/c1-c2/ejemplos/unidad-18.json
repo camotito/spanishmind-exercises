@@ -1,0 +1,292 @@
+{
+  "tema": "unidad-18",
+  "titulo": "Se han hecho un chalé. Me bebí un café.",
+  "descripcion_gramatical": "Usos de me, te, se...",
+  "fuente": "libro",
+  "unidad_libro": 18,
+  "ejercicios": [
+    {
+      "subejercicio": "18.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "(Me/ø) aburro cuando no trabajo.",
+          "solucion_correcta": [
+            "Me"
+          ]
+        },
+        {
+          "texto_enunciado": "(Me/ø) he hecho daño en el cuello.",
+          "solucion_correcta": [
+            "Me"
+          ]
+        },
+        {
+          "texto_enunciado": "¡José es un pesado! (Se/ø) aburre a cualquiera.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Josefa (se/ø) arregla mucho. Va siempre muy elegante.",
+          "solucion_correcta": [
+            "se"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando voy a fiestas, (me/ø) pinto un poco.",
+          "solucion_correcta": [
+            "me"
+          ]
+        },
+        {
+          "texto_enunciado": "Nosotros (nos/ø) hacemos la comida todos los días. No nos gusta comer fuera.",
+          "solucion_correcta": [
+            "nos"
+          ]
+        },
+        {
+          "texto_enunciado": "Si seguís en la terraza (os/ø) vais a quedar helados.",
+          "solucion_correcta": [
+            "os"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi hijo pequeño (se/ø) asusta de los perros grandes.",
+          "solucion_correcta": [
+            "se"
+          ]
+        },
+        {
+          "texto_enunciado": "Si puedo, (me/ø) haré un traje azul a medida.",
+          "solucion_correcta": [
+            "me"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa película de zombis (se/ø) asusta a cualquiera.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Miguel (se/ø) enfada mucho a sus padres.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        },
+        {
+          "texto_enunciado": "Roque (se/ø) enfada fácilmente.",
+          "solucion_correcta": [
+            "se"
+          ]
+        },
+        {
+          "texto_enunciado": "Estos alumnos (se/ø) cansan rápido.",
+          "solucion_correcta": [
+            "se"
+          ]
+        },
+        {
+          "texto_enunciado": "Estos niños (se/ø) cansan a cualquiera.",
+          "solucion_correcta": [
+            "ø"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "18.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con la forma entre paréntesis y *me*, *te*, *se*... en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Tienes que (cortar) _____ el pelo, Mario. Lo tienes muy largo.",
+          "solucion_correcta": [
+            "cortarte"
+          ]
+        },
+        {
+          "texto_enunciado": "Algunos cantantes (enloquecen) _____ a los jóvenes.",
+          "solucion_correcta": [
+            "enloquecen"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando Ramón (enfada) _____, (convierte) _____ en otra persona.",
+          "solucion_correcta": [
+            "se enfada",
+            "se convierte"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo que (cortar) _____ las ramas a este árbol.",
+          "solucion_correcta": [
+            "cortar"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿A qué hora (levantas) _____ entre semana? -Yo (levanto) _____ a las siete y luego (levanto) _____ a los niños a las ocho.",
+          "solucion_correcta": [
+            "te levantas",
+            "me levanto",
+            "levanto"
+          ]
+        },
+        {
+          "texto_enunciado": "Las flores (alegran) _____ mucho una casa.",
+          "solucion_correcta": [
+            "alegran"
+          ]
+        },
+        {
+          "texto_enunciado": "No (preocupes) _____. Ya he reservado los billetes por internet.",
+          "solucion_correcta": [
+            "te preocupes"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo prisa. Hoy no me va a dar tiempo a (maquillar) _____.",
+          "solucion_correcta": [
+            "maquillarme"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "18.3",
+      "tipologia": "T4",
+      "enunciado": "Complete con la forma entre paréntesis y *me*, *te*, *se*... en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Si quieres, (come) _____ la tarta. Yo ya no quiero más.",
+          "solucion_correcta": [
+            "cómete"
+          ]
+        },
+        {
+          "texto_enunciado": "-¡Limonada! -(Bebe) _____ si tienes sed. Hay mucha.",
+          "solucion_correcta": [
+            "Bebe"
+          ]
+        },
+        {
+          "texto_enunciado": "Si tienes hambre, (come) _____.",
+          "solucion_correcta": [
+            "come"
+          ]
+        },
+        {
+          "texto_enunciado": "No (quejes) _____, Rocío. Yo trabajo más que tú.",
+          "solucion_correcta": [
+            "te quejes"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Sabes) _____ la lección, Armando?",
+          "solucion_correcta": [
+            "Te sabes"
+          ]
+        },
+        {
+          "texto_enunciado": "No tienes que (arrepentir) _____ de nada. Tú no tienes la culpa.",
+          "solucion_correcta": [
+            "arrepentirte"
+          ]
+        },
+        {
+          "texto_enunciado": "No dejes nada. (Toma) _____ toda la sopa, por favor.",
+          "solucion_correcta": [
+            "Tómate"
+          ]
+        },
+        {
+          "texto_enunciado": "No (creo) _____ ni la mitad de lo que dices.",
+          "solucion_correcta": [
+            "te creo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Habéis comido) _____ toda la fabada?",
+          "solucion_correcta": [
+            "Os habéis comido"
+          ]
+        },
+        {
+          "texto_enunciado": "Sofía (gasta) _____ cien euros en una blusa.",
+          "solucion_correcta": [
+            "se gasta"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "18.4",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Se ve que son madre e hija. (Parecen/Se parecen) mucho.",
+          "solucion_correcta": [
+            "Se parecen"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Acuerdas/Te acuerdas) de cuándo estuvimos en Manila?",
+          "solucion_correcta": [
+            "Te acuerdas"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes que (llamar/llamarte) a Lydia.",
+          "solucion_correcta": [
+            "llamar"
+          ]
+        },
+        {
+          "texto_enunciado": "(Hemos acordado/Nos hemos acordado) cerrar los sábados.",
+          "solucion_correcta": [
+            "Hemos acordado"
+          ]
+        },
+        {
+          "texto_enunciado": "¿A qué hora (sale/se sale) tu avión?",
+          "solucion_correcta": [
+            "sale"
+          ]
+        },
+        {
+          "texto_enunciado": "No (bajes/te bajes) películas de internet. Es ilegal.",
+          "solucion_correcta": [
+            "te bajes"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi pueblo (encuentra/se encuentra) en lo alto de una colina.",
+          "solucion_correcta": [
+            "se encuentra"
+          ]
+        },
+        {
+          "texto_enunciado": "(Salimos/Nos salimos) de la película a la mitad. Era terrible.",
+          "solucion_correcta": [
+            "Nos salimos"
+          ]
+        },
+        {
+          "texto_enunciado": "(Marcha/Márchate) ya si quieres llegar a tiempo a la estación.",
+          "solucion_correcta": [
+            "Márchate"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién (ha llevado/se ha llevado) mi paraguas?",
+          "solucion_correcta": [
+            "se ha llevado"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "75.1",
+      "tipologia": "T9",
+      "tipologia_libre": null,
+      "enunciado": "Ordene las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Quieren que arreglemos la casa (ellos / regresar / antes de) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Gracias (haberme denunciado / no / por) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eso lo hago yo (esforzarme / sin) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te vayas a casa (hasta / haber terminado / no) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me fui (Roberto / después de / haber llamado) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No os vayáis (los profesores / saberlo / sin) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "75.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la preposición adecuada y el infinitivo simple o compuesto, afirmativa o negativa, de los verbos del recuadro.",
+      "banco_palabras": [
+        "avisar",
+        "conseguir",
+        "enfadarse",
+        "invertir",
+        "pasar",
+        "quedarse",
+        "resfriarse",
+        "salir (2)",
+        "ver",
+        "volver"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "¡Pobre Enrique! Tiene mucho miedo _____ solo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenemos muchas ganas _____ con vosotros. A ver cuándo quedamos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ten cuidado _____. Hace mucho frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tienes que hacer un esfuerzo _____ con Marta. Es siempre muy amable.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me gusta mucho la idea _____ en pisos. Es muy arriesgada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo te conozco. Tengo la sensación _____ en alguna parte.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He venido sólo por el placer _____ un rato con vosotros. No me encontraba bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo mucho interés _____ entradas para este concierto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me dan ganas _____ a verte, pero me aguanto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenías la obligación _____, pero no lo hiciste.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luis me ha dicho que no tiene confianza _____ pronto de la cárcel.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "75.3",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la preposición adecuada y el infinitivo de los verbos del recuadro.",
+      "banco_palabras": [
+        "arreglar",
+        "comprar",
+        "creer",
+        "decir",
+        "dirigir",
+        "hacer",
+        "irse",
+        "sacar",
+        "separarse",
+        "tener"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Estamos cansados _____ que hay que arreglar el edificio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo que dices es difícil _____. Parece increíble.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rosa está decidida _____ de Agustín.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eso es fácil _____. Solo hay que cambiar una pieza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luisa está loca _____ al campo. No aguanta vivir en una ciudad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que Isabel no está preparada _____ la obra.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Conoces a alguien interesado _____ terrenos rústicos?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucía está resuelta _____ un diez en Lengua.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luisa no es capaz _____ nada por nadie.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cecilia está empeñada _____ su propio negocio.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "75.4",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con *al* o *de*.",
+      "items": [
+        {
+          "texto_enunciado": "Ten cuidado <u>cuando cruces la calle</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si hubiera tenido dinero</u>, te lo habría dejado. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si vamos a algún sitio</u> es a Toledo. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me llamó <u>cuando lo supo</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Cuando vi el paraguas</u>, me di cuenta de que no era el mío _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si puedo salir</u>, saldría el sábado. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si hubiera tenido tiempo</u>, te habría ayudado. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ten cuidado <u>cuando cortes el jamón</u>. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 75,
+  "titulo_libro": "sin querer, difícil de creer -- El infinitivo con preposiciones",
+  "scan": "p-157.jpg"
+}

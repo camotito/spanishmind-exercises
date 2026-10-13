@@ -1,0 +1,246 @@
+{
+  "tema": "unidad-83",
+  "titulo": "la fruta que compré, lo que yo quiero",
+  "descripcion_gramatical": "Oraciones de relativo especificativas",
+  "fuente": "libro",
+  "unidad_libro": 83,
+  "ejercicios": [
+    {
+      "subejercicio": "83.1",
+      "tipologia": "T10",
+      "enunciado": "Complete las frases con la información entre paréntesis. Use los relativos adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "Esta es la calle. (Van a hacer obras.) _____",
+          "solucion_correcta": [
+            "Esta es la calle en la que / donde van a hacer obras"
+          ]
+        },
+        {
+          "texto_enunciado": "He hablado con la señora. (Su marido es capitán del Ejército.) _____",
+          "solucion_correcta": [
+            "He hablado con la señora cuyo marido es capitán del Ejército"
+          ]
+        },
+        {
+          "texto_enunciado": "Es aquí. (Encontré los documentos.) _____",
+          "solucion_correcta": [
+            "Es aquí donde encontré los documentos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde está la postal? (La ha enviado Gema.) _____",
+          "solucion_correcta": [
+            "¿Dónde está la postal que ha enviado Gema?"
+          ]
+        },
+        {
+          "texto_enunciado": "(Yo quiero algo.) No es eso. _____",
+          "solucion_correcta": [
+            "No es eso lo que yo quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "Me vieron con Sandra. (Estábamos desayunando en un café.) _____",
+          "solucion_correcta": [
+            "Me vieron con Sandra cuando estábamos desayunando en un café"
+          ]
+        },
+        {
+          "texto_enunciado": "Conozco a los alumnos. (Sus padres vienen siempre de excursión.) _____",
+          "solucion_correcta": [
+            "Conozco a los alumnos cuyos padres vienen siempre de excursión"
+          ]
+        },
+        {
+          "texto_enunciado": "Compraremos un regalo. (Los venden en tiendas de artesanía.) _____",
+          "solucion_correcta": [
+            "Compraremos un regalo de los que venden en las tiendas de artesanía"
+          ]
+        },
+        {
+          "texto_enunciado": "(Me pongo malo.) Es en invierno. _____",
+          "solucion_correcta": [
+            "Es en invierno cuando me pongo malo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Recuerdas el verano del 2005? (Fuimos a Japón.) _____",
+          "solucion_correcta": [
+            "¿Recuerdas el verano de 2005 cuando fuimos a Japón?"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "83.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con *quien*, *como*, *donde* y *cuando*.",
+      "items": [
+        {
+          "texto_enunciado": "No sé quién hizo eso. No sabía nada de pintura. _____",
+          "solucion_correcta": [
+            "Quien hizo eso no sabía nada de pintura"
+          ]
+        },
+        {
+          "texto_enunciado": "Del modo en que tú cocinas, cocina cualquiera. _____",
+          "solucion_correcta": [
+            "Como tú cocinas cocina cualquiera"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé quién dejó la jaula abierta. No vio que ahí estaba el canario. _____",
+          "solucion_correcta": [
+            "Quien dejó la jaula abierta no vio que ahí estaba el canario"
+          ]
+        },
+        {
+          "texto_enunciado": "No sabía dónde trabajabas. Ganabas poco. _____",
+          "solucion_correcta": [
+            "Donde trabajabas ganabas poco"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé quién toca así. No sabe de música. _____",
+          "solucion_correcta": [
+            "Quien toca así no sabe de música"
+          ]
+        },
+        {
+          "texto_enunciado": "No conozco a quién escribió eso. No sabía nada de español. _____",
+          "solucion_correcta": [
+            "Quien escribió eso no sabía nada de español"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucio trabaja en una empresa. Hay muchos trabajadores de fuera. _____",
+          "solucion_correcta": [
+            "Donde trabaja Lucio hay muchos trabajadores de fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre que llueve tenemos goteras. _____",
+          "solucion_correcta": [
+            "Cuando llueve, tenemos goteras"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "83.3",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo un robot de cocina que (hace/haga) de todo.",
+          "solucion_correcta": [
+            "hace"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesito un piso que (tiene/tenga) garaje.",
+          "solucion_correcta": [
+            "tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy buscando una empresa en la que (pagan/paguen) bien.",
+          "solucion_correcta": [
+            "paguen"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué vais siempre dónde ella (quiere/quiera)?",
+          "solucion_correcta": [
+            "quiere"
+          ]
+        },
+        {
+          "texto_enunciado": "Conozco un restaurante donde (preparan/preparen) el bacalao de maravilla.",
+          "solucion_correcta": [
+            "preparan"
+          ]
+        },
+        {
+          "texto_enunciado": "Los que (llegan/lleguen) tarde son siempre los mismos.",
+          "solucion_correcta": [
+            "llegan"
+          ]
+        },
+        {
+          "texto_enunciado": "Los que (llegan/lleguen) tarde tendrán que quedarse al final de la jornada.",
+          "solucion_correcta": [
+            "lleguen"
+          ]
+        },
+        {
+          "texto_enunciado": "Este ejercicio tienes que hacerlo como te (indica/indique) la profesora.",
+          "solucion_correcta": [
+            "indique"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cómo hago esto? -Hazlo como (indican/indiquen) las instrucciones.",
+          "solucion_correcta": [
+            "indican"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento, pero no hay quien se (cree/crea) esa explicación.",
+          "solucion_correcta": [
+            "crea"
+          ]
+        },
+        {
+          "texto_enunciado": "Son muy pocos los que te (creen/crean).",
+          "solucion_correcta": [
+            "creen"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Conoces a alguien que (enseña/enseñe) chino?",
+          "solucion_correcta": [
+            "enseñe"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. Lo haremos cuando tú (dices/digas).",
+          "solucion_correcta": [
+            "digas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quiénes son los que (quieren/quieran) clases extras?",
+          "solucion_correcta": [
+            "quieren"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay una reunión el lunes para los que (quieren/quieran) clases extras.",
+          "solucion_correcta": [
+            "quieran"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gustaría encontrar un libro que (explica/explique) bien el subjuntivo.",
+          "solucion_correcta": [
+            "explique"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo un profesor que (explica/explique) de maravilla.",
+          "solucion_correcta": [
+            "explica"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay muy pocos extranjeros que (hablan/hablen) chino bien.",
+          "solucion_correcta": [
+            "hablen"
+          ]
+        }
+      ]
+    }
+  ]
+}

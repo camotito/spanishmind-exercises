@@ -1,0 +1,191 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "3.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete el texto con *un*, *una*, *unos*, *unas* o *el*, *la*, *los*, *las*.",
+      "items": [
+        {
+          "texto_enunciado": "En la habitación hay solo (1) _____ pequeño cuadro, (2) _____ retrato realista de (3) _____ chico en (4) _____ playa desierta. (5) _____ chico lleva (6) _____ sombrero y está sentado en (7) _____ silla de lona. Tiene (8) _____ codo apoyado en uno de (9) _____ brazos de (10) _____ silla. A su lado hay (11) _____ perro y al fondo se ve (12) _____ mar. (13) _____ chico podría ser (14) _____ hijo de (15) _____ dueños de (16) _____ hotel.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "3.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *un*, *una*, *unos*, *unas* o *el*, *la*, *los*, *las*.",
+      "items": [
+        {
+          "texto_enunciado": "¿Has estado en _____ islas del Egeo?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La granada es _____ fruta muy dulce.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vivo en _____ edificio de 30 pisos. _____ ascensor tarda 1 minuto en llegar arriba.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mis hijos siempre cogen _____ autobús de las siete.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ha venido _____ matrimonio a ver a _____ director. _____ mujer parecía nerviosa. _____ hombre parecía preocupado.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "3.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *el*, *la*, *los*, *las* solo en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Colecciono _____ plumas de escribir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me tienes que devolver _____ pluma que te dejé.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gusta tomar _____ vino con las comidas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuidado. No pises _____ plantas de la terraza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Cuidado! Te vas a manchar _____ chaqueta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mira a ver si queda _____ leche en la nevera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El fontanero nos ha cambiado _____ grifos del aseo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy vamos a comer _____ verduras a la plancha.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa panadería también vende _____ pasteles.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que poner _____ plantas en el jardín.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "3.4",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "El Gobierno ha nombrado a Salinas (un/ø) embajador en Honduras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me van a hacer (un/ø) ayudante de departamento.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ha visto (al/a) director. Quiere hablar con nosotros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Puede que elijan a Martín (el/ø) jefe de ventas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿A quién van a designar (el/ø) candidato?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llama (al/a) cónsul y pregúntale si necesitas visado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Han declarado a Bolt (el/ø) mejor atleta del año.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han nombrado (el/ø) presidente de la comunidad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quieren hacerme (el/ø) capitán del equipo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Han designado a París (la/ø) ciudad candidata a sede olímpica.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "3.5",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases *el*, *la*, *los*, *las* solo en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Prefiero venir en _____ avión. Es más rápido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que hay una avería en _____ avión. Espero que no sea nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Cuándo sale Luis de _____ cárcel?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Voy a _____ clases de español dos días a la semana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ve a _____ panadería y trae dos barras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Vaya! Está lloviendo y me he dejado el paraguas en _____ casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo que ir a _____ peluquería.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No pongas los pies en _____ mesa, por favor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El médico dice que tengo que estar tres días en _____ cama.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Se puede llegar al lago en _____ bici?",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 3,
+  "titulo_libro": "El Presidente está preocupado. La han hecho directora. -- Artículos: uso y omisión",
+  "scan": "p-014.jpg"
+}

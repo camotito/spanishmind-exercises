@@ -1,0 +1,193 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "76.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Siempre he soñado (con/de) ser astronauta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si tienes algún problema, no dudes (de/en) consultarme.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jorge está aprendiendo (a/para) pilotar aviones ligeros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Confío (de/en) poder veros pronto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué te empeñas (en/por) llevarme la contraria?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raúl no se acordó (de/en) devolverme el cedé.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me acusan (con/de) haberme quedado con dinero de la empresa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me niego (a/por) escuchar más tonterías.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "76.2",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la preposición correcta y un verbo del recuadro en infinitivo simple o compuesto, afirmativo o negativo.",
+      "banco_palabras": [
+        "aparcar",
+        "decir",
+        "detener",
+        "obedecer",
+        "poder",
+        "renovar",
+        "saber",
+        "ver"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Mario es muy rebelde. Se niega _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿De qué te acusan? - _____ en doble fila.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Don Gregorio nos ha amenazado _____ el contrato.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La verdad es que no me acuerdo _____ esta película antes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay que luchar _____ el deterioro ambiental.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nunca te molestas _____ qué queremos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me alegro _____ venir. No creía que pudiera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos hemos comprometido _____ nada a nadie.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "76.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "A veces me sorprendo (de ser/que sea) tan ingenuo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tienes que encargarte de (organizar tú/que organices) el curso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué te sorprendes de (Luis aprobar/que Luis haya aprobado)? Estudia mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes por la reunión. Yo me encargaré de (salir/que salga) bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si necesitáis algo, no dudéis en (llamarme/que me llaméis), Maribel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esos chicos se niegan a (obedecer/que obedezcan) a sus profesores.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Otra vez está esta tienda cerrada. Nunca me acuerdo de (cerrar/que cierra) los domingos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me defraudes, Joaquín. Confío en (terminar/que termines) el proyecto para junio.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "76.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la preposición y el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Rosa insistió (nosotros, ir) _____ a la playa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La verdad es que me sorprendió (tú, defender) _____ a Ana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tenemos que habituarnos (nosotros, vivir) _____ con menos medios.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando María supo la noticia corrió (ella, llamar) _____ a su marido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me alegra saber que hemos contribuido (haber) _____ paz en el mundo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre me preocupé (vosotros, tener) _____ todo lo que necesitabais.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me canso (tú, cometer) _____ siempre los mismos errores.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Leo se empeña (nosotros, alquilar) _____ una casa rural.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me sorprende (Lucía, dejar) _____ a su marido. Era muy desagradable.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi primo Mateo se dedica (entrenar) _____ perros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre me olvido de (vosotros, no tener) _____ coche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te acuerdas de (nosotros, tener) _____ una reunión a las ocho?",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 76,
+  "titulo_libro": "Se niega a obedecer. Se sorprendió de que hablase español. -- Verbos con preposición seguidos de infinitivo o subjuntivo",
+  "scan": "p-159.jpg"
+}

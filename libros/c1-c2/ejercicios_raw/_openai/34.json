@@ -1,0 +1,126 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "34.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete el texto sobre Cristóbal Colón con los verbos del recuadro en presente de indicativo.",
+      "banco_palabras": [
+        "comenzar",
+        "desembarcar",
+        "hacer",
+        "llegar",
+        "morir",
+        "nacer",
+        "organizar",
+        "pensar",
+        "sentir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Cristóbal Colón _____ en Génova en 1451. Ya desde joven _____ afición por la vida marina. En Portugal _____ en buscar una ruta marítima hacia China e India, y _____ su primera travesía con el respaldo de Isabel de Castilla. En 1492 _____ a América con tres carabelas y _____ en la isla de San Salvador. Posteriormente, Colón _____ tres viajes más a América. Durante su segundo viaje, _____ la exploración de América. _____ en Valladolid en 1508.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "34.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir este texto con el presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "En 1976 se celebró en España un referéndum a favor de la reforma política y en 1977 se llevaron a cabo elecciones generales, que dieron la victoria a la UCD, que consiguió un 31% de los votos. En 1978 se aprobó una nueva Constitución, que permitió iniciar todas las reformas de la España actual. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "34.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Relate la siguiente narración con el presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "Oíd lo que me pasó el otro día. Estaba yo solo en casa cuando sonó el teléfono. Lo cogí y una voz de hombre me preguntó si yo era familia de un famoso deportista. Le dije que si sabía qué hora era. Pero él volvió a hacerme la pregunta. No le contesté, colgué y desenchufé el teléfono. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "34.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Convierta estas noticias en titulares de prensa.",
+      "items": [
+        {
+          "texto_enunciado": "Ha muerto un premio nobel. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El Partido Centrista ha ganado las elecciones. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Unos piratas han raptado a dos periodistas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Talibanes han atacado la base española. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El Discovery ha vuelto a la Tierra sin problemas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Grupos gais han exigido un avance en sus derechos. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "34.5",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos del recuadro.",
+      "banco_palabras": [
+        "darse",
+        "estrellarse",
+        "matarse",
+        "morder",
+        "romperse",
+        "sacarse"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Giró el volante y casi _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me di con una rama y por poco _____ un ojo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se cayó del caballo y casi _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tropecé, caí al suelo y casi _____ la nariz.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando iba en bici por el parque, por poco me _____ un perro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ten cuidado. Por poco _____ contra la farola.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 34,
+  "titulo_libro": "Recibe el Premio Nobel en 1971. -- Presente de indicativo para pasado",
+  "scan": "p-075.jpg"
+}

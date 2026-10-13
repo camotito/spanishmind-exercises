@@ -1,0 +1,237 @@
+{
+  "tema": "unidad-65",
+  "titulo": "¡Ojalá hayan regresado!",
+  "descripcion_gramatical": "Pretérito perfecto de subjuntivo (1)",
+  "fuente": "libro",
+  "unidad_libro": 65,
+  "ejercicios": [
+    {
+      "subejercicio": "65.1",
+      "tipologia": "T12",
+      "enunciado": "Exprese deseos con exclamaciones con *¡ojalá!* y las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Ha habido un incendio en mi casa. (pasar nada a mi mujer) _____",
+          "solucion_correcta": [
+            "¡Ojalá no le haya pasado nada a mi mujer!"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer fue el sorteo de la lotería. (tocarme) _____",
+          "solucion_correcta": [
+            "¡Ojalá me haya tocado la lotería!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy sabe las notas Mario. (aprobar) _____",
+          "solucion_correcta": [
+            "¡Ojalá haya aprobado!"
+          ]
+        },
+        {
+          "texto_enunciado": "Queremos comprar un piso que hemos visto. (no venderlo todavía) _____",
+          "solucion_correcta": [
+            "¡Ojalá no lo hayan vendido todavía!"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto se ha pinchado con un clavo. (no infectarse) _____",
+          "solucion_correcta": [
+            "¡Ojalá no se haya infectado!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he presentado a un concurso de canto. (seleccionarme) _____",
+          "solucion_correcta": [
+            "¡Ojalá me hayan seleccionado!"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis padres por fin han vendido el piso. (venderlo bien) _____",
+          "solucion_correcta": [
+            "¡Ojalá lo hayan vendido bien!"
+          ]
+        },
+        {
+          "texto_enunciado": "Casto ya se ha operado de cataratas. (salir bien la operación) _____",
+          "solucion_correcta": [
+            "¡Ojalá haya salido bien la operación!"
+          ]
+        },
+        {
+          "texto_enunciado": "Es raro. Mi cuñado todavía no ha llamado. (no tener ninguna avería en el coche) _____",
+          "solucion_correcta": [
+            "¡Ojalá no haya tenido ninguna avería en el coche!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay mucha cola para el concierto de Springsteen. (René, reservar entradas) _____",
+          "solucion_correcta": [
+            "¡Ojalá René haya reservado entradas!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "65.2",
+      "tipologia": "T12",
+      "enunciado": "¿Qué diría? Exprese deseos con exclamaciones con *¡que!* o *¡así!*",
+      "items": [
+        {
+          "texto_enunciado": "-Han operado a Pablo. -(ir todo bien)) _____",
+          "solucion_correcta": [
+            "¡Que haya ido todo bien!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Anoche se perdió un niño en la sierra -(encontrarlo ya) ) _____",
+          "solucion_correcta": [
+            "¡Que lo hayan encontrado ya!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Han detenido a mucha gente en la manifestación. -(no detener a Conchi)) _____",
+          "solucion_correcta": [
+            "¡Que no hayan detenido a Conchi!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Mi jefe no vino ayer porque tuvo que ir al dentista. -(sacarle todos los dientes)) _____",
+          "solucion_correcta": [
+            "¡Así le hayan sacado todos los dientes!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Han despedido a mucha gente en la empresa. -(no despedir a Pablo)) _____",
+          "solucion_correcta": [
+            "¡Que no hayan despedido a Pablo!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Han entrado ladrones en casa de Tomás. -(no hacerle nada)) _____",
+          "solucion_correcta": [
+            "¡Que no le hayan hecho nada!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ha salido la lista de los seleccionados para las becas. -(concedérsela a Miguel) _____",
+          "solucion_correcta": [
+            "¡Que se la hayan concedido a Miguel!"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ha habido un accidente muy grave en una mina. -(no haber víctimas)) _____",
+          "solucion_correcta": [
+            "¡Que no haya habido víctimas!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "65.3",
+      "tipologia": "T10",
+      "enunciado": "Exprese los sentimientos indicados sobre las situaciones siguientes con exclamaciones con *¡qué!*",
+      "items": [
+        {
+          "texto_enunciado": "Los Serrano no han tenido hijos. Es una pena. _____",
+          "solucion_correcta": [
+            "¡Qué pena que los Serrano no hayan tenido hijos!"
+          ]
+        },
+        {
+          "texto_enunciado": "Jesús no ha trabajado nunca. Es una vergüenza. _____",
+          "solucion_correcta": [
+            "¡Qué vergüenza que Jesús no haya trabajado nunca!"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han devuelto una carta a unos amigos. Es raro. _____",
+          "solucion_correcta": [
+            "¡Qué raro que me hayan devuelto una carta a unos amigos!"
+          ]
+        },
+        {
+          "texto_enunciado": "Carmen no ha oído hablar de Madonna. Es extraño. _____",
+          "solucion_correcta": [
+            "¡Qué extraño que Carmen no haya oído hablar de Madonna!"
+          ]
+        },
+        {
+          "texto_enunciado": "No hemos logrado sacar entradas para el concierto. Mala suerte. _____",
+          "solucion_correcta": [
+            "¡Qué mala suerte que no hayamos logrado sacar entradas para el concierto!"
+          ]
+        },
+        {
+          "texto_enunciado": "Has vendido todos los cuadros. Es una maravilla. _____",
+          "solucion_correcta": [
+            "¡Qué maravilla que hayas vendido todos los cuadros!"
+          ]
+        },
+        {
+          "texto_enunciado": "Yuri no ha visto nunca una jirafa. Es curioso. _____",
+          "solucion_correcta": [
+            "¡Qué curioso que Yuri no haya visto nunca una jirafa!"
+          ]
+        },
+        {
+          "texto_enunciado": "No nos han ingresado la nómina todavía. Es un fastidio. _____",
+          "solucion_correcta": [
+            "¡Qué fastidio que no nos hayan ingresado la nómina todavía!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "65.4",
+      "tipologia": "T8",
+      "enunciado": "Complete con los verbos adecuados en imperativo.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Quién ha pintado la habitación? Está preciosa. -Posiblemente la _____ Daniel. Se le da muy bien.",
+          "solucion_correcta": [
+            "haya pintado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Luis y Pili no están en casa. -Probablemente _____. Los miércoles van siempre al cine.",
+          "solucion_correcta": [
+            "hayan salido"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Para qué le ha llamado el director a Luisa? -No estoy segura. Probablemente la _____ por algún asunto urgente.",
+          "solucion_correcta": [
+            "haya llamado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Ramón y María no cogen el teléfono. -Posiblemente _____ que ir a Valdepeñas.",
+          "solucion_correcta": [
+            "hayan tenido"
+          ]
+        },
+        {
+          "texto_enunciado": "-No contestan. -Quizá _____ el horario de oficinas.",
+          "solucion_correcta": [
+            "hayan cambiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge está preocupado. Tal vez _____ una mala noticia.",
+          "solucion_correcta": [
+            "haya recibido"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "cambiar",
+        "llamar",
+        "pintar",
+        "recibir",
+        "salir",
+        "tener"
+      ]
+    }
+  ]
+}

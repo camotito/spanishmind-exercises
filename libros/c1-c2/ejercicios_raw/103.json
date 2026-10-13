@@ -1,0 +1,212 @@
+{
+ "ejercicios": [
+  {
+   "subejercicio": "103.1",
+   "tipologia": "T3",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *tanto/a/os/as*, *más*, *menos* y *como*, *que*, *de*, *el/la/los/las que*, *lo que*, *lo*.",
+   "items": [
+    {
+     "texto_enunciado": "Raúl tiene _____ amigos _____ yo enemigos.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Sheila es muy buena estudiante. Tiene _____ interés _____ normal.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No hagas _____ comida _____ ayer. Hoy somos menos.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Hoy no te puedo ayudar. Tengo _____ trabajo _____ ayer.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Hoy ha venido _____ gente _____ esperaba.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Creo que ha habido _____ heridos _____ ha dicho la prensa.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El problema era que yo tenía _____ dinero _____ me hacía falta.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Esa chica tenía _____ ambición _____ ganas de trabajar.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Creo que esta guía está incompleta. Tiene _____ páginas _____ tú tienes.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "María no tiene _____ años _____ tú.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Leonor ha donado _____ dinero _____ prometido.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Creo que no has andado _____ kilómetros _____ dijiste.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Esta memoria tiene _____ gigas _____ me gusta a mí.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¡Cómo está la playa! Hay mucha _____ gente _____ habitual.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¿Has sacado tú algo? Hay _____ dinero en la cuenta _____ había ayer.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "103.2",
+   "tipologia": "T10",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases con una estructura comparativa.",
+   "items": [
+    {
+     "texto_enunciado": "Sebastián y Marta tienen los mismos años. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No había mucha gente. Yo esperaba más. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Nos ofrecieron muchos vuelos, pero anunciaban más. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Mi tía tenía 60 años, pero aparentaba 40. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Beatriz tiene muchos amigos. Yo tengo muchos enemigos. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Hago muchas horas en la empresa. Los demás no hacen tantas. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Tú tienes muchas preguntas. Yo no tengo tantas respuestas. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Nos han dado una semana de vacaciones. Decían que nos iban a dar más. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Actualmente hay mucha gente en este pueblo. Hace 25 años había menos. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Se han matriculado muchos alumnos. Son más de lo esperado. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Quieren plantar muchos árboles en esta ladera. No caben tantos. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Este verano ha habido pocos incendios. El verano pasado hubo más. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Yo he visitado muchos países. Tú no has visitado tantas ciudades. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "103.3",
+   "tipologia": "T8",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *tanto/a/os/as*, *más*, *menos*.",
+   "items": [
+    {
+     "texto_enunciado": "–Tengo que perder algunos kilos. –Sí, pero yo tengo que perder _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "–Hoy no hay mucha gente en la playa. –Pues yo creo que hay _____ como ayer.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "–Silvia ha invitado a 200 personas a su boda. –¡Qué barbaridad! Yo no invité a _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "–¿Cojo esta bolsa de patatas de 5 kilos? –No, no necesitamos _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "–Me piden 50 yuanes por este bolso. –Es mucho. Ofrece _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "–El mes pasado hubo 310 accidentes de carretera. –Este mes no ha habido _____ , 285.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "–Messi ha marcado 60 goles. –Eso no es nada. Raúl ha marcado muchos _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "–Podemos recorrer 25 kilómetros al día. –Nosotros recorremos _____ , unos 20.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "103.4",
+   "tipologia": "T12",
+   "tipologia_libre": "Construcción de oraciones correlativas proporcionales con 'cuanto/a/os/as' a partir de estímulos léxicos entre paréntesis separados por barras oblicuas.",
+   "enunciado": "Escriba frases con *cuanto/a/os/as* con las palabras dadas entre paréntesis.",
+   "items": [
+    {
+     "texto_enunciado": "Hay que hacer algo. (más problemas, haber / peor, ser, la solución) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Tú verás, pero (menos horas, tú, trabajar / menos, tú, ganar) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Alberto es muy egoísta. (más regalos, yo, hacerle / más regalos, él, querer) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Es horrible. (más calor, hacer / más agua, yo, beber) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Algunas personas (más dinero, tener / más tacañas, ser) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "(menos gente, venir / menos sillas, nosotros, necesitar) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No te preocupes. (menos comida, tú, preparar / menos, nosotros, comer) _____",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Construcción de oraciones correlativas proporcionales con 'cuanto/a/os/as' a partir de estímulos léxicos entre paréntesis separados por barras oblicuas."
+  }
+ ],
+ "unidad": 103,
+ "titulo_libro": "más años que Matusalén, menos frío de lo que pensaba -- Oraciones comparativas (2)",
+ "scan": "p-213.jpg"
+}

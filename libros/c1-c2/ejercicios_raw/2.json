@@ -1,0 +1,215 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "2.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba el plural de las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "¿Cuántas (o) _____ hay en cocodrilo?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En la votación de la ley hubo más (sí) _____ que (no) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay tres (hombre rana) _____ buscando el tesoro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunos (carácter) _____ chinos son muy complicados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Clara ya ha probado varios (régimen) _____ alimenticios",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En el concurso de televisión sacaron a dos (niña prodigio) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunas sociedades tienen muchos (tabú) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este gobierno ya ha superado varias (crisis) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "2.2",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Los (hippis/hippies) eran pacíficos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo que lavar los (jerseys/jerséis) antes de guardarlos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ten cuidado. Ya llevas tres (whiskys/whiskyes).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hoy nos han pitado tres (penaltys/penaltis).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los (espráis/esprayes) no son buenos para el pelo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los (samurayes/samuráis) eran guerreros japoneses.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunos (paparazi/paparazis) acosan a los famosos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los (ponies/ponis) son una raza de caballos enanos.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "2.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba el plural de las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Miguel tiene la pared de su cuarto llena de (póster) _____ .",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunos (líder) _____ políticos dan más de cien (mitin) _____ al año.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ronaldo es un especialista en sacar (córner) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El coche de Alonso se averió y tuvo que entrar en (box) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En Roma nos compramos algunos (pin) _____ con el Coliseo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los alumnos de ese colegio llevan (chándal) _____ verdes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Han comprado varios (escáner) _____ nuevos para la oficina.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi nueva cámara tiene doce (megapíxel) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La mayoría de los (best-seller) _____ tienen poca calidad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunos actores tienen varios (óscar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me gusta tomar (cruasán) _____ para desayunar.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "2.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Escriba el plural de las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Cada vez se fabrican (chip) _____ más potentes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ramón tiene todos los (álbum) _____ de los Beatles.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunos animales pueden adaptarse a diversos (hábitat) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta mañana he desayunado dos (sandwich) _____ de pavo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había muchos (pub) _____ junto al cine.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Te gustan los (cómic) _____ de Marvel?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A mis hijos les encantan los (bistec) _____ empanados.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te será difícil hacer dos (máster) _____ al mismo tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En ese país ya ha habido varios (complot) _____ para derrocar al Presidente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Voy ganando tres (set) _____ a uno.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los (ballet) _____ rusos tienen gran fama.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Este coche es fantástico. Tiene siete (airbag) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Muchos países padecen serios (déficit) _____ en educación y cultura.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En esta urbanización hay más de treinta (chalet) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hemos pasado las vacaciones de verano durmiendo siempre en (camping) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me ponen nervioso las personas con (tic) _____ nerviosos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He escrito varios (sketch) _____ para televisión.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 2,
+  "titulo_libro": "carnés, líderes, airbags -- Singular / plural",
+  "scan": "p-012.jpg"
+}

@@ -1,0 +1,291 @@
+{
+  "tema": "unidad-86",
+  "titulo": "cuando llueve, en cuanto oye el timbre",
+  "descripcion_gramatical": "Oraciones temporales (2)",
+  "fuente": "libro",
+  "unidad_libro": 86,
+  "ejercicios": [
+    {
+      "subejercicio": "86.1",
+      "tipologia": "T5",
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Se puso bien en cuanto la (operaron/operaran).",
+          "solucion_correcta": [
+            "operaron"
+          ]
+        },
+        {
+          "texto_enunciado": "Ven a verme cuando (quieres/quieras).",
+          "solucion_correcta": [
+            "quieras"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre que (fumo/fume), toso.",
+          "solucion_correcta": [
+            "fumo"
+          ]
+        },
+        {
+          "texto_enunciado": "En el momento en que la (vi/vea), supe que era ella.",
+          "solucion_correcta": [
+            "vi"
+          ]
+        },
+        {
+          "texto_enunciado": "Son unos maleducados. Apenas nos (ven/vean), se van por otro sitio.",
+          "solucion_correcta": [
+            "ven"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (ves/veas) a Marta, dile que quiero hablar con ella.",
+          "solucion_correcta": [
+            "veas"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre que (salgan/salen) juntos, van cogidos de la mano.",
+          "solucion_correcta": [
+            "salen"
+          ]
+        },
+        {
+          "texto_enunciado": "En cuanto (sé/sepa) lo de Carlos, te llamo.",
+          "solucion_correcta": [
+            "sepa"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.2",
+      "tipologia": "T4",
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando (yo, ver) _____ la película, te diré si me ha gustado.",
+          "solucion_correcta": [
+            "vea"
+          ]
+        },
+        {
+          "texto_enunciado": "Eres un gafe. Siempre que (tú, cantar) _____, llueve.",
+          "solucion_correcta": [
+            "cantas"
+          ]
+        },
+        {
+          "texto_enunciado": "Apenas (yo, llegar) _____ a casa, te llamo.",
+          "solucion_correcta": [
+            "llegue"
+          ]
+        },
+        {
+          "texto_enunciado": "En cuanto (vosotros, oír) _____ la alarma, dejáis todo y salís del edificio.",
+          "solucion_correcta": [
+            "oigáis"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando (tú, querer) _____ que te ayude, me lo dices.",
+          "solucion_correcta": [
+            "quieras"
+          ]
+        },
+        {
+          "texto_enunciado": "Este perro siempre ladra cuando (oír) _____ el timbre de la puerta.",
+          "solucion_correcta": [
+            "oye"
+          ]
+        },
+        {
+          "texto_enunciado": "Debes cambiar los grifos tan pronto como (tú, poder) _____.",
+          "solucion_correcta": [
+            "puedas"
+          ]
+        },
+        {
+          "texto_enunciado": "Saldremos para Granada apenas (amanecer) _____.",
+          "solucion_correcta": [
+            "amanezca"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas con *cuando* + nombre.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Cuando operaron a su padre</u>. _____, estuvo muy nerviosa.",
+          "solucion_correcta": [
+            "Cuando la operación de su padre"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Cuando murió su gata</u>. _____, Mercedes lloró mucho.",
+          "solucion_correcta": [
+            "Cuando la muerte de su gata"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Cuando inauguraron el teatro</u>. _____, ya había goteras.",
+          "solucion_correcta": [
+            "Cuando la inauguración del teatro"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Cuando Martín tuvo el accidente</u>. _____ Adela adelgazó mucho.",
+          "solucion_correcta": [
+            "Cuando el accidente de Martín"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Cuando se incendiaron los bosques de Australia</u>. _____ estábamos en Sidney.",
+          "solucion_correcta": [
+            "Cuando los incendios (de los bosques) de Australia"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.4",
+      "tipologia": "T10",
+      "enunciado": "Una las dos frases con la expresión temporal dada. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No me jubilaré. Tengo trabajo. (mientras) _____",
+          "solucion_correcta": [
+            "No me jubilaré mientras tenga trabajo"
+          ]
+        },
+        {
+          "texto_enunciado": "Salí de casa. Me tropecé con José. (nada más) _____",
+          "solucion_correcta": [
+            "Nada más salir de casa me tropecé con José"
+          ]
+        },
+        {
+          "texto_enunciado": "No hables. No comas. (mientras) _____",
+          "solucion_correcta": [
+            "No hables mientras comes"
+          ]
+        },
+        {
+          "texto_enunciado": "Oí la cerradura. Apagué la televisión. (al) _____",
+          "solucion_correcta": [
+            "Al oír la cerradura apagué la televisión"
+          ]
+        },
+        {
+          "texto_enunciado": "Doblé la esquina. Vi la catedral. (al) _____",
+          "solucion_correcta": [
+            "Al doblar la esquina, vi la catedral"
+          ]
+        },
+        {
+          "texto_enunciado": "Pilar y Luis no pueden ir de vacaciones. Están en paro. (mientras) _____",
+          "solucion_correcta": [
+            "Pilar y Luis no pueden ir de vacaciones mientras estén en paro"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.5",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "Se quemó mientras cocinaba. _____",
+          "solucion_correcta": [
+            "Se quemó cocinando"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo vimos cuando paseaba por el parque. _____",
+          "solucion_correcta": [
+            "Lo vimos paseando por el parque"
+          ]
+        },
+        {
+          "texto_enunciado": "Después de sentarse, sacó el móvil y llamó a Teresa. _____",
+          "solucion_correcta": [
+            "Sentándose sacó el móvil y llamó a Teresa"
+          ]
+        },
+        {
+          "texto_enunciado": "José siempre cantaba cuando se afeitaba. _____",
+          "solucion_correcta": [
+            "José siempre cantaba afeitándose"
+          ]
+        },
+        {
+          "texto_enunciado": "Tuvieron que jugar el partido mientras llovía. _____",
+          "solucion_correcta": [
+            "Tuvieron que jugar el partido lloviendo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "86.6",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras dadas y el verbo en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "El trabajo es fácil. Tienes que cortar las entradas (según, ellos, entrar) _____.",
+          "solucion_correcta": [
+            "según van entrando"
+          ]
+        },
+        {
+          "texto_enunciado": "Los hijos dan menos problemas (conforme, crecer) _____.",
+          "solucion_correcta": [
+            "conforme van creciendo"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes, Luisito, (a medida que, tú, crecer) _____ te irás haciendo más fuerte.",
+          "solucion_correcta": [
+            "a medida que vayas creciendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Tiene que atender a los invitados (a medida, ellos, llegar) _____.",
+          "solucion_correcta": [
+            "a medida que vayan llegando"
+          ]
+        },
+        {
+          "texto_enunciado": "Carmela se cansaba (según, subir) _____ los escalones.",
+          "solucion_correcta": [
+            "según iba subiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Los chequeos de salud son convenientes (a medida que, hacerse) _____ uno mayor.",
+          "solucion_correcta": [
+            "a medida que va haciéndose"
+          ]
+        },
+        {
+          "texto_enunciado": "A Andrea la vida se le ponía difícil (según, pasar) _____ los años.",
+          "solucion_correcta": [
+            "según iban pasando"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya decidiremos si nos compramos un piso (según, ahorrar) _____.",
+          "solucion_correcta": [
+            "según vayamos ahorrando"
+          ]
+        }
+      ]
+    }
+  ]
+}

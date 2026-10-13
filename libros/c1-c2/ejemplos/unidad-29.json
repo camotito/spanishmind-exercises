@@ -1,0 +1,284 @@
+{
+  "tema": "unidad-29",
+  "titulo": "¡Cómo come! ¡Por dónde nos llevan!",
+  "descripcion_gramatical": "Exclamativos (3)",
+  "fuente": "libro",
+  "unidad_libro": 29,
+  "ejercicios": [
+    {
+      "subejercicio": "29.1",
+      "tipologia": "T11",
+      "enunciado": "Escriba exclamaciones con *¡cómo!* y *de bien* o *de mal* en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Lorenzo quiere mucho a Teresa. _____",
+          "solucion_correcta": [
+            "¡Cómo quiere Lorenzo a Teresa!"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos recibieron muy bien. _____",
+          "solucion_correcta": [
+            "¡Cómo nos recibieron de bien!"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucía escribe de maravilla. _____",
+          "solucion_correcta": [
+            "¡Cómo escribe (de bien) Lucía!"
+          ]
+        },
+        {
+          "texto_enunciado": "Los niños se lo pasaron bien en el circo. _____",
+          "solucion_correcta": [
+            "¡Cómo se lo pasaron (de bien) los niños en el circo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Lolo habla muy mal. _____",
+          "solucion_correcta": [
+            "¡Cómo habla (de mal) Lola!"
+          ]
+        },
+        {
+          "texto_enunciado": "Eva ha adelgazado mucho. _____",
+          "solucion_correcta": [
+            "¡Cómo ha adelgazado Eva!"
+          ]
+        },
+        {
+          "texto_enunciado": "Gabriel toca muy bien la guitarra. _____",
+          "solucion_correcta": [
+            "¡Cómo toca (de bien) la guitarra Gabriel!"
+          ]
+        },
+        {
+          "texto_enunciado": "Tus alumnos cantan muy mal. _____",
+          "solucion_correcta": [
+            "¡Cómo cantan (de mal) tus alumnos!"
+          ]
+        },
+        {
+          "texto_enunciado": "Su novio cocina estupendamente. _____",
+          "solucion_correcta": [
+            "¡Cómo cocina (de bien) su novio!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "29.2",
+      "tipologia": "T11",
+      "enunciado": "Escriba exclamaciones con *¡cómo!*",
+      "items": [
+        {
+          "texto_enunciado": "El perro de Manuel era muy listo. _____",
+          "solucion_correcta": [
+            "¡Cómo era de listo el perro de Manuel!"
+          ]
+        },
+        {
+          "texto_enunciado": "Tu hermano es muy guapo. _____",
+          "solucion_correcta": [
+            "¡Cómo es de guapo tu hermano!"
+          ]
+        },
+        {
+          "texto_enunciado": "Tus amigas son muy bordes. _____",
+          "solucion_correcta": [
+            "¡Cómo son de bordes tus amigas!"
+          ]
+        },
+        {
+          "texto_enunciado": "Mis vecinos son muy atentos. _____",
+          "solucion_correcta": [
+            "¡Cómo son de atentos mis vecinos!"
+          ]
+        },
+        {
+          "texto_enunciado": "Aquí las leyes son muy duras. _____",
+          "solucion_correcta": [
+            "¡Cómo son de duras las leyes aquí!"
+          ]
+        },
+        {
+          "texto_enunciado": "Tu hija es muy rebelde. _____",
+          "solucion_correcta": [
+            "¡Cómo es de rebelde tu hija!"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge es muy trabajador. _____",
+          "solucion_correcta": [
+            "¡Cómo es de trabajador Jorge!"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi abuela era muy generosa. _____",
+          "solucion_correcta": [
+            "¡Cómo era de generosa mi abuela!"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa chica era muy rara. _____",
+          "solucion_correcta": [
+            "¡Cómo era de rara esa chica!"
+          ]
+        },
+        {
+          "texto_enunciado": "Nuestro profesor es muy testarudo. _____",
+          "solucion_correcta": [
+            "¡Cómo es de testarudo nuestro profesor!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "29.3",
+      "tipologia": "T11",
+      "enunciado": "Escriba las exclamaciones correspondientes con *¡dónde!*, *¡adónde!*",
+      "items": [
+        {
+          "texto_enunciado": "Tomás nos envió a un sitio horrible. _____",
+          "solucion_correcta": [
+            "¡Adónde nos envió Tomás!"
+          ]
+        },
+        {
+          "texto_enunciado": "Estuvimos paseando por un sitio precioso. _____",
+          "solucion_correcta": [
+            "¡Por dónde estuvimos paseando!"
+          ]
+        },
+        {
+          "texto_enunciado": "El chalé de Luis está en un sitio increíble. _____",
+          "solucion_correcta": [
+            "¡Dónde está el chalé de Luis!"
+          ]
+        },
+        {
+          "texto_enunciado": "Paco vive en un sitio horroroso. _____",
+          "solucion_correcta": [
+            "¡Dónde vive Paco!"
+          ]
+        },
+        {
+          "texto_enunciado": "Sergio compra en un sitio muy sucio. _____",
+          "solucion_correcta": [
+            "¡Dónde compra Sergio!"
+          ]
+        },
+        {
+          "texto_enunciado": "Cristina nos llevó a un sitio muy caro. _____",
+          "solucion_correcta": [
+            "¡Adónde nos llevó Cristina!"
+          ]
+        },
+        {
+          "texto_enunciado": "Selma aparcó encima de una zanja. _____",
+          "solucion_correcta": [
+            "¡Dónde aparcó Selma!"
+          ]
+        },
+        {
+          "texto_enunciado": "Valentín duerme en un viejo sofá. _____",
+          "solucion_correcta": [
+            "¡Dónde duerme Valentín!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "29.4",
+      "tipologia": "T3",
+      "enunciado": "Escriba las exclamaciones correspondientes con *¡cuándo!*",
+      "items": [
+        {
+          "texto_enunciado": "A un amigo que se está riendo de nosotros. ¡_____ te vas a reír de nosotros!",
+          "solucion_correcta": [
+            "Hasta cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "A un compañero que se cree el jefe. ¡_____ eres el jefe!",
+          "solucion_correcta": [
+            "Desde cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "A un amigo que no te hace caso. ¡_____ querrás hacerme caso!",
+          "solucion_correcta": [
+            "Cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "A un hijo que no arregla nunca su habitación. ¡_____ vas a arreglar tu habitación!",
+          "solucion_correcta": [
+            "Cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "Por teléfono, a un amigo que no llega a una cita. ¡_____ nos vas a tener esperando!",
+          "solucion_correcta": [
+            "Hasta cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "A los hijos que protestan siempre por la comida ¡_____ vais a protestar por la comida!",
+          "solucion_correcta": [
+            "Hasta cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "A una hija que no deja los videojuegos ¡_____ vas a dejar los videojuegos!",
+          "solucion_correcta": [
+            "Cuándo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "29.5",
+      "tipologia": "T11",
+      "enunciado": "Exprese desacuerdo con las siguientes afirmaciones con *¡qué!*",
+      "items": [
+        {
+          "texto_enunciado": "Anoche hizo frío. _____",
+          "solucion_correcta": [
+            "¡Qué va a hacer frío!"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese edificio es precioso. _____",
+          "solucion_correcta": [
+            "¡Qué va a ser precioso!"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que tengo razón. _____",
+          "solucion_correcta": [
+            "¡Qué vas a tener razón!"
+          ]
+        },
+        {
+          "texto_enunciado": "El año pasado subieron las pensiones. _____",
+          "solucion_correcta": [
+            "¡Qué van a subir las pensiones!"
+          ]
+        },
+        {
+          "texto_enunciado": "Antonia ayudó mucho. _____",
+          "solucion_correcta": [
+            "¡Qué va a ayudar Antonia!"
+          ]
+        },
+        {
+          "texto_enunciado": "Te harán pagar lo que rompas. _____",
+          "solucion_correcta": [
+            "¡Qué me van a hacer pagar lo que rompa!"
+          ]
+        }
+      ]
+    }
+  ]
+}

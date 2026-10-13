@@ -1,0 +1,265 @@
+{
+  "tema": "unidad-32",
+  "titulo": "Soy soltera. / Estoy soltera.",
+  "descripcion_gramatical": "Ser y estar",
+  "fuente": "libro",
+  "unidad_libro": 32,
+  "ejercicios": [
+    {
+      "subejercicio": "32.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con la forma correcta de *ser* o *estar*.",
+      "items": [
+        {
+          "texto_enunciado": "Ana _____ más trabajadora antes.",
+          "solucion_correcta": [
+            "era"
+          ]
+        },
+        {
+          "texto_enunciado": "Las nuevas sillas _____ de metal.",
+          "solucion_correcta": [
+            "son"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy no viene Rodrigo. _____ enfermo.",
+          "solucion_correcta": [
+            "Está"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quiénes _____ vosotros? - _____ los nuevos alumnos.",
+          "solucion_correcta": [
+            "sois",
+            "Somos"
+          ]
+        },
+        {
+          "texto_enunciado": "Te he lavado la camisa. _____ muy sucia.",
+          "solucion_correcta": [
+            "Estaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta maleta _____ llena. No me caben más cosas.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "Juana _____ de un pequeño pueblo de Córdoba.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "Nacho y yo _____ vecinos cuando vivíamos en Bremen.",
+          "solucion_correcta": [
+            "éramos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con la forma correcta de *ser* o *estar*.",
+      "items": [
+        {
+          "texto_enunciado": "¡Qué viejo _____ Rafa! Con lo guapo que _____.",
+          "solucion_correcta": [
+            "está",
+            "era"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento pero no puedo salir esta noche con vosotros. Recordad que _____ casado.",
+          "solucion_correcta": [
+            "estoy"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ sorprendido por tu actitud. No me lo puedo creer.",
+          "solucion_correcta": [
+            "Estoy"
+          ]
+        },
+        {
+          "texto_enunciado": "Rocío _____ muy torpe para sus años.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ muy torpe, Raúl. Siempre lo tiras todo.",
+          "solucion_correcta": [
+            "Eres"
+          ]
+        },
+        {
+          "texto_enunciado": "- _____ fuerte, Mario. -Es que voy a un gimnasio.",
+          "solucion_correcta": [
+            "Estás"
+          ]
+        },
+        {
+          "texto_enunciado": "-¡Qué guapa _____ Silvia! Tiene unos ojos preciosos. -Sí, y qué guapa _____ con ese vestido rojo.",
+          "solucion_correcta": [
+            "es",
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "No compré el pescado porque no _____ muy fresco.",
+          "solucion_correcta": [
+            "estaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi madre _____ azafata de Iberia cuando _____ soltera.",
+          "solucion_correcta": [
+            "era",
+            "estaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Ayer _____ genial, Freddy. ¡Cómo jugaste!",
+          "solucion_correcta": [
+            "estuviste"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con la forma correcta de *ser* o *estar*.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Cuándo _____ la conferencia? -La semana pasada. _____ en el Centro de Juventud -¿Dónde _____? -Frente a la Biblioteca.",
+          "solucion_correcta": [
+            "fue",
+            "Fue",
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya he encontrado las gafas. _____ en un cajón de la cocina.",
+          "solucion_correcta": [
+            "Estaban"
+          ]
+        },
+        {
+          "texto_enunciado": "Juan José _____ ayer en un funeral y no pudo venir a vernos.",
+          "solucion_correcta": [
+            "estuvo"
+          ]
+        },
+        {
+          "texto_enunciado": "La presentación de mi libro _____ esta noche en la librería Cervantes.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "Hoy _____ el 25 aniversario de la boda de mis padres.",
+          "solucion_correcta": [
+            "es"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos queda mucho para el verano. Solo _____ a últimos de noviembre.",
+          "solucion_correcta": [
+            "estamos"
+          ]
+        },
+        {
+          "texto_enunciado": "El circo _____ en Madrid el verano próximo.",
+          "solucion_correcta": [
+            "estará"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "32.4",
+      "tipologia": "T3",
+      "enunciado": "Complete con la expresión de *estar* adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Dónde está Joaquín? - _____ vacaciones.",
+          "solucion_correcta": [
+            "Está de"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento, no puedo acompañaros. _____ gripe.",
+          "solucion_correcta": [
+            "Estoy con"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy preocupado. _____ llamar a la policía.",
+          "solucion_correcta": [
+            "Estoy por"
+          ]
+        },
+        {
+          "texto_enunciado": "El otro día me encontré con Pedro. _____ camarero en una discoteca.",
+          "solucion_correcta": [
+            "Está de"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Cómo tiene la camisa! _____ echarla a la lavadora.",
+          "solucion_correcta": [
+            "Está para"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué no vas a la oficina? -Es que _____ baja.",
+          "solucion_correcta": [
+            "estoy de"
+          ]
+        },
+        {
+          "texto_enunciado": "¡Date prisa! _____ cerrar las tiendas.",
+          "solucion_correcta": [
+            "Están por"
+          ]
+        },
+        {
+          "texto_enunciado": "La paella _____ comerla ya mismo.",
+          "solucion_correcta": [
+            "está para"
+          ]
+        },
+        {
+          "texto_enunciado": "No me cuentes nada, Pablo. Hoy no _____ historias raras.",
+          "solucion_correcta": [
+            "estoy para"
+          ]
+        },
+        {
+          "texto_enunciado": "No puedo salir esta noche. _____ guardia.",
+          "solucion_correcta": [
+            "Estoy de"
+          ]
+        },
+        {
+          "texto_enunciado": "Me has enfadado. _____ irme y dejarte aquí solo.",
+          "solucion_correcta": [
+            "Estoy por"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién _____ mi propuesta?",
+          "solucion_correcta": [
+            "está por"
+          ]
+        }
+      ]
+    }
+  ]
+}

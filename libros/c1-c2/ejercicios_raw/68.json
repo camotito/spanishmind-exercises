@@ -1,0 +1,199 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "68.1",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Complete los deseos con *¡ojalá!* y *¡quién!*",
+      "items": [
+        {
+          "texto_enunciado": "No pude ir a la universidad. ¡Quién _____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nunca tuve tiempo para viajar. ¡Ojalá _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tomás me invitó a visitarlo en Chile pero no fui nunca. ¡Ojalá _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo a Marta nunca le caí bien. Ahora es la directora de la sucursal. ¡Ojalá _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No pudimos ir al concierto de Barenboim. ¡Quién _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No pude ser bombero. ¡Quién _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No acepté el contrato. Ahora estoy en el paro. ¡Ojalá _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No presté atención a los consejos de mis padres y ahora estoy arrepentida. ¡Ojalá _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el verbo entre paréntesis en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Ayer volví a ver a Sara. Esperaba que me (perdonar) _____ , pero no me dijo nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo siento por Antonio. Quería que lo (acompañar) _____ al dentista, pero no pude.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ángel veía necesario que (terminar) _____ ya la carrera para darnos el empleo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ella habría preferido que yo (hablar) _____ con sus padres para pedirles el apartamento.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo habría exigido a los bancos que (conceder) _____ más créditos al público. Así se habría acelerado el consumo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Más valía que el Gobierno (ayudar) _____ a las ONG de África. Lo necesitaban.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer hubo una reunión. Parecía importante que (venir) _____ todos los empleados, pero faltaron muchos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lo mejor habría sido que nosotros ya (devolver) _____ el préstamo del banco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo te habría aconsejado que te (dedicar) _____ al tenis. Jugabas bien y ahora serías famoso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esperaba que Hans me (comprar) _____ el collar que habíamos visto, pero no lo hizo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las informaciones dadas.",
+      "items": [
+        {
+          "texto_enunciado": "El cuadro era falso. No podía haberlo pintado Goya. Era imposible _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El poema estaba muy bien escrito y algunos decían que era de Quevedo. Puede _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sabía que la canción no la podía haber compuesto Jaime porque no sabe música. Era bastante dudoso _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las joyas estaban en un cajón. No las habían robado. Era imposible _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jacinto no se había llevado el libro. No le gusta la poesía. Era poco probable _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Descubrieron una tumba, pero no había nada en ella. Decían que había sido saqueada. Es probable _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.4",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Vinieron a la fiesta sin haber avisado. Me extrañó. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Javier había vuelto de Francia sin Mariana. Me sorprendió. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Armando me había engañado. No le perdoné. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los alumnos habían entrado a mi despacho sin llamar. Me molestó. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo no había llamado a Charo. Me olvidé. A Charo no le gustó. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Les habían atracado en pleno día. Parecía mentira. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Decían que Sara se había casado en Venezuela. Yo dudaba. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se habían acordado de nosotros. Nos agradó. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "68.5",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las informaciones dadas.",
+      "items": [
+        {
+          "texto_enunciado": "Las noticias habían sido buenas. Se habían alegrado. Era lógico _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Enrique me dijo que había abierto una pizzería. Necesitaba trabajar. Me pareció bien _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No cogisteis un taxi y llegasteis tarde. Habría sido mejor _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Habían cambiado los ordenadores. Los viejos funcionaban mal. Me pareció bien _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alberto había regalado la bici. La necesitaba yo. Fue una lástima _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Había acabado el plazo para presentar la solicitud de becas. No pudimos presentarla. Fue una pena _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 68,
+  "titulo_libro": "¡Ojalá hubiera ganado! -- Pretérito pluscuamperfecto de subjuntivo",
+  "scan": "p-143.jpg"
+}

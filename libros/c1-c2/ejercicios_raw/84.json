@@ -1,0 +1,179 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "84.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Los trabajadores de la fábrica, (que/los que) están en huelga, van a manifestarse mañana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se rumorea que van a despedir a unas veinte personas, (que/lo que) no me sorprendería.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayúdame tú, (que/quien) tienes más fuerza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Segovia, (en la que/donde) vive Rodrigo, es una ciudad muy agradable.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El pobre Martín, (el que/cuyo) entierro es mañana, no tuvo mucha suerte.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se presentaron sin avisar, (que/lo cual) nos sorprendió un poco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En verano, (en el que/cuando) tengo vacaciones, voy siempre a Grecia.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El secretario de Marta, (con que/con quien) estaba siempre discutiendo, se ha despedido.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "84.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con relativos.",
+      "items": [
+        {
+          "texto_enunciado": "El padre de Andrea nos ha invitado a cenar a todos. Es multimillonario. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Que lo haga Sofía. Tiene más tiempo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lola quiere hacer una gran fiesta. Su aniversario de boda es la semana que viene. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tomelloso es un pueblo manchego. Trabajé allí un año. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En agosto nos vamos de vacaciones. En agosto cierra la empresa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llama tú. Hablas español mejor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy leyendo \"Noches en blanco\". Es la última novela de Sara Mago. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me ha llamado Alberto. Acaba de regresar de la India. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dijeron que no venían cuando ya estaba todo preparado. No nos gustó nada. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Voy a trabajar con Ana. Tú ya la conoces. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El hotel Intercontinental es uno de los mejores de Datong. Nos alojamos en él. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pídeselo a Andrés. Tiene más dinero. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Han ascendido a Alberto. Su jefe, por cierto, es amigo de su padre. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me regalaron un grabado de Picasso. Me sorprendió mucho. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer me encontré con Mercedes. Por cierto, su hermana ha tenido un hijo. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "84.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases usando la palabra entre paréntesis y el relativo correspondiente.",
+      "items": [
+        {
+          "texto_enunciado": "Alberto salió dando un portazo. Nos extrañó a todos. (algo) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando se fueron dejaron dos meses sin pagar. Enfureció a la casera. (hecho) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aurora es bastante desagradable. No me sorprende. (cosa) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elsa siempre se acuerda de mi cumpleaños. Me hace muy feliz. (cosa) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ha vuelto a subir la luz en enero. Es ya una costumbre. (algo) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Marita se va a vivir a Bélgica. No les ha gustado nada a sus padres. (algo) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "84.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir la segunda frase comenzando con un relativo.",
+      "items": [
+        {
+          "texto_enunciado": "Me ha llamado Marcos. Por cierto, hacía un año que no me llamaba. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre vamos a Polop. Ya sabes que tenemos allí una casa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rosario está saliendo con Alonso. Por cierto, lo han nombrado jefe de Sección. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El domingo vamos a comer en casa de Lu. Por cierto, cocina de maravilla. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se casa Inés. Por cierto, Mariano estuvo saliendo con ella. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ayer nos presentó Miguel a Silvia. Por cierto, no la conocéis todavía. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 84,
+  "titulo_libro": "mi padre, que está de vacaciones... -- Oraciones de relativo explicativas",
+  "scan": "p-175.jpg"
+}

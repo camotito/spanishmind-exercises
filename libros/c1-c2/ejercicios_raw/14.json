@@ -1,0 +1,219 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "14.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *todo*, *toda*, *todos* o *todas*.",
+      "items": [
+        {
+          "texto_enunciado": "Los jueves nos reunimos _____ las amigas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esos muebles combinan con _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiero quitarme de encima _____ preocupación y olvidarme de _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Bajad _____ las persianas, que hace frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Con los niños hay que estar pendiente en _____ momento. ¡Bajaos _____ de ahí, chicos!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En este hotel, _____ las habitaciones tienen baño.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *todos*, *todas* y *los*, *las* /*mis*, *tus*... /*estos*, *esos*... /*nosotros*, *nosotras*, *vosotros*, *vosotras*, *ustedes*, *ellos*, *ellas* en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "Creo que _____ nos merecemos un descanso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No necesito esos periódicos. Puedes tirarlos _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiero hacer una comida con _____ hijos, pero nunca tienen tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En esta urbanización _____ casas son grandes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Escuchad, chicas. Os quiero ver a _____ aquí mañana a las ocho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Come patatas. –No me gustan. Te las puedes comer _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿De quién son _____ papeles?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si tienen entradas, pueden pasar _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *cada*, *cada uno de*, *cada una de*.",
+      "items": [
+        {
+          "texto_enunciado": "Hay que pintar _____ estas habitaciones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ alumno es diferente. Unos son buenos en una cosa y otros en otra.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ hora que pasa hay menos esperanzas de encontrar a los desaparecidos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En España nace un niño _____ tres minutos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En verano paso un mes con _____ mis hermanas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ nosotras tiene un horario diferente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tienes que comprar un regalo para _____ tus hijos.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.4",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *cada*, *cada uno/una de*, *cada uno/una*.",
+      "items": [
+        {
+          "texto_enunciado": "Mi padre ha comprado una mesa para _____ nosotros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ debería ayudar en lo que pudiera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aquí _____ hace lo que quiere.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ hijo es diferente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiero poner calefacción en _____ habitación.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Somos cinco hermanas y nos han regalado un ordenador para _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ vosotros tiene diferentes opiniones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Podéis iros. _____ ya sabe lo que tiene que traer mañana.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.5",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *sendos*, *sendas*.",
+      "items": [
+        {
+          "texto_enunciado": "He regalado un reloj a cada uno de mis hijos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los dos amigos fueron en una moto cada uno. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los cinco turistas se alojaron cada uno en una tienda. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El alcalde y la ministra pronunciaron su discurso cada uno. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los cuatro niños llevaban su bici y su mochila cada uno. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "14.6",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "_____ hijo es diferente. _____ los hijos son hijos únicos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "– _____ día estás más joven, Ana. –Pues yo _____ año me siento más vieja.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ las hermanas somos diferentes. A _____ le interesan cosas distintas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Amalia no está bien. Se tiene que parar _____ pocos metros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esas muchachas vienen _____ martes a practicar ballet.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El discurso lo van a televisar en _____ las cadenas nacionales.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Todos los manifestantes iban en _____ bicicletas.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 14,
+  "titulo_libro": "todos, cada, sendos -- Cuantificadores",
+  "scan": "p-036.jpg"
+}

@@ -1,0 +1,191 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "35.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las instrucciones con los verbos del recuadro.",
+      "banco_palabras": [
+        "apretar (2)",
+        "batir",
+        "echar (2)",
+        "enchufar",
+        "cortar",
+        "dar",
+        "hervir",
+        "meter",
+        "poner",
+        "romper",
+        "volver",
+        "pelar",
+        "marcar",
+        "esperar"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____ un poco de aceite en la sartén. _____ un huevo, lo _____ y lo _____ en la sartén cuando el aceite esté caliente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Primero _____ el ordenador y luego _____ a este botón. _____ el disco en la bandeja y _____ a apretar el botón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ las patatas durante diez minutos y luego, cuando todavía están calientes, las _____. Después, las _____ en rodajas y les _____ un poco de aceite.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cómo funciona este teléfono? -Primero _____ el botón verde y _____ el número al que quieres llamar. Luego _____ a que te contesten. Cuando terminas de hablar, _____ el botón rojo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Haga sugerencias con *¿Por qué no...?* o *¿Qué tal si...?*",
+      "items": [
+        {
+          "texto_enunciado": "Sugiera a unos amigos alquilar todos un coche. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sugiera a unos amigos que busquen hotel en internet. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sugiera a una amiga que aprenda japonés. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sugiera a unos desconocidos que cojan un taxi. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sugiera a un amigo dar una vuelta por el centro. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sugiera a unos amigos sacar las entradas para un concierto. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "¿Qué diría? Escriba las frases.",
+      "items": [
+        {
+          "texto_enunciado": "Pida consejo a un amigo: qué hacer. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ofrezca ayuda a un amigo: explicarle un problema. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pida consejo a un amigo: llamar a Marta. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pida un favor a un amigo: coserle un botón. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pida un favor a un amigo: echarle una mano. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ofrezca ayuda a un vecino enfermo: hacerle la compra. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ofrezca ayuda a una señora mayor: bajarle el carrito de la compra. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pida un favor al portero: abrirle el garaje. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Haga una petición a un desconocido: decirle la hora. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las amenazas con el presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "Si no cuidas bien el coche, no te lo dejo. O _____ o _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no te portas bien, se lo digo a tus padres. _____ o _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no deja el perro fuera, aquí no entra. O _____ o _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no sacas un poco la llave de la cerradura, no abres esa puerta. _____ o _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no escuchas, me callo. O _____ o _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no vienes, me voy. O _____ o _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si Nacho no viene, no doy la fiesta. O _____ o _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "35.5",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las órdenes con el presente de indicativo.",
+      "items": [
+        {
+          "texto_enunciado": "¡Vete ahora mismo! _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siéntate a mi lado y no te muevas, Carlitos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es muy tarde. Id a vuestro cuarto, apagad la luz y dormíos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Hazlo ahora mismo! _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Devuélvemelo ya. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Cállate ya y déjame! _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 35,
+  "titulo_libro": "¿Salimos esta noche? -- Presente de indicativo: otros usos",
+  "scan": "p-077.jpg"
+}

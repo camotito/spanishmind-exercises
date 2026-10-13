@@ -1,0 +1,195 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "37.1",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con el presente de *llevar*.",
+      "items": [
+        {
+          "texto_enunciado": "Estamos despiertos desde hace una hora. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace un mes que estamos en Manila. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La ducha se averió hace una semana. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa estatua hace cien años que está aquí. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El restaurante ese cerró hace meses. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Encendieron la calefacción hace un rato. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con el presente de *llevar* y *desde* o *desde que*.",
+      "items": [
+        {
+          "texto_enunciado": "Llegué a Pekín en 2010. Todavía estoy aquí. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Fidel enfermó cuando tenía 30 años. Sigue enfermo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luis se jubiló en 2005. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos reunimos a las ocho. Todavía estamos reunidos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El sofá se rompió cuando nos mudamos de casa. Sigue roto. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Emilio se deprimió cuando lo despidieron del banco. Sigue deprimido. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con el presente de *llevar + gerundio*.",
+      "items": [
+        {
+          "texto_enunciado": "Empezamos a viajar hace un mes. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alberto empezó a hacer la carrera hace seis años. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Empezaron a vivir en el chalé hace treinta años. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sandra empezó a conducir camiones hace tiempo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dicen que empezaste a hacer pilates hace un mes. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Empezaron a arreglar la calle hace cuatro años. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con el presente de *llevar + gerundio* y *desde* o *desde que*.",
+      "items": [
+        {
+          "texto_enunciado": "Daniel empezó a operar cuando tenía 25 años. Todavía sigue operando. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Charo empezó a quejarse de la muela ayer tarde y aún se queja. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta madrugada empezó a nevar y aún nieva. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace tiempo que compro la prensa en ese quiosco. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Blanca empezó a trabajar en Correos cuando acabó el Bachillerato. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Empecé a invertir en Bolsa cuando me jubilé y sigo haciéndolo. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.5",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con el presente de *llevar + sin + infinitivo*. Use *desde* o *desde que* en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "La última vez que fuimos a Escocia fue hace tres años. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La última vez que probé el alcohol fue en la boda de Rocío. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La última vez que vi a Esteban fue cuando nos reunimos todos los amigos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La última vez que jugué al billar fue el verano pasado. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La última vez que discutimos fue hace una semana. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La última vez que corrí una maratón fue hace mucho tiempo. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.6",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Escriba preguntas para las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "(hablar, ellos) -¿_____? -Más de tres horas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Jorge, en cama) -¿_____? -Cinco meses.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(tú, no ver a Elena) -¿_____? -Mucho tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Álvaro, peinarse) -¿_____? -Más de veinte minutos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Carla, dormir) -¿_____? -Unas ocho horas.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 37,
+  "titulo_libro": "Llevamos tres semanas en Japón. -- Llevar para expresar duración",
+  "scan": "p-081.jpg"
+}

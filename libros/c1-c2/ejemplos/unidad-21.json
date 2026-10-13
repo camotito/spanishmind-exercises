@@ -1,0 +1,290 @@
+{
+  "tema": "unidad-21",
+  "titulo": "Se acusó a los detenidos. Se necesitan extras.",
+  "descripcion_gramatical": "Otras construcciones con se",
+  "fuente": "libro",
+  "unidad_libro": 21,
+  "ejercicios": [
+    {
+      "subejercicio": "21.1",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *se*.",
+      "items": [
+        {
+          "texto_enunciado": "Acusaron a los agentes de traición. _____",
+          "solucion_correcta": [
+            "Se acusó a los agentes de traición"
+          ]
+        },
+        {
+          "texto_enunciado": "Dieron un gran aplauso a la orquesta. _____",
+          "solucion_correcta": [
+            "Se dio un gran aplauso a la orquesta"
+          ]
+        },
+        {
+          "texto_enunciado": "Allí respetaban mucho a los ancianos. _____",
+          "solucion_correcta": [
+            "Allí se respetaba mucho a los ancianos"
+          ]
+        },
+        {
+          "texto_enunciado": "Auxiliaron a los heridos inmediatamente. _____",
+          "solucion_correcta": [
+            "Se auxilió a los heridos inmediatamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Vieron a los jugadores bajar del autobús. _____",
+          "solucion_correcta": [
+            "Se vio a los jugadores bajar del autobús"
+          ]
+        },
+        {
+          "texto_enunciado": "Criticaron mucho al entrenador. _____",
+          "solucion_correcta": [
+            "Se criticó mucho al entrenador"
+          ]
+        },
+        {
+          "texto_enunciado": "Recibieron a los socios en el gimnasio del club. _____",
+          "solucion_correcta": [
+            "Se recibió a los socios en el gimnasio del club"
+          ]
+        },
+        {
+          "texto_enunciado": "Alojaron a los turistas en un buen hotel. _____",
+          "solucion_correcta": [
+            "Se alojó a los turistas en un buen hotel"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "21.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *se*.",
+      "items": [
+        {
+          "texto_enunciado": "Es fácil engañarme. _____",
+          "solucion_correcta": [
+            "A mí se me engaña fácilmente"
+          ]
+        },
+        {
+          "texto_enunciado": "Es fácil convencer a algunas personas. _____",
+          "solucion_correcta": [
+            "A algunas personas se les/las convence fácilmente"
+          ]
+        },
+        {
+          "texto_enunciado": "Es fácil asustar a los ratones. _____",
+          "solucion_correcta": [
+            "A los ratones se les asusta fácilmente"
+          ]
+        },
+        {
+          "texto_enunciado": "Es fácil divertir a los turistas. _____",
+          "solucion_correcta": [
+            "A los turistas se les divierte fácilmente"
+          ]
+        },
+        {
+          "texto_enunciado": "Es fácil impresionar a los niños. _____",
+          "solucion_correcta": [
+            "A los niños se les impresiona fácilmente"
+          ]
+        },
+        {
+          "texto_enunciado": "Es fácil irritar a mi jefe. _____",
+          "solucion_correcta": [
+            "A mi jefe se le irrita fácilmente"
+          ]
+        },
+        {
+          "texto_enunciado": "Es fácil animar a Julio a salir. _____",
+          "solucion_correcta": [
+            "A Julia se le anima a salir fácilmente"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "21.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas con *se*.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando era joven, <u>la gente llevaba pantalones campana</u>. _____",
+          "solucion_correcta": [
+            "se llevaban los pantalones campana"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>La gente compra los billetes en la taquilla</u>. _____",
+          "solucion_correcta": [
+            "Se compran los billetes"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>No está permitido fumar en la oficina</u>. _____",
+          "solucion_correcta": [
+            "No se permite fumar"
+          ]
+        },
+        {
+          "texto_enunciado": "En la orquesta municipal <u>necesitan músicos</u>. _____",
+          "solucion_correcta": [
+            "se necesitan músicos"
+          ]
+        },
+        {
+          "texto_enunciado": "En España <u>la gente come poca pasta</u>. _____",
+          "solucion_correcta": [
+            "se come poca pasta"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>La gente vende pocos pisos ahora</u>. _____",
+          "solucion_correcta": [
+            "Se venden pocos pisos"
+          ]
+        },
+        {
+          "texto_enunciado": "Antes, <u>la gente no pagaba impuestos</u>. _____",
+          "solucion_correcta": [
+            "no se pagaban impuestos"
+          ]
+        },
+        {
+          "texto_enunciado": "Ahora, <u>la gente puede ver muchas cadenas de televisión</u>. _____",
+          "solucion_correcta": [
+            "se pueden ver muchas cadenas de televisión"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "21.4",
+      "tipologia": "T4",
+      "enunciado": "Escriba las frases con *se* y las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Se va a caer el cuadro. (no sujetar, bien) _____",
+          "solucion_correcta": [
+            "No se sujeta bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuelga aquí la ropa, si no (no secar, bien) _____",
+          "solucion_correcta": [
+            "no se seca bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Pon los vasos en la alacena, así (no ensuciar) _____",
+          "solucion_correcta": [
+            "no se ensucian"
+          ]
+        },
+        {
+          "texto_enunciado": "Si esto sigue así, la empresa (arruinar) _____ muy pronto.",
+          "solucion_correcta": [
+            "se arruinará"
+          ]
+        },
+        {
+          "texto_enunciado": "Pon la camisa en una percha, así (no arrugar) _____",
+          "solucion_correcta": [
+            "no se arruga"
+          ]
+        },
+        {
+          "texto_enunciado": "Engrasa un poco la cerradura, así (no oxidar) _____",
+          "solucion_correcta": [
+            "no se oxida"
+          ]
+        },
+        {
+          "texto_enunciado": "Cierra bien la ventana, así el tráfico (no oír) _____",
+          "solucion_correcta": [
+            "no se oye"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta puerta (abrir) _____ muy mal.",
+          "solucion_correcta": [
+            "se abre"
+          ]
+        },
+        {
+          "texto_enunciado": "No podemos seguir. El coche (averiar) _____",
+          "solucion_correcta": [
+            "se ha averiado"
+          ]
+        },
+        {
+          "texto_enunciado": "No hay nada de agua en esta zona. El río (secar) _____",
+          "solucion_correcta": [
+            "se ha secado"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "21.5",
+      "tipologia": "T4",
+      "enunciado": "Escriba las frases con *se* con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo hambre. (abrir, la boca) _____",
+          "solucion_correcta": [
+            "Se me abre la boca"
+          ]
+        },
+        {
+          "texto_enunciado": "Me da mucha pena ver mendigar a niños. (partir, el corazón) _____",
+          "solucion_correcta": [
+            "Se me parte el corazón"
+          ]
+        },
+        {
+          "texto_enunciado": "Con la televisión, (al abuelo, cerrar, los ojos) _____",
+          "solucion_correcta": [
+            "al abuelo se le cierran los ojos"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando oímos la música, (hacer, un nudo en la garganta) _____",
+          "solucion_correcta": [
+            "se nos hace un nudo en la garganta"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando conduce Almudena. (poner, el pelo de punta) _____",
+          "solucion_correcta": [
+            "se me pone el pelo de punta"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando estoy de vacaciones, (alegrar, el ánimo) _____",
+          "solucion_correcta": [
+            "se me alegra el ánimo"
+          ]
+        },
+        {
+          "texto_enunciado": "Al ver toda esa comida, no pude comer. (quitar, el apetito) _____",
+          "solucion_correcta": [
+            "Se me quitó el apetito"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando viene Carlos a comer, (a Eva, iluminar, el rostro) _____",
+          "solucion_correcta": [
+            "a Eva se le ilumina el rostro"
+          ]
+        }
+      ]
+    }
+  ]
+}

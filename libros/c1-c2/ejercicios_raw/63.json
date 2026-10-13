@@ -1,0 +1,195 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "63.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Te gusta esta música? -No, preferiría que (tú, poner) _____ algo más relajado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué quería Alicia? -Quería que (nosotros, ver) _____ sus últimas pinturas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué tal fue la conferencia? -Bien. No esperaba que (venir) _____ tanta gente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Necesitaría que me (tú, hacer) _____ un favor, Roxana. -Preferiría que se lo (tú, pedir) _____ a Merche. Estoy muy ocupada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Espero que los niños (portarse) _____ bien anoche. -Bueno, yo quería que (ellos, acostarse) _____ pronto, pero no lo conseguí.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué avisaste a Rob? -Me pareció importante que (él, estar) _____ informado de todo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Tenías suficiente dinero? -No, fue necesario que Alicia me (prestar) _____ algo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "63.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(no hacer muchos esfuerzos) El médico me recomendó _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(no decirle nada a Sofía) Sonia nos rogó _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(acompañar a casa) Te agradecería _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(vosotras, hacer un poco de ejercicio) Más valía _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(acompañarla al dentista) Mi madre me pidió _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(no gritar) Te agradecería _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(no fumar mi pipa en su casa) Alicia me suplicó _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(pasar la aspiradora más a menudo) Te agradecería _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(no abusar del café) Ayer fui al médico. Me recomendó _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "63.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos oraciones con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Quieren trasladar la empresa a otro país. Sería increíble. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiero llevarme este libro. ¿Te importaría? _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No dijiste nada de mi vestido nuevo. Me sorprendió. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jacinto se presentó sin regalo. Me molestó. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me leían cuentos de pequeña. Me encantaba. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me dejaban acostarme tarde. Lo odiaba. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los domingos me ponían ropa especial. No lo soportaba. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A veces mis tías me llevaban al parque. Me encantaba. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "63.4",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas comenzando por la palabra indicada.",
+      "items": [
+        {
+          "texto_enunciado": "<u>A lo mejor llamó Anabel</u> cuando estábamos fuera. Puede _____ cuando estábamos fuera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jesús no me ha dado las gracias por el regalo. <u>A lo mejor no le gustó</u>. Es posible _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llovió mucho. <u>A lo mejor se inundó la carretera</u>. Es probable _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eduardo no se operó del oído. <u>Tenía miedo</u>. Puede _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Julio dice que vio a Carmen en París. <u>A lo mejor no era ella</u>. Es dudoso _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Santi no trajo la moto. <u>A lo mejor había hielo en la carretera</u>. Acaso _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "63.5",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos oraciones con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Ana no consiguió plaza en la Universidad. Es una lástima. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Alberto quiere dejar la carrera. Sería una pena. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Quiere ponerse a trabajar. Sería mejor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La cena fue mala. Alberto protestó. Era lógico. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Solo invitó a la boda a sus hermanos. Es una vergüenza. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antonio repartió el premio con sus hermanos. Me pareció bien. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Todos los alumnos se pusieron en huelga. Me pareció mal. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 63,
+  "titulo_libro": "Quería que me ayudaras. -- Pretérito imperfecto de subjuntivo (2)",
+  "scan": "p-133.jpg"
+}

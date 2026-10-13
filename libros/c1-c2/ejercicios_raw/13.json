@@ -1,0 +1,202 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "13.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *mi*, *tu*, *su*... *mío*, *tuyo*, *suyo*... en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "-No me gustan esas bromas _____ , Andrés. -A mí tampoco me gustan _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mañana vamos de boda. Se casa un amigo _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No estoy de acuerdo con _____ opiniones. -Pero al final siempre tenemos razón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Mis hijos están mejor educados que los de Marcos. -Sí, pero _____ son más simpáticos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He encontrado dos fotos _____ , de cuando éramos pequeños.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Don Antonio, ¿es _____ este móvil? -No, yo no tengo móvil.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Te está gustando la novela? -Sí, tiene _____ interés.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "13.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *mi*, *tu*, *su*...",
+      "items": [
+        {
+          "texto_enunciado": "Como de costumbre, Luis estaba tumbado en el sillón, con un whisky, viendo un partido de fútbol. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dibujé un paisaje con árboles, montañas, un río... _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos costó un buen dinero. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mis “vicios” son pocos: libros y música. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre, antes de ir a trabajar, tomamos un café y unos churros. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Adela está muy organizada. En la habitación tiene una televisión, un ordenador y un equipo de música. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tengo motivos personales para no querer llamar a Rebeca. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "13.3",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases sustituyendo lo subrayado por *lo + mío*, *tuyo*...",
+      "items": [
+        {
+          "texto_enunciado": "¿Qué hay <u>del asunto de mi comisión</u>? _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Tu relación con Carmen</u> es fenomenal. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "María ha pasado <u>muchas dificultades</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Esto es de Marta. -¿Y dónde está <u>lo que me corresponde a mí</u>? _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luis ha vivido <u>mucho</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Le has hablado a Dolores de <u>los planes de negocios que tenemos</u>? _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sois periodistas. <u>Vuestro campo de actuación</u> es la radio y la televisión. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Tu comportamiento</u> es exagerado. Estás siempre quejándote. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los López han viajado <u>por todo el mundo</u>. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Para ese examen, Elvira ha estudiado <u>mucho</u>. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "13.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las expresiones del recuadro.",
+      "banco_palabras": [
+        "amigo mío",
+        "amor mío",
+        "cariño mío",
+        "hijo mío",
+        "¡Pobrecito mío!"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Sandra, _____ , ayúdame a quitarme estas botas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ ¡Qué frío debe de estar pasando!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Gracias por tu ayuda, _____ . Yo ya no puedo agacharme.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luis, _____ , déjame 50 euros.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Verá usted, _____ , lo único que quiero es tranquilidad.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "13.5",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases usando una de las expresiones del recuadro.",
+      "banco_palabras": [
+        "es muy suyo",
+        "esta es la tuya",
+        "hacer alguna de las tuyas",
+        "nosotros a lo nuestro",
+        "salirse con la suya",
+        "va a lo suyo"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Esta es la oportunidad que estás esperando. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Elisa es tremenda. Siempre tiene que hacer su voluntad. Siempre tiene que _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eso a nosotros no nos interesa. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mario es muy especial. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siempre tienes que hacer alguna de tus trastadas. Siempre tienes que _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nadie te va a ayudar. Aquí cada uno _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 13,
+  "titulo_libro": "mi, mío, lo mío -- Posesivos",
+  "scan": "p-034.jpg"
+}

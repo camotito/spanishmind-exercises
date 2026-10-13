@@ -1,0 +1,280 @@
+{
+  "tema": "unidad-10",
+  "titulo": "Parece antigua. Vivo tranquilo.",
+  "descripcion_gramatical": "El adjetivo con verbos",
+  "fuente": "libro",
+  "unidad_libro": 10,
+  "ejercicios": [
+    {
+      "subejercicio": "10.1",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con adjetivos del recuadro en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "No hagáis tanto ruido. Me voy a quedar _____.",
+          "solucion_correcta": [
+            "sordo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te acabas de comprar esos pantalones? Pues parecen _____.",
+          "solucion_correcta": [
+            "viejos"
+          ]
+        },
+        {
+          "texto_enunciado": "Ten cuidado. Ha llovido y el suelo está _____.",
+          "solucion_correcta": [
+            "mojado"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cómo está Ángela? -Sigue _____. Los médicos no saben qué le pasa.",
+          "solucion_correcta": [
+            "enferma"
+          ]
+        },
+        {
+          "texto_enunciado": "-No sé qué ha pasado, pero los huevos han llegado _____.",
+          "solucion_correcta": [
+            "rotos"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando les dije que no iba a ir con ellos de vacaciones, se quedaron _____.",
+          "solucion_correcta": [
+            "callados"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cómo te encuentras, Carla? -Me siento _____.",
+          "solucion_correcta": [
+            "cansada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Te pasa algo, Raúl? Te has puesto _____.",
+          "solucion_correcta": [
+            "pálido"
+          ]
+        },
+        {
+          "texto_enunciado": "No caminéis _____, niños. Os podéis cortar con algún cristal.",
+          "solucion_correcta": [
+            "descalzos"
+          ]
+        },
+        {
+          "texto_enunciado": "Nuria ha pasado un trapo a las ventanas y han quedado _____.",
+          "solucion_correcta": [
+            "limpias"
+          ]
+        },
+        {
+          "texto_enunciado": "El público, _____, escuchaba el inicio del concierto.",
+          "solucion_correcta": [
+            "silencioso"
+          ]
+        },
+        {
+          "texto_enunciado": "Luisa llegó _____ porque había estado corriendo.",
+          "solucion_correcta": [
+            "sudorosa"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "callado",
+        "cansado",
+        "descalzo",
+        "enfermo",
+        "limpio",
+        "mojado",
+        "pálido",
+        "roto",
+        "silencioso",
+        "sordo",
+        "sudoroso",
+        "viejo"
+      ]
+    },
+    {
+      "subejercicio": "10.2",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con adjetivos del recuadro en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Ver sufrir a otros nos pone _____.",
+          "solucion_correcta": [
+            "tristes"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que vendes la casa muy _____. Te va a ser difícil encontrar comprador.",
+          "solucion_correcta": [
+            "cara"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Por qué tienes los pantalones _____? ¿Dónde has estado?",
+          "solucion_correcta": [
+            "sucios"
+          ]
+        },
+        {
+          "texto_enunciado": "He encontrado a tu hermana algo _____. ¿Qué le pasa?",
+          "solucion_correcta": [
+            "pálida"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes el brazo _____. ¿Qué te ha pasado?",
+          "solucion_correcta": [
+            "rojo"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han devuelto la ropa _____.",
+          "solucion_correcta": [
+            "seca"
+          ]
+        },
+        {
+          "texto_enunciado": "Recibir regalos nos pone _____.",
+          "solucion_correcta": [
+            "alegres"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Qué se ha hecho Aurora? ¿Por qué tiene el pelo _____?",
+          "solucion_correcta": [
+            "rubio"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "alegre",
+        "caro",
+        "pálido",
+        "rojo",
+        "rubio",
+        "seco",
+        "sucio",
+        "triste"
+      ]
+    },
+    {
+      "subejercicio": "10.3",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con adjetivos del recuadro en la forma correcta y el verbo *ser* o *estar*.",
+      "items": [
+        {
+          "texto_enunciado": "No se puede comer esa fruta. _____.",
+          "solucion_correcta": [
+            "Está verde"
+          ]
+        },
+        {
+          "texto_enunciado": "Me encantan mis hijos. _____ de ellos.",
+          "solucion_correcta": [
+            "Estoy orgulloso/-a"
+          ]
+        },
+        {
+          "texto_enunciado": "La sopa _____. ¿Quién la ha hecho?",
+          "solucion_correcta": [
+            "está rica"
+          ]
+        },
+        {
+          "texto_enunciado": "No quiero ir a la sierra. _____. No hay nada que hacer.",
+          "solucion_correcta": [
+            "Es aburrido"
+          ]
+        },
+        {
+          "texto_enunciado": "Es difícil explicarles algo a estos alumnos. No _____.",
+          "solucion_correcta": [
+            "están atentos"
+          ]
+        },
+        {
+          "texto_enunciado": "No cuentes aquí esos chistes. _____.",
+          "solucion_correcta": [
+            "Son verdes"
+          ]
+        },
+        {
+          "texto_enunciado": "El médico dice que pronto podremos hablar con Ana. _____ dentro de un par de horas.",
+          "solucion_correcta": [
+            "Estará consciente"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué no viniste ayer? -_____. Me dolía mucho la cabeza.",
+          "solucion_correcta": [
+            "Estaba malo"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ de lo que estás haciendo, Lucas?",
+          "solucion_correcta": [
+            "Eres consciente"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes por Rubén. Aprobará. _____.",
+          "solucion_correcta": [
+            "Es listo"
+          ]
+        },
+        {
+          "texto_enunciado": "Lucía no _____ conmigo. Nunca me saluda.",
+          "solucion_correcta": [
+            "es atenta"
+          ]
+        },
+        {
+          "texto_enunciado": "Sandra _____. No se da cuenta de que Lolo la engaña.",
+          "solucion_correcta": [
+            "está ciega"
+          ]
+        },
+        {
+          "texto_enunciado": "No _____ tan _____, Adolfo. A veces hay que ser más altruista.",
+          "solucion_correcta": [
+            "seas",
+            "interesado"
+          ]
+        },
+        {
+          "texto_enunciado": "Sofía es rubia, pero _____ bastante _____ de piel.",
+          "solucion_correcta": [
+            "es",
+            "morena"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Por qué _____ tan _____ en el derecho internacional, Lola? -Quiero especializarme en relaciones internacionales.",
+          "solucion_correcta": [
+            "estás",
+            "interesada"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "aburrido",
+        "atento (2)",
+        "ciego",
+        "consciente (2)",
+        "interesado (2)",
+        "listo",
+        "malo",
+        "moreno",
+        "orgulloso",
+        "rico",
+        "verde (2)"
+      ]
+    }
+  ]
+}

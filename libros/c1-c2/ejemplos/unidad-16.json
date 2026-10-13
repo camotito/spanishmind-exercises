@@ -1,0 +1,283 @@
+{
+  "tema": "unidad-16",
+  "titulo": "A esta chica la conozco. No se le ve muy bien.",
+  "descripcion_gramatical": "Pronombres personales de objeto directo",
+  "fuente": "libro",
+  "unidad_libro": 16,
+  "ejercicios": [
+    {
+      "subejercicio": "16.1",
+      "tipologia": "T4",
+      "enunciado": "Escriba frases con los verbos entre paréntesis y los pronombres adecuados.",
+      "items": [
+        {
+          "texto_enunciado": "-Me gustan esas botas. -(compra) _____ .",
+          "solucion_correcta": [
+            "Cómpralas"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Ves a Sofía? -Sí, (veo) _____ .",
+          "solucion_correcta": [
+            "la veo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quieres que haga café? -Sí, por favor, (haz) _____ .",
+          "solucion_correcta": [
+            "hazlo"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé dónde están los niños. No puedo (ver) _____ .",
+          "solucion_correcta": [
+            "verlos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿(Oyes) _____ , Luis? -Sí, (oigo) _____ perfectamente, Ramón.",
+          "solucion_correcta": [
+            "Me oyes",
+            "te oigo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cómo va el rey? -No sé. Desde aquí no se (ve) _____ muy bien.",
+          "solucion_correcta": [
+            "le ve"
+          ]
+        },
+        {
+          "texto_enunciado": "A ver niños. (Mirad) _____ cuando os estoy hablando.",
+          "solucion_correcta": [
+            "Miradme"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Has hecho ya los ejercicios? -No, tengo que (hacer) _____ .",
+          "solucion_correcta": [
+            "hacerlos"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué está diciendo la presentadora? -No sé. No se (entiende) _____ muy bien.",
+          "solucion_correcta": [
+            "la entiende"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Ves al cantante? -Sí, desde aquí se (ve) _____ bastante bien.",
+          "solucion_correcta": [
+            "le ve"
+          ]
+        },
+        {
+          "texto_enunciado": "A mi hermano y a mí (critican) _____ por todo.",
+          "solucion_correcta": [
+            "nos critican"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué haces con las gambas? -(Estoy pelando) _____ .",
+          "solucion_correcta": [
+            "Estoy pelándolas"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "16.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases destacando el objeto directo.",
+      "items": [
+        {
+          "texto_enunciado": "Ya he visto esa película. _____",
+          "solucion_correcta": [
+            "Esa película ya la he visto"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. Yo pago los helados. _____",
+          "solucion_correcta": [
+            "No te preocupes. Los helados los pago yo"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya hemos hecho estos ejercicios. _____",
+          "solucion_correcta": [
+            "Estos ejercicios ya los hemos hecho"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo he redactado el informe. _____",
+          "solucion_correcta": [
+            "El informe lo he redactado yo"
+          ]
+        },
+        {
+          "texto_enunciado": "Un camión ha provocado el accidente. _____",
+          "solucion_correcta": [
+            "El accidente lo ha provocado un camión"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya conocemos a tus hermanas. _____",
+          "solucion_correcta": [
+            "A tus hermanas ya las conocemos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "16.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *los*, *las*.",
+      "items": [
+        {
+          "texto_enunciado": "Hay gente que no ayuda nunca. _____",
+          "solucion_correcta": [
+            "Los hay que no ayudan nunca"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay algunos que no hacen nada. _____",
+          "solucion_correcta": [
+            "Los hay que no hacen nada"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay algunas que tienen mucha suerte. _____",
+          "solucion_correcta": [
+            "Las hay que tienen mucha suerte"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay algunos que son muy molestos. _____",
+          "solucion_correcta": [
+            "Los hay que son muy molestos"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay gente que vive del cuento. _____",
+          "solucion_correcta": [
+            "Los hay que viven del cuento"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay gente que no tiene sentido del ridículo. _____",
+          "solucion_correcta": [
+            "Los hay que no tienen sentido del ridículo"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "16.4",
+      "tipologia": "T8",
+      "enunciado": "Utilice una de las frases del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "No sé cómo Arturo _____ para vivir con 500 euros.",
+          "solucion_correcta": [
+            "se las arregla"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ contigo, Pep. Quieren que te cases a toda costa.",
+          "solucion_correcta": [
+            "La han tomado"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ . Luisa me ha visto con Pepa.",
+          "solucion_correcta": [
+            "La he fastidiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes que _____ para devolverme el dinero que te presté.",
+          "solucion_correcta": [
+            "arreglártelas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ conmigo. Yo no tengo la culpa de nada.",
+          "solucion_correcta": [
+            "No la toméis"
+          ]
+        },
+        {
+          "texto_enunciado": "Ten cuidado y _____ . No le digas a nadie que estamos aquí.",
+          "solucion_correcta": [
+            "no la fastidies"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "arreglártelas",
+        "la he fastidiado",
+        "la han tomado",
+        "no la fastidies",
+        "no la toméis",
+        "se las arregla"
+      ]
+    },
+    {
+      "subejercicio": "16.5",
+      "tipologia": "T3",
+      "enunciado": "Complete con *lo* o *la*.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Has preparado la comida? -No, no _____ he preparado. No he tenido tiempo. _____ siento.",
+          "solucion_correcta": [
+            "la",
+            "Lo"
+          ]
+        },
+        {
+          "texto_enunciado": "-Felipe es muy inteligente. -Sí, pero la verdad es que no _____ parece.",
+          "solucion_correcta": [
+            "lo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Sabéis dónde está Rosario? -No, no _____ sabemos. Hace mucho que no _____ vemos.",
+          "solucion_correcta": [
+            "lo",
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quieres conducir tú un poco? -No, gracias, prefiero no hacer_____ .",
+          "solucion_correcta": [
+            "lo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Estás cansado? -Sí, la verdad es que _____ estoy.",
+          "solucion_correcta": [
+            "lo"
+          ]
+        },
+        {
+          "texto_enunciado": "-Elena dice que es actriz. -Pues no _____ es. Es esteticista.",
+          "solucion_correcta": [
+            "lo"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿De dónde es Lucía? ¿Es chilena? -No, no _____ es. Es peruana.",
+          "solucion_correcta": [
+            "lo"
+          ]
+        },
+        {
+          "texto_enunciado": "-Jesús y Ángel dicen que son actores. -Pues no _____ son.",
+          "solucion_correcta": [
+            "lo"
+          ]
+        }
+      ]
+    }
+  ]
+}

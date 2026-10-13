@@ -1,0 +1,211 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "57.1",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Exprese los siguientes deseos con *que*.",
+      "items": [
+        {
+          "texto_enunciado": "A un amigo en su cumpleaños: vivir muchos años _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A unos amigos que se van a otro país: tener un buen vuelo _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sobre un amigo: darle el trabajo _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A unos amigos que van a una fiesta: bailar mucho _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sobre un amigo, Rodolfo: encontrar trabajo _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A unos amigos: dormir bien _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A un amigo pintor en su exposición: vender muchos cuadros _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A unos amigos que han perdido el equipaje: encontrar las maletas _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Exprese los siguientes deseos con *ojalá (que)* y *así*.",
+      "items": [
+        {
+          "texto_enunciado": "–Mañana me operan. –(ir todo bien) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Lorenzo no quiere dejarme el dinero que necesito para la tienda. –(arruinarse) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hemos comprado un décimo de lotería. (tocarnos) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He solicitado ingresar en la policía. (admitirme) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Román se ha puesto tu sombrero. –(caérsele el pelo) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Paco y Maribel se han presentado a un concurso de baile. –(ganar) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–El avión de Lina tiene un problema en un motor. –(ellos, aterrizar sin problemas) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–El director no nos deja hacer horas extras. –(hundirse la empresa) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las dos frases en una exclamación con *¡qué!*",
+      "items": [
+        {
+          "texto_enunciado": "No funcionan los autobuses. Es extraño. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Marta no contesta al teléfono. Es raro. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Luis paga hoy la cena. Eso está bien. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mañana tenemos fiesta. Me da alegría. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La empresa está mal. Me da pena. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En algunos países aún hay mucha pobreza. Es una vergüenza. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No hay mucha gente en el teatro. Es extraño. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rosa va a tener un niño. Es fenomenal. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estás enfermo. No podemos ir a casa de Rodri. Es una lástima. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Exprese probabilidad con los adverbios y verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Sabes si va a venir hoy Toni? –No, pero (quizá, venir) _____ mañana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–No encuentro el martillo. ¿Sabes dónde está? –(Posiblemente, estar) _____ en el garaje.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Jorge tiene mucha fiebre. (Posiblemente, ser) _____ la gripe A.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me esperéis. (Probablemente, yo, comer) _____ fuera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Por qué estás tan contento? –Me han dicho que (quizás, nombrarme) _____ jefe de sección.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Sabes dónde está Marta? –Yo no, pero (acaso, saberlo) _____ Lorenzo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Todavía no es seguro, pero (tal vez, nosotros, ir) _____ a Argentina este verano.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He ido al médico por el dolor en la pierna, pero cree que (probablemente, no ser) _____ nada importante.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.5",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las órdenes con *que*.",
+      "items": [
+        {
+          "texto_enunciado": "–Han llegado los inspectores. –(pasar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Le llama su hijo. –No puedo ponerme. (decir) _____ qué quiere.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Está aquí el cobrador de la imprenta. –(venir) _____ mañana.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Callaos. Es que le quiero explicar algo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Los delegados sindicales quieren hablar con usted. –Estoy ocupado. (volver) _____ más tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Están aquí otra vez los delegados sindicales. –(entrar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Coge eso, Arturo. –No quiero. –_____ eso, te digo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esos niños hacen mucho ruido. (callarse) _____.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 57,
+  "titulo_libro": "¡Ojalá estén en casa! ¡Que tengas buen viaje! -- Presente de subjuntivo (1)",
+  "scan": "p-121.jpg"
+}

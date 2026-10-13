@@ -1,0 +1,213 @@
+{
+ "ejercicios": [
+  {
+   "subejercicio": "12.1",
+   "tipologia": "T11",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases usando *todo* o *toda*.",
+   "items": [
+    {
+     "texto_enunciado": "La carne estaba muy quemada. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Los vecinos han bajado muy preocupados. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Las niñas salieron del colegio muy contentas. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Los platos estaban muy sucios. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La piel se me ha quedado muy seca. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Me pilló la tormenta y llegué a casa muy empapada. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Cuando perdieron se quedaron muy tristes. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Tenéis que dejar la casa muy limpia. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "12.2",
+   "tipologia": "T8",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *demasiado*, *mucho*, *muy* o *todo* en la forma correcta.",
+   "items": [
+    {
+     "texto_enunciado": "Alberto es muy frío. Es _____ cabeza.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Blanca es _____ mujer para Eduardo.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¡Menudo abrigo! Es _____ abrigo para ti, Agustín. Tú no eres tan alto.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Esa es _____ bici para Juanito. Apenas llega a los pedales.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Tus primas son todavía _____ niñas para llegar a casa tan tarde.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ramón es _____ caballero. Siempre cede el asiento en el metro.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Elisa estaba muy, muy nerviosa. Era _____ nervios.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Éramos _____ oídos. No queríamos perdernos ni una palabra.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ese Rolex es _____ reloj para llevarlo a la playa, Jorge.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Aquel era _____ chalé para nosotros dos. Tenía seis dormitorios.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "12.3",
+   "tipologia": "T11",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases usando *mucho*.",
+   "items": [
+    {
+     "texto_enunciado": "En esta empresa hay muchas personas vagas. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "En ese equipo hay muchos jugadores torpes. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "En este país hay muchos farsantes. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Cuidado que en esta ciudad hay muchos ladrones. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "En esta empresa hay muchas personas pelotas. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "En este pueblo hay muchas personas canallas. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "12.4",
+   "tipologia": "T8",
+   "tipologia_libre": "Completar la frase seleccionando un cuantificador o adverbio (todo, toda, muy, mucho, demasiado) y adaptando el nombre o adjetivo de la oración anterior",
+   "enunciado": "Complete las frases con *todo*, *toda*, *muy*, *mucho* o *demasiado* y el nombre o adjetivo necesario en la forma adecuada.",
+   "items": [
+    {
+     "texto_enunciado": "Rodrigo está muy enfadado. Rodrigo está _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "En este partido hay muchas personas interesadas. En este partido hay _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Es un filete enorme y yo como poco. Es _____ para mí.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ana y Sonsoles son muy huesudas. Son _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "En esta empresa hay muchos hombres machistas. En esta empresa hay _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Pablo tiene 14 años y sale con chicas. Se cree _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Eva y Joaquín se han comprado una casa enorme en la playa. Es _____ para ellos.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Juan ha cumplido 18 años y su padre le ha regalado una Harley Davidson. Es _____ para él.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "El viento rompió la puerta. Estaba _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ana tiene 14 años y aún le gustan las muñecas. Es _____ todavía.",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Completar la frase seleccionando un cuantificador o adverbio (todo, toda, muy, mucho, demasiado) y adaptando el nombre o adjetivo de la oración anterior"
+  },
+  {
+   "subejercicio": "12.5",
+   "tipologia": "T11",
+   "tipologia_libre": "Completar una oración reformulando la información de las dos oraciones anteriores mediante la estructura indicada (el, la, los, las + nombre + de + nombre)",
+   "enunciado": "Complete las frases con la información dada y la estructura *el*, *la*, *los*, *las* + nombre + *de* + nombre.",
+   "items": [
+    {
+     "texto_enunciado": "La comida que dan es una basura. La cobran muy caro. Cobran muy caro _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Paco es un caradura. Nos da siempre plantón. _____ nos da siempre plantón.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Este sueldo es una miseria. No se puede vivir. No se puede vivir con _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Jorge es un buenazo. Nos ha prestado el chalé. _____ nos ha prestado el chalé.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Tu hermano es muy pesado. No me deja en paz. _____ no me deja en paz.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "La directora es una mandona. Nos hace trabajar mucho. _____ nos hace trabajar mucho.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Mis vecinas son muy antipáticas. Nunca saludan. _____ nunca saludan.",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Completar una oración reformulando la información de las dos oraciones anteriores mediante la estructura indicada (el, la, los, las + nombre + de + nombre)"
+  }
+ ],
+ "unidad": 12,
+ "titulo_libro": "todo mojada, mucha moto -- Modificación de adjetivos y nombres",
+ "scan": "p-032.jpg"
+}

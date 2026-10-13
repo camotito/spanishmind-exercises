@@ -1,0 +1,176 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "88.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con las expresiones del recuadro.",
+      "banco_palabras": [
+        "como (2)",
+        "es que (3)",
+        "gracias a que",
+        "porque",
+        "que (3)",
+        "puesto que",
+        "ya que"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "_____ vive muy cerca de aquí, nos vemos mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No le pasó nada _____ lo sacaron a tiempo del río.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los hemos invitado muchas veces, pero no vienen _____ no quieren.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿No has traído el pan? – _____ se me ha olvidado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me lo cuentas luego, _____ ahora tengo prisa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ tienen muchos hijos, no están nunca solos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Voy a encender la chimenea, _____ hace frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿No tienes dinero? –No, _____ estoy sin trabajo",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿No vienes, Santi? – _____ tengo que estudiar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me marcho, _____ he quedado con Ángel en casa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ eres de Madrid, conocerás bien El Prado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ es tu cumpleaños, invítanos a algo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "88.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con el nexo dado.",
+      "items": [
+        {
+          "texto_enunciado": "Tengo varios diccionarios. Te voy a regalar uno. (como) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Eres tú. Te permito que uses mi pluma. (porque) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Voy a preparar la comida. Tengo invitados. (que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No vienen ellos. Iremos nosotros. (puesto que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me lo regalan. Me lo compraré yo. (ya que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El niño no se perdió. Lo vio el policía. (gracias a que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me voy. Prefiero no discutir. (que) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No llevaba las gafas. No pude leer lo que decía el letrero. (como) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos conocemos hace mucho. Prefiero no enfadarme. (porque) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hace sol. Podrías llevar al abuelo al parque. (puesto que) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "88.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "No iba a quedarme en casa sólo porque Teresa (estar) _____ de mal humor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ramón dice que no sale porque le (doler) _____ un poco la cabeza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No voy a quedarme en casa sólo porque me (doler) _____ un poco la cabeza.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pensé que no me iban a regañar porque (llegar) _____ un poco tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Sonia le han puesto una multa porque no (respetar) _____ un stop.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Te tienes que acostar ya. –Es que (yo, querer) _____ ver el partido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Duerme por el día porque (trabajar) _____ de noche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿Por qué no aceptaste el empleo? ¿No te gustaba? –No es que no me (gustar) _____, es que pagaban muy poco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿No saludaste a Gina? ¿No la viste? –No es que no la (ver) _____, es que preferí no saludarla.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–Come más pescado. –Es que no me (gustar) _____ mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No nadaba porque le (gustar) _____, sino porque se lo (mandar) _____ el médico.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "–¿No quieres ir a ver a Almudena? –No es que no (querer) _____. Es que (yo, estar) _____ bastante ocupado.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 88,
+  "titulo_libro": "Porque me ha mentido. Es que no me gusta. -- Oraciones causales (1)",
+  "scan": "p-183.jpg"
+}

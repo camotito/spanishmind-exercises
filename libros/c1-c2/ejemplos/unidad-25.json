@@ -1,0 +1,241 @@
+{
+  "tema": "unidad-25",
+  "titulo": "¿Quién...? ¿Cuál...? ¿Qué...?",
+  "descripcion_gramatical": "Interrogativos (1)",
+  "fuente": "libro",
+  "unidad_libro": 25,
+  "ejercicios": [
+    {
+      "subejercicio": "25.1",
+      "tipologia": "T3",
+      "enunciado": "Complete con *cuál*, *qué*, *quién* y la palabra entre paréntesis donde corresponda.",
+      "items": [
+        {
+          "texto_enunciado": "–¿(vosotros) _____ quiere tener clase el sábado? –Ninguno.",
+          "solucion_correcta": [
+            "Cuál de vosotros"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(tus hijas) _____ trabaja en Milán? –Rosana.",
+          "solucion_correcta": [
+            "Cuál de tus hijas"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Con (profesor) _____ te examinas? –No lo sé.",
+          "solucion_correcta": [
+            "qué profesor"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ ha escrito esto? –Una amiga mía.",
+          "solucion_correcta": [
+            "Quién"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿A _____ de los que te robaron conocías? –Al jefe de la banda.",
+          "solucion_correcta": [
+            "cuál"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(ustedes) _____ ha estado aquí antes?",
+          "solucion_correcta": [
+            "Cuál de ustedes"
+          ]
+        },
+        {
+          "texto_enunciado": "¿A (mis hermanas) _____ conoces?",
+          "solucion_correcta": [
+            "cuál de mis hermanas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ son ustedes? ¿Los padres de Tamara?",
+          "solucion_correcta": [
+            "Quiénes"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "25.2",
+      "tipologia": "T3",
+      "enunciado": "Complete con el interrogativo adecuado y la palabra entre paréntesis donde corresponda.",
+      "items": [
+        {
+          "texto_enunciado": "–¿En (periódico) _____ lo has leído? –En La Nación.",
+          "solucion_correcta": [
+            "qué periódico"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿(estos libros) _____ has leído? –Ninguno.",
+          "solucion_correcta": [
+            "Cuál de estos libros"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ es una quena? –Una flauta andina.",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿En (hotel) _____ se alojan? –En el Nacional.",
+          "solucion_correcta": [
+            "qué hotel"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ son tus patines? –Los que están encima de la silla.",
+          "solucion_correcta": [
+            "Cuáles"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(gafas) _____ te has puesto? ¿Las de cerca o las de lejos?",
+          "solucion_correcta": [
+            "Qué gafas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(esos) _____ es el ordenador de Gómez?",
+          "solucion_correcta": [
+            "Cuál de esos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ es tu dirección de correo electrónico?",
+          "solucion_correcta": [
+            "Cuál"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "25.3",
+      "tipologia": "T3",
+      "enunciado": "Complete con el interrogativo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "–¿_____ has escondido los regalos? –En el armario.",
+          "solucion_correcta": [
+            "Dónde"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ quieren? –Hablar contigo.",
+          "solucion_correcta": [
+            "Qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ tenemos que ir? –Hasta aquel grupo de casas.",
+          "solucion_correcta": [
+            "Dónde/Adónde"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ me has despertado? – Porque ya son las diez.",
+          "solucion_correcta": [
+            "Por qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ has ido a casa de Teresa? –A llevarle un libro.",
+          "solucion_correcta": [
+            "Para qué / A qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ has encontrado la calle? –He preguntado a un policía.",
+          "solucion_correcta": [
+            "Cómo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ tenemos que esperar? –Hasta que venga alguien a cerrar.",
+          "solucion_correcta": [
+            "Hasta cuándo"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ quieres mi informe? –Quiero buscar trabajo.",
+          "solucion_correcta": [
+            "Para qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ empleados trabajan aquí? –Casi cien.",
+          "solucion_correcta": [
+            "Cuántos"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ vale esa cazadora negra? –Quinientos yuanes.",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "25.4",
+      "tipologia": "T3",
+      "enunciado": "Complete las preguntas con el interrogativo y las preposiciones adecuadas.",
+      "items": [
+        {
+          "texto_enunciado": "–¿_____ es el paquete? –Para Julián.",
+          "solucion_correcta": [
+            "Para quién"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ está hablando? –Con un cliente.",
+          "solucion_correcta": [
+            "Con quién"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Sabes _____ archivadores están las facturas? –En el del centro.",
+          "solucion_correcta": [
+            "en qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ aula tienes clase? –En la 10.",
+          "solucion_correcta": [
+            "En qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ estás escribiendo? –A un compañero.",
+          "solucion_correcta": [
+            "A quién"
+          ]
+        },
+        {
+          "texto_enunciado": "–Perdone, ¿_____ se sale? –Por el pasillo de la derecha.",
+          "solucion_correcta": [
+            "Por dónde"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ sirve esta tecla? –Para mover el cursor al final.",
+          "solucion_correcta": [
+            "Para qué"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿_____ os conocéis? –Desde que éramos niños.",
+          "solucion_correcta": [
+            "Desde cuándo"
+          ]
+        }
+      ]
+    }
+  ]
+}

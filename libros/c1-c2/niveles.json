@@ -1,0 +1,532 @@
+{
+ "1": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Repaso básico de flexión de género y concordancia nominal."
+ },
+ "2": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Repaso de formación del plural, con algunas excepciones fonéticas."
+ },
+ "3": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Reglas generales consolidadas sobre el uso y omisión del artículo."
+ },
+ "4": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Matices expresivos de los artículos con antropónimos y topónimos."
+ },
+ "5": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Uso intensificador del artículo indefinido en contextos coloquiales."
+ },
+ "6": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Valor intensificador y exclamativo del artículo definido y neutro."
+ },
+ "7": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Repaso de formas espaciales y anafóricas de los demostrativos."
+ },
+ "8": {
+  "nivel": "C1",
+  "dificultad": 4,
+  "motivo": "Usos pospuestos despectivos o altamente expresivos del demostrativo."
+ },
+ "9": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Cambio de significado del adjetivo según su posición sintáctica."
+ },
+ "10": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Combinación básica de adjetivos con verbos copulativos y seudocopulativos."
+ },
+ "11": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Modificadores de grado coloquiales e intensivos de los adjetivos."
+ },
+ "12": {
+  "nivel": "C1-C2",
+  "dificultad": 4,
+  "motivo": "Modificadores intensivos peculiares que afectan a nombres y adjetivos."
+ },
+ "13": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Repaso de posesivos y estructuras sustantivadas idiomáticas."
+ },
+ "14": {
+  "nivel": "C1",
+  "dificultad": 4,
+  "motivo": "Uso preciso de cuantificadores distributivos cultos como sendos."
+ },
+ "15": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Repaso de pronombres de sujeto y el neutro ello."
+ },
+ "16": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Pronombres de objeto directo, casos de duplicación habituales."
+ },
+ "17": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Objeto indirecto y dativos de interés en construcciones expresivas."
+ },
+ "18": {
+  "nivel": "C1-C2",
+  "dificultad": 4,
+  "motivo": "Dativo aspectual y otros usos especiales de pronombres átonos."
+ },
+ "19": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Pronombres tónicos con preposición y particularidades reflexivas."
+ },
+ "20": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Estructuras impersonales básicas con el pronombre se."
+ },
+ "21": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Pasiva refleja y casos complejos de impersonalidad sintáctica."
+ },
+ "22": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Uso estándar de pronombres relativos básicos en cláusulas especificativas."
+ },
+ "23": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Relativos en oraciones explicativas y antecedentes neutros proposicionales."
+ },
+ "24": {
+  "nivel": "C1",
+  "dificultad": 4,
+  "motivo": "Manejo de relativos cultos o formales como cuyo y cuanto."
+ },
+ "25": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Repaso de pronombres interrogativos tradicionales básicos."
+ },
+ "26": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Interrogativas retóricas y marcadores coloquiales de énfasis."
+ },
+ "27": {
+  "nivel": "C1-C2",
+  "dificultad": 4,
+  "motivo": "Estructuras exclamativas complejas e idiomáticas del registro coloquial."
+ },
+ "28": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Exclamaciones de cantidad y ponderación coloquiales o enfáticas."
+ },
+ "29": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Exclamaciones de modo y lugar con valor claramente intensificador."
+ },
+ "30": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Reglas de formación estándar de adverbios terminados en mente."
+ },
+ "31": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Colocaciones léxicas avanzadas con adverbios terminados en mente."
+ },
+ "32": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Repaso conceptual de diferencias básicas entre ser y estar."
+ },
+ "33": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Usos dislocados del presente de indicativo con valor temporal futuro."
+ },
+ "34": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Presente histórico y periodístico narrativo para hechos pasados."
+ },
+ "35": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Presente indicativo para mandatos, sugerencias y usos conversacionales."
+ },
+ "36": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Expresión temporal de la duración desde el presente estativo."
+ },
+ "37": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Perífrasis con llevar para expresar duración temporal acumulada."
+ },
+ "38": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Manejo de la perífrasis estar más gerundio en presente."
+ },
+ "39": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Repaso del imperfecto, rutinas pasadas y usos de cortesía."
+ },
+ "40": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Repaso morfológico y uso básico narrativo del pretérito indefinido."
+ },
+ "41": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Contraste tradicional entre aspectos imperfectivos y perfectivos pasados."
+ },
+ "42": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Combinación avanzada de tiempos del pasado en relatos textuales."
+ },
+ "43": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Uso estándar del pretérito pluscuamperfecto para anterioridad pasada."
+ },
+ "44": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Expresión de la duración retrospectiva en el pasado temporal."
+ },
+ "45": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Repaso general de la formación y uso del futuro simple."
+ },
+ "46": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Futuro de conjetura, sorpresa y valor discursivo concesivo."
+ },
+ "47": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Futuro compuesto para acciones terminadas pre-futuras y suposiciones pasadas."
+ },
+ "48": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Contraste avanzado para deducciones lógicas entre los futuros."
+ },
+ "49": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Condicional simple estándar para cortesía, deseos y probabilidad pasada."
+ },
+ "50": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Condicional compuesto para acciones frustradas e irreales del pasado."
+ },
+ "51": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Contraste modal y temporal complejo entre los condicionales."
+ },
+ "52": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Morfología y uso estándar comunicativo del imperativo afirmativo y negativo."
+ },
+ "53": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Imperativo exhortativo inclusivo y perífrasis alternativas de propuesta."
+ },
+ "54": {
+  "nivel": "C1",
+  "dificultad": 4,
+  "motivo": "Imperativos lexicalizados operando puramente como marcadores del discurso."
+ },
+ "55": {
+  "nivel": "C1-C2",
+  "dificultad": 5,
+  "motivo": "Fórmulas idiomáticas pragmáticas y altamente lexicalizadas con imperativos."
+ },
+ "56": {
+  "nivel": "C1-C2",
+  "dificultad": 5,
+  "motivo": "Marcadores discursivos fosilizados con matices emocionales muy sutiles."
+ },
+ "57": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Presente de subjuntivo estándar para expresar deseos o esperanzas."
+ },
+ "58": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Uso del subjuntivo dependiente de verbos de influencia o voluntad."
+ },
+ "59": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Subjuntivo desencadenado por matrices de emociones y sentimientos."
+ },
+ "60": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Subjuntivo dependiente de juicios de valor o estructuras impersonales."
+ },
+ "61": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Alternancia indicativo/subjuntivo subordinada a verbos de opinión/percepción."
+ },
+ "62": {
+  "nivel": "C1-C2",
+  "dificultad": 4,
+  "motivo": "Imperfecto de subjuntivo en estructuras desiderativas idiomáticas muy expresivas."
+ },
+ "63": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Subjuntivo pretérito imperfecto en esquemas canónicos de subordinación."
+ },
+ "64": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Concordancia avanzada en pasados con verbos de entendimiento negados."
+ },
+ "65": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Pretérito perfecto de subjuntivo valorando deseos o hechos recientes."
+ },
+ "66": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Expresión de valoración y duda prospectiva en pasado compuesto."
+ },
+ "67": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Contraste avanzado indicativo/subjuntivo en contextos compuestos pasados."
+ },
+ "68": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Pluscuamperfecto de subjuntivo exclamativo para lamentos y extrañezas irrealizables."
+ },
+ "69": {
+  "nivel": "C1",
+  "dificultad": 4,
+  "motivo": "Concordancias temporales exigentes en subordinadas de percepción y opinión."
+ },
+ "70": {
+  "nivel": "C1",
+  "dificultad": 4,
+  "motivo": "Subjuntivo proyectivo que expresa indeterminación en oraciones de relativo."
+ },
+ "71": {
+  "nivel": "B2+",
+  "dificultad": 1,
+  "motivo": "Usos nominales básicos del infinitivo simple y compuesto."
+ },
+ "72": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Regla gramatical de correferencia e infinitivo frente a subjuntivo."
+ },
+ "73": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Verbos transitivos que admiten doble construcción sin cambio subjetivo."
+ },
+ "74": {
+  "nivel": "C1-C2",
+  "dificultad": 4,
+  "motivo": "Alternancias sutiles de matiz semántico entre infinitivo, indicativo y subjuntivo."
+ },
+ "75": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Construcciones temporales, modales y condicionales del infinitivo precedido de preposiciones."
+ },
+ "76": {
+  "nivel": "C1-C2",
+  "dificultad": 5,
+  "motivo": "Verbos pronominales y de régimen complejo seguidos de infinitivo/subjuntivo."
+ },
+ "77": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Perífrasis verbales incoativas y terminativas complejas seguidas de infinitivo."
+ },
+ "78": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Perífrasis modales de obligación y probabilidad deductiva o conjetural."
+ },
+ "79": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Valores adjetivales precisos y construcciones temporales absolutas de participio."
+ },
+ "80": {
+  "nivel": "C1",
+  "dificultad": 4,
+  "motivo": "Perífrasis resultativas complejas mediante tener/llevar/dejar más participio concordado."
+ },
+ "81": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Valores modales descriptivos y temporales del gerundio simple o compuesto."
+ },
+ "82": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Perífrasis aspectuales durativas y continuativas formales con el gerundio."
+ },
+ "83": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Subordinación común de oraciones de relativo restrictivas o especificativas."
+ },
+ "84": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Oraciones de relativo explicativas incidentales y usos discursivos aclaratorios."
+ },
+ "85": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Subordinadas temporales clásicas regidas por conjunciones anteriores o posteriores."
+ },
+ "86": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Oraciones temporales dependientes alternando indicativo o subjuntivo prospectivo."
+ },
+ "87": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Construcciones subordinadas adverbiales de locación y manera o modo."
+ },
+ "88": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Operadores causales básicos introduciendo causa real en indicativo."
+ },
+ "89": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Construcciones causales complejas preposicionales y de carácter intensivo."
+ },
+ "90": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Nexos consecutivos ilativos para expresar deducciones lógicas y discursivas."
+ },
+ "91": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Consecutivas intensivas cuantificadas correlativas que expresan grados extremos."
+ },
+ "92": {
+  "nivel": "C1-C2",
+  "dificultad": 4,
+  "motivo": "Estructuras consecutivas sumamente coloquiales e idiomáticas de registro oral."
+ },
+ "93": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Conectores teleológicos en subordinadas finales de infinitivo o subjuntivo."
+ },
+ "94": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Sistemas condicionales reales y posibles estándar con verbos en indicativo."
+ },
+ "95": {
+  "nivel": "C1-C2",
+  "dificultad": 5,
+  "motivo": "Condicionales de tono amenazante y fórmulas idiomáticas puramente preposicionales."
+ },
+ "96": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Condicionales prototípicas improbables e irreales en la esfera del presente."
+ },
+ "97": {
+  "nivel": "B2+",
+  "dificultad": 3,
+  "motivo": "Condicionales contrafácticas en el pasado y estructuras mixtas complejas."
+ },
+ "98": {
+  "nivel": "C1",
+  "dificultad": 4,
+  "motivo": "Nexos condicionales restrictivos precisos y excluyentes con cambio semántico."
+ },
+ "99": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Oraciones concesivas de uso amplio contrastando certezas frente a hipótesis."
+ },
+ "100": {
+  "nivel": "C1",
+  "dificultad": 4,
+  "motivo": "Fórmulas concesivas intensificadas y expresiones fosilizadas de contraste fuerte."
+ },
+ "101": {
+  "nivel": "C1-C2",
+  "dificultad": 5,
+  "motivo": "Mecanismos concesivos coloquiales avanzados con fuerte expresividad de rechazo."
+ },
+ "102": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Estructuras comparativas de proporcionalidad e igualdad con alta complejidad léxica."
+ },
+ "103": {
+  "nivel": "C1",
+  "dificultad": 4,
+  "motivo": "Comparativas idiomáticas con de lo que y cuantificadores relativos complejos."
+ },
+ "104": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Aplicación de reglas generales de concordancia temporal en estilo indirecto."
+ },
+ "105": {
+  "nivel": "B2+",
+  "dificultad": 2,
+  "motivo": "Transformación sintáctica de interrogativas indirectas parciales y totales referidas."
+ },
+ "106": {
+  "nivel": "C1",
+  "dificultad": 3,
+  "motivo": "Traslación temporal al estilo indirecto de mandatos, peticiones y sugerencias."
+ }
+}

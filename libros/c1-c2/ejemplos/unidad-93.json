@@ -1,0 +1,314 @@
+{
+  "tema": "unidad-93",
+  "titulo": "para comprarme, con idea de pasar, a tratar",
+  "descripcion_gramatical": "Oraciones finales",
+  "fuente": "libro",
+  "unidad_libro": 93,
+  "ejercicios": [
+    {
+      "subejercicio": "93.1",
+      "tipologia": "T13",
+      "enunciado": "Forme frases uniendo los elementos de las dos columnas.",
+      "items": [
+        {
+          "texto_enunciado": "Esta mañana vino Luisa a que _____",
+          "solucion_correcta": [
+            "Esta mañana vino Luisa a que le contara lo de Armando"
+          ]
+        },
+        {
+          "texto_enunciado": "Están siempre insultándome con intención de _____",
+          "solucion_correcta": [
+            "Están siempre insultándome con intención de enfadarme"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero alquilar un local con idea de _____",
+          "solucion_correcta": [
+            "Quiero alquilar un local con idea de abrir una galería de arte"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero comprar queso para que _____",
+          "solucion_correcta": [
+            "Quiero comprar queso para que Elena prepare una fondue"
+          ]
+        },
+        {
+          "texto_enunciado": "He trabajado mucho a fin de _____",
+          "solucion_correcta": [
+            "He trabajado mucho a fin de comprarme una moto"
+          ]
+        },
+        {
+          "texto_enunciado": "Paco y Mariano han salido a _____",
+          "solucion_correcta": [
+            "Paco y Mariano han salido a correr un poco"
+          ]
+        },
+        {
+          "texto_enunciado": "Vengo hoy un poco antes con la intención de _____",
+          "solucion_correcta": [
+            "Vengo hoy un poco antes con la intención de marcharme pronto"
+          ]
+        },
+        {
+          "texto_enunciado": "No te he dicho eso con ánimo de _____",
+          "solucion_correcta": [
+            "No te he dicho eso con ánimo de ofenderte"
+          ]
+        }
+      ],
+      "contexto_grafico": {
+        "tipo": "descripcion_libre",
+        "datos": [
+          "a. comprarme una moto.",
+          "b. ofenderte.",
+          "c. correr un poco.",
+          "d. le contara lo de Armando.",
+          "e. Elena prepare una fondue.",
+          "f. enfadarme.",
+          "g. abrir una galería de arte.",
+          "h. marcharme pronto."
+        ]
+      }
+    },
+    {
+      "subejercicio": "93.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con los nexos dados.",
+      "items": [
+        {
+          "texto_enunciado": "Puse el despertador. Quería levantarme temprano. (con el fin de) _____",
+          "solucion_correcta": [
+            "Puse el despertador con el fin de levantarme temprano"
+          ]
+        },
+        {
+          "texto_enunciado": "Julia me llamó. Quería que la acompañara al médico. (para) _____",
+          "solucion_correcta": [
+            "Julia me llamó para que la acompañara al médico"
+          ]
+        },
+        {
+          "texto_enunciado": "He invitado a todos mis tíos. Quiero celebrar el nacimiento de Manoli. (con el propósito de) _____",
+          "solucion_correcta": [
+            "He invitado a todos mis tíos con el propósito de celebrar el nacimiento de Manoli"
+          ]
+        },
+        {
+          "texto_enunciado": "Estos días estoy a dieta. Me conviene reducir peso. (con el fin de) _____",
+          "solucion_correcta": [
+            "Estos días estoy a dieta con el fin de reducir peso"
+          ]
+        },
+        {
+          "texto_enunciado": "Enrique viene en verano. Quiere que conozcamos a su esposa. (para) _____",
+          "solucion_correcta": [
+            "Enrique viene en verano para que conozcamos a su esposa"
+          ]
+        },
+        {
+          "texto_enunciado": "He puesto la calefacción. Quiero que el piso se caliente. (con la intención de) _____",
+          "solucion_correcta": [
+            "He puesto la calefacción con la intención de que el piso se caliente"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana voy de tiendas. Quiero comprarle un abrigo a mi madre. (con la idea de) _____",
+          "solucion_correcta": [
+            "Mañana voy de tiendas con la idea de comprarle un abrigo a mi madre"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.3",
+      "tipologia": "T4",
+      "enunciado": "Complete con la forma correcta del verbo entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Necesito verte para que me (tú, firmar) _____ unos documentos.",
+          "solucion_correcta": [
+            "firmes"
+          ]
+        },
+        {
+          "texto_enunciado": "Anoche tuvimos que empujar el coche para que (arrancar) _____.",
+          "solucion_correcta": [
+            "arrancara/arrancase"
+          ]
+        },
+        {
+          "texto_enunciado": "Voy a apuntar la dirección para que no (a mí, olvidarse) _____.",
+          "solucion_correcta": [
+            "se me olvide"
+          ]
+        },
+        {
+          "texto_enunciado": "Ponte esta crema para que no te (quemar) _____ el sol.",
+          "solucion_correcta": [
+            "queme"
+          ]
+        },
+        {
+          "texto_enunciado": "Debo avisar a Santi a fin de que (ir) _____ a recogerme a la estación.",
+          "solucion_correcta": [
+            "vaya"
+          ]
+        },
+        {
+          "texto_enunciado": "Pedí a Estela que trajera sus cedés a fin de que los (nosotros, oír) _____ en casa.",
+          "solucion_correcta": [
+            "oyéramos/oyésemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Pusimos a Fidel delante con ánimo de que no (marearse) _____ con las curvas de la carretera.",
+          "solucion_correcta": [
+            "se mareara/marease"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.4",
+      "tipologia": "T10",
+      "enunciado": "Una las frases con *que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Vigila. No quiero que se queme la comida. _____",
+          "solucion_correcta": [
+            "Vigila, que no se queme la comida"
+          ]
+        },
+        {
+          "texto_enunciado": "Estudia. No quiero que te suspendan. _____",
+          "solucion_correcta": [
+            "Estudia, que no te suspendan"
+          ]
+        },
+        {
+          "texto_enunciado": "Abre las ventanas. Quiero que entre el aire. _____",
+          "solucion_correcta": [
+            "Abre las ventanas, que entre el aire"
+          ]
+        },
+        {
+          "texto_enunciado": "Cierra la jaula. No quiero que se escape el hámster. _____",
+          "solucion_correcta": [
+            "Cierra la jaula, que no se escape el hámster"
+          ]
+        },
+        {
+          "texto_enunciado": "Escribe eso en la pizarra. Quiero que lo vean todos. _____",
+          "solucion_correcta": [
+            "Escribe eso en la pizarra, que lo vean todos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "93.5",
+      "tipologia": "T8",
+      "enunciado": "Complete con *para* o *a* y los verbos del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Me gustaría encontrar una loción _____ la caída del cabello.",
+          "solucion_correcta": [
+            "para detener"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa salsa es excelente _____ la carne de venado.",
+          "solucion_correcta": [
+            "para acompañar"
+          ]
+        },
+        {
+          "texto_enunciado": "Los problemas _____ son complicados.",
+          "solucion_correcta": [
+            "a resolver"
+          ]
+        },
+        {
+          "texto_enunciado": "Hay un servicio telefónico _____ del estado de las carreteras.",
+          "solucion_correcta": [
+            "para informar"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Tienes algo _____ los zapatos?",
+          "solucion_correcta": [
+            "para limpiar"
+          ]
+        },
+        {
+          "texto_enunciado": "La herencia _____ tras la muerte de su tío es cuantiosa.",
+          "solucion_correcta": [
+            "a repartir"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana vienen _____ los teléfonos.",
+          "solucion_correcta": [
+            "a/para reparar"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "acompañar",
+        "detener",
+        "informar",
+        "limpiar",
+        "reparar",
+        "repartir",
+        "resolver"
+      ]
+    },
+    {
+      "subejercicio": "93.6",
+      "tipologia": "T8",
+      "enunciado": "Complete las frases con las expresiones del recuadro.",
+      "items": [
+        {
+          "texto_enunciado": "Esto me lo he comprado yo, _____.",
+          "solucion_correcta": [
+            "para que te enteres"
+          ]
+        },
+        {
+          "texto_enunciado": "Y ahora no pienso dejarte que uses mi ordenador, _____.",
+          "solucion_correcta": [
+            "para que te fastidies / lo sepas"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, la película era bastante mala.",
+          "solucion_correcta": [
+            "Para ser sincero"
+          ]
+        },
+        {
+          "texto_enunciado": "Y mañana no pienso salir contigo, _____.",
+          "solucion_correcta": [
+            "para que lo sepas / te fastidies"
+          ]
+        },
+        {
+          "texto_enunciado": "_____, el nuevo hipermercado es como dos estadios de fútbol.",
+          "solucion_correcta": [
+            "Para que te hagas idea"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "para que lo sepas",
+        "para ser sincero",
+        "para que te enteres",
+        "para que te fastidies",
+        "para que te hagas idea"
+      ]
+    }
+  ]
+}

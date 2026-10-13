@@ -1,0 +1,171 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "97.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "No he vivido en Alemania, pero si (vivir) _____ allí, ahora (hablar) _____ alemán.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No he estudiado informática, pero si la (estudiar) _____ , ahora (saber) _____ cómo arreglar este ordenador.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si Santi no (trabajar) _____ mucho, ahora no (vivir) _____ como vive.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No deberías haber cogido ese dinero. Si no lo (coger) _____ , ahora no (estar) _____ en la cárcel.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Ojalá hubiera celebrado Ernesto su matrimonio! Si lo (él, celebrar) _____ , ahora nosotros (estar) _____ en Chile.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy preocupado. (yo, estar) _____ más tranquilo si Marta (llamar) _____ ya.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "José es feliz, pero si no (él, conocer) _____ a Ingrid, su vida actual (ser) _____ muy diferente.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "97.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "No pude estudiar. Si (estudiar) _____ , (tener) _____ un trabajo mejor.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te has quemado. No te (quemar) _____ si no (estar) _____ tanto al sol.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Menos mal que teníamos GPS. Si no lo (tener) _____ , (perdernos) _____ .",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hans no cogió el avión que se estrelló. (él, morir) _____ si lo (él, coger) _____ .",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dice que ha enviado el libro, pero ya lo (nosotros, recibir) _____ si lo (él, enviar) _____ .",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No ha sido así, pero ese cine (desaparecer) _____ si el banco lo (comprar) _____ .",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A mí la alfombra me encantaba y te la (regalar) _____ si te (gustar) _____ , pero como no te gustaba...",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "97.3",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta. Puede haber más de una respuesta correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Si no (habrías comprado/hubieras comprado) un coche tan viejo, ahora no (tendrías/hubieras tenido) problemas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No (habría sido/hubiera sido) presidente si no lo (habrían votado/hubieran votado) tantas personas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si (habrías ahorrado/hubieras ahorrado) antes, ahora (vivirías/habrías vivido) con más tranquilidad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si (habríamos reservado/hubiéramos reservado) antes, (habríamos conseguido/conseguiríamos) mejores habitaciones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(Habríamos conseguido/Hubiéramos conseguido) más donantes si lo (anunciaríamos/hubiéramos anunciado) por internet.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si (hubiera tenido/habría tenido) ganas, ya (arreglaría/habría arreglado) el grifo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si el tenor (hubiera estado/habría estado) enfermo, ya (habrían suspendido/hubieran suspendido) el concierto.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "97.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "¡Lástima! Si (tú, llegar) _____ antes, (tú, ver) _____ la puesta de sol.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Si no (tú, tirar) _____ el periódico, ahora (nosotros, poder) _____ ver qué ponen en los cines.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hemos tenido suerte. Si (cerrar) _____ los bancos, no (nosotros, poder) _____ cambiar dinero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué mala suerte. Si no (cambiar) _____ el calendario de fiestas, mañana (nosotros, tener) _____ el día libre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¡Qué pena! Si (nosotros, llegar) _____ un poco antes, (nosotros, ver) _____ el desfile.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Deberíais haber alquilado un coche. (Vosotros, viajar) _____ más cómodos si lo (vosotros, hacer) _____ .",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "97.5",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir lo subrayado con de + infinitivo compuesto.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Si hubiera sabido</u> _____ que te ibas a enfadar, no te habría dicho nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si hubieras tenido ganas</u>, _____ lo habrías hecho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si te hubieras presentado</u>, _____ te habrían elegido concejal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Si hubieras esperado a las rebajas</u>, _____ te habrías ahorrado un dinero.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 97,
+  "titulo_libro": "Si hubieras trabajado antes, ahora no tendrías problemas. -- Oraciones condicionales (4)",
+  "scan": "p-201.jpg"
+}

@@ -1,0 +1,261 @@
+{
+  "tema": "unidad-37",
+  "titulo": "Llevamos tres semanas en Japón.",
+  "descripcion_gramatical": "Llevar para expresar duración",
+  "fuente": "libro",
+  "unidad_libro": 37,
+  "ejercicios": [
+    {
+      "subejercicio": "37.1",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con el presente de *llevar*.",
+      "items": [
+        {
+          "texto_enunciado": "Estamos despiertos desde hace una hora. _____",
+          "solucion_correcta": [
+            "Llevamos una hora despiertos. / Llevamos despiertos una hora"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace un mes que estamos en Manila. _____",
+          "solucion_correcta": [
+            "Llevamos un mes en Manila"
+          ]
+        },
+        {
+          "texto_enunciado": "La ducha se averió hace una semana. _____",
+          "solucion_correcta": [
+            "La ducha lleva una semana averiada. / La ducha lleva averiada una semana"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa estatua hace cien años que está aquí. _____",
+          "solucion_correcta": [
+            "Esa estatua lleva cien años aquí. / Esa estatua lleva aquí cien años"
+          ]
+        },
+        {
+          "texto_enunciado": "El restaurante ese cerró hace meses. _____",
+          "solucion_correcta": [
+            "El restaurante lleva cerrado meses. / El restaurante lleva meses cerrado"
+          ]
+        },
+        {
+          "texto_enunciado": "Encendieron la calefacción hace un rato. _____",
+          "solucion_correcta": [
+            "La"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con el presente de *llevar* y *desde* o *desde que*.",
+      "items": [
+        {
+          "texto_enunciado": "Llegué a Pekín en 2010. Todavía estoy aquí. _____",
+          "solucion_correcta": [
+            "Llevo en Pekín desde 2010"
+          ]
+        },
+        {
+          "texto_enunciado": "Fidel enfermó cuando tenía 30 años. Sigue enfermo. _____",
+          "solucion_correcta": [
+            "Fidel lleva enfermo desde que tenía 30 años"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis se jubiló en 2005. _____",
+          "solucion_correcta": [
+            "Luis lleva jubilado desde 2005"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos reunimos a las ocho. Todavía estamos reunidos. _____",
+          "solucion_correcta": [
+            "Llevamos reunidos desde las ocho"
+          ]
+        },
+        {
+          "texto_enunciado": "El sofá se rompió cuando nos mudamos de casa. Sigue roto. _____",
+          "solucion_correcta": [
+            "El sofá lleva roto desde que nos mudamos de casa"
+          ]
+        },
+        {
+          "texto_enunciado": "Emilio se deprimió cuando lo despidieron del banco. Sigue deprimido. _____",
+          "solucion_correcta": [
+            "Emilio lleva deprimido desde que lo despidieron del banco"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con el presente de *llevar + gerundio*.",
+      "items": [
+        {
+          "texto_enunciado": "Empezamos a viajar hace un mes. _____",
+          "solucion_correcta": [
+            "Llevamos viajando un mes. / Llevamos un mes viajando"
+          ]
+        },
+        {
+          "texto_enunciado": "Alberto empezó a hacer la carrera hace seis años. _____",
+          "solucion_correcta": [
+            "Alberto lleva haciendo la carrera seis años. / Alberto lleva seis años haciendo la carrera"
+          ]
+        },
+        {
+          "texto_enunciado": "Empezaron a vivir en el chalé hace treinta años. _____",
+          "solucion_correcta": [
+            "Llevan viviendo en el chalé treinta años. / Llevan treinta años viviendo en el chalé"
+          ]
+        },
+        {
+          "texto_enunciado": "Sandra empezó a conducir camiones hace tiempo. _____",
+          "solucion_correcta": [
+            "Sandra lleva conduciendo camiones desde hace tiempo"
+          ]
+        },
+        {
+          "texto_enunciado": "Dicen que empezaste a hacer pilates hace un mes. _____",
+          "solucion_correcta": [
+            "Dicen que llevas haciendo pilates un mes. / Dicen que llevas un mes haciendo pilates"
+          ]
+        },
+        {
+          "texto_enunciado": "Empezaron a arreglar la calle hace cuatro años. _____",
+          "solucion_correcta": [
+            "Llevan arreglando la calle cuatro años. / Llevan cuatro años arreglando la calle"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con el presente de *llevar + gerundio* y *desde* o *desde que*.",
+      "items": [
+        {
+          "texto_enunciado": "Daniel empezó a operar cuando tenía 25 años. Todavía sigue operando. _____",
+          "solucion_correcta": [
+            "Daniel lleva operando desde que tenía 25 años"
+          ]
+        },
+        {
+          "texto_enunciado": "Charo empezó a quejarse de la muela ayer tarde y aún se queja. _____",
+          "solucion_correcta": [
+            "Charo lleva quejándose de la muela desde ayer tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "Esta madrugada empezó a nevar y aún nieva. _____",
+          "solucion_correcta": [
+            "Lleva nevando desde esta madrugada"
+          ]
+        },
+        {
+          "texto_enunciado": "Hace tiempo que compro la prensa en ese quiosco. _____",
+          "solucion_correcta": [
+            "Llevo comprando la prensa en ese quiosco desde hace tiempo"
+          ]
+        },
+        {
+          "texto_enunciado": "Blanca empezó a trabajar en Correos cuando acabó el Bachillerato. _____",
+          "solucion_correcta": [
+            "Blanca lleva trabajando en Correos desde que acabó el Bachillerato"
+          ]
+        },
+        {
+          "texto_enunciado": "Empecé a invertir en Bolsa cuando me jubilé y sigo haciéndolo. _____",
+          "solucion_correcta": [
+            "Llevo invirtiendo en bolsa desde que me jubilé"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.5",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con el presente de *llevar + sin + infinitivo*. Use *desde* o *desde que* en caso necesario.",
+      "items": [
+        {
+          "texto_enunciado": "La última vez que fuimos a Escocia fue hace tres años. _____",
+          "solucion_correcta": [
+            "Llevamos tres años sin ir a Escocia"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que probé el alcohol fue en la boda de Rocío. _____",
+          "solucion_correcta": [
+            "Llevo sin probar el alcohol desde la boda de Rocío"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que vi a Esteban fue cuando nos reunimos todos los amigos. _____",
+          "solucion_correcta": [
+            "Llevo sin ver a Esteban desde que nos reunimos todos los amigos"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que jugué al billar fue el verano pasado. _____",
+          "solucion_correcta": [
+            "Llevo sin jugar al billar desde el verano pasado"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que discutimos fue hace una semana. _____",
+          "solucion_correcta": [
+            "Llevamos una semana sin discutir"
+          ]
+        },
+        {
+          "texto_enunciado": "La última vez que corrí una maratón fue hace mucho tiempo. _____",
+          "solucion_correcta": [
+            "Llevo mucho tiempo sin correr una maratón"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "37.6",
+      "tipologia": "T12",
+      "enunciado": "Escriba preguntas para las respuestas.",
+      "items": [
+        {
+          "texto_enunciado": "(hablar, ellos) -¿_____? -Más de tres horas.",
+          "solucion_correcta": [
+            "¿Cuánto llevan hablando? / ¿Cuántas horas llevan hablando?"
+          ]
+        },
+        {
+          "texto_enunciado": "(Jorge, en cama) -¿_____? -Cinco meses.",
+          "solucion_correcta": [
+            "¿Cuánto (tiempo) lleva Jorge en cama? / ¿Cuántos meses lleva Jorge en cama?"
+          ]
+        },
+        {
+          "texto_enunciado": "(tú, no ver a Elena) -¿_____? -Mucho tiempo.",
+          "solucion_correcta": [
+            "¿Cuánto (tiempo) llevas sin ver a Elena?"
+          ]
+        },
+        {
+          "texto_enunciado": "(Álvaro, peinarse) -¿_____? -Más de veinte minutos.",
+          "solucion_correcta": [
+            "¿Cuánto (tiempo) lleva peinándose Álvaro?"
+          ]
+        },
+        {
+          "texto_enunciado": "(Carla, dormir) -¿_____? -Unas ocho horas.",
+          "solucion_correcta": [
+            "¿Cuántas horas lleva Carla durmiendo? / ¿Cuánto (tiempo) lleva durmiendo Carla?"
+          ]
+        }
+      ]
+    }
+  ]
+}

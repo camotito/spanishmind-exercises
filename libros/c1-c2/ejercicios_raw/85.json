@@ -1,0 +1,207 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "85.1",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases volviendo a escribir las subrayadas con *antes de* y *después de*.",
+      "items": [
+        {
+          "texto_enunciado": "Ponte el abrigo. <u>Luego sal.</u> _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Alfredo se fue.</u> Jugamos a las cartas. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Duermo.</u> Me siento mejor. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Os fuisteis.</u> Llamó Carlos. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me duché. <u>Me acosté.</u> _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "85.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la forma correcta de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Piénsalo antes de que (ser) _____ tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes de que (tú, llamar) _____, ya me habían contado lo que pasó.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Continuamos el viaje después de que (ellos, arreglar) _____ las vías.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Prefiero decírtelo yo antes de que te lo (decir) _____ otro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Héctor se fue antes de que sus padres (enterarse) _____ de que había suspendido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No creo que se solucione la crisis antes de que (cambiar) _____ el gobierno.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los ladrones escaparon antes de que la policía (poder) _____ detenerlos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Gema y yo quedamos para después de que (terminar) _____ el partido.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "85.3",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *antes de* o *antes que*. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No quiero trabajar con Elena. Prefiero pedir limosna. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se acostó. No recogió la mesa. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No quiero tirar este abrigo. Prefiero dárselo a alguien. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No quiero que me despidan. Prefiero irme yo. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Marta destruyó la novela. No la acabó. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mónica no quiere pedirme que la acompañe. Prefiere ir sola. _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me robaron la pulsera que me regaló Pedro. No la estrené. _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "85.4",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Estoy mucho mejor desde que no (trabajo/trabaje).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es la primera noticia que tengo de Manoli desde que se (fue/vaya) a Manila.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estuve hablando con Pilar hasta (convencerla/la convencí) de que no tenía razón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lucía es terrible. Hasta que no me (enfadar/enfada), no para.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Conozco a Enrique desde que (íbamos/vayamos) al instituto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El teatro no se abre hasta que (terminan/terminen) las obras.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tras (saludarnos/que nos saludó), nos presentó a sus padres.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No os levantéis de la mesa hasta que (terminéis/termináis) el postre.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Conozco esa librería desde que (vivo/viva) en Madrid.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "85.5",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el verbo entre paréntesis en la forma adecuada.",
+      "items": [
+        {
+          "texto_enunciado": "Conozco a Marta desde que (nosotros, ir) _____ a la universidad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Haz señales hasta que (parar) _____ algún taxi.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No paró hasta (conseguir) _____ lo que quería.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Normalmente no comemos hasta que (llegar) _____ Mario.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No he vuelto a ver a Cristina desde que (casarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No se fue el mal olor hasta que (nosotros, limpiar) _____ el frigorífico.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Regresó a España tras (vivir) _____ ocho años en Japón.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ángel parece más tranquilo desde que (él, salir) _____ con Beatriz.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estuvimos en casa de Charo hasta que (dar) _____ las diez.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Desde que (tú, hacer) _____ deporte, te noto más delgada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El asaltante quedó herido grave, tras (recibir) _____ dos tiros.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 85,
+  "titulo_libro": "antes de que me lo preguntes -- Oraciones temporales (1)",
+  "scan": "p-177.jpg"
+}

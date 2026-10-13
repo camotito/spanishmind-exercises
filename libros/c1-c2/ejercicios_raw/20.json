@@ -1,0 +1,215 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "20.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos del recuadro y *se*, y *uno* o *la gente* donde sea necesario.",
+      "banco_palabras": [
+        "acostarse",
+        "comer",
+        "dormir",
+        "gastarse",
+        "madrugar",
+        "respirar",
+        "sentirse",
+        "tratar",
+        "viajar",
+        "vivir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "En verano en el campo _____ mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Fuera de la ciudad _____ un aire más puro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En esta empresa, _____ muy a gusto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En estos colchones _____ estupendamente, se lo aseguro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En algunas partes, _____ muy mal a los animales.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy seguro de que pronto _____ a otros planetas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En Italia _____ de maravilla.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En el sur de España _____ muy tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Aquí, como hace calor, _____ poco en ropa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Como aquí no _____ en ningún sitio.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "20.2",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con el verbo entre paréntesis y *se*.",
+      "items": [
+        {
+          "texto_enunciado": "No es posible ir en coche por este bosque. (poder) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En España antes era costumbre cenar muy tarde. (soler) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es necesario tener visado para viajar a China. (necesitar) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es posible vivir bien sin trabajar. (poder) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es aconsejable usar el móvil mientras se conduce. (deber) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes no era posible viajar a los países de la Europa del Este. (poder) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes, para ser policía, no era necesario tener estudios. (necesitar) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "En España es costumbre beber vino en las comidas. (soler) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No es aconsejable hacer fuego en el campo. (deber) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes no era posible viajar de España a Portugal sin pasaporte. (poder) _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Pronto se tendrán conocimientos para curar el cáncer. (saber) _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "20.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con el verbo entre paréntesis en el tiempo adecuado y *se*.",
+      "items": [
+        {
+          "texto_enunciado": "(rumorear) _____ va a haber cambios en el gobierno.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(decir) _____ Eva era hija de Alfonso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(sospechar) _____ esa empresa está a punto de quebrar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(pensar) _____ iba a cambiar el tiempo, pero ha seguido haciendo frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(esperar) _____ ganen los candidatos del gobierno.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(decir) _____ en esa casa había fantasmas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(rumorear) _____ el tesorero había robado dinero.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(saber) _____ Colón nació en Génova.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(suponer) _____ la nueva secretaria es una enchufada del director.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Antes no (saber) _____ la Tierra era redonda.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "20.4",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con la forma adecuada de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Se espera que el secretario (dimitir) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se sospecha que (haber) _____ bastantes heridos en el accidente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No se esperaba que los controladores (ponerse) _____ en huelga.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se rumoreaba que Adela (estar) _____ enamorada de Agustín.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se decía que Juan (estar) _____ en la cárcel de joven, pero no era cierto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se espera que (volver) _____ a bajar la Bolsa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se piensa que (mejorar) _____ la economía, pero yo veo que está todo igual.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No se esperaba que (haber) _____ tantos alumnos este año.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se esperaba que el gobierno (subir) _____ los impuestos, pero no lo ha hecho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No se espera que (cambiar) _____ el tiempo.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 20,
+  "titulo_libro": "Aquí se come bien. Se esperaba que lloviera. -- Se impersonal",
+  "scan": "p-048.jpg"
+}

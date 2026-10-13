@@ -1,0 +1,255 @@
+{
+  "tema": "unidad-95",
+  "titulo": "como pierda el trabajo, de ser así",
+  "descripcion_gramatical": "Oraciones condicionales (2)",
+  "fuente": "libro",
+  "unidad_libro": 95,
+  "ejercicios": [
+    {
+      "subejercicio": "95.1",
+      "tipologia": "T10",
+      "enunciado": "Vuelva a escribir las frases con *como*.",
+      "items": [
+        {
+          "texto_enunciado": "A lo mejor llegamos tarde. No nos van a dejar entrar. _____",
+          "solucion_correcta": [
+            "Como lleguemos tarde, no nos van a dejar entrar"
+          ]
+        },
+        {
+          "texto_enunciado": "A lo mejor se entera Raquel. Se va a enfadar. _____",
+          "solucion_correcta": [
+            "Como se entere Raquel, se va a enfadar"
+          ]
+        },
+        {
+          "texto_enunciado": "A lo mejor me vuelve a gritar. Me voy. _____",
+          "solucion_correcta": [
+            "Como me vuelva a gritar, me voy"
+          ]
+        },
+        {
+          "texto_enunciado": "A lo mejor te pones esa chaqueta. No voy contigo. _____",
+          "solucion_correcta": [
+            "Como te pongas esa chaqueta, no voy contigo"
+          ]
+        },
+        {
+          "texto_enunciado": "A lo mejor me da plantón. No vuelvo a quedar con ella. _____",
+          "solucion_correcta": [
+            "Como me dé plantón, no vuelvo a quedar con ella"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.2",
+      "tipologia": "T12",
+      "enunciado": "Exprese temor o amenaza con *como* como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "He vuelto a llegar tarde y a lo mejor se lo dices al director. _____",
+          "solucion_correcta": [
+            "¡Como se lo digas...!"
+          ]
+        },
+        {
+          "texto_enunciado": "He hecho mal el examen y a lo mejor vuelvo a suspender. _____",
+          "solucion_correcta": [
+            "¡Como vuelva a suspender...!"
+          ]
+        },
+        {
+          "texto_enunciado": "He roto el jarrón y a lo mejor se lo dices a mamá. _____",
+          "solucion_correcta": [
+            "¡Como se lo digas a mamá...!"
+          ]
+        },
+        {
+          "texto_enunciado": "Vamos tarde y a lo mejor perdemos el avión. _____",
+          "solucion_correcta": [
+            "¡Como perdamos el avión...!"
+          ]
+        },
+        {
+          "texto_enunciado": "No quiero que fumes y a lo mejor te vuelvo a ver fumando. _____",
+          "solucion_correcta": [
+            "¡Como te vuelva a ver fumando...!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *que* como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "Te lo puede pedir o no. Si lo hace, dáselo. _____",
+          "solucion_correcta": [
+            "Que te lo pide, se lo das, que no te lo pide, no se lo das"
+          ]
+        },
+        {
+          "texto_enunciado": "Puede hacer bueno o no. Podemos ir a la playa o quedarnos en casa. _____",
+          "solucion_correcta": [
+            "Que hace bueno, vamos a la playa, que no hace bueno, nos quedamos en casa"
+          ]
+        },
+        {
+          "texto_enunciado": "Te pueden invitar o no. Si lo hacen, vas. _____",
+          "solucion_correcta": [
+            "Que te invitan, vas, que no te invitan, no vas"
+          ]
+        },
+        {
+          "texto_enunciado": "Te puede gustar la comida o no. Si te gusta, cómela. _____",
+          "solucion_correcta": [
+            "Que te gusta la comida, te la comes, que no te gusta, no te la comes"
+          ]
+        },
+        {
+          "texto_enunciado": "Te pueden dar la beca o no. Si te la dan, la aceptas, si no, vuelves a solicitarla. _____",
+          "solucion_correcta": [
+            "Que te dan la beca, la aceptas, que no te dan la beca, vuelves a solicitarla"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.4",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con el imperativo.",
+      "items": [
+        {
+          "texto_enunciado": "Si me llamas, te ayudo. _____",
+          "solucion_correcta": [
+            "Llámame y te ayudo. / Llámame, que te ayudo"
+          ]
+        },
+        {
+          "texto_enunciado": "Si no te callas, me voy. _____",
+          "solucion_correcta": [
+            "Cállate o me voy. / Cállate, que me voy"
+          ]
+        },
+        {
+          "texto_enunciado": "Si te atreves a hacerlo, verás. _____",
+          "solucion_correcta": [
+            "Atrévete a hacerlo y verás"
+          ]
+        },
+        {
+          "texto_enunciado": "Si lo haces te arrepentirás. _____",
+          "solucion_correcta": [
+            "Hazla y te arrepentirás"
+          ]
+        },
+        {
+          "texto_enunciado": "Si no apruebas el curso, no te compro la moto. _____",
+          "solucion_correcta": [
+            "Aprueba el curso y te compro la moto. / Aprueba el curso, que te compro la moto"
+          ]
+        },
+        {
+          "texto_enunciado": "Si vuelves a contestarme, te quedas sin salir. _____",
+          "solucion_correcta": [
+            "Vuelve a contestarme y te quedas sin salir. / Vuelve a contestarme, que te quedas sin salir"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.5",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con el gerundio.",
+      "items": [
+        {
+          "texto_enunciado": "Si trabajamos juntos, lo conseguiremos. _____",
+          "solucion_correcta": [
+            "Trabajando juntos, lo conseguiremos"
+          ]
+        },
+        {
+          "texto_enunciado": "Si ayudas a la gente, te sientes mejor. _____",
+          "solucion_correcta": [
+            "Ayudando a la gente, te sientes mejor"
+          ]
+        },
+        {
+          "texto_enunciado": "Si gritas, no me vas a convencer. _____",
+          "solucion_correcta": [
+            "Gritando, no me vas a convencer"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese dolor se te pasa si duermes. _____",
+          "solucion_correcta": [
+            "Ese dolor se te pasa durmiendo"
+          ]
+        },
+        {
+          "texto_enunciado": "Si llegáis a la hora, no habrá ningún problema. _____",
+          "solucion_correcta": [
+            "Llegando a la hora, no habrá ningún problema"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "95.6",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir lo subrayado con *con* o *de + infinitivo*.",
+      "items": [
+        {
+          "texto_enunciado": "<u>Si os vais a ir</u> _____, hacedlo antes de que se haga de noche.",
+          "solucion_correcta": [
+            "De iros"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si gastáis menos un par de meses</u> _____, ahorraréis para comprar la impresora.",
+          "solucion_correcta": [
+            "Con gastar menos un par de meses"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si es cierto lo que dices</u> _____, me he equivocado.",
+          "solucion_correcta": [
+            "De ser cierto lo que dices"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si tienes razón</u> _____, ya deberías haber reservado las habitaciones.",
+          "solucion_correcta": [
+            "De tener razón"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si me avisas un día antes</u> _____, es suficiente.",
+          "solucion_correcta": [
+            "Con avisarme un día antes"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si vas a venir</u> _____, ven cuanto antes.",
+          "solucion_correcta": [
+            "De venir"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si te presentas al examen</u> _____, es suficiente; apruebas.",
+          "solucion_correcta": [
+            "Con presentarte al examen"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Si no se lo dices a nadie</u> _____, no sospecharán de ti.",
+          "solucion_correcta": [
+            "Con no decírselo a nadie"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "tema": "unidad-57",
+  "titulo": "¡Ojalá estén en casa! ¡Que tengas buen viaje!",
+  "descripcion_gramatical": "Presente de subjuntivo (1)",
+  "fuente": "libro",
+  "unidad_libro": 57,
+  "ejercicios": [
+    {
+      "subejercicio": "57.1",
+      "tipologia": "T12",
+      "enunciado": "Exprese los siguientes deseos con *que*.",
+      "items": [
+        {
+          "texto_enunciado": "A un amigo en su cumpleaños: vivir muchos años _____",
+          "solucion_correcta": [
+            "¡Que vivas muchos años!"
+          ]
+        },
+        {
+          "texto_enunciado": "A unos amigos que se van a otro país: tener un buen vuelo _____",
+          "solucion_correcta": [
+            "¡Que tengáis un buen vuelo!"
+          ]
+        },
+        {
+          "texto_enunciado": "Sobre un amigo: darle el trabajo _____",
+          "solucion_correcta": [
+            "¡Que le den el trabajo!"
+          ]
+        },
+        {
+          "texto_enunciado": "A unos amigos que van a una fiesta: bailar mucho _____",
+          "solucion_correcta": [
+            "¡Que bailéis mucho!"
+          ]
+        },
+        {
+          "texto_enunciado": "Sobre un amigo, Rodolfo: encontrar trabajo _____",
+          "solucion_correcta": [
+            "¡Que Rodolfo encuentre trabajo!"
+          ]
+        },
+        {
+          "texto_enunciado": "A unos amigos: dormir bien _____",
+          "solucion_correcta": [
+            "¡Que durmáis bien!"
+          ]
+        },
+        {
+          "texto_enunciado": "A un amigo pintor en su exposición: vender muchos cuadros _____",
+          "solucion_correcta": [
+            "¡Que vendas muchos cuadros!"
+          ]
+        },
+        {
+          "texto_enunciado": "A unos amigos que han perdido el equipaje: encontrar las maletas _____",
+          "solucion_correcta": [
+            "¡Que encontréis las maletas!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.2",
+      "tipologia": "T12",
+      "enunciado": "Exprese los siguientes deseos con *ojalá (que)* y *así*.",
+      "items": [
+        {
+          "texto_enunciado": "–Mañana me operan. –(ir todo bien) _____",
+          "solucion_correcta": [
+            "¡Ojalá vaya todo bien!"
+          ]
+        },
+        {
+          "texto_enunciado": "–Lorenzo no quiere dejarme el dinero que necesito para la tienda. –(arruinarse) _____",
+          "solucion_correcta": [
+            "¡Así se arruine! / ¡Ojalá se arruine!"
+          ]
+        },
+        {
+          "texto_enunciado": "Hemos comprado un décimo de lotería. (tocarnos) _____",
+          "solucion_correcta": [
+            "¡Ojalá (que) nos toque!"
+          ]
+        },
+        {
+          "texto_enunciado": "He solicitado ingresar en la policía. (admitirme) _____",
+          "solucion_correcta": [
+            "¡Ojalá (que) me admitan!"
+          ]
+        },
+        {
+          "texto_enunciado": "–Román se ha puesto tu sombrero. –(caérsele el pelo) _____",
+          "solucion_correcta": [
+            "¡Así se le caiga el pelo! / ¡Ojalá se le caiga el pelo!"
+          ]
+        },
+        {
+          "texto_enunciado": "–Paco y Maribel se han presentado a un concurso de baile. –(ganar) _____",
+          "solucion_correcta": [
+            "¡Ojalá (que) ganen!"
+          ]
+        },
+        {
+          "texto_enunciado": "–El avión de Lina tiene un problema en un motor. –(ellos, aterrizar sin problemas) _____",
+          "solucion_correcta": [
+            "¡Ojalá (que) aterricen sin problemas!"
+          ]
+        },
+        {
+          "texto_enunciado": "–El director no nos deja hacer horas extras. –(hundirse la empresa) _____",
+          "solucion_correcta": [
+            "¡Así se hunda la empresa! / ¡Ojalá se hunda la empresa!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.3",
+      "tipologia": "T10",
+      "enunciado": "Una las dos frases en una exclamación con *¡qué!*",
+      "items": [
+        {
+          "texto_enunciado": "No funcionan los autobuses. Es extraño. _____",
+          "solucion_correcta": [
+            "¡Qué extraño que no funcionen los autobuses!"
+          ]
+        },
+        {
+          "texto_enunciado": "Marta no contesta al teléfono. Es raro. _____",
+          "solucion_correcta": [
+            "¡Qué raro que Marta no conteste al teléfono!"
+          ]
+        },
+        {
+          "texto_enunciado": "Luis paga hoy la cena. Eso está bien. _____",
+          "solucion_correcta": [
+            "¡Qué bien que pague hoy Luis la cena!"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana tenemos fiesta. Me da alegría. _____",
+          "solucion_correcta": [
+            "¡Qué alegría que mañana tengamos fiesta!"
+          ]
+        },
+        {
+          "texto_enunciado": "La empresa está mal. Me da pena. _____",
+          "solucion_correcta": [
+            "¡Qué pena que la empresa esté mal!"
+          ]
+        },
+        {
+          "texto_enunciado": "En algunos países aún hay mucha pobreza. Es una vergüenza. _____",
+          "solucion_correcta": [
+            "¡Qué vergüenza que aún haya mucha pobreza en algunos países!"
+          ]
+        },
+        {
+          "texto_enunciado": "No hay mucha gente en el teatro. Es extraño. _____",
+          "solucion_correcta": [
+            "¡Qué extraño que no haya mucha gente en el teatro!"
+          ]
+        },
+        {
+          "texto_enunciado": "Rosa va a tener un niño. Es fenomenal. _____",
+          "solucion_correcta": [
+            "¡Qué fenomenal que Rosa vaya a tener un niño!"
+          ]
+        },
+        {
+          "texto_enunciado": "Estás enfermo. No podemos ir a casa de Rodri. Es una lástima. _____",
+          "solucion_correcta": [
+            "¡Qué lástima que no podamos ir a casa de Rodri!"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.4",
+      "tipologia": "T4",
+      "enunciado": "Exprese probabilidad con los adverbios y verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "–¿Sabes si va a venir hoy Toni? –No, pero (quizá, venir) _____ mañana.",
+          "solucion_correcta": [
+            "quizá venga"
+          ]
+        },
+        {
+          "texto_enunciado": "–No encuentro el martillo. ¿Sabes dónde está? –(Posiblemente, estar) _____ en el garaje.",
+          "solucion_correcta": [
+            "Posiblemente esté"
+          ]
+        },
+        {
+          "texto_enunciado": "Jorge tiene mucha fiebre. (Posiblemente, ser) _____ la gripe A.",
+          "solucion_correcta": [
+            "Posiblemente sea"
+          ]
+        },
+        {
+          "texto_enunciado": "No me esperéis. (Probablemente, yo, comer) _____ fuera.",
+          "solucion_correcta": [
+            "Probablemente coma"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Por qué estás tan contento? –Me han dicho que (quizás, nombrarme) _____ jefe de sección.",
+          "solucion_correcta": [
+            "quizás me nombren"
+          ]
+        },
+        {
+          "texto_enunciado": "–¿Sabes dónde está Marta? –Yo no, pero (acaso, saberlo) _____ Lorenzo.",
+          "solucion_correcta": [
+            "acaso lo sepa"
+          ]
+        },
+        {
+          "texto_enunciado": "Todavía no es seguro, pero (tal vez, nosotros, ir) _____ a Argentina este verano.",
+          "solucion_correcta": [
+            "tal vez vayamos"
+          ]
+        },
+        {
+          "texto_enunciado": "He ido al médico por el dolor en la pierna, pero cree que (probablemente, no ser) _____ nada importante.",
+          "solucion_correcta": [
+            "probablemente no sea"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "57.5",
+      "tipologia": "T12",
+      "enunciado": "Escriba las órdenes con *que*.",
+      "items": [
+        {
+          "texto_enunciado": "–Han llegado los inspectores. –(pasar) _____.",
+          "solucion_correcta": [
+            "Que pasen"
+          ]
+        },
+        {
+          "texto_enunciado": "–Le llama su hijo. –No puedo ponerme. (decir) _____ qué quiere.",
+          "solucion_correcta": [
+            "Que (le) diga"
+          ]
+        },
+        {
+          "texto_enunciado": "–Está aquí el cobrador de la imprenta. –(venir) _____ mañana.",
+          "solucion_correcta": [
+            "Que venga"
+          ]
+        },
+        {
+          "texto_enunciado": "Callaos. Es que le quiero explicar algo. _____",
+          "solucion_correcta": [
+            "Que os calléis"
+          ]
+        },
+        {
+          "texto_enunciado": "–Los delegados sindicales quieren hablar con usted. –Estoy ocupado. (volver) _____ más tarde.",
+          "solucion_correcta": [
+            "Que vuelvan"
+          ]
+        },
+        {
+          "texto_enunciado": "–Están aquí otra vez los delegados sindicales. –(entrar) _____.",
+          "solucion_correcta": [
+            "Que entren"
+          ]
+        },
+        {
+          "texto_enunciado": "–Coge eso, Arturo. –No quiero. –_____ eso, te digo.",
+          "solucion_correcta": [
+            "Que cojas"
+          ]
+        },
+        {
+          "texto_enunciado": "Esos niños hacen mucho ruido. (callarse) _____.",
+          "solucion_correcta": [
+            "Que se callen"
+          ]
+        }
+      ]
+    }
+  ]
+}

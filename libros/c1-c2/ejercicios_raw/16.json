@@ -1,0 +1,208 @@
+{
+ "ejercicios": [
+  {
+   "subejercicio": "16.1",
+   "tipologia": "T4",
+   "tipologia_libre": null,
+   "enunciado": "Escriba frases con los verbos entre paréntesis y los pronombres adecuados.",
+   "items": [
+    {
+     "texto_enunciado": "-Me gustan esas botas. -(compra) _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Ves a Sofía? -Sí, (veo) _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Quieres que haga café? -Sí, por favor, (haz) _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No sé dónde están los niños. No puedo (ver) _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿(Oyes) _____ , Luis? -Sí, (oigo) _____ perfectamente, Ramón.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Cómo va el rey? -No sé. Desde aquí no se (ve) _____ muy bien.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "A ver niños. (Mirad) _____ cuando os estoy hablando.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Has hecho ya los ejercicios? -No, tengo que (hacer) _____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Qué está diciendo la presentadora? -No sé. No se (entiende) _____ muy bien.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Ves al cantante? -Sí, desde aquí se (ve) _____ bastante bien.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "A mi hermano y a mí (critican) _____ por todo.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Qué haces con las gambas? -(Estoy pelando) _____ .",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "16.2",
+   "tipologia": "T11",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases destacando el objeto directo.",
+   "items": [
+    {
+     "texto_enunciado": "Ya he visto esa película. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No te preocupes. Yo pago los helados. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ya hemos hecho estos ejercicios. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Yo he redactado el informe. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Un camión ha provocado el accidente. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ya conocemos a tus hermanas. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "16.3",
+   "tipologia": "T11",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases con *los*, *las*.",
+   "items": [
+    {
+     "texto_enunciado": "Hay gente que no ayuda nunca. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Hay algunos que no hacen nada. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Hay algunas que tienen mucha suerte. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Hay algunos que son muy molestos. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Hay gente que vive del cuento. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Hay gente que no tiene sentido del ridículo. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "16.4",
+   "tipologia": "T8",
+   "tipologia_libre": "Completar huecos seleccionando la frase o expresión fija adecuada de un recuadro de opciones.",
+   "enunciado": "Utilice una de las frases del recuadro.",
+   "banco_palabras": [
+    "arreglártelas",
+    "la he fastidiado",
+    "la han tomado",
+    "no la fastidies",
+    "no la toméis",
+    "se las arregla"
+   ],
+   "items": [
+    {
+     "texto_enunciado": "No sé cómo Arturo _____ para vivir con 500 euros.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "_____ contigo, Pep. Quieren que te cases a toda costa.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "_____ . Luisa me ha visto con Pepa.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Tienes que _____ para devolverme el dinero que te presté.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "_____ conmigo. Yo no tengo la culpa de nada.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ten cuidado y _____ . No le digas a nadie que estamos aquí.",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Completar huecos seleccionando la frase o expresión fija adecuada de un recuadro de opciones."
+  },
+  {
+   "subejercicio": "16.5",
+   "tipologia": "T3",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *lo* o *la*.",
+   "items": [
+    {
+     "texto_enunciado": "-¿Has preparado la comida? -No, no _____ he preparado. No he tenido tiempo. _____ siento.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Felipe es muy inteligente. -Sí, pero la verdad es que no _____ parece.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Sabéis dónde está Rosario? -No, no _____ sabemos. Hace mucho que no _____ vemos.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Quieres conducir tú un poco? -No, gracias, prefiero no hacer_____ .",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿Estás cansado? -Sí, la verdad es que _____ estoy.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Elena dice que es actriz. -Pues no _____ es. Es esteticista.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-¿De dónde es Lucía? ¿Es chilena? -No, no _____ es. Es peruana.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "-Jesús y Ángel dicen que son actores. -Pues no _____ son.",
+     "estimulo_visual": null
+    }
+   ]
+  }
+ ],
+ "unidad": 16,
+ "titulo_libro": "A esta chica la conozco. No se le ve muy bien. -- Pronombres personales de objeto directo",
+ "scan": "p-040.jpg"
+}

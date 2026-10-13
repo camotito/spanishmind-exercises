@@ -1,0 +1,216 @@
+{
+ "ejercicios": [
+  {
+   "subejercicio": "102.1",
+   "tipologia": "T3",
+   "tipologia_libre": null,
+   "enunciado": "Complete con *tan*, *tanto*, *más*, *menos* y *como*, *que*, *de*, *el/la/los/las que*, *lo que*, *lo*.",
+   "items": [
+    {
+     "texto_enunciado": "Sara en persona es mucho _____ atractiva _____ parece en fotografía.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "A veces, el león no es _____ fiero _____ lo pintan.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Es un tragón y un bebedor. Come _____ bebe.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¡Qué bien! He adelgazado _____ pensaba.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Me gusta _____ tu cuadro _____ ha pintado Isabel. Tiene más fuerza.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Esta furgoneta no es _____ rápida _____ un coche, pero caben más cosas.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Esa montaña es _____ peligrosa _____ piensan algunos.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Estoy contentísimo. Me han pagado _____ acordado.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Me gustan _____ estas manzanas _____ compras tú.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Teo no es _____ fuerte _____ parece.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¡Qué bien! El televisor cuesta _____ me figuraba.",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Javi está otra vez mal. Siempre come _____ necesario.",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "102.2",
+   "tipologia": "T10",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases con una estructura comparativa.",
+   "items": [
+    {
+     "texto_enunciado": "Mi hermano es muy trabajador y yo soy muy vago. Mi hermano _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Alberto es poco eficaz. Yo creía que lo era más. Alberto _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Eres poco honrada. Los que te han engañado lo son más. Eres _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Es muy tarde. No pensaba que lo fuera. Es _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Elena es muy trabajadora y muy ahorradora. Elena _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Jesús es un buen alumno. Sus padres no lo creían. Jesús _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Las notas de Marta no son buenas. Las de su hermana son mejores. Las notas de Marta _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Esta planta ha crecido mucho. Más de lo habitual. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Alonso no habla inglés bien. Yo no hablo chino. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "China es muy grande y muy interesante. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Adela no es amable. Yo no soy alta. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Es muy rico. No me lo imaginaba. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "102.3",
+   "tipologia": "T10",
+   "tipologia_libre": null,
+   "enunciado": "Vuelva a escribir las frases con una estructura comparativa.",
+   "items": [
+    {
+     "texto_enunciado": "En España no llueve mucho. En Portugal llueve más. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "He comido mucho. No quería. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Jorge es un gran vendedor. Vende mucho. El resto de sus compañeros venden lo mismo. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Ese piso no vale lo que Sonia piensa. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Marina promete demasiado. Más que cumple. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Antonio gana mucho, pero gasta más. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Apenas desayuno por la mañana. Silvia desayuna más. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No entreno mucho. Me gustaría entrenar más. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No llovió mucho. Mucho menos de lo que decían los pronósticos. _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Está nevando mucho. No es lo habitual. _____",
+     "estimulo_visual": null
+    }
+   ]
+  },
+  {
+   "subejercicio": "102.4",
+   "tipologia": "T12",
+   "tipologia_libre": "Construcción de oraciones con estructura correlativa ('cuanto más/menos...') a partir de una situación y elementos léxicos dados entre paréntesis",
+   "enunciado": "Escriba frases con *cuanto* con las palabras dadas entre paréntesis.",
+   "items": [
+    {
+     "texto_enunciado": "Arturo es un poco raro. (más, llover / más contento, ponerse) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Descansa. Lógicamente. (más, tú, correr / más, tú, cansarse) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "¡Fenomenal! (menos, ello, costar / mejor) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Deberías saldar la deuda. (más, tú, tardar en pagar / mayores, ser, los intereses.) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Es mejor que no la veas. (menos, yo, verla / menos, yo, acordarse de ella) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Es normal. (más, tú, comer / más, tú, engordar) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Es lógico. (mejor, él, explicar / mejor, yo, entenderlo) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Es muy luchadora. (peor, ellos, tratarla / más, ella, rebelarse) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "Tranquilo. (menos, tú, correr / menos, tú, cansarse) _____",
+     "estimulo_visual": null
+    },
+    {
+     "texto_enunciado": "No te preocupes. (menos, tú, pensarlo / mejor) _____",
+     "estimulo_visual": null
+    }
+   ],
+   "tipologia_libre_original": "Construcción de oraciones con estructura correlativa ('cuanto más/menos...') a partir de una situación y elementos léxicos dados entre paréntesis"
+  }
+ ],
+ "unidad": 102,
+ "titulo_libro": "más guapo que inteligente, menos de lo que creía -- Oraciones comparativas (1)",
+ "scan": "p-211.jpg"
+}

@@ -1,0 +1,189 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "50.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases en afirmativa o negativa expresando posibilidad o situaciones imaginarias.",
+      "items": [
+        {
+          "texto_enunciado": "-Ya está arreglado. -Gracias. Sin tu ayuda, (yo, poder) _____ arreglar el coche.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Sabéis mucho español. -Sí. Con otro profesor, (nosotros, aprender) _____ tanto español.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Esto no está acabado. -Ya. Con un poco más de tiempo, lo (nosotros, acabar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sin tus indicaciones, (ellos, encontrar) _____ nunca esa calle.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Lorenzo ha alquilado su apartamento. -Necesita dinero. Yo también lo (alquilar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Agustín me ha conseguido un empleo. -Has tenido suerte. Lola no te lo (conseguir) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No me gustó cómo hizo Guillermo el proyecto. -Sí, lo (hacer) _____ mejor sin tanta prisa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nunca pudo hacerlo, pero a Jorge le (encantar) _____ ser primatólogo.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "50.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete estos consejos tardíos.",
+      "items": [
+        {
+          "texto_enunciado": "-Toda la fruta que compré estaba mala. -Yo no la (comprar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Se cayó y al día siguiente no podía levantarse. -Yo (ir) _____ al hospital.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-De madrugada, oí chillidos en el piso de al lado. -Yo (llamar) _____ a la policía, desde luego.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Cogimos un taxi para ir al concierto y nos pilló una manifestación. -Yo (coger) _____ el metro.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No quedaban billetes de tren. -Hay que ser precavido. Yo los (reservar) _____ mucho antes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-No teníamos agua caliente en la ducha y los empleados del hotel no nos hacían ni caso. -Yo (hablar) _____ con el director.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "50.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Exprese los deseos no cumplidos con el condicional compuesto de los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(estudiar) _____ Arquitectura, pero no me admitieron en la Escuela.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(gustarme) _____ viajar por el mundo, pero nunca tuve tiempo para hacerlo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(casarse) _____, pero nunca conocí a nadie que me gustara lo suficiente.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(encantar) _____ saludar a tus padres, pero tenía mucha prisa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(quedarse) _____ en tu fiesta, pero era demasiado tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "(llamar) _____ a Cristina, pero no tenía su número de móvil.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "50.4",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete las explicaciones u objeciones. Use los verbos del recuadro.",
+      "banco_palabras": [
+        "beber",
+        "comer",
+        "discutir",
+        "hacer",
+        "lesionarse",
+        "pelearse",
+        "prometer",
+        "resfriarse"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "-Laura tenía algo de fiebre anoche. - _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¡Qué lástima que no ganara Enrique! Lo había hecho muy bien. -Lo _____ bien, pero quedó el último.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Ayer vi a Robertinho con la pierna vendada. - _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Teresa y Enrique estaban de mal humor y no se hablaban. - _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Elena no llamó anoche y había prometido hacernos una cena. -Lo _____, pero no la hizo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Ayer tuve el estómago mal todo el día. - _____ algo en mal estado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Gema vino sola al concierto. - _____ con Jaime.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Julio nos decía cosas raras en la boda. - _____ demasiado.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "50.5",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las noticias oficiosas.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Por qué crees que liberaron a los rehenes? -Según este periódico, el gobierno (pagar) _____ el rescate.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Sabes por qué se fue Alonso a otra empresa? -Según Ramírez, una multinacional muy importante le (ofrecer) _____ un contrato fabuloso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Crees que seguirá el Primer Ministro? -Parece que no. Según Antena Cinco, el partido del Primer Ministro (perder) _____ las elecciones.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Piensas que habrá un cambio climático? -Parece que sí. Según la prensa, la temperatura de los océanos (subir) _____ bastante en muy poco tiempo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Habrá fichado ya el Madrid a otro defensa? -No creo. Según rumores, el director deportivo todavía no (iniciar) _____ conversaciones con nadie.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 50,
+  "titulo_libro": "habría estudiado -- Condicional compuesto",
+  "scan": "p-107.jpg"
+}

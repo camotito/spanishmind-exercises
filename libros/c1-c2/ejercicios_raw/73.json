@@ -1,0 +1,171 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "73.1",
+      "tipologia": "T5",
+      "tipologia_libre": null,
+      "enunciado": "Rodee la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Conseguí (aceptarme/que me aceptaran) en la universidad.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que merecerías (aprobar/que aprobaras).",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Susana no quería (ver/que viera) a Pablo y evitó (encontrarse/que se encontrara) con él.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me han pedido (hacer/que haga) un curso en Dirección de Empresas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Prefiero (quedarme/que me quede) a acabar el proyecto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siento (llegar/que llegue) tarde, pero el metro estaba averiado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿No pretenderás (engañarme/que me engañes)? Te conozco muy bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He logrado (alquilarme/que me alquilen) una plaza de garaje.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Algunos siempre buscan (salir/que salgan) en los medios.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mis padres han pensado (estudiar/que estudie) una ingeniería, aunque no se me dan bien las matemáticas.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "73.2",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos entre paréntesis con las dos posibilidades.",
+      "items": [
+        {
+          "texto_enunciado": "El profesor no nos deja (usar) _____ el móvil en clase.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El médico me ha aconsejado (vacunarse) _____ contra la gripe.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Es un profesor muy serio. Siempre está mandándonos (callar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me vas a impedir (hablar) _____ con Rosario.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El jefe nos exige (hacer) _____ todo perfecto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Un amigo me ha recomendado (leer) _____ esa novela.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A mi padre le han prohibido (tomar) _____ sal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te permito (hablarme) _____ de ese modo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Las películas de amor siempre me hacen (llorar) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Arturo nos invitó a (pasar) _____ una noche en su mansión.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "73.3",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete con los verbos entre paréntesis en la forma correcta.",
+      "items": [
+        {
+          "texto_enunciado": "Prefiero (tú, enviar) _____ el paquete por correo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Quieres (yo, preparar) _____ algo para cenar?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Rocío tiene mucha cara. Pretendía (yo, ayudarla) _____ gratis.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Dónde pensáis (vosotros, ir) _____ este verano? -A Río.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sara es tremenda. Siempre consigue (yo, enfadarme) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Juanjo está desesperado. Ha solicitado (él, ingresar) _____ en el Ejército.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Lola, por favor, procura (tú, cerrar) _____ la puerta cuando salgas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raúl es un buen amigo. Logró (ellos, subirme) _____ el sueldo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Siento (vosotros, mojarse) _____, pero no sabía que iba a llover.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No quiero hacer esto yo sola. Temo (equivocarse) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Qué tal en Portugal? Espero (vosotros, pasarlo) _____ bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sonia escribió a su madre y le pidió (ella, buscarnos) _____ hotel en Sevilla.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esperaba (venir) _____ mis padres, pero no pudieron.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Yo no dejaría (nadie, asustarme) _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Nos prohibieron (entrar) _____ el perro a la tienda.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 73,
+  "titulo_libro": "Merecieron ganar. Mereces que te dé... -- Verbos seguidos de infinitivo o subjuntivo",
+  "scan": "p-153.jpg"
+}

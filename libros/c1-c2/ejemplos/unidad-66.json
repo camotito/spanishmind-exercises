@@ -1,0 +1,236 @@
+{
+  "tema": "unidad-66",
+  "titulo": "Es imposible que lo haya hecho él.",
+  "descripcion_gramatical": "Pretérito perfecto de subjuntivo (2)",
+  "fuente": "libro",
+  "unidad_libro": 66,
+  "ejercicios": [
+    {
+      "subejercicio": "66.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en pretérito perfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Hoy es el último día para pagar el teléfono. Espero que (tú, pagar) _____ . No me gustaría que nos cortaran el teléfono.",
+          "solucion_correcta": [
+            "hayas pagado"
+          ]
+        },
+        {
+          "texto_enunciado": "Más vale que (tú, traer) _____ bastante dinero. Este restaurante es carísimo.",
+          "solucion_correcta": [
+            "hayas traído"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdona que (yo, no ir) _____ a verte, pero he tenido mucho trabajo.",
+          "solucion_correcta": [
+            "no haya ido"
+          ]
+        },
+        {
+          "texto_enunciado": "Inés ha terminado por fin la carrera. Es muy importante que (terminar) _____ . Ahora ya puede ejercer de arquitecta.",
+          "solucion_correcta": [
+            "haya terminado"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesitamos un vendedor con experiencia. Es importante que (trabajar) _____ antes en este sector.",
+          "solucion_correcta": [
+            "haya trabajado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Aquí tiene el trabajo de Historia. -Espero que lo (hacer) _____ tú, que no lo (copiar) _____ de internet.",
+          "solucion_correcta": [
+            "hayas hecho",
+            "hayas copiado"
+          ]
+        },
+        {
+          "texto_enunciado": "Perdona que (llegar) _____ un poco tarde, pero el tráfico estaba fatal.",
+          "solucion_correcta": [
+            "haya llegado"
+          ]
+        },
+        {
+          "texto_enunciado": "-Por fin se ha comprobado que la avería no la causó Roberto. -Sí, me parece importante que no (ser) _____ él.",
+          "solucion_correcta": [
+            "haya sido"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "66.2",
+      "tipologia": "T10",
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No sé si me han reconocido. Tengo miedo. _____",
+          "solucion_correcta": [
+            "Tengo miedo de que me hayan reconocido"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé si Luis ha asado el pollo. Lo dudo. _____ . No sabe cocinar.",
+          "solucion_correcta": [
+            "Dudo que Luis haya asado el pollo"
+          ]
+        },
+        {
+          "texto_enunciado": "No has visto el paquete. Me sorprende. _____ . Está encima de la mesa.",
+          "solucion_correcta": [
+            "Me sorprende que no hayas visto el paquete"
+          ]
+        },
+        {
+          "texto_enunciado": "Has vivido en Marruecos y no hablas árabe. Parece mentira. _____",
+          "solucion_correcta": [
+            "Parece mentira que hayas vivido en Marruecos y no hables árabe"
+          ]
+        },
+        {
+          "texto_enunciado": "Habéis conseguido el premio. Nos alegramos. _____",
+          "solucion_correcta": [
+            "Nos alegramos de que hayáis conseguido el premio"
+          ]
+        },
+        {
+          "texto_enunciado": "Se ha bloqueado el ordenador. Me pone de mal humor. _____",
+          "solucion_correcta": [
+            "Me pone de mal humor que se haya bloqueado el ordenador"
+          ]
+        },
+        {
+          "texto_enunciado": "Has escrito un poema. Me encanta. _____",
+          "solucion_correcta": [
+            "Me encanta que hayas escrito un poema"
+          ]
+        },
+        {
+          "texto_enunciado": "Te has enfadado por la broma. Me divierte. _____",
+          "solucion_correcta": [
+            "Me divierte que te hayas enfadado por la broma"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "66.3",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases comenzando con la palabra dada.",
+      "items": [
+        {
+          "texto_enunciado": "No sé si me han elegido delegado. Puede _____.",
+          "solucion_correcta": [
+            "que me hayan elegido delegado"
+          ]
+        },
+        {
+          "texto_enunciado": "No pueden haber llegado ya. Salieron muy tarde. Es imposible _____.",
+          "solucion_correcta": [
+            "que hayan llegado ya, salieron muy tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "Puede haberlo escrito Raquel. Escribe muy bien. Es posible _____.",
+          "solucion_correcta": [
+            "que lo haya escrito Raquel, escribe muy bien"
+          ]
+        },
+        {
+          "texto_enunciado": "Por esa parte del país puede haber habido tormentas. Es probable _____.",
+          "solucion_correcta": [
+            "que por esa parte del país haya habido tormentas"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé si han aplazado el partido. No es probable _____.",
+          "solucion_correcta": [
+            "que hayan aplazado el partido"
+          ]
+        },
+        {
+          "texto_enunciado": "Puede haber arreglado el enchufe Clara. Puede _____.",
+          "solucion_correcta": [
+            "que Clara haya arreglado el enchufe"
+          ]
+        },
+        {
+          "texto_enunciado": "El ascensor debe de haberse averiado. Es probable _____.",
+          "solucion_correcta": [
+            "que el ascensor se haya averiado"
+          ]
+        },
+        {
+          "texto_enunciado": "El avión de Marga debe de haber aterrizado ya. Puede _____.",
+          "solucion_correcta": [
+            "que ya haya aterrizado el avión de Marga"
+          ]
+        },
+        {
+          "texto_enunciado": "No sé si han cerrado los bancos. Puede _____.",
+          "solucion_correcta": [
+            "que hayan cerrado los bancos"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "66.4",
+      "tipologia": "T10",
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Ha perdido nuestro equipo. Es una pena. _____ . Estaban jugando muy bien.",
+          "solucion_correcta": [
+            "Es una pena que haya perdido nuestro equipo"
+          ]
+        },
+        {
+          "texto_enunciado": "Ha subido la Bolsa. Es lógico. _____ . La economía va muy bien.",
+          "solucion_correcta": [
+            "Es lógico que haya subido la Bolsa"
+          ]
+        },
+        {
+          "texto_enunciado": "Han cerrado ya ese pub. Es natural. _____ . Hacían mucho ruido.",
+          "solucion_correcta": [
+            "Es natural que hayan cerrado ya ese pub"
+          ]
+        },
+        {
+          "texto_enunciado": "Han suprimido el tráfico en el centro. Es lógico. _____ .",
+          "solucion_correcta": [
+            "Es lógico que hayan suprimido el tráfico en el centro"
+          ]
+        },
+        {
+          "texto_enunciado": "Román se ha operado de la rodilla. Me parece bien. _____ . Apenas podía andar.",
+          "solucion_correcta": [
+            "Me parece bien que Román se haya operado de la rodilla"
+          ]
+        },
+        {
+          "texto_enunciado": "Tu mujer ha utilizado el coche muy poco. Me parece normal. _____ . Casi no lo necesita.",
+          "solucion_correcta": [
+            "Me parece normal que tu mujer haya utilizado el coche muy poco"
+          ]
+        },
+        {
+          "texto_enunciado": "Te han regalado un libro de poemas. Es raro. _____ . A ti no te gusta la poesía.",
+          "solucion_correcta": [
+            "Es raro que te hayan regalado un libro de poemas"
+          ]
+        },
+        {
+          "texto_enunciado": "Han suspendido la venta de billetes de tren a Santiago. Es un desastre. _____ . Ahora tendremos que coger un avión.",
+          "solucion_correcta": [
+            "Es un desastre que hayan suspendido la venta de billetes de tren a Santiago"
+          ]
+        }
+      ]
+    }
+  ]
+}

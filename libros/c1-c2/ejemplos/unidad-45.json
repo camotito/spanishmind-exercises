@@ -1,0 +1,298 @@
+{
+  "tema": "unidad-45",
+  "titulo": "Nevará en el Norte.",
+  "descripcion_gramatical": "Futuro simple (1)",
+  "fuente": "libro",
+  "unidad_libro": 45,
+  "ejercicios": [
+    {
+      "subejercicio": "45.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "No se preocupe, no es nada. (recuperarse) _____ usted pronto.",
+          "solucion_correcta": [
+            "Se recuperará"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuándo me vas a devolver lo que me debes? -No insistas. Ya te lo (devolver) _____.",
+          "solucion_correcta": [
+            "devolveré"
+          ]
+        },
+        {
+          "texto_enunciado": "Dicen que el domingo (llover) _____ en todo el país.",
+          "solucion_correcta": [
+            "lloverá"
+          ]
+        },
+        {
+          "texto_enunciado": "Dentro de cincuenta años, todos los coches (ser) _____ eléctricos.",
+          "solucion_correcta": [
+            "serán"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. (aprobar) _____ la oposición. La has preparado muy bien.",
+          "solucion_correcta": [
+            "Aprobarás"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuándo vas a preparar el examen de Estadística? -Ya lo (hacer) _____. Hay tiempo.",
+          "solucion_correcta": [
+            "haré"
+          ]
+        },
+        {
+          "texto_enunciado": "Siéntese, por favor. El doctor le (recibir) _____ enseguida.",
+          "solucion_correcta": [
+            "recibirá"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes. El año que viene te (ir) _____ todo de maravilla. Te (ascender) _____ en la empresa y (tener) _____ una intensa vida social.",
+          "solucion_correcta": [
+            "irá",
+            "ascenderán",
+            "tendrás"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya nos (contar) _____ cómo te fue en Río.",
+          "solucion_correcta": [
+            "contarás"
+          ]
+        },
+        {
+          "texto_enunciado": "-Tienes que decirme cuándo vas a venir a ver la exposición. -Vale. Ya te (avisar) _____.",
+          "solucion_correcta": [
+            "avisaré"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué tal fue la reunión? -Ya te (contar) _____ cuando tenga más tiempo.",
+          "solucion_correcta": [
+            "contaré"
+          ]
+        },
+        {
+          "texto_enunciado": "Tu horóscopo dice que la luna llena del martes te (aportar) _____ energía y te (ayudar) _____ a triunfar en los negocios.",
+          "solucion_correcta": [
+            "aportará",
+            "ayudará"
+          ]
+        },
+        {
+          "texto_enunciado": "En el futuro (nosotros, poder) _____ viajar por todo el mundo sin pasaporte.",
+          "solucion_correcta": [
+            "podremos"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya me (decir) _____ cuándo quieres que nos veamos.",
+          "solucion_correcta": [
+            "dirás"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "45.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las promesas siguientes, con el verbo en forma afirmativa o negativa.",
+      "items": [
+        {
+          "texto_enunciado": "Os prometo que os (preparar) _____ una cena cuando encuentre piso.",
+          "solucion_correcta": [
+            "prepararé"
+          ]
+        },
+        {
+          "texto_enunciado": "-Tienes que traerme algo de Japón. -Descuida. Te (traer) _____ algo típico.",
+          "solucion_correcta": [
+            "traeré"
+          ]
+        },
+        {
+          "texto_enunciado": "-Algunos accionistas quieren cerrar la empresa. -Ni hablar. No lo (permitir) _____ nunca.",
+          "solucion_correcta": [
+            "permitiré"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo prometo. (escribir) _____ más en el pupitre.",
+          "solucion_correcta": [
+            "No escribiré"
+          ]
+        },
+        {
+          "texto_enunciado": "Si te gusta el cocido ya te (invitar) _____ un día a casa.",
+          "solucion_correcta": [
+            "invitaré"
+          ]
+        },
+        {
+          "texto_enunciado": "De verdad le prometo que (venir) _____ cuanto antes.",
+          "solucion_correcta": [
+            "vendré"
+          ]
+        },
+        {
+          "texto_enunciado": "La próxima semana os (llevar) _____ al circo sin falta.",
+          "solucion_correcta": [
+            "llevaré"
+          ]
+        },
+        {
+          "texto_enunciado": "Lo siento. (volver) _____ a hacerlo.",
+          "solucion_correcta": [
+            "No volveré"
+          ]
+        },
+        {
+          "texto_enunciado": "(nosotros, tener) _____ más cuidado la próxima vez.",
+          "solucion_correcta": [
+            "Tendremos"
+          ]
+        },
+        {
+          "texto_enunciado": "Te juro que te (devolver) _____ el dinero en cuanto cobre.",
+          "solucion_correcta": [
+            "devolveré"
+          ]
+        },
+        {
+          "texto_enunciado": "No te preocupes, papá. El mes que viene (sacar) _____ mejores notas.",
+          "solucion_correcta": [
+            "sacaré"
+          ]
+        },
+        {
+          "texto_enunciado": "Te prometo que (usar) _____ tu ordenador nunca más.",
+          "solucion_correcta": [
+            "no usaré"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "45.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las siguientes opiniones y suposiciones con los verbos entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Quién va a dar el discurso? -Lo (dar) _____ el director. Le encanta dar discursos.",
+          "solucion_correcta": [
+            "dará"
+          ]
+        },
+        {
+          "texto_enunciado": "Ya estás mejor, Arturo. Supongo que mañana (volver) _____ a la fábrica.",
+          "solucion_correcta": [
+            "volverás"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Crees que (haber) _____ entradas para el concierto? -Sí, todavía es pronto.",
+          "solucion_correcta": [
+            "habrá"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Cuándo vuelve Yago? -(volver) _____ para Navidad. Seguro.",
+          "solucion_correcta": [
+            "Volverá"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quién crees que va a ganar el Mundial? -(ganar) _____ Brasil, como siempre.",
+          "solucion_correcta": [
+            "Ganará"
+          ]
+        },
+        {
+          "texto_enunciado": "-Me imagino que (tú, regresar) _____ pronto a Alemania. -Sí, dentro de una semana.",
+          "solucion_correcta": [
+            "regresarás"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quién crees que (ganar) _____ las elecciones? -El gobierno, como casi siempre.",
+          "solucion_correcta": [
+            "ganará"
+          ]
+        },
+        {
+          "texto_enunciado": "Supongo que (tú, venir) _____ a la despedida de soltero de Ángel.",
+          "solucion_correcta": [
+            "vendrás"
+          ]
+        },
+        {
+          "texto_enunciado": "Supongo que no (tú, querer) _____ que le diga nada a Silvia.",
+          "solucion_correcta": [
+            "querrás"
+          ]
+        },
+        {
+          "texto_enunciado": "Estoy segura de que muy pronto (tú, encontrar) _____ un buen empleo.",
+          "solucion_correcta": [
+            "encontrarás"
+          ]
+        },
+        {
+          "texto_enunciado": "Creo que Andrea no nos (molestar) _____ más.",
+          "solucion_correcta": [
+            "molestará"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "45.4",
+      "tipologia": "T12",
+      "enunciado": "Escriba las órdenes con el futuro simple.",
+      "items": [
+        {
+          "texto_enunciado": "(Un padre a su hijo: sacar al perro esta noche) _____.",
+          "solucion_correcta": [
+            "Sacarás al perro esta noche"
+          ]
+        },
+        {
+          "texto_enunciado": "(Un padre a sus hijos: hablar cuando se os pregunte) _____.",
+          "solucion_correcta": [
+            "Hablaréis cuando se os pregunte"
+          ]
+        },
+        {
+          "texto_enunciado": "(Un profesor a alumnos castigados: quedarse en el centro hasta las ocho) _____.",
+          "solucion_correcta": [
+            "Os quedaréis en el centro hasta las ocho"
+          ]
+        },
+        {
+          "texto_enunciado": "(Un profesor a alumnos: hacer los ejercicios que mande) _____.",
+          "solucion_correcta": [
+            "Haréis los ejercicios que mande"
+          ]
+        },
+        {
+          "texto_enunciado": "(Madre a niña que le duele una muela: ir al dentista esta misma tarde) _____.",
+          "solucion_correcta": [
+            "Irás al dentista esta misma tarde"
+          ]
+        },
+        {
+          "texto_enunciado": "(Madre a sus hijos: no jugar con la consola hasta acabar los deberes) _____.",
+          "solucion_correcta": [
+            "No jugaréis con la consola hasta acabar los deberes"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "tema": "unidad-77",
+  "titulo": "Rompió a llorar. Llegué a tomarle cariño.",
+  "descripcion_gramatical": "Expresiones con infinitivo (1)",
+  "fuente": "libro",
+  "unidad_libro": 77,
+  "ejercicios": [
+    {
+      "subejercicio": "77.1",
+      "tipologia": "T7",
+      "enunciado": "Sustituya las palabras subrayadas por expresiones con *echarse a*, *ponerse a*, *romper a*.",
+      "items": [
+        {
+          "texto_enunciado": "Lola en cuanto oye música, <u>empieza a cantar</u>. _____",
+          "solucion_correcta": [
+            "se pone a cantar"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>No empieces a silbar</u> otra vez, por favor. _____",
+          "solucion_correcta": [
+            "No te pongas a silbar otra vez"
+          ]
+        },
+        {
+          "texto_enunciado": "Al ver a Berta con ese disfraz, <u>empecé a reírme</u>. _____",
+          "solucion_correcta": [
+            "me eché a reír"
+          ]
+        },
+        {
+          "texto_enunciado": "Eva oyó un ruido extraño en la cocina y <u>empezó a gritar</u>. _____",
+          "solucion_correcta": [
+            "se puso a gritar"
+          ]
+        },
+        {
+          "texto_enunciado": "Marta es muy sensible: tan pronto <u>comienza a reír como a llorar</u>. _____",
+          "solucion_correcta": [
+            "tan pronto se echa a reír / se pone a reír como a llorar"
+          ]
+        },
+        {
+          "texto_enunciado": "El pájaro <u>comenzó a volar</u> cuando me acerqué al árbol. _____",
+          "solucion_correcta": [
+            "El pájaro se echó a volar"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando Ángel oyó el disparo, <u>empezó a correr</u> y no paró hasta llegar a su casa. _____",
+          "solucion_correcta": [
+            "se echó a correr / se puso a correr"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir las frases con *acabar de* en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "He terminado el proyecto hace un momento. _____",
+          "solucion_correcta": [
+            "Acabo de terminar el proyecto"
+          ]
+        },
+        {
+          "texto_enunciado": "No pises ese suelo. Lo he fregado hace un momento. _____",
+          "solucion_correcta": [
+            "Acabo de fregarlo"
+          ]
+        },
+        {
+          "texto_enunciado": "Había puesto a secar la ropa hacía nada cuando se puso a llover. _____",
+          "solucion_correcta": [
+            "Acababa de poner a secar la ropa cuando se puso a llover"
+          ]
+        },
+        {
+          "texto_enunciado": "Llévate el paraguas. Han dicho hace un momento que hoy va a llover a cántaros. _____",
+          "solucion_correcta": [
+            "Acaban de decir que hoy va a llover a cántaros"
+          ]
+        },
+        {
+          "texto_enunciado": "Me había comprado el coche hacía unos días cuando me lo robaron. _____",
+          "solucion_correcta": [
+            "Acababa de comprarme el coche cuando me lo robaron"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.3",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas con *acabar de*, *acabar por* o *llegar a*.",
+      "items": [
+        {
+          "texto_enunciado": "Arturo se portó tan mal conmigo que <u>finalmente lo odié</u>. _____",
+          "solucion_correcta": [
+            "que acabé por odiarlo / que llegué a odiarlo"
+          ]
+        },
+        {
+          "texto_enunciado": "Se enfadó y <u>finalmente se fue</u>. _____",
+          "solucion_correcta": [
+            "acabó por irse"
+          ]
+        },
+        {
+          "texto_enunciado": "Luisa <u>se ha ido hace un momento</u>. _____",
+          "solucion_correcta": [
+            "se acaba de ir / acaba de irse"
+          ]
+        },
+        {
+          "texto_enunciado": "Después de algún tiempo el gato <u>finalmente se acercó a mí</u>. _____",
+          "solucion_correcta": [
+            "acabó por acercarse a mí"
+          ]
+        },
+        {
+          "texto_enunciado": "Después de todo, creo que no <u>me gustan estos zapatos</u>. _____",
+          "solucion_correcta": [
+            "me acaban de gustar estos zapatos"
+          ]
+        },
+        {
+          "texto_enunciado": "Como faltaba tanto, el jefe <u>finalmente me amenazó con el despido</u>. _____",
+          "solucion_correcta": [
+            "llegó a amenazarme con el despido / acabó por amenazarme con el despido"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.4",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas con *dejar de* o *no dejar de*.",
+      "items": [
+        {
+          "texto_enunciado": "La verdad es que el problema de Ana <u>me molesta continuamente</u>. _____",
+          "solucion_correcta": [
+            "no deja de molestarme"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>No hables ya más</u>, por favor. _____",
+          "solucion_correcta": [
+            "Deja de hablar ya"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando quieras algo, <u>dímelo</u>. _____",
+          "solucion_correcta": [
+            "no dejes de decírmelo"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>No fuméis más aquí dentro</u>, por favor. _____",
+          "solucion_correcta": [
+            "Dejad de fumar aquí dentro"
+          ]
+        },
+        {
+          "texto_enunciado": "Toni ha roto con Sonia y <u>se pasa llorando todo el día</u>. _____",
+          "solucion_correcta": [
+            "No deja de llorar todo el día"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.5",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas con *venir a* en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "Este sofá <u>cuesta más o menos</u> 2000 euros. _____",
+          "solucion_correcta": [
+            "viene a costar"
+          ]
+        },
+        {
+          "texto_enunciado": "Casi todos los políticos <u>dicen lo mismo, más o menos</u>. _____",
+          "solucion_correcta": [
+            "vienen a decir lo mismo"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese documento <u>finalmente confirma</u> que yo tenía razón. _____",
+          "solucion_correcta": [
+            "viene a confirmar"
+          ]
+        },
+        {
+          "texto_enunciado": "Esa ley <u>definitivamente resolvió</u> la discusión sobre el tema. _____",
+          "solucion_correcta": [
+            "vino a resolver"
+          ]
+        },
+        {
+          "texto_enunciado": "Ese aviso <u>te dice más o menos</u> que o pagas o te embargan la moto. _____",
+          "solucion_correcta": [
+            "viene a decir"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "77.6",
+      "tipologia": "T7",
+      "enunciado": "Vuelva a escribir las frases subrayadas con *echarse a*, *ponerse a*, *romper a*, *acabar de*, *acabar por*, *llegar a*, *dejar de*, *no dejar de*, *venir a*.",
+      "items": [
+        {
+          "texto_enunciado": "Cuando vayas a Japón, <u>prueba el sushi</u>. _____",
+          "solucion_correcta": [
+            "No dejes de probar el sushi"
+          ]
+        },
+        {
+          "texto_enunciado": "Siempre que bebe, <u>empieza a bailar</u>. _____",
+          "solucion_correcta": [
+            "se pone a bailar"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Comencé a correr</u> al ver el autobús. _____",
+          "solucion_correcta": [
+            "Eché a correr / Me puse a correr"
+          ]
+        },
+        {
+          "texto_enunciado": "Las dos cartas <u>decían casi lo mismo</u>. _____",
+          "solucion_correcta": [
+            "venían a decir"
+          ]
+        },
+        {
+          "texto_enunciado": "Cuando necesites algo, <u>llámame</u>. _____",
+          "solucion_correcta": [
+            "no dejes de llamarme"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>Han llamado a la puerta</u> hace un momento. _____",
+          "solucion_correcta": [
+            "Acaban de llamar a la puerta"
+          ]
+        },
+        {
+          "texto_enunciado": "Aunque detestaba a Emilio, <u>al final le tomé cariño</u>. _____",
+          "solucion_correcta": [
+            "llegué a / acabé por tomarle cariño"
+          ]
+        },
+        {
+          "texto_enunciado": "Al recibir el premio, Camila <u>comenzó a llorar</u> de alegría. _____",
+          "solucion_correcta": [
+            "se echó / rompió / se puso a llorar"
+          ]
+        },
+        {
+          "texto_enunciado": "<u>No digas más sandeces</u>, Julio, por favor. _____",
+          "solucion_correcta": [
+            "Deja de decir (más) sandeces"
+          ]
+        },
+        {
+          "texto_enunciado": "El hijo de los Gálvez <u>al final fue ministro</u>. _____",
+          "solucion_correcta": [
+            "llegó a ser ministro"
+          ]
+        }
+      ]
+    }
+  ]
+}

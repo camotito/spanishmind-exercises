@@ -1,0 +1,171 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "66.1",
+      "tipologia": "T4",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con los verbos entre paréntesis en pretérito perfecto de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Hoy es el último día para pagar el teléfono. Espero que (tú, pagar) _____ . No me gustaría que nos cortaran el teléfono.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Más vale que (tú, traer) _____ bastante dinero. Este restaurante es carísimo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Perdona que (yo, no ir) _____ a verte, pero he tenido mucho trabajo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Inés ha terminado por fin la carrera. Es muy importante que (terminar) _____ . Ahora ya puede ejercer de arquitecta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Necesitamos un vendedor con experiencia. Es importante que (trabajar) _____ antes en este sector.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Aquí tiene el trabajo de Historia. -Espero que lo (hacer) _____ tú, que no lo (copiar) _____ de internet.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Perdona que (llegar) _____ un poco tarde, pero el tráfico estaba fatal.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Por fin se ha comprobado que la avería no la causó Roberto. -Sí, me parece importante que no (ser) _____ él.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "66.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "No sé si me han reconocido. Tengo miedo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé si Luis ha asado el pollo. Lo dudo. _____ . No sabe cocinar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No has visto el paquete. Me sorprende. _____ . Está encima de la mesa.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Has vivido en Marruecos y no hablas árabe. Parece mentira. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Habéis conseguido el premio. Nos alegramos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se ha bloqueado el ordenador. Me pone de mal humor. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Has escrito un poema. Me encanta. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te has enfadado por la broma. Me divierte. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "66.3",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases comenzando con la palabra dada.",
+      "items": [
+        {
+          "texto_enunciado": "No sé si me han elegido delegado. Puede _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No pueden haber llegado ya. Salieron muy tarde. Es imposible _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Puede haberlo escrito Raquel. Escribe muy bien. Es posible _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Por esa parte del país puede haber habido tormentas. Es probable _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé si han aplazado el partido. No es probable _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Puede haber arreglado el enchufe Clara. Puede _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El ascensor debe de haberse averiado. Es probable _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El avión de Marga debe de haber aterrizado ya. Puede _____.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No sé si han cerrado los bancos. Puede _____.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "66.4",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases. Haga los cambios necesarios.",
+      "items": [
+        {
+          "texto_enunciado": "Ha perdido nuestro equipo. Es una pena. _____ . Estaban jugando muy bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ha subido la Bolsa. Es lógico. _____ . La economía va muy bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Han cerrado ya ese pub. Es natural. _____ . Hacían mucho ruido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Han suprimido el tráfico en el centro. Es lógico. _____ .",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Román se ha operado de la rodilla. Me parece bien. _____ . Apenas podía andar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tu mujer ha utilizado el coche muy poco. Me parece normal. _____ . Casi no lo necesita.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Te han regalado un libro de poemas. Es raro. _____ . A ti no te gusta la poesía.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Han suspendido la venta de billetes de tren a Santiago. Es un desastre. _____ . Ahora tendremos que coger un avión.",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 66,
+  "titulo_libro": "Es imposible que lo haya hecho él. -- Pretérito perfecto de subjuntivo (2)",
+  "scan": "p-139.jpg"
+}

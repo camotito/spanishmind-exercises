@@ -1,0 +1,175 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "78.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las formas adecuadas de *tener que*, *no tener que*.",
+      "items": [
+        {
+          "texto_enunciado": "-¿Por qué estás preocupado? - _____ haber ido al mercado. Mañana está cerrado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué _____ hacer mañana, Marta? -Por la mañana _____ ir a la Facultad y por la tarde _____ hacer nada.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué os vais tan deprisa? -Porque _____ llegar a casa antes que nuestros padres. Se han olvidado las llaves.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué _____ ser yo el que siempre paga los bocadillos?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Cómo decís eso ahora? -¿Por qué _____ darte siempre la razón, Alba?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Por qué no viniste ayer? -No pude. _____ acompañar a mi abuela al hospital.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Por qué os habéis levantado tan temprano esta mañana? _____ ir a ninguna parte.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ haber abierto la tienda esta mañana, pero no he podido porque _____ llevar el coche al taller.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "78.2",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con la forma adecuada de *haber que*.",
+      "items": [
+        {
+          "texto_enunciado": "_____ acabar esto hoy. Hasta que no lo acabemos no podemos marcharnos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Anoche _____ llamar a la policía. Se oyeron unos chillidos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Va a _____ estar en los aeropuertos tres horas antes de que salga el avión.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No _____ hacer lo que a uno no le parece correcto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Tanto _____ pagar para oír el concierto? -Yo no habría ido.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa puerta no cierra bien. Si tú no la arreglas, _____ llamar a un cerrajero.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "78.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete las frases con las formas adecuadas de *(no) deber*, *(no) deber de*.",
+      "items": [
+        {
+          "texto_enunciado": "_____ ser las tres. Han empezado las noticias en la tele.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que _____ ayudar más en casa, niños. Ya sois mayorcitos.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ten cuidado, Juan. _____ tratar así a tus amigos. Se van a enfadar.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay un paquete en la salita que _____ ser para ti, Juan.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ haber acabado ya la carrera, pero me quedan tres asignaturas.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Cuando vimos a Humberto, _____ estar ya mal. No tenía buena cara.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No llevo el abrigo. Hoy _____ hacer mucho frío.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ tomar estas pastillas tres veces al día, Sr. Silva.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay mucha gente en la calle. _____ haber pasado algo.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Sé que _____ haberte avisado, pero me olvidé.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "78.4",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas con las formas adecuadas de *(no) tener que*, *haber que*, *(no) deber*, *(no) deber de*.",
+      "items": [
+        {
+          "texto_enunciado": "Está sonando el teléfono. <u>Supongo que es para ti</u>. Yo no espero ninguna llamada. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Es necesario que vaya a la oficina esta tarde</u>. Hay mucho trabajo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Es conveniente que estudies Informática</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Era necesario que leyera el informe esta mañana</u>, pero no he tenido tiempo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>No es mi obligación sacar al perro todas las noches</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Creo que <u>no es conveniente hablar de eso delante de los niños</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Hubiera sido conveniente que ayudara a Álvaro</u>, pero no lo hice. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Antes era obligatorio tener visado para viajar a los Estados Unidos</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Es obligatorio llevar repuestos de bombillas de faros en los coches</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "<u>Sería aconsejable que te revisaras la vista todos los años, Joaquín</u>. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 78,
+  "titulo_libro": "Tuve que ir. Hay que darse prisa. -- Expresiones con infinitivo (2)",
+  "scan": "p-163.jpg"
+}

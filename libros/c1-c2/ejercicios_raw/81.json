@@ -1,0 +1,181 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "81.1",
+      "tipologia": "T8",
+      "tipologia_libre": null,
+      "enunciado": "Complete con el gerundio simple o el gerundio compuesto de los verbos del recuadro.",
+      "banco_palabras": [
+        "beber",
+        "cerrar",
+        "conducir",
+        "contemplar",
+        "dar",
+        "despegar",
+        "hacer",
+        "salir"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "-¿Qué hacéis? -Nada especial. _____ una vuelta.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mira a Julián, _____ como un loco.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "El conductor, _____ las puertas, arrancó el autobús.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-¿Qué hacéis aquí? - _____ el paisaje.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ el avión, me puse a dormir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "_____ crucigramas se distrae uno mucho.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Verás el estanco _____ a la derecha.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No pudo conducir _____ tanto.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "81.2",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Escriba exclamaciones o interrogaciones con las expresiones entre paréntesis sobre las situaciones planteadas.\n¿Qué le dice a alguien que...",
+      "items": [
+        {
+          "texto_enunciado": "...pide dinero con frecuencia? (siempre) ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "...vuelve a beber? (otra vez) ¡_____!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "...lleva mucho tiempo fumando? (todavía) ¿_____? Creía que lo habías dejado.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "...juega mucho a las cartas? (otra vez) ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "...lleva mucho tiempo estudiando? (aún) ¿_____? ¡Acuéstate ya!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "...se queja mucho? (siempre) ¡_____! ¡Eres un pesado!",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "81.3",
+      "tipologia": "T12",
+      "tipologia_libre": null,
+      "enunciado": "Escriba las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "(Ustedes, pasear, por aquí) ¿_____? Creí que estaban fuera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Te llamé anoche, pero estabas durmiendo. -(Yo, dormir) ¿_____? ¿Quién te dijo eso?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esta mañana he visto a Tomás y Elsa discutiendo. (Tomás y Elsa, discutir)\n¿_____? Pero si se llevan muy bien.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Qué? (Echar, un cigarrito) ¿_____?",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "-Anoche te oí roncando, Andrés. (Yo, roncar) -¿_____? ¡Venga ya!",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "¿Así me escuchas? (Mirar, para otro lado) ¿_____?",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "81.4",
+      "tipologia": "T7",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases subrayadas usando el gerundio del verbo adecuado.",
+      "banco_palabras": [
+        "bajar",
+        "conducir",
+        "correr",
+        "esforzarse",
+        "levantarse",
+        "llorar",
+        "pintar",
+        "subir",
+        "vender",
+        "ver"
+      ],
+      "items": [
+        {
+          "texto_enunciado": "Venga, <u>corred todos</u>, que llegamos tarde. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me recibió <u>con lágrimas</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Celia quiere ganarse la vida <u>con su pintura</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Miguel es muy raro. Le gusta leer <u>mientras ve la tele</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Verás la sección de bolsos <u>cuando subes a la izquierda</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Raquel se cayó <u>cuando bajaba las escaleras</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Los López se hicieron ricos <u>con la venta de fruta</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vamos, <u>levántate</u>, que es ya la hora. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Felipe sacó la oposición <u>con mucho esfuerzo</u>. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Enrique una vez se durmió <u>mientras conducía</u>. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 81,
+  "titulo_libro": "¡Siempre trabajando! -- Gerundio (1)",
+  "scan": "p-169.jpg"
+}

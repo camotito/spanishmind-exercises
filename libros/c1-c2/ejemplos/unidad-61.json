@@ -1,0 +1,259 @@
+{
+  "tema": "unidad-61",
+  "titulo": "Creo que hay. / No creo que haya.",
+  "descripcion_gramatical": "Verbos seguidos de indicativo o subjuntivo (1)",
+  "fuente": "libro",
+  "unidad_libro": 61,
+  "ejercicios": [
+    {
+      "subejercicio": "61.1",
+      "tipologia": "T4",
+      "enunciado": "Complete los diálogos con los verbos entre paréntesis en presente de indicativo o de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "Luis cree que aún (haber) _____ entradas para el concierto. -Pues yo no creo que (hay) _____ ya.",
+          "solucion_correcta": [
+            "hay",
+            "haya"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Te parece que (yo, estar) _____ mejor con corbata o sin corbata? -Creo que (tú, estar) _____ mejor con corbata.",
+          "solucion_correcta": [
+            "estoy",
+            "estás"
+          ]
+        },
+        {
+          "texto_enunciado": "-Veo que Luisa no (querer) _____ colaborar. -Sí, no parece que (ir) _____ a ayudar mucho.",
+          "solucion_correcta": [
+            "quiere",
+            "vaya"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿No te parece que (tú, tener) _____ que hacer algo? -No creo que (ser) _____ obligatorio estudiar.",
+          "solucion_correcta": [
+            "tienes",
+            "sea"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿No crees que (ser) _____ muy pronto para salir a cenar? -No, no me parece que (ser) _____ pronto. Son las ocho.",
+          "solucion_correcta": [
+            "es",
+            "sea"
+          ]
+        },
+        {
+          "texto_enunciado": "-Noto que (estar) _____ más delgado, Luis. -Desgraciadamente, yo no noto que lo (estar) _____.",
+          "solucion_correcta": [
+            "estás",
+            "esté"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Estás seguro de que Jorge (saber) _____ lo nuestro? -No, no creo que lo (saber) _____. Pero a mí me da igual.",
+          "solucion_correcta": [
+            "sabe",
+            "sepa"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Ves mal que Ana no nos (invitar) _____ a su fiesta? -Sí, porque estoy seguro de que (ella, ir) _____ a invitar a Amelia.",
+          "solucion_correcta": [
+            "invite",
+            "va"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Opinas que López (saber) _____ mucho de coches? -Bueno, no parece que (saber) _____ mucho. La última vez nos quedamos tirados en plena calle Alcalá.",
+          "solucion_correcta": [
+            "sabe",
+            "sepa"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué crees que Carmen (estudiar) _____ ahora? -No sé. Pero estoy seguro de que no _____ nada serio.",
+          "solucion_correcta": [
+            "estudia",
+            "estudia"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Piensas que Julio (decir) _____ eso en broma? -No creo que lo _____ en broma. Él nunca bromea.",
+          "solucion_correcta": [
+            "dice",
+            "diga"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Qué tal la nueva loción? -No sé. No veo que (yo, tener) _____ más pelo.",
+          "solucion_correcta": [
+            "tenga"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Sabes que Eloísa (dejar) _____ la empresa?",
+          "solucion_correcta": [
+            "deja"
+          ]
+        },
+        {
+          "texto_enunciado": "-Juan está triste. -Pues yo no veo que (estar) _____ triste. Está todo el día con amigos.",
+          "solucion_correcta": [
+            "esté"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "61.2",
+      "tipologia": "T11",
+      "enunciado": "Vuelva a escribir la información entre paréntesis con la expresión de verdad o falsedad correspondiente.",
+      "items": [
+        {
+          "texto_enunciado": "(Dicen que Carlos está enfermo, pero no tengo constancia de ello.) _____",
+          "solucion_correcta": [
+            "No tengo constancia de que Carlos esté enfermo"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que Tomás vende coches usados, pero es falso.) _____",
+          "solucion_correcta": [
+            "Es falso que Tomás venda coches usados"
+          ]
+        },
+        {
+          "texto_enunciado": "(Sus jefes estiman a Roberto. No lo tengo claro.) _____",
+          "solucion_correcta": [
+            "No tengo claro que sus jefes estimen a Roberto"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que Ramón sabe chino, pero no está claro.) _____",
+          "solucion_correcta": [
+            "No está claro que Ramón sepa chino"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que en Escocia hace muy mal tiempo, pero no es cierto.) _____",
+          "solucion_correcta": [
+            "No es cierto que en Escocia haga muy mal tiempo"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que Julio vive en Miami, pero no es cierto.) _____",
+          "solucion_correcta": [
+            "No es cierto que Julio viva en Miami"
+          ]
+        },
+        {
+          "texto_enunciado": "(Lo tienen por superdotado, pero es dudoso.) _____",
+          "solucion_correcta": [
+            "Es dudoso que sea superdotado"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que Alicia detesta a Iván, pero es mentira.) _____",
+          "solucion_correcta": [
+            "Es mentira que Alicia deteste a Iván"
+          ]
+        },
+        {
+          "texto_enunciado": "(Dicen que el Gobierno va a cambiar, pero no tengo la seguridad.) _____",
+          "solucion_correcta": [
+            "No tengo la seguridad de que el Gobierno vaya a cambiar"
+          ]
+        },
+        {
+          "texto_enunciado": "(Quieren subir la gasolina otra vez. Me consta.) _____",
+          "solucion_correcta": [
+            "Me consta que quieren subir la gasolina otra vez"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "61.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en presente de indicativo o de subjuntivo.",
+      "items": [
+        {
+          "texto_enunciado": "El periódico dice que (subir) _____ los impuestos.",
+          "solucion_correcta": [
+            "suben"
+          ]
+        },
+        {
+          "texto_enunciado": "El presidente no ha confirmado que (haber) _____ crisis económica.",
+          "solucion_correcta": [
+            "haya"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién dice que no (haber) _____ crisis?",
+          "solucion_correcta": [
+            "hay"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Dónde dice que la baronesa (casarse) _____ otra vez?",
+          "solucion_correcta": [
+            "se casa"
+          ]
+        },
+        {
+          "texto_enunciado": "Elena me ha explicado que su novio (estar) _____ en paro.",
+          "solucion_correcta": [
+            "está"
+          ]
+        },
+        {
+          "texto_enunciado": "Me cuentan que mi sobrina (acabar) _____ de divorciarse.",
+          "solucion_correcta": [
+            "acaba"
+          ]
+        },
+        {
+          "texto_enunciado": "Comentan que el director (dimitir) _____ dentro de unos días.",
+          "solucion_correcta": [
+            "dimite"
+          ]
+        },
+        {
+          "texto_enunciado": "Nadie confirma que el director (dimitir) _____ pronto.",
+          "solucion_correcta": [
+            "dimita"
+          ]
+        },
+        {
+          "texto_enunciado": "Diego afirma que Ramón (saber) _____ chino.",
+          "solucion_correcta": [
+            "sabe"
+          ]
+        },
+        {
+          "texto_enunciado": "Nadie niega que Roberto (ser) _____ un mal alcalde.",
+          "solucion_correcta": [
+            "sea"
+          ]
+        },
+        {
+          "texto_enunciado": "-¿Quién dice que (yo, tener) _____ la culpa? -Nadie dice que _____ tú la culpa.",
+          "solucion_correcta": [
+            "tengo",
+            "tengas"
+          ]
+        },
+        {
+          "texto_enunciado": "-Alberto dice que (nosotros, tener) _____ que llevar esmoquin a la recepción. -Pues en la invitación no dice que _____ que llevarlo.",
+          "solucion_correcta": [
+            "tenemos",
+            "tengamos"
+          ]
+        }
+      ]
+    }
+  ]
+}

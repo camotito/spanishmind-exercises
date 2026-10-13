@@ -1,0 +1,183 @@
+{
+  "ejercicios": [
+    {
+      "subejercicio": "24.1",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *cuyo*, *cuya*, *cuyos*, *cuyas*.",
+      "items": [
+        {
+          "texto_enunciado": "La escritora _____ libros nos han recomendado va a estar aquí esta tarde.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "La persona por _____ declaraciones me enteré de tu problema es un abogado famoso.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tomás Albiol, _____ discos escuchaste el otro día, ha perdido la voz.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Esa es la mujer _____ marido era juez.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me presenté a un concurso _____ premio fue declarado desierto.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hablé con mi vecina, _____ perra no me dejaba dormir.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Vimos a Shakira, _____ discos se venden a miles.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "A Elvira le han dejado un capital _____ rentas son enormes.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Mi padre tenía dos tiendas, con _____ ingresos pude hacer la carrera.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Hay personas _____ nombres son rarísimos.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "24.2",
+      "tipologia": "T10",
+      "tipologia_libre": null,
+      "enunciado": "Una las frases con *cuyo*, *cuya*, *cuyos*, *cuyas* como en el ejemplo.",
+      "items": [
+        {
+          "texto_enunciado": "He conocido a un chico. Su madre es profesora tuya. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He visto a Andrés. Su madre acaba de morir. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He conocido a un chico nuevo. Sus padres son psicólogos. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Deben esperar los alumnos. Sus nombres no están en las listas. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estoy leyendo una novela. El autor estudió conmigo. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "He estado revisando la puerta. El picaporte no funciona. _____",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "24.3",
+      "tipologia": "T3",
+      "tipologia_libre": null,
+      "enunciado": "Complete con *cuanto*, *cuanta*, *cuantos*, *cuantas*.",
+      "items": [
+        {
+          "texto_enunciado": "Puedes traer _____ amigos quieras. Hay mucho sitio.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Comed _____ jamón queráis. Es gratis.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Dicen _____ tonterías se les ocurren.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Di _____ mentiras quieras. Me da igual.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Bebed _____ agua queráis. Hay mucha.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Usad _____ café necesitéis. Ya compraremos más.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No te preocupes. Te puede prestar _____ dinero necesites.",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Haced el examen con tranquilidad. Tenéis _____ tiempo necesitéis.",
+          "estimulo_visual": null
+        }
+      ]
+    },
+    {
+      "subejercicio": "24.4",
+      "tipologia": "T11",
+      "tipologia_libre": null,
+      "enunciado": "Vuelva a escribir las frases con *cuanto*, *cuanta*, *cuantos*, *cuanta*.",
+      "items": [
+        {
+          "texto_enunciado": "Compra todo el pan que necesites. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Llevaos todas las sillas que necesitéis. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Estáis de vacaciones. Jugad todo el tiempo que queráis. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "No me importa. Di todas las mentiras que quieras. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Traed todos los cubiertos que podáis. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Se llevaron todo lo que había en el piso. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Come todas las manzanas que desees. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Tira todo lo que te sobre. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Ya me has dicho todo lo que necesito saber. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Abrimos todas las latas que había en la despensa. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Coged todo lo que necesitéis. _____",
+          "estimulo_visual": null
+        },
+        {
+          "texto_enunciado": "Me quitaron todo lo que tenía. _____",
+          "estimulo_visual": null
+        }
+      ]
+    }
+  ],
+  "unidad": 24,
+  "titulo_libro": "la chica cuyo hermano, cuantos pasteles -- Relativos (3)",
+  "scan": "p-056.jpg"
+}

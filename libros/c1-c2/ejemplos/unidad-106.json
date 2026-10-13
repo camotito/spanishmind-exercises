@@ -1,0 +1,306 @@
+{
+  "tema": "unidad-106",
+  "titulo": "Ha dicho que recojamos. Os dije que recogierais.",
+  "descripcion_gramatical": "Estilo indirecto (3)",
+  "fuente": "libro",
+  "unidad_libro": 106,
+  "ejercicios": [
+    {
+      "subejercicio": "106.1",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con los verbos entre paréntesis en el tiempo adecuado.",
+      "items": [
+        {
+          "texto_enunciado": "No puedo irme. El director me ha pedido que (yo, quedarse) _____ hasta las ocho.",
+          "solucion_correcta": [
+            "me quede"
+          ]
+        },
+        {
+          "texto_enunciado": "Les pedí que (ellos, callarse) _____ pero no me hicieron caso.",
+          "solucion_correcta": [
+            "se callaran / se callasen"
+          ]
+        },
+        {
+          "texto_enunciado": "Me ordenó que (yo, irme) _____, pero me quedé.",
+          "solucion_correcta": [
+            "me fuera / me fuese"
+          ]
+        },
+        {
+          "texto_enunciado": "El profesor nos ha pedido que (nosotros, traer) _____ el diccionario mañana.",
+          "solucion_correcta": [
+            "traigamos"
+          ]
+        },
+        {
+          "texto_enunciado": "Tienes que ser firme. Tienes que exigirle que (él, no llegar) _____ tarde por la noche.",
+          "solucion_correcta": [
+            "no llegue"
+          ]
+        },
+        {
+          "texto_enunciado": "Le hemos pedido al profesor que (él, hablar) _____ más despacio.",
+          "solucion_correcta": [
+            "hable"
+          ]
+        },
+        {
+          "texto_enunciado": "Carolina me rogó que (yo, no contarle) _____ lo del accidente a su hermana.",
+          "solucion_correcta": [
+            "no le contara / contase"
+          ]
+        },
+        {
+          "texto_enunciado": "Diles que (ellos, irse) _____.",
+          "solucion_correcta": [
+            "se vayan"
+          ]
+        },
+        {
+          "texto_enunciado": "El policía nos ordenó que (nosotros, ponerse) _____ en fila.",
+          "solucion_correcta": [
+            "nos pusiéramos / pusiésemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Diego nos decía siempre que (nosotros, ir) _____ a verlo a Canadá.",
+          "solucion_correcta": [
+            "fuéramos / fuésemos"
+          ]
+        },
+        {
+          "texto_enunciado": "Laura me pidió que la (yo, llevar) _____ a casa después de la cena, pero estaba muy cansado.",
+          "solucion_correcta": [
+            "llevara / llevase"
+          ]
+        },
+        {
+          "texto_enunciado": "Te suplico que (tú, no volver) _____ a ver más a Julio. No te conviene.",
+          "solucion_correcta": [
+            "no vuelvas"
+          ]
+        },
+        {
+          "texto_enunciado": "Les pediré que (ellos, ser) _____ puntuales, pero ya sabes cómo son.",
+          "solucion_correcta": [
+            "sean"
+          ]
+        },
+        {
+          "texto_enunciado": "El presidente pidió a los huelguistas que (ellos, volver) _____ al trabajo.",
+          "solucion_correcta": [
+            "volvieran / volviesen"
+          ]
+        },
+        {
+          "texto_enunciado": "Les dije a mis hijos que (ellos, no hacer) _____ nada hasta que yo volviera.",
+          "solucion_correcta": [
+            "no hicieran / hiciesen"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "106.2",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Ernesto me pidió (yo, no contar nada a su hermana) _____.",
+          "solucion_correcta": [
+            "que no le contara / contase nada a su hermana"
+          ]
+        },
+        {
+          "texto_enunciado": "Sebastián me ha encargado (yo, comprarle un regalo a Teresa) _____.",
+          "solucion_correcta": [
+            "que le compre un regalo a Teresa"
+          ]
+        },
+        {
+          "texto_enunciado": "El nuevo director ha ordenado (nadie, usar internet para asuntos personales) _____.",
+          "solucion_correcta": [
+            "que nadie use Internet para asuntos personales"
+          ]
+        },
+        {
+          "texto_enunciado": "Le supliqué (él, darme otra oportunidad) _____.",
+          "solucion_correcta": [
+            "que me diera / diese otra oportunidad"
+          ]
+        },
+        {
+          "texto_enunciado": "Unos compañeros me han pedido (dejarles mis apuntes) _____.",
+          "solucion_correcta": [
+            "que les deje mis apuntes"
+          ]
+        },
+        {
+          "texto_enunciado": "Como la chaqueta estaba rota, le exigí al dependiente (devolverme el dinero) _____.",
+          "solucion_correcta": [
+            "que me devolviera / devolviese el dinero"
+          ]
+        },
+        {
+          "texto_enunciado": "El autobús no arrancaba y el conductor pidió a los pasajeros (ellos, bajarse) _____.",
+          "solucion_correcta": [
+            "que se bajaran / se bajasen"
+          ]
+        },
+        {
+          "texto_enunciado": "En las fiestas siempre me piden (yo, cantar) _____.",
+          "solucion_correcta": [
+            "que cante"
+          ]
+        },
+        {
+          "texto_enunciado": "Dile a tu amigo (él, echarte una mano) _____.",
+          "solucion_correcta": [
+            "que te eche una mano"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién te había pedido (tú, explicarle el subjuntivo) _____?",
+          "solucion_correcta": [
+            "que le explicaras el subjuntivo"
+          ]
+        },
+        {
+          "texto_enunciado": "Pídele al cajero (él, cambiarte los euros) _____.",
+          "solucion_correcta": [
+            "que te cambie los euros"
+          ]
+        },
+        {
+          "texto_enunciado": "Exígeles (ellos, respetarte) _____ Eres su padre.",
+          "solucion_correcta": [
+            "que te respeten"
+          ]
+        },
+        {
+          "texto_enunciado": "Le encargué a José (él, llevarme la chaqueta al tinte) _____.",
+          "solucion_correcta": [
+            "que me llevara / llevase la chaqueta al tinte"
+          ]
+        },
+        {
+          "texto_enunciado": "Te ruego (tú, escucharme) _____.",
+          "solucion_correcta": [
+            "que me escuches"
+          ]
+        },
+        {
+          "texto_enunciado": "La soprano mandó (ellos, dejarla sola en el camerino) _____.",
+          "solucion_correcta": [
+            "que la dejaran / dejasen sola en el camerino"
+          ]
+        }
+      ]
+    },
+    {
+      "subejercicio": "106.3",
+      "tipologia": "T4",
+      "enunciado": "Complete las frases con las palabras entre paréntesis.",
+      "items": [
+        {
+          "texto_enunciado": "Les advertí (ellos, tener cuidado con esos cables) _____.",
+          "solucion_correcta": [
+            "que tuvieran / tuviesen cuidado con esos cables"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han aconsejado (yo, leer el último libro de Vargas Llosa) _____.",
+          "solucion_correcta": [
+            "que lea el último libro de Vargas Llosa"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han advertido (yo, tener cuidado con Lola) _____.",
+          "solucion_correcta": [
+            "que tenga cuidado con Lola"
+          ]
+        },
+        {
+          "texto_enunciado": "Le hemos sugerido al director (nosotros, necesitar aumento de sueldo) _____.",
+          "solucion_correcta": [
+            "que necesitamos aumento de sueldo"
+          ]
+        },
+        {
+          "texto_enunciado": "Sugiéreles (ellos, invitar a los profesores a la fiesta) _____.",
+          "solucion_correcta": [
+            "que inviten a los profesores a la fiesta"
+          ]
+        },
+        {
+          "texto_enunciado": "Yo les aconsejé (ellos ir a ver la Alhambra) _____.",
+          "solucion_correcta": [
+            "que fueran / fuesen a ver la Alhambra"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han sugerido (yo, pedirte que te vayas) _____.",
+          "solucion_correcta": [
+            "que te pida que te vayas"
+          ]
+        },
+        {
+          "texto_enunciado": "La policía nos advirtió (nosotros, no tocar nada) _____.",
+          "solucion_correcta": [
+            "que no tocáramos / tocásemos nada"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién te ha sugerido (tú, no salir conmigo) _____?",
+          "solucion_correcta": [
+            "que no salgas conmigo"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos aconsejaron (nosotros, regresar inmediatamente) _____.",
+          "solucion_correcta": [
+            "que regresáramos / regresásemos inmediatamente"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han propuesto (yo, encargarme de la empresa en Japón) _____.",
+          "solucion_correcta": [
+            "que me encargue de la empresa en Japón"
+          ]
+        },
+        {
+          "texto_enunciado": "Rocío me sugirió (yo, irme) _____ cuando llegara Arturo.",
+          "solucion_correcta": [
+            "que me fuera"
+          ]
+        },
+        {
+          "texto_enunciado": "Adviérteles (ellos, no decir nada a la prensa) _____.",
+          "solucion_correcta": [
+            "que no digan nada a la prensa"
+          ]
+        },
+        {
+          "texto_enunciado": "¿Quién te aconsejó (tú, comprar acciones de esa empresa) _____?",
+          "solucion_correcta": [
+            "que compraras / comprases acciones de esa empresa?"
+          ]
+        },
+        {
+          "texto_enunciado": "Les propuse (ellos, elegir a Sonia como tesorera) _____.",
+          "solucion_correcta": [
+            "que eligieran a Sonia como tesorera"
+          ]
+        },
+        {
+          "texto_enunciado": "Me han recomendado (yo, ver la última película de Amenábar) _____.",
+          "solucion_correcta": [
+            "que vea la última película de Amenábar"
+          ]
+        }
+      ]
+    }
+  ]
+}
