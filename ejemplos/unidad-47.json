@@ -234,7 +234,7 @@
           "texto_enunciado": "En mi calle _____ un hotel. _____ cerca de mi casa.",
           "solucion_correcta": [
             "hay",
-            "Está"
+            "está"
           ]
         },
         {
@@ -253,7 +253,7 @@
           "texto_enunciado": "En Lima _____ muchos edificios antiguos. _____ todos en el centro.",
           "solucion_correcta": [
             "hay",
-            "Están"
+            "están"
           ]
         }
       ]
