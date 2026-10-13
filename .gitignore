@@ -15,3 +15,8 @@ Gemini/*.png
 .netlify
 
 TODO.md
+
+# libros nuevos (libros/<nombre>/): paginas renderizadas del PDF (copyright,
+# pesadas) y checkpoints locales con rutas absolutas
+libros/*/img/
+libros/*/.estado_*.json

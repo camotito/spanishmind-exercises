@@ -1,0 +1,656 @@
+{
+  "secciones": {
+    "Apéndice": {
+      "pagina": 222
+    },
+    "Glosario": {
+      "pagina": 258
+    },
+    "Solucionario": {
+      "pagina": 242,
+      "scan_fin": 255,
+      "scan_inicio": 240
+    },
+    "Índice analítico": {
+      "pagina": 238
+    }
+  },
+  "unidades": {
+    "1": {
+      "pagina": 10,
+      "pagina_ejercicios": 11,
+      "scan_ejercicios": "p-010.jpg",
+      "titulo": "el capital / la capital -- Masculino / femenino"
+    },
+    "10": {
+      "pagina": 28,
+      "pagina_ejercicios": 29,
+      "scan_ejercicios": "p-028.jpg",
+      "titulo": "Parece antigua. Vivo tranquilo. -- El adjetivo con verbos"
+    },
+    "100": {
+      "pagina": 208,
+      "pagina_ejercicios": 209,
+      "scan_ejercicios": "p-207.jpg",
+      "titulo": "por fuerte que parezca, si bien hay mucha nieve -- Oraciones concesivas (2)"
+    },
+    "101": {
+      "pagina": 210,
+      "pagina_ejercicios": 211,
+      "scan_ejercicios": "p-209.jpg",
+      "titulo": "con lo lista que es, digas lo que digas -- Oraciones concesivas (3)"
+    },
+    "102": {
+      "pagina": 212,
+      "pagina_ejercicios": 213,
+      "scan_ejercicios": "p-211.jpg",
+      "titulo": "más guapo que inteligente, menos de lo que creía -- Oraciones comparativas (1)"
+    },
+    "103": {
+      "pagina": 214,
+      "pagina_ejercicios": 215,
+      "scan_ejercicios": "p-213.jpg",
+      "titulo": "más años que Matusalén, menos frío de lo que pensaba -- Oraciones comparativas (2)"
+    },
+    "104": {
+      "pagina": 216,
+      "pagina_ejercicios": 217,
+      "scan_ejercicios": "p-215.jpg",
+      "titulo": "Dice que llegará tarde. / Dije que llegaría tarde. -- Estilo indirecto (1)"
+    },
+    "105": {
+      "pagina": 218,
+      "pagina_ejercicios": 219,
+      "scan_ejercicios": "p-217.jpg",
+      "titulo": "Me han preguntado en qué países he trabajado. Me gustaría saber cómo se hace. -- Estilo indirecto (2)"
+    },
+    "106": {
+      "pagina": 220,
+      "pagina_ejercicios": 221,
+      "scan_ejercicios": "p-219.jpg",
+      "titulo": "Ha dicho que recojamos. Os dije que recogierais. -- Estilo indirecto (3)"
+    },
+    "11": {
+      "pagina": 30,
+      "pagina_ejercicios": 31,
+      "scan_ejercicios": "p-030.jpg",
+      "titulo": "nada de gracioso, de lo más divertido -- Modificación de adjetivos"
+    },
+    "12": {
+      "pagina": 32,
+      "pagina_ejercicios": 33,
+      "scan_ejercicios": "p-032.jpg",
+      "titulo": "todo mojada, mucha moto -- Modificación de adjetivos y nombres"
+    },
+    "13": {
+      "pagina": 34,
+      "pagina_ejercicios": 35,
+      "scan_ejercicios": "p-034.jpg",
+      "titulo": "mi, mío, lo mío -- Posesivos"
+    },
+    "14": {
+      "pagina": 36,
+      "pagina_ejercicios": 37,
+      "scan_ejercicios": "p-036.jpg",
+      "titulo": "todos, cada, sendos -- Cuantificadores"
+    },
+    "15": {
+      "pagina": 38,
+      "pagina_ejercicios": 39,
+      "scan_ejercicios": "p-038.jpg",
+      "titulo": "él mismo, ello -- Pronombres personales de sujeto"
+    },
+    "16": {
+      "pagina": 40,
+      "pagina_ejercicios": 41,
+      "scan_ejercicios": "p-040.jpg",
+      "titulo": "A esta chica la conozco. No se le ve muy bien. -- Pronombres personales de objeto directo"
+    },
+    "17": {
+      "pagina": 42,
+      "pagina_ejercicios": 43,
+      "scan_ejercicios": "p-042.jpg",
+      "titulo": "No te nos escondas. Nos cayó encima. -- Pronombres personales de objeto indirecto"
+    },
+    "18": {
+      "pagina": 44,
+      "pagina_ejercicios": 45,
+      "scan_ejercicios": "p-044.jpg",
+      "titulo": "Se han hecho un chalé. Me bebí un café. -- Usos de me, te, se..."
+    },
+    "19": {
+      "pagina": 46,
+      "pagina_ejercicios": 47,
+      "scan_ejercicios": "p-046.jpg",
+      "titulo": "para sí, consigo -- Pronombres con preposición"
+    },
+    "2": {
+      "pagina": 12,
+      "pagina_ejercicios": 13,
+      "scan_ejercicios": "p-012.jpg",
+      "titulo": "carnés, líderes, airbags -- Singular / plural"
+    },
+    "20": {
+      "pagina": 48,
+      "pagina_ejercicios": 49,
+      "scan_ejercicios": "p-048.jpg",
+      "titulo": "Aquí se come bien. Se esperaba que lloviera. -- Se impersonal"
+    },
+    "21": {
+      "pagina": 50,
+      "pagina_ejercicios": 51,
+      "scan_ejercicios": "p-050.jpg",
+      "titulo": "Se acusó a los detenidos. Se necesitan extras. -- Otras construcciones con se"
+    },
+    "22": {
+      "pagina": 52,
+      "pagina_ejercicios": 53,
+      "scan_ejercicios": "p-052.jpg",
+      "titulo": "la mujer que, la chica con (lo) que -- Relativos (1)"
+    },
+    "23": {
+      "pagina": 54,
+      "pagina_ejercicios": 55,
+      "scan_ejercicios": "p-054.jpg",
+      "titulo": "La mujer, que había llamado antes,... -- Relativos (2)"
+    },
+    "24": {
+      "pagina": 56,
+      "pagina_ejercicios": 57,
+      "scan_ejercicios": "p-056.jpg",
+      "titulo": "la chica cuyo hermano, cuantos pasteles -- Relativos (3)"
+    },
+    "25": {
+      "pagina": 58,
+      "pagina_ejercicios": 59,
+      "scan_ejercicios": "p-058.jpg",
+      "titulo": "¿Quién...? ¿Cuál...? ¿Qué...? -- Interrogativos (1)"
+    },
+    "26": {
+      "pagina": 60,
+      "pagina_ejercicios": 61,
+      "scan_ejercicios": "p-060.jpg",
+      "titulo": "¿Qué demonios...? ¿Cómo es que...? ¿Para qué va a ser? -- Interrogativos (2)"
+    },
+    "27": {
+      "pagina": 62,
+      "pagina_ejercicios": 63,
+      "scan_ejercicios": "p-062.jpg",
+      "titulo": "¡Quién fuera más joven! ¡Qué mala suerte! ¡Vaya casa! -- Exclamativos (1)"
+    },
+    "28": {
+      "pagina": 64,
+      "pagina_ejercicios": 65,
+      "scan_ejercicios": "p-064.jpg",
+      "titulo": "¡Qué de niños! ¡Cuánta gente! ¡Cuánto inútil! -- Exclamativos (2)"
+    },
+    "29": {
+      "pagina": 66,
+      "pagina_ejercicios": 67,
+      "scan_ejercicios": "p-066.jpg",
+      "titulo": "¡Cómo come! ¡Por dónde nos llevan! -- Exclamativos (3)"
+    },
+    "3": {
+      "pagina": 14,
+      "pagina_ejercicios": 15,
+      "scan_ejercicios": "p-014.jpg",
+      "titulo": "El Presidente está preocupado. La han hecho directora. -- Artículos: uso y omisión"
+    },
+    "30": {
+      "pagina": 68,
+      "pagina_ejercicios": 69,
+      "scan_ejercicios": "p-068.jpg",
+      "titulo": "instintivamente, sigilosamente -- Adverbios en –mente (1)"
+    },
+    "31": {
+      "pagina": 70,
+      "pagina_ejercicios": 71,
+      "scan_ejercicios": "p-070.jpg",
+      "titulo": "locamente enamorados, cuidadosamente tallada -- Adverbios en –mente (2)"
+    },
+    "32": {
+      "pagina": 72,
+      "pagina_ejercicios": 73,
+      "scan_ejercicios": "p-072.jpg",
+      "titulo": "Soy soltera. / Estoy soltera. -- Ser y estar"
+    },
+    "33": {
+      "pagina": 74,
+      "pagina_ejercicios": 75,
+      "scan_ejercicios": "p-074.jpg",
+      "titulo": "El sol sale por el Este. Hablamos mañana. -- Presente de indicativo para presente y futuro"
+    },
+    "34": {
+      "pagina": 76,
+      "pagina_ejercicios": 77,
+      "scan_ejercicios": "p-075.jpg",
+      "titulo": "Recibe el Premio Nobel en 1971. -- Presente de indicativo para pasado"
+    },
+    "35": {
+      "pagina": 78,
+      "pagina_ejercicios": 79,
+      "scan_ejercicios": "p-077.jpg",
+      "titulo": "¿Salimos esta noche? -- Presente de indicativo: otros usos"
+    },
+    "36": {
+      "pagina": 80,
+      "pagina_ejercicios": 81,
+      "scan_ejercicios": "p-079.jpg",
+      "titulo": "Hace mucho que no como tacos. -- Presente de indicativo: duración"
+    },
+    "37": {
+      "pagina": 82,
+      "pagina_ejercicios": 83,
+      "scan_ejercicios": "p-081.jpg",
+      "titulo": "Llevamos tres semanas en Japón. -- Llevar para expresar duración"
+    },
+    "38": {
+      "pagina": 84,
+      "pagina_ejercicios": 85,
+      "scan_ejercicios": "p-083.jpg",
+      "titulo": "Le estamos cuidando los gatos a Clara. -- Presente de estar + gerundio"
+    },
+    "39": {
+      "pagina": 86,
+      "pagina_ejercicios": 87,
+      "scan_ejercicios": "p-085.jpg",
+      "titulo": "Cuando estudiaba. Mientras dormíamos. -- Pretérito imperfecto"
+    },
+    "4": {
+      "pagina": 16,
+      "pagina_ejercicios": 17,
+      "scan_ejercicios": "p-016.jpg",
+      "titulo": "un Picasso, el Madrid de los Austrias -- Los artículos con nombres de personas y de lugares"
+    },
+    "40": {
+      "pagina": 88,
+      "pagina_ejercicios": 89,
+      "scan_ejercicios": "p-087.jpg",
+      "titulo": "Anoche vi a Sofía. -- Pretérito indefinido"
+    },
+    "41": {
+      "pagina": 90,
+      "pagina_ejercicios": 91,
+      "scan_ejercicios": "p-089.jpg",
+      "titulo": "Se cayó del caballo mientras practicaba. -- Contraste pretérito imperfecto / pretérito indefinido"
+    },
+    "42": {
+      "pagina": 92,
+      "pagina_ejercicios": 93,
+      "scan_ejercicios": "p-091.jpg",
+      "titulo": "hice / hacía / he hecho / estaba haciendo -- Contraste entre tiempos del pasado"
+    },
+    "43": {
+      "pagina": 94,
+      "pagina_ejercicios": 95,
+      "scan_ejercicios": "p-093.jpg",
+      "titulo": "Se había gastado todo el dinero. -- Pretérito pluscuamperfecto"
+    },
+    "44": {
+      "pagina": 96,
+      "pagina_ejercicios": 97,
+      "scan_ejercicios": "p-095.jpg",
+      "titulo": "Hacía dos años que conocía a Sonia... -- Duración en el pasado"
+    },
+    "45": {
+      "pagina": 98,
+      "pagina_ejercicios": 99,
+      "scan_ejercicios": "p-097.jpg",
+      "titulo": "Nevará en el Norte. -- Futuro simple (1)"
+    },
+    "46": {
+      "pagina": 100,
+      "pagina_ejercicios": 101,
+      "scan_ejercicios": "p-099.jpg",
+      "titulo": "¡Será egoísta! ¡Tú verás! -- Futuro simple (2)"
+    },
+    "47": {
+      "pagina": 102,
+      "pagina_ejercicios": 103,
+      "scan_ejercicios": "p-101.jpg",
+      "titulo": "En diciembre, ya habrá nacido el niño. -- Futuro compuesto"
+    },
+    "48": {
+      "pagina": 104,
+      "pagina_ejercicios": 105,
+      "scan_ejercicios": "p-103.jpg",
+      "titulo": "acabaré / habré acabado -- Contraste futuro simple / futuro compuesto"
+    },
+    "49": {
+      "pagina": 106,
+      "pagina_ejercicios": 107,
+      "scan_ejercicios": "p-105.jpg",
+      "titulo": "Estaría en el jardín. -- Condicional simple"
+    },
+    "5": {
+      "pagina": 18,
+      "pagina_ejercicios": 19,
+      "scan_ejercicios": "p-018.jpg",
+      "titulo": "una santa, un frío -- El artículo indefinido con valor intensificador"
+    },
+    "50": {
+      "pagina": 108,
+      "pagina_ejercicios": 109,
+      "scan_ejercicios": "p-107.jpg",
+      "titulo": "habría estudiado -- Condicional compuesto"
+    },
+    "51": {
+      "pagina": 110,
+      "pagina_ejercicios": 111,
+      "scan_ejercicios": "p-109.jpg",
+      "titulo": "iría / habría ido -- Contraste condicional simple / condicional compuesto"
+    },
+    "52": {
+      "pagina": 112,
+      "pagina_ejercicios": 113,
+      "scan_ejercicios": "p-111.jpg",
+      "titulo": "Haz eso y verás. -- Imperativo (1)"
+    },
+    "53": {
+      "pagina": 114,
+      "pagina_ejercicios": 115,
+      "scan_ejercicios": "p-113.jpg",
+      "titulo": "Pensemos, no nos precipitemos. -- Imperativo (2)"
+    },
+    "54": {
+      "pagina": 116,
+      "pagina_ejercicios": 117,
+      "scan_ejercicios": "p-115.jpg",
+      "titulo": "Mira. Oye. -- Imperativo (3)"
+    },
+    "55": {
+      "pagina": 118,
+      "pagina_ejercicios": 119,
+      "scan_ejercicios": "p-117.jpg",
+      "titulo": "¡Anda! ¡Venga! ¡Vamos! -- Imperativo (4)"
+    },
+    "56": {
+      "pagina": 120,
+      "pagina_ejercicios": 121,
+      "scan_ejercicios": "p-119.jpg",
+      "titulo": "¡Vaya! ¡Fíjate! Date cuenta. ¡Toma! ¡Dale! -- Imperativo (5)"
+    },
+    "57": {
+      "pagina": 122,
+      "pagina_ejercicios": 123,
+      "scan_ejercicios": "p-121.jpg",
+      "titulo": "¡Ojalá estén en casa! ¡Que tengas buen viaje! -- Presente de subjuntivo (1)"
+    },
+    "58": {
+      "pagina": 124,
+      "pagina_ejercicios": 125,
+      "scan_ejercicios": "p-123.jpg",
+      "titulo": "Necesito que me ayudes. Quiero que escuches esto. -- Presente de subjuntivo (2)"
+    },
+    "59": {
+      "pagina": 126,
+      "pagina_ejercicios": 127,
+      "scan_ejercicios": "p-125.jpg",
+      "titulo": "¿Te molesta que fume? Me pone nervioso que grites. -- Presente de subjuntivo (3)"
+    },
+    "6": {
+      "pagina": 20,
+      "pagina_ejercicios": 21,
+      "scan_ejercicios": "p-020.jpg",
+      "titulo": "¡El frío que hacía! ¡Lo mal que conduce! -- El artículo definido y lo con valor intensificador"
+    },
+    "60": {
+      "pagina": 128,
+      "pagina_ejercicios": 129,
+      "scan_ejercicios": "p-127.jpg",
+      "titulo": "Es una lástima que dejes de trabajar. Puede que llegue tarde. -- Presente de subjuntivo (4)"
+    },
+    "61": {
+      "pagina": 130,
+      "pagina_ejercicios": 131,
+      "scan_ejercicios": "p-129.jpg",
+      "titulo": "Creo que hay. / No creo que haya. -- Verbos seguidos de indicativo o subjuntivo (1)"
+    },
+    "62": {
+      "pagina": 132,
+      "pagina_ejercicios": 133,
+      "scan_ejercicios": "p-131.jpg",
+      "titulo": "¡Qué más quisiera! -- Pretérito imperfecto de subjuntivo (1)"
+    },
+    "63": {
+      "pagina": 134,
+      "pagina_ejercicios": 135,
+      "scan_ejercicios": "p-133.jpg",
+      "titulo": "Quería que me ayudaras. -- Pretérito imperfecto de subjuntivo (2)"
+    },
+    "64": {
+      "pagina": 136,
+      "pagina_ejercicios": 137,
+      "scan_ejercicios": "p-135.jpg",
+      "titulo": "Pensé que estabas. / No pensé que estuvieras. -- Verbos seguidos de indicativo o subjuntivo (2)"
+    },
+    "65": {
+      "pagina": 138,
+      "pagina_ejercicios": 139,
+      "scan_ejercicios": "p-137.jpg",
+      "titulo": "¡Ojalá hayan regresado! -- Pretérito perfecto de subjuntivo (1)"
+    },
+    "66": {
+      "pagina": 140,
+      "pagina_ejercicios": 141,
+      "scan_ejercicios": "p-139.jpg",
+      "titulo": "Es imposible que lo haya hecho él. -- Pretérito perfecto de subjuntivo (2)"
+    },
+    "67": {
+      "pagina": 142,
+      "pagina_ejercicios": 143,
+      "scan_ejercicios": "p-141.jpg",
+      "titulo": "Creo que han tenido. / No creo que hayan tenido. -- Verbos seguidos de indicativo o subjuntivo (3)"
+    },
+    "68": {
+      "pagina": 144,
+      "pagina_ejercicios": 145,
+      "scan_ejercicios": "p-143.jpg",
+      "titulo": "¡Ojalá hubiera ganado! -- Pretérito pluscuamperfecto de subjuntivo"
+    },
+    "69": {
+      "pagina": 146,
+      "pagina_ejercicios": 147,
+      "scan_ejercicios": "p-145.jpg",
+      "titulo": "Creo que habrían tenido. / No creo que hubieran tenido. -- Verbos seguidos de indicativo o subjuntivo (4)"
+    },
+    "7": {
+      "pagina": 22,
+      "pagina_ejercicios": 23,
+      "scan_ejercicios": "p-022.jpg",
+      "titulo": "este..., ese..., aquel... -- Demostrativos (1)"
+    },
+    "70": {
+      "pagina": 148,
+      "pagina_ejercicios": 149,
+      "scan_ejercicios": "p-147.jpg",
+      "titulo": "Cuando quieras. Alguien que hable español. -- El subjuntivo para expresar indeterminación"
+    },
+    "71": {
+      "pagina": 150,
+      "pagina_ejercicios": 151,
+      "scan_ejercicios": "p-149.jpg",
+      "titulo": "descansar, haber descansado -- Infinitivo"
+    },
+    "72": {
+      "pagina": 152,
+      "pagina_ejercicios": 153,
+      "scan_ejercicios": "p-151.jpg",
+      "titulo": "Nos complace invitarlos. Es fácil ganar. -- Construcciones con infinitivo o subjuntivo"
+    },
+    "73": {
+      "pagina": 154,
+      "pagina_ejercicios": 155,
+      "scan_ejercicios": "p-153.jpg",
+      "titulo": "Merecieron ganar. Mereces que te dé... -- Verbos seguidos de infinitivo o subjuntivo"
+    },
+    "74": {
+      "pagina": 156,
+      "pagina_ejercicios": 157,
+      "scan_ejercicios": "p-155.jpg",
+      "titulo": "Creo tener razón. / Creo que tengo razón. / No creo que tenga razón. -- Verbos seguidos de infinitivo, indicativo o subjuntivo"
+    },
+    "75": {
+      "pagina": 158,
+      "pagina_ejercicios": 159,
+      "scan_ejercicios": "p-157.jpg",
+      "titulo": "sin querer, difícil de creer -- El infinitivo con preposiciones"
+    },
+    "76": {
+      "pagina": 160,
+      "pagina_ejercicios": 161,
+      "scan_ejercicios": "p-159.jpg",
+      "titulo": "Se niega a obedecer. Se sorprendió de que hablase español. -- Verbos con preposición seguidos de infinitivo o subjuntivo"
+    },
+    "77": {
+      "pagina": 162,
+      "pagina_ejercicios": 163,
+      "scan_ejercicios": "p-161.jpg",
+      "titulo": "Rompió a llorar. Llegué a tomarle cariño. -- Expresiones con infinitivo (1)"
+    },
+    "78": {
+      "pagina": 164,
+      "pagina_ejercicios": 165,
+      "scan_ejercicios": "p-163.jpg",
+      "titulo": "Tuve que ir. Hay que darse prisa. -- Expresiones con infinitivo (2)"
+    },
+    "79": {
+      "pagina": 166,
+      "pagina_ejercicios": 167,
+      "scan_ejercicios": "p-165.jpg",
+      "titulo": "¿sorprendida?, siempre cansado -- Participio (1)"
+    },
+    "8": {
+      "pagina": 24,
+      "pagina_ejercicios": 25,
+      "scan_ejercicios": "p-024.jpg",
+      "titulo": "¡esta Ana!, el tío este -- Demostrativos (2)"
+    },
+    "80": {
+      "pagina": 168,
+      "pagina_ejercicios": 169,
+      "scan_ejercicios": "p-167.jpg",
+      "titulo": "Llega agotada. Tengo ahorrados mil euros. -- Participio (2)"
+    },
+    "81": {
+      "pagina": 170,
+      "pagina_ejercicios": 171,
+      "scan_ejercicios": "p-169.jpg",
+      "titulo": "¡Siempre trabajando! -- Gerundio (1)"
+    },
+    "82": {
+      "pagina": 172,
+      "pagina_ejercicios": 173,
+      "scan_ejercicios": "p-171.jpg",
+      "titulo": "He estado limpiando. Iba conduciendo. -- Gerundio (2)"
+    },
+    "83": {
+      "pagina": 174,
+      "pagina_ejercicios": 175,
+      "scan_ejercicios": "p-173.jpg",
+      "titulo": "la fruta que compré, lo que yo quiero -- Oraciones de relativo especificativas"
+    },
+    "84": {
+      "pagina": 176,
+      "pagina_ejercicios": 177,
+      "scan_ejercicios": "p-175.jpg",
+      "titulo": "mi padre, que está de vacaciones... -- Oraciones de relativo explicativas"
+    },
+    "85": {
+      "pagina": 178,
+      "pagina_ejercicios": 179,
+      "scan_ejercicios": "p-177.jpg",
+      "titulo": "antes de que me lo preguntes -- Oraciones temporales (1)"
+    },
+    "86": {
+      "pagina": 180,
+      "pagina_ejercicios": 181,
+      "scan_ejercicios": "p-179.jpg",
+      "titulo": "cuando llueve, en cuanto oye el timbre -- Oraciones temporales (2)"
+    },
+    "87": {
+      "pagina": 182,
+      "pagina_ejercicios": 183,
+      "scan_ejercicios": "p-181.jpg",
+      "titulo": "adonde no haya, como cocinaba su madre -- Oraciones de lugar y modo"
+    },
+    "88": {
+      "pagina": 184,
+      "pagina_ejercicios": 185,
+      "scan_ejercicios": "p-183.jpg",
+      "titulo": "Porque me ha mentido. Es que no me gusta. -- Oraciones causales (1)"
+    },
+    "89": {
+      "pagina": 186,
+      "pagina_ejercicios": 187,
+      "scan_ejercicios": "p-185.jpg",
+      "titulo": "gracias a vosotros, de tantos libros como tiene -- Oraciones causales (2)"
+    },
+    "9": {
+      "pagina": 26,
+      "pagina_ejercicios": 27,
+      "scan_ejercicios": "p-026.jpg",
+      "titulo": "casas altas, altos rascacielos -- El adjetivo"
+    },
+    "90": {
+      "pagina": 188,
+      "pagina_ejercicios": 189,
+      "scan_ejercicios": "p-187.jpg",
+      "titulo": "Así que cállate. De ahí que regresara. -- Oraciones consecutivas (1)"
+    },
+    "91": {
+      "pagina": 190,
+      "pagina_ejercicios": 191,
+      "scan_ejercicios": "p-189.jpg",
+      "titulo": "de un modo que parece, tal enfado que no quiere -- Oraciones consecutivas (2)"
+    },
+    "92": {
+      "pagina": 192,
+      "pagina_ejercicios": 193,
+      "scan_ejercicios": "p-191.jpg",
+      "titulo": "un frío que no se puede, de un orgulloso que resulta -- Oraciones consecutivas (3)"
+    },
+    "93": {
+      "pagina": 194,
+      "pagina_ejercicios": 195,
+      "scan_ejercicios": "p-193.jpg",
+      "titulo": "para comprarme, con idea de pasar, a tratar -- Oraciones finales"
+    },
+    "94": {
+      "pagina": 196,
+      "pagina_ejercicios": 197,
+      "scan_ejercicios": "p-195.jpg",
+      "titulo": "Si nieva, habrá mucha agua. -- Oraciones condicionales (1)"
+    },
+    "95": {
+      "pagina": 198,
+      "pagina_ejercicios": 199,
+      "scan_ejercicios": "p-197.jpg",
+      "titulo": "como pierda el trabajo, de ser así -- Oraciones condicionales (2)"
+    },
+    "96": {
+      "pagina": 200,
+      "pagina_ejercicios": 201,
+      "scan_ejercicios": "p-199.jpg",
+      "titulo": "Si tuviera dinero, te invitaría. -- Oraciones condicionales (3)"
+    },
+    "97": {
+      "pagina": 202,
+      "pagina_ejercicios": 203,
+      "scan_ejercicios": "p-201.jpg",
+      "titulo": "Si hubieras trabajado antes, ahora no tendrías problemas. -- Oraciones condicionales (4)"
+    },
+    "98": {
+      "pagina": 204,
+      "pagina_ejercicios": 205,
+      "scan_ejercicios": "p-203.jpg",
+      "titulo": "siempre que, a menos que -- Oraciones condicionales (5)"
+    },
+    "99": {
+      "pagina": 206,
+      "pagina_ejercicios": 207,
+      "scan_ejercicios": "p-205.jpg",
+      "titulo": "aunque no están de acuerdo, a pesar del calor -- Oraciones concesivas (1)"
+    }
+  }
+}

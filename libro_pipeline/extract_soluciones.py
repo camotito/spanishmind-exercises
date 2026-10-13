@@ -34,6 +34,7 @@ import argparse
 import json
 import os
 
+from libro_ctx import Libro, add_libro_arg, find_solucionario
 from openai_client import InsufficientQuotaError
 from providers import DEFAULT_PROVIDER, build_client, call_client
 
@@ -97,27 +98,24 @@ SCHEMA = {
     "additionalProperties": False,
 }
 
-HERE = os.path.dirname(os.path.abspath(__file__))
-LIBRO_DIR = os.path.join(HERE, "..", "libro")
-MAPA_PATH = os.path.join(HERE, "mapa_unidades.json")
-
-
 def main():
     parser = argparse.ArgumentParser(description="Extrae el solucionario via vision")
     parser.add_argument("--provider", choices=["gemini", "openai"], default=DEFAULT_PROVIDER)
     parser.add_argument("--model", default=None, help="override del modelo (default: el de cada proveedor)")
     parser.add_argument("--start", type=int, help="scan inicial (default: el de mapa_unidades.json)")
     parser.add_argument("--end", type=int, help="scan final, inclusive (default: el de mapa_unidades.json)")
+    add_libro_arg(parser)
     args = parser.parse_args()
 
-    out_path = os.path.join(HERE, f"soluciones_{args.provider}.json")
+    libro = Libro(args.libro)
+    out_path = libro.soluciones_path(args.provider)
 
     if args.start is not None and args.end is not None:
         scan_inicio, scan_fin = args.start, args.end
     else:
-        with open(MAPA_PATH, encoding="utf-8") as f:
+        with open(libro.mapa_path, encoding="utf-8") as f:
             mapa = json.load(f)
-        seccion = mapa.get("secciones", {}).get("Soluciones a los ejercicios")
+        _, seccion = find_solucionario(mapa.get("secciones", {}))
         if not seccion:
             raise SystemExit(
                 'No hay seccion "Soluciones a los ejercicios" en mapa_unidades.json -- '
@@ -131,21 +129,21 @@ def main():
         with open(out_path, encoding="utf-8") as f:
             soluciones = json.load(f)
 
-    checkpoint_path = os.path.join(HERE, f".estado_soluciones_{args.provider}.json")
+    checkpoint_path = libro.estado(f"soluciones_{args.provider}")
     client = build_client(args.provider, checkpoint_path, model=args.model)
 
     for scan_index in range(scan_inicio, scan_fin + 1):
         key = f"solucion:{scan_index:03d}"
-        path = os.path.join(LIBRO_DIR, f"libro-rojo-{scan_index:03d}.png")
+        path = libro.scan_path(scan_index)
 
         if client.is_done(key):
-            print(f"  ya procesado libro-rojo-{scan_index:03d}.png, se salta")
+            print(f"  ya procesado {libro.scan_name(scan_index)}, se salta")
             continue
         if not os.path.exists(path):
             print(f"  (sin scan {scan_index:03d}, se salta)")
             continue
 
-        print(f"→ libro-rojo-{scan_index:03d}.png ({args.provider})")
+        print(f"→ {libro.scan_name(scan_index)} ({args.provider})")
         try:
             raw = call_client(client, args.provider, path, PROMPT, schema=SCHEMA)
             data = json.loads(raw, strict=False)  # el modelo a veces mete saltos de linea literales en strings

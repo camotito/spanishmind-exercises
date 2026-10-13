@@ -16,6 +16,7 @@ resumen final -- nunca se descarta en silencio ni se inventa una respuesta.
 Uso:
     python3 merge_ejemplos.py                # todas las unidades con raw disponible
     python3 merge_ejemplos.py 5 27 38         # solo estas unidades
+    python3 merge_ejemplos.py --libro c1-c2   # otro libro (libros/c1-c2/)
 """
 import glob
 import json
@@ -25,12 +26,10 @@ import sys
 
 import yaml
 
-HERE = os.path.dirname(os.path.abspath(__file__))
-V2_DIR = os.path.join(HERE, "..")
-RAW_DIR = os.path.join(HERE, "ejercicios_raw")
-SOLUCIONES_PATH = os.path.join(HERE, "soluciones.json")
-INDEX_PATH = os.path.join(V2_DIR, "index.yaml")
-EJEMPLOS_DIR = os.path.join(V2_DIR, "ejemplos")
+from libro_ctx import Libro, LEGACY
+
+# se rellenan en main() segun --libro (default: el libro original)
+RAW_DIR = SOLUCIONES_PATH = INDEX_PATH = EJEMPLOS_DIR = None
 
 # mismos patrones que el tokenizador de render.py -- deben mantenerse en sync
 CHOICE_RE = re.compile(r"\(([^()]*?/[^()]*?)\)")
@@ -49,6 +48,8 @@ def n_huecos(texto):
 
 
 def tema_por_unidad():
+    if not INDEX_PATH:  # libros nuevos: no hay index.yaml, los temas son unidad-N
+        return {}
     with open(INDEX_PATH, encoding="utf-8") as f:
         indice = yaml.safe_load(f)
     return {str(t["unidad_libro"]): t["tema"] for t in indice if t.get("unidad_libro")}
@@ -135,6 +136,19 @@ def merge_unidad(num, tema_map, soluciones, avisos):
 
 
 def main():
+    global RAW_DIR, SOLUCIONES_PATH, INDEX_PATH, EJEMPLOS_DIR
+    args = sys.argv[1:]
+    nombre = LEGACY
+    if "--libro" in args:
+        i = args.index("--libro")
+        nombre = args[i + 1]
+        del args[i:i + 2]
+    libro = Libro(nombre)
+    RAW_DIR = libro.raw_dir
+    SOLUCIONES_PATH = libro.soluciones_final_path()
+    INDEX_PATH = libro.index_path
+    EJEMPLOS_DIR = libro.ejemplos_dir
+
     tema_map = tema_por_unidad()
 
     soluciones = {}
@@ -145,8 +159,8 @@ def main():
         print("⚠️  no existe soluciones.json -- corre extract_soluciones.py antes; "
               "se continua sin respuestas (todo quedara marcado 'revisar')")
 
-    if len(sys.argv) > 1:
-        unidades = sys.argv[1:]
+    if args:
+        unidades = args
     else:
         unidades = sorted(
             (os.path.basename(p)[:-5] for p in glob.glob(os.path.join(RAW_DIR, "*.json"))),

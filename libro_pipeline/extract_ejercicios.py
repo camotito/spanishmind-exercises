@@ -15,19 +15,18 @@ Uso:
     python3 extract_ejercicios.py                          # todas las unidades del mapa (OpenAI por defecto)
     python3 extract_ejercicios.py 5 27 38                  # solo estas unidades
     python3 extract_ejercicios.py 38 --provider gemini      # comparar con Gemini
+    python3 extract_ejercicios.py 1 2 --libro c1-c2          # otro libro (libros/c1-c2/)
 """
 import argparse
 import json
 import os
 
+from libro_ctx import Libro, add_libro_arg
 from openai_client import InsufficientQuotaError
 from providers import DEFAULT_PROVIDER, build_client, call_client
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-LIBRO_DIR = os.path.join(HERE, "..", "libro")
 GEMINI_DIR = os.path.join(HERE, "..", "Gemini")
-MAPA_PATH = os.path.join(HERE, "mapa_unidades.json")
-RAW_DIR = os.path.join(HERE, "ejercicios_raw")
 
 # Sin JSON schema estricto aqui a proposito: "contexto_grafico.datos" cambia de
 # forma segun el tipo de grafico (nombre/piso para directory, otros campos para
@@ -140,7 +139,12 @@ def main():
     parser.add_argument("unidades", nargs="*", help="numeros de unidad a procesar (default: todas las del mapa)")
     parser.add_argument("--provider", choices=["gemini", "openai"], default=DEFAULT_PROVIDER)
     parser.add_argument("--model", default=None, help="override del modelo (default: el de cada proveedor)")
+    add_libro_arg(parser)
     args = parser.parse_args()
+
+    libro = Libro(args.libro)
+    MAPA_PATH = libro.mapa_path
+    RAW_DIR = libro.raw_dir
 
     with open(MAPA_PATH, encoding="utf-8") as f:
         mapa = json.load(f)
@@ -153,7 +157,7 @@ def main():
     seleccion = args.unidades or sorted(unidades.keys(), key=int)
 
     os.makedirs(RAW_DIR, exist_ok=True)
-    checkpoint_path = os.path.join(HERE, f".estado_ejercicios_{args.provider}.json")
+    checkpoint_path = libro.estado(f"ejercicios_{args.provider}")
     client = build_client(args.provider, checkpoint_path, model=args.model)
 
     for num in seleccion:
@@ -163,7 +167,7 @@ def main():
 
         info = unidades[num]
         key = f"ejercicio:{num}"
-        scan_path = os.path.join(LIBRO_DIR, info["scan_ejercicios"])
+        scan_path = os.path.join(libro.scans_dir, info["scan_ejercicios"])
         out_path = os.path.join(RAW_DIR, f"{num}.json")
 
         if client.is_done(key):
@@ -176,7 +180,12 @@ def main():
 
         print(f"→ unidad {num} ({info['titulo']}) -- {info['scan_ejercicios']} ({args.provider})")
         try:
-            raw = call_client(client, args.provider, scan_path, prompt)
+            aviso_unidad = (
+                f"\n\nIMPORTANTE: esta pagina es de la UNIDAD {num}. Los subejercicios se numeran "
+                f"{num}.1, {num}.2, {num}.3... (no leas el numero de la unidad de la pestana lateral "
+                f"del dibujo: puede estar girado y confundirse, p. ej. 34 con 43)."
+            )
+            raw = call_client(client, args.provider, scan_path, prompt + aviso_unidad)
             data = json.loads(raw, strict=False)  # el modelo a veces mete saltos de linea literales en strings
         except InsufficientQuotaError as e:
             print(f"\n🛑 {e}\nParando el pipeline aqui -- relanza el mismo comando cuando haya saldo, retoma solo.")
@@ -185,6 +194,13 @@ def main():
             print(f"  ⚠️  fallo: {e}")
             client.mark_failed(key, e)
             continue
+
+        # la unidad la conocemos por el indice: si el modelo leyo mal el numero de
+        # la pestana (34 -> 43), se corrige aqui el prefijo de cada subejercicio
+        for ej in data.get("ejercicios", []):
+            sub = str(ej.get("subejercicio", ""))
+            if "." in sub and sub.split(".", 1)[0] != num:
+                ej["subejercicio"] = f"{num}.{sub.split('.', 1)[1]}"
 
         data["unidad"] = int(num)
         data["titulo_libro"] = info["titulo"]
