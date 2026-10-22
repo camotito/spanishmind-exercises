@@ -1,0 +1,73 @@
+{
+  "tema": "tengo-que-vs-debo",
+  "titulo": "Tengo que o debo",
+  "descripcion_gramatical": "Obligación: tener que (I have to, obligación externa) frente a deber (I must, deber moral)",
+  "ejercicios": [
+    {
+      "tipologia": "T5",
+      "enunciado": "Choose the Spanish that matches the English.",
+      "items": [
+        {
+          "texto_enunciado": "(I have to work today.) Hoy (tengo que/debo) trabajar.",
+          "solucion_correcta": [
+            "tengo que"
+          ]
+        },
+        {
+          "texto_enunciado": "(I must be honest.) (tengo que/debo) ser honesto.",
+          "solucion_correcta": [
+            "debo"
+          ]
+        },
+        {
+          "texto_enunciado": "(I have to go to the bank.) (tengo que/debo) ir al banco.",
+          "solucion_correcta": [
+            "tengo que"
+          ]
+        },
+        {
+          "texto_enunciado": "(I must respect my friends.) (tengo que/debo) respetar a mis amigos.",
+          "solucion_correcta": [
+            "debo"
+          ]
+        },
+        {
+          "texto_enunciado": "(I must tell the truth.) (tengo que/debo) decir la verdad.",
+          "solucion_correcta": [
+            "debo"
+          ]
+        },
+        {
+          "texto_enunciado": "(I have to come back early.) (tengo que/debo) volver temprano.",
+          "solucion_correcta": [
+            "tengo que"
+          ]
+        },
+        {
+          "texto_enunciado": "(I have to see my friend today.) Hoy (tengo que/debo) ver a mi amigo.",
+          "solucion_correcta": [
+            "tengo que"
+          ]
+        },
+        {
+          "texto_enunciado": "(I must help my family.) (tengo que/debo) ayudar a mi familia.",
+          "solucion_correcta": [
+            "debo"
+          ]
+        },
+        {
+          "texto_enunciado": "(I have to arrive early tomorrow.) Mañana (tengo que/debo) llegar temprano.",
+          "solucion_correcta": [
+            "tengo que"
+          ]
+        },
+        {
+          "texto_enunciado": "(I must be kind to my friends.) (tengo que/debo) ser amable con mis amigos.",
+          "solucion_correcta": [
+            "debo"
+          ]
+        }
+      ]
+    }
+  ]
+}

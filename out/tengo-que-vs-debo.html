@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tengo que o debo</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+    --bg: #FBF7F0; --card: #ffffff; --primary: #C1440E; --secondary: #2E4053;
+    --accent: #E9B44C; --ok: #4F7942; --bad: #B33A3A; --text: #2B2B2B;
+    --line: #e5ddd0;
+    --font-heading: 'Playfair Display', serif; --font-body: 'DM Sans', sans-serif;
+}
+* { box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text);
+    max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
+h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
+button.ghost.btn-teoria { position: fixed; top: 14px; right: 14px; z-index: 5; background: var(--accent); color: var(--secondary);
+    text-decoration: none; font-weight: 600; font-size: .95rem; padding: 10px 18px; border-radius: 999px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.18); animation: teoria-pulso 1.6s ease-out 2; }
+button.ghost.btn-teoria:hover { opacity: 1; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
+@keyframes teoria-pulso { 0% { box-shadow: 0 0 0 0 rgba(233,180,76,.8); } 100% { box-shadow: 0 0 0 16px rgba(233,180,76,0); } }
+@media (prefers-reduced-motion: reduce) { .btn-teoria { animation: none; } }
+dialog.teoria { max-width: 720px; width: calc(100% - 32px); max-height: 88vh; overflow-y: auto;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--card);
+    color: var(--text); padding: 8px 24px 24px; line-height: 1.6; }
+dialog.teoria::backdrop { background: rgba(0,0,0,.4); }
+dialog.teoria h2 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.25rem; }
+dialog.teoria h3 { color: var(--primary); font-size: 1rem; margin: 1.4em 0 .3em; }
+dialog.teoria ul { margin: .3em 0; padding-left: 1.2em; }
+.teoria-cerrar { position: sticky; bottom: 0; display: block; margin: 20px auto 0; }
+.volver-indice { display: block; text-align: center; margin: 30px 0 10px;
+    color: var(--secondary); font-size: .9rem; }
+.ejercicio { background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
+.ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
+    margin: 0 0 14px; }
+.item { padding: 8px 0; border-top: 1px dashed var(--line); }
+.item:first-of-type { border-top: none; }
+.item-row + .item-row { margin-top: 4px; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
+.blank { font-family: var(--font-body); padding: 2px 2px; border: none;
+    border-bottom: 2px solid var(--secondary); border-radius: 0;
+    background: transparent; width: 150px; max-width: 100%; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank-wide { display: block; width: 100%; margin-top: 4px; }
+.blank.ok { border-bottom-color: var(--ok); background: transparent; }
+.blank.bad { border-bottom-color: var(--bad); background: transparent; }
+.hint-paren { font-style: italic; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
+.group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+button { font-family: var(--font-body); background: var(--primary); color: #fff;
+    border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: .85rem; }
+button.ghost { background: transparent; color: var(--secondary); text-decoration: underline; padding: 8px 4px; }
+button:hover { opacity: .9; }
+.group-feedback { font-weight: 600; font-size: .9rem; display: none; margin-left: auto; }
+.group-feedback.correct { color: var(--ok); }
+.group-feedback.wrong { color: var(--bad); }
+/* soporte gráfico */
+.directory { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.plate { text-align: center; padding: 10px 6px; border: 1px solid var(--line);
+    border-radius: 6px; background: #fff; }
+.plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
+.plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
+@media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.scene-list { list-style: none; margin: 0 0 18px; padding: 10px 14px;
+    border: 2px solid var(--secondary); border-radius: 8px; background: #fffdf8; }
+.scene-list li { padding: 4px 0; border-top: 1px dashed var(--line); }
+.scene-list li:first-child { border-top: none; }
+.scene-num { color: var(--secondary); font-weight: 700; }
+.tabla-titulo { font-weight: 700; color: var(--secondary); background: #fffdf8;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 8px 14px;
+    margin-bottom: 18px; }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
+input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
+    background: transparent; cursor: default; }
+.page-nav { display: flex; justify-content: space-between; align-items: center;
+    margin: 24px 0; gap: 12px; }
+#page-indicator { font-family: var(--font-heading); color: var(--secondary); font-size: 1rem; }
+button:disabled { opacity: .4; cursor: default; }
+</style>
+</head>
+<body>
+
+<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()">&#128214; Theory</button>
+<dialog id="teoria" class="teoria">
+<h2>tengo que or debo?</h2>
+
+<h3>tengo que = <i>I have to</i></h3>
+<p>An obligation that comes from outside: your schedule, rules, something that needs to be done.</p>
+<ul>
+<li><b>Tengo que trabajar mañana.</b> / <i>I have to work tomorrow.</i></li>
+<li><b>Tengo que ir a casa.</b> / <i>I have to go home.</i></li>
+<li><b>Tengo que llegar temprano.</b> / <i>I have to arrive early.</i></li>
+</ul>
+
+<h3>debo = <i>I must</i></h3>
+<p>A duty that comes from inside: what you believe is right.</p>
+<p><b>Debo</b> = <i>I owe</i> (think <i>debt</i>, <i>debit</i>). You owe it to other people or to yourself.</p>
+<ul>
+<li><b>Debo decir la verdad.</b> / <i>I must tell the truth.</i></li>
+<li><b>Debo respetar a mi familia.</b> / <i>I must respect my family.</i></li>
+<li><b>Debo ser honesto con mis amigos.</b> / <i>I must be honest with my friends.</i></li>
+</ul>
+
+<h3>How to choose</h3>
+<ul>
+<li>The reason is outside you (a schedule, a place, a task): <b>tengo que</b>.</li>
+<li>The reason is a duty you feel is right: <b>debo</b>.</li>
+</ul>
+
+<h3>Heads-up</h3>
+<p>In everyday Spanish, speakers often use <b>tengo que</b> for personal duties too.</p>
+<p><b>Debo</b> sounds more serious.</p>
+<p>In the exercise, the English tells you which one to choose.</p>
+
+<button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
+</dialog>
+<h1>Tengo que o debo</h1>
+<div class="page" data-page="0" hidden><section class="ejercicio">
+        <p class="enunciado">Choose the Spanish that matches the English.</p>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(I have to work today.)</em> Hoy <select class="blank" data-sol="tengo que"><option value="">—</option><option>tengo que</option><option>debo</option></select> trabajar.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(I must be honest.)</em> <select class="blank" data-sol="debo"><option value="">—</option><option>tengo que</option><option>debo</option></select> ser honesto.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(I have to go to the bank.)</em> <select class="blank" data-sol="tengo que"><option value="">—</option><option>tengo que</option><option>debo</option></select> ir al banco.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(I must respect my friends.)</em> <select class="blank" data-sol="debo"><option value="">—</option><option>tengo que</option><option>debo</option></select> respetar a mis amigos.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(I must tell the truth.)</em> <select class="blank" data-sol="debo"><option value="">—</option><option>tengo que</option><option>debo</option></select> decir la verdad.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(I have to come back early.)</em> <select class="blank" data-sol="tengo que"><option value="">—</option><option>tengo que</option><option>debo</option></select> volver temprano.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(I have to see my friend today.)</em> Hoy <select class="blank" data-sol="tengo que"><option value="">—</option><option>tengo que</option><option>debo</option></select> ver a mi amigo.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(I must help my family.)</em> <select class="blank" data-sol="debo"><option value="">—</option><option>tengo que</option><option>debo</option></select> ayudar a mi familia.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(I have to arrive early tomorrow.)</em> Mañana <select class="blank" data-sol="tengo que"><option value="">—</option><option>tengo que</option><option>debo</option></select> llegar temprano.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(I must be kind to my friends.)</em> <select class="blank" data-sol="debo"><option value="">—</option><option>tengo que</option><option>debo</option></select> ser amable con mis amigos.</span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div>
+
+    <div class="page-nav">
+        <button class="ghost" id="btn-prev" onclick="showPage(currentPage - 1)">&larr; Anterior</button>
+        <span id="page-indicator"></span>
+        <button id="btn-next" onclick="showPage(currentPage + 1)">Siguiente &rarr;</button>
+    </div>
+<a class="volver-indice" href="/">&larr; Volver al índice</a>
+<script>
+function norm(s){
+  return (s||'').trim().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fieldOk(f){
+  const sol = f.getAttribute('data-sol');
+  const val = f.value;
+  if (sol === '\u00f8') return val.trim() === '' || norm(val) === norm('\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
+  return norm(val) === norm(sol);
+}
+function checkGroup(btn){
+  const section = btn.closest('.ejercicio');
+  let total = 0, correct = 0;
+  section.querySelectorAll('.item').forEach(item => {
+    const fields = item.querySelectorAll('[data-sol]');
+    let itemOk = true;
+    fields.forEach(f => {
+      const ok = fieldOk(f);
+      f.classList.toggle('ok', ok);
+      f.classList.toggle('bad', !ok);
+      total++;
+      if (ok) { correct++; } else { itemOk = false; }
+    });
+    item.dataset.solved = itemOk ? '1' : '0';
+  });
+  const allok = correct === total;
+  const fb = section.querySelector('.group-feedback');
+  fb.textContent = allok ? ('\u2714 All correct! (' + correct + '/' + total + ')')
+                          : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
+  fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
+  fb.style.display = 'inline';
+}
+function revealGroup(btn){
+  const section = btn.closest('.ejercicio');
+  section.querySelectorAll('[data-sol]').forEach(f => {
+    const sol = f.getAttribute('data-sol');
+    if (f.tagName === 'SELECT') {
+      [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
+    f.classList.remove('bad'); f.classList.add('ok');
+  });
+}
+let currentPage = 0;
+function showPage(i){
+  const pages = document.querySelectorAll('.page');
+  if (!pages.length) return;
+  currentPage = Math.max(0, Math.min(i, pages.length - 1));
+  pages.forEach((p, idx) => { p.hidden = idx !== currentPage; });
+  const indicator = document.getElementById('page-indicator');
+  if (indicator) indicator.textContent = (currentPage + 1) + ' / ' + pages.length;
+  const prev = document.getElementById('btn-prev');
+  const next = document.getElementById('btn-next');
+  if (prev) prev.disabled = currentPage === 0;
+  if (next) next.disabled = currentPage === pages.length - 1;
+  window.scrollTo(0, 0);
+}
+document.addEventListener('DOMContentLoaded', () => showPage(0));
+</script>
+</body>
+</html>

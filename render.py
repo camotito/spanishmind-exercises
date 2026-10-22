@@ -112,7 +112,12 @@ CSS = """
 body { font-family: var(--font-body); background: var(--bg); color: var(--text);
     max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
 h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
-.btn-teoria { position: fixed; top: 14px; right: 14px; z-index: 5; }
+button.ghost.btn-teoria { position: fixed; top: 14px; right: 14px; z-index: 5; background: var(--accent); color: var(--secondary);
+    text-decoration: none; font-weight: 600; font-size: .95rem; padding: 10px 18px; border-radius: 999px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.18); animation: teoria-pulso 1.6s ease-out 2; }
+button.ghost.btn-teoria:hover { opacity: 1; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
+@keyframes teoria-pulso { 0% { box-shadow: 0 0 0 0 rgba(233,180,76,.8); } 100% { box-shadow: 0 0 0 16px rgba(233,180,76,0); } }
+@media (prefers-reduced-motion: reduce) { .btn-teoria { animation: none; } }
 dialog.teoria { max-width: 720px; width: calc(100% - 32px); max-height: 88vh; overflow-y: auto;
     border: 1px solid var(--line); border-radius: 10px; background: var(--card);
     color: var(--text); padding: 8px 24px 24px; line-height: 1.6; }

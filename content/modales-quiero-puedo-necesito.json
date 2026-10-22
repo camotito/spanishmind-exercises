@@ -1,0 +1,139 @@
+{
+  "tema": "modales-quiero-puedo-necesito",
+  "titulo": "Quiero, puedo, necesito, voy a, intento",
+  "descripcion_gramatical": "Verbos modales y perífrasis con infinitivo: querer, poder, necesitar, ir a, intentar",
+  "ejercicios": [
+    {
+      "tipologia": "T5",
+      "enunciado": "Choose the Spanish that matches the English.",
+      "items": [
+        {
+          "texto_enunciado": "(I want to see my friend.) (quiero/puedo/necesito/voy a/intento) ver a mi amigo.",
+          "solucion_correcta": [
+            "quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "(I can come tomorrow.) (quiero/puedo/necesito/voy a/intento) venir mañana.",
+          "solucion_correcta": [
+            "puedo"
+          ]
+        },
+        {
+          "texto_enunciado": "(I try to come back early.) (quiero/puedo/necesito/voy a/intento) volver temprano.",
+          "solucion_correcta": [
+            "intento"
+          ]
+        },
+        {
+          "texto_enunciado": "(I need my wallet.) (quiero/puedo/necesito/voy a/intento) mi cartera.",
+          "solucion_correcta": [
+            "necesito"
+          ]
+        },
+        {
+          "texto_enunciado": "(I'm going to see my friend later.) (quiero/puedo/necesito/voy a/intento) ver a mi amigo luego.",
+          "solucion_correcta": [
+            "voy a"
+          ]
+        },
+        {
+          "texto_enunciado": "(I can't work today.) No (quiero/puedo/necesito/voy a/intento) trabajar hoy.",
+          "solucion_correcta": [
+            "puedo"
+          ]
+        },
+        {
+          "texto_enunciado": "(I want to come to your house.) (quiero/puedo/necesito/voy a/intento) venir a tu casa.",
+          "solucion_correcta": [
+            "quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "(I'm going to come tomorrow.) (quiero/puedo/necesito/voy a/intento) venir mañana.",
+          "solucion_correcta": [
+            "voy a"
+          ]
+        },
+        {
+          "texto_enunciado": "(I need cash.) (quiero/puedo/necesito/voy a/intento) efectivo.",
+          "solucion_correcta": [
+            "necesito"
+          ]
+        },
+        {
+          "texto_enunciado": "(I try to speak Spanish.) (quiero/puedo/necesito/voy a/intento) hablar español.",
+          "solucion_correcta": [
+            "intento"
+          ]
+        }
+      ]
+    },
+    {
+      "tipologia": "T5",
+      "enunciado": "Choose the Spanish that matches the English.",
+      "items": [
+        {
+          "texto_enunciado": "(I need my computer.) (quiero/puedo/necesito/voy a/intento) mi ordenador.",
+          "solucion_correcta": [
+            "necesito"
+          ]
+        },
+        {
+          "texto_enunciado": "(I'm going to have dinner later.) (quiero/puedo/necesito/voy a/intento) cenar luego.",
+          "solucion_correcta": [
+            "voy a"
+          ]
+        },
+        {
+          "texto_enunciado": "(I want to show you my computer.) (quiero/puedo/necesito/voy a/intento) mostrarte mi ordenador.",
+          "solucion_correcta": [
+            "quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "(Can I pay by card?) ¿(quiero/puedo/necesito/voy a/intento) pagar con tarjeta?",
+          "solucion_correcta": [
+            "puedo"
+          ]
+        },
+        {
+          "texto_enunciado": "(I try to come tomorrow.) (quiero/puedo/necesito/voy a/intento) venir mañana.",
+          "solucion_correcta": [
+            "intento"
+          ]
+        },
+        {
+          "texto_enunciado": "(I need help.) (quiero/puedo/necesito/voy a/intento) ayuda.",
+          "solucion_correcta": [
+            "necesito"
+          ]
+        },
+        {
+          "texto_enunciado": "(I try to see my friend.) (quiero/puedo/necesito/voy a/intento) ver a mi amigo.",
+          "solucion_correcta": [
+            "intento"
+          ]
+        },
+        {
+          "texto_enunciado": "(I want to have dinner with my friend.) (quiero/puedo/necesito/voy a/intento) cenar con mi amigo.",
+          "solucion_correcta": [
+            "quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "(I'm going to work tomorrow.) (quiero/puedo/necesito/voy a/intento) trabajar mañana.",
+          "solucion_correcta": [
+            "voy a"
+          ]
+        },
+        {
+          "texto_enunciado": "(Later I can go to your house.) Luego (quiero/puedo/necesito/voy a/intento) ir a tu casa.",
+          "solucion_correcta": [
+            "puedo"
+          ]
+        }
+      ]
+    }
+  ]
+}

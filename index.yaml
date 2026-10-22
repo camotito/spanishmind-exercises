@@ -260,3 +260,23 @@
   ejercicios_permitidos: [T4, T5]
   tiempos_permitidos: ["verbos reflexivos", "imperativo (regular)", "presente e imperfecto de subjuntivo"]
   grafico: none
+
+- tema: modales-quiero-puedo-necesito
+  titulo: "Quiero, puedo, necesito, voy a, intento"
+  descripcion_gramatical: "Verbos modales y perífrasis con infinitivo: querer, poder, necesitar, ir a, intentar"
+  unidad_libro: null
+  forma_verbal: null
+  depende_de: []
+  ejercicios_permitidos: [T5]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none
+
+- tema: tengo-que-vs-debo
+  titulo: "Tengo que o debo"
+  descripcion_gramatical: "Obligación: tener que (I have to, obligación externa) frente a deber (I must, deber moral)"
+  unidad_libro: null
+  forma_verbal: null
+  depende_de: [modales-quiero-puedo-necesito]
+  ejercicios_permitidos: [T5]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none
