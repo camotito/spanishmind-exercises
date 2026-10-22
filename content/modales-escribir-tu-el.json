@@ -1,0 +1,92 @@
+{
+  "tema": "modales-escribir-tu-el",
+  "titulo": "Escribe: quieres, puede, necesita, va a, intenta",
+  "descripcion_gramatical": "Verbos modales con tú y él/ella: conjugar querer, poder, necesitar, ir a e intentar en presente",
+  "ejercicios": [
+    {
+      "tipologia": "T8",
+      "enunciado": "Complete each sentence with the right form of a verb from the box.",
+      "items": [
+        {
+          "texto_enunciado": "(Do you want to see my house?) ¿_____ ver mi casa?",
+          "solucion_correcta": [
+            "quieres"
+          ]
+        },
+        {
+          "texto_enunciado": "(My friend can come tomorrow.) Mi amigo _____ venir mañana.",
+          "solucion_correcta": [
+            "puede"
+          ]
+        },
+        {
+          "texto_enunciado": "(Do you need your wallet?) ¿_____ tu cartera?",
+          "solucion_correcta": [
+            "necesitas"
+          ]
+        },
+        {
+          "texto_enunciado": "(My friend is going to work today.) Mi amigo _____ trabajar hoy.",
+          "solucion_correcta": [
+            "va a"
+          ]
+        },
+        {
+          "texto_enunciado": "(You try to come back early.) Tú _____ volver temprano.",
+          "solucion_correcta": [
+            "intentas"
+          ]
+        },
+        {
+          "texto_enunciado": "(Can you come tomorrow?) ¿_____ venir mañana?",
+          "solucion_correcta": [
+            "puedes"
+          ]
+        },
+        {
+          "texto_enunciado": "(My friend needs help.) Mi amigo _____ ayuda.",
+          "solucion_correcta": [
+            "necesita"
+          ]
+        },
+        {
+          "texto_enunciado": "(Are you going to work today?) ¿_____ trabajar hoy?",
+          "solucion_correcta": [
+            "vas a"
+          ]
+        },
+        {
+          "texto_enunciado": "(My friend tries to arrive early.) Mi amigo _____ llegar temprano.",
+          "solucion_correcta": [
+            "intenta"
+          ]
+        },
+        {
+          "texto_enunciado": "(My friend wants to see my house.) Mi amigo _____ ver mi casa.",
+          "solucion_correcta": [
+            "quiere"
+          ]
+        },
+        {
+          "texto_enunciado": "(You can't come tomorrow.) Tú no _____ venir mañana.",
+          "solucion_correcta": [
+            "puedes"
+          ]
+        },
+        {
+          "texto_enunciado": "(My friend doesn't want to have dinner.) Mi amigo no _____ cenar.",
+          "solucion_correcta": [
+            "quiere"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "querer",
+        "poder",
+        "necesitar",
+        "ir a",
+        "intentar"
+      ]
+    }
+  ]
+}

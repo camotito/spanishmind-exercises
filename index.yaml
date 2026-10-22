@@ -280,3 +280,23 @@
   ejercicios_permitidos: [T5]
   tiempos_permitidos: ["presente de indicativo"]
   grafico: none
+
+- tema: modales-escribir-yo
+  titulo: "Escribe: quiero, puedo, necesito, voy a, intento"
+  descripcion_gramatical: "Verbos modales con yo: conjugar querer, poder, necesitar, ir a e intentar en presente"
+  unidad_libro: null
+  forma_verbal: null
+  depende_de: [modales-quiero-puedo-necesito]
+  ejercicios_permitidos: [T8]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none
+
+- tema: modales-escribir-tu-el
+  titulo: "Escribe: quieres, puede, necesita, va a, intenta"
+  descripcion_gramatical: "Verbos modales con tú y él/ella: conjugar querer, poder, necesitar, ir a e intentar en presente"
+  unidad_libro: null
+  forma_verbal: null
+  depende_de: [modales-escribir-yo]
+  ejercicios_permitidos: [T8]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none

@@ -1,0 +1,80 @@
+{
+  "tema": "modales-escribir-yo",
+  "titulo": "Escribe: quiero, puedo, necesito, voy a, intento",
+  "descripcion_gramatical": "Verbos modales con yo: conjugar querer, poder, necesitar, ir a e intentar en presente",
+  "ejercicios": [
+    {
+      "tipologia": "T8",
+      "enunciado": "Complete each sentence with the right form of a verb from the box.",
+      "items": [
+        {
+          "texto_enunciado": "(I want to go to the bank.) _____ ir al banco.",
+          "solucion_correcta": [
+            "quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "(I need water.) _____ agua.",
+          "solucion_correcta": [
+            "necesito"
+          ]
+        },
+        {
+          "texto_enunciado": "(I try to arrive early.) _____ llegar temprano.",
+          "solucion_correcta": [
+            "intento"
+          ]
+        },
+        {
+          "texto_enunciado": "(I can come tomorrow.) _____ venir mañana.",
+          "solucion_correcta": [
+            "puedo"
+          ]
+        },
+        {
+          "texto_enunciado": "(I'm going to eat with my friend.) _____ comer con mi amigo.",
+          "solucion_correcta": [
+            "voy a"
+          ]
+        },
+        {
+          "texto_enunciado": "(I can't come today.) No _____ venir hoy.",
+          "solucion_correcta": [
+            "puedo"
+          ]
+        },
+        {
+          "texto_enunciado": "(I'm going to work today.) _____ trabajar hoy.",
+          "solucion_correcta": [
+            "voy a"
+          ]
+        },
+        {
+          "texto_enunciado": "(I want to have dinner with my friend.) _____ cenar con mi amigo.",
+          "solucion_correcta": [
+            "quiero"
+          ]
+        },
+        {
+          "texto_enunciado": "(I need the bill.) _____ la cuenta.",
+          "solucion_correcta": [
+            "necesito"
+          ]
+        },
+        {
+          "texto_enunciado": "(I try to speak Spanish.) _____ hablar español.",
+          "solucion_correcta": [
+            "intento"
+          ]
+        }
+      ],
+      "banco_palabras": [
+        "querer",
+        "poder",
+        "necesitar",
+        "ir a",
+        "intentar"
+      ]
+    }
+  ]
+}
