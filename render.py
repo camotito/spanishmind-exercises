@@ -132,7 +132,9 @@ button.ghost.btn-conj { position: fixed; top: 14px; right: 14px; z-index: 5; wid
 button.ghost.btn-conj.con-teoria { top: 64px; }
 button.ghost.btn-conj:hover { opacity: 1; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
 .conj-cabecera { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
-button.ghost.conj-print { width: 40px; height: 40px; padding: 0; border-radius: 50%; font-size: 1.1rem; flex: none; }
+button.conj-print { display: inline-flex; align-items: center; gap: 8px; margin-top: 10px; padding: 8px 16px; border-radius: 999px;
+    background: var(--secondary); color: #fff; font-weight: 600; font-size: .9rem; }
+button.conj-print svg { width: 18px; height: 18px; flex: none; }
 table.conj { border-collapse: collapse; width: 100%; margin: 10px 0 4px; font-size: .95rem; }
 table.conj th, table.conj td { padding: 5px 10px; border-bottom: 1px solid var(--line); text-align: left; }
 table.conj thead th { color: var(--secondary); border-bottom: 2px solid var(--secondary); vertical-align: bottom; }
@@ -632,7 +634,7 @@ def build_html(data, granularidad="ejercicio"):
     conj_html = f"""
 <button class="ghost btn-conj{' con-teoria' if teoria else ''}" onclick="document.getElementById('conj').showModal()" aria-label="Conjugation tables" title="Conjugation tables">&#9638;</button>
 <dialog id="conj" class="teoria conj">
-<div class="conj-cabecera no-print"><span></span><button class="ghost conj-print" onclick="window.print()" aria-label="Print or save as PDF" title="Print or save as PDF">&#128424;</button></div>
+<div class="conj-cabecera no-print"><span></span><button class="conj-print" onclick="window.print()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0-4-4m4 4 4-4M5 21h14"/></svg>Print / Save as PDF</button></div>
 {render_conjugacion(conj)}
 <button class="teoria-cerrar no-print" onclick="document.getElementById('conj').close()">&larr; Back to the exercises</button>
 </dialog>""" if conj else ""
