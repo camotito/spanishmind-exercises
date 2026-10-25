@@ -134,7 +134,10 @@ button.ghost.btn-conj:hover { opacity: 1; box-shadow: 0 4px 14px rgba(0,0,0,.25)
 .conj-cabecera { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 button.conj-print { display: inline-flex; align-items: center; gap: 8px; margin-top: 10px; padding: 8px 16px; border-radius: 999px;
     background: var(--secondary); color: #fff; font-weight: 600; font-size: .9rem; }
-button.conj-print svg { width: 18px; height: 18px; flex: none; }
+button.conj-print svg, a.conj-print svg { width: 18px; height: 18px; flex: none; }
+a.conj-print { display: inline-flex; align-items: center; gap: 8px; margin: 10px 0 0 8px; padding: 8px 16px; border-radius: 999px;
+    background: var(--secondary); color: #fff; font-weight: 600; font-size: .9rem; text-decoration: none; }
+@media (hover: none) and (pointer: coarse) { .solo-escritorio { display: none !important; } }
 table.conj { border-collapse: collapse; width: 100%; margin: 10px 0 4px; font-size: .95rem; }
 table.conj th, table.conj td { padding: 5px 10px; border-bottom: 1px solid var(--line); text-align: left; }
 table.conj thead th { color: var(--secondary); border-bottom: 2px solid var(--secondary); vertical-align: bottom; }
@@ -634,7 +637,7 @@ def build_html(data, granularidad="ejercicio"):
     conj_html = f"""
 <button class="ghost btn-conj{' con-teoria' if teoria else ''}" onclick="document.getElementById('conj').showModal()" aria-label="Conjugation tables" title="Conjugation tables">&#9638;</button>
 <dialog id="conj" class="teoria conj">
-<div class="conj-cabecera no-print"><span></span><button class="conj-print" onclick="window.print()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0-4-4m4 4 4-4M5 21h14"/></svg>Print / Save as PDF</button></div>
+<div class="conj-cabecera no-print"><span></span><button class="conj-print solo-escritorio" onclick="window.print()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9V3h12v6M6 18H4v-8h16v8h-2M6 14h12v7H6z"/></svg>Print</button><a class="conj-print" href="pdf/{data['tema']}-conjugacion.pdf" download><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0-4-4m4 4 4-4M5 21h14"/></svg>Download PDF</a></div>
 {render_conjugacion(conj)}
 <button class="teoria-cerrar no-print" onclick="document.getElementById('conj').close()">&larr; Back to the exercises</button>
 </dialog>""" if conj else ""
