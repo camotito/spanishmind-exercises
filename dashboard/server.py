@@ -56,7 +56,7 @@ def listar_temas():
     info_yaml = cargar_titulos()
     temas = []
     for fn in sorted(os.listdir(CONTENT_DIR)):
-        if not fn.endswith(".json"):
+        if not fn.endswith(".json") or fn.endswith(".conjugacion.json"):
             continue
         tema = fn[:-5]
         with open(os.path.join(CONTENT_DIR, fn), encoding="utf-8") as f:
@@ -210,7 +210,7 @@ class Handler(BaseHTTPRequestHandler):
                 self._json({"ok": False, "error": f"body invalido: {e}"}, status=400)
                 return
             guardar_render_config({"tipologias_desactivadas": desactivadas})
-            temas = sorted(fn[:-5] for fn in os.listdir(CONTENT_DIR) if fn.endswith(".json"))
+            temas = sorted(fn[:-5] for fn in os.listdir(CONTENT_DIR) if fn.endswith(".json") and not fn.endswith(".conjugacion.json"))
             errores = []
             for tema in temas:
                 try:

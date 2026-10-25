@@ -30,6 +30,29 @@ dialog.teoria h2 { font-family: var(--font-heading); color: var(--secondary); fo
 dialog.teoria h3 { color: var(--primary); font-size: 1rem; margin: 1.4em 0 .3em; }
 dialog.teoria ul { margin: .3em 0; padding-left: 1.2em; }
 .teoria-cerrar { position: sticky; bottom: 0; display: block; margin: 20px auto 0; }
+button.ghost.btn-conj { position: fixed; top: 14px; right: 14px; z-index: 5; width: 44px; height: 44px; padding: 0;
+    border-radius: 50%; background: var(--secondary); color: #fff; font-size: 1.2rem; line-height: 1;
+    box-shadow: 0 2px 10px rgba(0,0,0,.18); }
+button.ghost.btn-conj.con-teoria { top: 64px; }
+button.ghost.btn-conj:hover { opacity: 1; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
+.conj-cabecera { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+button.ghost.conj-print { width: 40px; height: 40px; padding: 0; border-radius: 50%; font-size: 1.1rem; flex: none; }
+table.conj { border-collapse: collapse; width: 100%; margin: 10px 0 4px; font-size: .95rem; }
+table.conj th, table.conj td { padding: 5px 10px; border-bottom: 1px solid var(--line); text-align: left; }
+table.conj thead th { color: var(--secondary); border-bottom: 2px solid var(--secondary); vertical-align: bottom; }
+table.conj thead th small { display: block; font-weight: 400; color: #777; }
+table.conj tbody th { font-weight: 600; color: var(--secondary); white-space: nowrap; }
+table.conj .r { color: #777; }
+table.conj b { color: var(--primary); }
+dialog.conj p { margin: .5em 0; }
+@media print {
+    body > *:not(dialog#conj) { display: none !important; }
+    body { margin: 0; padding: 0; max-width: none; background: #fff; }
+    dialog#conj { position: static; display: block; width: 100%; max-width: none; max-height: none;
+        overflow: visible; border: 0; padding: 0; }
+    dialog#conj .no-print { display: none !important; }
+    dialog#conj table.conj { break-inside: avoid; }
+}
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
     color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
@@ -94,52 +117,11 @@ button:disabled { opacity: .4; cursor: default; }
 </head>
 <body>
 
-<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()">&#128214; Theory</button>
-<dialog id="teoria" class="teoria"><h2>Durmió, leyó, hizo: the preterite (irregular verbs)</h2>
-
-<h3>Only usted, él, ella, ustedes, ellos, ellas change</h3>
-<p>The other persons are regular.</p>
-<ul>
-<li><b>e → i</b> (verbs in -ir): <i>pedir</i>: pedí, pediste, <b>pidió</b>, pedimos, pedisteis, <b>pidieron</b>.<br>Also: <i>mentir, preferir, seguir, sentir, divertirse</i>.</li>
-<li><b>o → u</b> (verbs in -ir): <i>dormir</i>: dormí, dormiste, <b>durmió</b>, dormimos, dormisteis, <b>durmieron</b>.<br>Also: <i>morir</i>.</li>
-<li><b>Vowel + -er/-ir: -ió becomes -yó</b>: <i>leer</i>: leí, leíste, <b>leyó</b>, leímos, leísteis, <b>leyeron</b>.<br>Also: <i>caer, construir, creer, destruir, huir, incluir, oír</i>.</li>
-</ul>
-<ul>
-<li><b>Pepi y Lolo se divirtieron</b> mucho en mi fiesta. / <i>Pepi and Lolo had a lot of fun at my party.</i></li>
-<li><b>La madre de Clara murió</b> hace dos meses. / <i>Clara's mother died two months ago.</i></li>
-<li>Una tormenta <b>destruyó</b> la iglesia del pueblo. / <i>A storm destroyed the village church.</i></li>
-</ul>
-
-<h3>Irregular stem: every person changes</h3>
-<p>Endings (no accents): <b>-e, -iste, -o, -o, -imos, -isteis, -ieron</b>.</p>
-<table style="border-collapse:collapse;width:100%;text-align:left">
-<tr><td>decir → <b>dij-</b></td><td>poner → <b>pus-</b></td></tr>
-<tr><td>estar → <b>estuv-</b></td><td>querer → <b>quis-</b></td></tr>
-<tr><td>haber → <b>hub-</b></td><td>saber → <b>sup-</b></td></tr>
-<tr><td>hacer → <b>hic-</b> (él: <b>hizo</b>)</td><td>tener → <b>tuv-</b></td></tr>
-<tr><td>poder → <b>pud-</b></td><td>traer → <b>traj-</b></td></tr>
-<tr><td>venir → <b>vin-</b></td><td></td></tr>
-</table>
-<ul>
-<li><b>Estuve</b> en casa con unos amigos. / <i>I was at home with some friends.</i></li>
-<li>El domingo <b>hubo</b> una fiesta. Pato no <b>quiso</b> venir. / <i>On Sunday there was a party. Pato didn't want to come.</i></li>
-<li>Los abuelos de Beatriz <b>tuvieron</b> diez hijos. / <i>Beatriz's grandparents had ten children.</i></li>
-</ul>
-<p><b>Exception:</b> after <b>j</b> the ending is <b>-eron</b>, not -ieron: <i>decir → dijeron</i>, <i>traer → trajeron</i>.</p>
-
-<h3>Verbs in -ducir</h3>
-<p><i>conducir</i>: conduje, condujiste, condujo, condujimos, condujisteis, <b>condujeron</b>.</p>
-<p>Also: <i>producir, traducir</i>.</p>
-
-<h3>ir and ser: the same forms</h3>
-<p>fui, fuiste, fue, fuimos, fuisteis, fueron.</p>
-<ul>
-<li>Antonio <b>fue</b> a Puerto Rico en 2001. / <i>Antonio went to Puerto Rico in 2001.</i> (ir)</li>
-<li>La civilización maya <b>fue</b> muy pacífica. / <i>The Maya civilization was very peaceful.</i> (ser)</li>
-</ul>
-<p>The context tells you which verb it is.</p>
-
-<button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
+<button class="ghost btn-conj" onclick="document.getElementById('conj').showModal()" aria-label="Conjugation tables" title="Conjugation tables">&#9638;</button>
+<dialog id="conj" class="teoria conj">
+<div class="conj-cabecera no-print"><span></span><button class="ghost conj-print" onclick="window.print()" aria-label="Print or save as PDF" title="Print or save as PDF">&#128424;</button></div>
+<h2>Pretérito indefinido: verbos irregulares</h2><p>Los verbos irregulares más importantes en este tiempo cambian su raíz. Usan estas terminaciones: <b><i>-e, -iste, -o, -imos, -isteis, -ieron</i></b><br>Estas terminaciones no llevan tilde (en los regulares sí: hablé, habló).<br><br>Estos son los más importantes entre ellos:<br>Estar: raíz → estuv<br>Tener: raíz → tuv</p><table class="conj"><thead><tr><th></th><th>Estar</th><th>Tener</th></tr></thead><tbody><tr><th scope="row">Yo</th><td><span class="r">estuv</span>-<b>e</b></td><td><span class="r">tuv</span>-<b>e</b></td></tr><tr><th scope="row">Tú</th><td><span class="r">estuv</span>-<b>iste</b></td><td><span class="r">tuv</span>-<b>iste</b></td></tr><tr><th scope="row">Él / Ella / Usted</th><td><span class="r">estuv</span>-<b>o</b></td><td><span class="r">tuv</span>-<b>o</b></td></tr><tr><th scope="row">Nosotros / Nosotras</th><td><span class="r">estuv</span>-<b>imos</b></td><td><span class="r">tuv</span>-<b>imos</b></td></tr><tr><th scope="row">Vosotros / Vosotras</th><td><span class="r">estuv</span>-<b>isteis</b></td><td><span class="r">tuv</span>-<b>isteis</b></td></tr><tr><th scope="row">Ellos / Ellas / Ustedes</th><td><span class="r">estuv</span>-<b>ieron</b></td><td><span class="r">tuv</span>-<b>ieron</b></td></tr></tbody></table><hr><p>Poder: raíz → pud<br>Poner: raíz → pus<br>Saber: raíz → sup</p><table class="conj"><thead><tr><th></th><th>Poder</th><th>Poner</th><th>Saber</th></tr></thead><tbody><tr><th scope="row">Yo</th><td><span class="r">pud</span>-<b>e</b></td><td><span class="r">pus</span>-<b>e</b></td><td><span class="r">sup</span>-<b>e</b></td></tr><tr><th scope="row">Tú</th><td><span class="r">pud</span>-<b>iste</b></td><td><span class="r">pus</span>-<b>iste</b></td><td><span class="r">sup</span>-<b>iste</b></td></tr><tr><th scope="row">Él / Ella / Usted</th><td><span class="r">pud</span>-<b>o</b></td><td><span class="r">pus</span>-<b>o</b></td><td><span class="r">sup</span>-<b>o</b></td></tr><tr><th scope="row">Nosotros / Nosotras</th><td><span class="r">pud</span>-<b>imos</b></td><td><span class="r">pus</span>-<b>imos</b></td><td><span class="r">sup</span>-<b>imos</b></td></tr><tr><th scope="row">Vosotros / Vosotras</th><td><span class="r">pud</span>-<b>isteis</b></td><td><span class="r">pus</span>-<b>isteis</b></td><td><span class="r">sup</span>-<b>isteis</b></td></tr><tr><th scope="row">Ellos / Ellas / Ustedes</th><td><span class="r">pud</span>-<b>ieron</b></td><td><span class="r">pus</span>-<b>ieron</b></td><td><span class="r">sup</span>-<b>ieron</b></td></tr></tbody></table><p><b>Haber</b>: raíz → hub. Solo se usa <b>hubo</b> (= <i>hay</i> en pasado): Anoche <b>hubo</b> un incendio.</p><hr><p>Hacer: raíz → hic / hiz<br>Querer: raíz → quis<br>Venir: raíz → vin<br>Decir: raíz → dij</p><table class="conj"><thead><tr><th></th><th>Hacer</th><th>Querer</th><th>Venir</th><th>Decir</th></tr></thead><tbody><tr><th scope="row">Yo</th><td><span class="r">hic</span>-<b>e</b></td><td><span class="r">quis</span>-<b>e</b></td><td><span class="r">vin</span>-<b>e</b></td><td><span class="r">dij</span>-<b>e</b></td></tr><tr><th scope="row">Tú</th><td><span class="r">hic</span>-<b>iste</b></td><td><span class="r">quis</span>-<b>iste</b></td><td><span class="r">vin</span>-<b>iste</b></td><td><span class="r">dij</span>-<b>iste</b></td></tr><tr><th scope="row">Él / Ella / Usted</th><td><span class="r">hiz</span>-<b>o</b></td><td><span class="r">quis</span>-<b>o</b></td><td><span class="r">vin</span>-<b>o</b></td><td><span class="r">dij</span>-<b>o</b></td></tr><tr><th scope="row">Nosotros / Nosotras</th><td><span class="r">hic</span>-<b>imos</b></td><td><span class="r">quis</span>-<b>imos</b></td><td><span class="r">vin</span>-<b>imos</b></td><td><span class="r">dij</span>-<b>imos</b></td></tr><tr><th scope="row">Vosotros / Vosotras</th><td><span class="r">hic</span>-<b>isteis</b></td><td><span class="r">quis</span>-<b>isteis</b></td><td><span class="r">vin</span>-<b>isteis</b></td><td><span class="r">dij</span>-<b>isteis</b></td></tr><tr><th scope="row">Ellos / Ellas / Ustedes</th><td><span class="r">hic</span>-<b>ieron</b></td><td><span class="r">quis</span>-<b>ieron</b></td><td><span class="r">vin</span>-<b>ieron</b></td><td><span class="r">dij</span>-<b>eron</b></td></tr></tbody></table><p><b>Hacer</b>: <i>hizo</i> (la c pasa a z para mantener el sonido). <b>Decir</b>: <i>dijeron</i>, sin i.</p><hr><p>Los verbos con raíz en -j- hacen <i>ellos / ellas / ustedes</i> en <b>-eron</b> (sin i): decir, traer y los verbos en -ducir.<br>Traer: raíz → traj<br>Conducir: raíz → conduj<br>Producir: raíz → produj</p><table class="conj"><thead><tr><th></th><th>Traer</th><th>Conducir</th><th>Producir</th></tr></thead><tbody><tr><th scope="row">Yo</th><td><span class="r">traj</span>-<b>e</b></td><td><span class="r">conduj</span>-<b>e</b></td><td><span class="r">produj</span>-<b>e</b></td></tr><tr><th scope="row">Tú</th><td><span class="r">traj</span>-<b>iste</b></td><td><span class="r">conduj</span>-<b>iste</b></td><td><span class="r">produj</span>-<b>iste</b></td></tr><tr><th scope="row">Él / Ella / Usted</th><td><span class="r">traj</span>-<b>o</b></td><td><span class="r">conduj</span>-<b>o</b></td><td><span class="r">produj</span>-<b>o</b></td></tr><tr><th scope="row">Nosotros / Nosotras</th><td><span class="r">traj</span>-<b>imos</b></td><td><span class="r">conduj</span>-<b>imos</b></td><td><span class="r">produj</span>-<b>imos</b></td></tr><tr><th scope="row">Vosotros / Vosotras</th><td><span class="r">traj</span>-<b>isteis</b></td><td><span class="r">conduj</span>-<b>isteis</b></td><td><span class="r">produj</span>-<b>isteis</b></td></tr><tr><th scope="row">Ellos / Ellas / Ustedes</th><td><span class="r">traj</span>-<b>eron</b></td><td><span class="r">conduj</span>-<b>eron</b></td><td><span class="r">produj</span>-<b>eron</b></td></tr></tbody></table><p>Lo mismo pasa con <i>traducir</i>.</p><hr><p>Los verbos ser, ir y dar cambian completamente:<br>Ser: raíz → fu<br>Ir: raíz → fu<br>Dar: raíz → d</p><table class="conj"><thead><tr><th></th><th>Ser / Ir</th><th>Dar</th></tr></thead><tbody><tr><th scope="row">Yo</th><td><span class="r">fu</span>-<b>i</b></td><td><span class="r">d</span>-<b>i</b></td></tr><tr><th scope="row">Tú</th><td><span class="r">fu</span>-<b>iste</b></td><td><span class="r">d</span>-<b>iste</b></td></tr><tr><th scope="row">Él / Ella / Usted</th><td><span class="r">fu</span>-<b>e</b></td><td><span class="r">d</span>-<b>io</b></td></tr><tr><th scope="row">Nosotros / Nosotras</th><td><span class="r">fu</span>-<b>imos</b></td><td><span class="r">d</span>-<b>imos</b></td></tr><tr><th scope="row">Vosotros / Vosotras</th><td><span class="r">fu</span>-<b>isteis</b></td><td><span class="r">d</span>-<b>isteis</b></td></tr><tr><th scope="row">Ellos / Ellas / Ustedes</th><td><span class="r">fu</span>-<b>eron</b></td><td><span class="r">d</span>-<b>ieron</b></td></tr></tbody></table><p>'Ir' y 'ser' tienen exactamente la misma conjugación: por eso comparten columna.</p><hr><p>Cambian la vocal de la raíz solo en <i>él / ella / usted</i> y <i>ellos / ellas / ustedes</i>.<br>e → i: pedir, divertirse, mentir, preferir, seguir, sentir<br>o → u: dormir, morir</p><table class="conj"><thead><tr><th></th><th>Pedir</th><th>Divertir</th><th>Dormir</th><th>Morir</th></tr></thead><tbody><tr><th scope="row">Yo</th><td><span class="r">ped</span>-<b>í</b></td><td><span class="r">divert</span>-<b>í</b></td><td><span class="r">dorm</span>-<b>í</b></td><td><span class="r">mor</span>-<b>í</b></td></tr><tr><th scope="row">Tú</th><td><span class="r">ped</span>-<b>iste</b></td><td><span class="r">divert</span>-<b>iste</b></td><td><span class="r">dorm</span>-<b>iste</b></td><td><span class="r">mor</span>-<b>iste</b></td></tr><tr><th scope="row">Él / Ella / Usted</th><td><span class="r">pid</span>-<b>ió</b></td><td><span class="r">divirt</span>-<b>ió</b></td><td><span class="r">durm</span>-<b>ió</b></td><td><span class="r">mur</span>-<b>ió</b></td></tr><tr><th scope="row">Nosotros / Nosotras</th><td><span class="r">ped</span>-<b>imos</b></td><td><span class="r">divert</span>-<b>imos</b></td><td><span class="r">dorm</span>-<b>imos</b></td><td><span class="r">mor</span>-<b>imos</b></td></tr><tr><th scope="row">Vosotros / Vosotras</th><td><span class="r">ped</span>-<b>isteis</b></td><td><span class="r">divert</span>-<b>isteis</b></td><td><span class="r">dorm</span>-<b>isteis</b></td><td><span class="r">mor</span>-<b>isteis</b></td></tr><tr><th scope="row">Ellos / Ellas / Ustedes</th><td><span class="r">pid</span>-<b>ieron</b></td><td><span class="r">divirt</span>-<b>ieron</b></td><td><span class="r">durm</span>-<b>ieron</b></td><td><span class="r">mur</span>-<b>ieron</b></td></tr></tbody></table><p>Con <i>se</i>: me divertí, te divertiste, <b>se divirtió</b>, nos divertimos, os divertisteis, <b>se divirtieron</b>.</p><hr><p>Si la raíz termina en vocal (caer, leer, construir, creer, destruir, huir, incluir, oír), la -i- entre vocales pasa a <b>-y-</b> en <i>él / ella / usted</i> y <i>ellos / ellas / ustedes</i>.</p><table class="conj"><thead><tr><th></th><th>Caer</th><th>Leer</th><th>Construir</th></tr></thead><tbody><tr><th scope="row">Yo</th><td><span class="r">ca</span>-<b>í</b></td><td><span class="r">le</span>-<b>í</b></td><td><span class="r">constru</span>-<b>í</b></td></tr><tr><th scope="row">Tú</th><td><span class="r">ca</span>-<b>íste</b></td><td><span class="r">le</span>-<b>íste</b></td><td><span class="r">constru</span>-<b>iste</b></td></tr><tr><th scope="row">Él / Ella / Usted</th><td><span class="r">ca</span>-<b>yó</b></td><td><span class="r">le</span>-<b>yó</b></td><td><span class="r">constru</span>-<b>yó</b></td></tr><tr><th scope="row">Nosotros / Nosotras</th><td><span class="r">ca</span>-<b>ímos</b></td><td><span class="r">le</span>-<b>ímos</b></td><td><span class="r">constru</span>-<b>imos</b></td></tr><tr><th scope="row">Vosotros / Vosotras</th><td><span class="r">ca</span>-<b>ísteis</b></td><td><span class="r">le</span>-<b>ísteis</b></td><td><span class="r">constru</span>-<b>isteis</b></td></tr><tr><th scope="row">Ellos / Ellas / Ustedes</th><td><span class="r">ca</span>-<b>yeron</b></td><td><span class="r">le</span>-<b>yeron</b></td><td><span class="r">constru</span>-<b>yeron</b></td></tr></tbody></table><p>Con <i>se</i>: me caí, te caíste, <b>se cayó</b>, nos caímos, os caísteis, <b>se cayeron</b>.</p>
+<button class="teoria-cerrar no-print" onclick="document.getElementById('conj').close()">&larr; Back to the exercises</button>
 </dialog>
 <h1>Durmió, leyó, hizo</h1>
 <div class="page" data-page="0" hidden><section class="ejercicio">

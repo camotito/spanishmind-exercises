@@ -1,0 +1,110 @@
+{
+ "titulo": "Pretérito indefinido: verbos regulares",
+ "bloques": [
+  {
+   "intro": "Se quita -ar, -er o -ir y se añaden estas terminaciones. Los verbos en <b>-er</b> y <b>-ir</b> tienen las mismas.",
+   "columnas": [
+    {
+     "verbos": [
+      "trabajar"
+     ],
+     "formas": [
+      [
+       "trabaj",
+       "é"
+      ],
+      [
+       "trabaj",
+       "aste"
+      ],
+      [
+       "trabaj",
+       "ó"
+      ],
+      [
+       "trabaj",
+       "amos"
+      ],
+      [
+       "trabaj",
+       "asteis"
+      ],
+      [
+       "trabaj",
+       "aron"
+      ]
+     ],
+     "patron": true,
+     "etiqueta": "-ar"
+    },
+    {
+     "verbos": [
+      "comer"
+     ],
+     "formas": [
+      [
+       "com",
+       "í"
+      ],
+      [
+       "com",
+       "iste"
+      ],
+      [
+       "com",
+       "ió"
+      ],
+      [
+       "com",
+       "imos"
+      ],
+      [
+       "com",
+       "isteis"
+      ],
+      [
+       "com",
+       "ieron"
+      ]
+     ],
+     "patron": true,
+     "etiqueta": "-er"
+    },
+    {
+     "verbos": [
+      "vivir"
+     ],
+     "formas": [
+      [
+       "viv",
+       "í"
+      ],
+      [
+       "viv",
+       "iste"
+      ],
+      [
+       "viv",
+       "ió"
+      ],
+      [
+       "viv",
+       "imos"
+      ],
+      [
+       "viv",
+       "isteis"
+      ],
+      [
+       "viv",
+       "ieron"
+      ]
+     ],
+     "patron": true,
+     "etiqueta": "-ir"
+    }
+   ],
+   "nota": "<b>Ortografía en <i>yo</i>:</b> sacar → saqu<b>é</b>, empezar → empec<b>é</b>, llegar → lleg<b>ué</b>. Las demás personas no cambian (sacaste, empezó, llegaron).</p><p><b>Dar y ver</b> no llevan tilde: di, diste, dio, dimos, disteis, dieron / vi, viste, vio, vimos, visteis, vieron."
+  }
+ ]
+}

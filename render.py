@@ -126,6 +126,29 @@ dialog.teoria h2 { font-family: var(--font-heading); color: var(--secondary); fo
 dialog.teoria h3 { color: var(--primary); font-size: 1rem; margin: 1.4em 0 .3em; }
 dialog.teoria ul { margin: .3em 0; padding-left: 1.2em; }
 .teoria-cerrar { position: sticky; bottom: 0; display: block; margin: 20px auto 0; }
+button.ghost.btn-conj { position: fixed; top: 14px; right: 14px; z-index: 5; width: 44px; height: 44px; padding: 0;
+    border-radius: 50%; background: var(--secondary); color: #fff; font-size: 1.2rem; line-height: 1;
+    box-shadow: 0 2px 10px rgba(0,0,0,.18); }
+button.ghost.btn-conj.con-teoria { top: 64px; }
+button.ghost.btn-conj:hover { opacity: 1; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
+.conj-cabecera { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+button.ghost.conj-print { width: 40px; height: 40px; padding: 0; border-radius: 50%; font-size: 1.1rem; flex: none; }
+table.conj { border-collapse: collapse; width: 100%; margin: 10px 0 4px; font-size: .95rem; }
+table.conj th, table.conj td { padding: 5px 10px; border-bottom: 1px solid var(--line); text-align: left; }
+table.conj thead th { color: var(--secondary); border-bottom: 2px solid var(--secondary); vertical-align: bottom; }
+table.conj thead th small { display: block; font-weight: 400; color: #777; }
+table.conj tbody th { font-weight: 600; color: var(--secondary); white-space: nowrap; }
+table.conj .r { color: #777; }
+table.conj b { color: var(--primary); }
+dialog.conj p { margin: .5em 0; }
+@media print {
+    body > *:not(dialog#conj) { display: none !important; }
+    body { margin: 0; padding: 0; max-width: none; background: #fff; }
+    dialog#conj { position: static; display: block; width: 100%; max-width: none; max-height: none;
+        overflow: visible; border: 0; padding: 0; }
+    dialog#conj .no-print { display: none !important; }
+    dialog#conj table.conj { break-inside: avoid; }
+}
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
     color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
@@ -544,6 +567,60 @@ def cargar_teoria(tema):
     return None
 
 
+PERSONAS_CONJ = ["Yo", "Tú", "Él / Ella / Usted", "Nosotros / Nosotras",
+                 "Vosotros / Vosotras", "Ellos / Ellas / Ustedes"]
+
+
+def cargar_conjugacion(tema):
+    """Tablas de conjugacion opcionales: content/<tema>.conjugacion.json."""
+    ruta = os.path.join(CONTENT_DIR, f"{tema}.conjugacion.json")
+    if os.path.exists(ruta):
+        with open(ruta, encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
+
+def _fusionar_columnas(columnas):
+    """Une columnas con la misma conjugacion en una sola (p. ej. ser/ir, o -er/-ir).
+
+    Clave de fusion: las formas completas (raiz + terminacion); con "patron": true,
+    solo las terminaciones (la raiz es un ejemplo y no cuenta)."""
+    grupos = {}
+    for c in columnas:
+        if c.get("patron"):
+            clave = ("p", tuple(t for _, t in c["formas"]))
+        else:
+            clave = ("f", tuple(tuple(x) for x in c["formas"]))
+        g = grupos.setdefault(clave, {"formas": c["formas"], "verbos": [], "etiquetas": []})
+        g["verbos"].extend(c["verbos"])
+        if c.get("etiqueta"):
+            g["etiquetas"].append(c["etiqueta"])
+    return list(grupos.values())
+
+
+def render_conjugacion(data):
+    partes = []
+    for b in data["bloques"]:
+        cols = _fusionar_columnas(b["columnas"])
+        cabeceras = ""
+        for c in cols:
+            if c["etiquetas"]:
+                cabeceras += f"<th>{esc(' / '.join(c['etiquetas']))}<small>{esc(' / '.join(c['verbos']))}</small></th>"
+            else:
+                cabeceras += f"<th>{esc(' / '.join(v.capitalize() for v in c['verbos']))}</th>"
+        filas = ""
+        for i, persona in enumerate(PERSONAS_CONJ):
+            celdas = "".join(
+                f'<td><span class="r">{esc(c["formas"][i][0])}</span>-<b>{esc(c["formas"][i][1])}</b></td>'
+                for c in cols)
+            filas += f"<tr><th scope=\"row\">{persona}</th>{celdas}</tr>"
+        partes.append(
+            (f"<p>{b['intro']}</p>" if b.get("intro") else "")
+            + f'<table class="conj"><thead><tr><th></th>{cabeceras}</tr></thead><tbody>{filas}</tbody></table>'
+            + (f"<p>{b['nota']}</p>" if b.get("nota") else ""))
+    return f"<h2>{esc(data['titulo'])}</h2>" + "<hr>".join(partes)
+
+
 def build_html(data, granularidad="ejercicio"):
     teoria = cargar_teoria(data["tema"])
     teoria_html = f"""
@@ -551,6 +628,14 @@ def build_html(data, granularidad="ejercicio"):
 <dialog id="teoria" class="teoria">{teoria}
 <button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
 </dialog>""" if teoria else ""
+    conj = cargar_conjugacion(data["tema"])
+    conj_html = f"""
+<button class="ghost btn-conj{' con-teoria' if teoria else ''}" onclick="document.getElementById('conj').showModal()" aria-label="Conjugation tables" title="Conjugation tables">&#9638;</button>
+<dialog id="conj" class="teoria conj">
+<div class="conj-cabecera no-print"><span></span><button class="ghost conj-print" onclick="window.print()" aria-label="Print or save as PDF" title="Print or save as PDF">&#128424;</button></div>
+{render_conjugacion(conj)}
+<button class="teoria-cerrar no-print" onclick="document.getElementById('conj').close()">&larr; Back to the exercises</button>
+</dialog>""" if conj else ""
     titulo = data.get("titulo", data["tema"])
     # "oculto": true permite desactivar un bloque de ejercicios sin borrarlo
     # del JSON (p.ej. desde el dashboard) -- simplemente no se renderiza.
@@ -594,7 +679,7 @@ def build_html(data, granularidad="ejercicio"):
 <style>{CSS}</style>
 </head>
 <body>
-{teoria_html}
+{teoria_html}{conj_html}
 <h1>{esc(titulo)}</h1>
 {pages_html}
 {nav}
@@ -631,7 +716,7 @@ def main():
         else:
             temas_arg.append(arg)
     temas = temas_arg or sorted(
-        fn[:-5] for fn in os.listdir(CONTENT_DIR) if fn.endswith(".json")
+        fn[:-5] for fn in os.listdir(CONTENT_DIR) if fn.endswith(".json") and not fn.endswith(".conjugacion.json")
     )
     for tema in temas:
         generate(tema, granularidad)
