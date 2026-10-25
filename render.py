@@ -615,7 +615,7 @@ def _raices(texto):
         raiz, fin, nueva = (esc(x) for x in m.groups())
         r = f'<span class="r">{raiz}</span>' if raiz else ""
         return (f'<div class="rc"><span class="inf">{r}<span class="fin">{fin}</span></span>'
-                f'<span class="flecha">&rarr;</span><span class="nueva">{nueva}-</span></div>')
+                f'<span class="flecha">{"" if raiz == nueva else "&rarr;"}</span><span class="nueva">{nueva}-</span></div>')
     return re.sub(r"\[\[([^|\]]*)\|([^|\]]*)\|([^\]]*)\]\]", fila, texto)
 
 
