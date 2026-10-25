@@ -24,5 +24,5 @@ Ver `README.md` para el resumen corto.
 
 ## Convenciones de trabajo
 
-- **Commit + push por paso**, no acumulado: cada cambio de implementación o corrección de error significativo se commitea y se pushea antes de seguir con el siguiente, sin pausar a pedir confirmación (modo auto para este repo).
+- **Commit por paso, push solo cuando Javi lo pida**: cada cambio significativo se commitea, pero nunca se hace `git push` por iniciativa propia (cada push despliega en Netlify y gasta créditos del nivel gratis). Los cambios se prueban siempre en local antes (`python3 render.py && python3 build_index.py`, servidor en `out/`, p. ej. `python3 -m http.server 8765`). Javi pide el push cuando todo está listo y depurado.
 - **Curaduría de datos contra el libro real cuando haga falta** (imágenes necesarias, subrayados, tablas faltantes): si hay escaneo disponible en `libro/`, verificar ahí antes de asumir un patrón por el enunciado o la tipología — el enunciado por sí solo no siempre predice si algo está subrayado o no en el libro impreso.
