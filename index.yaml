@@ -300,3 +300,23 @@
   ejercicios_permitidos: [T8]
   tiempos_permitidos: ["presente de indicativo"]
   grafico: none
+
+- tema: preterito-indefinido-regulares
+  titulo: "Trabajé, comí, viví"
+  descripcion_gramatical: "Pretérito indefinido: verbos regulares"
+  unidad_libro: 58
+  forma_verbal: "pretérito indefinido"
+  depende_de: [pronombres-reflexivos-y-con-valor-reciproco]
+  ejercicios_permitidos: [T4, T8]
+  tiempos_permitidos: ["verbos reflexivos", "pretérito indefinido"]
+  grafico: none
+
+- tema: preterito-indefinido-irregulares
+  titulo: "Durmió, leyó, hizo"
+  descripcion_gramatical: "Pretérito indefinido: verbos irregulares"
+  unidad_libro: 59
+  forma_verbal: null
+  depende_de: [preterito-indefinido-regulares]
+  ejercicios_permitidos: [T4, T8]
+  tiempos_permitidos: ["verbos reflexivos", "pretérito indefinido"]
+  grafico: none

@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trabajé, comí, viví</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+    --bg: #FBF7F0; --card: #ffffff; --primary: #C1440E; --secondary: #2E4053;
+    --accent: #E9B44C; --ok: #4F7942; --bad: #B33A3A; --text: #2B2B2B;
+    --line: #e5ddd0;
+    --font-heading: 'Playfair Display', serif; --font-body: 'DM Sans', sans-serif;
+}
+* { box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text);
+    max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
+h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
+button.ghost.btn-teoria { position: fixed; top: 14px; right: 14px; z-index: 5; background: var(--accent); color: var(--secondary);
+    text-decoration: none; font-weight: 600; font-size: .95rem; padding: 10px 18px; border-radius: 999px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.18); animation: teoria-pulso 1.6s ease-out 2; }
+button.ghost.btn-teoria:hover { opacity: 1; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
+@keyframes teoria-pulso { 0% { box-shadow: 0 0 0 0 rgba(233,180,76,.8); } 100% { box-shadow: 0 0 0 16px rgba(233,180,76,0); } }
+@media (prefers-reduced-motion: reduce) { .btn-teoria { animation: none; } }
+dialog.teoria { max-width: 720px; width: calc(100% - 32px); max-height: 88vh; overflow-y: auto;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--card);
+    color: var(--text); padding: 8px 24px 24px; line-height: 1.6; }
+dialog.teoria::backdrop { background: rgba(0,0,0,.4); }
+dialog.teoria h2 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.25rem; }
+dialog.teoria h3 { color: var(--primary); font-size: 1rem; margin: 1.4em 0 .3em; }
+dialog.teoria ul { margin: .3em 0; padding-left: 1.2em; }
+.teoria-cerrar { position: sticky; bottom: 0; display: block; margin: 20px auto 0; }
+.volver-indice { display: block; text-align: center; margin: 30px 0 10px;
+    color: var(--secondary); font-size: .9rem; }
+.ejercicio { background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
+.ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
+    margin: 0 0 14px; }
+.item { padding: 8px 0; border-top: 1px dashed var(--line); }
+.item:first-of-type { border-top: none; }
+.item-row + .item-row { margin-top: 4px; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
+.blank { font-family: var(--font-body); padding: 2px 2px; border: none;
+    border-bottom: 2px solid var(--secondary); border-radius: 0;
+    background: transparent; width: 150px; max-width: 100%; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank-wide { display: block; width: 100%; margin-top: 4px; }
+.blank.ok { border-bottom-color: var(--ok); background: transparent; }
+.blank.bad { border-bottom-color: var(--bad); background: transparent; }
+.hint-paren { font-style: italic; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
+.group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+button { font-family: var(--font-body); background: var(--primary); color: #fff;
+    border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: .85rem; }
+button.ghost { background: transparent; color: var(--secondary); text-decoration: underline; padding: 8px 4px; }
+button:hover { opacity: .9; }
+.group-feedback { font-weight: 600; font-size: .9rem; display: none; margin-left: auto; }
+.group-feedback.correct { color: var(--ok); }
+.group-feedback.wrong { color: var(--bad); }
+/* soporte gráfico */
+.directory { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.plate { text-align: center; padding: 10px 6px; border: 1px solid var(--line);
+    border-radius: 6px; background: #fff; }
+.plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
+.plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
+@media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.scene-list { list-style: none; margin: 0 0 18px; padding: 10px 14px;
+    border: 2px solid var(--secondary); border-radius: 8px; background: #fffdf8; }
+.scene-list li { padding: 4px 0; border-top: 1px dashed var(--line); }
+.scene-list li:first-child { border-top: none; }
+.scene-num { color: var(--secondary); font-weight: 700; }
+.tabla-titulo { font-weight: 700; color: var(--secondary); background: #fffdf8;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 8px 14px;
+    margin-bottom: 18px; }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
+input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
+    background: transparent; cursor: default; }
+.page-nav { display: flex; justify-content: space-between; align-items: center;
+    margin: 24px 0; gap: 12px; }
+#page-indicator { font-family: var(--font-heading); color: var(--secondary); font-size: 1rem; }
+button:disabled { opacity: .4; cursor: default; }
+</style>
+</head>
+<body>
+
+<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()">&#128214; Theory</button>
+<dialog id="teoria" class="teoria"><h2>Trabajé, comí, viví: the preterite (regular verbs)</h2>
+
+<h3>Endings</h3>
+<table style="border-collapse:collapse;width:100%;text-align:left">
+<tr><th></th><th>-ar (trabajar)</th><th>-er (comer)</th><th>-ir (vivir)</th></tr>
+<tr><td>yo</td><td>trabaj<b>é</b></td><td>com<b>í</b></td><td>viv<b>í</b></td></tr>
+<tr><td>tú</td><td>trabaj<b>aste</b></td><td>com<b>iste</b></td><td>viv<b>iste</b></td></tr>
+<tr><td>usted, él, ella</td><td>trabaj<b>ó</b></td><td>com<b>ió</b></td><td>viv<b>ió</b></td></tr>
+<tr><td>nosotros</td><td>trabaj<b>amos</b></td><td>com<b>imos</b></td><td>viv<b>imos</b></td></tr>
+<tr><td>vosotros</td><td>trabaj<b>asteis</b></td><td>com<b>isteis</b></td><td>viv<b>isteis</b></td></tr>
+<tr><td>ustedes, ellos, ellas</td><td>trabaj<b>aron</b></td><td>com<b>ieron</b></td><td>viv<b>ieron</b></td></tr>
+</table>
+<p>The endings of <b>-er</b> and <b>-ir</b> verbs are the same.</p>
+
+<h3>When to use it</h3>
+<p>To say what happened at a specific moment in the finished past.</p>
+<ul>
+<li><b>Anoche no salimos.</b> / <i>Last night we didn't go out.</i></li>
+<li><b>Mis padres vivieron</b> en Quito desde 1990 hasta 2001. / <i>My parents lived in Quito from 1990 to 2001.</i></li>
+<li>Typical words: <i>anoche, ayer, el jueves pasado, la semana pasada, hace dos meses, en 1995</i>.</li>
+</ul>
+
+<h3>A sequence of finished actions</h3>
+<ul>
+<li><b>El profesor entró</b> en el aula, <b>abrió</b> el libro y <b>empezó</b> a explicar. / <i>The teacher came into the room, opened the book and began to explain.</i></li>
+</ul>
+
+<h3>Stories and biographies</h3>
+<ul>
+<li>Cervantes <b>nació</b> en Alcalá de Henares en 1547. / <i>Cervantes was born in Alcalá de Henares in 1547.</i></li>
+</ul>
+
+<h3>Watch out</h3>
+<ul>
+<li><b>dar</b> takes <i>-er/-ir</i> endings without accent: di, diste, dio, dimos, disteis, dieron.</li>
+<li>Verbs in <b>-car</b>: <i>sacar</i> → <b>saqué</b> (yo).</li>
+<li>Verbs in <b>-zar</b>: <i>empezar</i> → <b>empecé</b> (yo).</li>
+<li>Verbs in <b>-gar</b>: <i>llegar</i> → <b>llegué</b> (yo).</li>
+<li>Only <i>yo</i> changes spelling. The other persons are regular: <i>sacaste, sacó, llegaste, llegó</i>.</li>
+</ul>
+
+<button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
+</dialog>
+<h1>Trabajé, comí, viví</h1>
+<div class="page" data-page="0" hidden><section class="ejercicio">
+        <p class="enunciado">Complete the sentences with the preterite of the verbs in parentheses.</p>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Pablo y Mar <em class="hint-paren">(casarse)</em> <input type="text" class="blank" data-sol="se casaron" data-hint="" style="width: 12ch" autocomplete="off"> hace tres meses.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>El domingo por la mañana <em class="hint-paren">(yo, no salir)</em> <input type="text" class="blank" data-sol="no salí" data-hint="" style="width: 9ch" autocomplete="off">. <em class="hint-paren">(Levantarse)</em> <input type="text" class="blank" data-sol="Me levanté" data-hint="" style="width: 12ch" autocomplete="off"> tarde, <em class="hint-paren">(lavarse)</em> <input type="text" class="blank" data-sol="me lavé" data-hint="" style="width: 9ch" autocomplete="off"> el pelo, <em class="hint-paren">(desayunar)</em> <input type="text" class="blank" data-sol="desayuné" data-hint="" style="width: 10ch" autocomplete="off"> y <em class="hint-paren">(escribir)</em> <input type="text" class="blank" data-sol="escribí" data-hint="" style="width: 9ch" autocomplete="off"> algunas cartas.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>El año pasado <em class="hint-paren">(nosotros, ver)</em> <input type="text" class="blank" data-sol="vimos" data-hint="" style="width: 7ch" autocomplete="off"> a Mercedes Sosa en directo.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Yolanda y Arturo <em class="hint-paren">(vivir)</em> <input type="text" class="blank" data-sol="vivieron" data-hint="" style="width: 10ch" autocomplete="off"> en Argentina hasta 1998.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>—¿Qué os <em class="hint-paren">(pasar)</em> <input type="text" class="blank" data-sol="pasó" data-hint="" style="width: 6ch" autocomplete="off"> ayer? —<em class="hint-paren">(No sonar)</em> <input type="text" class="blank" data-sol="No sonó" data-hint="" style="width: 9ch" autocomplete="off"> el despertador y <em class="hint-paren">(llegar)</em> <input type="text" class="blank" data-sol="llegamos" data-hint="" style="width: 10ch" autocomplete="off"> tarde.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>—¿Cuándo <em class="hint-paren">(conocerse)</em> <input type="text" class="blank" data-sol="os conocisteis" data-hint="" style="width: 16ch" autocomplete="off"> Gala y tú? —<em class="hint-paren">(Conocerse)</em> <input type="text" class="blank" data-sol="Nos conocimos" data-hint="" style="width: 15ch" autocomplete="off"> en 1999, durante un viaje a Santo Domingo.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>—¿A qué hora <em class="hint-paren">(acabar)</em> <input type="text" class="blank" data-sol="acabó" data-hint="" style="width: 7ch" autocomplete="off"> la fiesta anoche? —No lo sé. Yo <em class="hint-paren">(acostarse)</em> <input type="text" class="blank" data-sol="me acosté" data-hint="" style="width: 11ch" autocomplete="off"> a las doce.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>¿Con quién <em class="hint-paren">(tú, salir)</em> <input type="text" class="blank" data-sol="saliste" data-hint="" style="width: 9ch" autocomplete="off"> el domingo?</span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div><div class="page" data-page="1" hidden><section class="ejercicio">
+        <p class="enunciado">Complete the questions.</p>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Ayer conocí a Donato. ¿A quién <input type="text" class="blank" data-sol="conociste" data-hint="" style="width: 11ch" autocomplete="off"> ayer?</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>El domingo dimos un paseo por el Malecón. ¿Por dónde <input type="text" class="blank" data-sol="disteis" data-hint="" style="width: 9ch" autocomplete="off"> un paseo el domingo?</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>De joven, viví seis meses en Chile. ¿Dónde <input type="text" class="blank" data-sol="viviste" data-hint="" style="width: 9ch" autocomplete="off"> de joven?</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>El año pasado trabajé en una academia. ¿Dónde <input type="text" class="blank" data-sol="trabajaste" data-hint="" style="width: 12ch" autocomplete="off"> el año pasado?</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Anoche hablé con Alicia. ¿Con quién <input type="text" class="blank" data-sol="hablaste" data-hint="" style="width: 10ch" autocomplete="off"> anoche?</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La semana pasada comimos en un mesón. ¿Dónde <input type="text" class="blank" data-sol="comisteis" data-hint="" style="width: 11ch" autocomplete="off"> la semana pasada?</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>El sábado pasamos el día con Araceli. ¿Con quién <input type="text" class="blank" data-sol="pasasteis" data-hint="" style="width: 11ch" autocomplete="off"> el día el sábado?</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Di una fiesta hace una semana. ¿Cuándo <input type="text" class="blank" data-sol="diste" data-hint="" style="width: 7ch" autocomplete="off"> una fiesta?</span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div><div class="page" data-page="2" hidden><section class="ejercicio">
+        <p class="enunciado">Complete the story with the preterite of the verbs in parentheses.</p>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Una noche me <em class="hint-paren">(despertar)</em> <input type="text" class="blank" data-sol="despertó" data-hint="" style="width: 10ch" autocomplete="off"> un ruido. <em class="hint-paren">(Levantarse)</em> <input type="text" class="blank" data-sol="Me levanté" data-hint="" style="width: 12ch" autocomplete="off">, <em class="hint-paren">(encender)</em> <input type="text" class="blank" data-sol="encendí" data-hint="" style="width: 9ch" autocomplete="off"> la luz y <em class="hint-paren">(acercarse)</em> <input type="text" class="blank" data-sol="me acerqué" data-hint="" style="width: 12ch" autocomplete="off"> a la ventana. En la calle <em class="hint-paren">(ver)</em> <input type="text" class="blank" data-sol="vi" data-hint="" style="width: 4ch" autocomplete="off"> una figura vestida de blanco. Cuando la figura me <em class="hint-paren">(ver)</em> <input type="text" class="blank" data-sol="vio" data-hint="" style="width: 5ch" autocomplete="off">, me <em class="hint-paren">(llamar)</em> <input type="text" class="blank" data-sol="llamó" data-hint="" style="width: 7ch" autocomplete="off"> con la mano. <em class="hint-paren">(Dar)</em> <input type="text" class="blank" data-sol="Di" data-hint="" style="width: 4ch" autocomplete="off"> un grito y la figura <em class="hint-paren">(alejarse)</em> <input type="text" class="blank" data-sol="se alejó" data-hint="" style="width: 10ch" autocomplete="off">. <em class="hint-paren">(Regresar)</em> <input type="text" class="blank" data-sol="Regresé" data-hint="" style="width: 9ch" autocomplete="off"> a la cama, <em class="hint-paren">(apagar)</em> <input type="text" class="blank" data-sol="apagué" data-hint="" style="width: 8ch" autocomplete="off"> la luz y <em class="hint-paren">(acostarse)</em> <input type="text" class="blank" data-sol="me acosté" data-hint="" style="width: 11ch" autocomplete="off">. Nunca más <em class="hint-paren">(volver)</em> <input type="text" class="blank" data-sol="volví" data-hint="" style="width: 7ch" autocomplete="off"> a verla.</span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div><div class="page" data-page="3" hidden><section class="ejercicio">
+        <p class="enunciado">Use the verbs from the box to complete Isabel Allende&#x27;s biography.</p><div class="wordbox"><span class="word-chip">casarse</span><span class="word-chip">escribir</span><span class="word-chip">nacer</span><span class="word-chip">nacer</span><span class="word-chip">refugiarse</span><span class="word-chip">regresar</span><span class="word-chip">trasladarse</span><span class="word-chip">vivir</span></div>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Isabel Allende es chilena, pero <input type="text" class="blank" data-sol="nació" data-hint="" style="width: 7ch" autocomplete="off"> en Lima, Perú, el 2 de agosto de 1942. En 1945 su madre <input type="text" class="blank" data-sol="regresó" data-hint="" style="width: 9ch" autocomplete="off"> a Chile con Isabel y sus hermanos. En 1962 <input type="text" class="blank" data-sol="se casó" data-hint="" style="width: 9ch" autocomplete="off"> por primera vez y al año siguiente <input type="text" class="blank" data-sol="nació" data-hint="" style="width: 7ch" autocomplete="off"> su hija Paula. En 1975, dos años después del golpe militar en Chile, <input type="text" class="blank" data-sol="se refugió" data-hint="" style="width: 12ch" autocomplete="off"> en Caracas, Venezuela. Aquí <input type="text" class="blank" data-sol="vivió" data-hint="" style="width: 7ch" autocomplete="off"> trece años y <input type="text" class="blank" data-sol="escribió" data-hint="" style="width: 10ch" autocomplete="off"> su gran éxito, La casa de los espíritus. En 1987 <input type="text" class="blank" data-sol="se trasladó" data-hint="" style="width: 13ch" autocomplete="off"> a los Estados Unidos, donde reside actualmente.</span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div>
+
+    <div class="page-nav">
+        <button class="ghost" id="btn-prev" onclick="showPage(currentPage - 1)">&larr; Anterior</button>
+        <span id="page-indicator"></span>
+        <button id="btn-next" onclick="showPage(currentPage + 1)">Siguiente &rarr;</button>
+    </div>
+<a class="volver-indice" href="/">&larr; Volver al índice</a>
+<script>
+function norm(s){
+  return (s||'').trim().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fieldOk(f){
+  const sol = f.getAttribute('data-sol');
+  const val = f.value;
+  if (sol === '\u00f8') return val.trim() === '' || norm(val) === norm('\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
+  return norm(val) === norm(sol);
+}
+function checkGroup(btn){
+  const section = btn.closest('.ejercicio');
+  let total = 0, correct = 0;
+  section.querySelectorAll('.item').forEach(item => {
+    const fields = item.querySelectorAll('[data-sol]');
+    let itemOk = true;
+    fields.forEach(f => {
+      const ok = fieldOk(f);
+      f.classList.toggle('ok', ok);
+      f.classList.toggle('bad', !ok);
+      total++;
+      if (ok) { correct++; } else { itemOk = false; }
+    });
+    item.dataset.solved = itemOk ? '1' : '0';
+  });
+  const allok = correct === total;
+  const fb = section.querySelector('.group-feedback');
+  fb.textContent = allok ? ('\u2714 All correct! (' + correct + '/' + total + ')')
+                          : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
+  fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
+  fb.style.display = 'inline';
+}
+function revealGroup(btn){
+  const section = btn.closest('.ejercicio');
+  section.querySelectorAll('[data-sol]').forEach(f => {
+    const sol = f.getAttribute('data-sol');
+    if (f.tagName === 'SELECT') {
+      [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
+    f.classList.remove('bad'); f.classList.add('ok');
+  });
+}
+let currentPage = 0;
+function showPage(i){
+  const pages = document.querySelectorAll('.page');
+  if (!pages.length) return;
+  currentPage = Math.max(0, Math.min(i, pages.length - 1));
+  pages.forEach((p, idx) => { p.hidden = idx !== currentPage; });
+  const indicator = document.getElementById('page-indicator');
+  if (indicator) indicator.textContent = (currentPage + 1) + ' / ' + pages.length;
+  const prev = document.getElementById('btn-prev');
+  const next = document.getElementById('btn-next');
+  if (prev) prev.disabled = currentPage === 0;
+  if (next) next.disabled = currentPage === pages.length - 1;
+  window.scrollTo(0, 0);
+}
+document.addEventListener('DOMContentLoaded', () => showPage(0));
+</script>
+</body>
+</html>

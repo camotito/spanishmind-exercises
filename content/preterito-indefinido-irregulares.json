@@ -1,14 +1,11 @@
 {
-  "tema": "unidad-59",
-  "titulo": "durmió, leyó, hizo...",
+  "tema": "preterito-indefinido-irregulares",
+  "titulo": "Durmió, leyó, hizo",
   "descripcion_gramatical": "Pretérito indefinido: verbos irregulares",
-  "fuente": "libro",
-  "unidad_libro": 59,
   "ejercicios": [
     {
-      "subejercicio": "59.1",
       "tipologia": "T4",
-      "enunciado": "Complete las frases con el pretérito indefinido de los verbos entre paréntesis.",
+      "enunciado": "Complete the sentences with the preterite of the verbs in parentheses.",
       "items": [
         {
           "texto_enunciado": "Alba (venir) _____ a España en 2001.",
@@ -92,9 +89,8 @@
       ]
     },
     {
-      "subejercicio": "59.2",
       "tipologia": "T8",
-      "enunciado": "Utilice los siguientes verbos para completar estas frases sobre la historia de América Latina.",
+      "enunciado": "Use the verbs from the box to complete these sentences about Latin American history.",
       "items": [
         {
           "texto_enunciado": "Cuba _____ en 1898.",
@@ -164,9 +160,8 @@
       ]
     },
     {
-      "subejercicio": "59.3",
       "tipologia": "T8",
-      "enunciado": "Complete las conversaciones con los verbos correspondientes.",
+      "enunciado": "Complete the conversations with the right verbs.",
       "items": [
         {
           "texto_enunciado": "—¿Qué _____ el verano pasado? —_____ a Chile. —¿Con quién _____? —Con un grupo de amigos. _____ un coche y _____ el sur hasta Tierra del Fuego. —¿Os _____? —Sí, _____ un viaje interesantísimo.",
