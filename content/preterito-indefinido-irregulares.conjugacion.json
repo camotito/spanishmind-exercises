@@ -1,8 +1,8 @@
 {
- "titulo": "Pretérito perfecto simple: verbos irregulares",
+ "titulo": "Pretérito perfecto simple: irregular verbs",
  "bloques": [
   {
-   "intro": "Los verbos irregulares más importantes en este tiempo cambian su raíz. Usan estas terminaciones: <b><i>-e, -iste, -o, -imos, -isteis, -ieron</i></b><br>Estas terminaciones no llevan tilde (en los regulares sí: hablé, habló).<br><br>Estos son los más importantes entre ellos:<br>Estar: raíz → estuv<br>Tener: raíz → tuv",
+   "intro": "The most important irregular verbs in this tense change their root (the part of the verb that is not the ending).<br><br>These are the most important ones:<br>Estar: root → estuv<br>Tener: root → tuv",
    "columnas": [
     {
      "verbos": [
@@ -69,7 +69,7 @@
    ]
   },
   {
-   "intro": "Poder: raíz → pud<br>Poner: raíz → pus<br>Saber: raíz → sup",
+   "intro": "Poder: root → pud<br>Poner: root → pus<br>Saber: root → sup",
    "columnas": [
     {
      "verbos": [
@@ -165,10 +165,10 @@
      ]
     }
    ],
-   "nota": "<b>Haber</b>: raíz → hub. Solo se usa <b>hubo</b> (= <i>hay</i> en pasado): Anoche <b>hubo</b> un incendio."
+   "nota": "<b>Haber</b>: root → hub. Only <b>hubo</b> is used (= <i>there was / there were</i>): Anoche <b>hubo</b> un incendio. / <i>There was a fire last night.</i>"
   },
   {
-   "intro": "Hacer: raíz → hic / hiz<br>Querer: raíz → quis<br>Venir: raíz → vin<br>Decir: raíz → dij",
+   "intro": "Hacer: root → hic / hiz<br>Querer: root → quis<br>Venir: root → vin<br>Decir: root → dij",
    "columnas": [
     {
      "verbos": [
@@ -295,10 +295,10 @@
      ]
     }
    ],
-   "nota": "<b>Hacer</b>: <i>hizo</i> (la c pasa a z para mantener el sonido). <b>Decir</b>: <i>dijeron</i>, sin i."
+   "nota": "<b>Hacer</b>: <i>hizo</i> (the c becomes z to keep the sound). <b>Decir</b>: <i>dijeron</i>, with no i."
   },
   {
-   "intro": "Los verbos con raíz en -j- hacen <i>ellos / ellas / ustedes</i> en <b>-eron</b> (sin i): decir, traer y los verbos en -ducir.<br>Traer: raíz → traj<br>Conducir: raíz → conduj<br>Producir: raíz → produj",
+   "intro": "Verbs with a root in -j- make <i>ellos / ellas / ustedes</i> end in <b>-eron</b> (no i): decir, traer and the verbs in -ducir.<br>Traer: root → traj<br>Conducir: root → conduj<br>Producir: root → produj",
    "columnas": [
     {
      "verbos": [
@@ -394,10 +394,10 @@
      ]
     }
    ],
-   "nota": "Lo mismo pasa con <i>traducir</i>."
+   "nota": "The same goes for <i>traducir</i>."
   },
   {
-   "intro": "Los verbos ser, ir y dar cambian completamente:<br>Ser: raíz → fu<br>Ir: raíz → fu<br>Dar: raíz → d",
+   "intro": "The verbs ser, ir and dar change completely:<br>Ser: root → fu<br>Ir: root → fu<br>Dar: root → d",
    "columnas": [
     {
      "verbos": [
@@ -493,10 +493,10 @@
      ]
     }
    ],
-   "nota": "'Ir' y 'ser' tienen exactamente la misma conjugación: por eso comparten columna."
+   "nota": "'Ir' and 'ser' have exactly the same conjugation."
   },
   {
-   "intro": "Cambian la vocal de la raíz solo en <i>él / ella / usted</i> y <i>ellos / ellas / ustedes</i>.<br>e → i: pedir, divertirse, mentir, preferir, seguir, sentir<br>o → u: dormir, morir",
+   "intro": "The vowel of the root changes only in <i>él / ella / usted</i> and <i>ellos / ellas / ustedes</i>.<br>e → i: pedir, divertirse, mentir, preferir, seguir, sentir<br>o → u: dormir, morir",
    "columnas": [
     {
      "verbos": [
@@ -623,10 +623,10 @@
      ]
     }
    ],
-   "nota": "Con <i>se</i>: me divertí, te divertiste, <b>se divirtió</b>, nos divertimos, os divertisteis, <b>se divirtieron</b>."
+   "nota": "With <i>se</i>: me divertí, te divertiste, <b>se divirtió</b>, nos divertimos, os divertisteis, <b>se divirtieron</b>."
   },
   {
-   "intro": "Si la raíz termina en vocal (caer, leer, construir, creer, destruir, huir, incluir, oír), la -i- entre vocales pasa a <b>-y-</b> en <i>él / ella / usted</i> y <i>ellos / ellas / ustedes</i>.",
+   "intro": "If the root ends in a vowel (caer, leer, construir, creer, destruir, huir, incluir, oír), the -i- between vowels becomes <b>-y-</b> in <i>él / ella / usted</i> and <i>ellos / ellas / ustedes</i>.",
    "columnas": [
     {
      "verbos": [
@@ -722,7 +722,7 @@
      ]
     }
    ],
-   "nota": "Con <i>se</i>: me caí, te caíste, <b>se cayó</b>, nos caímos, os caísteis, <b>se cayeron</b>."
+   "nota": "With <i>se</i>: me caí, te caíste, <b>se cayó</b>, nos caímos, os caísteis, <b>se cayeron</b>."
   }
  ]
 }
