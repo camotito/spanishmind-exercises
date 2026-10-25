@@ -50,6 +50,12 @@ table.conj tbody th { font-weight: 600; color: var(--secondary); white-space: no
 table.conj .r { color: #777; }
 table.conj b { color: var(--primary); }
 dialog.conj p { margin: .5em 0; }
+.rc { display: flex; align-items: center; gap: 10px; margin: 6px 0; }
+.rc .inf { min-width: 6.5em; font-weight: 600; color: var(--secondary); }
+.rc .inf .r { background: #ece6da; border-radius: 6px; padding: 1px 6px; }
+.rc .inf .fin { color: #8a8a8a; font-weight: 400; margin-left: 1px; }
+.rc .flecha { color: #999; }
+.rc .nueva { background: var(--accent); color: var(--secondary); border-radius: 6px; padding: 1px 9px; font-weight: 700; }
 @media print {
     body > *:not(dialog#conj) { display: none !important; }
     body { margin: 0; padding: 0; max-width: none; background: #fff; }

@@ -146,6 +146,12 @@ table.conj tbody th { font-weight: 600; color: var(--secondary); white-space: no
 table.conj .r { color: #777; }
 table.conj b { color: var(--primary); }
 dialog.conj p { margin: .5em 0; }
+.rc { display: flex; align-items: center; gap: 10px; margin: 6px 0; }
+.rc .inf { min-width: 6.5em; font-weight: 600; color: var(--secondary); }
+.rc .inf .r { background: #ece6da; border-radius: 6px; padding: 1px 6px; }
+.rc .inf .fin { color: #8a8a8a; font-weight: 400; margin-left: 1px; }
+.rc .flecha { color: #999; }
+.rc .nueva { background: var(--accent); color: var(--secondary); border-radius: 6px; padding: 1px 9px; font-weight: 700; }
 @media print {
     body > *:not(dialog#conj) { display: none !important; }
     body { margin: 0; padding: 0; max-width: none; background: #fff; }
@@ -603,6 +609,16 @@ def _fusionar_columnas(columnas):
     return list(grupos.values())
 
 
+def _raices(texto):
+    """[[raiz|terminacion|raiz nueva]] -> fila con la raiz del infinitivo y la raiz irregular."""
+    def fila(m):
+        raiz, fin, nueva = (esc(x) for x in m.groups())
+        r = f'<span class="r">{raiz}</span>' if raiz else ""
+        return (f'<div class="rc"><span class="inf">{r}<span class="fin">{fin}</span></span>'
+                f'<span class="flecha">&rarr;</span><span class="nueva">{nueva}-</span></div>')
+    return re.sub(r"\[\[([^|\]]*)\|([^|\]]*)\|([^\]]*)\]\]", fila, texto)
+
+
 def render_conjugacion(data):
     partes = []
     for b in data["bloques"]:
@@ -620,7 +636,7 @@ def render_conjugacion(data):
                 for c in cols)
             filas += f"<tr><th scope=\"row\">{persona}</th>{celdas}</tr>"
         partes.append(
-            (f"<p>{b['intro']}</p>" if b.get("intro") else "")
+            (f"<p>{_raices(b['intro'])}</p>" if b.get("intro") else "")
             + f'<table class="conj"><thead><tr><th></th>{cabeceras}</tr></thead><tbody>{filas}</tbody></table>'
             + (f"<p>{b['nota']}</p>" if b.get("nota") else ""))
     return f"<h2>{esc(data['titulo'])}</h2>" + "<hr>".join(partes)

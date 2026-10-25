@@ -2,7 +2,7 @@
  "titulo": "Pretérito perfecto simple: irregular verbs",
  "bloques": [
   {
-   "intro": "The most important irregular verbs in this tense change their root (the part of the verb that is not the ending).<br><br>Estar: root → estuv<br>Tener: root → tuv",
+   "intro": "The most important irregular verbs in this tense change their root (the part of the verb that is not the ending).<br><br>[[est|ar|estuv]][[ten|er|tuv]]",
    "columnas": [
     {
      "verbos": [
@@ -70,7 +70,7 @@
    "nota": "</p><h3>Watch out</h3>\n<p>Regular <i>yo</i> and <i>él / ella / usted</i> have a written accent, and the stress falls on the last syllable: <i>trabaJÉ</i>, <i>trabaJÓ</i>.</p><p>These irregular endings have <b>no written accent</b>, and the stress falls on the second-to-last syllable: <i>esTUve</i>, <i>esTUvo</i>.</p><p>"
   },
   {
-   "intro": "Poder: root → pud<br>Poner: root → pus<br>Saber: root → sup",
+   "intro": "[[pod|er|pud]][[pon|er|pus]][[sab|er|sup]]",
    "columnas": [
     {
      "verbos": [
@@ -169,7 +169,7 @@
    "nota": "<b>Haber</b>: root → hub. Only <b>hubo</b> is used (= <i>there was / there were</i>): Anoche <b>hubo</b> un incendio. / <i>There was a fire last night.</i>"
   },
   {
-   "intro": "Hacer: root → hic / hiz<br>Querer: root → quis<br>Venir: root → vin<br>Decir: root → dij",
+   "intro": "[[hac|er|hic / hiz]][[quer|er|quis]][[ven|ir|vin]][[dec|ir|dij]]",
    "columnas": [
     {
      "verbos": [
@@ -299,7 +299,7 @@
    "nota": "<b>Hacer</b>: <i>hizo</i> (the c becomes z to keep the sound). <b>Decir</b>: <i>dijeron</i>, with no i."
   },
   {
-   "intro": "Verbs with a root in -j- make <i>ellos / ellas / ustedes</i> end in <b>-eron</b> (no i): decir, traer and the verbs in -ducir.<br>Traer: root → traj<br>Conducir: root → conduj<br>Producir: root → produj",
+   "intro": "Verbs with a root in -j- make <i>ellos / ellas / ustedes</i> end in <b>-eron</b> (no i): decir, traer and the verbs in -ducir.[[tra|er|traj]][[conduc|ir|conduj]][[produc|ir|produj]]",
    "columnas": [
     {
      "verbos": [
@@ -398,7 +398,7 @@
    "nota": "The same goes for <i>traducir</i>."
   },
   {
-   "intro": "The verbs ser, ir and dar change completely:<br>Ser: root → fu<br>Ir: root → fu<br>Dar: root → d",
+   "intro": "The verbs ser, ir and dar change completely:[[s|er|fu]][[|ir|fu]][[d|ar|d]]",
    "columnas": [
     {
      "verbos": [
