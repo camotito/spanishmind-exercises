@@ -1,0 +1,12 @@
+#!/bin/sh
+# Mantiene out/ (HTML y PDF) sincronizado con content/ en cada commit.
+# Activar una vez por clon: git config core.hooksPath .githooks
+cambios=$(git diff --cached --name-only)
+echo "$cambios" | grep -qE '^(content/|render\.py|build_index\.py|index\.yaml)' || exit 0
+
+python3 render.py >/dev/null && python3 build_index.py >/dev/null || { echo "pre-commit: falló render.py/build_index.py"; exit 1; }
+
+if echo "$cambios" | grep -qE '(\.conjugacion\.json|^render\.py|^build_pdfs\.py)'; then
+    python3 build_pdfs.py >/dev/null || { echo "pre-commit: falló build_pdfs.py (¿está google-chrome instalado?)"; exit 1; }
+fi
+git add out
