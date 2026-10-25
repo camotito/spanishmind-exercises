@@ -627,7 +627,8 @@ def render_conjugacion(data):
 
 
 def build_html(data, granularidad="ejercicio"):
-    teoria = cargar_teoria(data["tema"])
+    # "teoria_de": <tema> reutiliza la hoja de teoria de otro tema (mismos casos de uso)
+    teoria = cargar_teoria(data.get("teoria_de", data["tema"]))
     teoria_html = f"""
 <button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()">&#128214; Theory</button>
 <dialog id="teoria" class="teoria">{teoria}
