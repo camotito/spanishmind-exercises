@@ -38,9 +38,9 @@
      ]
     },
     {
-     "texto_enunciado": "María se lavó _____ (her face).",
+     "texto_enunciado": "María cierra _____ (her eyes).",
      "solucion_correcta": [
-      "la cara"
+      "los ojos"
      ]
     },
     {
@@ -98,7 +98,7 @@
      ]
     },
     {
-     "texto_enunciado": "_____ (10%) de los clientes pidió un reembolso.",
+     "texto_enunciado": "_____ (10%) de los clientes quiere un reembolso.",
      "solucion_correcta": [
       "el 10%/el 10 %"
      ]
@@ -110,13 +110,13 @@
      ]
     },
     {
-     "texto_enunciado": "Me duele _____ (my head).",
+     "texto_enunciado": "Levanto _____ (my hand).",
      "solucion_correcta": [
-      "la cabeza"
+      "la mano"
      ]
     },
     {
-     "texto_enunciado": "Queremos aprender _____ (German) este verano.",
+     "texto_enunciado": "Quiero aprender _____ (German) este verano.",
      "solucion_correcta": [
       "alemán"
      ]
@@ -140,19 +140,19 @@
      ]
     },
     {
-     "texto_enunciado": "En la reunión hablamos de _____ (war).",
+     "texto_enunciado": "En la reunión hablan de _____ (war).",
      "solucion_correcta": [
       "la guerra"
      ]
     },
     {
-     "texto_enunciado": "Me lavo _____ (my hands) antes de comer.",
+     "texto_enunciado": "Enseño _____ (my hands) al médico.",
      "solucion_correcta": [
       "las manos"
      ]
     },
     {
-     "texto_enunciado": "No me gusta _____ (math).",
+     "texto_enunciado": "Odio _____ (math).",
      "solucion_correcta": [
       "las matemáticas"
      ]
@@ -164,7 +164,7 @@
      ]
     },
     {
-     "texto_enunciado": "_____ (50%) de la población votó ayer.",
+     "texto_enunciado": "_____ (50%) de la población vota hoy.",
      "solucion_correcta": [
       "el 50%/el 50 %"
      ]
@@ -176,13 +176,13 @@
      ]
     },
     {
-     "texto_enunciado": "Te recomiendo ponerte _____ (your coat).",
+     "texto_enunciado": "Te recomiendo llevar _____ (your coat).",
      "solucion_correcta": [
       "el abrigo"
      ]
     },
     {
-     "texto_enunciado": "_____ (Doña) Carmen nos invitó a cenar.",
+     "texto_enunciado": "Hoy _____ (Doña) Carmen te invita a cenar.",
      "solucion_correcta": [
       "doña"
      ]

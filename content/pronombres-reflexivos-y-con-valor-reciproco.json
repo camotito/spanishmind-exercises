@@ -8,7 +8,7 @@
       "enunciado": "Complete the sentences with *me*, *te*, *se*... only when necessary. Leave the blank empty if no pronoun is needed.",
       "items": [
         {
-          "texto_enunciado": "Rosa _____ cortó con un cuchillo ayer.",
+          "texto_enunciado": "Rosa _____ corta con un cuchillo.",
           "solucion_correcta": [
             "se"
           ]
@@ -20,7 +20,7 @@
           ]
         },
         {
-          "texto_enunciado": "Juan _____ cortó el pan con su navaja.",
+          "texto_enunciado": "Juan _____ corta el pan con su navaja.",
           "solucion_correcta": [
             "ø"
           ]
@@ -44,19 +44,19 @@
           ]
         },
         {
-          "texto_enunciado": "Roberto _____ ha quemado las cartas de Aurora.",
+          "texto_enunciado": "Roberto _____ quema las cartas de Aurora.",
           "solucion_correcta": [
             "ø"
           ]
         },
         {
-          "texto_enunciado": "Julio y Pedro _____ saludaron en la fiesta.",
+          "texto_enunciado": "Julio y Pedro _____ saludan en la fiesta.",
           "solucion_correcta": [
             "se"
           ]
         },
         {
-          "texto_enunciado": "¿Quién _____ ha tirado mis gafas a la basura?",
+          "texto_enunciado": "¿Quién _____ tira mis gafas a la basura?",
           "solucion_correcta": [
             "ø"
           ]
@@ -92,7 +92,7 @@
           ]
         },
         {
-          "texto_enunciado": "Alicia _____ rompió una pierna esquiando.",
+          "texto_enunciado": "Alicia _____ rompe una pierna.",
           "solucion_correcta": [
             "se"
           ]
@@ -104,9 +104,9 @@
       "enunciado": "Rewrite the sentences with *nos*, *os*, or *se*. Pay attention to the verb.",
       "items": [
         {
-          "texto_enunciado": "Felipe saludó a David y David saludó a Felipe. _____.",
+          "texto_enunciado": "Felipe saluda a David y David saluda a Felipe. _____.",
           "solucion_correcta": [
-            "Felipe y David se saludaron"
+            "Felipe y David se saludan"
           ]
         },
         {
@@ -224,7 +224,7 @@
           ]
         },
         {
-          "texto_enunciado": "¿_____ has vestido ya a los niños, Jaime?",
+          "texto_enunciado": "¿_____ bañas a los niños todos los días, Jaime?",
           "solucion_correcta": [
             "ø"
           ]

@@ -14,13 +14,13 @@
           ]
         },
         {
-          "texto_enunciado": "Tengo mucho calor y _____ hambre me está matando.",
+          "texto_enunciado": "_____ hambre es un problema mundial.",
           "solucion_correcta": [
-            "ø"
+            "El"
           ]
         },
         {
-          "texto_enunciado": "_____ pequeñas alas del colibrí se mueven muy rápido.",
+          "texto_enunciado": "_____ pequeñas alas del colibrí son muy rápidas.",
           "solucion_correcta": [
             "Las"
           ]
@@ -44,25 +44,25 @@
           ]
         },
         {
-          "texto_enunciado": "No me gusta _____ álgebra, prefiero la geometría.",
+          "texto_enunciado": "Odio _____ álgebra, prefiero la geometría.",
           "solucion_correcta": [
             "el"
           ]
         },
         {
-          "texto_enunciado": "Se rompió _____ ancla del barco durante la tormenta.",
+          "texto_enunciado": "La tormenta rompe _____ ancla del barco.",
           "solucion_correcta": [
             "el"
           ]
         },
         {
-          "texto_enunciado": "Varios soldados levantaron _____ hachas para atacar.",
+          "texto_enunciado": "Varios soldados levantan _____ hachas para atacar.",
           "solucion_correcta": [
             "las"
           ]
         },
         {
-          "texto_enunciado": "_____ abeja se posó sobre la flor.",
+          "texto_enunciado": "_____ abeja está sobre la flor.",
           "solucion_correcta": [
             "La"
           ]
@@ -74,7 +74,7 @@
           ]
         },
         {
-          "texto_enunciado": "Siempre me ha costado escribir _____ \"a\" minúscula en caligrafía.",
+          "texto_enunciado": "Siempre escribo mal _____ \"a\" minúscula en caligrafía.",
           "solucion_correcta": [
             "la"
           ]
@@ -86,7 +86,7 @@
           ]
         },
         {
-          "texto_enunciado": "Nos atendió _____ amable ama de llaves del palacio.",
+          "texto_enunciado": "Te atiende _____ amable ama de llaves del palacio.",
           "solucion_correcta": [
             "la"
           ]
@@ -104,7 +104,7 @@
       "enunciado": "Choose the correct option in each case.",
       "items": [
         {
-          "texto_enunciado": "No me gusta nada (esta / este) agua del grifo, sabe a cloro.",
+          "texto_enunciado": "No bebo (esta / este) agua del grifo, sabe a cloro.",
           "solucion_correcta": [
             "esta"
           ]
