@@ -759,9 +759,9 @@ def build_html(data, granularidad="ejercicio"):
     )
     nav = """
     <div class="page-nav">
-        <button class="ghost" id="btn-prev" onclick="showPage(currentPage - 1)">&larr; Anterior</button>
+        <button class="ghost" id="btn-prev" onclick="showPage(currentPage - 1)">&larr; Previous</button>
         <span id="page-indicator"></span>
-        <button id="btn-next" onclick="showPage(currentPage + 1)">Siguiente &rarr;</button>
+        <button id="btn-next" onclick="showPage(currentPage + 1)">Next &rarr;</button>
     </div>""" if paginas else ""
     return f"""<!DOCTYPE html>
 <html lang="es">
@@ -777,7 +777,7 @@ def build_html(data, granularidad="ejercicio"):
 <h1>{esc(titulo)}</h1>
 {pages_html}
 {nav}
-<a class="volver-indice" href="/">&larr; Volver al índice</a>
+<a class="volver-indice" href="/">&larr; Back to index</a>
 <script>{JS}</script>
 </body>
 </html>"""
