@@ -250,27 +250,27 @@
       "enunciado": "Write the prices as in the example.",
       "items": [
         {
-          "texto_enunciado": "_____ de kiwis.",
+          "texto_enunciado": "Kiwis: _____",
           "solucion_correcta": [
             "Dos euros el kilo"
           ]
         },
         {
-          "texto_enunciado": "_____ de leche.",
+          "texto_enunciado": "Leche: _____",
           "solucion_correcta": [
-            "Cuatro pesos el litro"
+            "Un euro el litro"
           ]
         },
         {
-          "texto_enunciado": "_____ de huevos.",
+          "texto_enunciado": "Huevos: _____",
           "solucion_correcta": [
             "Dos euros la docena"
           ]
         },
         {
-          "texto_enunciado": "_____ de queso.",
+          "texto_enunciado": "Queso: _____",
           "solucion_correcta": [
-            "Un peso los 100 gramos"
+            "Dos euros los 100 gramos/Dos euros los cien gramos"
           ]
         }
       ],
@@ -286,7 +286,7 @@
           {
             "numero": "2",
             "producto": "leche",
-            "precio": "4 pesos",
+            "precio": "1 euro",
             "unidad": "litro"
           },
           {
@@ -298,7 +298,7 @@
           {
             "numero": "4",
             "producto": "queso",
-            "precio": "1 peso",
+            "precio": "2 euros",
             "unidad": "100 gramos"
           }
         ]

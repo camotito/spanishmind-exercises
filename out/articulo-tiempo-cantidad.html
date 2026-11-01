@@ -67,6 +67,7 @@ dialog.conj p { margin: .5em 0; }
 /* movil: sin zoom automatico de iOS al enfocar (campos >=16px), objetivos tactiles
    de 44px y el boton de teoria/conjugacion como circulo que no tapa el texto */
 @media (max-width: 620px) {
+    h1 { padding-right: 56px; }
     input.blank, select.blank { font-size: 16px; }
     select.blank { min-height: 40px; }
     button { min-height: 44px; font-size: .95rem; }
@@ -249,9 +250,9 @@ button:disabled { opacity: .4; cursor: default; }
 <p>For <i>per</i> with prices and measures, Spanish uses just the article, with no <b>a</b>.</p>
 <ul>
 <li><b>Dos euros el kilo.</b> / <i>Two euros a kilo.</i> (lit. two euros the kilo)</li>
-<li><b>Cuatro pesos el litro.</b> / <i>Four pesos a litre.</i></li>
+<li><b>Un euro el litro.</b> / <i>One euro a litre.</i></li>
 <li><b>Dos euros la docena.</b> / <i>Two euros a dozen.</i></li>
-<li><b>Un peso los cien gramos.</b> / <i>One peso per 100 grams.</i></li>
+<li><b>Dos euros los cien gramos.</b> / <i>Two euros per 100 grams.</i></li>
 </ul>
 <p>The article agrees with the word that follows: <b>el kilo</b>, <b>el litro</b>, <b>la docena</b>, <b>los cien gramos</b>.</p>
 
@@ -400,21 +401,21 @@ button:disabled { opacity: .4; cursor: default; }
             <span class="group-feedback"></span>
         </div>
     </section></div><div class="page" data-page="3" hidden><section class="ejercicio">
-        <p class="enunciado">Write the prices as in the example.</p><ul class="scene-list"><li><span class="scene-num">1.</span> kiwis: 2 euros / kilo</li><li><span class="scene-num">2.</span> leche: 4 pesos / litro</li><li><span class="scene-num">3.</span> huevos: 2 euros / docena</li><li><span class="scene-num">4.</span> queso: 1 peso / 100 gramos</li></ul>
+        <p class="enunciado">Write the prices as in the example.</p><ul class="scene-list"><li><span class="scene-num">1.</span> kiwis: 2 euros / kilo</li><li><span class="scene-num">2.</span> leche: 1 euro / litro</li><li><span class="scene-num">3.</span> huevos: 2 euros / docena</li><li><span class="scene-num">4.</span> queso: 2 euros / 100 gramos</li></ul>
         
-        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-line"><span class="item-n">1.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-example" value="Dos euros el kilo" style="width: 19ch" readonly tabindex="-1"> de kiwis.</span></div></div></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-line"><span class="item-n">1.</span><div class="item-rows"><div class="item-row"><span>Kiwis: <input type="text" class="blank blank-example" value="Dos euros el kilo" style="width: 19ch" readonly tabindex="-1"></span></div></div></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-line"><span class="item-n">2.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="Cuatro pesos el litro" data-hint="" style="width: 23ch" autocomplete="off"> de leche.</span></div></div></div>
+            <div class="item-line"><span class="item-n">2.</span><div class="item-rows"><div class="item-row"><span>Leche: <input type="text" class="blank" data-sol="Un euro el litro" data-hint="" style="width: 18ch" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-line"><span class="item-n">3.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="Dos euros la docena" data-hint="" style="width: 21ch" autocomplete="off"> de huevos.</span></div></div></div>
+            <div class="item-line"><span class="item-n">3.</span><div class="item-rows"><div class="item-row"><span>Huevos: <input type="text" class="blank" data-sol="Dos euros la docena" data-hint="" style="width: 21ch" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-line"><span class="item-n">4.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="Un peso los 100 gramos" data-hint="" style="width: 24ch" autocomplete="off"> de queso.</span></div></div></div>
-            
+            <div class="item-line"><span class="item-n">4.</span><div class="item-rows"><div class="item-row"><span>Queso: <input type="text" class="blank" data-sol="Dos euros los 100 gramos/Dos euros los cien gramos" data-hint="hint-15" style="width: 27ch" autocomplete="off"></span></div></div></div>
+            <span class="alt-hint" id="hint-15" hidden></span>
         </div>
         
         <div class="group-controls">

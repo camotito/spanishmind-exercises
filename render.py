@@ -163,6 +163,7 @@ dialog.conj p { margin: .5em 0; }
 /* movil: sin zoom automatico de iOS al enfocar (campos >=16px), objetivos tactiles
    de 44px y el boton de teoria/conjugacion como circulo que no tapa el texto */
 @media (max-width: 620px) {
+    h1 { padding-right: 56px; }
     input.blank, select.blank { font-size: 16px; }
     select.blank { min-height: 40px; }
     button { min-height: 44px; font-size: .95rem; }
