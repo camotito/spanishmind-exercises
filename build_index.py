@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Genera out/index.html: la pagina de inicio del sitio, con la lista de
 unidades PUBLICADAS (las que ya tienen content/<tema>.json -- no publicar
-todo el libro es la decision explicita de este proyecto), ordenadas por
-orden topologico de depende_de (mismo criterio que index.yaml dice que se
-debe usar para el orden de estudio).
+todo el libro es la decision explicita de este proyecto), agrupadas por
+etapa del curso (progresion.yaml) y, dentro de cada etapa, por orden topologico
+de depende_de (mismo criterio que index.yaml dice que se debe usar para el orden
+de estudio). Falla si una etapa contradice el grafo de dependencias.
 
 Uso:
     python3 build_index.py
@@ -15,6 +16,7 @@ import yaml
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 INDEX_YAML = os.path.join(HERE, "index.yaml")
+PROGRESION_YAML = os.path.join(HERE, "progresion.yaml")
 CONTENT_DIR = os.path.join(HERE, "content")
 OUT_DIR = os.path.join(HERE, "out")
 
@@ -68,19 +70,57 @@ def orden_topologico(temas):
     return orden
 
 
+def validar_etapas(indice, por_tema, orden_etapas):
+    """Cada tema publicado debe tener etapa, y no puede estar en una etapa anterior
+    a la de ningun tema publicado del que dependa (directa o indirectamente)."""
+    pos = {e: i for i, e in enumerate(orden_etapas)}
+    completo = {t["tema"]: t for t in indice}
+    errores = []
+
+    def ancestros(tema, vistos):
+        for d in completo[tema].get("depende_de") or []:
+            if d in completo and d not in vistos:
+                vistos.add(d)
+                ancestros(d, vistos)
+        return vistos
+
+    for tema, t in por_tema.items():
+        if t.get("etapa") not in pos:
+            errores.append(f"{tema}: etapa {t.get('etapa')!r} no esta en progresion.yaml")
+            continue
+        for a in ancestros(tema, set()):
+            if a in por_tema and por_tema[a].get("etapa") in pos and pos[por_tema[a]["etapa"]] > pos[t["etapa"]]:
+                errores.append(f"{tema} (etapa {t['etapa']}) depende de {a} (etapa {por_tema[a]['etapa']}), que va despues")
+    if errores:
+        raise SystemExit("Etapas incoherentes con el grafo de dependencias:\n  " + "\n  ".join(errores))
+
+
 def main():
     with open(INDEX_YAML, encoding="utf-8") as f:
         indice = yaml.safe_load(f)
 
     publicados = [t for t in indice if os.path.isfile(os.path.join(CONTENT_DIR, f"{t['tema']}.json"))]
     por_tema = {t["tema"]: t for t in publicados}
-    orden = [tema for tema in orden_topologico(publicados) if tema in por_tema]
+    # orden topologico sobre TODO el grafo (no solo lo publicado), para que una
+    # dependencia que pasa por un tema sin publicar tambien cuente
+    orden = [tema for tema in orden_topologico(indice) if tema in por_tema]
 
-    items = "".join(
-        f'<li><a href="{esc(tema)}.html">{esc(por_tema[tema].get("titulo", tema))}</a>'
-        f'<span class="tecnico">{esc(DESCRIPCION_EN.get(tema, por_tema[tema].get("descripcion_gramatical", "")))}</span></li>'
-        for tema in orden
-    )
+    with open(PROGRESION_YAML, encoding="utf-8") as f:
+        etapas = yaml.safe_load(f)
+    validar_etapas(indice, por_tema, [e["etapa"] for e in etapas])
+
+    secciones = []
+    for e in etapas:
+        temas = [t for t in orden if por_tema[t]["etapa"] == e["etapa"]]
+        if not temas:
+            continue
+        lis = "".join(
+            f'<li><a href="{esc(tema)}.html">{esc(por_tema[tema].get("titulo", tema))}</a>'
+            f'<span class="tecnico">{esc(DESCRIPCION_EN.get(tema, por_tema[tema].get("descripcion_gramatical", "")))}</span></li>'
+            for tema in temas
+        )
+        secciones.append(f'<section><h2>{esc(e["titulo"])}</h2><ol>{lis}</ol></section>')
+    items = "".join(secciones)
 
     out = f"""<!DOCTYPE html>
 <html lang="en">
@@ -99,7 +139,9 @@ def main():
 body {{ font-family: var(--font-body); background: var(--bg); color: var(--text);
     max-width: 640px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }}
 h1 {{ font-family: var(--font-heading); color: var(--secondary); }}
-ol {{ list-style: none; counter-reset: unidad; padding: 0; }}
+ol {{ list-style: none; padding: 0; }}
+body {{ counter-reset: unidad; }}
+h2 {{ font-family: var(--font-body); font-size: 1rem; font-weight: 600; color: var(--secondary); margin: 32px 0 4px; }}
 li {{ counter-increment: unidad; background: var(--card); border: 1px solid var(--line);
     border-radius: 10px; padding: 14px 18px; margin: 10px 0; }}
 li::before {{ content: counter(unidad) ". "; color: var(--primary); font-weight: 700; }}
@@ -112,7 +154,7 @@ li a::after {{ content: ""; position: absolute; inset: 0; }}
 </head>
 <body>
 <h1>SpanishMind</h1>
-<ol>{items}</ol>
+{items}
 </body>
 </html>
 """

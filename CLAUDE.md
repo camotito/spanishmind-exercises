@@ -14,6 +14,8 @@ Ver `README.md` para el resumen corto.
 - **`content/<tema>.conjugacion.json`** — tablas de conjugación opcionales (botón de tabla en la página, columnas con igual conjugación fusionadas). `build_pdfs.py` genera `out/pdf/<tema>-conjugacion.pdf` con Chrome sin ventana; Netlify no tiene Chrome, así que los PDF se commitean. El hook `.githooks/pre-commit` (activar una vez por clon: `git config core.hooksPath .githooks`) regenera `out/` y los PDF en cada commit que toque `content/` o el render.
 - **`out_preview/`** — salida de variantes experimentales (p. ej. `render.py --paginar=item`), no se sirve ni se integra al build.
 - **`index.yaml`** — grafo de dependencias entre temas: `tema`, `titulo`, `unidad_libro` (número de unidad en el libro si viene de ahí, cruza con `ejemplos/<tema>.json`), `depende_de`, `ejercicios_permitidos`, `tiempos_permitidos`.
+- **`progresion.yaml`** — etapas del curso en el orden en que Javi las enseña (fuente: `contenido-clases/notas/progresion gruesa - checklist.md`). Cada tema publicado lleva `etapa:` en `index.yaml`. `build_index.py` agrupa la portada por etapa y, dentro de cada una, por orden topológico de `depende_de`; falla si una etapa contradice el grafo (un tema no puede ir en una etapa anterior a la de algo de lo que depende). El grafo de dependencias es la fuente de qué conocimiento previo tiene cada tema.
+- **`herramientas/`** — `audit_movil.py` (móvil, ver flujo) y `check_gramatica_vista.py` (avisa de gramática no vista: *nosotros*, *vosotros*, reflexivos y pasados que el grafo no permite al tema). `teoria_md.py` (en la raíz) convierte la teoría escrita en Markdown a `content/<tema>.teoria.html`. `borradores/` guarda temas sin validar, fuera de `content/`.
 - **`render_config.json`** — qué tipologías están desactivadas por defecto en el renderizado (hoy `T2`, sin imágenes reales todavía). Editable a mano o desde `dashboard/tipologias.html`.
 
 ## Piezas clave de `render.py`
@@ -25,7 +27,7 @@ Ver `README.md` para el resumen corto.
 
 ## Convenciones de trabajo
 
-- **Commit por paso, push solo cuando Javi lo pida**: cada cambio significativo se commitea, pero nunca se hace `git push` por iniciativa propia (cada push despliega en Netlify y gasta créditos del nivel gratis). Los cambios se prueban siempre en local antes (`python3 render.py && python3 build_index.py`, servidor en `out/`, p. ej. `python3 -m http.server 8765`). Javi pide el push cuando todo está listo y depurado.
+- **Commit por paso, push solo cuando Javi lo pida**: cada cambio significativo se commitea, pero nunca se hace `git push` por iniciativa propia (cada push despliega en Netlify y gasta créditos del nivel gratis). Los cambios se prueban siempre en local antes (`python3 render.py && python3 build_index.py`, servidor en `out/`, p. ej. `python3 -m http.server 8765`). Javi pide el push cuando todo está listo y depurado. Una orden de publicar vale solo para ese push: después, todo vuelve a ser en local hasta la siguiente orden. Cualquier otra publicación a Netlify (deploy, CLI, etc.) sigue la misma regla.
 - **Curaduría de datos contra el libro real cuando haga falta** (imágenes necesarias, subrayados, tablas faltantes): si hay escaneo disponible en `libro/`, verificar ahí antes de asumir un patrón por el enunciado o la tipología — el enunciado por sí solo no siempre predice si algo está subrayado o no en el libro impreso.
 
 ## Textos para alumnos (teoría, enunciados)
@@ -47,10 +49,15 @@ Objetivo (Javi, 1 nov 2026): que el alumno no tenga fricción visual ni mental y
 1. Renderizar y ver las páginas en local, con capturas a 360 px de ancho, de cada página de ejercicios y de la teoría.
 2. Pasar `herramientas/audit_movil.py` (instrucciones en su cabecera): sin desbordes, campos de 16 px o más, objetivos táctiles de 40 px o más, sin errores de consola, en 320, 360, 375 y 393 px.
 3. Resolver cada ejercicio de punta a punta en móvil simulado (respuestas correctas, incorrectas, Check, Show solutions) y mirar que todo se entiende sin leer instrucciones.
-4. Comprobar el conocimiento previo: ningún ejercicio ni ejemplo de teoría usa gramática que el alumno aún no ha visto (lo que cubren las unidades de `depende_de`, más la progresión del curso). En concreto, sin *nosotros*, sin verbos reflexivos y sin pasados hasta que el curso los introduzca. Regla y fuentes en `contenido-clases/CLAUDE.md` ("Solo gramática ya vista"). Si un ítem del libro usa algo no visto, se cambia por otro que no lo use.
+4. Comprobar el conocimiento previo con el grafo de dependencias: un tema solo puede usar la gramática de sus `depende_de` (sus formas verbales están en `tiempos_permitidos` de `index.yaml`) más la primera ronda del curso (solo 1.ª, 2.ª, 3.ª y 6.ª persona: sin *nosotros*, *vosotros*, reflexivos ni pasados hasta que el curso los introduzca). Pasar `python3 herramientas/check_gramatica_vista.py <tema>` (da candidatos, hay que revisarlos) y mirar a mano. Si un ítem del libro usa algo no visto, se cambia por otro que no lo use. Regla y fuentes en `contenido-clases/CLAUDE.md` ("Solo gramática ya vista").
 5. Buscar fricción mental, no solo visual: huecos que no se sabe a qué corresponden (numerar si hay gráfico), enunciados que piden algo que no se puede teclear, palabras gramaticales, textos que se pueden quitar.
 6. Repetir 1 a 5 hasta no encontrar nada. No se puede probar Safari de iPhone en este sistema: lo que no se pueda comprobar, decirlo.
 
 ## Interfaz de teoría
 
 - Toda hoja de teoría tiene siempre un botón "Download PDF" arriba. `render.py` lo pone solo; `build_pdfs.py` genera `out/pdf/<tema>-teoria.pdf` con Chrome (los PDF se commitean, el hook `.githooks/pre-commit` los regenera cuando cambia un `*.teoria.html`).
+
+## Orden de la portada
+
+- La portada se ordena con `progresion.yaml` + `depende_de` (ver arriba). Al publicar un tema nuevo: ponerle `etapa:` en `index.yaml` y regenerar; si `build_index.py` se queja, el tema o su etapa están mal puestos.
+- Pendiente (decisión de Javi): una segunda ronda de ejercicios con todas las personas, pasados y reflexivos. Aún no existe; no se hace nada al respecto hasta que lo pida.

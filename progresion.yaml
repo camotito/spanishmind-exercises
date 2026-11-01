@@ -1,0 +1,29 @@
+# Etapas del curso, en el orden en que Javi las enseña. Fuente: la progresión de
+# `contenido-clases/notas/progresion gruesa - checklist.md` (y la detallada).
+# Cada tema de index.yaml lleva `etapa: <slug>`. La página de inicio (build_index.py)
+# agrupa por etapa en este orden y, dentro de cada una, por orden topológico de
+# `depende_de`. build_index.py falla si un tema queda en una etapa anterior a la de
+# algo de lo que depende: el grafo manda, las etapas solo ordenan.
+# Para mover un tema o una etapa, se cambia aquí o en index.yaml, nada más.
+#
+# Primera ronda: solo 1.ª, 2.ª, 3.ª y 6.ª persona. *nosotros*, *vosotros*, reflexivos
+# y pasados forman una segunda ronda de ejercicios que aún no existe
+# (herramientas/check_gramatica_vista.py avisa de lo que se sale de la primera).
+- etapa: present-basics
+  titulo: "Present tense: I, you, he/she, they"
+- etapa: nouns-numbers-time
+  titulo: "Articles, numbers and time"
+- etapa: object-pronouns
+  titulo: "Object pronouns"
+- etapa: obligation
+  titulo: "Obligation"
+- etapa: reflexive
+  titulo: "Reflexive verbs"
+- etapa: past
+  titulo: "Past tense"
+- etapa: commands
+  titulo: "Commands"
+- etapa: time-adverbs-impersonal
+  titulo: "Time adverbs and impersonal sentences"
+- etapa: subjunctive
+  titulo: "Subjunctive"

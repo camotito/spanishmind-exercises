@@ -18,6 +18,8 @@
 #   tiempos_permitidos:    CALCULADO, no editar a mano (correr compute_tiempos_permitidos.py) —
 #                          unión de forma_verbal de este tema + todos sus ancestros en el grafo
 #   grafico:               tipo de soporte gráfico o 'none'
+#   etapa:                 etapa del curso (slug de progresion.yaml) en la que se ofrece el tema; solo
+#                          los temas publicados la necesitan. Debe ser igual o posterior a la de sus depende_de
 #   unidad_libro:          número de unidad en "Gramática de uso del español" (Aragonés/Palencia),
 #                          si este tema viene de ahí — permite cruzar con ejemplos/<tema>.json
 
@@ -102,6 +104,7 @@
   grafico: map
 
 - tema: articulo-tiempo-cantidad
+  etapa: nouns-numbers-time
   titulo: "Horas, días y precios"
   descripcion_gramatical: "Artículo determinado con expresiones temporales y precio"
   unidad_libro: 9
@@ -122,6 +125,7 @@
   grafico: instruments_visual
 
 - tema: uso-articulo-definido
+  etapa: nouns-numbers-time
   titulo: "Con artículo o sin artículo"
   descripcion_gramatical: "Uso y omisión del artículo definido (repaso)"
   unidad_libro: null
@@ -132,6 +136,7 @@
   grafico: none
 
 - tema: numeros-ordinales
+  etapa: nouns-numbers-time
   titulo: "Primero, segundo, tercero..."
   descripcion_gramatical: "Los numerales ordinales"
   unidad_libro: 27
@@ -142,6 +147,7 @@
   grafico: directory
 
 - tema: pronombres-lo-la-le
+  etapa: object-pronouns
   titulo: "Le, la, lo"
   descripcion_gramatical: "Pronombres de objeto directo e indirecto"
   unidad_libro: 38
@@ -152,6 +158,7 @@
   grafico: none
 
 - tema: pronombres-reflexivos-y-con-valor-reciproco
+  etapa: reflexive
   titulo: "Me ducho, nos queremos"
   descripcion_gramatical: "Pronombres reflexivos y con valor recíproco"
   unidad_libro: 40
@@ -162,6 +169,7 @@
   grafico: none
 
 - tema: imperativo-afirmativo-verbos-regulares
+  etapa: commands
   titulo: "Abre la ventana"
   descripcion_gramatical: "Imperativo afirmativo: verbos regulares"
   unidad_libro: 73
@@ -172,6 +180,7 @@
   grafico: functional_images
 
 - tema: imperativo-negativo-verbos-regulares
+  etapa: commands
   titulo: "No abras la ventana"
   descripcion_gramatical: "Imperativo negativo: verbos regulares"
   unidad_libro: 74
@@ -182,6 +191,7 @@
   grafico: functional_images
 
 - tema: imperativo-verbos-irregulares-1
+  etapa: commands
   titulo: "Cierra la ventana"
   descripcion_gramatical: "Imperativo: verbos irregulares (1)"
   unidad_libro: 75
@@ -192,6 +202,7 @@
   grafico: functional_images
 
 - tema: imperativo-verbos-irregulares-2
+  etapa: commands
   titulo: "Pon la mesa"
   descripcion_gramatical: "Imperativo: verbos irregulares (2)"
   unidad_libro: 76
@@ -202,6 +213,7 @@
   grafico: functional_images
 
 - tema: imperativo-de-verbos-con-se
+  etapa: commands
   titulo: "Lávate"
   descripcion_gramatical: "Imperativo de verbos con se"
   unidad_libro: 77
@@ -212,6 +224,7 @@
   grafico: functional_images
 
 - tema: imperativo-con-pronombres-de-complemento
+  etapa: commands
   titulo: "Dámelo, no me lo des"
   descripcion_gramatical: "Imperativo con pronombres de complemento"
   unidad_libro: 78
@@ -222,6 +235,7 @@
   grafico: none
 
 - tema: adverbios-de-tiempo-2
+  etapa: time-adverbs-impersonal
   titulo: "Ya, todavía, aún"
   descripcion_gramatical: "Adverbios de tiempo (2)"
   unidad_libro: 102
@@ -232,6 +246,7 @@
   grafico: none
 
 - tema: oraciones-impersonales
+  etapa: time-adverbs-impersonal
   titulo: "Aquí se trabaja mucho"
   descripcion_gramatical: "Oraciones impersonales"
   unidad_libro: 122
@@ -242,6 +257,7 @@
   grafico: none
 
 - tema: articulo-el-ante-a-tonica
+  etapa: nouns-numbers-time
   titulo: "El agua, las aguas"
   descripcion_gramatical: "Artículo el ante sustantivos femeninos que empiezan por a- o ha- tónica"
   unidad_libro: null
@@ -252,6 +268,7 @@
   grafico: none
 
 - tema: subjuntivo-tiempo-segun-verbo-principal
+  etapa: subjunctive
   titulo: "Quiero que vengas, quería que vinieras"
   descripcion_gramatical: "Subjuntivo: presente o imperfecto según el verbo principal (deseo, petición y necesidad)"
   unidad_libro: null
@@ -262,6 +279,7 @@
   grafico: none
 
 - tema: modales-quiero-puedo-necesito
+  etapa: present-basics
   titulo: "Quiero, puedo, necesito, voy a, intento"
   descripcion_gramatical: "Verbos modales y perífrasis con infinitivo: querer, poder, necesitar, ir a, intentar"
   unidad_libro: null
@@ -272,6 +290,7 @@
   grafico: none
 
 - tema: tengo-que-vs-debo
+  etapa: obligation
   titulo: "Tengo que o debo"
   descripcion_gramatical: "Obligación: tener que (I have to, obligación externa) frente a deber (I must, deber moral)"
   unidad_libro: null
@@ -282,6 +301,7 @@
   grafico: none
 
 - tema: modales-escribir-yo
+  etapa: present-basics
   titulo: "Escribe: quiero, puedo, necesito, voy a, intento"
   descripcion_gramatical: "Verbos modales con yo: conjugar querer, poder, necesitar, ir a e intentar en presente"
   unidad_libro: null
@@ -292,6 +312,7 @@
   grafico: none
 
 - tema: modales-escribir-tu-el
+  etapa: present-basics
   titulo: "Escribe: quieres, puede, necesita, va a, intenta"
   descripcion_gramatical: "Verbos modales con tú y él/ella: conjugar querer, poder, necesitar, ir a e intentar en presente"
   unidad_libro: null
@@ -302,6 +323,7 @@
   grafico: none
 
 - tema: preterito-indefinido-regulares
+  etapa: past
   titulo: "Trabajé, comí, viví"
   descripcion_gramatical: "Pretérito perfecto simple: verbos regulares"
   unidad_libro: 58
@@ -312,6 +334,7 @@
   grafico: none
 
 - tema: preterito-indefinido-irregulares
+  etapa: past
   titulo: "Durmió, leyó, hizo"
   descripcion_gramatical: "Pretérito perfecto simple: verbos irregulares"
   unidad_libro: 59
@@ -322,6 +345,7 @@
   grafico: none
 
 - tema: cuanto-cuantos
+  etapa: nouns-numbers-time
   titulo: "¿Cuánto pan? ¿Cuántos días? [BORRADOR SIN REVISAR]"
   descripcion_gramatical: "Interrogativos cuánto, cuánta, cuántos, cuántas"
   unidad_libro: null
@@ -332,6 +356,7 @@
   grafico: none
 
 - tema: genero-palabras-no-obvias
+  etapa: nouns-numbers-time
   titulo: "El pan, la carne, el día [BORRADOR SIN REVISAR]"
   descripcion_gramatical: "Género de sustantivos con terminación no indicativa"
   unidad_libro: null
