@@ -39,3 +39,17 @@ Ver `README.md` para el resumen corto.
 ## Borradores
 
 - `borradores/` guarda temas escritos por IA que Javi aún no ha validado (marcados `[BORRADOR SIN REVISAR]`). Fuera de `content/`, no se renderizan ni se publican. Para publicarlos: moverlos a `content/` y quitar la marca del título (también en `index.yaml`).
+
+## Flujo al generar o cambiar ejercicios
+
+Objetivo (Javi, 1 nov 2026): que el alumno no tenga fricción visual ni mental y todo su espacio cognitivo quede para lo que el ejercicio entrena. Se comprueba siempre, en cada unidad nueva o cambiada, antes de darla por buena:
+
+1. Renderizar y ver las páginas en local, con capturas a 360 px de ancho, de cada página de ejercicios y de la teoría.
+2. Pasar `herramientas/audit_movil.py` (instrucciones en su cabecera): sin desbordes, campos de 16 px o más, objetivos táctiles de 40 px o más, sin errores de consola, en 320, 360, 375 y 393 px.
+3. Resolver cada ejercicio de punta a punta en móvil simulado (respuestas correctas, incorrectas, Check, Show solutions) y mirar que todo se entiende sin leer instrucciones.
+4. Buscar fricción mental, no solo visual: huecos que no se sabe a qué corresponden (numerar si hay gráfico), enunciados que piden algo que no se puede teclear, palabras gramaticales, textos que se pueden quitar.
+5. Repetir 1 a 4 hasta no encontrar nada. No se puede probar Safari de iPhone en este sistema: lo que no se pueda comprobar, decirlo.
+
+## Interfaz de teoría
+
+- Toda hoja de teoría tiene siempre un botón "Download PDF" arriba. `render.py` lo pone solo; `build_pdfs.py` genera `out/pdf/<tema>-teoria.pdf` con Chrome (los PDF se commitean, el hook `.githooks/pre-commit` los regenera cuando cambia un `*.teoria.html`).

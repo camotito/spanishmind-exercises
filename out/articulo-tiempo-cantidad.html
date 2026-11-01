@@ -57,12 +57,12 @@ dialog.conj p { margin: .5em 0; }
 .rc .flecha { color: #999; }
 .rc .nueva { background: var(--accent); color: var(--secondary); border-radius: 6px; padding: 1px 9px; font-weight: 700; }
 @media print {
-    body > *:not(dialog#conj) { display: none !important; }
+    body > *:not(dialog[open]) { display: none !important; }
     body { margin: 0; padding: 0; max-width: none; background: #fff; }
-    dialog#conj { position: static; display: block; width: 100%; max-width: none; max-height: none;
+    dialog[open] { position: static; display: block; width: 100%; max-width: none; max-height: none;
         overflow: visible; border: 0; padding: 0; }
-    dialog#conj .no-print { display: none !important; }
-    dialog#conj table.conj { break-inside: avoid; }
+    dialog[open] .no-print { display: none !important; }
+    dialog[open] table.conj { break-inside: avoid; }
 }
 /* movil: sin zoom automatico de iOS al enfocar (campos >=16px), objetivos tactiles
    de 44px y el boton de teoria/conjugacion como circulo que no tapa el texto */
@@ -78,6 +78,7 @@ dialog.conj p { margin: .5em 0; }
         display: flex; align-items: center; justify-content: center; }
     button.ghost.btn-teoria .btn-label { display: none; }
     button.ghost.btn-conj.con-teoria { top: 66px; }
+    a.conj-print, button.conj-print { min-height: 44px; }
     button.ghost.btn-teoria, button.ghost.btn-conj { position: absolute; }
 }
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
@@ -161,6 +162,8 @@ button:disabled { opacity: .4; cursor: default; }
 
 <button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()" aria-label="Theory">&#128214;<span class="btn-label"> Theory</span></button>
 <dialog id="teoria" class="teoria">
+<div class="conj-cabecera no-print"><span></span><a class="conj-print" href="pdf/articulo-tiempo-cantidad-teoria.pdf" download><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0-4-4m4 4 4-4M5 21h14"/></svg>Download PDF</a></div>
+
 <h2>Time, days and prices</h2>
 <p>With the time we use the verb "ser".<br />
 Only two forms of this verb are needed for the time:</p>
@@ -240,6 +243,16 @@ And the most important difference with English: Spanish keeps <strong>la</strong
 <li><strong>Normalmente estudiamos por la noche.</strong> = <em>We usually study at night.</em></li>
 <li><strong>Trabajo por la tarde.</strong> = <em>I work in the afternoon.</em></li>
 </ul>
+<p>Two exceptions, without <strong>por la</strong>:</p>
+<ul>
+<li><strong>a mediodía</strong> = <em>at noon</em></li>
+<li><strong>de madrugada</strong> = <em>in the early hours</em></li>
+</ul>
+<p>Examples:</p>
+<ul>
+<li><strong>Voy a casa a mediodía.</strong> = <em>I go home at noon.</em></li>
+<li><strong>El camión de la basura pasa de madrugada.</strong> = <em>The rubbish truck comes in the early hours.</em></li>
+</ul>
 <h3>Days</h3>
 <p>The one key difference in Spanish when talking about days:</p>
 <ul>
@@ -285,6 +298,11 @@ And the most important difference with English: Spanish keeps <strong>la</strong
 <ul>
 <li><strong>Felipe se casa el martes 13 de julio.</strong> = <em>Felipe is getting married on Tuesday 13th July.</em></li>
 </ul>
+<p>To say today's date there is no <strong>el</strong>:</p>
+<ul>
+<li><strong>Hoy es cinco de marzo.</strong> = <em>Today is the fifth of March.</em></li>
+<li><strong>Ayer fue cuatro de marzo.</strong> = <em>Yesterday was the fourth of March.</em></li>
+</ul>
 <h3>How often</h3>
 <p><strong>A</strong> + <strong>el</strong> / <strong>la</strong> works like the English <em>per</em>.</p>
 <ul>
@@ -312,7 +330,7 @@ And the most important difference with English: Spanish keeps <strong>la</strong
 <li><strong>Dos euros los cien gramos.</strong> = <em>Two euros per 100 grams.</em></li>
 </ul>
 
-<button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
+<button class="teoria-cerrar no-print" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
 </dialog>
 <h1>Horas, días y precios</h1>
 <div class="page" data-page="0" hidden><section class="ejercicio">

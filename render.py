@@ -153,12 +153,12 @@ dialog.conj p { margin: .5em 0; }
 .rc .flecha { color: #999; }
 .rc .nueva { background: var(--accent); color: var(--secondary); border-radius: 6px; padding: 1px 9px; font-weight: 700; }
 @media print {
-    body > *:not(dialog#conj) { display: none !important; }
+    body > *:not(dialog[open]) { display: none !important; }
     body { margin: 0; padding: 0; max-width: none; background: #fff; }
-    dialog#conj { position: static; display: block; width: 100%; max-width: none; max-height: none;
+    dialog[open] { position: static; display: block; width: 100%; max-width: none; max-height: none;
         overflow: visible; border: 0; padding: 0; }
-    dialog#conj .no-print { display: none !important; }
-    dialog#conj table.conj { break-inside: avoid; }
+    dialog[open] .no-print { display: none !important; }
+    dialog[open] table.conj { break-inside: avoid; }
 }
 /* movil: sin zoom automatico de iOS al enfocar (campos >=16px), objetivos tactiles
    de 44px y el boton de teoria/conjugacion como circulo que no tapa el texto */
@@ -174,6 +174,7 @@ dialog.conj p { margin: .5em 0; }
         display: flex; align-items: center; justify-content: center; }
     button.ghost.btn-teoria .btn-label { display: none; }
     button.ghost.btn-conj.con-teoria { top: 66px; }
+    a.conj-print, button.conj-print { min-height: 44px; }
     button.ghost.btn-teoria, button.ghost.btn-conj { position: absolute; }
 }
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
@@ -720,8 +721,10 @@ def build_html(data, granularidad="ejercicio"):
     teoria = cargar_teoria(data.get("teoria_de", data["tema"]))
     teoria_html = f"""
 <button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()" aria-label="Theory">&#128214;<span class="btn-label"> Theory</span></button>
-<dialog id="teoria" class="teoria">{teoria}
-<button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
+<dialog id="teoria" class="teoria">
+<div class="conj-cabecera no-print"><span></span><a class="conj-print" href="pdf/{data.get('teoria_de', data['tema'])}-teoria.pdf" download><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0-4-4m4 4 4-4M5 21h14"/></svg>Download PDF</a></div>
+{teoria}
+<button class="teoria-cerrar no-print" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
 </dialog>""" if teoria else ""
     conj = cargar_conjugacion(data["tema"])
     conj_html = f"""
