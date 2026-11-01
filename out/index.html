@@ -21,6 +21,8 @@ li { counter-increment: unidad; background: var(--card); border: 1px solid var(-
 li::before { content: counter(unidad) ". "; color: var(--primary); font-weight: 700; }
 a { color: var(--secondary); text-decoration: none; font-weight: 600; font-size: 1.05rem; }
 a:hover { text-decoration: underline; }
+li { position: relative; }
+li a::after { content: ""; position: absolute; inset: 0; }
 .tecnico { display: block; font-size: .8rem; color: #888; font-weight: 400; margin-top: 2px; }
 </style>
 </head>

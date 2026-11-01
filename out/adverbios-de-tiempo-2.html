@@ -64,6 +64,21 @@ dialog.conj p { margin: .5em 0; }
     dialog#conj .no-print { display: none !important; }
     dialog#conj table.conj { break-inside: avoid; }
 }
+/* movil: sin zoom automatico de iOS al enfocar (campos >=16px), objetivos tactiles
+   de 44px y el boton de teoria/conjugacion como circulo que no tapa el texto */
+@media (max-width: 620px) {
+    input.blank, select.blank { font-size: 16px; }
+    select.blank { min-height: 40px; }
+    button { min-height: 44px; font-size: .95rem; }
+    button.ghost { padding: 8px 10px; }
+    .volver-indice { padding: 12px 0; font-size: 1rem; }
+    .ejercicio { padding: 16px 14px; }
+    button.ghost.btn-teoria { width: 44px; height: 44px; padding: 0; font-size: 1.3rem; line-height: 1;
+        display: flex; align-items: center; justify-content: center; }
+    button.ghost.btn-teoria .btn-label { display: none; }
+    button.ghost.btn-conj.con-teoria { top: 66px; }
+    button.ghost.btn-teoria, button.ghost.btn-conj { position: absolute; }
+}
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
     color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
@@ -189,7 +204,7 @@ button:disabled { opacity: .4; cursor: default; }
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>—¿<input type="text" class="blank blank-wide" data-sol="¿Se conocen ya ustedes?" data-hint="" autocomplete="off">? —Sí, ya nos conocemos.</span></div>
+            <div class="item-row"><span>—¿<input type="text" class="blank" data-sol="¿Se conocen ya ustedes?" data-hint="" style="width: 25ch" autocomplete="off">? —Sí, ya nos conocemos.</span></div>
             
         </div>
         <div class="item" data-solved="0">
@@ -197,15 +212,15 @@ button:disabled { opacity: .4; cursor: default; }
             <span class="alt-hint" id="hint-5" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>—¿<input type="text" class="blank blank-wide" data-sol="¿Ha llegado ya Paloma?" data-hint="" autocomplete="off">? —No, aún no ha llegado Paloma.</span></div>
+            <div class="item-row"><span>—¿<input type="text" class="blank" data-sol="¿Ha llegado ya Paloma?" data-hint="" style="width: 24ch" autocomplete="off">? —No, aún no ha llegado Paloma.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>—¿<input type="text" class="blank blank-wide" data-sol="¿Han empezado ya las clases?" data-hint="" autocomplete="off">? —No, todavía no hemos empezado las clases.</span></div>
+            <div class="item-row"><span>—¿<input type="text" class="blank" data-sol="¿Han empezado ya las clases?" data-hint="" style="width: 30ch" autocomplete="off">? —No, todavía no hemos empezado las clases.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>—¿<input type="text" class="blank blank-wide" data-sol="¿Está lista ya la comida?/¿Está ya lista la comida?" data-hint="hint-6" autocomplete="off">? —No, la comida no está lista todavía.</span></div>
+            <div class="item-row"><span>—¿<input type="text" class="blank" data-sol="¿Está lista ya la comida?/¿Está ya lista la comida?" data-hint="hint-6" style="width: 27ch" autocomplete="off">? —No, la comida no está lista todavía.</span></div>
             <span class="alt-hint" id="hint-6" hidden></span>
         </div>
         
@@ -271,7 +286,7 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>No creo que venga ahora. <input type="text" class="blank blank-wide" data-sol="Ya no creo que venga/No creo que venga ya" data-hint="hint-12" autocomplete="off">.</span></div>
+            <div class="item-row"><span>No creo que venga ahora. <input type="text" class="blank" data-sol="Ya no creo que venga/No creo que venga ya" data-hint="hint-12" style="width: 22ch" autocomplete="off">.</span></div>
             <span class="alt-hint" id="hint-12" hidden></span>
         </div>
         <div class="item" data-solved="0">
@@ -299,11 +314,11 @@ button:disabled { opacity: .4; cursor: default; }
             <span class="alt-hint" id="hint-13" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Hará buen tiempo más adelante. <input type="text" class="blank blank-wide" data-sol="Ya hará buen tiempo" data-hint="" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Hará buen tiempo más adelante. <input type="text" class="blank" data-sol="Ya hará buen tiempo" data-hint="" style="width: 21ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Encontrarán trabajo en el futuro. <input type="text" class="blank blank-wide" data-sol="Ya encontrarán trabajo" data-hint="" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Encontrarán trabajo en el futuro. <input type="text" class="blank" data-sol="Ya encontrarán trabajo" data-hint="" style="width: 24ch" autocomplete="off">.</span></div>
             
         </div>
         

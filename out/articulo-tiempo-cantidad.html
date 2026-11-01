@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>El seis de enero</title>
+<title>A las tres, tres euros el kilo</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
 <style>
 :root {
@@ -63,6 +63,21 @@ dialog.conj p { margin: .5em 0; }
         overflow: visible; border: 0; padding: 0; }
     dialog#conj .no-print { display: none !important; }
     dialog#conj table.conj { break-inside: avoid; }
+}
+/* movil: sin zoom automatico de iOS al enfocar (campos >=16px), objetivos tactiles
+   de 44px y el boton de teoria/conjugacion como circulo que no tapa el texto */
+@media (max-width: 620px) {
+    input.blank, select.blank { font-size: 16px; }
+    select.blank { min-height: 40px; }
+    button { min-height: 44px; font-size: .95rem; }
+    button.ghost { padding: 8px 10px; }
+    .volver-indice { padding: 12px 0; font-size: 1rem; }
+    .ejercicio { padding: 16px 14px; }
+    button.ghost.btn-teoria { width: 44px; height: 44px; padding: 0; font-size: 1.3rem; line-height: 1;
+        display: flex; align-items: center; justify-content: center; }
+    button.ghost.btn-teoria .btn-label { display: none; }
+    button.ghost.btn-conj.con-teoria { top: 66px; }
+    button.ghost.btn-teoria, button.ghost.btn-conj { position: absolute; }
 }
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
     color: var(--secondary); font-size: .9rem; }
@@ -143,7 +158,7 @@ button:disabled { opacity: .4; cursor: default; }
 </head>
 <body>
 
-<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()">&#128214; Theory</button>
+<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()" aria-label="Theory">&#128214;<span class="btn-label"> Theory</span></button>
 <dialog id="teoria" class="teoria">
 <h2>The article with time, days and prices</h2>
 
@@ -246,7 +261,7 @@ button:disabled { opacity: .4; cursor: default; }
 
 <button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
 </dialog>
-<h1>El seis de enero</h1>
+<h1>A las tres, tres euros el kilo</h1>
 <div class="page" data-page="0" hidden><section class="ejercicio">
         <p class="enunciado">Write the times using the words in the box and "la" or "las".</p><div class="clocks"><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="73.6" y2="54.2" class="clock-h"/><line x1="50" y1="50" x2="81.2" y2="68.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>1</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="66.2" y2="32.3" class="clock-h"/><line x1="50" y1="50" x2="68.0" y2="81.2" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>2</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="63.8" y2="69.7" class="clock-h"/><line x1="50" y1="50" x2="18.8" y2="32.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>3</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="70.8" y2="38.0" class="clock-h"/><line x1="50" y1="50" x2="50.0" y2="14.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>4</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="26.8" y2="56.2" class="clock-h"/><line x1="50" y1="50" x2="50.0" y2="86.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>5</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="51.0" y2="26.0" class="clock-h"/><line x1="50" y1="50" x2="68.0" y2="18.8" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>6</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="69.0" y2="35.4" class="clock-h"/><line x1="50" y1="50" x2="14.0" y2="50.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>7</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="40.8" y2="27.8" class="clock-h"/><line x1="50" y1="50" x2="86.0" y2="50.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>8</figcaption></figure></div><div class="wordbox"><span class="word-chip">cuatro menos diez</span><span class="word-chip">doce y cinco</span><span class="word-chip">dos</span><span class="word-chip">ocho y media</span><span class="word-chip">once y cuarto</span><span class="word-chip">tres y veinte</span><span class="word-chip">una menos cuarto</span><span class="word-chip">una y veinticinco</span></div>
         
@@ -257,11 +272,11 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-line"><span class="item-n">2.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="la una y veinticinco" data-hint="" autocomplete="off"></span></div></div></div>
+            <div class="item-line"><span class="item-n">2.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="la una y veinticinco" data-hint="" style="width: 22ch" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-line"><span class="item-n">3.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="las cuatro menos diez" data-hint="" autocomplete="off"></span></div></div></div>
+            <div class="item-line"><span class="item-n">3.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="las cuatro menos diez" data-hint="" style="width: 23ch" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
@@ -277,7 +292,7 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-line"><span class="item-n">7.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="la una menos cuarto" data-hint="" autocomplete="off"></span></div></div></div>
+            <div class="item-line"><span class="item-n">7.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="la una menos cuarto" data-hint="" style="width: 21ch" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
@@ -291,7 +306,7 @@ button:disabled { opacity: .4; cursor: default; }
             <span class="group-feedback"></span>
         </div>
     </section></div><div class="page" data-page="1" hidden><section class="ejercicio">
-        <p class="enunciado">Complete with "el, la, los, las" where necessary. (ø = no article)</p>
+        <p class="enunciado">Complete with "el, la, los, las" where necessary. If no article is needed, leave the gap empty.</p>
         
         
         
@@ -359,7 +374,7 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><em class="hint-paren">(2 días, semana)</em> Voy al gimnasio <input type="text" class="blank blank-wide" data-sol="dos días a la semana" data-hint="" autocomplete="off">.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(2 días, semana)</em> Voy al gimnasio <input type="text" class="blank" data-sol="dos días a la semana" data-hint="" style="width: 22ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
@@ -371,7 +386,7 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><em class="hint-paren">(1 noche, semana)</em> Salimos <input type="text" class="blank blank-wide" data-sol="una noche a la semana" data-hint="" autocomplete="off">.</span></div>
+            <div class="item-row"><span><em class="hint-paren">(1 noche, semana)</em> Salimos <input type="text" class="blank" data-sol="una noche a la semana" data-hint="" style="width: 23ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
@@ -390,15 +405,15 @@ button:disabled { opacity: .4; cursor: default; }
         <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-line"><span class="item-n">1.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-example" value="Dos euros el kilo" style="width: 19ch" readonly tabindex="-1"> de kiwis.</span></div></div></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-line"><span class="item-n">2.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Cuatro pesos el litro" data-hint="" autocomplete="off"> de leche.</span></div></div></div>
+            <div class="item-line"><span class="item-n">2.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="Cuatro pesos el litro" data-hint="" style="width: 23ch" autocomplete="off"> de leche.</span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-line"><span class="item-n">3.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Dos euros la docena" data-hint="" autocomplete="off"> de huevos.</span></div></div></div>
+            <div class="item-line"><span class="item-n">3.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="Dos euros la docena" data-hint="" style="width: 21ch" autocomplete="off"> de huevos.</span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-line"><span class="item-n">4.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Un peso los 100 gramos" data-hint="" autocomplete="off"> de queso.</span></div></div></div>
+            <div class="item-line"><span class="item-n">4.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="Un peso los 100 gramos" data-hint="" style="width: 24ch" autocomplete="off"> de queso.</span></div></div></div>
             
         </div>
         

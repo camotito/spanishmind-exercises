@@ -160,6 +160,21 @@ dialog.conj p { margin: .5em 0; }
     dialog#conj .no-print { display: none !important; }
     dialog#conj table.conj { break-inside: avoid; }
 }
+/* movil: sin zoom automatico de iOS al enfocar (campos >=16px), objetivos tactiles
+   de 44px y el boton de teoria/conjugacion como circulo que no tapa el texto */
+@media (max-width: 620px) {
+    input.blank, select.blank { font-size: 16px; }
+    select.blank { min-height: 40px; }
+    button { min-height: 44px; font-size: .95rem; }
+    button.ghost { padding: 8px 10px; }
+    .volver-indice { padding: 12px 0; font-size: 1rem; }
+    .ejercicio { padding: 16px 14px; }
+    button.ghost.btn-teoria { width: 44px; height: 44px; padding: 0; font-size: 1.3rem; line-height: 1;
+        display: flex; align-items: center; justify-content: center; }
+    button.ghost.btn-teoria .btn-label { display: none; }
+    button.ghost.btn-conj.con-teoria { top: 66px; }
+    button.ghost.btn-teoria, button.ghost.btn-conj { position: absolute; }
+}
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
     color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
@@ -333,7 +348,7 @@ def input_width(sol):
 # a partir de este ancho (p.ej. reescritura de oracion completa en T10/T11/T12)
 # el hueco inline ya no cabe junto al resto de la frase sin desbordar la
 # tarjeta -- pasa a ocupar su propia linea a ancho completo (.blank-wide).
-ANCHO_INLINE_MAX = 20
+ANCHO_INLINE_MAX = 32
 
 
 def render_widgets(text, solutions):
@@ -703,7 +718,7 @@ def build_html(data, granularidad="ejercicio"):
     # "teoria_de": <tema> reutiliza la hoja de teoria de otro tema (mismos casos de uso)
     teoria = cargar_teoria(data.get("teoria_de", data["tema"]))
     teoria_html = f"""
-<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()">&#128214; Theory</button>
+<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()" aria-label="Theory">&#128214;<span class="btn-label"> Theory</span></button>
 <dialog id="teoria" class="teoria">{teoria}
 <button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
 </dialog>""" if teoria else ""

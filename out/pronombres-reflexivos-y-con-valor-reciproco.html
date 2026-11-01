@@ -64,6 +64,21 @@ dialog.conj p { margin: .5em 0; }
     dialog#conj .no-print { display: none !important; }
     dialog#conj table.conj { break-inside: avoid; }
 }
+/* movil: sin zoom automatico de iOS al enfocar (campos >=16px), objetivos tactiles
+   de 44px y el boton de teoria/conjugacion como circulo que no tapa el texto */
+@media (max-width: 620px) {
+    input.blank, select.blank { font-size: 16px; }
+    select.blank { min-height: 40px; }
+    button { min-height: 44px; font-size: .95rem; }
+    button.ghost { padding: 8px 10px; }
+    .volver-indice { padding: 12px 0; font-size: 1rem; }
+    .ejercicio { padding: 16px 14px; }
+    button.ghost.btn-teoria { width: 44px; height: 44px; padding: 0; font-size: 1.3rem; line-height: 1;
+        display: flex; align-items: center; justify-content: center; }
+    button.ghost.btn-teoria .btn-label { display: none; }
+    button.ghost.btn-conj.con-teoria { top: 66px; }
+    button.ghost.btn-teoria, button.ghost.btn-conj { position: absolute; }
+}
 .volver-indice { display: block; text-align: center; margin: 30px 0 10px;
     color: var(--secondary); font-size: .9rem; }
 .ejercicio { background: var(--card); border: 1px solid var(--line);
@@ -221,19 +236,19 @@ button:disabled { opacity: .4; cursor: default; }
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Felipe saludó a David y David saludó a Felipe. <input type="text" class="blank blank-wide" data-sol="Felipe y David se saludaron" data-hint="" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Felipe saludó a David y David saludó a Felipe. <input type="text" class="blank" data-sol="Felipe y David se saludaron" data-hint="" style="width: 29ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Roque no habla a Julio y Julio no habla a Roque. <input type="text" class="blank blank-wide" data-sol="Roque y Julio no se hablan" data-hint="" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Roque no habla a Julio y Julio no habla a Roque. <input type="text" class="blank" data-sol="Roque y Julio no se hablan" data-hint="" style="width: 28ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Roque te quiere a ti y tú quieres a Roque. <input type="text" class="blank blank-wide" data-sol="Roque y tú os queréis" data-hint="" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Roque te quiere a ti y tú quieres a Roque. <input type="text" class="blank" data-sol="Roque y tú os queréis" data-hint="" style="width: 23ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Sofía escribe a Lina y Lina escribe a Sofía. <input type="text" class="blank blank-wide" data-sol="Sofía y Lina se escriben" data-hint="" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Sofía escribe a Lina y Lina escribe a Sofía. <input type="text" class="blank" data-sol="Sofía y Lina se escriben" data-hint="" style="width: 26ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
@@ -241,7 +256,7 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Rodrigo ayuda a su hermana y su hermana ayuda a Rodrigo. <input type="text" class="blank blank-wide" data-sol="Rodrigo y su hermana se ayudan" data-hint="" autocomplete="off">.</span></div>
+            <div class="item-row"><span>Rodrigo ayuda a su hermana y su hermana ayuda a Rodrigo. <input type="text" class="blank" data-sol="Rodrigo y su hermana se ayudan" data-hint="" style="width: 32ch" autocomplete="off">.</span></div>
             
         </div>
         <div class="item" data-solved="0">
