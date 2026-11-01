@@ -27,3 +27,8 @@ Ver `README.md` para el resumen corto.
 
 - **Commit por paso, push solo cuando Javi lo pida**: cada cambio significativo se commitea, pero nunca se hace `git push` por iniciativa propia (cada push despliega en Netlify y gasta créditos del nivel gratis). Los cambios se prueban siempre en local antes (`python3 render.py && python3 build_index.py`, servidor en `out/`, p. ej. `python3 -m http.server 8765`). Javi pide el push cuando todo está listo y depurado.
 - **Curaduría de datos contra el libro real cuando haga falta** (imágenes necesarias, subrayados, tablas faltantes): si hay escaneo disponible en `libro/`, verificar ahí antes de asumir un patrón por el enunciado o la tipología — el enunciado por sí solo no siempre predice si algo está subrayado o no en el libro impreso.
+
+## Textos para alumnos (teoría, enunciados)
+
+- Las reglas de pedagogía y de vocabulario gramatical (terminología mínima, Thinking Method, formato de equivalencias con `=` y sublistas) viven en `~/Documents/Proyectos/contenido-clases/CLAUDE.md`. No se duplican aquí: léelas antes de escribir o editar una hoja `*.teoria.html`.
+- La fuente de una teoría se edita en Markdown en `contenido-clases/` y se convierte a `content/<tema>.teoria.html`.
