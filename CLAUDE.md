@@ -32,3 +32,7 @@ Ver `README.md` para el resumen corto.
 
 - Las reglas de pedagogía y de vocabulario gramatical (terminología mínima, Thinking Method, formato de equivalencias con `=` y sublistas) viven en `~/Documents/Proyectos/contenido-clases/CLAUDE.md`. No se duplican aquí: léelas antes de escribir o editar una hoja `*.teoria.html`.
 - La fuente de una teoría se edita en Markdown en `contenido-clases/` y se convierte a `content/<tema>.teoria.html`.
+
+## Borradores
+
+- `borradores/` guarda temas escritos por IA que Javi aún no ha validado (marcados `[BORRADOR SIN REVISAR]`). Fuera de `content/`, no se renderizan ni se publican. Para publicarlos: moverlos a `content/` y quitar la marca del título (también en `index.yaml`).
