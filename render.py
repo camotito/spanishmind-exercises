@@ -198,6 +198,18 @@ button:hover { opacity: .9; }
 .plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
 .plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
 @media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.clocks { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.clock { margin: 0; text-align: center; }
+.clock svg { width: 100%; max-width: 110px; }
+.clock-face { fill: #fff; stroke: var(--secondary); stroke-width: 2; }
+.clock line { stroke: var(--secondary); stroke-width: 1.5; stroke-linecap: round; }
+.clock .clock-h { stroke: var(--primary); stroke-width: 4; }
+.clock .clock-m { stroke: var(--primary); stroke-width: 2.5; }
+.clock-dot { fill: var(--primary); }
+.clock figcaption { font-weight: 700; color: var(--secondary); font-size: .85rem; }
+@media (max-width: 620px) { .clocks { grid-template-columns: repeat(2, 1fr); } }
 .scene-list { list-style: none; margin: 0 0 18px; padding: 10px 14px;
     border: 2px solid var(--secondary); border-radius: 8px; background: #fffdf8; }
 .scene-list li { padding: 4px 0; border-top: 1px dashed var(--line); }
@@ -386,6 +398,8 @@ def render_functional_images(datos):
     for i, d in enumerate(datos, start=1):
         numero = d.get("numero", str(i))
         texto = d.get("descripcion") or d.get("escena") or ""
+        if not texto and d.get("producto"):
+            texto = f'{d["producto"]}: {d["precio"]} / {d["unidad"]}'
         filas.append(f'<li><span class="scene-num">{esc(numero)}.</span> {esc(texto)}</li>')
     return f'<ul class="scene-list">{"".join(filas)}</ul>'
 
@@ -397,7 +411,39 @@ def render_titulo_tabla(datos):
     return f'<p class="tabla-titulo">{esc(datos["titulo"])}</p>'
 
 
+def render_clocks(datos):
+    """Relojes analogicos en SVG. En los datos, manecilla_corta = numero de la
+    esfera al que apunta la manecilla de la hora, manecilla_larga = numero al
+    que apunta la de los minutos (x5 = minutos)."""
+    import math
+    relojes = []
+    for i, d in enumerate(datos, start=1):
+        h = int(d["manecilla_corta"]) % 12
+        m = (int(d["manecilla_larga"]) % 12) * 5
+        ang_h = math.radians((h + m / 60) * 30)
+        ang_m = math.radians(m * 6)
+        def punta(ang, r):
+            return f"{50 + r * math.sin(ang):.1f},{50 - r * math.cos(ang):.1f}"
+        marcas = ""
+        for k in range(12):
+            x1, y1 = punta(math.radians(k * 30), 40).split(",")
+            x2, y2 = punta(math.radians(k * 30), 46).split(",")
+            marcas += f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}"/>'
+        hx, hy = punta(ang_h, 24).split(",")
+        mx, my = punta(ang_m, 36).split(",")
+        relojes.append(
+            f'<figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true">'
+            f'<circle cx="50" cy="50" r="48" class="clock-face"/>{marcas}'
+            f'<line x1="50" y1="50" x2="{hx}" y2="{hy}" class="clock-h"/>'
+            f'<line x1="50" y1="50" x2="{mx}" y2="{my}" class="clock-m"/>'
+            f'<circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg>'
+            f'<figcaption>{esc(d.get("numero", str(i)))}</figcaption></figure>'
+        )
+    return f'<div class="clocks">{"".join(relojes)}</div>'
+
+
 GRAFICO_RENDERERS = {
+    "clocks": render_clocks,
     "directory": render_directory,
     "functional_images": render_functional_images,
     "titulo_tabla": render_titulo_tabla,

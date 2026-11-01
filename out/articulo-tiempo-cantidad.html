@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>El seis de enero</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+    --bg: #FBF7F0; --card: #ffffff; --primary: #C1440E; --secondary: #2E4053;
+    --accent: #E9B44C; --ok: #4F7942; --bad: #B33A3A; --text: #2B2B2B;
+    --line: #e5ddd0;
+    --font-heading: 'Playfair Display', serif; --font-body: 'DM Sans', sans-serif;
+}
+* { box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text);
+    max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; }
+h1 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.4rem; }
+button.ghost.btn-teoria { position: fixed; top: 14px; right: 14px; z-index: 5; background: var(--accent); color: var(--secondary);
+    text-decoration: none; font-weight: 600; font-size: .95rem; padding: 10px 18px; border-radius: 999px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.18); animation: teoria-pulso 1.6s ease-out 2; }
+button.ghost.btn-teoria:hover { opacity: 1; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
+@keyframes teoria-pulso { 0% { box-shadow: 0 0 0 0 rgba(233,180,76,.8); } 100% { box-shadow: 0 0 0 16px rgba(233,180,76,0); } }
+@media (prefers-reduced-motion: reduce) { .btn-teoria { animation: none; } }
+dialog.teoria { max-width: 720px; width: calc(100% - 32px); max-height: 88vh; overflow-y: auto;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--card);
+    color: var(--text); padding: 8px 24px 24px; line-height: 1.6; }
+dialog.teoria::backdrop { background: rgba(0,0,0,.4); }
+dialog.teoria h2 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.25rem; }
+dialog.teoria h3 { color: var(--primary); font-size: 1rem; margin: 1.4em 0 .3em; }
+dialog.teoria ul { margin: .3em 0; padding-left: 1.2em; }
+.teoria-cerrar { position: sticky; bottom: 0; display: block; margin: 20px auto 0; }
+button.ghost.btn-conj { position: fixed; top: 14px; right: 14px; z-index: 5; width: 44px; height: 44px; padding: 0;
+    border-radius: 50%; background: var(--secondary); color: #fff; font-size: 1.2rem; line-height: 1;
+    box-shadow: 0 2px 10px rgba(0,0,0,.18); }
+button.ghost.btn-conj.con-teoria { top: 64px; }
+button.ghost.btn-conj:hover { opacity: 1; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
+.conj-cabecera { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+button.conj-print { display: inline-flex; align-items: center; gap: 8px; margin-top: 10px; padding: 8px 16px; border-radius: 999px;
+    background: var(--secondary); color: #fff; font-weight: 600; font-size: .9rem; }
+button.conj-print svg, a.conj-print svg { width: 18px; height: 18px; flex: none; }
+a.conj-print { display: inline-flex; align-items: center; gap: 8px; margin: 10px 0 0 8px; padding: 8px 16px; border-radius: 999px;
+    background: var(--secondary); color: #fff; font-weight: 600; font-size: .9rem; text-decoration: none; }
+@media (hover: none) and (pointer: coarse) { .solo-escritorio { display: none !important; } }
+table.conj { border-collapse: collapse; width: 100%; margin: 10px 0 4px; font-size: .95rem; }
+table.conj th, table.conj td { padding: 5px 10px; border-bottom: 1px solid var(--line); text-align: left; }
+table.conj thead th { color: var(--secondary); border-bottom: 2px solid var(--secondary); vertical-align: bottom; }
+table.conj thead th small { display: block; font-weight: 400; color: #777; }
+table.conj tbody th { font-weight: 600; color: var(--secondary); white-space: nowrap; }
+table.conj .r { color: #777; }
+table.conj b { color: var(--primary); }
+dialog.conj p { margin: .5em 0; }
+.rc { display: flex; align-items: center; gap: 10px; margin: 6px 0; }
+.rc .inf { min-width: 6.5em; font-weight: 600; color: var(--secondary); }
+.rc .inf .r { background: #ece6da; border-radius: 6px; padding: 1px 6px; }
+.rc .inf .fin { color: #8a8a8a; font-weight: 400; margin-left: 1px; }
+.rc .flecha { color: #999; }
+.rc .nueva { background: var(--accent); color: var(--secondary); border-radius: 6px; padding: 1px 9px; font-weight: 700; }
+@media print {
+    body > *:not(dialog#conj) { display: none !important; }
+    body { margin: 0; padding: 0; max-width: none; background: #fff; }
+    dialog#conj { position: static; display: block; width: 100%; max-width: none; max-height: none;
+        overflow: visible; border: 0; padding: 0; }
+    dialog#conj .no-print { display: none !important; }
+    dialog#conj table.conj { break-inside: avoid; }
+}
+.volver-indice { display: block; text-align: center; margin: 30px 0 10px;
+    color: var(--secondary); font-size: .9rem; }
+.ejercicio { background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
+.ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
+    margin: 0 0 14px; }
+.item { padding: 8px 0; border-top: 1px dashed var(--line); }
+.item:first-of-type { border-top: none; }
+.item-row + .item-row { margin-top: 4px; }
+.item-row .blank, .item-row select.blank { vertical-align: middle; }
+.blank { font-family: var(--font-body); padding: 2px 2px; border: none;
+    border-bottom: 2px solid var(--secondary); border-radius: 0;
+    background: transparent; width: 150px; max-width: 100%; font-size: .95rem; }
+select.blank { width: auto; min-width: 90px; background: transparent; cursor: pointer; }
+.blank-wide { display: block; width: 100%; margin-top: 4px; }
+.blank.ok { border-bottom-color: var(--ok); background: transparent; }
+.blank.bad { border-bottom-color: var(--bad); background: transparent; }
+.hint-paren { font-style: italic; }
+.alt-hint { display: block; font-size: .78rem;
+    color: var(--secondary); opacity: .85; margin-top: 2px; }
+.group-controls { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--line);
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+button { font-family: var(--font-body); background: var(--primary); color: #fff;
+    border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: .85rem; }
+button.ghost { background: transparent; color: var(--secondary); text-decoration: underline; padding: 8px 4px; }
+button:hover { opacity: .9; }
+.group-feedback { font-weight: 600; font-size: .9rem; display: none; margin-left: auto; }
+.group-feedback.correct { color: var(--ok); }
+.group-feedback.wrong { color: var(--bad); }
+/* soporte gráfico */
+.directory { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.plate { text-align: center; padding: 10px 6px; border: 1px solid var(--line);
+    border-radius: 6px; background: #fff; }
+.plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
+.plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
+@media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.clocks { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.clock { margin: 0; text-align: center; }
+.clock svg { width: 100%; max-width: 110px; }
+.clock-face { fill: #fff; stroke: var(--secondary); stroke-width: 2; }
+.clock line { stroke: var(--secondary); stroke-width: 1.5; stroke-linecap: round; }
+.clock .clock-h { stroke: var(--primary); stroke-width: 4; }
+.clock .clock-m { stroke: var(--primary); stroke-width: 2.5; }
+.clock-dot { fill: var(--primary); }
+.clock figcaption { font-weight: 700; color: var(--secondary); font-size: .85rem; }
+@media (max-width: 620px) { .clocks { grid-template-columns: repeat(2, 1fr); } }
+.scene-list { list-style: none; margin: 0 0 18px; padding: 10px 14px;
+    border: 2px solid var(--secondary); border-radius: 8px; background: #fffdf8; }
+.scene-list li { padding: 4px 0; border-top: 1px dashed var(--line); }
+.scene-list li:first-child { border-top: none; }
+.scene-num { color: var(--secondary); font-weight: 700; }
+.tabla-titulo { font-weight: 700; color: var(--secondary); background: #fffdf8;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 8px 14px;
+    margin-bottom: 18px; }
+.wordbox { display: flex; flex-wrap: wrap; gap: 8px; border: 2px solid var(--secondary);
+    border-radius: 8px; padding: 12px; margin-bottom: 18px; background: #fffdf8; }
+.word-chip { background: #fff; border: 1px solid var(--line); border-radius: 20px;
+    padding: 4px 12px; font-size: .88rem; color: var(--secondary); }
+.ejemplo { background: #f2f7ef; border: 1px solid var(--ok); border-radius: 6px;
+    padding: 8px 12px; margin-bottom: 10px; }
+.ejemplo-tag { display: block; text-align: right; color: var(--ok); font-weight: 700;
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 4px; }
+input.blank-example { color: var(--text); font-weight: 600; border-bottom-color: var(--ok);
+    background: transparent; cursor: default; }
+.page-nav { display: flex; justify-content: space-between; align-items: center;
+    margin: 24px 0; gap: 12px; }
+#page-indicator { font-family: var(--font-heading); color: var(--secondary); font-size: 1rem; }
+button:disabled { opacity: .4; cursor: default; }
+</style>
+</head>
+<body>
+
+<h1>El seis de enero</h1>
+<div class="page" data-page="0" hidden><section class="ejercicio">
+        <p class="enunciado">Write the times using the words in the box and "la" or "las".</p><div class="clocks"><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="73.6" y2="54.2" class="clock-h"/><line x1="50" y1="50" x2="81.2" y2="68.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>1</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="66.2" y2="32.3" class="clock-h"/><line x1="50" y1="50" x2="68.0" y2="81.2" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>2</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="63.8" y2="69.7" class="clock-h"/><line x1="50" y1="50" x2="18.8" y2="32.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>3</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="70.8" y2="38.0" class="clock-h"/><line x1="50" y1="50" x2="50.0" y2="14.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>4</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="26.8" y2="56.2" class="clock-h"/><line x1="50" y1="50" x2="50.0" y2="86.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>5</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="51.0" y2="26.0" class="clock-h"/><line x1="50" y1="50" x2="68.0" y2="18.8" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>6</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="69.0" y2="35.4" class="clock-h"/><line x1="50" y1="50" x2="14.0" y2="50.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>7</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="40.8" y2="27.8" class="clock-h"/><line x1="50" y1="50" x2="86.0" y2="50.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>8</figcaption></figure></div><div class="wordbox"><span class="word-chip">cuatro menos diez</span><span class="word-chip">doce y cinco</span><span class="word-chip">dos</span><span class="word-chip">ocho y media</span><span class="word-chip">once y cuarto</span><span class="word-chip">tres y veinte</span><span class="word-chip">una menos cuarto</span><span class="word-chip">una y veinticinco</span></div>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="las tres y veinte" data-hint="" style="width: 19ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="la una y veinticinco" data-hint="" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="las cuatro menos diez" data-hint="" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="las dos" data-hint="" style="width: 9ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="las ocho y media" data-hint="" style="width: 18ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="las doce y cinco" data-hint="" style="width: 18ch" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="la una menos cuarto" data-hint="" autocomplete="off"></span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="las once y cuarto" data-hint="" style="width: 19ch" autocomplete="off"></span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div><div class="page" data-page="1" hidden><section class="ejercicio">
+        <p class="enunciado">Complete with "el, la, los, las" where necessary. (ø = no article)</p>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Mi cumpleaños es <input type="text" class="blank" data-sol="el" data-hint="" style="width: 4ch" autocomplete="off"> doce de febrero.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank" data-sol="El/Los" data-hint="hint-14" style="width: 5ch" autocomplete="off"> martes tenemos clase de español.</span></div>
+            <span class="alt-hint" id="hint-14" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Normalmente estudiamos por <input type="text" class="blank" data-sol="la" data-hint="" style="width: 4ch" autocomplete="off"> noche.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Felipe se casa <input type="text" class="blank" data-sol="el" data-hint="" style="width: 4ch" autocomplete="off"> martes, <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> trece de julio.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>La fiesta es <input type="text" class="blank" data-sol="el" data-hint="" style="width: 4ch" autocomplete="off"> domingo a <input type="text" class="blank" data-sol="las" data-hint="" style="width: 5ch" autocomplete="off"> siete.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Hoy es <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> jueves, <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> cuatro de <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> octubre.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>El partido es a <input type="text" class="blank" data-sol="las" data-hint="" style="width: 5ch" autocomplete="off"> diez.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Trabajo por <input type="text" class="blank" data-sol="la" data-hint="" style="width: 4ch" autocomplete="off"> tarde y estudio por <input type="text" class="blank" data-sol="la" data-hint="" style="width: 4ch" autocomplete="off"> mañana.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Nací <input type="text" class="blank" data-sol="el" data-hint="" style="width: 4ch" autocomplete="off"> dos de <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> diciembre.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Diana sale siempre <input type="text" class="blank" data-sol="los" data-hint="" style="width: 5ch" autocomplete="off"> sábados.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Tengo vacaciones en <input type="text" class="blank" data-sol="ø" data-hint="" style="width: 4ch" autocomplete="off"> agosto.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Tenemos un examen <input type="text" class="blank" data-sol="el" data-hint="" style="width: 4ch" autocomplete="off"> lunes.</span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div><div class="page" data-page="2" hidden><section class="ejercicio">
+        <p class="enunciado">Complete the sentences.</p>
+        
+        
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(8 horas, día)</em> Duermo <input type="text" class="blank" data-sol="ocho horas al día" data-hint="" style="width: 19ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(2 días, semana)</em> Voy al gimnasio <input type="text" class="blank blank-wide" data-sol="dos días a la semana" data-hint="" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(1 vez, año)</em> Vamos de vacaciones <input type="text" class="blank" data-sol="una vez al año" data-hint="" style="width: 16ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(2 veces, mes)</em> Voy al cine <input type="text" class="blank" data-sol="dos veces al mes" data-hint="" style="width: 18ch" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(1 noche, semana)</em> Salimos <input type="text" class="blank blank-wide" data-sol="una noche a la semana" data-hint="" autocomplete="off">.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><em class="hint-paren">(1 hora, día)</em> Corro <input type="text" class="blank" data-sol="una hora al día" data-hint="" style="width: 17ch" autocomplete="off">.</span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div><div class="page" data-page="3" hidden><section class="ejercicio">
+        <p class="enunciado">Write the prices as in the example.</p><ul class="scene-list"><li><span class="scene-num">1.</span> kiwis: 2 euros / kilo</li><li><span class="scene-num">2.</span> leche: 4 pesos / litro</li><li><span class="scene-num">3.</span> huevos: 2 euros / docena</li><li><span class="scene-num">4.</span> queso: 1 peso / 100 gramos</li></ul>
+        
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span><input type="text" class="blank blank-example" value="Dos euros el kilo" style="width: 19ch" readonly tabindex="-1"> de kiwis.</span></div></div>
+        
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Cuatro pesos el litro" data-hint="" autocomplete="off"> de leche.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Dos euros la docena" data-hint="" autocomplete="off"> de huevos.</span></div>
+            
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Un peso los 100 gramos" data-hint="" autocomplete="off"> de queso.</span></div>
+            
+        </div>
+        
+        <div class="group-controls">
+            <button onclick="checkGroup(this)">Check answers</button>
+            <button class="ghost" onclick="revealGroup(this)">Show solutions</button>
+            <span class="group-feedback"></span>
+        </div>
+    </section></div>
+
+    <div class="page-nav">
+        <button class="ghost" id="btn-prev" onclick="showPage(currentPage - 1)">&larr; Anterior</button>
+        <span id="page-indicator"></span>
+        <button id="btn-next" onclick="showPage(currentPage + 1)">Siguiente &rarr;</button>
+    </div>
+<a class="volver-indice" href="/">&larr; Volver al índice</a>
+<script>
+function norm(s){
+  return (s||'').trim().toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fieldOk(f){
+  const sol = f.getAttribute('data-sol');
+  const val = f.value;
+  if (sol === '\u00f8') return val.trim() === '' || norm(val) === norm('\u00f8');
+  if (sol.includes('/')) return sol.split('/').some(alt => norm(val) === norm(alt));
+  return norm(val) === norm(sol);
+}
+function checkGroup(btn){
+  const section = btn.closest('.ejercicio');
+  let total = 0, correct = 0;
+  section.querySelectorAll('.item').forEach(item => {
+    const fields = item.querySelectorAll('[data-sol]');
+    let itemOk = true;
+    fields.forEach(f => {
+      const ok = fieldOk(f);
+      f.classList.toggle('ok', ok);
+      f.classList.toggle('bad', !ok);
+      total++;
+      if (ok) { correct++; } else { itemOk = false; }
+    });
+    item.dataset.solved = itemOk ? '1' : '0';
+  });
+  const allok = correct === total;
+  const fb = section.querySelector('.group-feedback');
+  fb.textContent = allok ? ('\u2714 All correct! (' + correct + '/' + total + ')')
+                          : ('\u2718 ' + correct + '/' + total + ' correct \u2014 review the marked ones');
+  fb.className = 'group-feedback ' + (allok ? 'correct' : 'wrong');
+  fb.style.display = 'inline';
+}
+function revealGroup(btn){
+  const section = btn.closest('.ejercicio');
+  section.querySelectorAll('[data-sol]').forEach(f => {
+    const sol = f.getAttribute('data-sol');
+    if (f.tagName === 'SELECT') {
+      [...f.options].forEach(o => { if (norm(o.value) === norm(sol)) f.value = o.value; });
+    } else if (sol.includes('/')) {
+      const opciones = sol.split('/');
+      f.value = opciones[0];
+      const hintId = f.getAttribute('data-hint');
+      const hint = hintId ? section.querySelector('#' + hintId) : null;
+      if (hint) {
+        const citadas = opciones.map(o => '"' + o.trim() + '"').join(' or ');
+        hint.textContent = '(' + citadas + ' both accepted)';
+        hint.hidden = false;
+      }
+    } else {
+      f.value = sol;
+    }
+    f.classList.remove('bad'); f.classList.add('ok');
+  });
+}
+let currentPage = 0;
+function showPage(i){
+  const pages = document.querySelectorAll('.page');
+  if (!pages.length) return;
+  currentPage = Math.max(0, Math.min(i, pages.length - 1));
+  pages.forEach((p, idx) => { p.hidden = idx !== currentPage; });
+  const indicator = document.getElementById('page-indicator');
+  if (indicator) indicator.textContent = (currentPage + 1) + ' / ' + pages.length;
+  const prev = document.getElementById('btn-prev');
+  const next = document.getElementById('btn-next');
+  if (prev) prev.disabled = currentPage === 0;
+  if (next) next.disabled = currentPage === pages.length - 1;
+  window.scrollTo(0, 0);
+}
+document.addEventListener('DOMContentLoaded', () => showPage(0));
+</script>
+</body>
+</html>

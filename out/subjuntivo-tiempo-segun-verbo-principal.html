@@ -102,6 +102,18 @@ button:hover { opacity: .9; }
 .plate-name { display: block; font-weight: 600; font-size: .82rem; color: var(--secondary); }
 .plate-floor { display: block; margin-top: 4px; font-size: .95rem; color: var(--primary); font-weight: 700; }
 @media (max-width: 620px) { .directory { grid-template-columns: repeat(2, 1fr); } }
+.clocks { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;
+    border: 2px solid var(--secondary); border-radius: 8px; padding: 10px;
+    margin-bottom: 18px; background: #fffdf8; }
+.clock { margin: 0; text-align: center; }
+.clock svg { width: 100%; max-width: 110px; }
+.clock-face { fill: #fff; stroke: var(--secondary); stroke-width: 2; }
+.clock line { stroke: var(--secondary); stroke-width: 1.5; stroke-linecap: round; }
+.clock .clock-h { stroke: var(--primary); stroke-width: 4; }
+.clock .clock-m { stroke: var(--primary); stroke-width: 2.5; }
+.clock-dot { fill: var(--primary); }
+.clock figcaption { font-weight: 700; color: var(--secondary); font-size: .85rem; }
+@media (max-width: 620px) { .clocks { grid-template-columns: repeat(2, 1fr); } }
 .scene-list { list-style: none; margin: 0 0 18px; padding: 10px 14px;
     border: 2px solid var(--secondary); border-radius: 8px; background: #fffdf8; }
 .scene-list li { padding: 4px 0; border-top: 1px dashed var(--line); }
@@ -204,28 +216,28 @@ button:disabled { opacity: .4; cursor: default; }
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Necesito que conduzcas tú. → Necesitaba que <input type="text" class="blank" data-sol="condujeras/condujeses" data-hint="hint-37" style="width: 12ch" autocomplete="off"> <em class="hint-paren">(conducir, tú)</em>.</span></div>
-            <span class="alt-hint" id="hint-37" hidden></span>
-        </div>
-        <div class="item" data-solved="0">
-            <div class="item-row"><span>Espero que puedas venir. → Esperaba que <input type="text" class="blank" data-sol="pudieras/pudieses" data-hint="hint-38" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(poder, tú)</em> venir.</span></div>
+            <div class="item-row"><span>Necesito que conduzcas tú. → Necesitaba que <input type="text" class="blank" data-sol="condujeras/condujeses" data-hint="hint-38" style="width: 12ch" autocomplete="off"> <em class="hint-paren">(conducir, tú)</em>.</span></div>
             <span class="alt-hint" id="hint-38" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Quiero que veas esa película. → Quería que <input type="text" class="blank" data-sol="vieras/vieses" data-hint="hint-39" style="width: 8ch" autocomplete="off"> <em class="hint-paren">(ver, tú)</em> esa película.</span></div>
+            <div class="item-row"><span>Espero que puedas venir. → Esperaba que <input type="text" class="blank" data-sol="pudieras/pudieses" data-hint="hint-39" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(poder, tú)</em> venir.</span></div>
             <span class="alt-hint" id="hint-39" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Te pido que no te muevas. → Te pedí que no te <input type="text" class="blank" data-sol="movieras/movieses" data-hint="hint-40" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(mover)</em>.</span></div>
+            <div class="item-row"><span>Quiero que veas esa película. → Quería que <input type="text" class="blank" data-sol="vieras/vieses" data-hint="hint-40" style="width: 8ch" autocomplete="off"> <em class="hint-paren">(ver, tú)</em> esa película.</span></div>
             <span class="alt-hint" id="hint-40" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Prefiero que salgamos pronto. → Prefería que <input type="text" class="blank" data-sol="saliéramos/saliésemos" data-hint="hint-41" style="width: 12ch" autocomplete="off"> <em class="hint-paren">(salir, nosotros)</em> pronto.</span></div>
+            <div class="item-row"><span>Te pido que no te muevas. → Te pedí que no te <input type="text" class="blank" data-sol="movieras/movieses" data-hint="hint-41" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(mover)</em>.</span></div>
             <span class="alt-hint" id="hint-41" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Quiero que lo pidas hoy. → Quería que lo <input type="text" class="blank" data-sol="pidieras/pidieses" data-hint="hint-42" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(pedir)</em> ese día.</span></div>
+            <div class="item-row"><span>Prefiero que salgamos pronto. → Prefería que <input type="text" class="blank" data-sol="saliéramos/saliésemos" data-hint="hint-42" style="width: 12ch" autocomplete="off"> <em class="hint-paren">(salir, nosotros)</em> pronto.</span></div>
             <span class="alt-hint" id="hint-42" hidden></span>
+        </div>
+        <div class="item" data-solved="0">
+            <div class="item-row"><span>Quiero que lo pidas hoy. → Quería que lo <input type="text" class="blank" data-sol="pidieras/pidieses" data-hint="hint-43" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(pedir)</em> ese día.</span></div>
+            <span class="alt-hint" id="hint-43" hidden></span>
         </div>
         
         <div class="group-controls">
@@ -243,12 +255,12 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>La semana pasada me pidió que <input type="text" class="blank" data-sol="trajera/trajese" data-hint="hint-43" style="width: 9ch" autocomplete="off"> <em class="hint-paren">(traer, yo)</em> el libro a clase, y lo traje.</span></div>
-            <span class="alt-hint" id="hint-43" hidden></span>
+            <div class="item-row"><span>La semana pasada me pidió que <input type="text" class="blank" data-sol="trajera/trajese" data-hint="hint-44" style="width: 9ch" autocomplete="off"> <em class="hint-paren">(traer, yo)</em> el libro a clase, y lo traje.</span></div>
+            <span class="alt-hint" id="hint-44" hidden></span>
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Ayer quería que <input type="text" class="blank" data-sol="supiéramos/supiésemos" data-hint="hint-44" style="width: 12ch" autocomplete="off"> <em class="hint-paren">(saber, nosotros)</em> cuál era el tema antes de empezar la clase.</span></div>
-            <span class="alt-hint" id="hint-44" hidden></span>
+            <div class="item-row"><span>Ayer quería que <input type="text" class="blank" data-sol="supiéramos/supiésemos" data-hint="hint-45" style="width: 12ch" autocomplete="off"> <em class="hint-paren">(saber, nosotros)</em> cuál era el tema antes de empezar la clase.</span></div>
+            <span class="alt-hint" id="hint-45" hidden></span>
         </div>
         <div class="item" data-solved="0">
             <div class="item-row"><span>Ahora prefiere que le <input type="text" class="blank" data-sol="digamos" data-hint="" style="width: 9ch" autocomplete="off"> <em class="hint-paren">(decir, nosotros)</em> lo que no entendemos.</span></div>
@@ -259,8 +271,8 @@ button:disabled { opacity: .4; cursor: default; }
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span>Mi amiga quería que <input type="text" class="blank" data-sol="fuéramos/fuésemos" data-hint="hint-45" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(ir, nosotras)</em> al cine, pero tenía que estudiar.</span></div>
-            <span class="alt-hint" id="hint-45" hidden></span>
+            <div class="item-row"><span>Mi amiga quería que <input type="text" class="blank" data-sol="fuéramos/fuésemos" data-hint="hint-46" style="width: 10ch" autocomplete="off"> <em class="hint-paren">(ir, nosotras)</em> al cine, pero tenía que estudiar.</span></div>
+            <span class="alt-hint" id="hint-46" hidden></span>
         </div>
         
         <div class="group-controls">
