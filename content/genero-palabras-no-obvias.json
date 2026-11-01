@@ -1,0 +1,175 @@
+{
+  "tema": "genero-palabras-no-obvias",
+  "titulo": "El pan, la carne, el día [BORRADOR SIN REVISAR]",
+  "descripcion_gramatical": "Género de sustantivos cuya terminación no lo indica (excepciones y patrones)",
+  "ejercicios": [
+    {
+      "tipologia": "T5",
+      "enunciado": "Choose the correct article. These words do not show their gender in their ending: you have to learn them.",
+      "items": [
+        {
+          "texto_enunciado": "(El/La) pan de esta panadería está muy bueno.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/La) carne de pollo es más barata.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana es (el/la) día de mi cumpleaños.",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "Me duele (el/la) mano derecha.",
+          "solucion_correcta": [
+            "la"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/La) leche está en la nevera.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "(El/La) sal está en la mesa.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "Tengo (un/una) mapa de Madrid.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "Ella tiene (un/una) foto de su familia.",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "Necesito (un/una) lápiz.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "Me gusta mucho (el/la) noche.",
+          "solucion_correcta": [
+            "la"
+          ]
+        }
+      ]
+    },
+    {
+      "tipologia": "T3",
+      "enunciado": "Complete with *el* or *la*. Look for patterns: *-ma*, *-ión*, *-dad*, days of the week.",
+      "items": [
+        {
+          "texto_enunciado": "_____ idioma más hablado del mundo es el inglés.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ tema de la conversación fue el trabajo.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ problema es que no tengo tiempo.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ lección de hoy es difícil.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ ciudad de Valencia es muy bonita.",
+          "solucion_correcta": [
+            "La"
+          ]
+        },
+        {
+          "texto_enunciado": "Nos vemos _____ lunes.",
+          "solucion_correcta": [
+            "el"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ viaje a Suecia fue largo.",
+          "solucion_correcta": [
+            "El"
+          ]
+        },
+        {
+          "texto_enunciado": "_____ canción que escucho es de un grupo español.",
+          "solucion_correcta": [
+            "La"
+          ]
+        }
+      ]
+    },
+    {
+      "tipologia": "T3",
+      "enunciado": "Complete with *un* or *una*.",
+      "items": [
+        {
+          "texto_enunciado": "Hay _____ árbol grande en el parque.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "Quiero _____ pan con tomate.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "Mi hermano tiene _____ moto roja.",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "Me he roto _____ mano.",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "Ella tiene _____ nariz pequeña.",
+          "solucion_correcta": [
+            "una"
+          ]
+        },
+        {
+          "texto_enunciado": "Mañana tengo _____ día libre.",
+          "solucion_correcta": [
+            "un"
+          ]
+        },
+        {
+          "texto_enunciado": "Este es _____ idioma difícil.",
+          "solucion_correcta": [
+            "un"
+          ]
+        }
+      ]
+    }
+  ]
+}

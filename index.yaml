@@ -320,3 +320,23 @@
   ejercicios_permitidos: [T4, T8]
   tiempos_permitidos: ["verbos reflexivos", "pretérito perfecto simple"]
   grafico: none
+
+- tema: cuanto-cuantos
+  titulo: "¿Cuánto pan? ¿Cuántos días? [BORRADOR SIN REVISAR]"
+  descripcion_gramatical: "Interrogativos cuánto, cuánta, cuántos, cuántas"
+  unidad_libro: null
+  forma_verbal: null
+  depende_de: [numero-plural]
+  ejercicios_permitidos: [T5, T3, T4]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none
+
+- tema: genero-palabras-no-obvias
+  titulo: "El pan, la carne, el día [BORRADOR SIN REVISAR]"
+  descripcion_gramatical: "Género de sustantivos con terminación no indicativa"
+  unidad_libro: null
+  forma_verbal: null
+  depende_de: [clasificacion-genero-terminaciones, articulo-determinado]
+  ejercicios_permitidos: [T5, T3]
+  tiempos_permitidos: ["presente de indicativo"]
+  grafico: none

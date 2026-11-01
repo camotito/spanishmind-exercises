@@ -1,0 +1,169 @@
+{
+  "tema": "cuanto-cuantos",
+  "titulo": "¿Cuánto pan? ¿Cuántos días? [BORRADOR SIN REVISAR]",
+  "descripcion_gramatical": "Interrogativos cuánto, cuánta, cuántos, cuántas: concordancia y uso adverbial",
+  "ejercicios": [
+    {
+      "tipologia": "T5",
+      "enunciado": "Choose the correct form. Look at the noun that follows.",
+      "items": [
+        {
+          "texto_enunciado": "¿(Cuánto/Cuántos) pan necesitamos para la cena?",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Cuánto/Cuántos) días te quedas en Madrid?",
+          "solucion_correcta": [
+            "Cuántos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Cuánta/Cuántas) leche queda en la nevera?",
+          "solucion_correcta": [
+            "Cuánta"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Cuánta/Cuántas) personas vienen a la fiesta?",
+          "solucion_correcta": [
+            "Cuántas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Cuánto/Cuántos) tiempo tienes?",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Cuánta/Cuántas) horas duerme tu hijo?",
+          "solucion_correcta": [
+            "Cuántas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Cuánto/Cuántos) dinero llevas?",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "¿(Cuánta/Cuántas) gente hay en la plaza?",
+          "solucion_correcta": [
+            "Cuánta"
+          ]
+        }
+      ]
+    },
+    {
+      "tipologia": "T3",
+      "enunciado": "Complete with *cuánto*, *cuánta*, *cuántos* or *cuántas*. Careful: when there is no noun after it, *cuánto* does not change.",
+      "items": [
+        {
+          "texto_enunciado": "—¿_____ cuesta este queso? —Seis euros el kilo.",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ manzanas quieres? —Tres.",
+          "solucion_correcta": [
+            "Cuántas"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ azúcar le pones al café? —Una cucharada.",
+          "solucion_correcta": [
+            "Cuánta"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ libros has leído este año? —Doce.",
+          "solucion_correcta": [
+            "Cuántos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ trabajas los sábados? —Solo por la mañana.",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ agua bebes al día? —Dos litros.",
+          "solucion_correcta": [
+            "Cuánta"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ años tiene tu abuela? —Ochenta y dos.",
+          "solucion_correcta": [
+            "Cuántos"
+          ]
+        },
+        {
+          "texto_enunciado": "—¿_____ sillas hay en la sala? —Veinte.",
+          "solucion_correcta": [
+            "Cuántas"
+          ]
+        }
+      ]
+    },
+    {
+      "tipologia": "T4",
+      "enunciado": "Translate the words in brackets into Spanish.",
+      "items": [
+        {
+          "texto_enunciado": "¿_____ (How much) sal pongo?",
+          "solucion_correcta": [
+            "Cuánta"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ (How many) maletas llevas?",
+          "solucion_correcta": [
+            "Cuántas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ (How much) pesa tu maleta?",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ (How many) días hay en febrero?",
+          "solucion_correcta": [
+            "Cuántos"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ (How much) fruta comes al día?",
+          "solucion_correcta": [
+            "Cuánta"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ (How much) cuesta una cerveza?",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ (How many) personas viven en tu casa?",
+          "solucion_correcta": [
+            "Cuántas"
+          ]
+        },
+        {
+          "texto_enunciado": "¿_____ (How much) tiempo llevas en Suecia?",
+          "solucion_correcta": [
+            "Cuánto"
+          ]
+        }
+      ]
+    }
+  ]
+}
