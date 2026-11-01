@@ -32,6 +32,9 @@ Ver `README.md` para el resumen corto.
 
 - Las reglas de pedagogía y de vocabulario gramatical (terminología mínima, Thinking Method, formato de equivalencias con `=` y sublistas) viven en `~/Documents/Proyectos/contenido-clases/CLAUDE.md`. No se duplican aquí: léelas antes de escribir o editar una hoja `*.teoria.html`.
 - La fuente de una teoría se edita en Markdown en `contenido-clases/` y se convierte a `content/<tema>.teoria.html`.
+- **De dónde sale la teoría de una unidad (regla de Javi, 1 nov 2026).** Fuente principal: la página de teoría del libro. Muchas unidades no tienen la teoría digitalizada: está solo como escaneo (`libro/libro-rojo-NNN.png`). La página de teoría de la unidad N es `pagina` en `libro_pipeline/mapa_unidades.json` (la de ejercicios es `pagina_ejercicios`), y el escaneo es esa página + 1 (unidad 9: página 26, `libro-rojo-027.png`). Se lee la imagen, no se asume por el enunciado.
+- Después se combina con los apuntes y ejemplos propios de Javi en `contenido-clases/` (buscar primero ahí). Solo lo que falte tras las dos fuentes lo escribe la IA, avisando de que es nuevo. Ningún texto de teoría se escribe sin haber mirado antes el libro.
+- Luego se aplican las reglas de estilo de `contenido-clases/CLAUDE.md` (inglés por defecto, terminología mínima, `=`, sin explicar lo que funciona como en inglés), se adapta al español de España y se revisa con Gemini o GPT.
 
 ## Borradores
 
