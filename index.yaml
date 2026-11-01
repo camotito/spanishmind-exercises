@@ -102,7 +102,7 @@
   grafico: map
 
 - tema: articulo-tiempo-cantidad
-  titulo: "A las tres, tres euros el kilo"
+  titulo: "Horas, días y precios"
   descripcion_gramatical: "Artículo determinado con expresiones temporales y precio"
   unidad_libro: 9
   forma_verbal: null
@@ -322,7 +322,7 @@
   grafico: none
 
 - tema: cuanto-cuantos
-  titulo: "¿Cuánto pan? ¿Cuántos días? [BORRADOR SIN REVISAR]"
+  titulo: "Cuánto y cuántos [BORRADOR SIN REVISAR]"
   descripcion_gramatical: "Interrogativos cuánto, cuánta, cuántos, cuántas"
   unidad_libro: null
   forma_verbal: null
@@ -332,7 +332,7 @@
   grafico: none
 
 - tema: genero-palabras-no-obvias
-  titulo: "El pan, la carne, el día [BORRADOR SIN REVISAR]"
+  titulo: "Género de palabras sin pista [BORRADOR SIN REVISAR]"
   descripcion_gramatical: "Género de sustantivos con terminación no indicativa"
   unidad_libro: null
   forma_verbal: null
