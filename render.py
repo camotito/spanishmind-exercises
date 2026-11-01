@@ -138,6 +138,7 @@ button.conj-print svg, a.conj-print svg { width: 18px; height: 18px; flex: none;
 a.conj-print { display: inline-flex; align-items: center; gap: 8px; margin: 10px 0 0 8px; padding: 8px 16px; border-radius: 999px;
     background: var(--secondary); color: #fff; font-weight: 600; font-size: .9rem; text-decoration: none; }
 @media (hover: none) and (pointer: coarse) { .solo-escritorio { display: none !important; } }
+@media (max-width: 820px) { .solo-escritorio { display: none !important; } }
 table.conj { border-collapse: collapse; width: 100%; margin: 10px 0 4px; font-size: .95rem; }
 table.conj th, table.conj td { padding: 5px 10px; border-bottom: 1px solid var(--line); text-align: left; }
 table.conj thead th { color: var(--secondary); border-bottom: 2px solid var(--secondary); vertical-align: bottom; }

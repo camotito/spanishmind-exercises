@@ -47,8 +47,9 @@ Objetivo (Javi, 1 nov 2026): que el alumno no tenga fricción visual ni mental y
 1. Renderizar y ver las páginas en local, con capturas a 360 px de ancho, de cada página de ejercicios y de la teoría.
 2. Pasar `herramientas/audit_movil.py` (instrucciones en su cabecera): sin desbordes, campos de 16 px o más, objetivos táctiles de 40 px o más, sin errores de consola, en 320, 360, 375 y 393 px.
 3. Resolver cada ejercicio de punta a punta en móvil simulado (respuestas correctas, incorrectas, Check, Show solutions) y mirar que todo se entiende sin leer instrucciones.
-4. Buscar fricción mental, no solo visual: huecos que no se sabe a qué corresponden (numerar si hay gráfico), enunciados que piden algo que no se puede teclear, palabras gramaticales, textos que se pueden quitar.
-5. Repetir 1 a 4 hasta no encontrar nada. No se puede probar Safari de iPhone en este sistema: lo que no se pueda comprobar, decirlo.
+4. Comprobar el conocimiento previo: ningún ejercicio ni ejemplo de teoría usa gramática que el alumno aún no ha visto (lo que cubren las unidades de `depende_de`, más la progresión del curso). En concreto, sin *nosotros*, sin verbos reflexivos y sin pasados hasta que el curso los introduzca. Regla y fuentes en `contenido-clases/CLAUDE.md` ("Solo gramática ya vista"). Si un ítem del libro usa algo no visto, se cambia por otro que no lo use.
+5. Buscar fricción mental, no solo visual: huecos que no se sabe a qué corresponden (numerar si hay gráfico), enunciados que piden algo que no se puede teclear, palabras gramaticales, textos que se pueden quitar.
+6. Repetir 1 a 5 hasta no encontrar nada. No se puede probar Safari de iPhone en este sistema: lo que no se pueda comprobar, decirlo.
 
 ## Interfaz de teoría
 

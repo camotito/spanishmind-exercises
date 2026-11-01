@@ -128,19 +128,19 @@
           ]
         },
         {
-          "texto_enunciado": "_____ martes tenemos clase de español.",
+          "texto_enunciado": "_____ martes tengo clase de español.",
           "solucion_correcta": [
             "El/Los"
           ]
         },
         {
-          "texto_enunciado": "Normalmente estudiamos por _____ noche.",
+          "texto_enunciado": "Normalmente estudio por _____ noche.",
           "solucion_correcta": [
             "la"
           ]
         },
         {
-          "texto_enunciado": "Felipe se casa _____ martes, _____ trece de julio.",
+          "texto_enunciado": "Felipe viaja _____ martes, _____ trece de julio.",
           "solucion_correcta": [
             "el",
             "ø"
@@ -175,7 +175,7 @@
           ]
         },
         {
-          "texto_enunciado": "Nací _____ dos de _____ diciembre.",
+          "texto_enunciado": "El examen es _____ dos de _____ diciembre.",
           "solucion_correcta": [
             "el",
             "ø"
@@ -194,7 +194,7 @@
           ]
         },
         {
-          "texto_enunciado": "Tenemos un examen _____ lunes.",
+          "texto_enunciado": "Tengo un examen _____ lunes.",
           "solucion_correcta": [
             "el"
           ]
@@ -219,7 +219,7 @@
           ]
         },
         {
-          "texto_enunciado": "(1 vez, año) Vamos de vacaciones _____.",
+          "texto_enunciado": "(1 vez, año) Voy de vacaciones _____.",
           "solucion_correcta": [
             "una vez al año"
           ]
@@ -231,7 +231,7 @@
           ]
         },
         {
-          "texto_enunciado": "(1 noche, semana) Salimos _____.",
+          "texto_enunciado": "(1 noche, semana) Salgo _____.",
           "solucion_correcta": [
             "una noche a la semana"
           ]
