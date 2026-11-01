@@ -113,7 +113,8 @@
           }
         ]
       },
-      "grafico_necesario": true
+      "grafico_necesario": true,
+      "numerar_items": true
     },
     {
       "subejercicio": "9.2",
@@ -302,7 +303,8 @@
           }
         ]
       },
-      "grafico_necesario": true
+      "grafico_necesario": true,
+      "numerar_items": true
     }
   ]
 }

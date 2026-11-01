@@ -70,6 +70,9 @@ dialog.conj p { margin: .5em 0; }
     border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
 .ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
     margin: 0 0 14px; }
+.item-line { display: flex; gap: 10px; align-items: baseline; }
+.item-n { color: var(--secondary); font-weight: 700; min-width: 1.6em; }
+.item-rows { flex: 1; min-width: 0; }
 .item { padding: 8px 0; border-top: 1px dashed var(--line); }
 .item:first-of-type { border-top: none; }
 .item-row + .item-row { margin-top: 4px; }
@@ -140,6 +143,109 @@ button:disabled { opacity: .4; cursor: default; }
 </head>
 <body>
 
+<button class="ghost btn-teoria" onclick="document.getElementById('teoria').showModal()">&#128214; Theory</button>
+<dialog id="teoria" class="teoria">
+<h2>The article with time, days and prices</h2>
+
+<h3>What time is it? Es la una, son las dos</h3>
+<p>The question is <b>¿Qué hora es?</b> / <i>What time is it?</i></p>
+<p><b>La hora</b> = <i>the hour</i> (think <i>horology</i>). Spanish says "it is the hour two": the word <i>hora</i> is understood, and it is feminine, so the article is <b>la</b> or <b>las</b>.</p>
+<ul>
+<li><b>Es la una.</b> / <i>It's one o'clock.</i> (one hour: singular)</li>
+<li><b>Son las dos.</b> / <i>It's two o'clock.</i> (more than one: plural)</li>
+<li><b>Son las ocho.</b> / <i>It's eight o'clock.</i></li>
+</ul>
+<p>Only <b>la una</b> is singular. Every other hour is <b>las</b>.</p>
+
+<h3>Minutes: y and menos</h3>
+<p><b>Y</b> = <i>and</i>. <b>Menos</b> = <i>minus</i>. The minutes are added to the hour or taken away from it.</p>
+<ul>
+<li><b>Son las tres y veinte.</b> / <i>It's three and twenty (3:20).</i></li>
+<li><b>Es la una y veinticinco.</b> / <i>It's one and twenty-five (1:25).</i></li>
+<li><b>Son las cuatro menos diez.</b> / <i>It's four minus ten (3:50).</i></li>
+</ul>
+<p>Two times have their own word:</p>
+<ul>
+<li><b>y cuarto</b> = <i>and a quarter</i> (think <i>quart</i>): <b>Son las once y cuarto.</b> (11:15)</li>
+<li><b>y media</b> = <i>and half</i>: <b>Son las ocho y media.</b> (8:30)</li>
+</ul>
+<p>After half past, Spanish speakers usually count back to the next hour with <b>menos</b>: <b>Es la una menos cuarto.</b> (12:45)</p>
+
+<h3>At what time? A la una, a las tres</h3>
+<p><b>¿A qué hora?</b> / <i>At what time?</i> The answer uses <b>a</b> (<i>at</i>) and keeps <b>la / las</b>.</p>
+<ul>
+<li><b>La fiesta es a las nueve.</b> / <i>The party is at nine.</i></li>
+<li><b>El partido es a las diez.</b> / <i>The match is at ten.</i></li>
+<li><b>Nos vemos a la una.</b> / <i>We'll see each other at one.</i></li>
+</ul>
+<p>Compare: <b>Son las tres</b> = <i>It is three</i>. <b>A las tres</b> = <i>At three</i>.</p>
+<p>✗ <b>en las tres</b>, ✗ <b>a tres</b>. ✓ <b>a las tres</b>.</p>
+
+<h3>Morning, afternoon, night</h3>
+<p>Spanish speakers talk in 12 hours and add the part of the day.</p>
+<ul>
+<li><b>las siete de la mañana</b> / <i>7 in the morning</i></li>
+<li><b>las tres de la tarde</b> / <i>3 in the afternoon</i></li>
+<li><b>las diez de la noche</b> / <i>10 at night</i></li>
+</ul>
+<p>To say <i>in the morning</i> as a habit, use <b>por</b>: <b>por la mañana</b>, <b>por la tarde</b>, <b>por la noche</b>. They always have <b>la</b>.</p>
+<ul>
+<li><b>Normalmente estudiamos por la noche.</b> / <i>We usually study at night.</i></li>
+<li><b>Trabajo por la tarde.</b> / <i>I work in the afternoon.</i></li>
+</ul>
+
+<h3>Days: el lunes, los lunes</h3>
+<p>Spanish has no word for <i>on</i> with days. It uses the article.</p>
+<ul>
+<li><b>el</b> = one particular day: <b>Tenemos un examen el lunes.</b> / <i>We have an exam on Monday.</i></li>
+<li><b>los</b> = every week: <b>Diana sale los sábados.</b> / <i>Diana goes out on Saturdays.</i></li>
+</ul>
+<p>Monday to Friday do not change in the plural, only the article does: <b>el martes</b>, <b>los martes</b>. <b>El martes tenemos clase</b> and <b>Los martes tenemos clase</b> are both correct.</p>
+<p>Saturday and Sunday add <b>-s</b>: <b>el sábado</b>, <b>los sábados</b>; <b>el domingo</b>, <b>los domingos</b>.</p>
+<p>✗ <b>en lunes</b>. ✓ <b>el lunes</b>.</p>
+
+<h3>Dates: el doce de febrero</h3>
+<p>The day of the month takes <b>el</b>. The month does not take an article.</p>
+<ul>
+<li><b>Mi cumpleaños es el doce de febrero.</b> / <i>My birthday is on the 12th of February.</i></li>
+<li><b>Nací el dos de diciembre.</b> / <i>I was born on the 2nd of December.</i></li>
+<li><b>Tengo vacaciones en agosto.</b> / <i>I have a holiday in August.</i></li>
+</ul>
+<p>With a day and a date together, the article goes before the day only: <b>Felipe se casa el martes 13 de julio.</b></p>
+
+<h3>No article: hoy es, mañana es</h3>
+<p>When you say what day today is, there is no article.</p>
+<ul>
+<li><b>Hoy es jueves, cuatro de octubre.</b> / <i>Today is Thursday, 4th October.</i></li>
+<li><b>Mañana es sábado.</b> / <i>Tomorrow is Saturday.</i></li>
+</ul>
+<p>Compare: <b>Hoy es jueves</b> (what day it is) and <b>La reunión es el jueves</b> (when something happens).</p>
+
+<h3>How often: al día, a la semana</h3>
+<p><b>A</b> + the article means <i>per</i>. Literally, <b>dos veces a la semana</b> = <i>twice at the week</i>.</p>
+<ul>
+<li><b>Duermo ocho horas al día.</b> / <i>I sleep eight hours a day.</i></li>
+<li><b>Voy al gimnasio dos días a la semana.</b> / <i>I go to the gym two days a week.</i></li>
+<li><b>Vamos de vacaciones una vez al año.</b> / <i>We go on holiday once a year.</i></li>
+</ul>
+<p><b>A + el</b> always becomes <b>al</b>: <b>al día</b>, <b>al mes</b>, <b>al año</b>. With <b>la</b> nothing changes: <b>a la semana</b>.</p>
+
+<h3>Prices: el kilo, la docena</h3>
+<p>For <i>per</i> with prices and measures, Spanish uses just the article, with no <b>a</b>.</p>
+<ul>
+<li><b>Dos euros el kilo.</b> / <i>Two euros a kilo.</i> (lit. two euros the kilo)</li>
+<li><b>Cuatro pesos el litro.</b> / <i>Four pesos a litre.</i></li>
+<li><b>Dos euros la docena.</b> / <i>Two euros a dozen.</i></li>
+<li><b>Un peso los cien gramos.</b> / <i>One peso per 100 grams.</i></li>
+</ul>
+<p>The article agrees with the word that follows: <b>el kilo</b>, <b>el litro</b>, <b>la docena</b>, <b>los cien gramos</b>.</p>
+
+<h3>Heads-up</h3>
+<p>Written in numbers, an hour is usually <b>7:30</b> or <b>19:30</b>, but when speaking, 12 hours with <b>de la tarde</b> is much more common than <b>las diecinueve</b>.</p>
+<p>Timetables, trains and TV schedules are the exception: there, the 24-hour clock is normal.</p>
+
+<button class="teoria-cerrar" onclick="document.getElementById('teoria').close()">&larr; Back to the exercises</button>
+</dialog>
 <h1>El seis de enero</h1>
 <div class="page" data-page="0" hidden><section class="ejercicio">
         <p class="enunciado">Write the times using the words in the box and "la" or "las".</p><div class="clocks"><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="73.6" y2="54.2" class="clock-h"/><line x1="50" y1="50" x2="81.2" y2="68.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>1</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="66.2" y2="32.3" class="clock-h"/><line x1="50" y1="50" x2="68.0" y2="81.2" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>2</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="63.8" y2="69.7" class="clock-h"/><line x1="50" y1="50" x2="18.8" y2="32.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>3</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="70.8" y2="38.0" class="clock-h"/><line x1="50" y1="50" x2="50.0" y2="14.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>4</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="26.8" y2="56.2" class="clock-h"/><line x1="50" y1="50" x2="50.0" y2="86.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>5</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="51.0" y2="26.0" class="clock-h"/><line x1="50" y1="50" x2="68.0" y2="18.8" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>6</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="69.0" y2="35.4" class="clock-h"/><line x1="50" y1="50" x2="14.0" y2="50.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>7</figcaption></figure><figure class="clock"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" class="clock-face"/><line x1="50.0" y1="10.0" x2="50.0" y2="4.0"/><line x1="70.0" y1="15.4" x2="73.0" y2="10.2"/><line x1="84.6" y1="30.0" x2="89.8" y2="27.0"/><line x1="90.0" y1="50.0" x2="96.0" y2="50.0"/><line x1="84.6" y1="70.0" x2="89.8" y2="73.0"/><line x1="70.0" y1="84.6" x2="73.0" y2="89.8"/><line x1="50.0" y1="90.0" x2="50.0" y2="96.0"/><line x1="30.0" y1="84.6" x2="27.0" y2="89.8"/><line x1="15.4" y1="70.0" x2="10.2" y2="73.0"/><line x1="10.0" y1="50.0" x2="4.0" y2="50.0"/><line x1="15.4" y1="30.0" x2="10.2" y2="27.0"/><line x1="30.0" y1="15.4" x2="27.0" y2="10.2"/><line x1="50" y1="50" x2="40.8" y2="27.8" class="clock-h"/><line x1="50" y1="50" x2="86.0" y2="50.0" class="clock-m"/><circle cx="50" cy="50" r="2.5" class="clock-dot"/></svg><figcaption>8</figcaption></figure></div><div class="wordbox"><span class="word-chip">cuatro menos diez</span><span class="word-chip">doce y cinco</span><span class="word-chip">dos</span><span class="word-chip">ocho y media</span><span class="word-chip">once y cuarto</span><span class="word-chip">tres y veinte</span><span class="word-chip">una menos cuarto</span><span class="word-chip">una y veinticinco</span></div>
@@ -147,35 +253,35 @@ button:disabled { opacity: .4; cursor: default; }
         
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank" data-sol="las tres y veinte" data-hint="" style="width: 19ch" autocomplete="off"></span></div>
+            <div class="item-line"><span class="item-n">1.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="las tres y veinte" data-hint="" style="width: 19ch" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="la una y veinticinco" data-hint="" autocomplete="off"></span></div>
+            <div class="item-line"><span class="item-n">2.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="la una y veinticinco" data-hint="" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="las cuatro menos diez" data-hint="" autocomplete="off"></span></div>
+            <div class="item-line"><span class="item-n">3.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="las cuatro menos diez" data-hint="" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank" data-sol="las dos" data-hint="" style="width: 9ch" autocomplete="off"></span></div>
+            <div class="item-line"><span class="item-n">4.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="las dos" data-hint="" style="width: 9ch" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank" data-sol="las ocho y media" data-hint="" style="width: 18ch" autocomplete="off"></span></div>
+            <div class="item-line"><span class="item-n">5.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="las ocho y media" data-hint="" style="width: 18ch" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank" data-sol="las doce y cinco" data-hint="" style="width: 18ch" autocomplete="off"></span></div>
+            <div class="item-line"><span class="item-n">6.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="las doce y cinco" data-hint="" style="width: 18ch" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="la una menos cuarto" data-hint="" autocomplete="off"></span></div>
+            <div class="item-line"><span class="item-n">7.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="la una menos cuarto" data-hint="" autocomplete="off"></span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank" data-sol="las once y cuarto" data-hint="" style="width: 19ch" autocomplete="off"></span></div>
+            <div class="item-line"><span class="item-n">8.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank" data-sol="las once y cuarto" data-hint="" style="width: 19ch" autocomplete="off"></span></div></div></div>
             
         </div>
         
@@ -281,18 +387,18 @@ button:disabled { opacity: .4; cursor: default; }
     </section></div><div class="page" data-page="3" hidden><section class="ejercicio">
         <p class="enunciado">Write the prices as in the example.</p><ul class="scene-list"><li><span class="scene-num">1.</span> kiwis: 2 euros / kilo</li><li><span class="scene-num">2.</span> leche: 4 pesos / litro</li><li><span class="scene-num">3.</span> huevos: 2 euros / docena</li><li><span class="scene-num">4.</span> queso: 1 peso / 100 gramos</li></ul>
         
-        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-row"><span><input type="text" class="blank blank-example" value="Dos euros el kilo" style="width: 19ch" readonly tabindex="-1"> de kiwis.</span></div></div>
+        <div class="ejemplo"><span class="ejemplo-tag">Example</span><div class="item-line"><span class="item-n">1.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-example" value="Dos euros el kilo" style="width: 19ch" readonly tabindex="-1"> de kiwis.</span></div></div></div></div>
         
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Cuatro pesos el litro" data-hint="" autocomplete="off"> de leche.</span></div>
+            <div class="item-line"><span class="item-n">2.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Cuatro pesos el litro" data-hint="" autocomplete="off"> de leche.</span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Dos euros la docena" data-hint="" autocomplete="off"> de huevos.</span></div>
+            <div class="item-line"><span class="item-n">3.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Dos euros la docena" data-hint="" autocomplete="off"> de huevos.</span></div></div></div>
             
         </div>
         <div class="item" data-solved="0">
-            <div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Un peso los 100 gramos" data-hint="" autocomplete="off"> de queso.</span></div>
+            <div class="item-line"><span class="item-n">4.</span><div class="item-rows"><div class="item-row"><span><input type="text" class="blank blank-wide" data-sol="Un peso los 100 gramos" data-hint="" autocomplete="off"> de queso.</span></div></div></div>
             
         </div>
         

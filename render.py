@@ -166,6 +166,9 @@ dialog.conj p { margin: .5em 0; }
     border-radius: 10px; padding: 20px 22px; margin: 24px 0; }
 .ejercicio > .enunciado { font-weight: 600; color: var(--secondary);
     margin: 0 0 14px; }
+.item-line { display: flex; gap: 10px; align-items: baseline; }
+.item-n { color: var(--secondary); font-weight: 700; min-width: 1.6em; }
+.item-rows { flex: 1; min-width: 0; }
 .item { padding: 8px 0; border-top: 1px dashed var(--line); }
 .item:first-of-type { border-top: none; }
 .item-row + .item-row { margin-top: 4px; }
@@ -454,7 +457,7 @@ GRAFICO_RENDERERS = {
 DIALOGO_RE = re.compile(r"(?=–)")
 
 
-def render_item(n, item):
+def render_item(n, item, numerar=False):
     body, nw, hint_ids = render_widgets(item["texto_enunciado"], item["solucion_correcta"])
     ns = len(item["solucion_correcta"])
     if nw != ns:
@@ -463,6 +466,10 @@ def render_item(n, item):
         )
     lines = [l for l in DIALOGO_RE.split(body) if l.strip()] or [body]
     rows = "".join(f'<div class="item-row"><span>{line}</span></div>' for line in lines)
+    if numerar:
+        # "numerar_items": el item corresponde a un elemento numerado del grafico
+        # (p.ej. el reloj 3), asi que se pinta su numero delante de la linea.
+        rows = f'<div class="item-line"><span class="item-n">{n}.</span><div class="item-rows">{rows}</div></div>'
     # las notas "(x or y both accepted)" van DESPUES de toda la frase del item,
     # no pegadas al hueco -- por eso se generan aparte y no dentro de `rows`.
     hints = "".join(f'<span class="alt-hint" id="{hid}" hidden></span>' for hid in hint_ids)
@@ -473,7 +480,7 @@ def render_item(n, item):
         </div>"""
 
 
-def render_ejemplo(item):
+def render_ejemplo(item, n=None):
     """El libro imprime el primer item de cada bloque de huecos ya resuelto,
     como modelo (en cursiva) -- lo mostramos completado y no interactivo en
     vez de como un hueco mas (ver ejemplos/*: solucion_correcta ya trae la
@@ -507,6 +514,8 @@ def render_ejemplo(item):
         f'<div class="item-row"><span>{line}</span></div>'
         for line in lines
     )
+    if n is not None:
+        rows = f'<div class="item-line"><span class="item-n">{n}.</span><div class="item-rows">{rows}</div></div>'
     return f'<div class="ejemplo"><span class="ejemplo-tag">Example</span>{rows}</div>'
 
 
@@ -573,6 +582,7 @@ def render_ejercicio_paginas(ej, granularidad="ejercicio"):
     # explicitamente ("como en el ejemplo" / "as in the example(s)", fiel a
     # la traduccion del libro) o si se fuerza a mano con "forzar_ejemplo"
     # (p.ej. desde el dashboard) para casos que lo necesitan igual.
+    numerar = bool(ej.get("numerar_items"))
     hay_ejemplo = len(items_data) >= 2 and (
         ej.get("forzar_ejemplo") or re.search(r"example", ej["enunciado"], re.I)
     )
@@ -580,8 +590,9 @@ def render_ejercicio_paginas(ej, granularidad="ejercicio"):
         if banco_por_item:
             ejemplo_wordbox = render_wordbox(banco[0])
             banco = banco[1:]
-        ejemplo = render_ejemplo(items_data[0])
+        ejemplo = render_ejemplo(items_data[0], 1 if numerar else None)
         items_data = items_data[1:]
+    inicio = 1 if hay_ejemplo else 0
 
     header = f'<p class="enunciado">{render_enunciado(ej["enunciado"])}</p>{grafico}{wordbox}'
 
@@ -593,18 +604,18 @@ def render_ejercicio_paginas(ej, granularidad="ejercicio"):
                 piezas += [ejemplo_wordbox, ejemplo]
             if banco_por_item:
                 piezas.append(render_wordbox(banco[i]))
-            piezas.append(render_item(i + 1, it))
+            piezas.append(render_item(i + 1 + inicio, it, numerar))
             piezas.append(GROUP_CONTROLS)
             paginas.append(f'<section class="ejercicio">{"".join(piezas)}</section>')
         return paginas or [f'<section class="ejercicio">{header}{GROUP_CONTROLS}</section>']
 
     if banco_por_item:
         items = "".join(
-            render_wordbox(banco[i]) + render_item(i + 1, it)
+            render_wordbox(banco[i]) + render_item(i + 1 + inicio, it, numerar)
             for i, it in enumerate(items_data)
         )
     else:
-        items = "".join(render_item(i, it) for i, it in enumerate(items_data, start=1))
+        items = "".join(render_item(i, it, numerar) for i, it in enumerate(items_data, start=1 + inicio))
     pagina = f"""<section class="ejercicio">
         {header}
         {ejemplo_wordbox}
