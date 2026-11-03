@@ -23,6 +23,16 @@ DEFAULT_MODEL = "gpt-5.6-sol"
 API_URL = "https://api.openai.com/v1/responses"
 
 
+def _registrar_coste(tarea, motor, modelo, respuesta):
+    """Anota tokens y coste en el libro global de coste-api. Nunca rompe la llamada."""
+    try:
+        sys.path.append("/home/javi/Documents/Proyectos/coste-api")
+        import coste_api
+        coste_api.registrar('web-exes-static', tarea, motor, modelo, respuesta)
+    except Exception:
+        pass
+
+
 def strip_code_fence(text):
     text = text.strip()
     if text.startswith("```"):
@@ -154,6 +164,7 @@ class OpenAIVisionClient:
 
             resp.raise_for_status()
             data = resp.json()
+            _registrar_coste("libro-pipeline", "openai", self.model, data)
             for item in data.get("output", []):
                 if item.get("type") == "message":
                     for block in item.get("content", []):

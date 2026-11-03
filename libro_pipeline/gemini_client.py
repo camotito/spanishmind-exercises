@@ -31,6 +31,16 @@ DEFAULT_MODEL = "gemini-3.5-flash"
 API_URL_TMPL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
 
+def _registrar_coste(tarea, motor, modelo, respuesta):
+    """Anota tokens y coste en el libro global de coste-api. Nunca rompe la llamada."""
+    try:
+        sys.path.append("/home/javi/Documents/Proyectos/coste-api")
+        import coste_api
+        coste_api.registrar('web-exes-static', tarea, motor, modelo, respuesta)
+    except Exception:
+        pass
+
+
 def strip_code_fence(text):
     text = text.strip()
     if text.startswith("```"):
@@ -138,6 +148,7 @@ class GeminiVisionClient:
                 # sin resp.raise_for_status(): su mensaje incluye la URL con la clave (?key=...)
                 raise RuntimeError(f"Gemini HTTP {resp.status_code}: {resp.text[:300]}")
             data = resp.json()
+            _registrar_coste("libro-pipeline", "gemini", self.model, data)
             # los modelos con razonamiento pueden devolver partes "thought": se ignoran
             parts = data["candidates"][0]["content"]["parts"]
             texto = "".join(p.get("text", "") for p in parts if not p.get("thought"))
