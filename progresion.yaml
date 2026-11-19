@@ -1,5 +1,5 @@
 # Etapas del curso, en el orden en que Javi las enseña. Fuente: la progresión de
-# `contenido-clases/notas/progresion gruesa - checklist.md` (y la detallada).
+# `contenido-clases/mapa/progresion/progresion-gruesa.md` (y la detallada).
 # Cada tema de index.yaml lleva `etapa: <slug>`. La página de inicio (build_index.py)
 # agrupa por etapa en este orden y, dentro de cada una, por orden topológico de
 # `depende_de`. build_index.py falla si un tema queda en una etapa anterior a la de
