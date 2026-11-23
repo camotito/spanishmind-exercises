@@ -27,13 +27,20 @@ CSS_REF = """
 .ref table.conj tbody th { white-space: normal; font-size: .85rem; line-height: 1.3; }
 @media (max-width: 480px) { .ref table.conj th, .ref table.conj td { padding: 5px 6px; } }
 h1 small { display: block; font-family: var(--font-body); font-size: .95rem; font-weight: 400; color: #777; }
-.practica { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 2em; }
-.practica a, .temas a { display: inline-block; padding: 10px 18px; border-radius: 999px; background: var(--secondary);
-    color: #fff; text-decoration: none; font-weight: 600; }
+.practica { margin-top: 2.4em; padding-top: 1em; border-top: 2px solid var(--line); }
+.practica h2 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.25rem; margin: 0 0 .6em; }
+.practica div { display: flex; flex-wrap: wrap; gap: 10px; }
+.practica a, .temas a { display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; border-radius: 999px;
+    background: var(--primary); color: #fff; text-decoration: none; font-weight: 600; min-height: 44px; }
+.practica svg { width: 18px; height: 18px; flex: none; }
 .temas { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 12px; }
 .temas a { background: var(--card); color: var(--secondary); border: 1px solid var(--line); border-radius: 14px; display: block; }
 .temas a small { display: block; font-weight: 400; color: #777; }
 """
+
+
+LAPIZ = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" '
+         'stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>')
 
 
 def pagina(titulo, cuerpo, volver):
@@ -64,6 +71,11 @@ def build_tema(t):
         conj = render.cargar_conjugacion(tema)
         if not conj:
             raise SystemExit(f"falta content/{tema}.conjugacion.json")
+        # el h1 de la pagina ya nombra el tiempo: "Pretérito ...: regular verbs" -> "Regular verbs"
+        prefijo = t["titulo"] + ": "
+        if conj["titulo"].startswith(prefijo):
+            resto = conj["titulo"][len(prefijo):]
+            conj = {**conj, "titulo": resto[:1].upper() + resto[1:]}
         partes.append(f'<div class="tbl">{render.render_conjugacion(conj)}</div>')
     for tema in t.get("teoria", []):
         teoria = render.cargar_teoria(tema)
@@ -71,11 +83,11 @@ def build_tema(t):
             raise SystemExit(f"falta content/{tema}.teoria.html")
         partes.append(teoria)
     practica = "".join(
-        f'<a href="../{tema}.html">{render.esc(titulo_ejercicio(tema))} &rarr;</a>'
+        f'<a href="../{tema}.html">{LAPIZ}{render.esc(titulo_ejercicio(tema))}</a>'
         for tema in t.get("practica", []))
-    cuerpo = (f'<h1>{render.esc(t["titulo"])}<small>{render.esc(t["en"])}</small></h1>'
+    cuerpo = (f'<h1>{render.esc(t["titulo"])}</h1>'
               f'<div class="ref">{"".join(partes)}</div>'
-              + (f'<div class="practica">{practica}</div>' if practica else ""))
+              + (f'<section class="practica"><h2>Exercises</h2><div>{practica}</div></section>' if practica else ""))
     return pagina(t["titulo"], cuerpo, ("index.html", "Grammar reference"))
 
 
@@ -89,7 +101,7 @@ def main():
             f.write(build_tema(t))
         print(f"✅ {ruta}")
     lista = "".join(
-        f'<li><a href="{t["slug"]}.html">{render.esc(t["titulo"])}<small>{render.esc(t["en"])}</small></a></li>'
+        f'<li><a href="{t["slug"]}.html">{render.esc(t["titulo"])}</a></li>'
         for t in temas)
     with open(os.path.join(OUT_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(pagina("Grammar reference", f'<h1>Grammar reference</h1><ul class="temas">{lista}</ul>',
