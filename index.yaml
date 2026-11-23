@@ -365,3 +365,14 @@
   ejercicios_permitidos: [T5, T3]
   tiempos_permitidos: ["presente de indicativo"]
   grafico: none
+
+- tema: que-el-que-quien
+  etapa: joining
+  titulo: "Que, el que, quien"
+  descripcion_gramatical: "Unir ideas sobre un nombre: que, el que, la que, quien, lo que"
+  unidad_libro: 28
+  forma_verbal: null
+  depende_de: [preterito-indefinido-irregulares]
+  ejercicios_permitidos: [T5, T10, T3]
+  tiempos_permitidos: ["presente de indicativo", "pretérito perfecto simple", "pretérito perfecto compuesto", "pretérito imperfecto", "pretérito pluscuamperfecto"]
+  grafico: none

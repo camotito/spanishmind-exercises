@@ -38,6 +38,15 @@ Ver `README.md` para el resumen corto.
 - Después se combina con los apuntes y ejemplos propios de Javi en `contenido-clases/` (buscar primero ahí). Solo lo que falte tras las dos fuentes lo escribe la IA, avisando de que es nuevo. Ningún texto de teoría se escribe sin haber mirado antes el libro.
 - Luego se aplican las reglas de estilo de `contenido-clases/CLAUDE.md` (inglés por defecto, terminología mínima, `=`, sin explicar lo que funciona como en inglés), se adapta al español de España y se revisa con Gemini o GPT.
 
+## Referencia gramatical (la chuleta del alumno enlaza aquí)
+
+- `referencia.yaml` lista una página por tema en `out/referencia/` (teoría, tablas y enlace a los ejercicios). Su `punto` es la ficha del árbol de `contenido-clases/mapa`: así `clase chuleta` deduce la última gramática del alumno.
+- **Por defecto, si el último punto que ha trabajado el alumno no tiene página aquí** (`clase chuleta ALUMNO` avisa con «Sin página de referencia para…»), se crea (regla de Javi, 23 nov 2026):
+  1. Buscar antes apuntes locales en `contenido-clases/material/explicaciones`. Si no hay, transcribir del libro rojo (teoría de la unidad: `libro/libro-rojo-NNN.png`, `pagina` + 1 en `mapa_unidades.json`), con el estilo de `contenido-clases/CLAUDE.md`. El apunte se guarda en `contenido-clases/material/explicaciones/NN-<tema>.md` (borrador, `status` con la fuente) y se convierte con `teoria_md.py`.
+  2. Ejercicios: `content/<tema>.json` desde `ejemplos/unidad-N.json` (enunciados en inglés) y su entrada en `index.yaml` (con `etapa`, de `progresion.yaml`).
+  3. Entrada en `referencia.yaml` (`punto`, `resumen`, `teoria`, `practica`) y su nodo en `mapa/progresion/arbol.md` y `mapa/puntos/`.
+  4. `render.py`, `build_index.py`, `build_referencia.py`, captura a 360 px y `audit_movil.py`. Publicar (push a Netlify y chuleta) solo con el OK de Javi.
+
 ## Borradores
 
 - `borradores/` guarda temas escritos por IA que Javi aún no ha validado (marcados `[BORRADOR SIN REVISAR]`). Fuera de `content/`, no se renderizan ni se publican. Para publicarlos: moverlos a `content/` y quitar la marca del título (también en `index.yaml`).

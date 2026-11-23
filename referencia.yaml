@@ -29,3 +29,9 @@
   conjugacion: [imperfecto]
   teoria: [imperfecto]
   practica: []
+- slug: que-el-que-quien
+  titulo: "Que, el que, quien"
+  punto: relativos
+  resumen: "Give information about a noun without saying it again: <b>el libro que leo</b>, <b>la casa en la que vivo</b>."
+  teoria: [que-el-que-quien]
+  practica: [que-el-que-quien]
