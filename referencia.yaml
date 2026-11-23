@@ -2,12 +2,15 @@
 # Solo junta piezas que ya existen en content/ (conjugacion, teoria) y enlaza
 # a los ejercicios del tema. resumen: una linea de para que sirve, sacada de la
 # teoria (se quita de la teoria en esta pagina). plegar: tablas de conjugacion
-# que se muestran como lista de raices + un desplegable por bloque.
+# que se muestran como lista de raices + un desplegable por bloque. punto: ficha
+# del arbol (contenido-clases/mapa/puntos/<punto>.md); con el, la chuleta del
+# alumno enlaza su ultima gramatica (out/referencia/temas.json, lo lee `clase`).
 # Orden = orden de la lista (el de la progresion).
 # Fuente de la teoria: apuntes de Javi en contenido-clases/material/explicaciones.
 - slug: preterito-perfecto-simple-regulares
   titulo: "Pretérito perfecto simple"
   sub: "Regular verbs"
+  punto: pasado-perfecto
   resumen: "To say what happened at a specific moment in the finished past."
   conjugacion: [preterito-indefinido-regulares]
   teoria: [preterito-indefinido-regulares]
@@ -15,11 +18,13 @@
 - slug: preterito-perfecto-simple-irregulares
   titulo: "Pretérito perfecto simple"
   sub: "Irregular verbs"
+  punto: pasado-perfecto
   conjugacion: [preterito-indefinido-irregulares]
   plegar: [preterito-indefinido-irregulares]
   practica: [preterito-indefinido-irregulares]
 - slug: imperfecto
   titulo: "Pretérito imperfecto"
+  punto: pasado-imperfecto
   resumen: "Use it for how things <b>were</b>, or what was <b>happening</b>, with no clear start or end."
   conjugacion: [imperfecto]
   teoria: [imperfecto]

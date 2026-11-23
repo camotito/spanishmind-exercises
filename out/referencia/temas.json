@@ -1,0 +1,20 @@
+[
+ {
+  "slug": "preterito-perfecto-simple-regulares",
+  "titulo": "Pretérito perfecto simple",
+  "sub": "Regular verbs",
+  "punto": "pasado-perfecto"
+ },
+ {
+  "slug": "preterito-perfecto-simple-irregulares",
+  "titulo": "Pretérito perfecto simple",
+  "sub": "Irregular verbs",
+  "punto": "pasado-perfecto"
+ },
+ {
+  "slug": "imperfecto",
+  "titulo": "Pretérito imperfecto",
+  "sub": "",
+  "punto": "pasado-imperfecto"
+ }
+]

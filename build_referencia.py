@@ -164,6 +164,11 @@ def main():
         f.write(pagina("Grammar reference", f'<h1>Grammar reference</h1><ul class="temas">{lista}</ul>',
                        ("/", "Exercises")))
     print(f"✅ {os.path.join(OUT_DIR, 'index.html')}")
+    # para la chuleta del alumno (`clase`): que pagina corresponde a cada punto del arbol
+    indice = [{"slug": t["slug"], "titulo": t["titulo"], "sub": t.get("sub", ""), "punto": t.get("punto", "")}
+              for t in temas]
+    with open(os.path.join(OUT_DIR, "temas.json"), "w", encoding="utf-8") as f:
+        json.dump(indice, f, ensure_ascii=False, indent=1)
 
 
 if __name__ == "__main__":
