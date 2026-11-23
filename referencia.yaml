@@ -1,14 +1,20 @@
 # Referencia gramatical: una pagina por tema en out/referencia/<slug>.html.
 # Solo junta piezas que ya existen en content/ (conjugacion, teoria) y enlaza
-# a los ejercicios del tema. Orden = orden de la lista (el de la progresion).
+# a los ejercicios del tema. resumen: una linea de para que sirve, sacada de la
+# teoria (se quita de la teoria en esta pagina). plegar: tablas de conjugacion
+# que se muestran como lista de raices + un desplegable por bloque.
+# Orden = orden de la lista (el de la progresion).
 # Fuente de la teoria: apuntes de Javi en contenido-clases/material/explicaciones.
 - slug: preterito-perfecto-simple
   titulo: "Pretérito perfecto simple"
+  resumen: "To say what happened at a specific moment in the finished past."
+  plegar: [preterito-indefinido-irregulares]
   conjugacion: [preterito-indefinido-regulares, preterito-indefinido-irregulares]
   teoria: [preterito-indefinido-regulares]
   practica: [preterito-indefinido-regulares, preterito-indefinido-irregulares]
 - slug: imperfecto
   titulo: "Pretérito imperfecto"
+  resumen: "Use it for how things <b>were</b>, or what was <b>happening</b>, with no clear start or end."
   conjugacion: [imperfecto]
   teoria: [imperfecto]
   practica: []
