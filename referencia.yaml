@@ -1,0 +1,16 @@
+# Referencia gramatical: una pagina por tema en out/referencia/<slug>.html.
+# Solo junta piezas que ya existen en content/ (conjugacion, teoria) y enlaza
+# a los ejercicios del tema. Orden = orden de la lista (el de la progresion).
+# Fuente de la teoria: apuntes de Javi en contenido-clases/material/explicaciones.
+- slug: preterito-indefinido
+  titulo: "Pretérito indefinido"
+  en: "Preterite"
+  conjugacion: [preterito-indefinido-regulares, preterito-indefinido-irregulares]
+  teoria: [preterito-indefinido-regulares]
+  practica: [preterito-indefinido-regulares, preterito-indefinido-irregulares]
+- slug: imperfecto
+  titulo: "Pretérito imperfecto"
+  en: "Imperfect"
+  conjugacion: [imperfecto]
+  teoria: [imperfecto]
+  practica: []

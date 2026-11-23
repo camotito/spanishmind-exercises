@@ -35,9 +35,13 @@ def main():
     os.makedirs(os.path.join(OUT, "pdf"), exist_ok=True)
     for ruta in sorted(glob.glob(os.path.join(HERE, "content", "*.teoria.html"))):
         tema = os.path.basename(ruta)[: -len(".teoria.html")]
+        if not os.path.exists(os.path.join(OUT, f"{tema}.html")):
+            continue  # solo en la referencia gramatical, sin pagina de ejercicios
         _pdf(tema, "teoria", '<dialog id="teoria" class="teoria">')
     for ruta in sorted(glob.glob(os.path.join(HERE, "content", "*.conjugacion.json"))):
         tema = os.path.basename(ruta)[: -len(".conjugacion.json")]
+        if not os.path.exists(os.path.join(OUT, f"{tema}.html")):
+            continue
         with open(os.path.join(OUT, f"{tema}.html"), encoding="utf-8") as f:
             html = f.read().replace(ABIERTO, ABIERTO[:-1] + " open>")
         destino = os.path.join(OUT, "pdf", f"{tema}-conjugacion.pdf")

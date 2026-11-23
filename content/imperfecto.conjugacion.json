@@ -1,0 +1,207 @@
+{
+ "titulo": "Conjugation",
+ "bloques": [
+  {
+   "columnas": [
+    {
+     "verbos": [
+      "hablar"
+     ],
+     "formas": [
+      [
+       "habl",
+       "aba"
+      ],
+      [
+       "habl",
+       "abas"
+      ],
+      [
+       "habl",
+       "aba"
+      ],
+      [
+       "habl",
+       "ábamos"
+      ],
+      [
+       "habl",
+       "abais"
+      ],
+      [
+       "habl",
+       "aban"
+      ]
+     ],
+     "patron": true,
+     "etiqueta": "-ar"
+    },
+    {
+     "verbos": [
+      "comer"
+     ],
+     "formas": [
+      [
+       "com",
+       "ía"
+      ],
+      [
+       "com",
+       "ías"
+      ],
+      [
+       "com",
+       "ía"
+      ],
+      [
+       "com",
+       "íamos"
+      ],
+      [
+       "com",
+       "íais"
+      ],
+      [
+       "com",
+       "ían"
+      ]
+     ],
+     "patron": true,
+     "etiqueta": "-er"
+    },
+    {
+     "verbos": [
+      "vivir"
+     ],
+     "formas": [
+      [
+       "viv",
+       "ía"
+      ],
+      [
+       "viv",
+       "ías"
+      ],
+      [
+       "viv",
+       "ía"
+      ],
+      [
+       "viv",
+       "íamos"
+      ],
+      [
+       "viv",
+       "íais"
+      ],
+      [
+       "viv",
+       "ían"
+      ]
+     ],
+     "patron": true,
+     "etiqueta": "-ir"
+    }
+   ],
+   "nota": "Same ending for <i>yo</i> and <i>él / ella</i>: <b>hablaba</b>, <b>comía</b>, <b>vivía</b>."
+  },
+  {
+   "intro": "Only three verbs are irregular in the imperfect:",
+   "columnas": [
+    {
+     "verbos": [
+      "ser"
+     ],
+     "formas": [
+      [
+       "er",
+       "a"
+      ],
+      [
+       "er",
+       "as"
+      ],
+      [
+       "er",
+       "a"
+      ],
+      [
+       "ér",
+       "amos"
+      ],
+      [
+       "er",
+       "ais"
+      ],
+      [
+       "er",
+       "an"
+      ]
+     ]
+    },
+    {
+     "verbos": [
+      "ir"
+     ],
+     "formas": [
+      [
+       "ib",
+       "a"
+      ],
+      [
+       "ib",
+       "as"
+      ],
+      [
+       "ib",
+       "a"
+      ],
+      [
+       "íb",
+       "amos"
+      ],
+      [
+       "ib",
+       "ais"
+      ],
+      [
+       "ib",
+       "an"
+      ]
+     ]
+    },
+    {
+     "verbos": [
+      "ver"
+     ],
+     "formas": [
+      [
+       "ve",
+       "ía"
+      ],
+      [
+       "ve",
+       "ías"
+      ],
+      [
+       "ve",
+       "ía"
+      ],
+      [
+       "ve",
+       "íamos"
+      ],
+      [
+       "ve",
+       "íais"
+      ],
+      [
+       "ve",
+       "ían"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

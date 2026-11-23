@@ -154,6 +154,7 @@ li a::after {{ content: ""; position: absolute; inset: 0; }}
 </head>
 <body>
 <h1>SpanishMind</h1>
+<p><a href="referencia/index.html">Grammar reference &rarr;</a></p>
 {items}
 </body>
 </html>
