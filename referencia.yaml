@@ -5,13 +5,19 @@
 # que se muestran como lista de raices + un desplegable por bloque.
 # Orden = orden de la lista (el de la progresion).
 # Fuente de la teoria: apuntes de Javi en contenido-clases/material/explicaciones.
-- slug: preterito-perfecto-simple
+- slug: preterito-perfecto-simple-regulares
   titulo: "Pretérito perfecto simple"
+  sub: "Regular verbs"
   resumen: "To say what happened at a specific moment in the finished past."
-  plegar: [preterito-indefinido-irregulares]
-  conjugacion: [preterito-indefinido-regulares, preterito-indefinido-irregulares]
+  conjugacion: [preterito-indefinido-regulares]
   teoria: [preterito-indefinido-regulares]
-  practica: [preterito-indefinido-regulares, preterito-indefinido-irregulares]
+  practica: [preterito-indefinido-regulares]
+- slug: preterito-perfecto-simple-irregulares
+  titulo: "Pretérito perfecto simple"
+  sub: "Irregular verbs"
+  conjugacion: [preterito-indefinido-irregulares]
+  plegar: [preterito-indefinido-irregulares]
+  practica: [preterito-indefinido-irregulares]
 - slug: imperfecto
   titulo: "Pretérito imperfecto"
   resumen: "Use it for how things <b>were</b>, or what was <b>happening</b>, with no clear start or end."

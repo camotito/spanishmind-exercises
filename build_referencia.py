@@ -40,7 +40,7 @@ CSS_REF = """
 .ref details[open] summary::after { transform: rotate(45deg); }
 .ref details[open] { padding-bottom: 12px; }
 @media (prefers-reduced-motion: reduce) { .ref summary::after { transition: none; } }
-h1 small { display: block; font-family: var(--font-body); font-size: .95rem; font-weight: 400; color: #777; }
+h1 small { display: block; font-family: var(--font-body); font-size: 1.05rem; font-weight: 600; color: var(--primary); margin-top: .2em; }
 .practica { margin-top: 2.4em; padding-top: 1em; border-top: 2px solid var(--line); }
 .practica h2 { font-family: var(--font-heading); color: var(--secondary); font-size: 1.25rem; margin: 0 0 .6em; }
 .practica div { display: flex; flex-wrap: wrap; gap: 10px; }
@@ -88,7 +88,8 @@ def conj_plegada(conj):
     cambio de raiz (estar estuv-), la tabla se abre al tocar."""
     b0 = conj["bloques"][0]
     texto0 = re.sub(r"(<br>)+$", "", RAIZ_RE.sub("", b0.get("intro", "")))
-    arriba = (f"<h2>{render.esc(conj['titulo'])}</h2><p>{texto0}</p>"
+    h2 = f"<h2>{render.esc(conj['titulo'])}</h2>" if conj["titulo"] else ""
+    arriba = (f"{h2}<p>{texto0}</p>"
               + (f"<p>{b0['nota']}</p>" if b0.get("nota") else ""))
     plegadas = ""
     for i, b in enumerate(conj["bloques"]):
@@ -121,10 +122,13 @@ def build_tema(t):
         if conj["titulo"].startswith(prefijo):
             resto = conj["titulo"][len(prefijo):]
             conj = {**conj, "titulo": resto[:1].upper() + resto[1:]}
+        if conj["titulo"].lower() == t.get("sub", "").lower():
+            conj = {**conj, "titulo": ""}  # ya lo dice el subtitulo de la pagina
         if tema in t.get("plegar", []):
             partes.append(conj_plegada(conj))
         else:
-            partes.append(f'<div class="tbl">{render.render_conjugacion(conj)}</div>')
+            tabla = render.render_conjugacion(conj).replace("<h2></h2>", "", 1)
+            partes.append(f'<div class="tbl">{tabla}</div>')
     for tema in t.get("teoria", []):
         teoria = render.cargar_teoria(tema)
         if not teoria:
@@ -136,11 +140,12 @@ def build_tema(t):
     practica = "".join(
         f'<a href="../{tema}.html">{LAPIZ}{render.esc(titulo_ejercicio(tema))}</a>'
         for tema in t.get("practica", []))
-    cuerpo = (f'<h1>{render.esc(t["titulo"])}</h1>'
+    sub = f'<small>{render.esc(t["sub"])}</small>' if t.get("sub") else ""
+    cuerpo = (f'<h1>{render.esc(t["titulo"])}{sub}</h1>'
               + (f'<p class="resumen">{t["resumen"]}</p>' if t.get("resumen") else "")
               +               f'<div class="ref">{"".join(partes)}</div>'
               + (f'<section class="practica"><h2>Exercises</h2><div>{practica}</div></section>' if practica else ""))
-    return pagina(t["titulo"], cuerpo, ("index.html", "Grammar reference"))
+    return pagina(t["titulo"] + (f": {t['sub']}" if t.get("sub") else ""), cuerpo, ("index.html", "Grammar reference"))
 
 
 def main():
@@ -153,7 +158,7 @@ def main():
             f.write(build_tema(t))
         print(f"✅ {ruta}")
     lista = "".join(
-        f'<li><a href="{t["slug"]}.html">{render.esc(t["titulo"])}</a></li>'
+        f'<li><a href="{t["slug"]}.html">{render.esc(t["titulo"])}{f'<small>{render.esc(t["sub"])}</small>' if t.get("sub") else ""}</a></li>'
         for t in temas)
     with open(os.path.join(OUT_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(pagina("Grammar reference", f'<h1>Grammar reference</h1><ul class="temas">{lista}</ul>',
