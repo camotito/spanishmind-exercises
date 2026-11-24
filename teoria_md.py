@@ -17,8 +17,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 def convertir(md_text):
     md_text = re.sub(r"\A---\n.*?\n---\n", "", md_text, flags=re.S)
     md_text = re.sub(r"%%.*?%%", "", md_text, flags=re.S)
-    html = markdown.markdown(md_text.strip(), extensions=["nl2br", "sane_lists"])
-    html = re.sub(r"<h1>(.*?)</h1>", r"<h2>\1</h2>", html)
+    html = markdown.markdown(md_text.strip(), extensions=["nl2br", "sane_lists", "toc"])  # toc: id en cada cabecera (anclas de la referencia)
+    html = re.sub(r"<h1[^>]*>(.*?)</h1>", r"<h2>\1</h2>", html)
     return "\n" + html + "\n"
 
 

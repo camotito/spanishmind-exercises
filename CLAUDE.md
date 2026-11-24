@@ -41,6 +41,8 @@ Ver `README.md` para el resumen corto.
 ## Referencia gramatical (la chuleta del alumno enlaza aquí)
 
 - `referencia.yaml` lista una página por tema en `out/referencia/` (teoría, tablas y enlace a los ejercicios). Su `punto` es la ficha del árbol de `contenido-clases/mapa`: así `clase chuleta` deduce la última gramática del alumno.
+- Una página puede cubrir varios puntos con `puntos:` (punto del árbol y ancla de su apartado). Las anclas las pone `teoria_md.py` a partir de cada cabecera, y la chuleta y los `para <Alumno>` enlazan al apartado (`página.html#ancla`).
+- Páginas de principiantes (A1): sus fuentes son `contenido-clases/material/explicaciones/10-…` a `18-…`, juntadas de los apuntes que ya recibió Jake.
 - **Por defecto, si el último punto que ha trabajado el alumno no tiene página aquí** (`clase chuleta ALUMNO` avisa con «Sin página de referencia para…»), se crea (regla de Javi, 23 nov 2026):
   1. Buscar antes apuntes locales en `contenido-clases/material/explicaciones`. Si no hay, transcribir del libro rojo (teoría de la unidad: `libro/libro-rojo-NNN.png`, `pagina` + 1 en `mapa_unidades.json`), con el estilo de `contenido-clases/CLAUDE.md`. El apunte se guarda en `contenido-clases/material/explicaciones/NN-<tema>.md` (borrador, `status` con la fuente) y se convierte con `teoria_md.py`.
   2. Ejercicios: `content/<tema>.json` desde `ejemplos/unidad-N.json` (enunciados en inglés) y su entrada en `index.yaml` (con `etapa`, de `progresion.yaml`).

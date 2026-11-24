@@ -6,7 +6,81 @@
 # del arbol (contenido-clases/mapa/puntos/<punto>.md); con el, la chuleta del
 # alumno enlaza su ultima gramatica (out/referencia/temas.json, lo lee `clase`).
 # Orden = orden de la lista (el de la progresion).
+# puntos: varios puntos del arbol en una pagina, cada uno con el ancla (id de la
+# cabecera, la pone teoria_md.py) de su apartado: la chuleta enlaza a ese apartado.
 # Fuente de la teoria: apuntes de Javi en contenido-clases/material/explicaciones.
+- slug: quiero-puedo-tengo-que
+  titulo: "quiero, puedo, tengo que"
+  resumen: "Say what you want, can, need or have to do."
+  puntos:
+    modales-quiero: quiero-necesito-puedo
+    modales-necesito: quiero-necesito-puedo
+    modal-infinitivo: quiero-necesito-puedo
+    modales-puedo: quiero-necesito-puedo
+    modales-tener-que: tener-que
+    modales-debo: debo
+    combinar-modales: two-of-them-together
+  teoria: [ref-quiero-puedo-tengo-que]
+  practica: [modales-quiero-puedo-necesito, modales-escribir-yo, modales-escribir-tu-el, tengo-que-vs-debo]
+- slug: voy-a
+  titulo: "voy a, ir y venir"
+  resumen: "Talk about what you are going to do, and where you go."
+  puntos:
+    futuro-voy-a: voy-a-verb
+    va-vas-van: voy-a-verb
+    a-como-till: a-going-somewhere
+  teoria: [ref-voy-a]
+- slug: tener-hambre-hace-frio
+  titulo: "tengo hambre, hace frío"
+  resumen: "How you feel and what the weather is like."
+  puntos:
+    tener-frio-calor: tener-hambre-sed-frio-calor
+    tener-hambre-ganas-de: tener-ganas-de
+    hace-calor: hace-calor-hace-frio
+  teoria: [ref-tener-hambre-hace-frio]
+- slug: creo-que
+  titulo: "creo que, sé que"
+  resumen: "Say what you think or know."
+  puntos:
+    que-como-att: que
+    creo-que-si-no: supongo-que-si
+    pensar-vs-creer: que
+    supongo-que-si: supongo-que-si
+  teoria: [ref-creo-que]
+- slug: dias-y-horas
+  titulo: "Days, hours and meals"
+  resumen: "Say when you do things."
+  puntos:
+    cenar-desayunar-almorzar-comer: the-meals
+    dias-de-la-semana: days-of-the-week
+  teoria: [ref-dias-y-horas]
+  practica: [articulo-tiempo-cantidad]
+- slug: siempre-nunca
+  titulo: "siempre, a veces, nunca"
+  resumen: "Say how often you do things."
+  puntos:
+    cada-siempre-nunca-a-veces: how-often
+  teoria: [ref-siempre-nunca]
+- slug: antes-de-en
+  titulo: "antes de, cerca de, en"
+  resumen: "Before, after, near, far, and how you get there."
+  puntos:
+    prepos-en-i: en
+    prepos-en-pa: en
+    debajo-de-del: antes-de-despues-de
+  teoria: [ref-antes-de-en]
+- slug: luego-tampoco
+  titulo: "luego, también, tampoco"
+  puntos:
+    conectores-luego-tambien: luego
+    bastante-tampoco-bien-mal: tampoco
+  teoria: [ref-luego-tampoco]
+- slug: verbos-go
+  titulo: "tengo, pongo, traigo"
+  resumen: "Verbs that get a <b>g</b> when you talk about yourself."
+  puntos:
+    verbos-go: verbs-with-a-g
+  teoria: [ref-verbos-go]
 - slug: preterito-perfecto-simple-regulares
   titulo: "Pretérito perfecto simple"
   sub: "Regular verbs"

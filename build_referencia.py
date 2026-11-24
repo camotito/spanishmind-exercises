@@ -165,8 +165,14 @@ def main():
                        ("/", "Exercises")))
     print(f"✅ {os.path.join(OUT_DIR, 'index.html')}")
     # para la chuleta del alumno (`clase`): que pagina corresponde a cada punto del arbol
-    indice = [{"slug": t["slug"], "titulo": t["titulo"], "sub": t.get("sub", ""), "punto": t.get("punto", "")}
-              for t in temas]
+    # una entrada por punto; con `puntos`, cada una con el ancla de su apartado
+    indice = []
+    for t in temas:
+        base = {"slug": t["slug"], "titulo": t["titulo"], "sub": t.get("sub", "")}
+        if t.get("puntos"):
+            indice += [{**base, "punto": p, "ancla": a} for p, a in t["puntos"].items()]
+        else:
+            indice.append({**base, "punto": t.get("punto", "")})
     with open(os.path.join(OUT_DIR, "temas.json"), "w", encoding="utf-8") as f:
         json.dump(indice, f, ensure_ascii=False, indent=1)
 

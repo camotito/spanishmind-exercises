@@ -1,5 +1,187 @@
 [
  {
+  "slug": "quiero-puedo-tengo-que",
+  "titulo": "quiero, puedo, tengo que",
+  "sub": "",
+  "punto": "modales-quiero",
+  "ancla": "quiero-necesito-puedo"
+ },
+ {
+  "slug": "quiero-puedo-tengo-que",
+  "titulo": "quiero, puedo, tengo que",
+  "sub": "",
+  "punto": "modales-necesito",
+  "ancla": "quiero-necesito-puedo"
+ },
+ {
+  "slug": "quiero-puedo-tengo-que",
+  "titulo": "quiero, puedo, tengo que",
+  "sub": "",
+  "punto": "modal-infinitivo",
+  "ancla": "quiero-necesito-puedo"
+ },
+ {
+  "slug": "quiero-puedo-tengo-que",
+  "titulo": "quiero, puedo, tengo que",
+  "sub": "",
+  "punto": "modales-puedo",
+  "ancla": "quiero-necesito-puedo"
+ },
+ {
+  "slug": "quiero-puedo-tengo-que",
+  "titulo": "quiero, puedo, tengo que",
+  "sub": "",
+  "punto": "modales-tener-que",
+  "ancla": "tener-que"
+ },
+ {
+  "slug": "quiero-puedo-tengo-que",
+  "titulo": "quiero, puedo, tengo que",
+  "sub": "",
+  "punto": "modales-debo",
+  "ancla": "debo"
+ },
+ {
+  "slug": "quiero-puedo-tengo-que",
+  "titulo": "quiero, puedo, tengo que",
+  "sub": "",
+  "punto": "combinar-modales",
+  "ancla": "two-of-them-together"
+ },
+ {
+  "slug": "voy-a",
+  "titulo": "voy a, ir y venir",
+  "sub": "",
+  "punto": "futuro-voy-a",
+  "ancla": "voy-a-verb"
+ },
+ {
+  "slug": "voy-a",
+  "titulo": "voy a, ir y venir",
+  "sub": "",
+  "punto": "va-vas-van",
+  "ancla": "voy-a-verb"
+ },
+ {
+  "slug": "voy-a",
+  "titulo": "voy a, ir y venir",
+  "sub": "",
+  "punto": "a-como-till",
+  "ancla": "a-going-somewhere"
+ },
+ {
+  "slug": "tener-hambre-hace-frio",
+  "titulo": "tengo hambre, hace frío",
+  "sub": "",
+  "punto": "tener-frio-calor",
+  "ancla": "tener-hambre-sed-frio-calor"
+ },
+ {
+  "slug": "tener-hambre-hace-frio",
+  "titulo": "tengo hambre, hace frío",
+  "sub": "",
+  "punto": "tener-hambre-ganas-de",
+  "ancla": "tener-ganas-de"
+ },
+ {
+  "slug": "tener-hambre-hace-frio",
+  "titulo": "tengo hambre, hace frío",
+  "sub": "",
+  "punto": "hace-calor",
+  "ancla": "hace-calor-hace-frio"
+ },
+ {
+  "slug": "creo-que",
+  "titulo": "creo que, sé que",
+  "sub": "",
+  "punto": "que-como-att",
+  "ancla": "que"
+ },
+ {
+  "slug": "creo-que",
+  "titulo": "creo que, sé que",
+  "sub": "",
+  "punto": "creo-que-si-no",
+  "ancla": "supongo-que-si"
+ },
+ {
+  "slug": "creo-que",
+  "titulo": "creo que, sé que",
+  "sub": "",
+  "punto": "pensar-vs-creer",
+  "ancla": "que"
+ },
+ {
+  "slug": "creo-que",
+  "titulo": "creo que, sé que",
+  "sub": "",
+  "punto": "supongo-que-si",
+  "ancla": "supongo-que-si"
+ },
+ {
+  "slug": "dias-y-horas",
+  "titulo": "Days, hours and meals",
+  "sub": "",
+  "punto": "cenar-desayunar-almorzar-comer",
+  "ancla": "the-meals"
+ },
+ {
+  "slug": "dias-y-horas",
+  "titulo": "Days, hours and meals",
+  "sub": "",
+  "punto": "dias-de-la-semana",
+  "ancla": "days-of-the-week"
+ },
+ {
+  "slug": "siempre-nunca",
+  "titulo": "siempre, a veces, nunca",
+  "sub": "",
+  "punto": "cada-siempre-nunca-a-veces",
+  "ancla": "how-often"
+ },
+ {
+  "slug": "antes-de-en",
+  "titulo": "antes de, cerca de, en",
+  "sub": "",
+  "punto": "prepos-en-i",
+  "ancla": "en"
+ },
+ {
+  "slug": "antes-de-en",
+  "titulo": "antes de, cerca de, en",
+  "sub": "",
+  "punto": "prepos-en-pa",
+  "ancla": "en"
+ },
+ {
+  "slug": "antes-de-en",
+  "titulo": "antes de, cerca de, en",
+  "sub": "",
+  "punto": "debajo-de-del",
+  "ancla": "antes-de-despues-de"
+ },
+ {
+  "slug": "luego-tampoco",
+  "titulo": "luego, también, tampoco",
+  "sub": "",
+  "punto": "conectores-luego-tambien",
+  "ancla": "luego"
+ },
+ {
+  "slug": "luego-tampoco",
+  "titulo": "luego, también, tampoco",
+  "sub": "",
+  "punto": "bastante-tampoco-bien-mal",
+  "ancla": "tampoco"
+ },
+ {
+  "slug": "verbos-go",
+  "titulo": "tengo, pongo, traigo",
+  "sub": "",
+  "punto": "verbos-go",
+  "ancla": "verbs-with-a-g"
+ },
+ {
   "slug": "preterito-perfecto-simple-regulares",
   "titulo": "Pretérito perfecto simple",
   "sub": "Regular verbs",
