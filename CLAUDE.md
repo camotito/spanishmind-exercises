@@ -28,6 +28,7 @@ Ver `README.md` para el resumen corto.
 ## Convenciones de trabajo
 
 - **Commit por paso, push solo cuando Javi lo pida**: cada cambio significativo se commitea, pero nunca se hace `git push` por iniciativa propia (cada push despliega en Netlify y gasta créditos del nivel gratis). Los cambios se prueban siempre en local antes (`python3 render.py && python3 build_index.py`, servidor en `out/`, p. ej. `python3 -m http.server 8765`). Javi pide el push cuando todo está listo y depurado. Una orden de publicar vale solo para ese push: después, todo vuelve a ser en local hasta la siguiente orden. Cualquier otra publicación a Netlify (deploy, CLI, etc.) sigue la misma regla.
+- **Pedir el OK siempre con la URL local (regla de Javi, 26 nov 2026).** Todo cambio para Netlify espera su OK antes de publicarse. Al pedirlo, dejar arrancado el servidor local (`python3 -m http.server 8765` en `out/`) y dar la URL exacta de cada página cambiada (ej. `http://localhost:8765/referencia/a-personal.html`). Sin URL, Javi no puede revisar ni dar el OK.
 - **Curaduría de datos contra el libro real cuando haga falta** (imágenes necesarias, subrayados, tablas faltantes): si hay escaneo disponible en `libro/`, verificar ahí antes de asumir un patrón por el enunciado o la tipología — el enunciado por sí solo no siempre predice si algo está subrayado o no en el libro impreso.
 
 ## Textos para alumnos (teoría, enunciados)
