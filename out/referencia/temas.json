@@ -175,6 +175,13 @@
   "ancla": "tampoco"
  },
  {
+  "slug": "a-personal",
+  "titulo": "veo a mi amigo",
+  "sub": "",
+  "punto": "a-personal",
+  "ancla": "a-before-a-person"
+ },
+ {
   "slug": "verbos-go",
   "titulo": "tengo, pongo, traigo",
   "sub": "",

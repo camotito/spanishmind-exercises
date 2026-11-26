@@ -75,6 +75,12 @@
     conectores-luego-tambien: luego
     bastante-tampoco-bien-mal: tampoco
   teoria: [ref-luego-tampoco]
+- slug: a-personal
+  titulo: "veo a mi amigo"
+  resumen: "Put <b>a</b> before a person who receives the action: <b>veo a mi amigo</b>."
+  puntos:
+    a-personal: a-before-a-person
+  teoria: [ref-a-personal]
 - slug: verbos-go
   titulo: "tengo, pongo, traigo"
   resumen: "Verbs that get a <b>g</b> when you talk about yourself."
